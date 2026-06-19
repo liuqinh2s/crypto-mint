@@ -1,0 +1,82 @@
+{
+  "token": "SYN",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T01:11:31.965Z",
+  "analysisStatus": "fallback",
+  "analysis": {
+    "token": "SYN",
+    "name": "未知项目",
+    "generatedAt": "2026-06-19T01:11:31.965Z",
+    "summary": "AI 分析暂时不可用，以下为基于公开数据的保守占位结论。建议等待完整模型分析后再做决策。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "等待更多消息确认",
+      "invalidation": "若成交量回落、消息无法验证或价格跌破启动位，应视为逻辑失效。"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "未匹配到可靠的 CoinGecko 项目资料。"
+    ],
+    "marketRead": [
+      "未匹配到 Binance 主流交易对。"
+    ],
+    "risks": [
+      "AI 分析失败或未配置 DeepSeek Key。",
+      "公开数据可能延迟或不完整。"
+    ],
+    "watchlist": [
+      "确认消息来源真实性。",
+      "观察成交量是否持续放大。",
+      "检查交易所公告、解锁和做市变化。"
+    ],
+    "sourceNotes": [
+      "DeepSeek error: fetch failed"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "SYNUSDT",
+        "error": "fetch failed"
+      },
+      {
+        "pair": "SYNFDUSD",
+        "error": "fetch failed"
+      },
+      {
+        "pair": "SYNUSDC",
+        "error": "fetch failed"
+      },
+      {
+        "pair": "SYNBTC",
+        "error": "fetch failed"
+      }
+    ]
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: fetch failed",
+    "Google News RSS: fetch failed",
+    "DeepSeek: fetch failed"
+  ]
+}

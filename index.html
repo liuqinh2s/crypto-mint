@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Crypto Mint</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <section class="workspace">
+        <div class="query-panel">
+          <div class="brand">
+            <span class="mark">CM</span>
+            <div>
+              <h1>Crypto Mint</h1>
+              <p>代币消息面分析台</p>
+            </div>
+          </div>
+
+          <form id="analysis-form" class="search-box">
+            <label for="token-input">代币符号</label>
+            <div class="input-row">
+              <input id="token-input" autocomplete="off" spellcheck="false" placeholder="SYN" maxlength="20" required>
+              <button type="submit">分析</button>
+            </div>
+            <div class="compact-row">
+              <label for="exchange-input">交易所</label>
+              <select id="exchange-input">
+                <option value="binance">Binance</option>
+                <option value="okx">OKX</option>
+                <option value="bybit">Bybit</option>
+                <option value="other">Other</option>
+              </select>
+            </div>
+          </form>
+
+          <details class="settings">
+            <summary>触发设置</summary>
+            <label for="owner-input">GitHub Owner</label>
+            <input id="owner-input" placeholder="liuqinh2s">
+            <label for="repo-input">Repository</label>
+            <input id="repo-input" placeholder="crypto-mint">
+            <label for="branch-input">Branch</label>
+            <input id="branch-input" placeholder="main">
+            <label for="github-token-input">GitHub Token</label>
+            <input id="github-token-input" type="password" placeholder="只保存在本机浏览器">
+            <button id="save-settings" type="button">保存设置</button>
+          </details>
+
+          <div class="status-card" id="status-card">
+            <span class="dot"></span>
+            <p id="status-text">输入代币后启动分析。</p>
+          </div>
+
+          <section class="history">
+            <div class="section-head">
+              <h2>最近结果</h2>
+              <button id="refresh-index" type="button" aria-label="刷新">刷新</button>
+            </div>
+            <div id="history-list" class="history-list"></div>
+          </section>
+        </div>
+
+        <article class="result-panel" id="result-panel">
+          <div class="empty-state">
+            <h2>等待选择</h2>
+            <p>结果会显示项目资料、上涨逻辑、评分、买入判断、预计空间、持仓周期和风险。</p>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <script src="assets/app.js" type="module"></script>
+  </body>
+</html>

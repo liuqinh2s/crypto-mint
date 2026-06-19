@@ -1,0 +1,13 @@
+{
+  "name": "crypto-mint",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "analyze": "node scripts/analyze-token.mjs",
+    "check": "node --check scripts/analyze-token.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
