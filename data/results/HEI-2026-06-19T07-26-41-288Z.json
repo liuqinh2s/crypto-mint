@@ -1,0 +1,218 @@
+{
+  "token": "HEI",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T07:26:41.288Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "HEI",
+    "name": "Heima",
+    "generatedAt": "2026-06-19T07:26:33.426Z",
+    "summary": "HEI 24小时暴涨49%，主要受社区投票销毁1650万枚代币提案的利好驱动。项目为跨链身份与互操作协议，获Binance Labs投资并上线Launchpool。当前市值约1252万美元，流通量9776万枚，全稀释估值1281万美元。短期涨幅较大，需警惕获利回吐和提案不确定性。",
+    "rating": {
+      "score": 55,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 20,
+      "holdingPeriod": "1-3天",
+      "invalidation": "销毁提案未通过或价格跌破0.10美元"
+    },
+    "catalysts": [
+      "社区投票销毁1650万枚HEI代币（占总供应量16.5%），若通过将大幅减少流通量",
+      "Binance Launchpool及Binance Labs投资背书",
+      "跨链身份与互操作赛道叙事"
+    ],
+    "latestNews": [
+      {
+        "title": "Heima Governance Proposal Targets Burn of 16.5 Million HEI Tokens",
+        "impact": "利好",
+        "reason": "销毁提案若通过将减少供应，提升稀缺性，直接推动价格上涨"
+      },
+      {
+        "title": "Heima's proposal to burn 16.5 million HEI tokens opens community voting, with the foundation voting in favor",
+        "impact": "利好",
+        "reason": "基金会投票支持，提案通过概率高，增强市场信心"
+      }
+    ],
+    "fundamentals": [
+      "项目定位：跨链身份与互操作协议，支持多链身份管理",
+      "投资背景：获Binance Labs（现YZi Labs）投资，并上线Binance Launchpool",
+      "代币经济：总供应量1亿枚，当前流通9776万枚，无锁仓释放压力（已全流通）",
+      "市值较小，约1252万美元，波动性大"
+    ],
+    "marketRead": [
+      "24小时涨幅49%，成交量5173万美元，换手率高达413%，显示资金博弈激烈",
+      "价格从ATH 1.25美元下跌近90%，当前处于低位反弹",
+      "无Binance实时K线数据，但CoinMarketCap显示价格波动剧烈"
+    ],
+    "risks": [
+      "销毁提案尚未通过，存在被否决风险",
+      "短期涨幅过大，获利盘抛压可能引发回调",
+      "项目基本面较弱，缺乏实际应用落地",
+      "市场情绪依赖单一事件，后续催化不足"
+    ],
+    "watchlist": [
+      "销毁提案投票结果（预计2026年6月初）",
+      "HEI价格能否站稳0.12美元支撑位",
+      "Binance是否发布相关公告或上架新交易对"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取实时交易数据，价格及成交量来自CoinMarketCap profile",
+      "新闻来源为Google News聚合，部分日期可能不准确",
+      "无项目白皮书或详细路线图，基本面信息有限"
+    ]
+  },
+  "profile": {
+    "id": "heima",
+    "symbol": "HEI",
+    "name": "Heima",
+    "categories": [
+      "BNB Chain Ecosystem",
+      "Binance Launchpool",
+      "Ethereum Ecosystem",
+      "YZi Labs (Prev. Binance Labs) Portfolio"
+    ],
+    "homepage": [
+      "https://www.heima.network/"
+    ],
+    "description": "",
+    "marketCapRank": 1038,
+    "currentPriceUsd": 0.126999,
+    "marketCapUsd": 12525619,
+    "fullyDilutedValuationUsd": 12812881,
+    "totalVolumeUsd": 51735160,
+    "priceChange24hPct": 49.22092,
+    "priceChange7dPct": 52.69438,
+    "priceChange14dPct": 33.10794,
+    "priceChange30dPct": 67.39411,
+    "athUsd": 1.25,
+    "athChangePct": -89.81148,
+    "circulatingSupply": 97758027,
+    "totalSupply": 100000000,
+    "maxSupply": 100000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 11363,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "HEIUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HEIUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HEIFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HEIFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HEIUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HEIUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HEIBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HEIBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Heima Governance Proposal Targets Burn of 16.5 Million HEI Tokens - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OVzBhazZiRDlFNHdXZGZyVTJfOWNSSEQ1bklEUkM2MnVSNFk5RVY1WjBRLXN5RzJ5cmZ5M2dqMGdtZkVlWmNDYWtjaGpZY0lfalY0VEpIMV9TQQ?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
+      "snippet": "Heima Governance Proposal Targets Burn of 16.5 Million HEI Tokens&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Heima price today, HEI to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLQkRmR2dNVWxJN3JIakdHaGtHRVdmNkpHUklOVFZHZ05DcnA2VWVHSnNjM0xiSy04Sll3NmoyakI2OXhteHRYZk9tXzZQVXhNNTVpNmxn?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 12 Feb 2025 11:07:58 GMT",
+      "snippet": "Heima price today, HEI to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Heima Price Today | HEI to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfdUVtOWV2ckh2ZVR4MFBpS3RXbzllQkE4R2VpWExLVnpxREtXanR0MjFUUUFiMDlNb1Z6SmRJOU1yNThDclNXRFRudmdac0k?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 13 Feb 2025 08:00:00 GMT",
+      "snippet": "Heima Price Today | HEI to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Heima Network Price | HEI Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBLV90TUlZYlBITXRkSzdoVHZ3U3VzU0t1dDVOcEF1TlVZT2FEM2NMVzVLYldWUGJxR1RFOXF2YUtjT2Y1U01aSm42cGJDOWpSZU1Z?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 13 Feb 2025 08:00:00 GMT",
+      "snippet": "Heima Network Price | HEI Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Heima (HEI) Coin Price Rockets 70% Amid Binance Support, What’s Next? - CoinGape",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdDBGUUY2R3ItT0xWM0dNSlB2dkptLTgyMUhHVHE1SUg2RldfR0Jyd09BUFBDTXdkSHJNaEZOWmFGUTZ2cXpONjJsUFRRNThIRGdlR1h5YmY3SG5zLXF0VW1uOVdHX1I4ZENrN3JuYU1ieF80TnJPczN3WTVCam5ZcWo2YWg3aXhyWksxOU1n?oc=5",
+      "source": "CoinGape",
+      "publishedAt": "Thu, 13 Feb 2025 08:00:00 GMT",
+      "snippet": "Heima (HEI) Coin Price Rockets 70% Amid Binance Support, What’s Next?&nbsp;&nbsp;CoinGape"
+    },
+    {
+      "title": "Heima Price USD, HEI Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4Z2tRUDhDYjZqbWhtTDhheEl5RGE1dS12MUhsa1o2cXo2M1BsNVVhZndUMDl2ZHJvcFlvZHVIQmJ5YWpEdmVxNG5n?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 27 Feb 2025 13:47:47 GMT",
+      "snippet": "Heima Price USD, HEI Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Heima (HEI): The Future of Cross-Chain Identity & Interoperability - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JVG1lenZZZmZxN1NNOTNDeUtSeFlJN0JiU2ttMXl5OUlsc3pIN1NqbDd5M1NhUmJUU2hIUlB3akp2SV8xVWdHQzlwLXc2RlI0djFCbUV4dFZMc01qWWc?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Sun, 23 Feb 2025 08:00:00 GMT",
+      "snippet": "Heima (HEI): The Future of Cross-Chain Identity & Interoperability&nbsp;&nbsp;Bybit Learn"
+    },
+    {
+      "title": "Surging 73%! Can Heima, which is listed on Binance, become the new king of cross-chain? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CZzZrZnM1NmFvblo2RmpDcEZuSGlJVWlGaHl1ZlNyNTV5M2VYMkx5TEhRUGdQUWlfYkVXTkltalpaWWVMb1NLYnJTZ0VoQjNFTl9ockRrb2pzWWdHVzNyMnVMWQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 13 Feb 2025 08:00:00 GMT",
+      "snippet": "Surging 73%! Can Heima, which is listed on Binance, become the new king of cross-chain?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Heima Network (HEI) Token Unlocks and Vesting: Schedule and Tokenomics - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEUXE5aVQzMmgtMTVvVXBiZk5vY1FmSU00VWZvUHJVdWhpMldNUG12Vnk3QUNfUHAyUlU0X0J4cmJhTDJuSVF1SFBnbC0zRkRRWTdSaVg1UlNseHVzVlE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 07 Apr 2025 17:19:09 GMT",
+      "snippet": "Heima Network (HEI) Token Unlocks and Vesting: Schedule and Tokenomics&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "HEI - Price, Charts & Blockchain Insights - Intellectia AI",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OTDhSMEJEVGNNaThGalg3Z0NsTFV5eHZSeTAyV3J1aGlFQmVWM25mRWI5bElYem4yTGF1TFBaalVQZk5HSG1pNQ?oc=5",
+      "source": "Intellectia AI",
+      "publishedAt": "Sun, 11 May 2025 00:32:17 GMT",
+      "snippet": "HEI - Price, Charts & Blockchain Insights&nbsp;&nbsp;Intellectia AI"
+    },
+    {
+      "title": "Heima's proposal to burn 16.5 million HEI tokens opens community voting, with the foundation voting in favor - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YdjZ5NVM2TUZjcE1tYWlTdndSZTNGdUhCQnhyc3c1TkNENDNfOGFHVHYwLWNrM3NmVU1UVE5tVmlfcTBqSmVrZE9XaUE0UmRFbkZNd05tblVXVngtdHlvQnE4aWXSAWpBVV95cUxQVmEtQ3RiVXFFdFFuUHdZd0tTSFJPMUFRNEVQVjVpdERZMTZwQUR0ZFZDT01CN1VpcXVRZlBDRHE5X3Ixd2Y2Q0tOMnEwTTdWck0xYmQycjgtcGVzMHlFNjdPdERQd3B4amJ3?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 29 May 2026 14:57:35 GMT",
+      "snippet": "Heima's proposal to burn 16.5 million HEI tokens opens community voting, with the foundation voting in favor&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Heima Price Today in India | HEI to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10WC1kLTBsNFFBUG5KVFh0R0hMZ2w2OWNLdzM2enQ0WHc0ZUp1ZHo3ZDRiaGlJcmxLOXVLWDVLWWFNOUlPcTZfblJvbXp4RXVYQWlv?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 13 Feb 2025 08:00:00 GMT",
+      "snippet": "Heima Price Today in India | HEI to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
