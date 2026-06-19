@@ -1,0 +1,229 @@
+{
+  "token": "JTO",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T01:49:56.734Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "JTO",
+    "name": "Jito",
+    "generatedAt": "2026-06-19T01:49:49.764Z",
+    "summary": "JTO近期因Jito生态扩展（JTX应用、交易所活动）和Solana生态热度上涨，但短期涨幅较大，需注意回调风险。",
+    "rating": {
+      "score": 55,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 15,
+      "holdingPeriod": "1-2周",
+      "invalidation": "跌破0.65美元或成交量萎缩"
+    },
+    "catalysts": [
+      "Jito推出JTX应用及交易所活动（Bitget、Binance等）",
+      "Solana生态整体回暖",
+      "Jito subDAO提案可能提升代币价值"
+    ],
+    "latestNews": [
+      {
+        "title": "Jito (JTO) Surges 5.23% on JTX App, Exchange Campaigns",
+        "impact": "利好",
+        "reason": "JTX应用和交易所活动直接推动买盘"
+      },
+      {
+        "title": "Jito (JTO) Spikes 40% on Bitget Campaign and Momentum",
+        "impact": "利好",
+        "reason": "Bitget活动带来短期资金流入"
+      },
+      {
+        "title": "JTO price breakout explained: Why Jito is pumping and what lies ahead",
+        "impact": "中性",
+        "reason": "技术分析解读，但未提供新催化剂"
+      }
+    ],
+    "fundamentals": [
+      "Jito是Solana生态主要MEV和流动性质押协议",
+      "JTO为治理代币，用于协议治理和费用分配",
+      "总供应量10亿，流通约4.85亿，流通率48.5%",
+      "市值约3.67亿美元，排名125"
+    ],
+    "marketRead": [
+      "24小时涨幅8.45%，7天涨幅41.5%，30天涨幅84.5%",
+      "成交量约7840万美元，换手率较高",
+      "价格接近0.76美元，距离ATH 6.01美元仍跌87%"
+    ],
+    "risks": [
+      "短期涨幅过大，存在获利回吐风险",
+      "市场情绪依赖Solana生态热度，若SOL回调可能拖累JTO",
+      "代币解锁压力：总供应量仍有约5.15亿未流通",
+      "新闻催化多为短期活动，持续性存疑"
+    ],
+    "watchlist": [
+      "JTX应用用户增长数据",
+      "Solana生态整体走势",
+      "JTO解锁时间表",
+      "交易所活动后续进展"
+    ],
+    "sourceNotes": [
+      "Binance行情数据因地区限制无法获取，价格数据来自CoinGecko",
+      "新闻来源为Google News聚合，部分为预测类文章"
+    ]
+  },
+  "profile": {
+    "id": "jito-governance-token",
+    "symbol": "JTO",
+    "name": "Jito",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "Solana Ecosystem",
+      "Liquid Staking Governance Tokens",
+      "Multicoin Capital Portfolio",
+      "Alameda Research Portfolio",
+      "Delphi Ventures Portfolio",
+      "Liquid Staking",
+      "Made in USA"
+    ],
+    "homepage": [
+      "https://www.jito.network/",
+      "https://www.jito.network/blog/announcing-jto-the-jito-governance-token/",
+      "http://jtx.trade/"
+    ],
+    "description": "JTO is the governance token of the Jito Network. Jito Network is a major contributor to the Solana ecosystem through its JitoSOL liquid staking pool, and its collection of MEV products. Users can exchange their SOL for JitoSOL. In return, holders maintain SOL’s liquidity and DeFi opportunities while earning yield from staking. JitoSOL uniquely provides its holders with additional rewards from transaction revenue associated with MEV extraction on Solana. Maximum extractable value (MEV) describes profit opportunities attributable to the specific order of transaction execution. For example, a large swap on Orca can lower the pool’s price below that of Raydium or Serum. Traders will race to profit from that price difference and this arbitrage is considered MEV. The Jito Foundation was created to minimize the negative impacts of MEV, equitably distribute the profits and increase transparency. Jito published an open source validator client designed to create a competitive market for MEV extraction. The client enables auctions within each block for the opportunity to capture that block’s MEV. Traders submit bids, and the highest bidders within each block can harvest available MEV.",
+    "marketCapRank": 125,
+    "currentPriceUsd": 0.756642,
+    "marketCapUsd": 366833704,
+    "fullyDilutedValuationUsd": 756657752,
+    "totalVolumeUsd": 78407727,
+    "priceChange24hPct": 8.45272,
+    "priceChange7dPct": 41.53754,
+    "priceChange14dPct": 33.16867,
+    "priceChange30dPct": 84.49923,
+    "athUsd": 6.01,
+    "athChangePct": -87.42338,
+    "circulatingSupply": 484807963.4,
+    "totalSupply": 1000000000,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 66.67,
+    "watchlistUsers": 36691,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "JTOUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=JTOUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "JTOFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=JTOFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "JTOUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=JTOUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "JTOBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=JTOBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Jito Price Prediction: Is JTO a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJQmhwXy00MHRRTTkzR3NsRmpQSG5HcUpnX2V2Uk1Uc3pnZE1UZU9YVHNzUk9ZVllsc2g5SnZnbGRXMjhsUGJNOXBLLVJaMmh2bzRoOWwtWmYxNy13aTk1TTNJZXFmRW5qbXFtMkFiWTVLN2FfYTVZbW1jWGl5QQ?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Tue, 16 Jun 2026 12:53:08 GMT",
+      "snippet": "Jito Price Prediction: Is JTO a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Jito (JTO) Price Surges After Key Breakout: Can Bulls Sustain the Momentum? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTM5U21BQzBnRDM0MnpuTjk3aGZISV9TT0tKSExyd0pXTFJNMFREaW81Q1dLc1NkbXVoRUpVSDljY1psLW96VHU5aUJMMnVIUkZCeE9qV09fVGZuZjdTSlMwNEZlYk9YYlhVa3lJTlZFRE1HZWo2WUQyZnV1SnltWmlEQ2Z4OUhiYnpQbHVyNVNPN2tBZXo3RWJBazlGUXAzVGZ3WUFNNzd2Q2hBaFHSAbMBQVVfeXFMUGhqZDMwNHhqV0cyZ1FoaXFDaXJ1Z2lwYWtjOVBMY0xLc1ZMVTJyYkhkN2RFQy1rbkFlR3h2Q0JLalJBLW9mcFVkcTlIQVlHM0o0SndOdDluMUFRSjIyalp5RVI0OUpWeUcxVklSc0cwZHJ2eUpaRXBOSUlkRjFKMDNRSmU4YnpyU3MzZXM0cVI5REJuUXNIVS13ZWpLbFdSclQweWpVUUdkbEtfMEl2ck1tQXc?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Tue, 16 Jun 2026 06:43:00 GMT",
+      "snippet": "Jito (JTO) Price Surges After Key Breakout: Can Bulls Sustain the Momentum?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "JTO price breakout explained: Why Jito is pumping and what lies ahead - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXdfY2lBbzJYci02WnY1NzcxQ0U5VncwNW94bjA5LWxuWWYxZXVYY0V5UlFZVjNJVnNBdzZfSGtfaWRRc2ZxYUJ0SDJVUk9VVFZ3eVRETEtYblc2ckM4aF9Ka3hmODBDN1dhNUFldHN6anNwRDhwSi16bTU4Mm5OZG5YVjFzZG84bzR6eFBkX2k0Y0lMTG1SdllOOE9hVzRhdHk4WEZxUUZsTlBZY2tSNGxvX3VZXzVYQTVUQ05ydE1hcm8?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 16 Jun 2026 14:37:14 GMT",
+      "snippet": "JTO price breakout explained: Why Jito is pumping and what lies ahead&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Jito (JTO) Surges 5.23% on JTX App, Exchange Campaigns - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UcTU5NWhEMGxsR0tYdkhaYUUycm1ZY3FNQkdSUTZMeVVLd0s0aXlhYTZHbV9kdFJGNGphN3hvNnhvVUl6TEtPcUItOEwySlY3ZU53dWcyNHJDN0RLM2EyeDJmWDBNczB5Y0h1SlVndVY?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 16 Jun 2026 15:06:00 GMT",
+      "snippet": "Jito (JTO) Surges 5.23% on JTX App, Exchange Campaigns&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Jito Token Price Surges 30%: Should You Buy or Wait for a Pullback? - BanklessTimes",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHFVbC1lSEplZFhoT18xZDlJTzNFazdpMS01QXhHcW8zZmlPVl9JaWxWcjFxalNLUlBTaDM5aEVQOHE2bWhWcy1Sa3ZwNVotNWoyREYwUmExZ3JTVnZ1MFpMcGpKMlNyTGdSdndkcHEtQ0JRdmQxUDR5RE1TbWowWkVrbE1taFRyM3RodXVDSXZtT0FqVVBKc0t6STBlaGlwZ0JfUk9peUN4dlhaNEZRMjg3eW9Sdw?oc=5",
+      "source": "BanklessTimes",
+      "publishedAt": "Tue, 16 Jun 2026 04:54:37 GMT",
+      "snippet": "Jito Token Price Surges 30%: Should You Buy or Wait for a Pullback?&nbsp;&nbsp;BanklessTimes"
+    },
+    {
+      "title": "Jito - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE0wWk1zS1dRVDh5NWZtTXBLNTg4WEoyYnpTV1dIdXFid1RFY05paGxWSW1pck1sQ0Q2S0xOWjZ1VQ?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
+      "snippet": "Jito&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Jito (JTO) Spikes 40% on Bitget Campaign and Momentum - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNOXBlSlJHRjM0VlpXcEVjWWF1WW9Oa05kLUhyZFRreDBiT2N1cUtmX3dDVXdyME5hbU1pMTByOWRGeHVOc1lubG5LYVAyVVI5WXhiZVpObW9JWWRWVDVTTmZRSGIxTnN0a2U3WVFJNno?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 15 Jun 2026 15:05:00 GMT",
+      "snippet": "Jito (JTO) Spikes 40% on Bitget Campaign and Momentum&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Jito Price Today | JTO to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6YUt3REJPY0s0TVlYRjM0UGRpUnE2ZE41bjJUemVDczl1NzQwRE1FbGZfQWFwRmJ1NzBaOEQtaG9rVm0zdXBMZ2o5ZmJ5RW05M2c?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 06 Jun 2026 13:08:00 GMT",
+      "snippet": "Jito Price Today | JTO to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "JTO Price Jumps 18% as Jito Economy Narrative Gains Momentum - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR1djNzR0ZXB4YnZSX2lhUW5Gd2h1eTVyZFczdVM2SFNtYUREdTZqU25nQ1U1RDBzbWhJQmFZUUk1R3k0RkhCVl9TX2Qxb0tseUJWd00yZ3hyVkJ5Rml2ekxsbVV6dTdrYnE2UmdoQWZlVkZ6dXZmTlZrR2hmcWw3Q1UzMEREbVRrR3pxbEkzWnFRZjB4TXdCUWpCRmgxaU91SDRhYnBpdEQ0dmNmNG5jei1wQzBnVnUzdnpJ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Mon, 01 Jun 2026 17:39:45 GMT",
+      "snippet": "JTO Price Jumps 18% as Jito Economy Narrative Gains Momentum&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Solana DeFi app Jito poised to boost value of token with subDAO - dlnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGNGSlNhc183c25CeFQ2S3ItdGo1cE9QVEY0cG1rdVphbUc2QlhSbnRYS1pXSS1falltSEtnMVp5VjJPYUYxMFoyUTRwUkptbVJTSjNTODlTTm1JNm9Fc2YtRWNid2YwZmdLS19ZRWthNmJTMmZ5Q0ktS29TSTVERExKSVlSX2Z5VzFTWTlidk80V29kc3dJY1p5QlYtelRZRkVNZGp3TzBKV0FxR3FxbmhkcktSd3dX?oc=5",
+      "source": "dlnews.com",
+      "publishedAt": "Mon, 14 Jul 2025 07:00:00 GMT",
+      "snippet": "Solana DeFi app Jito poised to boost value of token with subDAO&nbsp;&nbsp;dlnews.com"
+    },
+    {
+      "title": "Jito (JTO) surges to $0.68 intraday highs: can bulls push toward $1? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcU9lQnUyc1VHTUFPQzNoYUFNQlFlWnpIUTl5WVBvUkRtODRjVmQ1OXh2QkI1cThEZHVmRENKVXJmRWUwdlpwSVRHMHdRNGo5M1lyc1N0a1JEQkdaaUtubERjOFdpMVpCTm55ZUpHdFJaQzhGQV85YlIwM09lVXJpTi1vWlRfVENLVjgtYzA4MXg2X0VhaWYtbkVFQjE5U1Z3c054NzE0dEQ4QUhReWNnX2hmMUU1NjdYSVpF?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 08 May 2026 07:00:00 GMT",
+      "snippet": "Jito (JTO) surges to $0.68 intraday highs: can bulls push toward $1?&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Jito (JTO) Price Prediction 2026, 2027-2030 and Beyond - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSX3BaanVXSUtkT2lPdWY3dnFJUGl2XzR6VkEwNmR0Z29sMGM5MlllQS1tcG1SOS1KdmI3Vk5qUWJ2VEJXTHRsc0Qwc0VXVkt2M1dVTEpYVkNsUVB3QjNwWm1TYmJzQ3JHa25uNC1LaXB5RW8?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Sat, 09 May 2026 10:05:07 GMT",
+      "snippet": "Jito (JTO) Price Prediction 2026, 2027-2030 and Beyond&nbsp;&nbsp;CoinDCX"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
