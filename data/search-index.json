@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-19T07:38:59.624Z",
+  "updatedAt": "2026-06-19T07:44:05.267Z",
   "results": [
+    {
+      "token": "MET",
+      "name": "Meteora",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-19T07:44:05.265Z",
+      "latestPath": "data/results/MET-latest.json"
+    },
     {
       "token": "SENT",
       "name": "Sentient",

@@ -1,0 +1,227 @@
+{
+  "token": "MET",
+  "exchange": "other",
+  "generatedAt": "2026-06-19T07:44:05.265Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MET",
+    "name": "Meteora",
+    "generatedAt": "2026-06-19T07:43:56.562Z",
+    "summary": "MET近24小时上涨14%，7日涨幅24.5%，市值约6865万美元。近期催化包括币安Alpha Spotlight、10M美元回购计划、以及被低估对比UNI的讨论。但代币上线仅数月，ATH跌幅超81%，且空投丑闻和特朗普家族关联带来不确定性。建议观望，等待更明确的催化剂和流动性改善。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若价格跌破0.10美元或出现重大负面新闻（如团队抛售、监管打击），则逻辑失效。"
+    },
+    "catalysts": [
+      "币安Alpha Spotlight listing（2025年11月）",
+      "Meteora宣布1000万美元代币回购计划（2025年12月）",
+      "被CryptoRank认为相比UNI被低估",
+      "Solana生态DEX和Launchpad概念热度"
+    ],
+    "latestNews": [
+      {
+        "title": "Meteora’s Bold $10M Token Buyback: A Masterstroke for MET’s Future?",
+        "impact": "利好",
+        "reason": "回购减少流通供应，提振市场信心。"
+      },
+      {
+        "title": "Meteora’s 30% break out considered undervalued compared to UNI",
+        "impact": "利好",
+        "reason": "分析师对比UNI估值，认为MET有上涨空间。"
+      },
+      {
+        "title": "Meteora(MET) Price Forecast for 2025-2030: Trump Family Ties, Airdrop Scandal",
+        "impact": "利空",
+        "reason": "提及特朗普家族关联和空投丑闻，增加监管和声誉风险。"
+      }
+    ],
+    "fundamentals": [
+      "Meteora是Solana上的DEX和Launchpad，提供动态流动性解决方案。",
+      "代币MET用于治理、质押和费用分享。",
+      "总供应量10亿，流通约5.3亿，FDV约1.29亿美元。",
+      "项目于2025年10月TGE，上线币安等CEX。"
+    ],
+    "marketRead": [
+      "24小时涨幅14%，成交量4217万美元，换手率较高，显示短期资金活跃。",
+      "价格仍较ATH下跌81%，处于低位，但近期有反弹迹象。",
+      "Binance数据因地域限制无法获取，但整体市场情绪偏正面。"
+    ],
+    "risks": [
+      "代币上线时间短，价格波动大，ATH跌幅深。",
+      "空投丑闻和特朗普家族关联可能引发监管关注。",
+      "流动性可能不足，尤其是Binance受限地区。",
+      "回购计划执行效果未知，市场可能已部分定价。"
+    ],
+    "watchlist": [
+      "回购计划实际执行进度和金额。",
+      "Binance等CEX的流动性变化。",
+      "项目方或团队钱包动向。",
+      "Solana生态整体表现。"
+    ],
+    "sourceNotes": [
+      "数据来自CoinMarketCap和新闻聚合，Binance行情因地域限制无法获取。",
+      "新闻日期集中在2025年10-12月，距今已超过6个月，时效性较低。",
+      "部分新闻来源为加密媒体，需注意信息可靠性。"
+    ]
+  },
+  "profile": {
+    "id": "meteora",
+    "symbol": "MET",
+    "name": "Meteora",
+    "categories": [
+      "Decentralized Exchange (DEX)",
+      "Exchange-based Tokens",
+      "Decentralized Finance (DeFi)",
+      "Solana Ecosystem",
+      "Launchpad",
+      "Binance Alpha Spotlight"
+    ],
+    "homepage": [
+      "https://www.meteora.ag/"
+    ],
+    "description": "",
+    "marketCapRank": 360,
+    "currentPriceUsd": 0.129343,
+    "marketCapUsd": 68653924,
+    "fullyDilutedValuationUsd": 129283468,
+    "totalVolumeUsd": 42175430,
+    "priceChange24hPct": 14.20857,
+    "priceChange7dPct": 24.52225,
+    "priceChange14dPct": 13.77936,
+    "priceChange30dPct": -9.90243,
+    "athUsd": 0.686913,
+    "athChangePct": -81.1272,
+    "circulatingSupply": 529830808.945158,
+    "totalSupply": 997734157.48552,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 33.33,
+    "watchlistUsers": 5713,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "METUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=METUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "METFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=METFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "METUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=METUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "METBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=METBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Meteora price today, MET to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNOHhPbUF1QWNmaV8yR292cC1PcWJvdi1fcWlRUWJBd2FrTmpuazdjQWt3Q1N4N2twcDFpeXJLMkZQTGhhY0psWVdxZG9qSmJxX29xdzF5TDc?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 11 Sep 2025 02:41:27 GMT",
+      "snippet": "Meteora price today, MET to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Meteora’s TGE: What is fair value for MET? - Blockworks",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBabkZ0YjRIT3AxUUxLMkNfREdzcGtkNHVXbmFaRk1ZN0pncGdhbTZqWUxkWHJ3OVpIcmNNbXlkYjN1Zjh2S09vZVBVbENmZUdC?oc=5",
+      "source": "Blockworks",
+      "publishedAt": "Tue, 21 Oct 2025 07:00:00 GMT",
+      "snippet": "Meteora’s TGE: What is fair value for MET?&nbsp;&nbsp;Blockworks"
+    },
+    {
+      "title": "Meteora(MET) Price Forecast for 2025-2030: Trump Family Ties, Airdrop Scandal - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaVJJN2drOVVRVTlOdjlQN3AxMFJESmFJREU0LVJ3d2V0N2Zqc2FqSjRNcXhfa2ZIODFSU214ZmFta2NXdl84eTY5NVItZUw1d3o2dkd6aHZWTlM4cGV1czJDdGRqRHFXb1RYSnBnX2pxczF4dzREYVM3OGdLZ1lLSDF5VVdlQU4zSDZUVnE0b19rOTFqYmtiZ0t4MNIBoAFBVV95cUxNbV9icW92dlVoYTJYTEVwUFpCUFhCak5xY2JjZC1faFMwWVVBd1pDUDRSdGIzbXpLUnZwWjhzVksweDRGNm8xTnhxSC13bnNKaXBWclFkY3RUNFZpWU1pTEdBTHpCclZER29aUnRQMVJkUHJqVElWMjVWZ3hhZTduQ2tJOWszaFlwSUpGSjk4cUJYbTNSemNXM2dLRDZHdVZu?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "snippet": "Meteora(MET) Price Forecast for 2025-2030: Trump Family Ties, Airdrop Scandal&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Meteora’s 30% break out considered undervalued compared to UNI - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DOEpGQTFVeUs3OFp3MkJ2b1NoUEpCZVRESTlHcF9sTHdUVHN4d09ZRFFFUGNmb3Y3RWE0V25JWk5MUFhCbXR3SDBGQnlPXzNmUGNpcmhobHNtRXR6d2w5bTU3YTRobW9CeDhfVkRiamV6bmI4QjN0a1dIRzE0dw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 12 Nov 2025 08:00:00 GMT",
+      "snippet": "Meteora’s 30% break out considered undervalued compared to UNI&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Meteora Trades at $1 Billion Pre-Market Valuation Ahead of TGE - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa3FiSEpFblRyejYxNVIwM2FDZnFqbExMcHR5UmZEOV84ZHNjUFRCYk5nc2dyV3B0VDVpa2tCRzY4RlFpODIzVG5ZRmRfSnpWVzJ4S0FNMXhRZm1IZ2lsS2lEcTdOTlFFcWUzanFOREtaSW1JdjlsUzVoMzJwazAwRXNJbktsYUdlT0lZUV9jQ0dab0dzbDJnWW83M2U?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Mon, 20 Oct 2025 07:00:00 GMT",
+      "snippet": "Meteora Trades at $1 Billion Pre-Market Valuation Ahead of TGE&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "The Complete Breakdown of the Meteora (MET) Airdrop - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2OGRKZWFTSEZFOVB1WnF4bnJKNDQxQ0QtdnFEY2dHaVdsSU1rWjRBYjh3V0J5dEZBZG44RFNPLXZNNlNqMEs5eVltVUZrWnNLdk94a09VRy15UTR0TEU3dEpuRW1GRVBHclJjU055d1J5WXFk?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "snippet": "The Complete Breakdown of the Meteora (MET) Airdrop&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "What Is Meteora (MET)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nQzdZam9iZmt2QjRXT2hsYjVYUDdVWFU1eC1kX0hWa1hZUUd4cEVTOTZJZ2RQR0N6SXZlSTFEcFdkTjFBenhyN2RFS3lzR09yX3VTckdRZUNCeVFNcTZrZXJ4d0pLTFY3QjZXZzRLRk4?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "snippet": "What Is Meteora (MET)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Meteora (MET) - Launch & CEX Listings - 23 Oct 2025 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnEtdU9lXzRLZHZneW9qa1JJdEJUa2hWcW1TVjFxU2l0YUtqQ1N4WWJ1MHo3bThpbjZqSWhBbDVKak04YW45TU9rQWExU09aaWI0REVLUFBKVDFSRFdtem0zazJkekd5RTc2YVNBTXgyeFJvbzVsZ21sY0hDWWUzNDlBNW1FNGZEQmVFTlRJMGdJeHVldldERk1pLWdHWkRxeGs0SFN4VXZabkE?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "snippet": "Meteora (MET) - Launch & CEX Listings - 23 Oct 2025&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Meteora Price, MET Price, Live Charts, and Marketcap: meteora price - Coinbase Canada - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaZkFDN1F0c0N4ekpwem1oU3FISkdEYkE5NTlKai1GQ0RYakNnUjhCdi1ubG9zRGFhM1h2a3ZRNHk3OGVoNG5wVGFyWUdOTVI2SE5LOTNwTQ?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Wed, 22 Oct 2025 20:39:29 GMT",
+      "snippet": "Meteora Price, MET Price, Live Charts, and Marketcap: meteora price - Coinbase Canada&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Meteora MET Price: Key Insights, Token Launch Details, and Future Potential - OKX",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54QXUxS0pZYlFkcnQwOG1vQ09SUWVCcF96RUlQNjg2TjFmZXFEaUVFMlJ1VUZaZzFaRUw0RnNEd253aFZMN3cxUHVjQjhIakhlVExhQVNKUHNCcmlWNEFGSUxPZHVIMmFCcVJnQWdoYnlDUTA?oc=5",
+      "source": "OKX",
+      "publishedAt": "Wed, 01 Oct 2025 07:00:00 GMT",
+      "snippet": "Meteora MET Price: Key Insights, Token Launch Details, and Future Potential&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Unlock Solana’s Potential with Meteora’s Dynamic Liquidity Magic - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtdUk4c0NtTFdqT3BUZE5VbGcwMnc4RkU2ZmVaWFFYZW52bWFEQ3Q4aEE2WmZiVWtGaHVaVks5ZFpZTDhteURHVWxYcXFmd3RiLVpHaU1BdXJHQmJvajZoWVRQRXZvMEt4Ym9QSzBlZVJxajRwSTJFVw?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "snippet": "Unlock Solana’s Potential with Meteora’s Dynamic Liquidity Magic&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Meteora’s Bold $10M Token Buyback: A Masterstroke for MET’s Future? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13dFlKN2o1RGVIdG5MNFl2WjVEZ1ZQamJoNW5xSDRkc3RkSW9oMldPcHRJTGg4UndDaldpbHNiLWFlYXRUZFg0cjE2V3BWRWgzLTJBNEY2MWxmbXlUTlRPUnJOTUt5TjY1RWRzY3dveWV3MWVERUYw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "snippet": "Meteora’s Bold $10M Token Buyback: A Masterstroke for MET’s Future?&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
