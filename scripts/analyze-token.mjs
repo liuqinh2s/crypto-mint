@@ -3,6 +3,7 @@ import path from "node:path";
 
 const tokenArg = process.argv[2];
 const exchangeArg = process.argv[3] || "binance";
+const DEFAULT_BATCH_CONCURRENCY = 4;
 
 const ROOT = process.cwd();
 const RESULTS_DIR = path.join(ROOT, "data", "results");
@@ -24,6 +25,19 @@ function normalizeSymbol(value) {
     .replace(/^\$/, "")
     .toUpperCase()
     .replace(/[^A-Z0-9]/g, "");
+}
+
+function parseSymbols(value) {
+  return [...new Set(String(value || "")
+    .split(/[\s,;，；、]+/)
+    .map(normalizeSymbol)
+    .filter(Boolean))];
+}
+
+function getBatchConcurrency() {
+  const value = Number(process.env.BATCH_CONCURRENCY || DEFAULT_BATCH_CONCURRENCY);
+  if (!Number.isFinite(value)) return DEFAULT_BATCH_CONCURRENCY;
+  return Math.max(1, Math.min(12, Math.floor(value)));
 }
 
 function slug(value) {
@@ -352,7 +366,7 @@ async function readIndex() {
   }
 }
 
-async function writeResult(symbol, result) {
+async function writeResultFiles(symbol, result) {
   const latestName = `${symbol}-latest.json`;
   const timestampName = `${symbol}-${new Date().toISOString().replace(/[:.]/g, "-")}.json`;
   const latestPath = path.join(RESULTS_DIR, latestName);
@@ -361,22 +375,26 @@ async function writeResult(symbol, result) {
   const json = JSON.stringify(result, null, 2);
   await fs.writeFile(latestPath, `${json}\n`);
   await fs.writeFile(timestampPath, `${json}\n`);
+}
 
+async function updateIndex(results) {
   const index = await readIndex();
-  const withoutCurrent = (index.results || []).filter((item) => item.token !== symbol);
-  const nextItem = {
-    token: symbol,
-    name: result.analysis?.name || result.profile?.name || symbol,
+  const resultList = Array.isArray(results) ? results : [results];
+  const nextItems = resultList.map((result) => ({
+    token: result.token,
+    name: result.analysis?.name || result.profile?.name || result.token,
     score: result.analysis?.rating?.score ?? null,
     label: result.analysis?.rating?.label || "未知",
     action: result.analysis?.recommendation?.action || "未知",
     generatedAt: result.generatedAt,
-    latestPath: `data/results/${latestName}`
-  };
+    latestPath: `data/results/${result.token}-latest.json`
+  }));
+  const currentTokens = new Set(nextItems.map((item) => item.token));
+  const withoutCurrent = (index.results || []).filter((item) => !currentTokens.has(item.token));
 
   const next = {
     updatedAt: nowIso(),
-    results: [nextItem, ...withoutCurrent].slice(0, 100)
+    results: [...nextItems, ...withoutCurrent].slice(0, 100)
   };
 
   await fs.writeFile(INDEX_FILE, `${JSON.stringify(next, null, 2)}\n`);
@@ -393,15 +411,7 @@ async function writeRequest(symbol, exchange) {
   await fs.writeFile(file, `${JSON.stringify(record, null, 2)}\n`);
 }
 
-async function main() {
-  const symbol = normalizeSymbol(tokenArg);
-  const exchange = exchangeArg.trim().toLowerCase();
-
-  if (!symbol) {
-    throw new Error("Usage: node scripts/analyze-token.mjs TOKEN [exchange]");
-  }
-
-  await ensureDirs();
+async function analyzeOne(symbol, exchange) {
   await writeRequest(symbol, exchange);
 
   const errors = [];
@@ -446,8 +456,45 @@ async function main() {
     errors
   };
 
-  await writeResult(symbol, result);
+  await writeResultFiles(symbol, result);
   console.log(`Wrote analysis for ${symbol} with status ${analysisStatus}.`);
+  return result;
+}
+
+async function mapLimit(items, limit, worker) {
+  const results = new Array(items.length);
+  let nextIndex = 0;
+
+  async function runWorker() {
+    while (nextIndex < items.length) {
+      const currentIndex = nextIndex;
+      nextIndex += 1;
+      results[currentIndex] = await worker(items[currentIndex], currentIndex);
+    }
+  }
+
+  await Promise.all(
+    Array.from({ length: Math.min(limit, items.length) }, () => runWorker())
+  );
+
+  return results;
+}
+
+async function main() {
+  const symbols = parseSymbols(tokenArg);
+  const exchange = exchangeArg.trim().toLowerCase();
+
+  if (!symbols.length) {
+    throw new Error("Usage: node scripts/analyze-token.mjs TOKEN[,TOKEN...] [exchange]");
+  }
+
+  await ensureDirs();
+
+  const concurrency = getBatchConcurrency();
+  console.log(`Analyzing ${symbols.length} token(s) with concurrency ${concurrency}: ${symbols.join(", ")}`);
+  const results = await mapLimit(symbols, concurrency, (symbol) => analyzeOne(symbol, exchange));
+  await updateIndex(results);
+  console.log(`Updated index for ${results.length} token(s).`);
 }
 
 main().catch((error) => {

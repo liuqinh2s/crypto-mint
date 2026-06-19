@@ -65,6 +65,13 @@ function normalizeToken(value) {
     .replace(/[^A-Z0-9]/g, "");
 }
 
+function parseTokens(value) {
+  return [...new Set(String(value || "")
+    .split(/[\s,;，；、]+/)
+    .map(normalizeToken)
+    .filter(Boolean))];
+}
+
 function fmtNumber(value, digits = 2) {
   if (value === null || value === undefined || Number.isNaN(Number(value))) return "未知";
   return Number(value).toLocaleString("zh-CN", { maximumFractionDigits: digits });
@@ -209,12 +216,14 @@ async function loadResult(path) {
   return result;
 }
 
-async function dispatchWorkflow(symbol, exchange) {
+async function dispatchWorkflow(symbols, exchange) {
   const settings = getSettings();
   if (!settings.githubToken) {
     throw new Error("请先在触发设置里保存 GitHub Token。");
   }
 
+  const tokens = Array.isArray(symbols) ? symbols : [symbols];
+  const tokenInputValue = tokens.join(",");
   const url = `https://api.github.com/repos/${settings.owner}/${settings.repo}/actions/workflows/${WORKFLOW_FILE}/dispatches`;
   const response = await fetch(url, {
     method: "POST",
@@ -225,7 +234,7 @@ async function dispatchWorkflow(symbol, exchange) {
     },
     body: JSON.stringify({
       ref: settings.branch,
-      inputs: { token: symbol, exchange }
+      inputs: { token: tokenInputValue, exchange }
     })
   });
 
@@ -235,44 +244,72 @@ async function dispatchWorkflow(symbol, exchange) {
   }
 }
 
-function startPolling(symbol) {
-  const path = `data/results/${symbol}-latest.json`;
+function startPolling(symbols) {
+  const tokens = Array.isArray(symbols) ? symbols : [symbols];
+  const pending = new Set(tokens);
   let attempts = 0;
   clearInterval(pollTimer);
 
   pollTimer = setInterval(async () => {
     attempts += 1;
-    try {
-      await loadResult(path);
-      await loadIndex();
-      clearInterval(pollTimer);
-    } catch {
-      setStatus(`分析已启动，等待结果生成中... ${attempts * 15}s`, "working");
-      if (attempts >= 32) {
-        clearInterval(pollTimer);
-        setStatus("分析仍在运行或提交结果较慢，请稍后刷新。", "working");
+    let latestLoaded = null;
+
+    await Promise.all(tokens.map(async (symbol) => {
+      if (!pending.has(symbol)) return;
+
+      try {
+        const result = await loadResult(`data/results/${symbol}-latest.json`);
+        pending.delete(symbol);
+        latestLoaded = result;
+      } catch {
+        // Result is not published yet.
       }
+    }));
+
+    try {
+      await loadIndex();
+    } catch {
+      // Keep polling individual result files even if the index has not deployed yet.
+    }
+
+    if (!pending.size) {
+      clearInterval(pollTimer);
+      const loadedToken = latestLoaded?.token || tokens.at(-1);
+      setStatus(`${tokens.length} 个代币分析完成，已加载 ${loadedToken}。`, "ready");
+      return;
+    }
+
+    setStatus(`分析已启动，等待结果生成中... 已完成 ${tokens.length - pending.size}/${tokens.length}，${attempts * 15}s`, "working");
+    if (attempts >= 32) {
+      clearInterval(pollTimer);
+      setStatus(`分析仍在运行或提交较慢，已完成 ${tokens.length - pending.size}/${tokens.length}，请稍后刷新。`, "working");
     }
   }, 15000);
 }
 
 form.addEventListener("submit", async (event) => {
   event.preventDefault();
-  const symbol = normalizeToken(tokenInput.value);
+  const symbols = parseTokens(tokenInput.value);
   const exchange = exchangeInput.value;
 
-  if (!symbol) {
+  if (!symbols.length) {
     setStatus("请输入有效的代币符号。", "error");
     return;
   }
 
-  tokenInput.value = symbol;
-  setStatus(`正在触发 ${symbol} 分析...`, "working");
+  if (symbols.length > 50) {
+    setStatus("一次最多提交 50 个代币。", "error");
+    return;
+  }
+
+  tokenInput.value = symbols.join(", ");
+  setStatus(`正在触发 ${symbols.length} 个代币分析...`, "working");
 
   try {
-    await dispatchWorkflow(symbol, exchange);
-    setStatus(`${symbol} 分析已启动，通常需要 1-3 分钟。`, "working");
-    startPolling(symbol);
+    await dispatchWorkflow(symbols, exchange);
+    const estimate = symbols.length === 1 ? "通常需要 1-3 分钟。" : "会按并发队列处理，36 个代币可能需要十几分钟。";
+    setStatus(`${symbols.length} 个代币分析已启动，${estimate}`, "working");
+    startPolling(symbols);
   } catch (error) {
     setStatus(error.message, "error");
   }

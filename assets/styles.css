@@ -28,6 +28,7 @@ body {
 
 button,
 input,
+textarea,
 select {
   font: inherit;
 }
@@ -122,6 +123,7 @@ label {
 }
 
 input,
+textarea,
 select {
   width: 100%;
   min-height: 42px;
@@ -134,9 +136,18 @@ select {
 }
 
 input:focus,
+textarea:focus,
 select:focus {
   border-color: var(--accent);
   box-shadow: 0 0 0 3px rgba(15, 138, 95, 0.14);
+}
+
+textarea {
+  min-height: 84px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  resize: vertical;
+  line-height: 1.45;
 }
 
 .input-row button,
