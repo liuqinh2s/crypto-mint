@@ -1,0 +1,226 @@
+{
+  "token": "TAC",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T03:11:40.623Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TAC",
+    "name": "TAC",
+    "generatedAt": "2026-06-19T03:11:29.395Z",
+    "summary": "TAC近期因主网上线、TVL增长及Binance Alpha/Futures上线等利好，7日涨幅达39.5%。但5月曾发生280万美元桥接攻击，存在安全隐忧。当前市值约1.08亿美元，流通量46.5亿，全稀释估值2.33亿。短期情绪偏多，但需警惕解锁风险及黑客事件后续影响。",
+    "rating": {
+      "score": 55,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsetPct": 20,
+      "holdingPeriod": "1-2周",
+      "invalidation": "跌破0.020美元支撑位或出现新的安全漏洞"
+    },
+    "catalysts": [
+      "TAC主网于2025年7月上线，TVL快速增长",
+      "Binance Alpha和Binance Futures于2025年7月上线TAC，增加流动性",
+      "TON生态DeFi概念热度持续",
+      "近期价格突破前高0.028美元附近，技术面偏强"
+    ],
+    "latestNews": [
+      {
+        "title": "Hackers Drain $2.8M From TAC Protocol Bridge: TON's DeFi Gateway Under Fire",
+        "impact": "利空",
+        "reason": "2026年5月17日发生桥接攻击，损失280万美元，损害项目信誉，可能引发用户信任危机"
+      },
+      {
+        "title": "$TAC Token Debuts in TVL as TAC Mainnet Goes Live with Leading DeFi Protocols",
+        "impact": "利好",
+        "reason": "主网上线和TVL增长表明项目进展顺利，吸引资金流入"
+      },
+      {
+        "title": "TAC (TAC) Will Be Available on Binance Alpha and Binance Futures (2025-07-15)",
+        "impact": "利好",
+        "reason": "上线Binance Alpha和Futures提升流动性和曝光度，推动价格上涨"
+      }
+    ],
+    "fundamentals": [
+      "TAC是TON生态的DeFi基础设施，旨在为Telegram用户提供DeFi服务",
+      "总供应量约100.3亿，流通量46.5亿，流通率46.4%",
+      "项目曾获Binance Alpha Spotlight，但未披露具体融资",
+      "5月桥接攻击后，团队可能已修复漏洞，但未公开详细审计报告"
+    ],
+    "marketRead": [
+      "24小时涨幅36.9%，7日涨幅39.5%，成交量约587万美元，换手率约5.4%，交投活跃",
+      "价格接近历史高点0.028美元，短期存在获利回吐压力",
+      "Binance数据因地区限制无法获取，但CoinGecko显示价格波动较大"
+    ],
+    "risks": [
+      "5月桥接攻击导致280万美元损失，安全风险未完全消除",
+      "全稀释估值2.33亿美元，流通市值1.08亿，未来解锁可能带来抛压",
+      "TON生态项目竞争激烈，TAC需持续创新维持TVL增长",
+      "新闻热度集中在2025年7月，近期缺乏新催化，价格可能回调"
+    ],
+    "watchlist": [
+      "TVL数据变化：若持续增长则利好，若停滞或下降则利空",
+      "团队对黑客事件的后续处理及审计报告发布",
+      "Binance上TAC的流动性及交易量变化",
+      "TON生态整体走势及DeFi板块表现"
+    ],
+    "sourceNotes": [
+      "Binance实时数据因地区限制无法获取，价格数据来自CoinGecko",
+      "新闻时间跨度较大，部分为2025年7月，需关注最新动态",
+      "黑客事件新闻来自Memeburn，需交叉验证"
+    ]
+  },
+  "profile": {
+    "id": "tac",
+    "symbol": "TAC",
+    "name": "TAC",
+    "categories": [
+      "Infrastructure",
+      "BNB Chain Ecosystem",
+      "TON Ecosystem",
+      "Binance Alpha Spotlight",
+      "TAC Ecosystem"
+    ],
+    "homepage": [
+      "https://tac.build/"
+    ],
+    "description": "",
+    "marketCapRank": 256,
+    "currentPriceUsd": 0.02323984,
+    "marketCapUsd": 108232791,
+    "fullyDilutedValuationUsd": 233312146,
+    "totalVolumeUsd": 5875487,
+    "priceChange24hPct": 0.3692,
+    "priceChange7dPct": 39.47862,
+    "priceChange14dPct": 31.23186,
+    "priceChange30dPct": 21.40187,
+    "athUsd": 0.0280942,
+    "athChangePct": -16.96584,
+    "circulatingSupply": 4652922875,
+    "totalSupply": 10030078763,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 83.33,
+    "watchlistUsers": 1572,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "TACUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=TACUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "TACFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=TACFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "TACUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=TACUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "TACBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=TACBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "How to sell TAC Token (TAC) via a crypto wallet - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RV05lbHNBbV9DaEgwMGlsb1NKX3c0UlZ2ck44UE1sTlJIZ3ZxMDdFU2FlckVPR2lFSnNQOVBzWEE1NHhfeHBfMGdHTVNSQkZZUlllSVBFcDNmb2g0aDd2Tw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 13 Jun 2026 00:00:00 GMT",
+      "snippet": "How to sell TAC Token (TAC) via a crypto wallet&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "TAC Price: TAC/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03b1F6SVgxY0picW5jQllrd2Q2MmFfNWgzT0o5bUV2cnBob3NJcTcxYkRaZHIxU2tpTklmNEg5dE1VTmpnMWsxWUJCUWJ0aVE?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 14 Jul 2025 17:33:27 GMT",
+      "snippet": "TAC Price: TAC/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "TAC Protocol price today, TAC to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WZGlZYl9BVkU0VWRJSG9wUUxadUVBeVZ2TVpyeUUzY2JPaVcyNlNwTmlQQlhMSi1uU2pQSC1xbUdSWjZlSmlZRzNfMTYxZ1F6bzMxbFc5RFI0WXo2VW80?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sun, 13 Jul 2025 05:00:14 GMT",
+      "snippet": "TAC Protocol price today, TAC to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "$TAC Token Debuts in TVL as TAC Mainnet Goes Live with Leading DeFi Protocols - ETF.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV1NYVU9vTUpnWGFIaExKMi1QQTg5YV9laXdzellkUDlfYXpyLXp2WEhCdmhjSGJPNVpFakZhZk5PampVeVRBZXhaV0FXZ1RPLWZPd2lHX1I3VWU2YjFrNVBFNUJxSDdWQ080SU5fY0xCQ0RkLVlvZDI1SlVVQ3FpUVBlNTFoMVE2YWR6b0RwZTdvV2Z0eGhNYWN5NlBCNDdCeHVz?oc=5",
+      "source": "ETF.com",
+      "publishedAt": "Tue, 15 Jul 2025 07:00:00 GMT",
+      "snippet": "$TAC Token Debuts in TVL as TAC Mainnet Goes Live with Leading DeFi Protocols&nbsp;&nbsp;ETF.com"
+    },
+    {
+      "title": "Is TAC Protocol the Key to Unlocking DeFi for Telegram's Billion Users? - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16QXUyTGpoSlk4V0FkVWNLLU55UDNZSVVSMnN0MFAxc3BRZXlndXlRVl9YRDZOOE8wcG5rRU9MZ1M5QWJPRmh4TnZ2LXZMT004V2dFa1FNVHUtVlA5eW1DWnpidUdFdw?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Mon, 14 Jul 2025 07:00:00 GMT",
+      "snippet": "Is TAC Protocol the Key to Unlocking DeFi for Telegram's Billion Users?&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "TAC to United States Dollar Price Today | Live TAC to USD Converter & Exchange Rate - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43Sms4ZmtwRWxBTkRCTUJIUnVYNjI1RDF6MjBndkRpZ05lYWlSa1dZT1l5bFY1UV9Xa2Z4WFFsM2R1cGxfaHp4T0N3OEZnYUxiWVhUWWxoLVU5UnpFdFlGNmdQMA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 02 Aug 2025 05:12:14 GMT",
+      "snippet": "TAC to United States Dollar Price Today | Live TAC to USD Converter & Exchange Rate&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Convert TAC to ZAR | TAC/ZAR Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93NmU4YXIwOXVZN01uNGo0cXRSRW0zbktTcXhFenBYaGxuc2Mza2tTYVNManpmQnctekFDREIxYUwwLXpzTDZVbGt2UE9iU0lxZXc?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Tue, 05 May 2026 18:40:32 GMT",
+      "snippet": "Convert TAC to ZAR | TAC/ZAR Conversion Calculator&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "TAC - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE95OXdNV2cwNUc5d1pGLVJBVWxULWRqb01nTEszYzMyaGRwVnFKeGV5NWtKczdqajZUZDBPcmtn?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Wed, 16 Jul 2025 07:00:00 GMT",
+      "snippet": "TAC&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "TAC token debuts in TVL as TAC mainnet goes live with leading DeFi protocols - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjFFUjFwcmF5ZEdKdFdmTHZyS2RaVEFGNE1mSjhUMG4xUkVIODFXMF9RbW4zaElMUTZ0V2JKNlZ3YjNMZFBPWlBoTEdNMU5NUWs0ZFZaQVhyWURzQmQ4ZkpxQTAzcXl0QURKc1RUckhLWTVsSXBGcUs4MXg0REFXWWlGWkpmLWFRcldqSmswTmVjSUUwQVNKSWhiNGgxdEpSMVk4Ykk2WQ?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Tue, 15 Jul 2025 07:00:00 GMT",
+      "snippet": "TAC token debuts in TVL as TAC mainnet goes live with leading DeFi protocols&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "TAC (TAC) Will Be Available on Binance Alpha and Binance Futures (2025-07-15) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVml2N2VXcVRMT3h3VlhFMk4yb29KMjBDdFFWanpZemowOG93enBJVHFnUVZJUWdScmNlQ1FWYWc0a041V2xvMlJWZ0sxNVdoS2ZVVk5IV21YMnhtSXR3Wk52QlZuRDlWODB4a0hPZGltYmhadWViX25uUld2RTZXSldVWk1vQlMyY3FPSG9uOHo?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 14 Jul 2025 07:00:00 GMT",
+      "snippet": "TAC (TAC) Will Be Available on Binance Alpha and Binance Futures (2025-07-15)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Cyberscope, the Web3 Security Company, Performed the Smart Contract Audit of Trump Crypto Coin - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWVN3S2RrZHY4SVJUVE9ZVXBSQTJxRHZhYXF4TkZ2RGg1Y1lsMDM1aG5mU1BUTXVCeWNoYVhoNGQxLXdZa01iLTBLUUV6aEc2RlAwdmRBanpnTHZlVHVDVHJ5WExYNHYzS2puMXlPUDc2M3JOOVE0eEpaSzhwbHc2YWZJdnFreXI2YmZXME1qaGl0cTJTT01rVnhuQWFndWFOU2NNeGJCcm13YUgxTWJNOVBPVHRpX3h0LVVyLUhyTjNJcGRoaG1ESGY1THpySFd0X1A5bjA2ZDFXczVpWEZSdHMyUQ?oc=5",
+      "source": "Business Wire",
+      "publishedAt": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "snippet": "Cyberscope, the Web3 Security Company, Performed the Smart Contract Audit of Trump Crypto Coin&nbsp;&nbsp;Business Wire"
+    },
+    {
+      "title": "Hackers Drain $2.8M From TAC Protocol Bridge: TON's DeFi Gateway Under Fire - Memeburn",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzBhWjVibzZ1b1hleFkzUU4wNXY1TVZCd2NXcVI4UkpSeXZRanZCUnNONmdzYkV1dFFPczFBSW9ZMi1JTHBua1p2WGtFUXF1SkFWal90Sk0zc2VrRXpjODlMOG1oUENzMnFNS2NTRTNZYnNvV2FPUEpqb2VmWHRoaDZ3SUU2RWFOdHo3a2ZoTXB1X2xtMWlkTUpB?oc=5",
+      "source": "Memeburn",
+      "publishedAt": "Sun, 17 May 2026 04:20:03 GMT",
+      "snippet": "Hackers Drain $2.8M From TAC Protocol Bridge: TON's DeFi Gateway Under Fire&nbsp;&nbsp;Memeburn"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
