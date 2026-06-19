@@ -1,0 +1,205 @@
+{
+  "token": "ASR",
+  "exchange": "other",
+  "generatedAt": "2026-06-19T07:31:24.820Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ASR",
+    "name": "AS Roma Fan Token",
+    "generatedAt": "2026-06-19T07:31:18.315Z",
+    "summary": "ASR fan token近期因体育板块热度及世界杯预期上涨，但基本面薄弱，ATH跌幅超95%，流动性风险高，不建议追高。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现实质性合作或赛事催化，可重新评估"
+    },
+    "catalysts": [
+      "2026世界杯临近，体育粉丝代币板块整体炒作",
+      "近期24h涨幅14.5%，7天涨幅27.3%，短期动量"
+    ],
+    "latestNews": [
+      {
+        "title": "SportFi Roundup: How Fan Tokens Are Shaping Digital Fan Engagement - Bitpanda",
+        "impact": "利好",
+        "reason": "行业报道提升关注度，但非ASR特有催化"
+      },
+      {
+        "title": "A Fan Token Index for World Cup 2026 and Beyond - Bitget",
+        "impact": "利好",
+        "reason": "世界杯概念带动板块情绪"
+      }
+    ],
+    "fundamentals": [
+      "AS Roma Fan Token，发行在Chiliz链上，用于球迷投票、奖励等",
+      "市值约1116万美元，排名1112，流通量864万，总量999.5万",
+      "ATH 26.64美元，当前1.28美元，跌幅95%",
+      "项目无重大更新，基本面疲软"
+    ],
+    "marketRead": [
+      "24h成交量1180万美元，换手率约105%，交易活跃但可能为短期炒作",
+      "价格从低点反弹，但ATH跌幅巨大，上方套牢盘重"
+    ],
+    "risks": [
+      "粉丝代币普遍缺乏长期价值支撑，价格依赖赛事热度",
+      "ATH跌幅95%，反弹空间有限，追高风险大",
+      "流动性集中在少数交易所，大额抛售风险",
+      "新闻多为行业通稿，无ASR专属利好"
+    ],
+    "watchlist": [
+      "AS Roma俱乐部官方合作或球迷活动公告",
+      "世界杯相关赛事进展",
+      "ASR在Binance等交易所的成交量变化"
+    ],
+    "sourceNotes": [
+      "Binance API受限，无法获取实时订单簿数据",
+      "新闻来源为Google News聚合，时效性一般"
+    ]
+  },
+  "profile": {
+    "id": "as-roma-fan-token",
+    "symbol": "ASR",
+    "name": "AS Roma Fan Token",
+    "categories": [
+      "Sports",
+      "Binance Launchpool",
+      "Fan Token",
+      "Solana Ecosystem",
+      "Base Ecosystem",
+      "Chiliz Ecosystem",
+      "YZi Labs (Prev. Binance Labs) Portfolio"
+    ],
+    "homepage": [
+      "https://www.asroma.com/it",
+      "https://www.socios.com/asroma/"
+    ],
+    "description": "",
+    "marketCapRank": 1112,
+    "currentPriceUsd": 1.28,
+    "marketCapUsd": 11165691,
+    "fullyDilutedValuationUsd": 12909520,
+    "totalVolumeUsd": 11802072,
+    "priceChange24hPct": 14.51696,
+    "priceChange7dPct": 27.29498,
+    "priceChange14dPct": 56.36649,
+    "priceChange30dPct": 13.34079,
+    "athUsd": 26.64,
+    "athChangePct": -95.12764,
+    "circulatingSupply": 8644867,
+    "totalSupply": 9995000,
+    "maxSupply": 9995000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 3705,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "ASRUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ASRUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ASRFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ASRFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ASRUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ASRUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ASRBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ASRBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "SportFi Roundup: How Fan Tokens Are Shaping Digital Fan Engagement - Bitpanda",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFRTM0hUQzZMSmR6NHpiOXFRMDJTRmJUNVRxZFBvT25MaDF3Y2tVM0puV2dXYlYyWDloYjRaMjdDSFJOMTdNNTktX0FEX2NuUklHZy1GSGhSbUxfX25ydUJOQlBCUjBGVEc4dFctcE5GcDdTZzItb0J6bGkyMnN0MUtrRTRBTkNFSGZ1dVExQXNoelIyZG5ZYjdR?oc=5",
+      "source": "Bitpanda",
+      "publishedAt": "Fri, 05 Dec 2025 08:00:00 GMT",
+      "snippet": "SportFi Roundup: How Fan Tokens Are Shaping Digital Fan Engagement&nbsp;&nbsp;Bitpanda"
+    },
+    {
+      "title": "AS Roma Fan Token price today, ASR to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WWC12aUNqTlZ1b2tlenZIYUFMZmVHVUVwbm90WWkwMVhseWxsUGxSYlVuQ1pfVm9hYWlBODVKR0RhdjF1Q1NiSkw4Ymg1b0p3RURhUE1DcU9TMzdpckJoYzdSVWdIdw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sun, 21 Jun 2020 23:45:32 GMT",
+      "snippet": "AS Roma Fan Token price today, ASR to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "AS Roma Fan Token Price Today | ASR to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKSkNiQ2JrZ3NoRUdvdHVTXzlSb0kzT3g4WUw5Ql9rLXpxdmlFR1FJOFhGMXg2b2RteG16dzlvOHBLZEdyWHYxRmI5SDRHNUFGelNiRDNVV3RYWTlUZ1k4?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 11 Jan 2022 14:25:35 GMT",
+      "snippet": "AS Roma Fan Token Price Today | ASR to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "The Bigger Picture: Where Football Meets Future Finance - Bitpanda",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSWZjNjFGNDBWWWtzaHMtS2lrZ21mZlJkR1BmWXlRanJzNjRDd1lBM0tLQ1JWYXd5NWMzOGNjMV9BOEJzSTNBcWhCeEQ5clplckZaLXNfdjhIcGl3MV8wMjVVTmI5Mm9GZVBFaFVQaV9MOENwRjdTeEhoUzA3TFJEVS02WWdzQQ?oc=5",
+      "source": "Bitpanda",
+      "publishedAt": "Fri, 31 Oct 2025 07:00:00 GMT",
+      "snippet": "The Bigger Picture: Where Football Meets Future Finance&nbsp;&nbsp;Bitpanda"
+    },
+    {
+      "title": "How Does Roma’s Fan Token Offering Compare? - RomaPress",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NN0VlR3ZEalNKSnhnMmJfUm1Ja2lXenFlcGpDeEM4MHRRUVhhR1BpYVVCVGhueWJobmlPaGpZZWNVNVR4MjNPVk1PSEV2a29uaWxjR0RGSDVxMU53ZXNmU0ZNXzM3WG1MeFRZekRFVnBxdw?oc=5",
+      "source": "RomaPress",
+      "publishedAt": "Thu, 23 Dec 2021 08:00:00 GMT",
+      "snippet": "How Does Roma’s Fan Token Offering Compare?&nbsp;&nbsp;RomaPress"
+    },
+    {
+      "title": "A Fan Token Index for World Cup 2026 and Beyond - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2cC1Ca0NjTlFQYThZOHh1d3pIMGg3cEF0NGZNT3Y3bkhNUkxZMF96azRCblZxUWpnVndYWFpzU3RCQ3hPOVpZMzU4dWRpbnlWaUVIRU00YmY3TUFTZXfSAWNBVV95cUxNcHBNTXlCVEphMVRIU0lqd2V3WVN4RWFwdTBfZlhzaWZUcWkzcFV3em9aRDNsVHoyVksySlIxa0xXemdpUnJLdEpJLVp4RnBZemxxZUZJYmdTMDNqMlpMZHlCZmM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 29 Jul 2025 07:00:00 GMT",
+      "snippet": "A Fan Token Index for World Cup 2026 and Beyond&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "1.114 | ASR USDT | AS Roma Fan Token to USDT – Binance Spot - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CV2NEejVQVUpzd0o2VjNkTjJzdXVxY2xDdTROcUtrRi1rZ1ZuaXEtLUgtYWVSWHRjWFNqRVV1UlpaMTVUY0pkN1psWENoZzhHZEFR?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 30 Dec 2020 08:09:51 GMT",
+      "snippet": "1.114 | ASR USDT | AS Roma Fan Token to USDT – Binance Spot&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "AS Roma Fan Token Price Today | ASR to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RQW1BM0FRdWRRN2cwa1VORWNsandYZW1oVWZYODZNYWFUNFg2T19mVDBLeGlERGtkRkViU0RiWThqR2dnOWlCRVBzSVJxTlZIZ2VaTWFTZFgyTHRCVXFIRGtXdw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 02 Mar 2022 02:49:02 GMT",
+      "snippet": "AS Roma Fan Token Price Today | ASR to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "AS Roma Fan Token Price Today in India | ASR to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzMjUzR3JKc25RTzFsX000QXRqM214dWdWa1k1dlA1bU5TUjlLbVBOWU92ZnowNXpjZ1N2VFVOZEJaSTJwd2sxLTgtWDViOFZmREtzSndOa2F1NjlHa3FDQXBGWQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 28 Feb 2022 19:53:16 GMT",
+      "snippet": "AS Roma Fan Token Price Today in India | ASR to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "AS Roma Fan Token (ASR) Price Prediction 2026, 2027-2030 - CoinCodex",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFTzJYcmJMdkZ2UEpOWmZWZmlsVEZNV3F4bDhicVBjNXphU0I5QmZNbkE2eUNwZ0VwSm16OW1walhRZy1vSU8yQXdYWUhrM1d6NVNZY3ZnWHVIVFU4RmJ4TXF6Z1BMdjdfenpwR0dSNE8ydw?oc=5",
+      "source": "CoinCodex",
+      "publishedAt": "Mon, 31 May 2021 06:09:48 GMT",
+      "snippet": "AS Roma Fan Token (ASR) Price Prediction 2026, 2027-2030&nbsp;&nbsp;CoinCodex"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
