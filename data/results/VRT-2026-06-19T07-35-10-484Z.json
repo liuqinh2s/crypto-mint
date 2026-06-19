@@ -1,0 +1,230 @@
+{
+  "token": "VRT",
+  "exchange": "other",
+  "generatedAt": "2026-06-19T07:35:10.484Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "VRT",
+    "name": "Venus Reward",
+    "generatedAt": "2026-06-19T07:35:01.025Z",
+    "summary": "VRT是Venus协议的奖励代币，价格极低（0.00000362美元），距历史高点跌超99.97%，流动性极差，24小时成交量仅13美元，无实际交易对数据。新闻多为股票VRT或无关内容，缺乏近期利好催化。基本面薄弱，市值为零，流通量不明，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现明确的协议升级、大额回购或上主流交易所等重大利好，否则逻辑持续失效。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Can VRT Reach $400 in 2026? Vertiv Holdings Price Prediction - WEEX",
+        "impact": "中性",
+        "reason": "新闻标题提及VRT但实际为股票Vertiv Holdings，与代币VRT无关。"
+      },
+      {
+        "title": "If You Can’t Buy VRT Stocks, What Are the Trading Alternatives? - WEEX",
+        "impact": "中性",
+        "reason": "同样为股票相关，不涉及代币VRT。"
+      },
+      {
+        "title": "What Is Venus Protocol (XVS)? - Binance",
+        "impact": "中性",
+        "reason": "介绍Venus协议，但未提及VRT代币。"
+      },
+      {
+        "title": "Venus Reward Token price today, VRT to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "仅为价格数据页面，无新增信息。"
+      },
+      {
+        "title": "Binance Delists 22 Tokens: Major Cleanup for a Stronger Cryptocurrency Ecosystem - Binance",
+        "impact": "利空",
+        "reason": "Binance曾大规模下架代币，VRT可能面临下架风险，流动性进一步恶化。"
+      }
+    ],
+    "fundamentals": [
+      "VRT是Venus协议的额外挖矿奖励代币，用于激励借贷双方。",
+      "XVS是治理代币，VRT仅为奖励代币，价值捕获能力弱。",
+      "总供应量300亿，当前流通量不明（数据为0），完全稀释市值仅8.8万美元。",
+      "项目活跃度低，无近期更新或路线图。"
+    ],
+    "marketRead": [
+      "24小时成交量仅13.15美元，几乎无交易活动。",
+      "价格24小时下跌4.3%，7日下跌3.69%，30日下跌14.2%，持续阴跌。",
+      "无有效交易对数据（Binance API返回451错误），实际流动性极差。",
+      "市值显示为0，说明数据源无法获取有效市值。"
+    ],
+    "risks": [
+      "流动性枯竭：成交量极低，买卖价差巨大，难以成交。",
+      "下架风险：Binance曾大规模下架代币，VRT可能被下架。",
+      "无实际用途：VRT仅为奖励代币，缺乏应用场景和需求。",
+      "价格归零风险：距ATH跌超99.97%，且无反弹迹象。",
+      "数据不可靠：部分新闻为股票VRT，混淆视听。"
+    ],
+    "watchlist": [
+      "Venus协议是否有新版本或VRT代币经济模型变更。",
+      "VRT是否被主流交易所下架或重新上架。",
+      "是否有团队或社区回购计划。"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取真实交易数据。",
+      "新闻中多条为股票Vertiv Holdings，与代币VRT无关。",
+      "CoinMarketCap数据可能不完整，流通供应量为0。"
+    ]
+  },
+  "profile": {
+    "id": "venus-reward-token",
+    "symbol": "VRT",
+    "name": "Venus Reward",
+    "categories": [
+      "BNB Chain Ecosystem",
+      "Venus Ecosystem"
+    ],
+    "homepage": [
+      "https://venus.io/",
+      "https://medium.com/VenusProtocol"
+    ],
+    "description": "Venus Reward Token is a mechanism created to become an additional mining distribution to suppliers and borrowers of Venus Protocol. Venus (XVS) token will continue to exist as a governance token for the protocol.",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00000362,
+    "marketCapUsd": 0,
+    "fullyDilutedValuationUsd": 88000,
+    "totalVolumeUsd": 13.15,
+    "priceChange24hPct": -4.30191,
+    "priceChange7dPct": -3.68978,
+    "priceChange14dPct": -5.09967,
+    "priceChange30dPct": -14.21211,
+    "athUsd": 0.01474414,
+    "athChangePct": -99.97548,
+    "circulatingSupply": 0,
+    "totalSupply": 24332704321.10447,
+    "maxSupply": 30000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 2498,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "VRTUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=VRTUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "VRTFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=VRTFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "VRTUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=VRTUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "VRTBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=VRTBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Can VRT Reach $400 in 2026? Vertiv Holdings Price Prediction - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGMyQWhLbGYyczVpTWlUWFRFYzRvV1VETTBpMXJfYS1JcEQ1LUhRYjFXZ21rc0hWcFBGZ0tyM19CU1FSSjlnUUlSNlZiSTlrN2x3NFgtZHpMdjJwQU51OFJNRW92UG5lcU1DWFBsX2xwVlBjSmlKdGhIbWJ2RE9MZ0VWUHVCdTNwQ2s0UlRSRndlT0NUU3Z1VlZ5Q3Qyc0x6d2d0Z09tNlBMVHFCZ0VCNkxZbGg0MFFw?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Wed, 17 Jun 2026 13:28:49 GMT",
+      "snippet": "Can VRT Reach $400 in 2026? Vertiv Holdings Price Prediction&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "If You Can’t Buy VRT Stocks, What Are the Trading Alternatives? - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXdiZ1FGX19ndWZTcm5EWVFwLXdtYk0xUnRxZjNEZFIwblhXb05JVEstVE54LXgtV1JnSDlKNzZaWG5iSjExQlZpSWkwSE9MdWlrdUcwUThjRF85Ri1BNXNmQU9vaE9zUUpFRHE1Mk9QQTV1RlJtTFQ2M2tPSnFBQ3RjMXk1bzQtUkJJYmg0SVAySHZRSm1jSkJERlh5ektmSjdpeFExdHdiRkZZeDNpY1RGbDdRVnNVUnlJ?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Wed, 17 Jun 2026 13:18:39 GMT",
+      "snippet": "If You Can’t Buy VRT Stocks, What Are the Trading Alternatives?&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "What Is Venus Protocol (XVS)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Jc2RaWk1yWmVPYVpxTWJhR1A0WjFBRmhia25XMEM3OWQzR0ZrWU1vTE1DTWlEcF9WaDl1N0FfYzFZdUVxaENCdWpTZWk3N2QtUDU4M1JFTFFvcGE2OUtlUXlKd2JsVTRvc2pseXVBOA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "snippet": "What Is Venus Protocol (XVS)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Venus Reward Token price today, VRT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vcExSU2s2cjQzR0FIQzRNeXRqaUV1S25rM2tPcXZpYk1TSlVVMDNGRXBzUzNqbC00Qk9FcVhTeEVvVFJEU2VHTmpLdEk1YVQxVUxzT2YxTDVmSmRMWUNiV1FFYkowSkU?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 18 May 2021 08:49:32 GMT",
+      "snippet": "Venus Reward Token price today, VRT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Venus: Money Market & Synthetic Stablecoin Protocol on BNB Chain - Messari",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVFZbVFYdG1yTzkyemsxSlJYd1ZnS21xV3NwbFlKSHFzOUVjODZyLVdSNmhzTFVKUGJxclVlcXhaWEJfekxJUTZEUktBamlYemlMVURRODQ3THBzWVNDY1JJdmdBR3ZZei00MXByanFWNVpTTlNUQ1lFSEdUQWJwOGFkSmJpZzN3UUNZLW5zZFVDWHF2UGc?oc=5",
+      "source": "Messari",
+      "publishedAt": "Wed, 21 Dec 2022 08:00:00 GMT",
+      "snippet": "Venus: Money Market & Synthetic Stablecoin Protocol on BNB Chain&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "Venus Reward Token Price Today | VRT to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpM1o0Y2NfdFZkWnBYd0JtYm12dXpUTXlwbUlId0xGU3pGc2RPTmhWY19JZ2NkS1lyN1NXaW1YbnYzVHFUazRBX2dPV2NjWGlsMENJbzdEaXIxYV9GVng5Vg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 30 Dec 2021 20:05:58 GMT",
+      "snippet": "Venus Reward Token Price Today | VRT to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "4 price today, 4 to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02c08yWnpKRC1pLUxZRnZwOFVTb0FlYW9xdGhrellEMGhUTWJwVTh1MlZwR0JKNF9POVU0YVJHZHBRSDRsRXJzcE9wUF84bTJjV0JSeXFR?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 02 Oct 2025 10:19:34 GMT",
+      "snippet": "4 price today, 4 to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Tea-Fi price today, TEA to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85NTU2UzltMXBTZnd0T3BQX1VCb0JPbzl3NnZRRGI2OEdxNTJFQ0VuazAzc2pobmhxc3NTOGptV1FRUi0xcnFtcmQ3NjllSEVobDdmX21FVQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 13 Nov 2024 07:40:12 GMT",
+      "snippet": "Tea-Fi price today, TEA to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Venus Reward Token Price Today | VRT to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sVWVHYTdWc0tQS09yTFRMWDRmUk5OVWt0cXVsWkptcl9fQ1RGdHJ3SEx5R0dxSWFCQlRSemk1S2ZRUWRXcjdwUkVicjV0ZGpybllDekNuYjFmcjlWNUVvTUs4OWU?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 12 Mar 2022 08:52:31 GMT",
+      "snippet": "Venus Reward Token Price Today | VRT to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "MYX Finance price today, MYX to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Eak9GOWRoTlNLVVAwa2JZcWV6VXY2dVBTZ0hYWmhkekJ5VWx0NVpWamNHWDViQzdpb3FsWG9kS2RGNHJjTEpYVXdzYUMzcmItNHJzdzBTSllIb2JRYWZtVVJFNjc1di1UWDl3ZA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 15 Oct 2025 08:12:51 GMT",
+      "snippet": "MYX Finance price today, MYX to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "WifeDoge price today, WIFEDOGE to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByZkJMREhzSk42WFltT21kaGZwenhlaUNPNW4xRm40aDFLdlM3VDNjUWxTZzBwbUVDR3I0UTlsVzhNcll5RnZvVHVXRkE1ZDZ2YmR0MUxvLWVwdw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 30 Aug 2021 10:43:42 GMT",
+      "snippet": "WifeDoge price today, WIFEDOGE to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Binance Delists 22 Tokens: Major Cleanup for a Stronger Cryptocurrency Ecosystem - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96TV9RU0dZZ09sY0VuUEJfQmZZTmFmVU1zZm9JMzlFeUM1TTBDdUVRTWh0SlUtR18zRDlYYjQwQ3k4SjU1VHg2eUF5dFVic2FpOG5OVXZWOHhuUUR6cXVORjhpdw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 12 Mar 2025 07:00:00 GMT",
+      "snippet": "Binance Delists 22 Tokens: Major Cleanup for a Stronger Cryptocurrency Ecosystem&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
