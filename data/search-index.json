@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-19T06:14:14.420Z",
+  "updatedAt": "2026-06-19T07:24:15.945Z",
   "results": [
+    {
+      "token": "RE",
+      "name": "Ethereum",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-19T07:24:15.943Z",
+      "latestPath": "data/results/RE-latest.json"
+    },
     {
       "token": "AVAX",
       "name": "Avalanche",
