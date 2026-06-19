@@ -1,0 +1,249 @@
+{
+  "token": "AVAX",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T06:14:14.418Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AVAX",
+    "name": "Avalanche",
+    "generatedAt": "2026-06-19T06:14:04.854Z",
+    "summary": "AVAX近期受FIFA世界杯合作、Bitwise ETP上市等消息推动，但价格仍处于下跌趋势，24小时跌8.25%，7日跌8.95%。市场情绪极度恐慌，但Santiment认为可能预示反转。基本面强劲但短期风险高，建议观望。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若跌破5.5美元支撑位或出现更大负面消息（如AVAT继续下跌），则逻辑失效。"
+    },
+    "catalysts": [
+      "FIFA世界杯合作提升采用率",
+      "Bitwise推出现货AVAX ETP（含质押）",
+      "Avalanche Treasury Co在纳斯达克上市（AVAT）",
+      "每日活跃地址创新高"
+    ],
+    "latestNews": [
+      {
+        "title": "FIFA World Cup Push Lifts Avalanche Adoption: Will AVAX Price Rally?",
+        "impact": "利好",
+        "reason": "FIFA合作可能带来大量用户和交易量，提升AVAX需求。"
+      },
+      {
+        "title": "Avalanche Treasury Co set to start trading on Nasdaq as crypto proxy trade evolves",
+        "impact": "中性",
+        "reason": "上市本身增加曝光，但AVAT股价随后大跌38%，可能拖累AVAX情绪。"
+      },
+      {
+        "title": "Bitwise Launches Spot Avalanche ETP (BAVA); Includes In-House Staking",
+        "impact": "利好",
+        "reason": "ETP为传统投资者提供合规渠道，增加流动性。"
+      },
+      {
+        "title": "Avalanche Treasury stock sinks 38% after Nasdaq debut under AVAT",
+        "impact": "利空",
+        "reason": "AVAT大跌可能引发对Avalanche生态的负面看法，影响AVAX信心。"
+      },
+      {
+        "title": "Santiment: Extreme FUD Surrounding Avalanche May Signal a Bullish Turn for AVAX",
+        "impact": "中性",
+        "reason": "极端恐慌情绪有时是反转信号，但需其他指标确认。"
+      }
+    ],
+    "fundamentals": [
+      "Avalanche是高性能智能合约平台，采用PoS共识，速度快、费用低。",
+      "总供应量7.2亿，当前流通4.32亿，流通市值26.2亿美元。",
+      "生态包括DeFi、NFT、游戏等，获得a16z、Polychain等顶级机构投资。",
+      "近期活跃地址创新高，显示网络使用增长。"
+    ],
+    "marketRead": [
+      "AVAX当前价格6.06美元，较ATH跌95.8%，处于历史低位。",
+      "24小时成交量2.57亿美元，换手率约9.8%，交易活跃。",
+      "价格近期持续下跌，30日跌幅33.4%，短期趋势偏空。",
+      "市场情绪极度恐慌（FUD），但Santiment认为可能见底。"
+    ],
+    "risks": [
+      "整体市场下行风险，比特币等主流币表现不佳。",
+      "AVAT上市后大跌38%，可能引发对Avalanche生态的信任危机。",
+      "AVAX解锁压力：总供应量仍有约2.9亿未流通，未来可能解锁。",
+      "竞争激烈：Solana、以太坊等L1平台竞争。",
+      "价格处于下跌通道，技术面未出现反转信号。"
+    ],
+    "watchlist": [
+      "AVAX价格能否站稳6美元并突破7美元阻力位。",
+      "AVAT股价是否企稳，避免进一步拖累。",
+      "FIFA世界杯相关活动落地情况。",
+      "Bitwise ETP的流入量。",
+      "整体市场情绪和比特币走势。"
+    ],
+    "sourceNotes": [
+      "Binance数据因地区限制无法获取，价格数据来自CoinGecko。",
+      "新闻来源包括BeInCrypto、CNBC、CryptoRank等，时效性较好。",
+      "市场情绪指标来自Santiment，但未提供具体数据。"
+    ]
+  },
+  "profile": {
+    "id": "avalanche-2",
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "categories": [
+      "Smart Contract Platform",
+      "Layer 1 (L1)",
+      "Avalanche Ecosystem",
+      "Proof of Stake (PoS)",
+      "DragonFly Capital Portfolio",
+      "DeFiance Capital Portfolio",
+      "Andreessen Horowitz (a16z) Portfolio",
+      "GMCI Layer 1 Index",
+      "GMCI 30 Index",
+      "Galaxy Digital Portfolio",
+      "GMCI Index",
+      "Polychain Capital Portfolio",
+      "World Liberty Financial Portfolio",
+      "Made in USA",
+      "Coinbase 50 Index"
+    ],
+    "homepage": [
+      "https://www.avax.network"
+    ],
+    "description": "Avalanche is a high throughput smart contract blockchain&nbsp;platform. Validators secure the network through a proof-of-stake consensus protocol. It is said to be fast, low cost, and environmental friendly.",
+    "marketCapRank": 38,
+    "currentPriceUsd": 6.06,
+    "marketCapUsd": 2619671542,
+    "fullyDilutedValuationUsd": 2811816117,
+    "totalVolumeUsd": 257237878,
+    "priceChange24hPct": -8.25383,
+    "priceChange7dPct": -8.9524,
+    "priceChange14dPct": -18.16235,
+    "priceChange30dPct": -33.41306,
+    "athUsd": 144.96,
+    "athChangePct": -95.81519,
+    "circulatingSupply": 431771961.1772119,
+    "totalSupply": 463441061.1772119,
+    "maxSupply": 720000000,
+    "sentimentVotesUpPct": 66.67,
+    "watchlistUsers": 492664,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "AVAXUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AVAXUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AVAXFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AVAXFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AVAXUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AVAXUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AVAXBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AVAXBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "FIFA World Cup Push Lifts Avalanche Adoption: Will AVAX Price Rally? - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVU43RElXVFdEdkdnUDdQNmVoejdybUdVMHRUQTc1a2hKVWdneHctcjlJTnBVV0NxTUkyanViTERPYU1aUERta3ZHeEtqZlhmeXBZMV9ldXdPWHR0RDQxaXhDbUx4X1hRSEp5NHZfNHhYVzRoWFFpNGtQN1V1Nnp6RnA0dDg3dw?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Mon, 15 Jun 2026 22:30:00 GMT",
+      "snippet": "FIFA World Cup Push Lifts Avalanche Adoption: Will AVAX Price Rally?&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Avalanche Price Today and Why AVAX Rallied on the FIFA World Cup Deal - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MUnQ2c1ZpV3VNRm1sVW1aVmVHRk5ac1BBN2xiUHRjTjF3NDJsazFYLWQ0NUNrYlhOUlllVGhaOEtLc2ZVaGNRVC14YmFXVmNlZkRtODRHUHlYTFlneEk3SUFLWGhxLTBNc2hPRk8zam1pdHJQ?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Wed, 17 Jun 2026 04:49:56 GMT",
+      "snippet": "Avalanche Price Today and Why AVAX Rallied on the FIFA World Cup Deal&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Avalanche Treasury Co set to start trading on Nasdaq as crypto proxy trade evolves - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUxObEF3WG1qc1ZOak4tMlBidWFSTmh2SWxDVGtsTUQ2RGRYQm1sUnZydFlxWXJTb0tFRDB0RGozR095bkFxNk9VT3gyQVgwb2hJVy1JWHAwRUZCWElEdV9vdGlkX0lRdlVnRVkzVUVsWjJoY3ljcVoyZTRKbm1Qdl9ySFhJQ3RPcjNHRVZtRFhtVl9KOTdDaDhxTFhPUllfVUdtQ1FtZ0pKMUNsRV9RN0NLVjJFWDZk0gG-AUFVX3lxTFA5OXVmUktfQUlrcW0zWXhYd3RPREViREFvWUlmNUtsRWV5RWs3RzUzd2V4WDR1cXhSZkQ1bzJTOFFOVWMxblJPTk16eEZ0YTJ5VUVYbEJtUmJBZ2VrSEUyTU92eFdXSmJqZHVsYVE1YUpGMF9nSElrX0ZDZldDajZtOGpFQWF5ZFo1UHdxRE1xaG80OWZWQUptQVZhVFFLbElHei1lOThDTXFuTnJWdkRCVnRwcUFZS05aSFZ6UWc?oc=5",
+      "source": "CNBC",
+      "publishedAt": "Thu, 11 Jun 2026 16:00:01 GMT",
+      "snippet": "Avalanche Treasury Co set to start trading on Nasdaq as crypto proxy trade evolves&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "Avalanche (AVAX) Price Prediction 2026–2030: Can AVAX Reach $100? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWxnRjk2bTkxUXlPTlpZZGt6ZGxKU1FZTDdlTWpSLXRiOG81NWNOLUw0MWJsREF6b0FDb2tJa2U0bHlvd29xbnNzeTNaVE9Iam0waXdPNmNkYnVWZS1MWEszYmJmaW1nLXdlUU9aNFVKRDZGWVh6eEZoVTFUUnhLSWF2N3hfekcx?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 13 Jun 2026 14:21:39 GMT",
+      "snippet": "Avalanche (AVAX) Price Prediction 2026–2030: Can AVAX Reach $100?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Bitwise Launches Spot Avalanche ETP (BAVA); Includes In-House Staking To Maximize Staking Rewards and Oversight - Bitwise Investments",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLXZtY3B2S0tCekNOQlItMXNhal9SdEllaGljWndXUklISENhaVdjRmZhaUR5Y0VwaXBhd0pLQzE5Y2gzSF9WcWJ0aHJCRzVheDZNZjhHejRrVENIT3lOaFpUQm5ndkhwT1hxbDlad1drVG4xNXZhclE5S0JhY1NVbmhjY2cwWlE?oc=5",
+      "source": "Bitwise Investments",
+      "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "snippet": "Bitwise Launches Spot Avalanche ETP (BAVA); Includes In-House Staking To Maximize Staking Rewards and Oversight&nbsp;&nbsp;Bitwise Investments"
+    },
+    {
+      "title": "Avalanche Daily Active Addresses Hit New Peak: Will AVAX Re-enter Top 10? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjZieXZKbW1KZFktZXQ0QkNManh5dk9GWnp0Qzhxc2RrU2FYbnB5MFFjLU1MV1RYWl9mLUxRTFZTMnBkanl1SENzN2psY28wdEZwenM2b1NSUEx5cy1ZQW1yTXlibVpPcklZMndldDQtZ2Y4VUJNMm8teXh2ZWQ1ZlFJQWhCQjN0RVE?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "snippet": "Avalanche Daily Active Addresses Hit New Peak: Will AVAX Re-enter Top 10?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Is Avalanche Falling Behind? Social Media Debates Heat Up Over AVAX Growth Slowdown - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcklJLTktZE12UFVYZ3hBMDVwWWhvbjlURU9rQ1k3dGZYMnRrQmZIa252VHJGRms4Wmd1MDVsN0U1a2lYNEJHSFRWcGJQRFNBQWhNb3dHTjJ5aEpPWU1fN210UFJRTWhEOFFZUzhWMThKSDlCblVvMEI4YUduQUpPNklZRE1IbE5wV0s1djNLMGVjZ0FOV3lFWUVwbkhESUtnVHJtZWM3NGVQb2hwTUN0ZmZKWUN4R19qSlRJMA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 16 Jun 2026 21:42:31 GMT",
+      "snippet": "Is Avalanche Falling Behind? Social Media Debates Heat Up Over AVAX Growth Slowdown&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Avalanche Treasury stock sinks 38% after Nasdaq debut under AVAT - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWgwNG5LX1d2eERYSXh1LXBkbWdCRWF4SzJsbkwyU08yNFZmMWxkY3ZMSHdZZllibklTcGV2S2YwTzBRX1ZkcjdITDJyeS1WNk1HRE5KekJOaVJBZDdTeXBJeG9EaW9qYUVVVXNHTVV5a2wwaTN5bjRodjM4TjFHTkN4T0hacHdwQXJPWA?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Fri, 12 Jun 2026 04:19:00 GMT",
+      "snippet": "Avalanche Treasury stock sinks 38% after Nasdaq debut under AVAT&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Can Avalanche’s AVAX Rise From The Dead? The Zone That Could Change Everything - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzNDbHlwRjFPX1BUelVhUVc3TEstZW1kZm56SHJIZHUxbWpoTXgwOC1ldk5ta2p3UExyV09IMWRRX2RVWGJzaVBoUl9UVmFveWt5R01ZbXFobFJXeHNZR2xySkJrU3N4RVJhVm9JSWNub3RvcHdXRUtjc2dSRTJGQlhjd0VxME45NzZYck9RUjFJOHRERTRodWtFMFkyaHo0b0IyQTFJaTU4SjJfNDZpQ0JiaEgwQ19rVEdYSV9aeWlETlh3Q2ZqVDlsWS0yWXE0?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "snippet": "Can Avalanche’s AVAX Rise From The Dead? The Zone That Could Change Everything&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Santiment: Extreme FUD Surrounding Avalanche May Signal a Bullish Turn for AVAX - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMzZoUDBienFIa1NueHpydDZKN1JYTHZTU2pEMEJFa2ZBOG9rUWp4Si1Yd3NTQnBHNGRES3BnNG9mRzI4aHNhMG5HN083Snd6QU5BVXktZjlSU2VKUmtQaW91RHBZWXhzQmR4ZWV6ajJPZmJ0dmJ3OGY1NmRGNWZodzln?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 16 Jun 2026 01:04:32 GMT",
+      "snippet": "Santiment: Extreme FUD Surrounding Avalanche May Signal a Bullish Turn for AVAX&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Avalanche / TetherToken - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONjJ5SkpQTGltU1JmNFhoQTB1NXdQdkJIU092Sm9fSnVsNlZJQUxkcTBKNDdjbWJEZ0wyZldFbDd0bjJjbmFCS0h4T0ZGN2JESTdUb2VlRWMzbEp6TmYtenhneHJfWHR1NlBkX2pSb1dyNllYQU1JZzJwZnBYNFpfTi1tWi1tQ2d1Z1lfSkZpUHhpNmc?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Sat, 06 Jun 2026 06:57:29 GMT",
+      "snippet": "Avalanche / TetherToken&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Avalanche Treasury Stock Slides 38% in Rocky Nasdaq Trading Debut - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GVG9Ucmt6ay00QmlUY0xoYTZlV0VGWHRFUGtya3MtTTI3SHRJdzJMTFlSMVdNZ2pjZ2pqdjg1akZrVm9zaVh2cFhyRW5UUkdJNHhVRy1KcEJDS1VqU3ZPdXBRVmNmRVdKVE5faA?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Fri, 12 Jun 2026 08:19:00 GMT",
+      "snippet": "Avalanche Treasury Stock Slides 38% in Rocky Nasdaq Trading Debut&nbsp;&nbsp;BeInCrypto"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

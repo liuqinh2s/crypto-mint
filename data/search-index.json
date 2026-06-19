@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-19T06:12:36.659Z",
+  "updatedAt": "2026-06-19T06:14:14.420Z",
   "results": [
+    {
+      "token": "AVAX",
+      "name": "Avalanche",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-19T06:14:14.418Z",
+      "latestPath": "data/results/AVAX-latest.json"
+    },
     {
       "token": "BEAT",
       "name": "Audiera",
