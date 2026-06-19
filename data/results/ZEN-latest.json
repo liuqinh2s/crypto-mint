@@ -1,0 +1,223 @@
+{
+  "token": "ZEN",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T06:09:59.781Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ZEN",
+    "name": "Horizen",
+    "generatedAt": "2026-06-19T06:09:53.203Z",
+    "summary": "ZEN近期无明显上涨催化，24小时下跌2.3%，7日微涨0.09%，30日跌幅达29%。项目正迁移至Base L3，但新闻热度低，市场情绪偏弱。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大合作或技术突破，可重新评估"
+    },
+    "catalysts": [
+      "Horizen 2.0迁移至Base L3，可能带来隐私DeFi用例",
+      "Grayscale Horizen Trust存在，但SEC报告为2025年11月，时效性低"
+    ],
+    "latestNews": [
+      {
+        "title": "Horizen Price Prediction: ZEN Price Consolidates After Breakout as Momentum Stays Bullish",
+        "impact": "中性",
+        "reason": "预测类文章，缺乏实质信息"
+      },
+      {
+        "title": "5 Reasons Why ZEN's Migration to Base Unlocks Privacy for DeFi",
+        "impact": "利好",
+        "reason": "技术升级可能带来新用例，但文章发布于2025年8月，已过时"
+      },
+      {
+        "title": "XMR, ZEC, ZEN update: Is Binance about to delist these privacy coins?",
+        "impact": "利空",
+        "reason": "隐私币面临交易所下架风险，影响流动性"
+      }
+    ],
+    "fundamentals": [
+      "Horizen是隐私公链，2017年公平启动，无ICO",
+      "正在升级为Horizen 2.0，部署在Base上的L3应用链",
+      "总供应量2100万，流通约1810万，无通胀压力",
+      "市值约7832万美元，排名319，较小市值"
+    ],
+    "marketRead": [
+      "24小时交易量约980万美元，流动性一般",
+      "价格远低于历史高点165.92美元，跌幅97%",
+      "30日跌幅29%，短期趋势向下"
+    ],
+    "risks": [
+      "隐私币监管风险，可能被交易所下架",
+      "技术迁移进度不确定，用户采用度低",
+      "市场整体情绪低迷，资金关注度低"
+    ],
+    "watchlist": [
+      "Horizen 2.0主网上线进展",
+      "Binance等交易所是否下架ZEN",
+      "隐私赛道整体表现"
+    ],
+    "sourceNotes": [
+      "Binance行情数据因地域限制无法获取，使用CoinGecko数据",
+      "新闻多为预测或过时信息，缺乏近期重大利好"
+    ]
+  },
+  "profile": {
+    "id": "zencash",
+    "symbol": "ZEN",
+    "name": "Horizen",
+    "categories": [
+      "Zero Knowledge (ZK)",
+      "Base Ecosystem",
+      "Made in USA",
+      "Privacy Infrastructure",
+      "Base Native",
+      "Horizen Ecosystem",
+      "Privacy"
+    ],
+    "homepage": [
+      "https://www.horizen.io"
+    ],
+    "description": "What is the project about?&nbsp; Horizen is a modular privacy-first platform designed to make privacy technology, such as zero-knowledge proofs and TEEs accessible and usable across the web. Originally launched in 2017 as a fair launch, non-ICO project, Horizen is now undergoing a major evolution with the launch of Horizen 2.0, a next-generation Layer 3 (L3) appchain deployed on Base, the Ethereum Layer 2 developed by Coinbase. Horizen 2.0 is built as an Ethereum-aligned Layer 3 appchain on Base, inheriting Ethereum's security while implementing its own application-level integrity guarantees. Key components of Horizen’s security model include: Ethereum-Aligned Security:&nbsp;As an appchain deployed on Base, Horizen 2.0 benefits from Base’s rollup security and settlement on Ethereum, ensuring robust finality and composability with other L2 and L3 applications. Simplified and Secure Architecture:&nbsp;Unlike Horizen’s previous iterations (which used a hybrid PoW/PoS model), Horizen 2.0 focuses on application-level security, decentralization of its privacy layers, and composability with existing infrastructure — reducing complexity and increasing user safety. Decentralized Privacy Sta",
+    "marketCapRank": 319,
+    "currentPriceUsd": 4.33,
+    "marketCapUsd": 78319664,
+    "fullyDilutedValuationUsd": 90861428,
+    "totalVolumeUsd": 9803705,
+    "priceChange24hPct": -2.30316,
+    "priceChange7dPct": 0.09353,
+    "priceChange14dPct": -9.76707,
+    "priceChange30dPct": -29.12764,
+    "athUsd": 165.92,
+    "athChangePct": -97.39275,
+    "circulatingSupply": 18101332.87278685,
+    "totalSupply": 21000000,
+    "maxSupply": 21000000,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 33432,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "ZENUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ZENUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ZENFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ZENFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ZENUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ZENUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ZENBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ZENBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Horizen Price Prediction: Is ZEN Coin a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSnhkRlQ0WFd1WVJ3eVQ4WXFjRjZFeUhIU0xwWDladHZjY3k5SzlkQjFreHExODZIa3JMQ1JFOTRud215Tnp0QnlOOXIzcnFLUl9scUt5TnYtbE5IcGxUa3o1SVJpd3Z1OUtoZUZZb3doNzktTjJMNGFEcHdqZm95RC1SeXNOWGIy?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "snippet": "Horizen Price Prediction: Is ZEN Coin a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Horizen Price Prediction: ZEN Price Consolidates After Breakout as Momentum Stays Bullish - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGd6czhOdF8zTEVLNVhSMDkxWkc2Mk5KdVBoaHpJcWtaenRnSWZ4c0F6aUEyQU1MMHRpRlhZak9XZ3hyRmNpM3kwbTRDMHR5RnZyZkFHclNlTVE1WFBvVy1lRXRTaWV1eGVPVFJsLXRSb2t1UGE0eXZFb0x1SEJfckZ4aEFLaUxRZE5fOTVjLWlrMU45QkdhVXBic1ZjNUtnTTUxUWI3SXUzbzBqdHBObkhsZEFzT200UXZYV2NVdm1NdTFZ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "snippet": "Horizen Price Prediction: ZEN Price Consolidates After Breakout as Momentum Stays Bullish&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Grayscale Horizen Trust (ZEN) SEC 10-K Report - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlJjR1lVYW04NzJNOFcyRnAxREdydW1TQVo0NUJaUE1iQ1hNUW5pcHNrRzQ0SFRfYUYxbFZidGxXNDU3VFBFN0g1TVljTEE5SHJIX0JzbVVKNzRUV1NUZk9SU1ZuY3hfclNhaFZNQ05SNmloNk50dnlIeFdZQnVqNG1YVEo2QnI4cmhsUTY0ZXl2bVQ0VjRicjdkTzBMMU5xT1ZBZWlpckU?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 25 Nov 2025 08:00:00 GMT",
+      "snippet": "Grayscale Horizen Trust (ZEN) SEC 10-K Report&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Horizen Price Today | ZEN to ZAR Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qRWpuTEVpckVFelc3WkJBYUJNRjBSNTItcDJJS2RyVFR5Q0dqWjJ4NnBsS3VjMnI3U0t6R1MtR25FelViTTRCSzkxVzRCZTIwSDdhNW13?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 11 Jun 2026 09:54:00 GMT",
+      "snippet": "Horizen Price Today | ZEN to ZAR Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Horizen Price Prediction: ZEN Price Consolidates After Breakout as Momentum Stays Bullish - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uQUlTZkQxZC1NY201dklhMjNGSHhXX01nV1h3UHlRcTVVTW0xbjZCbW9NeElneWhFSGhfcU85bXRUR0N3dVJHYi12UjAwb0pUckIwaGc0WExqX2prWGfSAWNBVV95cUxObzM2T3dWWjNPM0ZwYlpHV2FIY0VrWWxEVXQxYUV5cmpaU3I2NkFTSlczdVlpQmhrRzJjU0hNZ2w4aGdVQXR1MDhIc0plczF6TTd5NF9halRWWWV1WDAyS3Y5S2s?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "snippet": "Horizen Price Prediction: ZEN Price Consolidates After Breakout as Momentum Stays Bullish&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Horizen(ZEN) Whitepaper - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YVHhZQWdSdkVubFBPUjZEaC16bTNiNkhlclNidGpwUGcyaksyMVVyZW5xdlE2ZjVrQ1lsNm9BX3lmOHZjU2YwQkh3dE81OVRLNUwtTXJ6bng?oc=5",
+      "source": "OKX",
+      "publishedAt": "Mon, 24 Nov 2025 08:00:00 GMT",
+      "snippet": "Horizen(ZEN) Whitepaper&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "3 Altcoins That Crushed the Market in October 2025’s Second Week - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YYnA3V0hGSWd6RHk0WGVQdEFDWmZpekZuZExQTVlaaTlFQ09VTWVEVlBMbXJJSTVsc0tXWXQxeWhJWkVjUDNnY0tWQVlsX1E4TW4tUEZjVEU1Wi1SM0dIUVF1S2pzbmxoaWRsUG5PZExrTUVtVE1zcGpoaDU?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Sat, 11 Oct 2025 07:00:00 GMT",
+      "snippet": "3 Altcoins That Crushed the Market in October 2025’s Second Week&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "5 Reasons Why ZEN's Migration to Base Unlocks Privacy for DeFi - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVBwSkNLZ2M1V2JIbm1iTmhXNVhiYUgxRnhMa2ZKbW5qa0Y4S1pvclVCMG9OMXdZR0dITkl3cWdldzJfSHJKNXEwOGVCd0d1MklaRUZ5Y2I4anRCNVl2X0k4MGp0aEJZRGJLaGphX1pfV1VsYkZIMHBmbUFvZkRBbHJ0MmNpZzNBbmc1NGtUUXVkT3Nna0dlWGhn?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Thu, 14 Aug 2025 07:00:00 GMT",
+      "snippet": "5 Reasons Why ZEN's Migration to Base Unlocks Privacy for DeFi&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "XMR, ZEC, ZEN update: Is Binance about to delist these privacy coins? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVW5fOUxsaEQ2VmVUX3kzYnFjTF9vMWxvRlFSYkJxYzNuR2xQbHh2b0xoR3dVMmNTOGRHbmZPbjVSbm9QS05TZUpTRlVkc0Z6bnd5WVRqWWNDZmNfUTh0RzhWdG9rOTNodUZOLUNteThtQ1czOGE5d1duc2dIeF81SFlLV3U0MmFyMjZTbzNGTEtEWElWNVRDYTJUNkI3dmVYN3kxQjZ3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 13 Dec 2025 03:18:31 GMT",
+      "snippet": "XMR, ZEC, ZEN update: Is Binance about to delist these privacy coins?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Horizen Price, ZEN Price, Live Charts, and Marketcap: zen crypto price, zen crypto, horizen coin - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uTDlpVXNBNVdxZ3FrU294V1lJVUZwSjdKQnMzeW9DSHpRanlQQ2dNeW1YTEJIWGhPc3RIaEpPQk5pNGhCMEIzWS1ZWUQzdERvamRKNDFwTQ?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Mon, 21 Apr 2025 09:02:04 GMT",
+      "snippet": "Horizen Price, ZEN Price, Live Charts, and Marketcap: zen crypto price, zen crypto, horizen coin&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Horizen (ZEN) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82VE01YmdFSTcwN3JsSjlBQkhCRTlBWHJuRFU4NDNDWVY4Q2EwSm4zVDRVYk02ekU1Nm9jX3hudzFwbC1uTVZnRC0wenBLVnc2NlRiSHBPdHVpOVg3UERITl9OMnNIbHda?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 16 Dec 2021 01:31:03 GMT",
+      "snippet": "Horizen (ZEN) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Horizen price today, ZEN to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zQXp2NnJoU0xucGdUZlB5Z25zOEZaYzQ1NUFVRnE3SzNRMS1VbVlndlZ0QXdyUWM4RUxWdlZIcEs3V1A5UkpHUmVvZ3BnQnF4bzA2ak1NZFg?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 02 Dec 2019 02:41:44 GMT",
+      "snippet": "Horizen price today, ZEN to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
