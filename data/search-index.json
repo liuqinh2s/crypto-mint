@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-19T07:35:10.485Z",
+  "updatedAt": "2026-06-19T07:38:59.624Z",
   "results": [
+    {
+      "token": "SENT",
+      "name": "Sentient",
+      "score": 35,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-19T07:38:59.623Z",
+      "latestPath": "data/results/SENT-latest.json"
+    },
     {
       "token": "VRT",
       "name": "Venus Reward",

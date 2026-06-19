@@ -1,0 +1,233 @@
+{
+  "token": "SENT",
+  "exchange": "other",
+  "generatedAt": "2026-06-19T07:38:59.623Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SENT",
+    "name": "Sentient",
+    "generatedAt": "2026-06-19T07:38:50.528Z",
+    "summary": "SENT近期因Binance、Upbit、Bithumb等主流交易所上线及AI赛道热度而大涨，但当前价格较ATH仍跌65%，流通市值约1.22亿美元，FDV高达5.78亿美元。项目愿景宏大（开源AGI），但代币解锁压力大（总供应343亿，流通仅21%），且新闻热度已过（1月底上线），短期缺乏新催化。建议观望。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现新的重大合作或产品进展，可重新评估。"
+    },
+    "catalysts": [
+      "Binance、Upbit、Bithumb等主流交易所上线（1月底）",
+      "AI赛道整体热度",
+      "开源AGI宏大叙事"
+    ],
+    "latestNews": [
+      {
+        "title": "Sentient (SENT) Emerges as Top Crypto Gainer: What’s Behind the Rally - Yahoo Finance",
+        "impact": "利好",
+        "reason": "报道了SENT成为涨幅榜前列，但内容可能重复已知信息。"
+      },
+      {
+        "title": "Binance Will List Sentient (SENT) with Seed Tag Applied - Binance",
+        "impact": "利好",
+        "reason": "Binance上线带来流动性和曝光，但Seed Tag提示高风险。"
+      },
+      {
+        "title": "Upbit Sentient Listing Sparks Major AI Crypto Expansion: SENT Token Gains Crucial South Korean Foothold - CryptoRank",
+        "impact": "利好",
+        "reason": "韩国交易所上线增加亚洲市场流动性。"
+      },
+      {
+        "title": "Bithumb Listing SENT and ELSA for KRW Trading Sparks Market Excitement - CryptoRank",
+        "impact": "利好",
+        "reason": "Bithumb上线KRW交易对，进一步扩大韩国市场。"
+      }
+    ],
+    "fundamentals": [
+      "项目定位：开源AGI平台，旨在构建去中心化AGI网络。",
+      "代币总供应343亿，流通约72.4亿（21%），FDV/市值比约4.75倍，解锁压力大。",
+      "ATH $0.048，当前$0.0168，跌幅65%。",
+      "Binance Seed Tag提示高风险。",
+      "社区情绪100%看涨，但可能失真。"
+    ],
+    "marketRead": [
+      "24h涨幅2.4%，7日涨幅7.3%，14日涨幅31.6%，30日涨幅3.7%，显示近期有资金流入。",
+      "成交量约1700万美元，相对市值1.22亿，换手率约14%，交易活跃。",
+      "但无实时K线数据，无法判断短期走势。"
+    ],
+    "risks": [
+      "代币解锁压力：总供应仅流通21%，未来大量解锁可能稀释价格。",
+      "新闻催化已过：主要交易所上线发生在1月底，距今近5个月，缺乏新利好。",
+      "AI赛道竞争激烈，项目落地进度不明。",
+      "价格较ATH仍低65%，但FDV较高，估值不便宜。",
+      "Binance Seed Tag提示高风险，项目处于早期。"
+    ],
+    "watchlist": [
+      "代币解锁时间表及实际流通量变化。",
+      "项目产品进展（如GRID网络上线）。",
+      "新的交易所上线或合作公告。",
+      "AI赛道整体市场情绪。"
+    ],
+    "sourceNotes": [
+      "数据来源为CoinMarketCap profile及新闻摘要，Binance行情因地域限制无法获取。",
+      "新闻时间集中在2026年1月，时效性不足。",
+      "社区情绪数据可能不准确。"
+    ]
+  },
+  "profile": {
+    "id": "sentient",
+    "symbol": "SENT",
+    "name": "Sentient",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "Smart Contract Platform",
+      "Ethereum Ecosystem",
+      "Binance Alpha Spotlight",
+      "Binance Wallet IDO"
+    ],
+    "homepage": [
+      "https://www.sentient.xyz/",
+      "https://sentient.foundation/"
+    ],
+    "description": "Sentient is building the world’s first open and community-built AGI platform, an open-source intelligence network designed to rival and complement the closed systems from OpenAI, Anthropic, Google, and others. Through the Sentient GRID, 100+ partners collaborate across agents, models, data, and compute to create a decentralized alternative to closed AGI labs. Sentient addresses the most urgent risk of our time: closed-source AGI. Today, a handful of corporations are building AGI in secret, deciding what it knows, how it thinks, and who it serves. AGI is the most powerful technology humanity has ever created. If controlled by a few, it could lock the future into their hands, creating a fundamental threat to society. Sentient’s mission is to ensure AGI is open, community-built, and not controlled by a single entity. We are achieving this through THE GRID: the world’s largest open network of intelligence. The GRID is the first real step toward open-source AGI: a decentralized fabric of specialized agents, models, datasets, tools, and compute—contributed by the world’s best builders—working together as one to deliver high-quality results. ",
+    "marketCapRank": 229,
+    "currentPriceUsd": 0.01684249,
+    "marketCapUsd": 121823806,
+    "fullyDilutedValuationUsd": 578323063,
+    "totalVolumeUsd": 16981791,
+    "priceChange24hPct": 2.41419,
+    "priceChange7dPct": 7.32367,
+    "priceChange14dPct": 31.56359,
+    "priceChange30dPct": 3.72916,
+    "athUsd": 0.04805315,
+    "athChangePct": -65.00963,
+    "circulatingSupply": 7237882055,
+    "totalSupply": 34359738368,
+    "maxSupply": 34359738368,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 2071,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "SENTUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SENTUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SENTFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SENTFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SENTUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SENTUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SENTBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SENTBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Sentient (SENT) Emerges as Top Crypto Gainer: What’s Behind the Rally - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWtVOHpMUHNhdm0xdUJrazZOZ2Q5eFBYeVljb3pxQlhOa1gwMWxrdlh5UFg3RTA2QjZDZzBKaVV3RGpLU0Jqemd4LVc1TVlqcU82cUtZRlBEUlZycVNOZEk5cGlqT3VHZEtCSTdMeDZyWmdTM1h1di1kM3cxZk1hNlV6ZTI?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "snippet": "Sentient (SENT) Emerges as Top Crypto Gainer: What’s Behind the Rally&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Sentient price today, SENT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5URUg4UzdVQldIYTVzVjBmc2xibXduMzEwWnVRUVhzTDZTWGNuekhkTHdEYnEzbzhIc0ppQ1UxQnRzYXJBXzh4N2xvbFFTTmFsdTJ0dFVHZl9sQQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 03 Nov 2025 07:46:28 GMT",
+      "snippet": "Sentient price today, SENT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Sentient price today, SENT to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52M3pBdzlXSlg2Z3JhbEZ1VkpmbUdiS0kwVGRwLVduclM3RmlTZjY3OVFubG56b3FWd2d3Ty1Nal9JeHhWemMzcldjajhfWGVV?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 06 Feb 2026 09:44:10 GMT",
+      "snippet": "Sentient price today, SENT to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Sentient (SENT) - All information about Sentient ICO (Token Sale) - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE14ZndzNFZMMzdORGx1cngwZ01meVBjai1xQV9NYVA2b2VKT3pMVFFYd1NWWDZiSmhLY1gyM0lnWUxZTnpI?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
+      "snippet": "Sentient (SENT) - All information about Sentient ICO (Token Sale)&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Sentient Price, SENT Price, Live Charts, and Marketcap: sent coin, coin sent, sentient crypto - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmUnFpc3d4czNOMzd5Rk9QdFR3MnhNanNSbXBYd3ZoRGh3NGdzN0ppT0hNczhGX0dWU0RSRUh5Sko2a2ZpbGZROUNDUlM1Tk5S?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Thu, 30 Oct 2025 23:49:35 GMT",
+      "snippet": "Sentient Price, SENT Price, Live Charts, and Marketcap: sent coin, coin sent, sentient crypto&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Sentient (SENT) Defies a Market Sell-Off With 60% Gains — 3 Metrics Explain How - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IVHMwdHQ0SWVQUFplYVBTY1VRX0Y3UzZodXZEMnBmVjdpWnVOSi1nRGFla0RQcTlmeHd5R1ItdUlMZDA5Tk5fNUw3Y2RIbnhjSzdVdWxoSVFMZnRRZHfSAWNBVV95cUxQSTd0bDZlX1h4Y2QwdnVIVmhQR0x1emNUWm9nelNpR0s1dkhESWNLOW5xWndKeWpJbFBvQzBYck1SWkNtcnhUS1NTSHk2a1A3d2pSZ2tHWmhpVnlvaTkzQUsteUE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "snippet": "Sentient (SENT) Defies a Market Sell-Off With 60% Gains — 3 Metrics Explain How&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Will List Sentient (SENT) with Seed Tag Applied - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ1pmSjNOODVOUDN4ZnJrM1VyTHMtZHc5UTVZQXFXdXZwTWJKblZiRy1aSVdqT1lORDQ0SmtnUW8xTzhnSW9aLUlOZktuM2ktdmJUT01qRUNXTEhjdElGdEczQ0JUbDAtVGhIUmtpWEFCaXQzS0ZfY0xCU0ZmOC1ORTJ1MEVNWjlhOWdKcVJ3ck8?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Binance Will List Sentient (SENT) with Seed Tag Applied&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Upbit Sentient Listing Sparks Major AI Crypto Expansion: SENT Token Gains Crucial South Korean Foothold - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LdVgzcFVvOFJzMWhwUmhIaThPandhNElkSmx0bkVlcG9vTjYxNFZVdzgwcDNFM0pXQzFKNVR5bFl6aUVuVGhvUUZpbFFTb0ZGbjFKNnJNMkhtclpGUkE3WS1FTXRJYk51VGwyamlOZVBGRzQwREVzVE9yX0Q?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "snippet": "Upbit Sentient Listing Sparks Major AI Crypto Expansion: SENT Token Gains Crucial South Korean Foothold&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What Is Sentient (SENT)? The Ultimate Guide to the Decentralized AI Token - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lekpzdDBzN2QxZ2hubE8tTGlZa0RFa0VpZ3RYMFpBNVZseHlhTkZOVGlQaGZrUTY0SDc3c1pYeHZNcERQU3ZGY182aXF6d29xajFFUnZFTm1DWFk4b2pieGJibjdhaVBuenUxdlNR?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "snippet": "What Is Sentient (SENT)? The Ultimate Guide to the Decentralized AI Token&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Sentient Price Today | SENT to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNUppb0hDN2lEN2ViQXNpYlpxX2psdTlWUXpmWFBRS2tJNW5QV19iLVY0d1c0QzZWNEVzcHJ2elZEVXdwTEU4WVN2UTBIeUFCX2Q4?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 24 Nov 2025 14:13:20 GMT",
+      "snippet": "Sentient Price Today | SENT to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Bithumb Listing SENT and ELSA for KRW Trading Sparks Market Excitement - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rRnBkMGt1WFExSHlDZHpCQ29QakdiRFN6SUFSYXZ2WkNMU1pocFNmUEtQVVFWSDRUWUZ6dHVYWnhUMzJzVEkzc2RDcDhEZllTdWZnZkpFU1N5TGxUemZBZ25ST1lFbkx6X0pzVW5xY2RLcXhDNkE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "snippet": "Bithumb Listing SENT and ELSA for KRW Trading Sparks Market Excitement&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Sentient (SENT) Coin Now Listed on WEEX with SENT USDT Spot Trading Pair - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaEowY0kyQ2pyeHhqUGNYU2FPQXBMUUZyNmF6RUs3YjZMTkg2dGMwVnJueC1kYTFHVGxDVkVza0dBM0pTdDJTS0g1Vnpzb3BjUk9Nd2tfakYtd29lS3lYQl93cGdrbUc0OWNIU0tuajRybGY3Ri1wb2lxdVhvYUtIdFRFQWYxM3BiT2VvY0g2NHFwVDNGaVFLVHRBcDkzWHJVdm5mOUhXZUpmWm9LS3dB?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "snippet": "Sentient (SENT) Coin Now Listed on WEEX with SENT USDT Spot Trading Pair&nbsp;&nbsp;WEEX"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
