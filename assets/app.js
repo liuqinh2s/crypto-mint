@@ -2,7 +2,7 @@ const OWNER_FALLBACK = "liuqinh2s";
 const REPO_FALLBACK = "crypto-mint";
 const BRANCH_FALLBACK = "main";
 const WORKFLOW_FILE = "analyze-token.yml";
-const SITE_BASE = new URL("./", window.location.href);
+const SITE_BASE = new URL(window.CM_ASSET_BASE || "./", window.location.href);
 
 const form = document.querySelector("#analysis-form");
 const tokenInput = document.querySelector("#token-input");
@@ -63,6 +63,23 @@ function normalizeToken(value) {
     .replace(/^\$/, "")
     .toUpperCase()
     .replace(/[^A-Z0-9]/g, "");
+}
+
+function getRouteToken() {
+  const baseSegments = SITE_BASE.pathname.split("/").filter(Boolean);
+  const pathSegments = window.location.pathname.split("/").filter(Boolean);
+  const routeSegments = pathSegments.slice(baseSegments.length);
+  const routeToken = routeSegments[0];
+  if (!routeToken || ["index.html", "404.html", "assets", "data"].includes(routeToken)) return "";
+  return normalizeToken(routeToken);
+}
+
+function tokenPath(symbol) {
+  return `data/results/${normalizeToken(symbol)}-latest.json`;
+}
+
+function resultUrl(symbol) {
+  return new URL(normalizeToken(symbol), SITE_BASE);
 }
 
 function parseTokens(value) {
@@ -216,6 +233,21 @@ async function loadResult(path) {
   return result;
 }
 
+async function loadRouteResult() {
+  const symbol = getRouteToken();
+  if (!symbol) return false;
+
+  tokenInput.value = symbol;
+  setStatus(`正在加载 ${symbol} 的最新分析...`, "working");
+  try {
+    await loadResult(tokenPath(symbol));
+    return true;
+  } catch (error) {
+    setStatus(`没有找到 ${symbol} 的最新分析。`, "error");
+    return false;
+  }
+}
+
 async function dispatchWorkflow(symbols, exchange) {
   const settings = getSettings();
   if (!settings.githubToken) {
@@ -258,7 +290,7 @@ function startPolling(symbols) {
       if (!pending.has(symbol)) return;
 
       try {
-        const result = await loadResult(`data/results/${symbol}-latest.json`);
+        const result = await loadResult(tokenPath(symbol));
         pending.delete(symbol);
         latestLoaded = result;
       } catch {
@@ -335,13 +367,30 @@ historyList.addEventListener("click", async (event) => {
 
   try {
     setStatus("正在加载结果...", "working");
-    await loadResult(item.dataset.path);
+    const result = await loadResult(item.dataset.path);
+    if (result.token) {
+      history.pushState({ token: result.token }, "", resultUrl(result.token));
+      tokenInput.value = result.token;
+    }
   } catch (error) {
     setStatus(error.message, "error");
   }
 });
 
 applySettings();
-loadIndex().catch(() => {
-  renderHistory({ results: [] });
+loadIndex()
+  .catch(() => {
+    renderHistory({ results: [] });
+  })
+  .finally(() => {
+    loadRouteResult();
+  });
+
+window.addEventListener("popstate", () => {
+  loadRouteResult().then((handled) => {
+    if (!handled) {
+      tokenInput.value = "";
+      setStatus("输入代币后启动分析。");
+    }
+  });
 });
