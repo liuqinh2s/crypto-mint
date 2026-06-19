@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-19T06:11:16.210Z",
+  "updatedAt": "2026-06-19T06:12:36.659Z",
   "results": [
+    {
+      "token": "BEAT",
+      "name": "Audiera",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-19T06:12:36.657Z",
+      "latestPath": "data/results/BEAT-latest.json"
+    },
     {
       "token": "PYTH",
       "name": "Pyth Network",

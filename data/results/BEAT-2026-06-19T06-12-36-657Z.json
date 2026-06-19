@@ -1,0 +1,227 @@
+{
+  "token": "BEAT",
+  "exchange": "other",
+  "generatedAt": "2026-06-19T06:12:36.657Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BEAT",
+    "name": "Audiera",
+    "generatedAt": "2026-06-19T06:12:27.277Z",
+    "summary": "BEAT 近期经历剧烈波动，30天涨幅超247%，但7天跌幅达75%，从ATH 10.99美元跌至1.95美元，疑似经历拉高出货。当前价格反弹24小时内涨17%，但基本面支撑不足，风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现实质性产品落地或大额回购销毁，可重新评估，但当前无任何积极信号。"
+    },
+    "catalysts": [
+      "AI+游戏概念热度",
+      "Binance Alpha Spotlight 曝光",
+      "Telegram 生态整合预期"
+    ],
+    "latestNews": [
+      {
+        "title": "Audiera (BEAT) Collapses 88% in a Week—Have Investors Just Witnessed a Classic Pump-and-Dump?",
+        "impact": "利空",
+        "reason": "质疑项目为拉高出货，严重打击市场信心。"
+      },
+      {
+        "title": "Audiera (BEAT) Drops 27.85% Amid AI Hype Correction",
+        "impact": "利空",
+        "reason": "AI板块回调导致价格进一步下跌。"
+      },
+      {
+        "title": "After Humanity, Siren, Audiera Price Crash, is SKYAI Crypto Token Next?",
+        "impact": "利空",
+        "reason": "将Audiera与已崩盘项目并列，暗示风险。"
+      }
+    ],
+    "fundamentals": [
+      "项目定位为AI代理参与经济，但产品未落地，仅概念阶段。",
+      "代币总供应量10亿，流通量2.88亿，流通率28.8%，未来解锁压力大。",
+      "FDV高达18.9亿美元，而市值仅5.44亿，估值偏高。",
+      "上线时间短，无历史业绩参考。"
+    ],
+    "marketRead": [
+      "24小时成交量5600万美元，相对市值5.44亿，换手率约10%，交易活跃但可能为对倒。",
+      "价格从ATH 10.99美元暴跌82%后反弹17%，属超跌反弹，趋势仍向下。",
+      "Binance数据不可用，流动性存疑。"
+    ],
+    "risks": [
+      "疑似拉高出货，项目方或早期投资者抛售风险。",
+      "7天跌幅75%，市场恐慌情绪浓厚。",
+      "AI概念热度消退，板块轮动风险。",
+      "代币解锁将增加流通供应，稀释价格。",
+      "无实际产品，团队信息不透明。"
+    ],
+    "watchlist": [
+      "项目方是否公布产品路线图或合作伙伴。",
+      "代币解锁时间表及实际抛压。",
+      "Binance是否上线现货交易对。",
+      "社交媒体舆情变化。"
+    ],
+    "sourceNotes": [
+      "数据来自CoinMarketCap profile，Binance行情因地区限制无法获取。",
+      "新闻来源包括CryptoRank、CoinMarketCap等，部分为预测性内容。",
+      "市场数据仅基于profile，缺乏深度订单簿信息。"
+    ]
+  },
+  "profile": {
+    "id": "audiera",
+    "symbol": "BEAT",
+    "name": "Audiera",
+    "categories": [
+      "Gaming (GameFi)",
+      "NFT",
+      "BNB Chain Ecosystem",
+      "Telegram Apps",
+      "Binance Alpha Spotlight",
+      "Arcade Games"
+    ],
+    "homepage": [
+      "https://audiera.fi/"
+    ],
+    "description": "Audiera (BEAT) pioneers the agent-native participation economy, where humans and autonomous AI agents act as equal economic participants. For the first time, Audiera introduces structured agent roles and participation rules — enabling agents to perform tasks, interact with users, create music, compete in rhythm battles, and engage directly in on-chain economic activity. No more treating agents as tools: they hold wallets, earn, spend, and settle value natively. Powered by $BEAT on BNB Chain — fueling incentives, coordination, governance, and shared prosperity in the machine-native future.",
+    "marketCapRank": 97,
+    "currentPriceUsd": 1.95,
+    "marketCapUsd": 544117576,
+    "fullyDilutedValuationUsd": 1889187816,
+    "totalVolumeUsd": 56036370,
+    "priceChange24hPct": 17.30442,
+    "priceChange7dPct": -74.93961,
+    "priceChange14dPct": 20.84555,
+    "priceChange30dPct": 247.74458,
+    "athUsd": 10.99,
+    "athChangePct": -82.80937,
+    "circulatingSupply": 288016666,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 88.89,
+    "watchlistUsers": 4220,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "BEATUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BEATUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BEATFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BEATFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BEATUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BEATUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BEATBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BEATBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Audiera (BEAT) Collapses 88% in a Week—Have Investors Just Witnessed a Classic Pump-and-Dump? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXlkOEJKZlViNUVIbGdWQ0lyeElOT1ZpY2kyY2JhWVcwWnNHcjAyTThyUXVrM1FsRU1wT3poWFNCc1dzYTJ1NlFFRF80ZnBobklMRURTWGVWa193eWVFTmQ5Uy15d1Q5LUczaVp4bkZ0WGQyZ1lDSTBOc1hBQXlkOEstaVhwYmIzUGlQd2FkaURLTHNiUEZUX2ZPeXFlYVNRRUlUWjcweG1sWTBrRTBDN0k3dlFVblZTX1BqSDJBSGw5Y09kclE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 18 Jun 2026 17:36:22 GMT",
+      "snippet": "Audiera (BEAT) Collapses 88% in a Week—Have Investors Just Witnessed a Classic Pump-and-Dump?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Audiera (BEAT) Drops 27.85% Amid AI Hype Correction - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JTW92T09qeE1RUTAxemM0TUkwUV81aTJ3SlJ2VG1LZ09tVXdFaFI4MEdHdWM3Z0k2QUZYNmRWc0hyVVVraXI2dDVyTlRBaWx3X3JmR1Y0bVFsZFZqWUlzRW02UGtxU2I2ZE90ZEdFNlE?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 15 Jun 2026 11:05:00 GMT",
+      "snippet": "Audiera (BEAT) Drops 27.85% Amid AI Hype Correction&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Audiera Price Prediction 2026-2030: BEAT Forecast & Outlook - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oYVk4RVVtQzZQR3BpVEp3UGdRMXA0cDRWMXVYa1Q2N3BmcjkzMm82V2FkR3JxZFlHNkctNDF5ekNVZ2d2N0hUWEJjS2JCWEVBd1g2dVk0bVVxdVk1UDFqWlByTUpxbEk3Rk5JSnItc0kxc0RRcVIw?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Mon, 08 Jun 2026 06:55:00 GMT",
+      "snippet": "Audiera Price Prediction 2026-2030: BEAT Forecast & Outlook&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "After Humanity, Siren, Audiera Price Crash, is SKYAI Crypto Token Next? - BanklessTimes",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2M1UllLNnRGa3JZZzNYaGV2TGZnam5IRlI3cGVRSk1zODZuenVWT1VyRVBqM1VFdjdnR1NDVi1BZlhfenlmZHNKNjlELUc4NC0xbGprZHd6b0lvRGlEVGlGeW04Z21RNXp6M2tGUXBkM2UyU2ZocEdTekxLa2djMlFjNVdXT3luMktxc1JvMjBqLWRadkVwSUJCNmdpNUlYRFQ1aWsxU1NMX1NTdHBNbGo1TkZVZEt0WHc?oc=5",
+      "source": "BanklessTimes",
+      "publishedAt": "Tue, 16 Jun 2026 12:57:41 GMT",
+      "snippet": "After Humanity, Siren, Audiera Price Crash, is SKYAI Crypto Token Next?&nbsp;&nbsp;BanklessTimes"
+    },
+    {
+      "title": "What Is Audiera? BEAT Token Explodes 380% as Correction Risks Rise - CryptoTicker",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tUEdBaUEwWWcyVTVQMHhMNmQxemp4eTIwZElRSFBpQVR1SmhWR0tuV1hsTnNfZ0hDWmtUemxFVVJXWHhPdTNGbGM5V2tFOVZiUDJQaDBxRUNmSU9aNEFhaTVHUENPRmJUZkFSWk41cFJMc0hJMjNPQw?oc=5",
+      "source": "CryptoTicker",
+      "publishedAt": "Wed, 10 Jun 2026 10:25:18 GMT",
+      "snippet": "What Is Audiera? BEAT Token Explodes 380% as Correction Risks Rise&nbsp;&nbsp;CryptoTicker"
+    },
+    {
+      "title": "Audiera Price Today in Turkey | BEAT to TRY Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vU2Fhd01TeFR4ZUNQUTBXb0ZNRXZIMFh4XzNnTENuMDFKdWY4bnl1bWpYS2Y4NTBUWElfVlNsSTdielNJbl9LZEJTNF9kLTVEeElwX19n?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 08 Jun 2026 20:47:00 GMT",
+      "snippet": "Audiera Price Today in Turkey | BEAT to TRY Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Why Audiera [BEAT] is THE token to watch out for this weekend - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiNVg2aW9uNHF4ZjBWdHA0ZUFkbWI2Y0w3V1pvMGh6QW5JcE1YUG5XblVwTmtMbUN6ZklHbnV5eW5DRFlsTi02V18yWW1XOHd5U1dmeU1YZUhmbmM?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Sat, 30 May 2026 20:39:01 GMT",
+      "snippet": "Why Audiera [BEAT] is THE token to watch out for this weekend&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Audiera’s AI token BEAT beats Bitcoin, Ethereum as price surges 1,500% in a month - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaEVmNGZma19mYVZZMjFqNXhGSnVETGVFT2htLWVSZ25hUW5pYmVjRExjNzBoSXc5WFhjOXJUeGZsbmpJSW50Z1ZtZzZ2TUxxYmpobG91a2dLQmdyNWVOZjhrTUJ5X3ladFhfcTVST1N3anl3dGJBZGN0RFZ6emQ2U3ZqbFI3YjdXUGpLQUg0ZHpPdFd3MlBucUQ0U0xWQkJESnZydlJYWjFXalEtQ3JGbHNDb19Tb3RtVkJWdlo0Rm1Lczd0SUc4M1AwV2xzWTBaR0stelQzVFd5Y3c?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 11 Jun 2026 12:08:03 GMT",
+      "snippet": "Audiera’s AI token BEAT beats Bitcoin, Ethereum as price surges 1,500% in a month&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Audiera Price Prediction: Can the BEAT Price Spike to $3 Before Christmas as Gaming Tokens Make a Comeback? - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmRTand5eHpUdUl4WkdJR3Z0SHk1NTBKakxhMF9pcXNUOHZxOUVQRVBZbjlrT2JMb1NqcEZOdjJ6ZWk1cmZaWktpRmtyZFlQOGtLNU9EVGRWOFVzOWk1UEJGSVYyeGY5TWpZeVI3TUk0dy1JSTZ6OU1UUExwcHRFLVVLQTNBRGJQbVA3NnRfQXFadkg4T2tmanl2QXg1Rzl4dlpLT3VFeVphSE9wWVd4cUNnbGptVHFTU2tLa1dMeHBMQk50SkNicmdzVUhPQQ?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "snippet": "Audiera Price Prediction: Can the BEAT Price Spike to $3 Before Christmas as Gaming Tokens Make a Comeback?&nbsp;&nbsp;Cryptonews"
+    },
+    {
+      "title": "Why Audiera’s BEAT Token Jumped 13% as the Crypto Market Dropped - BanklessTimes",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2MyYWFMdk03WUtKRnRjMFFxTHlFU2NabnFublFKamlmT20xa3l0M3dKbGNjdTVNQXlYSTVoRVowVC1oUktqeURiQXNPZzNwcGlKd2JkQURSUXdjTGhmSW1OVlBtOEhyRjF5cUZta3ZhYmFPZmg2em5oUkJpSzhRVDJmN3k5OFF4UjBxdnJ4ZTlCaml6Q3g2RFpfUlZ5QjR2cTJXSTRoZnA2ZUtJcGJIWmZsaw?oc=5",
+      "source": "BanklessTimes",
+      "publishedAt": "Sat, 06 Jun 2026 05:45:36 GMT",
+      "snippet": "Why Audiera’s BEAT Token Jumped 13% as the Crypto Market Dropped&nbsp;&nbsp;BanklessTimes"
+    },
+    {
+      "title": "Dance, Earn, Connect: Discover Audiera (BEAT) on Phemex Today! - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoekxTMXVQTHp5aWxnbEpiWGJlZ2Q5NWFPYkp0eDRlOVVPNWVDeTVBdU01QV8tTmFGV1FYLUpublpBNkFsTGtIdEF2WUdNMnhsYUY1eXVndS1ZRXlJOTVWZ1ktZmFNaUQzZ3VmZ19XR1psTUc1VTl3?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "snippet": "Dance, Earn, Connect: Discover Audiera (BEAT) on Phemex Today!&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Humanity, LUNC, Audiera, Toncoin prices jump: is this a dead-cat bounce? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVC1tZjVOUUdXTXdzTk1lZWpjMEhPLV83THVXSTlQRzdOR29WWVlRZ3haMUEyZG5RRElxb1VfZnMxOGlQMEpKT2psM0M2NzdVQWhtWVBSeUowaDF0ZklQbHpGNjdTcTBtV1hhbHN2T3M4aU5tbElZakRDQWt0LV9MbmFrdk9IRnc0OFFCYlQ4bG1JMXBFWU5jVlQ5dGthbWhiSlRkeUc1MGI?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sun, 07 Jun 2026 06:10:58 GMT",
+      "snippet": "Humanity, LUNC, Audiera, Toncoin prices jump: is this a dead-cat bounce?&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
