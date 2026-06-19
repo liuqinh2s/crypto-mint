@@ -1,0 +1,229 @@
+{
+  "token": "OG",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T01:58:16.078Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "OG",
+    "name": "OG Fan Token",
+    "generatedAt": "2026-06-19T01:58:08.298Z",
+    "summary": "OG Fan Token近期无明显上涨催化，价格处于下跌趋势，24小时跌3.3%，7日跌8.5%。基本面受Chiliz收购51%股权及合约迁移至Chiliz Chain支撑，但市场情绪偏弱，流动性一般。短期不建议买入。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大赛事合作或代币应用场景扩展，可能转为观察"
+    },
+    "catalysts": [
+      "Chiliz Group收购OG Esports 51%股权，可能带来生态整合",
+      "合约迁移至Chiliz Chain（CAP20），提升技术基础",
+      "电竞粉丝代币赛道整体回暖"
+    ],
+    "latestNews": [
+      {
+        "title": "Chiliz Group Takes 51% Stake in OG Esports",
+        "impact": "利好",
+        "reason": "Chiliz作为粉丝代币平台龙头，收购OG Esports控股权有望增强OG Fan Token的生态应用和流动性"
+      },
+      {
+        "title": "Binance Will Support the Chiliz Fan Tokens Contract Swap on Chiliz Chain (CAP20)",
+        "impact": "利好",
+        "reason": "合约迁移至Chiliz Chain可能提升代币的技术兼容性和交易便利性"
+      },
+      {
+        "title": "OG Fan Token Price Today | OG to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格跟踪页面，无新增信息"
+      }
+    ],
+    "fundamentals": [
+      "OG Fan Token是OG Esports的粉丝代币，总供应量500万枚，当前流通约471万枚",
+      "OG Esports是Dota 2知名战队，曾两次获得世界冠军",
+      "Chiliz Group于2025年9月收购51%股权，代币已迁移至Chiliz Chain",
+      "代币主要用于粉丝投票、奖励和社区互动，实际应用场景有限"
+    ],
+    "marketRead": [
+      "24小时交易量约188万美元，相对市值约1200万美元，流动性一般",
+      "价格自ATH 24.78美元下跌约90%，当前2.55美元，处于历史低位",
+      "近期价格持续下跌，24小时跌3.3%，7日跌8.5%，30日跌20.2%，无反弹迹象"
+    ],
+    "risks": [
+      "粉丝代币市场整体低迷，OG缺乏独立催化",
+      "电竞战队成绩波动可能影响代币需求",
+      "合约迁移过程中可能存在技术风险",
+      "代币供应量已接近上限，无通缩机制"
+    ],
+    "watchlist": [
+      "Chiliz生态整合进展及新应用上线",
+      "OG Esports在Dota 2等赛事中的表现",
+      "粉丝代币板块整体资金流向",
+      "Binance是否上线OG/USDT永续合约等衍生品"
+    ],
+    "sourceNotes": [
+      "Binance API因地区限制无法获取实时行情，价格数据来自CoinGecko profile",
+      "新闻来源包括Google News聚合，部分新闻日期较早",
+      "市场数据为静态快照，未包含深度订单簿信息"
+    ]
+  },
+  "profile": {
+    "id": "og-fan-token",
+    "symbol": "OG",
+    "name": "OG Fan Token",
+    "categories": [
+      "Entertainment",
+      "Sports",
+      "Binance Launchpool",
+      "Fan Token",
+      "Solana Ecosystem",
+      "Base Ecosystem",
+      "Chiliz Ecosystem",
+      "YZi Labs (Prev. Binance Labs) Portfolio"
+    ],
+    "homepage": [
+      "https://ogs.gg/",
+      "https://www.socios.com/og/"
+    ],
+    "description": "Not only did OG win the first ever Dota 2 Valve major, they also were the first team to claim four of them. They’re also currently the only team to ever be crowned World Dota 2 Champions twice. Willing to take a step further in becoming an esports powerhouse, we decided to create OG Seed, to help grow Dota 2 players, and welcomed an amazing CS:GO roster as well. We may be skilled, but the true strength of OG is its people.",
+    "marketCapRank": 1065,
+    "currentPriceUsd": 2.55,
+    "marketCapUsd": 11992099,
+    "fullyDilutedValuationUsd": 12731017,
+    "totalVolumeUsd": 1887105,
+    "priceChange24hPct": -3.30277,
+    "priceChange7dPct": -8.52313,
+    "priceChange14dPct": 0.6874,
+    "priceChange30dPct": -20.21525,
+    "athUsd": 24.78,
+    "athChangePct": -89.71194,
+    "circulatingSupply": 4709796,
+    "totalSupply": 5000000,
+    "maxSupply": 5000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 5401,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "OGUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=OGUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "OGFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=OGFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "OGUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=OGUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "OGBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=OGBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "OG Fan Token Price Today | OG to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwMk1wV18tZEZLcEF6WTgwWVhwM29yUlhUQnBMVzFLY1A0MFFBMVNRTVU3V19sQUYtbXp1ZzlxTE1saGMzaG5HYWMzLWxoMzMwdzVibXNTWUxLXzgy?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 04 Jun 2026 19:49:00 GMT",
+      "snippet": "OG Fan Token Price Today | OG to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "OG Fan Token (OG) Coin Price Prediction & Forecasts: Will It Rally to $18 After 0.58% Dip and Surge 20% by End of 2025? - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUjRJS3VNYjR0SXUySmMxSk5VUmdEYkRhTnhGeWdKR2lyTDhRd1BjZ3E0V2NwaDd4bmF3ZExiS3F6ZHBwQU1iOUx4SFhQZ3A3NnY1bXYxMFNxSFF0TkhQMG9zQUxLRk5sQWNxTGtCQk0xaHROeWpjTHE4MmhMWDRoU0VQdk1HUXA2dXpvV21VbFphbV9HWHkwWkM2ajc2YXZpVDdEUmVfcGxIaFYzWU5kSy1Ob2dKN01LQ1lyT200czZsa3M2Q2VXcGxvcE5Oc29DeWQ0NW00UDZ5ZWZVbU9jcUVrMA?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Fri, 17 Oct 2025 07:00:00 GMT",
+      "snippet": "OG Fan Token (OG) Coin Price Prediction & Forecasts: Will It Rally to $18 After 0.58% Dip and Surge 20% by End of 2025?&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Fan Token Firm Chiliz Acquires 2-Time 'Dota 2' Champions, OG Esports - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSV9sUmdjNkR3dWN3dVZqVG9ReGh3cHRRX2dTWHR2TlFUTmFiNDJaYkVibzV6b0FFbWZuSHkzd0FIeEtQMVN6YmxPcWowamRNMlRhdlVFVVVPN3VIanA0bjdxVlJEWjdHaVRUaFVNNzVUcXlldnRHX1ZBd2lqZG8tNzRn?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "snippet": "Fan Token Firm Chiliz Acquires 2-Time 'Dota 2' Champions, OG Esports&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "OG Esports Enters New Chapter as Chiliz Group Secures Majority Ownership - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xdzF5Y1YtR1FMT1lJMjRtamtHbzBOQ2dkdTluTEJyR2hMRU9MN3RqVVBCSVI0M3RzMHM4SUp3a3FPWFNhWDQ1NFdFejRpY2tDVERjNUUxQUFkWkkyY2fSAWNBVV95cUxQcjJlaHdWU29YU1dxblB4OFZwOHVaY0pKVFN3WDFpNnFXa2xYWUZnMmN5ZENwRnl3V2QtU0I3MWNjUTNLWEZYa3N4U0I4SlBmRzVjdGtWYzJvN2ltN0NmckJFQkU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 31 Dec 2025 08:00:00 GMT",
+      "snippet": "OG Esports Enters New Chapter as Chiliz Group Secures Majority Ownership&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Chiliz Group Takes 51% Stake in OG Esports - The Esports Advocate",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMU1QNWlhTktJdUl1RUNxWGpqM0dwelZNRlc3bUluZlg3aDFra3VoaFAydHJqNEdqV1ZUcGt2aWt3RU4yMlJfNlVqcVZRNk4yZkFIX2JRRjNTTW5TRUtXYWV6bHp1VjlBbmVHdV9DSUYzQml1Wm8wNVRYMkllc2trZUtYelA?oc=5",
+      "source": "The Esports Advocate",
+      "publishedAt": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "snippet": "Chiliz Group Takes 51% Stake in OG Esports&nbsp;&nbsp;The Esports Advocate"
+    },
+    {
+      "title": "Binance Will Support the Chiliz Fan Tokens Contract Swap on Chiliz Chain (CAP20) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMExGYkw5WVAwdlYydS15eXBaNWxQLVlYWGExSFpfWU9rR3N2UzR1amExb3V2OFZ4dDVMT0JQU1ctNmlsd3kySjJ2UVUyWXRvQ293SmUyN2NLSHFWVDlSdkN6di1TeXpKT2lBVW9UdFVkRzREUVZLbEllZG5wRFFjSDdyQUFkZHZCNDdKYWdwa0E?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 08 May 2026 07:00:00 GMT",
+      "snippet": "Binance Will Support the Chiliz Fan Tokens Contract Swap on Chiliz Chain (CAP20)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "FanX Protocol Statistics: Markets, Trading Volume & Trust Score - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WbFNSU3hzTGJkbEdCRF8xTDNUemlqZmpDbzF4cGxOaWc0b0g3emNjcTJjWEJPd2FpNkhNTlQ4UGROUm1yRjJQbFkweXlIRmVReGljRy1XaWp2djZUejgxM1pn?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 21 Oct 2025 06:59:33 GMT",
+      "snippet": "FanX Protocol Statistics: Markets, Trading Volume & Trust Score&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "PSG Fan Token Pulls Back. Is Breakout Still Ahead? - DailyCoin",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yMUlkcEJSYzZ1UlJ6MEQzOUNuMFFzS2l0MVVXRHFhV2lSQkNYQ3RBa1ltdEM5emVNUTRVLUROZTNXMzFUalhkaHZocERiQl90N2NyNUZCUnhmSlhKdUkybzA3dHY2TEF1UERNMVBaSQ?oc=5",
+      "source": "DailyCoin",
+      "publishedAt": "Thu, 14 Aug 2025 07:00:00 GMT",
+      "snippet": "PSG Fan Token Pulls Back. Is Breakout Still Ahead?&nbsp;&nbsp;DailyCoin"
+    },
+    {
+      "title": "OG Fan Token Price, OG Price, Live Charts, and Marketcap - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YUVE2T1A5UTNfVWtyRk03THVWSFZvbjZzZWZKcXFobEQtWDZaNVJMc2lrY0c1MEZfeEpTdHJjLTZOdUJNTmFrZllnLXNoWGVfb205Y3BhY3RTM2c1RUE?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Mon, 21 Apr 2025 08:02:36 GMT",
+      "snippet": "OG Fan Token Price, OG Price, Live Charts, and Marketcap&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "OG Fan Token price today, OG to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxd2VZcEZRQTZKSkJuSHhOeWJnMmZIT1VGZlBDUEl4MWJtcnJER29uYm9jZVVEbWdGVkZvY3BZc3ZmVVdNVlJRWmhyR0c3ZXJwamFRME4yQjZyRjh5YzVr?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sun, 21 Jun 2020 23:44:59 GMT",
+      "snippet": "OG Fan Token price today, OG to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "The Chiliz Group acquires 51% of OG Esports - Esports Insider",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mbnVMWi1hNkRxQnI2V2NvbFd3VmQzLTZTYTBwNkg2ZnlVMlM2dUtXRjZHNlR1cTkza2MtdTZ5UXpuTzBocDNaQVZHcWptZ0t1UTFlNFF2eVJUbVNiZTdUSGRYWlFOYnlZcC1Db2ZqZ0JXTkx0azJhVUpfeVBuQms?oc=5",
+      "source": "Esports Insider",
+      "publishedAt": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "snippet": "The Chiliz Group acquires 51% of OG Esports&nbsp;&nbsp;Esports Insider"
+    },
+    {
+      "title": "The Chiliz Group acquires 51% Stake in OG Esports - GosuGamers",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTFVzU3RHUXdMWnM0aTJ1UUdEUjZ0eGRWOXMwZlRES0ljbEo1OXczYTMtRkdTdk1LMkJiekFDM1hfUzV1QWs1Rnd5ODZQWDVZOFdMLWQxa1R6d2trekRuSGx1VnJtbEpKd1dRVjl5Qk1wNDQ2MWd3d0lCMU5ZdXNqb0oycWhiRUd4aTV5SWdqSEhvajh0ZFpR?oc=5",
+      "source": "GosuGamers",
+      "publishedAt": "Wed, 17 Sep 2025 05:18:15 GMT",
+      "snippet": "The Chiliz Group acquires 51% Stake in OG Esports&nbsp;&nbsp;GosuGamers"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
