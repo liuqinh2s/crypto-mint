@@ -1,0 +1,226 @@
+{
+  "token": "BASED",
+  "exchange": "bitget",
+  "generatedAt": "2026-06-19T01:18:27.731Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BASED",
+    "name": "Based",
+    "generatedAt": "2026-06-19T01:18:21.132Z",
+    "summary": "BASED近期因Hyperliquid生态热度及金融超级应用叙事上涨，但基本面支撑不足，流通市值低但FDV高，存在较大抛压风险，建议观望。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若价格跌破0.08美元或成交量萎缩，则上涨逻辑失效。"
+    },
+    "catalysts": [
+      "Hyperliquid生态热度持续，BASED作为其上的金融超级应用受到关注",
+      "SEC可能允许股票代币交易，利好合成资产和DeFi平台",
+      "近期价格突破前高，技术面看涨"
+    ],
+    "latestNews": [
+      {
+        "title": "US SEC poised to allow stock token trading in potential market shakeup",
+        "impact": "利好",
+        "reason": "若政策落地，将利好合成资产和DeFi平台，BASED作为交易股票、商品的平台直接受益。"
+      },
+      {
+        "title": "SpaceX stock is coming to Solana on the same day it lists on Nasdaq",
+        "impact": "中性",
+        "reason": "显示代币化股票趋势，但BASED在Hyperliquid上，非Solana，间接利好。"
+      }
+    ],
+    "fundamentals": [
+      "项目定位为金融超级应用，支持交易加密货币、股票、商品，并提供Visa卡消费",
+      "基于Hyperliquid构建，属于HyperEVM生态",
+      "总供应量10亿，流通量2.35亿，流通市值约2300万美元，FDV约9800万美元",
+      "当前价格较ATH下跌68%，处于低位"
+    ],
+    "marketRead": [
+      "24小时涨幅25%，7日涨幅34.5%，14日涨幅54.8%，短期强势",
+      "成交量4742万美元，相对市值较大，显示交易活跃",
+      "但无Binance等主流交易所数据，流动性可能集中在Bitget等二线交易所"
+    ],
+    "risks": [
+      "FDV是流通市值的4倍多，未来解锁抛压大",
+      "项目处于早期，用户数和生态成熟度低",
+      "新闻面多为AI相关，与BASED直接关联弱",
+      "无主流交易所深度，价格容易被操纵"
+    ],
+    "watchlist": [
+      "SEC关于股票代币交易的政策进展",
+      "Hyperliquid生态发展及BASED用户增长数据",
+      "代币解锁时间表",
+      "是否上线Binance等主流交易所"
+    ],
+    "sourceNotes": [
+      "数据来自CoinMarketCap，但Binance行情获取失败，可能因地区限制",
+      "新闻中部分为AI定价相关，与BASED无直接关系，仅保留可能相关的两条",
+      "无链上数据或项目白皮书细节，基本面分析有限"
+    ]
+  },
+  "profile": {
+    "id": "based-one",
+    "symbol": "BASED",
+    "name": "Based",
+    "categories": [
+      "Decentralized Exchange (DEX)",
+      "Decentralized Finance (DeFi)",
+      "BNB Chain Ecosystem",
+      "Derivatives",
+      "Perpetuals",
+      "Ethereum Ecosystem",
+      "Hyperliquid Ecosystem",
+      "Binance Alpha Spotlight",
+      "HyperEVM Ecosystem",
+      "Prediction Market Tools"
+    ],
+    "homepage": [
+      "https://based.one/",
+      "https://basedfoundation.com/"
+    ],
+    "description": "Based is a financial superapp built on Hyperliquid that lets users trade crypto, equities, and commodities from a single interface, fund accounts directly from bank accounts or credit cards, and spend balances at over 100 million merchants worldwide using a Visa Platinum card that converts at the point of sale with no separate off-ramp required. The platform operates across web, iOS, Android, and desktop with one account, and includes features like curated Launchpools for early project access and AI-native wallets for autonomous trading and risk monitoring.",
+    "marketCapRank": 754,
+    "currentPriceUsd": 0.09814,
+    "marketCapUsd": 23024343,
+    "fullyDilutedValuationUsd": 97975926,
+    "totalVolumeUsd": 47420222,
+    "priceChange24hPct": 25.03586,
+    "priceChange7dPct": 34.55635,
+    "priceChange14dPct": 54.78592,
+    "priceChange30dPct": 35.65356,
+    "athUsd": 0.308046,
+    "athChangePct": -68.09649,
+    "circulatingSupply": 235000000,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 2130,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "BASEDUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BASEDUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BASEDFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BASEDFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BASEDUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BASEDUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BASEDBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BASEDBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1dja1FVaUdNTVd0U3ZlV1ZOTGlVRkFGQWI1Q09CZFpzM1BMLS1vQ2VlV3F4dWVSNFRzek5kX3ZkMFBEM19BR1VGbzM3R2w5SE9TR3BjVVV1X3lLZWl3Vk13YUtGcHJpcU1tYnFweWhVUjMxdG9BYk5waG9NTFpOS3RqTVJvdGRDX0preUlpZ01GeXYxYUd3RWpKRjYtZw?oc=5",
+      "source": "Ars Technica",
+      "publishedAt": "Tue, 16 Jun 2026 21:00:35 GMT",
+      "snippet": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK&nbsp;&nbsp;Ars Technica"
+    },
+    {
+      "title": "US SEC poised to allow stock token trading in potential market shakeup - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSU5DUG1RTzhGdHE3aDRHWTZ3RFRqR3l2Xy1INEVxUDlKQUtiXzlwZGg5YmIwdnlDYm4zSDNxS3dKU0ZtLWlSUGQ2ZFNFQU5ibkhmT2NvYnFmcEtUTVU1OFZsSkdNWHpSQnByRkNhdlhTM0VONUpSdW1BNGxKZThjMlZodXFyM18zYTJ1ckxSUmpjRllzRXNLN196SUFVa25JTk9lTXN1ZlFqLW1NVHN5VUZYekVjOUhf?oc=5",
+      "source": "Reuters",
+      "publishedAt": "Wed, 17 Jun 2026 13:22:15 GMT",
+      "snippet": "US SEC poised to allow stock token trading in potential market shakeup&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "Is NOAR a Scam or Legit? What You Should Know - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTlFTZWlpdG13a2NDOVRTUTEwRVpaZWNVYmMzR1ZSSk16YnNxQ3o3TlZFZTYxMHlCUS03Z0liVGdhdXdkZmtUQ0tTekRkQlRpVmN2c2JtdXlTejRzaVFYWTN0SHZXcTdZOEkyX3pISWN5N2d3YzRwTnJaMmN2TVFJM25wTDBrX2hJcUk2T3h4SG1NcVpsZlVqU2xVZWw4NlNjRU5EU1lR?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Thu, 18 Jun 2026 18:19:04 GMT",
+      "snippet": "Is NOAR a Scam or Legit? What You Should Know&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Anthropic pauses token-based pricing for Claude Agent SDK amid concerns over AI usage costs - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY2EyaWlHWUZqMEdoUzVONnJVb01hQk9BcXNGUE1wQzM3MnlqcVB5dlFvektCREZEbGhiUWhMcGFhM0p1RXFLQjNyOW81RlgwRk1WNkg4S1JHdTd4NTYySG1TRnpyemxXcUVaMk9ER196YVpadnZnQS1GMlcxVzVYb2ZSRmo0aUh1TDJIbDRiZDVxbEUxeW1Yd1pfSDlFeV82Q3A3R1NiTUJXR1Z1UzQ5VFlkdWJNeDJvQ1JCOUdVVmVRRG1ZRnBIa9IBzwFBVV95cUxNVGtVa1ljTGQ2TXJZSFJnOU5xejd0WTJDM3FaWEl2SjZXTjRWbzM1NVBnOFVuZllnX3h5V1BfbmJqVElPYTdJQkNYX1FFVGEybUZEcWM0SGVrTkV5ZUNqSkFmYVNGWFZBOFMxYW5PU2x6WjdXVEVmMTM0UWt4YlVzeVBwR2o0dHNmel9SSjhuZ0RFbDZLNlBYcVZqQnN5eDd5dFk5RHp2NHN3VHFDUGlETWN5cGFDTHE5S1BWc2lXLXlaS3ExcllRZjBMQm5VckU?oc=5",
+      "source": "The Indian Express",
+      "publishedAt": "Thu, 18 Jun 2026 04:00:00 GMT",
+      "snippet": "Anthropic pauses token-based pricing for Claude Agent SDK amid concerns over AI usage costs&nbsp;&nbsp;The Indian Express"
+    },
+    {
+      "title": "GitHub Copilot is moving to usage-based billing - The GitHub Blog",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOHhtQUlmYkhWR1FzdU0tT2tBcEJFSDZJOF9JMEVfV0U4djlEQXJST2laRHlpOTBZV0dKWnQyeTY2ZlFCRmhlNzc0ZG9pbkc4M0RYWjdoLTRZdWthVWFJQll5UVVWd3VpODZXUnNWNjdUcERTa0U4RmtLcUh1c1pMU01aVURBb0ZFZmhsMmhoeVp4cXpZa0VTOWU5RQ?oc=5",
+      "source": "The GitHub Blog",
+      "publishedAt": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "snippet": "GitHub Copilot is moving to usage-based billing&nbsp;&nbsp;The GitHub Blog"
+    },
+    {
+      "title": "Building Token‑Metered AI Services on Telco AI Factories | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWF9DdmdtUmFWYzBYbFRjOEZOUkxBcWhwNm85eEw0UkRSeExPMTQyN2l2VzBpVzBSTHBsNjFBNUlVdDdGbjRNRjQ0TnQ5ZFNrMGxaTFFNUUlXR0cwcGc4TzNlVEhjMFZmYTZhR2EtdF84U0lhX0ZPSVRpYkRETjB3SkFlMHgzVGx3YmFxcVFXZkRpMWVLNWc?oc=5",
+      "source": "NVIDIA Developer",
+      "publishedAt": "Thu, 21 May 2026 07:00:00 GMT",
+      "snippet": "Building Token‑Metered AI Services on Telco AI Factories | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "GitHub Copilot users see token-based price hikes - AI News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzUxREpvc1JBNlFxMFZpRFpjbVVJMWhFNFVrTWg2VUItY0lxdU8xX2lTeHBDWWhsb0FGNjBNMmh3TGVzeW4ySkUwNlZuYk1aMkQ3TDVKcVMzSk9fRDRzNDJ4LXp3UHF4RnZ1Vm5STFl4SndPd0hubE9YUkxCTVR3eFFtbVpUb1B5Nm5ESXd6ZW9kS1Y3ME5UTEtGaVkxcGFEb0g3dlpEbldoSGlLbWp0MVEzNA?oc=5",
+      "source": "AI News",
+      "publishedAt": "Tue, 02 Jun 2026 11:26:35 GMT",
+      "snippet": "GitHub Copilot users see token-based price hikes&nbsp;&nbsp;AI News"
+    },
+    {
+      "title": "SpaceX stock is coming to Solana on the same day it lists on Nasdaq - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTEhfb2paS2lyZTlJRzVNeFA3TnUzYVdVUEEybi03b2ZaWW1pT1JlMVBGUEduNU42bDZnWW1KeW1EZFdCUWFaNlU2V0dPUDhIQW1XXzQ5R1Ztbm5wd2t4cHJ2RnVmaXNRbUNtTG92OGQzS2V5dmNWVHlrcnozVFdwWC0wb1ZCamtweHVLdFN4NjE5MFREOFJTQURBOE5sa1BFdmFJSGR0UTFJa0Yz?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 11 Jun 2026 17:17:30 GMT",
+      "snippet": "SpaceX stock is coming to Solana on the same day it lists on Nasdaq&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Based price today, BASED to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qeTJuX2JvM0ViaW4xRlBkSTkwUVk5NFI5bF9HdzE1NHE3Sk52YU1NOXdTemVNNl9PNDZQUzRqVDVMUXhzNE9XYWRlWUtRdWdWLTNMUkRxMG1LQQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sat, 28 Mar 2026 06:49:31 GMT",
+      "snippet": "Based price today, BASED to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkNKd2hyWjQ5S2E5TjZocGlGSGVwODVxaWxKQlJOS3FCSVNoT19UNkQ2UzJSOVRNTGIxdzljWmROX3pyZmMyM0l1MVp5b2NMbTdETnJLSHR4X2ZvZ2NhRkhVZkVaUUpMYTIwcTV1SGdOcFlmZnNnQ1ZWaTNVc3pKRHBGNGExUFVSMUI2Z2pOcHlmcGxBeXF0SlBoOXFFTk55RnJUQXpRSXAzbm43bzRFOVlpSThkdHE0?oc=5",
+      "source": "TechCrunch",
+      "publishedAt": "Sat, 30 May 2026 07:00:00 GMT",
+      "snippet": "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "GitHub Copilot users get a rude awakening as new AI pricing goes into effect - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTHBHXzM3UUF4b1k2ZmtiREJmZkJqRnN5WXJEUG96eHFMdUlZem9ESXYwZDFPZFBwRmJPZ202MFkwQ0dIMnBWSEs5WkNVTzRMNHdCenJfOWxLRUVUeDFtOUE3S0dLaEtJMXhvamJFUjZiRHhKYUpjUkNTOTd0TVBvT096UkFVWmVFOTRaUVh4Yk5oQQ?oc=5",
+      "source": "Business Insider",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "GitHub Copilot users get a rude awakening as new AI pricing goes into effect&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnb1A3b0JmZEFBM0VYLUdpVHB2bTdWcTFBc2Y0dkJhaFBiLVBCS2Q0UXAzM29WVWRtQ3lnbENkQ3VxSlZCQnNsQk9rbnlkQ2tsaFhyY3NHOW5rWHZKZjR3QWR4eDZtNFVKMnduUWlUVG5jZFlrdjJva0RGcw?oc=5",
+      "source": "Fortune",
+      "publishedAt": "Fri, 22 May 2026 07:00:00 GMT",
+      "snippet": "Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees&nbsp;&nbsp;Fortune"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
