@@ -1,0 +1,232 @@
+{
+  "token": "VELVET",
+  "exchange": "other",
+  "generatedAt": "2026-06-19T01:47:52.563Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "VELVET",
+    "name": "Velvet",
+    "generatedAt": "2026-06-19T01:47:42.672Z",
+    "summary": "VELVET近期经历剧烈波动，先暴涨885%后暴跌70%，团队钱包被曝抛售2000万美元代币，当前价格0.49美元，较ATH跌73%。基本面有Binance Labs投资背景，但短期风险极高，流动性差，不推荐买入。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现新的实质性利好（如大所上线、产品落地）且团队抛售停止，可重新评估，但当前无任何买入理由。"
+    },
+    "catalysts": [
+      "Binance Labs投资背景（YZi Labs）",
+      "AI+DeFi概念（DeFAI）",
+      "Binance Wallet IDO项目"
+    ],
+    "latestNews": [
+      {
+        "title": "Velvet Capital Team Wallets Dump $20M in VELVET Tokens After 10x Surge",
+        "impact": "利空",
+        "reason": "团队在暴涨后大规模抛售，严重损害市场信心，是价格暴跌的直接原因。"
+      },
+      {
+        "title": "The deployer-linked address of VELVET transferred over $2.5 million worth of tokens to exchanges before the price crash.",
+        "impact": "利空",
+        "reason": "部署者关联地址在崩盘前向交易所转移代币，暗示内幕抛售。"
+      },
+      {
+        "title": "VELVET altcoin spikes 885% in a week then plunges amid thin liquidity and heavy leverage.",
+        "impact": "利空",
+        "reason": "暴涨暴跌由低流动性和高杠杆驱动，风险极高。"
+      }
+    ],
+    "fundamentals": [
+      "项目为AI+DeFi平台，属于DeFAI赛道",
+      "获得Binance Labs（YZi Labs）投资",
+      "总供应量10亿，当前流通4.2亿",
+      "ATH 1.83美元，当前0.49美元，跌幅73%",
+      "市值约2.06亿美元，FDV约4.89亿美元"
+    ],
+    "marketRead": [
+      "24小时涨幅41.8%，但7日跌幅70.4%，波动极大",
+      "成交量3323万美元，相对市值较小，流动性不足",
+      "Binance交易对无法获取数据，可能未上线主流交易所",
+      "市场情绪投票看涨比例84.6%，但可能受操纵"
+    ],
+    "risks": [
+      "团队及早期投资者抛售风险极高",
+      "流动性差，容易暴涨暴跌",
+      "价格已从高点大幅回落，但仍有进一步下跌空间",
+      "缺乏持续利好支撑，概念炒作已退潮",
+      "监管风险：项目方抛售可能涉及市场操纵"
+    ],
+    "watchlist": [
+      "团队钱包地址动向",
+      "是否有主流交易所上线",
+      "项目产品进展及用户数据",
+      "市场情绪和成交量变化"
+    ],
+    "sourceNotes": [
+      "数据来源为CoinMarketCap和新闻聚合，Binance交易数据不可用",
+      "新闻时间集中在6月10-15日，信息较新但负面",
+      "部分新闻来源权威性一般（如Bitget、Pluang），但内容一致"
+    ]
+  },
+  "profile": {
+    "id": "velvet",
+    "symbol": "VELVET",
+    "name": "Velvet",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "Decentralized Finance (DeFi)",
+      "BNB Chain Ecosystem",
+      "Base Ecosystem",
+      "YZi Labs (Prev. Binance Labs) Portfolio",
+      "AI Applications",
+      "DeFAI",
+      "Binance Wallet IDO",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://www.velvet.capital/"
+    ],
+    "description": "",
+    "marketCapRank": 176,
+    "currentPriceUsd": 0.490968,
+    "marketCapUsd": 205891363,
+    "fullyDilutedValuationUsd": 489285076,
+    "totalVolumeUsd": 33235776,
+    "priceChange24hPct": 41.76569,
+    "priceChange7dPct": -70.3646,
+    "priceChange14dPct": 305.72609,
+    "priceChange30dPct": 365.70648,
+    "athUsd": 1.83,
+    "athChangePct": -73.34421,
+    "circulatingSupply": 420800414.4902285,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 84.62,
+    "watchlistUsers": 2688,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "VELVETUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=VELVETUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "VELVETFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=VELVETFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "VELVETUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=VELVETUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "VELVETBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=VELVETBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Velvet (VELVET) Price Prediction: Daily, Weekly 2026 – 2040 - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KUTFxT2FjdUt0SnhYMkc4LV80ai01UC1vRzF3SW1NcS1zWHlCRDEtbU92anB1TFdrZng4XzRfMTZFM3ZGc1F1Y2Y2ck81YTdVMU10ZGNsaE1KZ05yTjBjb01fbjc2UVZVbDJ1M0pRdVB5c3A0LTRIMWdaYzFuR0E?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "snippet": "Velvet (VELVET) Price Prediction: Daily, Weekly 2026 – 2040&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "The deployer-linked address of VELVET transferred over $2.5 million worth of tokens to exchanges before the price crash. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kRVdHcW1OcTZna0l0NndoR2kwWWp2R0dwdzZnUzNJODI4anF3b2tlNkgzQnVVVmt1TTRubU50U290NWhpaFVZbkdxZHpVRFdrTHRQYzFqeHdrTnNKRFHSAWNBVV95cUxNMnZsYmdNeDI0YmtfaThNcGhzSGcycEZCTHBfV1pja3dXUUVLUG9MOGZVdEpYN1ZiS3BHSTlhY3lELWt1dGlPM0xKX2s0NmdaTmpicHRDRmxKR2pBd19SaTRTZjA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 15 Jun 2026 20:15:48 GMT",
+      "snippet": "The deployer-linked address of VELVET transferred over $2.5 million worth of tokens to exchanges before the price crash.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Velvet Price Prediction: Can VELVET Sustain Its Explosive Rally Above $1 After an 885% Surge? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWlB1bGZZWlBWSFRXeWpLY1FLUWFvOUtDZTBSbURGWGJsQU5DS0tlYm5haldRZ3pzSE9fdzdlTVJta3ZVWWhxU1VERjJ4UzV6Tm1YcHlZd2NsU0RvS0dvVkFjYTlPYS1kZlIxWkpvUU80SW1mSk9kVDA2cHlUbWZoUF9YUTlVOHVra2R2T0tMRU0yVmlEYk5iWHVzem9KSTlwYVFaSkJRWHJ6QlI1S2wyMTVURXl3bVE3S0VyZGpiNWRLWEZvX3c?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 11 Jun 2026 12:02:20 GMT",
+      "snippet": "Velvet Price Prediction: Can VELVET Sustain Its Explosive Rally Above $1 After an 885% Surge?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Velvet Capital Team Wallets Dump $20M in VELVET Tokens After 10x Surge - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Fa3NJSkxJVmJSWmNhWGpZcjd0U2tWR0tvSkdreGs0bGJzQ0Fkci1aNjNkTE8zSUtZTDdhX2FLNnZWVjNfVXlfcVlNQjl5SC10UFhubWlSbzgzZw?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Thu, 11 Jun 2026 14:33:49 GMT",
+      "snippet": "Velvet Capital Team Wallets Dump $20M in VELVET Tokens After 10x Surge&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Velvet Price Today in India | VELVET to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84SFhyc3hFWDFTTzhuVzN5eGlDM0JpbHdyTFRNOFdUQ2tpMXZzYlN4MHBqNHRLX1RKZWVFbFBhNDNucHByVGdEU1d5clFDQXI4eldpbQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 14 Jun 2026 19:41:00 GMT",
+      "snippet": "Velvet Price Today in India | VELVET to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "RAIN, Canton, and Velvet Eye New Highs As Traders Watch Weekend Breakouts - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNektkWVV3UE9pMGRYNW9CNUtiUl9oVjI5Tm9wLXdGWURkbTFGQUNTcjN0cmI4ekRsNmJBZnNWRmZIaXpxN1F5dVhUNHgyVDNia3R5VndYdU1QckM4eU1QZ0ZLeE1yb0gweFFxa0U4a1h5cFB3Zmh0MGhhSFdrNEw2eXV1TDlTMlowbFFsZWc0S0tIcmNVYkJXRmZMWjZMcVJ6djNKYmZ3YTFybk1hRzJoLS1LSdIBswFBVV95cUxNektkWVV3UE9pMGRYNW9CNUtiUl9oVjI5Tm9wLXdGWURkbTFGQUNTcjN0cmI4ekRsNmJBZnNWRmZIaXpxN1F5dVhUNHgyVDNia3R5VndYdU1QckM4eU1QZ0ZLeE1yb0gweFFxa0U4a1h5cFB3Zmh0MGhhSFdrNEw2eXV1TDlTMlowbFFsZWc0S0tIcmNVYkJXRmZMWjZMcVJ6djNKYmZ3YTFybk1hRzJoLS1LSQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Fri, 12 Jun 2026 17:30:46 GMT",
+      "snippet": "RAIN, Canton, and Velvet Eye New Highs As Traders Watch Weekend Breakouts&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Velvet price today, VELVET to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xeVVNTThvWi1COFRXZnFlcGNMT0JzYjJiWldMcnZnakFtU0RocWc2ZS1rMW5tNllFdE96WDItS3BMemdOeWdnNlllaXhRT0lQZDI4SzZqaw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 09 Jul 2025 12:27:30 GMT",
+      "snippet": "Velvet price today, VELVET to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "What Is Velvet (VELVET)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42UkYxQlBXTDZmTUFKZUJmYWd0b0JhZnpxdFR4cVg1TzR2MnhhX1g1eERSRmdLNm1MSmNPNkpVNXlCc2stMDdBdE9WdVRDT0tMUVV5RVJGc2o0YlIycUZQaGk0aHVtNzF1dEEzVGFXajU4bEk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 19 May 2026 07:00:00 GMT",
+      "snippet": "What Is Velvet (VELVET)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "VELVETUSD Charts and Quotes - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qbmFQQ05iRkZ4MnY1TVFMZlRHc1FLeGhVX3lvWGRFcU80alBncVUwYkZscnNuc3dycVE1TGRIREpUN25hYWZnXzVjaGdFNkx0SHZmMG1KU2cyQQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "snippet": "VELVETUSD Charts and Quotes&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Velvet Price Today: Live VELVET to INR Price Chart & Market Data in India - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yeTdVeHZ2cFhldWZsYTJfRjFSZS1FN1VSelpvdWJEXzRSRDBQd2VSX2owNlFkU3JRMzdieUxyTzMxQzlQZzA2OU95MFhGZUk?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Mon, 07 Jul 2025 19:35:27 GMT",
+      "snippet": "Velvet Price Today: Live VELVET to INR Price Chart & Market Data in India&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Bitcoin advances, holds above key technical level that ether, solana can't break through - LCX Exchange",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUhnSFRzNFI5T1p0V0QxZHhvZkJhSzJja0xZNU5uMng0dkYwaG03SGRaMy00S1RGbFhqWXQ5R21heGNhSHk0YWJVN0UwR2xPRDZkdHFmcFZzMkJObi1VdlZOQTBFWkdiTV9Lc05MbFBuWGlxNFdoTk5KejliME5XeU1vOHVnSjFPWWVmYjIzSHh6eWxFWnBLa0hpT3VDM0dYaDRpbFJhOGJteDdMLVBz?oc=5",
+      "source": "LCX Exchange",
+      "publishedAt": "Thu, 11 Jun 2026 14:19:33 GMT",
+      "snippet": "Bitcoin advances, holds above key technical level that ether, solana can't break through&nbsp;&nbsp;LCX Exchange"
+    },
+    {
+      "title": "VELVET altcoin spikes 885% in a week then plunges amid thin liquidity and heavy leverage. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2N0EzMnB6bHJHbVE2VWUtaDBsNDFfdmVoYXdQdWIyZ0UzNk9QMHlJUlBlME9YV0xLWmVmaWE0aHRlVjIzLU9wMkR5Z2hnZzV3cnYxb3RyUnFsSU1jbEJjZzBCOGh1U0V6a1RvdEllb1NwZ0Y3eDZhakh3NA?oc=5",
+      "source": "Pluang",
+      "publishedAt": "Sun, 14 Jun 2026 21:36:52 GMT",
+      "snippet": "VELVET altcoin spikes 885% in a week then plunges amid thin liquidity and heavy leverage.&nbsp;&nbsp;Pluang"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

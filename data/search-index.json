@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-19T01:40:27.533Z",
+  "updatedAt": "2026-06-19T01:47:52.565Z",
   "results": [
+    {
+      "token": "VELVET",
+      "name": "Velvet",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-19T01:47:52.563Z",
+      "latestPath": "data/results/VELVET-latest.json"
+    },
     {
       "token": "SYN",
       "name": "Synapse",
