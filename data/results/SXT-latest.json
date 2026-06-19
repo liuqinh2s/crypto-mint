@@ -1,0 +1,217 @@
+{
+  "token": "SXT",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T01:51:32.190Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SXT",
+    "name": "Space and Time",
+    "generatedAt": "2026-06-19T01:51:25.246Z",
+    "summary": "SXT 24小时涨幅1.4%，但7日、30日跌幅较大，处于下跌趋势。基本面有微软和Grayscale支持，但近期有大规模解锁（387.6MM）压制价格。新闻面缺乏近期利好，市场情绪偏弱。建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若价格跌破0.007美元或出现更大解锁利空，则逻辑失效。"
+    },
+    "catalysts": [
+      "Grayscale推出SXT投资信托（2025年6月消息，已过时）",
+      "微软M12基金背书，项目基本面扎实"
+    ],
+    "latestNews": [
+      {
+        "title": "Space and Time (SXT) - 387.6MM Token Unlock - 08 May 2026",
+        "impact": "利空",
+        "reason": "5月8日已有大规模解锁，增加流通供应，压制价格。"
+      },
+      {
+        "title": "Grayscale rolls out investment trust focused on Space and Time’s SXT token",
+        "impact": "利好",
+        "reason": "Grayscale信托提供机构投资渠道，但消息发布于2025年6月，已缺乏新鲜度。"
+      }
+    ],
+    "fundamentals": [
+      "Space and Time是去中心化数据区块链，用于连接现实世界数据与链上系统。",
+      "代币SXT用于质押、数据支付、访问控制和激励。",
+      "总供应量50亿，流通约26亿，流通率约52%。",
+      "微软M12基金投资，Grayscale推出信托，机构认可度较高。"
+    ],
+    "marketRead": [
+      "24小时涨幅1.4%，但7日跌7.5%，30日跌30.7%，处于下跌通道。",
+      "成交量约327万美元，相对市值2060万美元，换手率约15.9%，有一定活跃度。",
+      "价格距历史高点跌95%，处于低位，但趋势偏空。"
+    ],
+    "risks": [
+      "近期大规模解锁（387.6MM）已发生，但后续仍有解锁计划，供应压力持续。",
+      "价格持续下跌，市场情绪悲观。",
+      "缺乏近期催化剂，新闻多为旧闻。",
+      "流动性风险：Binance数据受限，可能影响交易。"
+    ],
+    "watchlist": [
+      "后续解锁事件及时间表",
+      "Grayscale信托是否吸引新资金",
+      "价格能否站稳0.008美元以上",
+      "项目方是否有新合作或产品更新"
+    ],
+    "sourceNotes": [
+      "Binance数据因地域限制无法获取，价格数据来自CoinGecko。",
+      "新闻时效性较差，最新新闻为2026年6月14日，但内容为价格页面，无实质信息。"
+    ]
+  },
+  "profile": {
+    "id": "space-and-time",
+    "symbol": "SXT",
+    "name": "Space and Time",
+    "categories": [
+      "Smart Contract Platform",
+      "Ethereum Ecosystem",
+      "Zero Knowledge (ZK)",
+      "Base Ecosystem"
+    ],
+    "homepage": [
+      "https://www.spaceandtime.io"
+    ],
+    "description": "Space and Time is the data blockchain securing onchain finance. Backed by Microsoft’s Venture Fund M12, Space and Time connects real-world data to onchain systems to power tokenized assets, stablecoins, institutional markets, and DeFi. The SXT token is deployed as an ERC-20 token on Ethereum and functions as the network's native utility token. SXT is used for staking, data processing payments, access control, and incentives for data contributors. ",
+    "marketCapRank": 808,
+    "currentPriceUsd": 0.00792889,
+    "marketCapUsd": 20608269,
+    "fullyDilutedValuationUsd": 39649379,
+    "totalVolumeUsd": 3276199,
+    "priceChange24hPct": 1.39646,
+    "priceChange7dPct": -7.53241,
+    "priceChange14dPct": -16.41562,
+    "priceChange30dPct": -30.68636,
+    "athUsd": 0.162092,
+    "athChangePct": -95.11132,
+    "circulatingSupply": 2598813644.2665,
+    "totalSupply": 5000000000,
+    "maxSupply": 5000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 3673,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "SXTUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SXTUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SXTFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SXTFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SXTUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SXTUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SXTBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SXTBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Space and Time Price Today in India | SXT to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2dnRfUmpxYmtKQVUzVkFEMnF1cXhIOFVjclhKYklLeVJlbWc1UVY3OEp4aTFNQUcxbk9vNVRiUFVuYnU0NjN0RlJTTGYzTU9tdl9LLTQ2Und1MGt6UjFr?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 14 Jun 2026 21:37:00 GMT",
+      "snippet": "Space and Time Price Today in India | SXT to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Space and Time Price Prediction 2026-2031: Will SXT reach $0.033 in Feb 2026? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUZTb2RpSGhGTW1iSTMxbm1Ybm9OWGQ3M3hkYjRNNHVsWGRVQmczSlp0V2ZoMEN0N2ZfSFpDUDQxM2hSbVlmRHhOTXEtU21fUEtWVERob09uVUUzSlRTZXpRY2ZQYy1hVU42TmoxVWR5UDJ3XzNWRTZoa0hTTHdMZg?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "snippet": "Space and Time Price Prediction 2026-2031: Will SXT reach $0.033 in Feb 2026?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Space and Time (SXT) - 387.6MM Token Unlock - 08 May 2026 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVG5nRjFRY0kwM2lXSTFpNTRQTW1iMGhlTVBmY0l2cENwdlB5VlVKWDE1V25mVVJZcGZBUVZ4VzNRNTZMVWUzaUlmWEF3eDFyOUN4Xy1Eb0FUbnFGa1RwV3VEaXVZbHBKTmoxSUpQOE9ZNU9EcW1JQzFNTFJiNXJtaGJVdE84ODRHM3NhSGNVR3hUUDlrTkV5N0piclVQYlBPb2x3SVU4d3NvX0JMUE1zUkZWOTUwUQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 09 Jan 2026 08:00:00 GMT",
+      "snippet": "Space and Time (SXT) - 387.6MM Token Unlock - 08 May 2026&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Space and Time (SXT) - 24.64MM Token Unlock - 08 Jan 2026 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2l6bDdoZTRNQXJPOGtHZnNKTGZoY0V4UHJBSnRXYVJvV0FPbkJUTTBVMXZhWmVMRkNuVUFfZ1oxcDFkY3ZxYTNTbFk4d29xTGJDX01SYjdKNTVJSE00QVJJZG9aQlh3NktVbk5jS3UxTDZTaS03T2RRUVVldlNLQjY5blkyLWoxcWVoZnpqRkxBcFV2ejNUcWN4VDNMc2t1WjhtU20wSVdDR1lPVmpzblRPX3VxUQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "Space and Time (SXT) - 24.64MM Token Unlock - 08 Jan 2026&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Grayscale rolls out investment trust focused on Space and Time’s SXT token - The Block",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9OUjVHVHJTazh2ZnpUcUl1SnE4Q281a0h1aTlOaTZ6bFRqbGlnaFphWWpjd1J5bkVBOUROak9hS0RUU3M3d3FfVXdJYW9IVmt1cnZvTWhaRm1IdXdvcjBRa1h2WEIzeDZZSzJzU09kZkJ5cmN6N2h3V0VWdnRodnJRTnliRnhkOG85SXJ3Z2JQQU1uREZZUDllSTMwbGl6Q294X3dHV1p0YWhkNVE?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 25 Jun 2025 07:00:00 GMT",
+      "snippet": "Grayscale rolls out investment trust focused on Space and Time’s SXT token&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Space and Time price today, SXT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BcmhSSVg5Q1hpWWtReUxoM1Q3aHZxTTh3eTZ2azl1Q0dDN244Z29aQUVZYlE1SFZ5NzBjY1NocXpKZEJtOWd1QkN1SjZDZGZIb2NaXzlfZl9YcUVOT2N3NmJ3?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 08 May 2025 07:00:00 GMT",
+      "snippet": "Space and Time price today, SXT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "SXT News: Grayscale Bringing Investment Trust to Market - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeTdrSXJQU2pIRTd6eC1Jd2g4NWp6QUQxemZ4STJMV2dyd25KQjQxRHU3QnJBMmwyQjE0Y1ZGMFBnaUVCNkFMVGRRdHpRR292V0tCZjRralVLel9WWFdodFZYeU5vMjk4SEVHeEx6elVKNVJwcmZTM0xoMXJDb05DRENhVWlOS1FXLXdqaEhrWDQ4c0YxVTdKaVNVa1NCZkRkZGtKcWJndkdGUjNoWTJLTmVvMTRiMFVmTHktbXl2aFh1U0lhcWxqWGVyeTdKSGs?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 24 Jun 2025 07:00:00 GMT",
+      "snippet": "SXT News: Grayscale Bringing Investment Trust to Market&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Space and Time Price, SXT Price, Live Charts, and Marketcap: sxt crypto price, sxt coin, sxt price - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9INV9zQnFfcjRqS3ZtV3RKNXhqWWxaODBna2dtNjR2blp4Y1FweU9ESVpOME51U3FUc0w0a1FCZkpCeFBNd3F4NXdUWlduX1c3WWJBWGxjRXk?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Thu, 01 May 2025 17:00:02 GMT",
+      "snippet": "Space and Time Price, SXT Price, Live Charts, and Marketcap: sxt crypto price, sxt coin, sxt price&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Grayscale Launches Trust for Microsoft-Backed Space and Time (SXT) Token - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNldSa3pWZGxBbktIeENYYkFYWGZTdHlQTmlQdUlhd1F0UjlGdHZXWEREVnFOSDkxQjVpMmxUSDB3MlptRGxiWkZlaUUyMF9DaXlrcWN4NW5lNnMxbjV3MkJWWDFBa0doZEYwdlliWllKWTdlRVJfT0gxaEJ4ZVJIbEpn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 25 Jun 2025 15:49:11 GMT",
+      "snippet": "Grayscale Launches Trust for Microsoft-Backed Space and Time (SXT) Token&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Space and Time (SXT) - All information about Space and Time ICO (Token Sale) - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QNGdONGh4RHNuTGtqQ2RGM2lxcTZZaDlXNTBVdGVaemFkZktrdzMxWmlHZTdyTDBHMGxLOWJRRFFEMC0xQXdJSVFuTE4?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Thu, 08 May 2025 07:00:00 GMT",
+      "snippet": "Space and Time (SXT) - All information about Space and Time ICO (Token Sale)&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Space and Time (SXT): Decentralized Data Warehouse Revolutionizing Web3 - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaXE1M2JPV0tRREdFQjFNSFlrSzE4TVRIUk9VMVpVVHA5QjVESjl3Q2NoUzhPdTJ6WEpYYU5SNW02OGlOTFpoVDRxS2FvTEU5OC1pMjVOUExabjh4NE9MTUxBMkt2NFNrc1Z6NmRUcXZpX3VwRHNxSXdCRnBFcHFGZHhuakxDNWVocU9QRmQ0ZkpQZjFtakE?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Wed, 07 May 2025 07:00:00 GMT",
+      "snippet": "Space and Time (SXT): Decentralized Data Warehouse Revolutionizing Web3&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Space and Time Price Today | SXT to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBX0V6ZjZHcTl1LVBFUlpqaUg3d01WVExVeGRZcHhTOF9tc3NWZ0g0dy1YaTc4RzRPY1JiOUg0YXhaWVplOUdLNXR3RlJmQVVGZlV1RFVnY2poc2c?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 08 May 2025 07:00:00 GMT",
+      "snippet": "Space and Time Price Today | SXT to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
