@@ -1,0 +1,228 @@
+{
+  "token": "BTW",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T05:50:13.103Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BTW",
+    "name": "Bitway",
+    "generatedAt": "2026-06-19T05:50:05.450Z",
+    "summary": "BTW 24小时涨幅45%，30天涨幅302%，但距历史高点仍跌53%。近期暴涨可能与Binance Wallet Pre-TGE活动及市场炒作有关。基本面为DeFi治理代币，流通量22亿，总供应100亿，解锁压力大。流动性数据缺失，风险较高。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若价格跌破0.05美元或成交量萎缩，则短期上涨逻辑失效。"
+    },
+    "catalysts": [
+      "Binance Wallet Pre-TGE Booster活动（300M BTW奖励）",
+      "近期媒体报道暴涨233%及622%涨幅吸引投机资金",
+      "DeFi及Yield Farming概念热度"
+    ],
+    "latestNews": [
+      {
+        "title": "Bitway Price Prediction: Can BTW Extend Its Rally Toward $0.13 After a 622% Surge?",
+        "impact": "利好",
+        "reason": "正面预测可能吸引更多买家，但需警惕过度乐观。"
+      },
+      {
+        "title": "Here’s why the Bitway token just exploded 233%",
+        "impact": "利好",
+        "reason": "解释暴涨原因，可能引发FOMO。"
+      },
+      {
+        "title": "Participate in the Exclusive Bitway (BTW) Booster Program and Pre-Token Generation Event (Pre-TGE) on Binance Wallet",
+        "impact": "利好",
+        "reason": "官方活动增加曝光和需求。"
+      }
+    ],
+    "fundamentals": [
+      "Bitway是DeFi生态，提供收益、支付和融资产品",
+      "BTW用于治理、质押和网络运营",
+      "总供应100亿，流通22亿，流通率22%",
+      "市值1.32亿美元，FDV 6亿美元",
+      "无明确团队或融资信息"
+    ],
+    "marketRead": [
+      "24小时成交量8394万美元，相对市值较高，显示活跃交易",
+      "价格波动剧烈，30天涨幅302%但7天跌24%，短期回调风险大",
+      "Binance数据受限，无法获取精确K线，流动性存疑"
+    ],
+    "risks": [
+      "总供应量100亿，大量未解锁代币构成抛压",
+      "价格已从ATH跌53%，反弹可能为短期炒作",
+      "缺乏可靠的市场数据（Binance限制）",
+      "项目知名度低，基本面支撑不足",
+      "新闻多为预测和炒作，缺乏实质性进展"
+    ],
+    "watchlist": [
+      "BTW价格是否突破前高0.1268美元",
+      "成交量是否持续放大",
+      "Binance Wallet活动进展及代币解锁计划",
+      "是否有新的合作伙伴或产品上线"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取实时交易数据",
+      "新闻来源多为聚合网站，可靠性一般",
+      "项目描述来自CoinMarketCap，未独立验证"
+    ]
+  },
+  "profile": {
+    "id": "bitway",
+    "symbol": "BTW",
+    "name": "Bitway",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "Yield Farming",
+      "Ethereum Ecosystem",
+      "Binance Alpha Spotlight",
+      "Governance"
+    ],
+    "homepage": [
+      "https://bitway.com/",
+      "https://linktr.ee/bitwayofficial"
+    ],
+    "description": "BTW is the native utility and governance token of the Bitway ecosystem. It powers network operations, enables staking and governance participation, and aligns incentives across Bitway’s yield, payment, and financing products. BTW serves as the core asset that unifies the Bitway network and supports its long-term growth.",
+    "marketCapRank": 223,
+    "currentPriceUsd": 0.060047,
+    "marketCapUsd": 132087424,
+    "fullyDilutedValuationUsd": 600397381,
+    "totalVolumeUsd": 83940217,
+    "priceChange24hPct": 45.44231,
+    "priceChange7dPct": -24.38071,
+    "priceChange14dPct": 42.19135,
+    "priceChange30dPct": 302.04011,
+    "athUsd": 0.126854,
+    "athChangePct": -52.97562,
+    "circulatingSupply": 2200000000,
+    "totalSupply": 10000000000,
+    "maxSupply": 10000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 1052,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "BTWUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BTWUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BTWFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BTWFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BTWUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BTWUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BTWBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BTWBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Bitway Price Prediction: Can BTW Extend Its Rally Toward $0.13 After a 622% Surge? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDdKWkxxYjJhd0RSQ3psMjBEY0dYMG80MHZ6OW9pdGVyNFBxcEcxUjE0RmZpWS13QWl3S0otMkNWcG80Wi1BcmFoLWZLRHRtbW5tYzRxdW1xbkpjYXJuNnhlbnYtYkZTZTd5UnFOQk1udXExTWhtMktkUGwzRjNtRVNWUzlOdEdoSndFRHMyQ1BKODdXbW45NlJsOEpGSW9CeS1rREplTi1zY0RzU0dReGp3UFBqVmM?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 10 Jun 2026 15:25:55 GMT",
+      "snippet": "Bitway Price Prediction: Can BTW Extend Its Rally Toward $0.13 After a 622% Surge?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Here’s why the Bitway token just exploded 233% - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42b1hlM1o3SFA1MzN6eEJXZTgtVzRuRzhlckF2enJ3QWNlck1oR2Y0VThSaWdqZWZNdTVCazJ1Z2Q2c3IxenJvdlQtVGtNbzlGREpjVU1MOTVsdw?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "snippet": "Here’s why the Bitway token just exploded 233%&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Bitway price today, BTW to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TaDhzTS1PX2tBdUd6TWJMNXdTRV9rMUpJeFRPTUJMbmRJaHhFaWNDM2FfaUo3Y185OFg5MzR2aWFmVVRfTFVGVnA5X2NJZHRNSUs0RVl6VnMzWnV3?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sun, 21 Dec 2025 21:20:06 GMT",
+      "snippet": "Bitway price today, BTW to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Bitway (BTW): The Internet Capital Gateway for Bitcoin - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQVZicUVNR3BrSGNMQVI0aTk0NTNpU2luM21DM1BlME90cFVVQ0Q5QTNBY0otOVo3c2Vxbm1DQnNQdUtjVTFGV2xvcGdXdGdqR0l5c29UUE5IWk14V0QwS1ZjVVo1NlBseGdBSVg5UVZYODRxblFzcVBKRlg0S1RmZnpYM2VDZFYzQl9xdkZsdF9ZUThsRk5sMnhEZWhaTFBBYXfSAacBQVVfeXFMUFlpUmNqdDBWNDJzdnhWN2MzMXlBblh0U0lHbjVrX1FJek1SeFRHQzZ4d09BMlZnYUFuZXpFZkl6UkhiZWlaWER5b05WX19faVAzWXhTN2dOWXZDNGxhS25ndlBhblZHbFJudjBMTERCVTFGV2V1Z25DOXFwMWZBVE40dmFWbkVhakVQMGlhQzZTZkx0VTlTM1UtN3BMZlRaSTZyN1VJTVE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 01 Mar 2026 08:00:00 GMT",
+      "snippet": "Bitway (BTW): The Internet Capital Gateway for Bitcoin&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Participate in the Exclusive Bitway (BTW) Booster Program and Pre-Token Generation Event (Pre-TGE) on Binance Wallet - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYVY5aXU1V3gtV2M2c2hiSTlPTGNfQ3pqTlQxUjRsVUtMeS00WVEwQldsTF9FM2I4Q25XZDNfTkZPWmxlWnlKRmlJNktrVXhreXVpQ2s3RWVXQV9MUzZ5UnVSOXpCMVRSTFMwOTlxbU5Pd3hZRnduXzVzRFJUSjJoSVpkVUVkdVNkcmVZZHFwMHQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "snippet": "Participate in the Exclusive Bitway (BTW) Booster Program and Pre-Token Generation Event (Pre-TGE) on Binance Wallet&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Bitway - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VemFIQnFDV0dlTzZxY25YYkctN1R3aFJRUmhsc0tXODJXN3ZoNkR2bFlzX3ZJOF8xYVpEY1otSXdPQQ?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Tue, 26 Aug 2025 17:40:32 GMT",
+      "snippet": "Bitway&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Introducing Bitway ($BTW): Platform Updates and Pump Potential - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVZzM0hMUTFFcUNDVDVNUkItTVFNeE5xWFMtZTRRQUUxX01jMmFUdnlTMnpnOUdIZGF0dFdtSnhDVF8tMjFxMGhPc2QycEpyT19kOEg1emUwUDNEVkNYeHdxejBIT296ZWx4SkxXZnQ5LU56TWhGV3lXaTEtMGZvcmlrazNaYklzdmxwQzZWRVBGRUJXYmV3RlNuUWoxLUk?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "snippet": "Introducing Bitway ($BTW): Platform Updates and Pump Potential&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Bitway Price Today: Live BTW to INR Price Chart & Market Data in India - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ubHNxam5jd1ZiWjluYWtTNnhYMXNjR2kyU2ZGSFhsWGNKc3JZVFhNQ0VZVXdZNXlaUlNhazNiQWF6RGJRdHY1V3ptUQ?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Tue, 23 Dec 2025 06:16:14 GMT",
+      "snippet": "Bitway Price Today: Live BTW to INR Price Chart & Market Data in India&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Bitway Price | BTW Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zRDlLVFB1cFk4dVoxN0d0QzVEdFM5OUxqVDQxOURNWnl5WDd2QVdXQ2NMNkxzeEEwdWlsaC16TGdyek1ZY3J0S2h3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 26 Aug 2025 10:42:29 GMT",
+      "snippet": "Bitway Price | BTW Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Bitway and Binance Wallet Launch Major Pre-TGE Booster Campaign Worth 300 Million BTW Tokens - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91UUxLOWtfekRtS3gyMFl3T1J6U1dzOUhYbWN0cjRxTkhxNEdkXzlfdDVIbkRGZG5tZF8zMzVVUEJfelIwUXZLdUZfWVhVZw?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Sat, 20 Dec 2025 08:00:00 GMT",
+      "snippet": "Bitway and Binance Wallet Launch Major Pre-TGE Booster Campaign Worth 300 Million BTW Tokens&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Bitway (BTW) Price Prediction: 2026 until 2032 - CryptoTicker",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94ZlZrejc4UmllcC1NZFp1T0NlOGRlOUpNVXcwck9wMGFoS0FNSGZ2NlR5Y2lmNC1md21oLXluamU2dEJOd1ZtbnEyYXpNY0IwUVp6ZWlnZ1FDTFM2MXRtYmRZQmVwdHdiS0l6eS1JOVU4R0Zo?oc=5",
+      "source": "CryptoTicker",
+      "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
+      "snippet": "Bitway (BTW) Price Prediction: 2026 until 2032&nbsp;&nbsp;CryptoTicker"
+    },
+    {
+      "title": "Bitway (BTW) IDO Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MLVRGa1NTcmNfRnAyUmIzdW9pS2tOUG9XQXlTR1NiYzNjNlN6Y2hJLU41dFY3VFVmSjJrUzdhTXo0Q0hFdjhz?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 26 Aug 2025 08:59:19 GMT",
+      "snippet": "Bitway (BTW) IDO Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
