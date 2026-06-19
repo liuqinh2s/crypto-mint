@@ -1,0 +1,219 @@
+{
+  "token": "FORM",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T01:54:40.647Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "FORM",
+    "name": "Four",
+    "generatedAt": "2026-06-19T01:54:32.726Z",
+    "summary": "FORM近期7日涨幅约1.27%，但24小时微跌0.85%，价格仍处于历史低位（距ATH跌94%）。项目属于GameFi/BNB Chain生态，市值约9061万美元，流动性一般。新闻面缺乏直接利好，多为无关或旧闻。基本面不明，风险较高，建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现实质性利好（如游戏上线、大额合作）或价格放量突破关键阻力位，可重新评估。"
+    },
+    "catalysts": [
+      "GameFi赛道热度回升",
+      "BNB Chain生态扶持",
+      "Launchpad项目潜在空投或质押激励"
+    ],
+    "latestNews": [
+      {
+        "title": "Four (FORM) Price Prediction 2025–2030: Will FORM Rally After Its Breakout?",
+        "impact": "中性",
+        "reason": "仅为预测文章，无实际事件驱动，参考价值有限。"
+      },
+      {
+        "title": "After BNB, ASTER, and 4 Prices Hit All Time Highs, Prediction Says Four Meme FORM Crypto Is Next: Best Crypto to Buy Now?",
+        "impact": "中性",
+        "reason": "标题党内容，缺乏实质依据，可能为营销文。"
+      }
+    ],
+    "fundamentals": [
+      "项目定位为GameFi/BNB Chain生态，但官网链接为linktr.ee和binaryx.pro，信息不透明。",
+      "总供应量5.8亿，流通量3.82亿（约65.8%），流通市值9061万美元，FDV约1.36亿美元。",
+      "ATH为4.19美元，当前价格0.237美元，跌幅超94%，说明泡沫已大幅消化。",
+      "无明确路线图或团队信息，项目活跃度存疑。"
+    ],
+    "marketRead": [
+      "24小时成交量约403万美元，相对市值（9061万）换手率约4.4%，流动性一般。",
+      "价格在0.23-0.24美元附近窄幅震荡，无明显趋势。",
+      "7日涨幅1.27%，但14日跌幅18.46%，显示近期波动较大，方向不明。"
+    ],
+    "risks": [
+      "项目基本面不清晰，官网简陋，缺乏透明度。",
+      "GameFi赛道竞争激烈，且整体热度下降。",
+      "价格处于历史低位，但无明确催化剂，可能继续阴跌。",
+      "新闻面多为无关或过时内容，缺乏直接利好。",
+      "流动性一般，大额买卖可能造成滑点。"
+    ],
+    "watchlist": [
+      "关注项目方是否有新游戏上线或合作公告。",
+      "观察BNB Chain生态是否有针对GameFi的激励计划。",
+      "监控成交量是否放大，价格能否突破0.25美元阻力。"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取实时交易数据，行情数据来自CoinGecko。",
+      "新闻来源多为预测类或无关内容，可靠性低。",
+      "项目官网信息有限，基本面分析依赖有限公开资料。"
+    ]
+  },
+  "profile": {
+    "id": "four",
+    "symbol": "FORM",
+    "name": "Four",
+    "categories": [
+      "Gaming (GameFi)",
+      "BNB Chain Ecosystem",
+      "Launchpad"
+    ],
+    "homepage": [
+      "https://linktr.ee/Four_FORM_",
+      "https://binaryx.pro/"
+    ],
+    "description": "",
+    "marketCapRank": 287,
+    "currentPriceUsd": 0.237292,
+    "marketCapUsd": 90613110,
+    "fullyDilutedValuationUsd": 135801267,
+    "totalVolumeUsd": 4027801,
+    "priceChange24hPct": -0.85056,
+    "priceChange7dPct": 1.26522,
+    "priceChange14dPct": -18.45555,
+    "priceChange30dPct": 5.27956,
+    "athUsd": 4.19,
+    "athChangePct": -94.32593,
+    "circulatingSupply": 381867255.14,
+    "totalSupply": 572301922.1,
+    "maxSupply": 580000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 2838,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "FORMUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=FORMUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "FORMFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=FORMFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "FORMUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=FORMUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "FORMBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=FORMBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Elemental Royalty Declares Quarterly Dividend and Continues \"In Kind\" Dividend XAUT Token Payment Alternative for Shareholders - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSVFJTDNQdnRucUh1SVZ6LTlxUTA2akVPWUVTVUZLS0daOWlVel93Y29hSFhtalRZeS1SQXNIMkRDSHdqXzZYMlBQOEtjV2NLNzNpVXozVmxfU0E2Y0xHWEFmb05sVTlzWVdRVlBKdHQzMHczWWxndEQxa3pOeXlWdFFDYUFmSXFyeXRGb3NSUk1ibmh1U19nYlRZRXF6WWxpbzQyTU1CeDI3RFpCLVBubVNWU0dyV1k0N2xxdWthTkpyR3VzTDJMaHR1WV9NUEs0OXRsNDBqdW9ZQWdRUW55UHcyWHNKa2loWnlIMWZrVlZwNkVmM0ppWWVxcVJPd0M3TlNKbGo1d281cy1RMXJQXzJjbEFGQQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 19 Jun 2026 00:30:00 GMT",
+      "snippet": "Elemental Royalty Declares Quarterly Dividend and Continues \"In Kind\" Dividend XAUT Token Payment Alternative for Shareholders&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Coinbase (COIN) director gains stock through RSU vesting and new grant - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTTlFeUk0MEM1MVJueWpyZWFoUjFWd0wzbld6c3ZrczJDWGJHQVdZRVk5MmdFRUpyY1E5M2xzQjhpb1FkbW1SZXJGZTl5NkxjajBDVWQyQUxhdm1lOFNrQTJNRTV3c0FQS3VKR1llY0pxYldCaHVQNF9ULVd0eHFPTFJ4ZG5UR2cxYmdCdmFSZ1FNYndQZnpVeVJrVTZ0WGJCTTZTUTl2MTFtMWJ0cnIwZTRZUQ?oc=5",
+      "source": "Stock Titan",
+      "publishedAt": "Thu, 18 Jun 2026 21:13:11 GMT",
+      "snippet": "Coinbase (COIN) director gains stock through RSU vesting and new grant&nbsp;&nbsp;Stock Titan"
+    },
+    {
+      "title": "Claude Fable 5 and Claude Mythos 5 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
+      "source": "Anthropic",
+      "publishedAt": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "snippet": "Claude Fable 5 and Claude Mythos 5&nbsp;&nbsp;Anthropic"
+    },
+    {
+      "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
+      "source": "NVIDIA Newsroom",
+      "publishedAt": "Mon, 05 Jan 2026 08:00:00 GMT",
+      "snippet": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "4 Price: 4/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9seDloNmVNYXowZmtSQ2M4M1c0X1hYTFAzTEU5WV9yX3pJQS03ZUo4MmdZTXVLal9PdU1UUUtCRjMxNFFjUUhscWpEcC1yUTg?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 02 Oct 2025 11:42:52 GMT",
+      "snippet": "4 Price: 4/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Ripple, XRP Price News: Symmetrical Triangle Forms Under $3, $3.30 Breakout in Focus - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZnRPVmFEZ0kzNFNxdzRXelhtdndzVUJmczdvX3hpZ0VlZ0V5bm5MNzJpVDJFZnMxNWlFVHZzeFlMVnF3NTRHSlgzU2NxTzNoNjV6SGxEb2p2TTF4M0NnLVZnNUpMQWFzcFk2SkRVd1VYZnVEZEhPTDllZ0xPcGhadkhpNm5ZTGpCTW9QbWRXbnM0akxmNEphQ0ROdkhWYV9uNGpRaUtSVlJNXzY4M2M2S3hIalduT1ZVT3ZiWQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 03 Sep 2025 07:00:00 GMT",
+      "snippet": "Ripple, XRP Price News: Symmetrical Triangle Forms Under $3, $3.30 Breakout in Focus&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Introducing Claude Sonnet 4.6 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96MHBnTm5LSGN3SDFIcy12QWhqOG5nMHhRdnAxZm00QTFHOW5fZ1ZJd3phQmRuOGNMU0lPenBSTUp5YzFnSDBzbFNaYWlGTEw4NHY3YV9WWU9vZVR0?oc=5",
+      "source": "Anthropic",
+      "publishedAt": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "snippet": "Introducing Claude Sonnet 4.6&nbsp;&nbsp;Anthropic"
+    },
+    {
+      "title": "Pepe Coin Price Risks 80% Crash as Alarming Pattern Forms and 6.5T Inflows - CoinGape",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVlVTTG1ZMk5wRnFzMGJBTVZDUE43YmstSGVsWW5RRklkOE1HUVBWcmVIeExsMzBmRlJWaWdodm9nV3BlU1o1blhmR1A1UUhRR211SktZYXF5ZDhQbnppcEo2QnFYdTdIc2llZ0lrWlMxeDRkWUJjNklCYjN5NzY0TGNENFZ3NnFFdGlPOWFqZXhIRFZUZ2ZZQkk4Z0tuQlBkWlFyYmV3?oc=5",
+      "source": "CoinGape",
+      "publishedAt": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "snippet": "Pepe Coin Price Risks 80% Crash as Alarming Pattern Forms and 6.5T Inflows&nbsp;&nbsp;CoinGape"
+    },
+    {
+      "title": "Four (FORM) Price Prediction 2025–2030: Will FORM Rally After Its Breakout? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iQUtsTTQ5R2k5VFF1RERTdkp2RkJJVTNMT1pxb0trZ3U3YkpYTXo0YTVfQ21xU0FPdTJOZHI1eTZpN1VhRWNJRGM5SDFpbHQ4a3lRazZPaXRYcURhVGJGZzFFU2U3Y3pJRWR4Y3pmajV5dw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 25 Mar 2025 07:00:00 GMT",
+      "snippet": "Four (FORM) Price Prediction 2025–2030: Will FORM Rally After Its Breakout?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Four Price Prediction 2025, 2026, 2030-2040: Will FORM Hit $10? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82NS1QTXl1eS1YVGhSZjdIOHVDSzFxY21XYkN6ZURyRG1JbUE2MUI1NGR5dDRDVVJvUUl1RW1GeHFtQ1VsQnd1Q1hqR2ZoZG1kT3pMcmtrVEV2VWVYcEl0SFdiZEpKRkkxM3U3b1BFZl9ZMHc?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Mon, 31 Mar 2025 07:00:00 GMT",
+      "snippet": "Four Price Prediction 2025, 2026, 2030-2040: Will FORM Hit $10?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Four price today, FORM to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXM3UyNHpRb3V1T1praXo2cmNjNFd4Q0JNQTdhRHA1cXVKd250NktBUVJQQ1U1ODVXTEZybGVXUHZsRzVmQWc5SmkzMmxnNmNHWUFIX3JPbEJtQ1VpMHc?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 23 Feb 2023 10:41:36 GMT",
+      "snippet": "Four price today, FORM to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "After BNB, ASTER, and 4 Prices Hit All Time Highs, Prediction Says Four Meme FORM Crypto Is Next: Best Crypto to Buy Now? - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMzZwSGJMalh2bzMwS2VuX1BQQmlKdTVXTXJBN1Z0b1RYemlVeVp3TFBmTFFZMDdGUWZpYWs1SzdpTmNqMjFzWFVSSjJkZjZBUEtVU3BsbG81TXZ1a0Z3RWpkSm5QcC1JbGV5ZmgzVTUwaFFkUnp5MEZRQTJadkRPWHdWVkhzT3hCTGdoQU5YdmlSa2VjbzNITXBUSWw0NjhtcTV3anNXN1ZIWEJhTVVjVkxOZ1RZMXVhZDJOLXVvTnExWk12Z0lKWG1aMmI3NTNUUEp0NnNGX1hJTkx4WjBjbEI5bE1xenFldmc?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "snippet": "After BNB, ASTER, and 4 Prices Hit All Time Highs, Prediction Says Four Meme FORM Crypto Is Next: Best Crypto to Buy Now?&nbsp;&nbsp;99Bitcoins"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

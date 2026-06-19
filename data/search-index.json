@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-19T01:53:09.907Z",
+  "updatedAt": "2026-06-19T01:54:40.649Z",
   "results": [
+    {
+      "token": "FORM",
+      "name": "Four",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-19T01:54:40.647Z",
+      "latestPath": "data/results/FORM-latest.json"
+    },
     {
       "token": "LINK",
       "name": "Chainlink",
