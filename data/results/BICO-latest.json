@@ -1,0 +1,219 @@
+{
+  "token": "BICO",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T23:23:56.294Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BICO",
+    "name": "Biconomy",
+    "generatedAt": "2026-06-19T23:23:47.716Z",
+    "summary": "BICO 24小时涨幅超87%，7日涨幅95%，但无明确利好消息，基本面为账户抽象基础设施，市值仅2600万美元，流通量约72%，全流通市值约3700万。上涨可能由低市值、全流通预期及市场情绪驱动，但缺乏催化，风险较高。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若24小时内无法维持涨幅或出现放量下跌，则逻辑失效"
+    },
+    "catalysts": [
+      "全流通预期（2025年100%解锁）",
+      "低市值（2600万美元）吸引投机资金",
+      "账户抽象赛道长期叙事"
+    ],
+    "latestNews": [
+      {
+        "title": "These Tokens Will Be 100% Unlocked by 2025 – And They Are All Below $1",
+        "impact": "利好",
+        "reason": "BICO将于2025年完全解锁，消除未来抛压，可能吸引长期持有者"
+      }
+    ],
+    "fundamentals": [
+      "Biconomy提供Web3 API和SDK，简化dApp用户体验，支持多链和中继器基础设施",
+      "获Coinbase Ventures、Binance Labs、Consensys等投资",
+      "日处理约5万笔交易，服务40+ dApp",
+      "代币总供应量10亿，流通量约7.18亿（71.8%），全流通市值仅3700万美元"
+    ],
+    "marketRead": [
+      "24小时涨幅87%，成交量7715万美元，换手率高达293%，显示短期投机情绪浓厚",
+      "价格从ATH 21.45美元下跌99.8%，当前处于历史低位",
+      "无Binance实时数据，但CoinMarketCap显示价格和成交量异常放大"
+    ],
+    "risks": [
+      "缺乏明确利好催化，上涨可能由短期资金推动，持续性存疑",
+      "全流通预期虽利好，但实际解锁可能带来抛压",
+      "项目基本面未显著改善，竞争激烈（如Pimlico、Stackup）",
+      "市场情绪脆弱，一旦回调可能快速下跌"
+    ],
+    "watchlist": [
+      "是否有官方公告或合作发布",
+      "成交量是否持续放大或萎缩",
+      "BICO/BTC或BICO/ETH汇率走势",
+      "链上活动数据（如交易笔数、活跃地址）"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取实时交易数据，价格和成交量来自CoinMarketCap profile",
+      "新闻多为旧闻或价格页面，无近期重大事件",
+      "全流通新闻为2025年4月，但仍有参考价值"
+    ]
+  },
+  "profile": {
+    "id": "biconomy",
+    "symbol": "BICO",
+    "name": "Biconomy",
+    "categories": [
+      "Infrastructure",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Account Abstraction",
+      "Coinbase Ventures Portfolio",
+      "YZi Labs (Prev. Binance Labs) Portfolio",
+      "Consensys Portfolio",
+      "Outlier Ventures Portfolio",
+      "CoinList Launchpad"
+    ],
+    "homepage": [
+      "https://www.biconomy.io/"
+    ],
+    "description": "Biconomy provides plug-n-play APIs to make web3.0 user-friendly &amp; frictionless. Biconomy is on a mission to make the decentralized web accessible to everyone. We are the missing piece to crypto adoption for onboarding the next billion. Our APIs &amp; SDKs transform any dAapp to become usable for anyone regardless of their crypto knowledge and experience. Our multi-chain relayer infrastructure processes almost 50K daily transactions for 40+ DApps to ensure all the benefits of web3.0 come with the intuitiveness of web2.0. Biconomy provides a simple &amp; quick way for Dapps to abstract away web3 complexities for their users. With Biconomy, users get a simple multi-chain experience where they connect their wallet to any dApp, instantly access their funds on any chain or L2/rollup, and enjoy a completely gasless experience. We enable this superior experience though powerful features: 1) Free gasless transactions 2) Instant cross-chain transfers 3) Flexible options to pay gas 4) Assured successful transactions 5) Simple instant onboarding to scaling solutions 6) Automatically connect to any L2 &amp; EVM compatible chains 7) Cheap and instant cross-chain contract calls The future of ",
+    "marketCapRank": 697,
+    "currentPriceUsd": 0.03640944,
+    "marketCapUsd": 26321377,
+    "fullyDilutedValuationUsd": 36656764,
+    "totalVolumeUsd": 77115068,
+    "priceChange24hPct": 87.2038,
+    "priceChange7dPct": 95.29865,
+    "priceChange14dPct": 96.01757,
+    "priceChange30dPct": 41.64624,
+    "athUsd": 21.45,
+    "athChangePct": -99.82877,
+    "circulatingSupply": 718049656.9789356,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 92.31,
+    "watchlistUsers": 29884,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "BICOUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BICOUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BICOFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BICOFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BICOUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BICOUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BICOBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BICOBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Biconomy price today, BICO to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kVjZ3YS1yX05GS2g1dFk2eVhyUk0wMEMxT2dVT0ZXRWE1aWpERC1TYTE3S19ZbDh2ejNLR3BLVUJjQ185dkVLQ25sN0dOWUpXLWk3TzlaNTZqUQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 04 May 2021 23:50:53 GMT",
+      "snippet": "Biconomy price today, BICO to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Biconomy (BICO) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDZzJQRzktdU92X0VEUktKOElqa2VCZWFOU294Y293eDNxaUJjOEJ5cmZmMXhmTWlPYjNHMGtudWdZb3YxdlBTYWExcnJDdHhWWnZYTnU3Y1BIbEJSdTJua1Zjck1LNXdLeUpz?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Mon, 24 Apr 2023 02:57:44 GMT",
+      "snippet": "Biconomy (BICO) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Biconomy (BICO) Price Prediction 2026 2027 2028 - 2040 - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xckxjX2w4QUF3d3NFdUtkSWd3TEQ3eTFESDUxQXJJTEY1RFVaM3liSy1Nek5rM1ZjR3RRZE1VcS1mcFpBQ01USlVzeW5jazZRNXFxTkREZTBtTGlWOWs0YXEyRy1XTnBYdFE?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Sat, 13 Jan 2024 01:31:04 GMT",
+      "snippet": "Biconomy (BICO) Price Prediction 2026 2027 2028 - 2040&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "Biconomy price today, BICO to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vVGtNUlNYWE5xT1F2RFNVWHNOaDRqeWh2TGVUQnJRQ1MzMmVuZlBmRlh6d3I1WE9UbFhYOWJucVNkbmxRcDlpM2gxbWVZLW9y?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 21 Mar 2024 17:40:18 GMT",
+      "snippet": "Biconomy price today, BICO to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "These Tokens Will Be 100% Unlocked by 2025 – And They Are All Below $1 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUFsSlBWVEIwSGh3dTdjQ0dhZ0xUSERWNUdiS05IcnM2U3JpY1hTZG0yUjFoVnk2QTVxUEUwYWZ1S21nUnlvU3JMT2V5dWZMSjRDRXJLUDFoQ2tyWEV2eUR6VWEtXzdkS25EWUcxdzhDZE1jVnRSUzFvb3ZXdXJuTzJXUjRiMzdyNzBpYWhJTVRka0JFSjB2dzR5SDJra3dVWGxUVk9IYw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 11 Apr 2025 07:00:00 GMT",
+      "snippet": "These Tokens Will Be 100% Unlocked by 2025 – And They Are All Below $1&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Biconomy Price Today | BICO to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzRVpFQ1Y1V29KZ21Td1pyX1A3amN2U1lVejlIMGlld3Z1aEROc2t5Z3dWQ3ZwRl9FS01tdjdiRHZmb0N5WUJBSlBObGZzN2NMemRN?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 02 Jan 2022 13:07:10 GMT",
+      "snippet": "Biconomy Price Today | BICO to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Biconomy (BICO) Price Today | BICO Live Price Charts - Revolut",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NT0ZYRW1FRVgxQVdoeGtwdllEQ2xrZmEydGtjaVNYUmRuRU1BWHUwaDRzTDV3T1hOYUxaR1p3ZzMyTElWclFIZTh3MU0xc1ZWYXNXb29PLVZFUkZK?oc=5",
+      "source": "Revolut",
+      "publishedAt": "Wed, 18 Oct 2023 22:33:35 GMT",
+      "snippet": "Biconomy (BICO) Price Today | BICO Live Price Charts&nbsp;&nbsp;Revolut"
+    },
+    {
+      "title": "Biconomy Price: BICO Price Index and Live Chart - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQQzRPaEhLRnpIZkcwWUJGN0k1OWR0WkN3UTZxYjlMUUpTQU50c1hPS3N3ZmlpUkFqSkFCVVB2VFZHeVpJZkxZZU5IY1h5cFo5VWxTRkZHZG1mdjFtTVNrYkRWRVM?oc=5",
+      "source": "The Block",
+      "publishedAt": "Mon, 15 Jul 2024 23:25:34 GMT",
+      "snippet": "Biconomy Price: BICO Price Index and Live Chart&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Biconomy - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBJR0wxdEF2UWJOWjc2NFAxMl9yWDBSNUZuMTdKVzRQM0lsRjhTWEJJaUpRTFAzRDRhZ1gwcjdMWFJiTC1l?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Wed, 28 Jul 2021 23:16:59 GMT",
+      "snippet": "Biconomy&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Biconomy (BICO): Plug & Play APIs for a Frictionless Web 3.0 - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPVzc3UWMyS1dmcnNLLTliMnJ5OG9NRjRkWDFzZTlaZ3Y2S0dYRE11STB3U0gzSi0tcXdpdGFKMVlCVnY1N0xNTzlJSlBmLTN6T1ViXy1kb1dkZ2ZobVE0aXM0VERyalM2?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Thu, 06 Jan 2022 08:00:00 GMT",
+      "snippet": "Biconomy (BICO): Plug & Play APIs for a Frictionless Web 3.0&nbsp;&nbsp;Bybit Learn"
+    },
+    {
+      "title": "What Is Biconomy (BICO)? Features, Tokenomics, and Price Prediction - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSW05eHpYVG9KaXVPY2NVNnhGUmJIN2w1UmlvWERKYVRzY3ZuRjUzRWFYU3pMR0E3MXdtUUhBNFdkMnd1X2U1Z1VxSzVUWDBSeWNUdnlHMWp1bW5VN3JUbEZmSFp4MDVUYmZqRkdnU0FsMlo0V0U2ZEkzbFlpODdoY1UxMElqUHQ1MUpOLVdoOE9yNS1TS3BSRnljaGc3dWE3YzNrd1F4bw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 21 Sep 2023 20:06:58 GMT",
+      "snippet": "What Is Biconomy (BICO)? Features, Tokenomics, and Price Prediction&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Trading for ALICE, AUDIO, BICO, ENS, GALA, IMX, KP3R, MC, WOO, YGG Starts February 25 - Deposit Now! - Kraken Blog",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXRzLUxTVlZUcDVFdTJzMEdqRW53T291ZXVqMGo3bjFDVHVISkkzc282cTc1LVZPMGZiMS1YanNWX2ozTUdtMkRzSzlFREdhOGppVUc3TjhuTHNJRG9XLTFvajJsOTlYLXdoUmhfZVV6Z05WQ1RuTGx1WjNJUWFONFRoNnpwTmhyLTVFUWJScHAwTC1zSkhGX0RMRUVyekVnZ3ZFZ1VJelBRQWlkWW5SU1dSOXMzMmFkblpmZQ?oc=5",
+      "source": "Kraken Blog",
+      "publishedAt": "Wed, 23 Feb 2022 08:00:00 GMT",
+      "snippet": "Trading for ALICE, AUDIO, BICO, ENS, GALA, IMX, KP3R, MC, WOO, YGG Starts February 25 - Deposit Now!&nbsp;&nbsp;Kraken Blog"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
