@@ -2,6 +2,7 @@ const OWNER_FALLBACK = "liuqinh2s";
 const REPO_FALLBACK = "crypto-mint";
 const BRANCH_FALLBACK = "main";
 const WORKFLOW_FILE = "analyze-token.yml";
+const SITE_BASE = new URL("./", window.location.href);
 
 const form = document.querySelector("#analysis-form");
 const tokenInput = document.querySelector("#token-input");
@@ -192,7 +193,7 @@ function renderResult(result) {
 }
 
 async function loadIndex() {
-  const response = await fetch(`data/search-index.json?t=${Date.now()}`, { cache: "no-store" });
+  const response = await fetch(new URL(`data/search-index.json?t=${Date.now()}`, SITE_BASE), { cache: "no-store" });
   if (!response.ok) throw new Error("无法读取结果索引");
   const index = await response.json();
   renderHistory(index);
@@ -200,7 +201,7 @@ async function loadIndex() {
 }
 
 async function loadResult(path) {
-  const response = await fetch(`${path}?t=${Date.now()}`, { cache: "no-store" });
+  const response = await fetch(new URL(`${path}?t=${Date.now()}`, SITE_BASE), { cache: "no-store" });
   if (!response.ok) throw new Error("结果还没生成");
   const result = await response.json();
   renderResult(result);

@@ -11,7 +11,7 @@ The GitHub Action searches public data sources, sends the collected context to D
 
 ## Setup
 
-1. Enable GitHub Pages for this repository.
+1. Enable GitHub Pages for this repository and set the source to `GitHub Actions`.
 2. Add a repository secret named `DEEPSEEK_API_KEY`.
 3. In Actions settings, allow workflows to read and write repository contents.
 4. For web UI triggering, create a fine-grained GitHub token for this repo with `Actions: Read and write` permission. Paste it into the page settings. It is stored only in your browser local storage.
