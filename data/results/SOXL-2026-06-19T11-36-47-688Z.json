@@ -1,0 +1,152 @@
+{
+  "token": "SOXL",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T11:36:47.688Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SOXLON",
+    "name": "Direxion Daily Semi Bull 3X ETF (Ondo Tokenized)",
+    "generatedAt": "2026-06-19T11:36:39.907Z",
+    "summary": "SOXLON是Ondo代币化的3倍做多半导体ETF，24小时涨幅6.56%，但流动性极低（市值仅9.6万美元，24小时交易额6153美元），且无Binance交易对数据。上涨可能源于半导体板块情绪或Ondo平台热度，但缺乏实质催化。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性极低，任何买入都可能造成价格剧烈波动且难以退出。"
+    },
+    "catalysts": [
+      "半导体行业整体上涨可能带动SOXL相关代币",
+      "Ondo Finance平台代币化资产概念热度"
+    ],
+    "latestNews": [
+      {
+        "title": "Crypto race to tokenize stocks raises investor protection flags - Yahoo! Finance Canada",
+        "impact": "中性",
+        "reason": "讨论代币化股票的监管风险，可能影响投资者情绪，但非直接针对SOXLON。"
+      },
+      {
+        "title": "What is SOXL Stock: Key Facts and Market Insights - Bitget",
+        "impact": "中性",
+        "reason": "介绍性文章，无实质利好或利空。"
+      }
+    ],
+    "fundamentals": [
+      "SOXLON是Ondo Finance发行的代币化ETF，追踪Direxion Daily Semi Bull 3X ETF（SOXL）",
+      "总供应量342.55枚，市值仅9.6万美元，属于极小市值资产",
+      "项目定位为非美国用户提供24/5美股ETF代币化交易",
+      "无最大供应量限制，但当前流通等于总供应"
+    ],
+    "marketRead": [
+      "24小时涨幅6.56%，但交易量仅6153美元，流动性极差",
+      "Binance无有效交易对数据（受限），实际交易可能发生在DEX或小交易所",
+      "ATH为284.61美元，当前280.82美元，接近历史高点但成交量萎缩"
+    ],
+    "risks": [
+      "流动性风险：极低交易量导致买卖价差大，难以大额进出",
+      "监管风险：代币化股票面临投资者保护审查",
+      "平台风险：Ondo Finance本身存在智能合约或合规风险",
+      "市场风险：3倍杠杆ETF波动极大，代币化版本可能折溢价严重"
+    ],
+    "watchlist": [
+      "Ondo Finance平台是否有新合作或代币化资产上线",
+      "半导体板块（SOX指数）走势",
+      "SOXLON在DEX上的交易量和流动性变化"
+    ],
+    "sourceNotes": [
+      "Binance数据不可用，所有市场数据来自CoinGecko，可能不完整",
+      "新闻仅两条且非直接相关，缺乏近期催化信息",
+      "无链上数据或持仓分布，无法评估大户行为"
+    ]
+  },
+  "profile": {
+    "id": "direxion-daily-semi-bull-3x-etf-ondo-tokenized",
+    "symbol": "SOXLON",
+    "name": "Direxion Daily Semi Bull 3X ETF (Ondo Tokenized)",
+    "categories": [
+      "Tokenized Assets",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Tokenized Exchange-Traded Funds (ETFs)",
+      "Ondo Tokenized Assets",
+      "Tokenized Exchange-Traded Product (ETPs)"
+    ],
+    "homepage": [
+      "https://app.ondo.finance/"
+    ],
+    "description": "SOXLon is the Ondo Tokenized version of the Direxion Daily Semi Bull 3X ETF, giving tokenholders economic exposure similar to holding SOXL and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
+    "marketCapRank": 5742,
+    "currentPriceUsd": 280.82,
+    "marketCapUsd": 96195,
+    "fullyDilutedValuationUsd": 96195,
+    "totalVolumeUsd": 6153.64,
+    "priceChange24hPct": 6.56488,
+    "priceChange7dPct": 0,
+    "priceChange14dPct": 0,
+    "priceChange30dPct": 0,
+    "athUsd": 284.61,
+    "athChangePct": -1.3312,
+    "circulatingSupply": 342.5473670969072,
+    "totalSupply": 342.5473670969072,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 7,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "SOXLUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SOXLUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SOXLFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SOXLFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SOXLUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SOXLUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SOXLBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SOXLBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Crypto race to tokenize stocks raises investor protection flags - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOW8tb25YSmZVYmdyYnpBRFpHbVBhdjhZbGJRa1hRYXFBSV8zQU5RYXh5SFN5YU5FTG1vMnhVR1FKcmphUk16VXlxQm1tNXB3TnNXMEtqRUlmRE9uZGswMndXZnExb0J0NU52RE1fMFBnUW42dlh1LXpkYUZGbmI4eVllYldtWjIyZjNF?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "publishedAt": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "snippet": "Crypto race to tokenize stocks raises investor protection flags&nbsp;&nbsp;Yahoo! Finance Canada"
+    },
+    {
+      "title": "What is SOXL Stock: Key Facts and Market Insights - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52MHU4XzQybFRFbmR2UmhGWVN4N25vQ2dqVUlqNUVWSENmRGFCRjNKNWRuMWE2NkozWndlb0VrOTZVTDh2T2g5bjh5bEdBbTdTb1hKTFNBdl93Zw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 12 Nov 2025 10:56:47 GMT",
+      "snippet": "What is SOXL Stock: Key Facts and Market Insights&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
