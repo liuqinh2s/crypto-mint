@@ -1,0 +1,224 @@
+{
+  "token": "ATM",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T12:33:36.253Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ATM",
+    "name": "Atletico Madrid Fan Token",
+    "generatedAt": "2026-06-19T12:33:28.473Z",
+    "summary": "ATM近期因欧冠决赛临近及粉丝代币板块热度大幅上涨，24小时涨幅27%，7天涨幅63%。但基本面薄弱，无实质利好，ATH跌幅超97%，流动性风险高，建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若价格跌破1.5美元或成交量萎缩，则上涨逻辑失效。"
+    },
+    "catalysts": [
+      "欧冠决赛临近（2026年5月19日新闻提及），粉丝代币板块短期热度",
+      "Binance Launchpool及Chiliz生态支持，但无新进展"
+    ],
+    "latestNews": [
+      {
+        "title": "Fan Token Clubs Take Over Europe as UCL Final Beckons",
+        "impact": "利好",
+        "reason": "欧冠决赛前粉丝代币关注度提升，可能带动短期交易量"
+      },
+      {
+        "title": "Season Review: 10 Times Football Caused Fan Tokens™ to Explode in 2025-26",
+        "impact": "中性",
+        "reason": "回顾性内容，无新催化"
+      },
+      {
+        "title": "Álvaro Morata calls leaving Atlético Madrid his biggest mistake",
+        "impact": "中性",
+        "reason": "球员言论，与代币无直接关联"
+      }
+    ],
+    "fundamentals": [
+      "马德里竞技官方粉丝代币，由Socios.com发行，总量1000万，流通851万",
+      "市值约1367万美元，排名994，ATH 58.46美元，当前跌幅97.28%",
+      "属于体育粉丝代币板块，依赖球队表现和粉丝活动，实际应用有限"
+    ],
+    "marketRead": [
+      "24小时涨幅27%，7天涨幅63%，14天涨幅87%，短期涨幅巨大",
+      "成交量1891万美元，是市值的1.38倍，换手率高，可能存在炒作",
+      "Binance数据因地区限制无法获取，但整体市场情绪偏热"
+    ],
+    "risks": [
+      "ATH跌幅超97%，长期持有者深度套牢，抛压风险",
+      "粉丝代币板块缺乏持续利好，欧冠决赛后热度可能消退",
+      "流动性风险：市值小，价格易被操纵",
+      "无新项目进展或合作公告，上涨缺乏基本面支撑"
+    ],
+    "watchlist": [
+      "欧冠决赛结果及马竞表现",
+      "粉丝代币板块整体走势",
+      "ATM成交量变化，若缩量则警惕回调"
+    ],
+    "sourceNotes": [
+      "Binance行情数据因地区限制无法获取，价格数据来自CoinGecko",
+      "新闻多为旧闻或无关内容，缺乏近期实质性利好"
+    ]
+  },
+  "profile": {
+    "id": "atletico-madrid",
+    "symbol": "ATM",
+    "name": "Atletico Madrid Fan Token",
+    "categories": [
+      "Sports",
+      "Binance Launchpool",
+      "Fan Token",
+      "Solana Ecosystem",
+      "Base Ecosystem",
+      "Chiliz Ecosystem",
+      "YZi Labs (Prev. Binance Labs) Portfolio"
+    ],
+    "homepage": [
+      "https://www.atleticodemadrid.com/",
+      "https://www.socios.com/atletico-de-madrid/"
+    ],
+    "description": "",
+    "marketCapRank": 994,
+    "currentPriceUsd": 1.61,
+    "marketCapUsd": 13667956,
+    "fullyDilutedValuationUsd": 16058773,
+    "totalVolumeUsd": 18914778,
+    "priceChange24hPct": 26.91688,
+    "priceChange7dPct": 63.24233,
+    "priceChange14dPct": 86.75262,
+    "priceChange30dPct": 57.69571,
+    "athUsd": 58.46,
+    "athChangePct": -97.28246,
+    "circulatingSupply": 8511208,
+    "totalSupply": 10000000,
+    "maxSupply": 10000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 4426,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "ATMUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ATMUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ATMFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ATMFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ATMUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ATMUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ATMBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ATMBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Álvaro Morata calls leaving Atlético Madrid his biggest mistake - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kNUFiTXVTZm5SWk9FTGM5WmUyeEtkMk5tQ0RmckNXSmxkVERWOXY0XzVOQzNYVW5TN0ZWWDl4R0lESHFvLXgweEt1UHpOWG00aWRLcmhoRGVrakItOUZBVmFELU8zd2w0cFpHN2w2TjZaMXkw?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Thu, 11 Jun 2026 03:35:05 GMT",
+      "snippet": "Álvaro Morata calls leaving Atlético Madrid his biggest mistake&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "Season Review: 10 Times Football Caused Fan Tokens™ to Explode in 2025-26 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHRHZuc25ZNDJfVVlmZnc1WktpQnJoRDR2NTBrdVhYcGZaSFBmSmp5a0g0TlhXUHBvTHFnZVdhXzQxZVlfSTRJME03eWRqSzVub05RdTdlVVd6aXdveG9YQVgtM2tjaEttaTB5WktCM1JQOUJITm8tQWVmUXjSAYIBQVVfeXFMTXdTc1RSTmM5VWRMTjJJX09pOGVHUGV0RmxkMEtQYjFIaFN2cUQ0TEwyd3RtRG9IaFZUUVF3cjktckdXRXpKdlNjTnFCc0p6TXdpckNMdVlPQjZsZkExZVlneGk0dU82M3JZbVozZmhzUzYtVzRBQkVTcEczMHlybFBhZw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
+      "snippet": "Season Review: 10 Times Football Caused Fan Tokens™ to Explode in 2025-26&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bitcoin Depot Requires ID for Every Crypto ATM Transaction - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGVtS1NVOWt5NlBEM0czVTdaZWExUlo1TUdtYm81ZkhhU09IeG5HaGx4elZPanhpUVhkWUVFemtBc1hsNXB5UDV0cjV4VGVqdDl5UExTMXVud0tFcnFvMWhwTVJQTlZwSUM5dXYwSjNTUHhsTDlKSVRsbHVxeTJWZEJTTGpuRzR1bGJFTHlDbkE1MkFlRmV2V29XMHo?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "snippet": "Bitcoin Depot Requires ID for Every Crypto ATM Transaction&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "miqi–米奇(@Square-Creator-652545512)'s insights - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hZzlIRWwtNHFUVTNLR0pILXk4dXV2MWlSSnc0RWpqSHkxZDhDY0ZmS3RtOWxQclVHdUNyZU54S3JaLTh3cUU1MFN5LW8wY2N1ZDBxSlpZcjVLbS1TaEJDMFhkV2c?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "snippet": "miqi–米奇(@Square-Creator-652545512)'s insights&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "SportFi Roundup: How Fan Tokens Are Shaping Digital Fan Engagement - Bitpanda",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFRTM0hUQzZMSmR6NHpiOXFRMDJTRmJUNVRxZFBvT25MaDF3Y2tVM0puV2dXYlYyWDloYjRaMjdDSFJOMTdNNTktX0FEX2NuUklHZy1GSGhSbUxfX25ydUJOQlBCUjBGVEc4dFctcE5GcDdTZzItb0J6bGkyMnN0MUtrRTRBTkNFSGZ1dVExQXNoelIyZG5ZYjdR?oc=5",
+      "source": "Bitpanda",
+      "publishedAt": "Fri, 05 Dec 2025 08:00:00 GMT",
+      "snippet": "SportFi Roundup: How Fan Tokens Are Shaping Digital Fan Engagement&nbsp;&nbsp;Bitpanda"
+    },
+    {
+      "title": "Atletico Madrid Fan Token (ATM) - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcERCd29PbkJkMGQzX3VzamdPdHlZTlVtS0VvT3VpbHNBWDJlRmlySzl5blVUZHhaT3BQbm5sUDNJYW5DcTk0dW1NNUlfc2FvSXZiODZSTjdSMWJqd1dJbWRaaHJadmU2MndRMjZrZXVnbE5GMGFsSXpHQUM4WnN3WQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Mon, 04 Sep 2023 07:48:10 GMT",
+      "snippet": "Atletico Madrid Fan Token (ATM)&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Atletico de Madrid Fan Token price today, ATM to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yS2M0QjR0YkZ6ZmNTQmNYd2xmZTM5OXpSRHc3Q0F4VGlnbGR2TVRlYnBUQlpQMk1YOEE1RjdfZTdaRWhQY0dsME9B?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sun, 24 Nov 2024 22:07:18 GMT",
+      "snippet": "Atletico de Madrid Fan Token price today, ATM to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Arizona AG Warns of Surge in Crypto ATM Scams - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaUVXa1htLWVTM0FFRkJxUkkxZG83N2dzZXdNRXh0UFd4bVRjM3lzN21vMGdyMmZWM3RUdnRnSVJFcWxsYzFteFl3U1dVeWh3VHlHbkpHNm9qSmd0UldVRk4xYlVnbFNxTEdxOElrMEhSVUMyLUh3ZENYQjlab0FTX0t1VG44WXJzOEJn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "snippet": "Arizona AG Warns of Surge in Crypto ATM Scams&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Atlético de Madrid Fan Token - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmxBUGlWa1hacTg4bGVOMEdiUTk0SGFNNjhKcUlaeGo2QmdfdUxZcHI0dzJPVmZqWjZkZmZwcHIxMUNBbUV0YVN6bjJlZE00VWc2cElBVUxvNVFSVjYxcUFzcw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 27 Jul 2025 07:00:00 GMT",
+      "snippet": "Atlético de Madrid Fan Token&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Fan Token Clubs Take Over Europe as UCL Final Beckons - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYndpVTJGMkJSdktVc3pvdGx3TlNEQndycldnV3BKSEw3YWZXNEpNblpyTmV6bXZMcTNnY1Z5d0xxazRPZ3FtTjhWZk5vNDJPOGNiaTNGR0tPSld1aFZTVGJNand2c1ZGd0ExWHRYUXZGYnJ3Sm8tQk81TWs5b1Y1WC1iYXBjY0FZ0gGOAUFVX3lxTE9SLVZsa1JQc2NIX2pYTmxld1g1dENtc2tYX0ZyMHhjdHlicFl0VGhxTnM2TzA1NjkzWnJqRTVFNjNOVmMycF9rcVVMVmtpN0ZlbXRFSlFxdzE1Rzg5MUI5WFFTOERfM3Ntb04zU3hkR29oVjVFbDh1dGxKSHM0ZXlCZ0Y5TWtiTlA2Qks0d0E?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 19 May 2026 07:00:00 GMT",
+      "snippet": "Fan Token Clubs Take Over Europe as UCL Final Beckons&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What Is Atlético de Madrid Fan Token (ATM)? - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ3ZyUzlESXI2dkJLUF9FX2IxRHZGYkQxYVNudVdSYjdaeDVJZXhQMGRERmNVRkxIbDc1cU5EVGgyZzNSRHJDMjlhVXNvXzZJQ3ZHaHZ5R3dCaTdXeDExcDhGWVRpLXZ5aFFTZS11MzF4bElzZDc4RG5XQWVmZ0hBR1BVY0dxcUhRVFE?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 20 Sep 2023 01:17:02 GMT",
+      "snippet": "What Is Atlético de Madrid Fan Token (ATM)?&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Atletico De Madrid Fan Token Price Today | ATM to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzM1VLbFFuT0lMZEFaSFpKVEZQYWRLeUxKQjB4ZllLU0JlQmVjOE5lLWdLQlNFTldwU3NtNjVhcl9UNUF3TEdBNmxDUXE2c0lvRV9Yd09FandwNkdOcUVSSnctdzZQQWFHS1VfS3VR?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 30 Dec 2021 16:34:21 GMT",
+      "snippet": "Atletico De Madrid Fan Token Price Today | ATM to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
