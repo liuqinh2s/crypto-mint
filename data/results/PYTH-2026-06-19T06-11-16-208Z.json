@@ -1,0 +1,238 @@
+{
+  "token": "PYTH",
+  "exchange": "binance",
+  "generatedAt": "2026-06-19T06:11:16.208Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "PYTH",
+    "name": "Pyth Network",
+    "generatedAt": "2026-06-19T06:11:08.774Z",
+    "summary": "PYTH近期反弹21%但面临代币解锁压力，基本面有Pyth Reserve和Kalshi合作等利好，但价格仍远低于历史高点，市场情绪中性偏弱。",
+    "rating": {
+      "score": 45,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若价格跌破0.03美元或出现大规模解锁抛售，则逻辑失效"
+    },
+    "catalysts": [
+      "Pyth Reserve计划将网络收入与代币价值挂钩",
+      "Kalshi合作提供商品市场数据",
+      "Coinbase推出AI/国防指数期货可能间接利好",
+      "技术升级后价格曾跳涨11%"
+    ],
+    "latestNews": [
+      {
+        "title": "Pyth price rebounds 21% this week, but can PYTH overcome token unlocks?",
+        "impact": "中性",
+        "reason": "反弹显示短期买盘，但解锁风险压制长期信心"
+      },
+      {
+        "title": "Kalshi Taps Pyth To Power New Commodities Hub Markets",
+        "impact": "利好",
+        "reason": "合作扩大Pyth数据应用场景，增加网络收入"
+      },
+      {
+        "title": "Pyth Network Launches PYTH Reserve to Link Adoption and Network Value",
+        "impact": "利好",
+        "reason": "可能减少流通供应，提升代币价值"
+      },
+      {
+        "title": "3 Token Unlocks to Watch in the Third Week of May 2026",
+        "impact": "利空",
+        "reason": "代币解锁增加抛压，需关注具体数量"
+      }
+    ],
+    "fundamentals": [
+      "Pyth是领先的去中心化预言机，提供实时金融数据",
+      "总供应量100亿，流通约78.7亿，流通率78.7%",
+      "市值2.78亿美元，排名137，FDV 3.53亿美元",
+      "历史最高价1.2美元，当前跌幅97%",
+      "支持多链，包括Solana、Ethereum等"
+    ],
+    "marketRead": [
+      "24小时价格下跌4.86%，7天下跌9.39%，短期弱势",
+      "24小时成交量1950万美元，相对市值活跃度一般",
+      "价格远低于ATH，处于长期底部区域"
+    ],
+    "risks": [
+      "代币解锁事件可能引发抛售",
+      "市场整体情绪低迷，资金流入不足",
+      "竞争来自Chainlink等成熟预言机",
+      "监管不确定性影响DeFi领域"
+    ],
+    "watchlist": [
+      "下一次代币解锁日期和数量",
+      "Pyth Reserve实际执行效果",
+      "Kalshi合作带来的收入增长",
+      "价格能否站稳0.035美元上方"
+    ],
+    "sourceNotes": [
+      "Binance数据因地区限制无法获取，使用CoinGecko数据",
+      "新闻来源包括crypto.news、Business Wire等，时效性较好",
+      "部分预测类新闻参考价值有限"
+    ]
+  },
+  "profile": {
+    "id": "pyth-network",
+    "symbol": "PYTH",
+    "name": "Pyth Network",
+    "categories": [
+      "Infrastructure",
+      "Decentralized Finance (DeFi)",
+      "Oracle",
+      "Analytics",
+      "Solana Ecosystem",
+      "Neon Ecosystem",
+      "Manta Network Ecosystem",
+      "Multicoin Capital Portfolio",
+      "GMCI DeFi Index",
+      "Delphi Ventures Portfolio",
+      "GMCI Index"
+    ],
+    "homepage": [
+      "https://pyth.network/"
+    ],
+    "description": "Pyth Network is a decentralised oracle network designed to provide real-time financial market data to decentralised applications (dApps) across multiple blockchains. It allows developer to secure smart contracts with reliable, low-latency market data from institutional sources, and build apps with high-fidelity oracle feeds designed for mission-critical systems.",
+    "marketCapRank": 137,
+    "currentPriceUsd": 0.03532972,
+    "marketCapUsd": 278220733,
+    "fullyDilutedValuationUsd": 353296982,
+    "totalVolumeUsd": 19508546,
+    "priceChange24hPct": -4.86332,
+    "priceChange7dPct": -9.39138,
+    "priceChange14dPct": 3.46686,
+    "priceChange30dPct": -11.84329,
+    "athUsd": 1.2,
+    "athChangePct": -97.05748,
+    "circulatingSupply": 7874981857.383085,
+    "totalSupply": 10000000000,
+    "maxSupply": 10000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 104919,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "PYTHUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PYTHUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PYTHFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PYTHFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PYTHUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PYTHUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PYTHBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PYTHBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Pyth price rebounds 21% this week, but can PYTH overcome token unlocks? - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb3liQ0JqcHl2QnZ4TTBfakE1QUdhQ1NHZTdBRER6dG1mbVJPLXNrVUJjd2d6STRIZkprTFMtSzVZTXMzQ3VXbmlNaDAwMnNvQkpMdzBudVlDQUQ4ZE9SOUZBQ0VOc3hJNGc4UkJzQ0VFeGRNbUNwVGZrYm1jMDJ1S2REYVpPM1Y2X0NGWk9fSW01MUk?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Sun, 14 Jun 2026 09:15:07 GMT",
+      "snippet": "Pyth price rebounds 21% this week, but can PYTH overcome token unlocks?&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Coinbase debuts 24/5 AI, China and defense index futures access - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUpvQ29UWTdhemQ1S2NOUmJ1REVHLVQxQ3VIeVM0TWhOd3NkNEJsa2xfREdfWnNFamFSamNJbTM5dkZMVmpzVnNpbmxSNG1xdTF2WmlXQ2dZUGNzYmw3VTRVbmdGdm83NzVydHBmNmpXN2xGcm5QaThKZTJ3cVNvRGJsOVJJUzh2NEtSaURuN2lDQXBiTmNCbm1QMEZaV011WkFTNEFqbV8tU0JfdG5kM25Wdl91R2JLTUtR?oc=5",
+      "source": "Stock Titan",
+      "publishedAt": "Mon, 15 Jun 2026 12:30:00 GMT",
+      "snippet": "Coinbase debuts 24/5 AI, China and defense index futures access&nbsp;&nbsp;Stock Titan"
+    },
+    {
+      "title": "PYTH Network Price Prediction: The Critical 2026-2030 Forecast for the $1 Milestone - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeG9FTUIwX0pkaE5KaFNEUFphZEs1UHdsS19hMk10aFprQlhKRndCeHFpRDQ1dzFSNFkyZzdPVEx0SkVqOHA1WWdlTVNCdmxUZjR1aElsLTEya2JqZVF1R3F3dUNnQXkzRzRhWjM1NGZ4dko3V3VNZHJ5aEhNT0ZMaHVn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 08 Jan 2026 08:00:00 GMT",
+      "snippet": "PYTH Network Price Prediction: The Critical 2026-2030 Forecast for the $1 Milestone&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Is PYTH set for breakout after 11% jump on Pyth Network upgrade? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM255RGRtbzhabXV3ZWpCRHlTOGxlUlNMZWY1ZDVjVFZWQl9GQXZYaFZURThiRnp1TXRaWm04Y1poWXNoalNDOUp6R0JTRWF3YTI3RTdRb1ViVzhQLXY2MjA4dEdoMWpsWWZEd3VSOC1jaXVyVTk3U2V4cVZKYmFqczhQNmEtb1JtNUI0UGFCYUdsZEdOTEh0U3EzUVFzTFNTaVhRS3IxdGV4S01WNlU5dzg5U2VCV2lDRnN3?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "snippet": "Is PYTH set for breakout after 11% jump on Pyth Network upgrade?&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Buy Pyth: Latest Price, Process & Market Step Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GaFgtQlFRVUh3aVJMel9iWko0WWFkODhDSXdiNWtBa1FWMG1vMkVLQ1dHOHlqSFpKaElHSmJINjBiMVN0NzRmNG0zck5rblYxd0JoZ2hpZk9aZDJSTnJySnVvaWZmRl92bWFBWU8ybjU4TER2RWdwMEZOLWg?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Tue, 16 Jun 2026 12:01:08 GMT",
+      "snippet": "Buy Pyth: Latest Price, Process & Market Step Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Pyth Network Price Prediction: Is PYTH a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZmlHMHMtcmVKQXdRczZ0dFVrbWIzMy1Ma3dkaHAwazAwbC0xNTZ1c0ZhZUZGd25YbXlXcHhNYVJ2MkZMOGtiM2ZDcV80MnBQRV9rVjRhLTAyM2I1LURGWjNhRVYzMWdMX1NMdEtHRUNGZjFMVHhiN1Z4VUFxNHVmNmJiYTBkSFAwM3c?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Tue, 02 Sep 2025 07:00:00 GMT",
+      "snippet": "Pyth Network Price Prediction: Is PYTH a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Pyth Network Launches PYTH Reserve to Link Adoption and Network Value - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2tHeTd6ZmwwdTFmRUY5b183ZVZnUS1DSDFtdUJuSkszb0l6b3hNVDZTalNHanlBREhFaURWSkt6Ynl6MnhIMzhBMUI1QnJsRHp6RHpqWW1QUExHMjMwTDNfenk2TWU4cFNKejVqNEc4ekQwUHZpTWhhWXVQalkxTG9kWk5HTlJJLUs3Y2FJLWF3SlhWUlNJdUtsYXRwMUZxdzFTbUhnQmNPdzl3eUVfb2hJWk1OUkZnMFo3TjNGT2xWcDh0?oc=5",
+      "source": "Business Wire",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "Pyth Network Launches PYTH Reserve to Link Adoption and Network Value&nbsp;&nbsp;Business Wire"
+    },
+    {
+      "title": "Kalshi Taps Pyth To Power New Commodities Hub Markets - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGRKOGtQSjVJbmdaWlFGX1lTSk16dmY4dEVoSTR0UDdKVnZSQ1c0dk9BVVJEd3FrZ1BLVnoyeXZlb2F6bDYtekp2SDBwd2o4VTgzT3J1TnBpMjhObGszX0JONVpUME5Pd3pPU2puUC1mT3FBTzB4cDdaNlR4Z1lCU2FPeVg5SWNxMmJTay0xdmZHa0lpMHY3d0hXMA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 08 Jun 2026 23:45:37 GMT",
+      "snippet": "Kalshi Taps Pyth To Power New Commodities Hub Markets&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "PYTH Network Price Prediction 2026, 2027 – 2030: Will PYTH Price Top $1? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTHdQNFB4UHp1ZTRZcTZHOURzSjFnMWxsWUJtU2pxNG5HdWxCNkoxb2hNVkVsOUV3ZHpIcjR1SWo5MmN6Q3E5TFZoaW5FaHdtQkx4dU9YQWtXaHJmOS12U01HdHNvZlVGR2ZrR2Fn?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Thu, 08 Jan 2026 08:00:00 GMT",
+      "snippet": "PYTH Network Price Prediction 2026, 2027 – 2030: Will PYTH Price Top $1?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "3 Token Unlocks to Watch in the Third Week of May 2026 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cDVpTUN2SzlyQWpvdXBxS0hwaFRBaWx3UjB4bkstV1N1YXVwUWU0c0tkdFhseVVHRkJ3MmN5bmRQMnVoOFl5VnI3TzQyZkFvSGxjc1Z3UDRVYU5rblFvWk5HYlFVYThjeVlWZQ?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
+      "snippet": "3 Token Unlocks to Watch in the Third Week of May 2026&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Learn All Crypto Topics | Phemex Academy - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHT3hITFl5ZUNlOXYtWENJekdjeW55S1hMX21XWVlhbmtSb1lsWkFELV81RktmREVFRVZBTnBfRnR6c0JqSFY4QWp1MWVFVDJVMjRNYms3dG10Yk9uQU1TRC0yTnNHcXltUDNtYQ?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
+      "snippet": "Learn All Crypto Topics | Phemex Academy&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "State of Pyth Q4 2025 - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xUEdaZ3Z4ZldlVEFvRC1Cc2picVhST29FRHZPNTBxbS14dmJuc0xPa29GZlV0azBSazdMR25tVU92V040RXRteS1hOXhJeUk4S2RSQl9aaGVNN1E?oc=5",
+      "source": "Messari",
+      "publishedAt": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "snippet": "State of Pyth Q4 2025&nbsp;&nbsp;Messari"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

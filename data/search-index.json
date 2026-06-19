@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-19T06:09:59.782Z",
+  "updatedAt": "2026-06-19T06:11:16.210Z",
   "results": [
+    {
+      "token": "PYTH",
+      "name": "Pyth Network",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-19T06:11:16.208Z",
+      "latestPath": "data/results/PYTH-latest.json"
+    },
     {
       "token": "ZEN",
       "name": "Horizen",
