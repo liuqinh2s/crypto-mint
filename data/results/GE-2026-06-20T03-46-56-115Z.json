@@ -1,0 +1,220 @@
+{
+  "token": "GE",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:46:56.115Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "DOGE",
+    "name": "Dogecoin",
+    "generatedAt": "2026-06-20T03:46:49.909Z",
+    "summary": "DOGE近期上涨主要受Elon Musk确认X支付将整合DOGE的预期推动，但基本面缺乏实质进展，市场情绪偏弱，建议观望。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若X支付整合消息被证伪或DOGE跌破0.075美元支撑位，则逻辑失效。"
+    },
+    "catalysts": [
+      "Elon Musk确认X支付将整合DOGE，可能带来实际应用场景",
+      "DOGE作为Meme币龙头，社区活跃度高"
+    ],
+    "latestNews": [
+      {
+        "title": "Elon Musk just confirmed X money will be big. #Dogecoin http - KuCoin",
+        "impact": "利好",
+        "reason": "Musk的言论直接关联DOGE支付应用，提振市场预期"
+      },
+      {
+        "title": "Bitcoin News: Bitcoin Price Drops to $79K as DOGE Leads Crypto Losses — 67-Day Negative Funding Rate Record Signals Short Squeeze Setup - Binance",
+        "impact": "利空",
+        "reason": "DOGE近期领跌，资金费率持续为负，显示市场悲观情绪"
+      }
+    ],
+    "fundamentals": [
+      "DOGE是PoW共识的Meme币，无限供应，通胀率约4%",
+      "市值约128亿美元，排名第11，流动性较好",
+      "无实质开发团队或路线图，价值主要依赖社区和名人效应"
+    ],
+    "marketRead": [
+      "24小时涨幅约0.58%，但7日跌幅约4%，30日跌幅超20%，整体处于下行趋势",
+      "成交量约4亿美元，相对活跃，但未出现明显放量突破"
+    ],
+    "risks": [
+      "无限供应导致长期通胀压力",
+      "高度依赖Elon Musk个人言论，消息面风险大",
+      "Meme币波动剧烈，缺乏基本面支撑",
+      "近期资金费率持续为负，空头主导"
+    ],
+    "watchlist": [
+      "Elon Musk关于X支付的进一步细节",
+      "DOGE价格能否站稳0.08美元上方",
+      "市场整体情绪及比特币走势"
+    ],
+    "sourceNotes": [
+      "Binance数据因地域限制无法获取，价格数据来自CoinGecko",
+      "新闻时效性参差不齐，部分为旧闻"
+    ]
+  },
+  "profile": {
+    "id": "dogecoin",
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "categories": [
+      "Smart Contract Platform",
+      "Meme",
+      "Dog-Themed",
+      "Elon Musk-Inspired",
+      "Proof of Work (PoW)",
+      "GMCI Meme Index",
+      "GMCI 30 Index",
+      "GMCI Index",
+      "Coinbase 50 Index",
+      "4chan-Themed"
+    ],
+    "homepage": [
+      "http://dogecoin.com/"
+    ],
+    "description": "Dogecoin is an open-source digital currency based on the \"Doge\" meme that functions as a peer-to-peer medium for fast payments and digital tipping. Unlike projects backed by corporate entities, its value is driven by a global community, and the project is managed by a decentralized group of volunteers and the non-profit Dogecoin Foundation rather than a formal company. Originally created in 2013 by software engineers Billy Markus and Jackson Palmer as a market parody, the project held no public sale or venture capital rounds. The network operates as a fork of LuckyCoin, which itself was a fork of Litecoin, using a proof of work consensus mechanism. It employs the Scrypt algorithm to ensure the mining process remains fast and efficient, with new blocks processed every 60 seconds. A unique technical feature is its use of merged mining, allowing miners to secure Dogecoin simultaneously with other Scrypt-based networks like Litecoin. To keep transaction fees low and the network running indefinitely, Dogecoin features an uncapped supply where new coins are added forever. In a major regulatory milestone in March 2026, a joint SEC and CFTC framework officially classified Dogecoin as a dig",
+    "marketCapRank": 11,
+    "currentPriceUsd": 0.0832,
+    "marketCapUsd": 12877368287,
+    "fullyDilutedValuationUsd": 14184996945,
+    "totalVolumeUsd": 401304806,
+    "priceChange24hPct": 0.58138,
+    "priceChange7dPct": -3.98841,
+    "priceChange14dPct": 1.42243,
+    "priceChange30dPct": -20.40366,
+    "athUsd": 0.731578,
+    "athChangePct": -88.62731,
+    "circulatingSupply": 154733086383.7052,
+    "totalSupply": 170445413126.5791,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 58.82,
+    "watchlistUsers": 869547,
+    "genesisDate": "2013-12-08"
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "GEUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GEUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "GEFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GEFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "GEUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GEUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "GEBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GEBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Elon Musk just confirmed X money will be big. #Dogecoin http - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByQmYxRWYyNXB0QVpNWUo0X2dmc0RQMHBHMmUzQTF5T2RJUWkyelI5T3dTMVZldHFUU0pjeEJpaHREQjk2U2VCV1p3WW1WTE9ySnFMT3VJRDJLSWE0dTdrbVJXWWpSQ0lzU2pyUWxMNng3UQ?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "snippet": "Elon Musk just confirmed X money will be big. #Dogecoin http&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "What Is Shiba Inu (SHIB)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5Ymt0TE1BQjktbl9hY3Z4LVBiRXE2OWVWTVBYU05FZG84bzYwYU1GQnZWMlZPZWJlUGVjamh6N0RXbTBwaDlSOXhpMXVRSU41Um5wLXM3djNBdUJHcWwxX1dpTy1HWjdKcEljZEtxX3MwMFE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 05 May 2026 07:00:00 GMT",
+      "snippet": "What Is Shiba Inu (SHIB)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What is General Electric Tokenized Stock (Ondo)(GEON) Coin? Everything You Need to Know About GEON/USDT - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU3pSSFZFQ0M2bVdwMDFvX3BxUnpxZUoyNHN6T0NhMmZkTzNXR3NNaTZQS3k2Tzdadm9vTHRCNFVhbjlfUjVMc1BCRXAzX2s1akVHcEpFbTdrSzRRUzM2TGk3M3NGdWMydFJIQ3g3VVFRSlUyOEVQdm1pMEJkUzFoa2hRVlVFTDVyejZDU0thcjc5Y1AydzFPdm9qYk1NNzNvS3VPZ3FnRFZfbzAtdGR0Uy1WVHN6Y205U2tlNjB1cEhuR2U2TnJ0OWpMVmtmOF9yX0FEb2JZMUcwcy1oamM2b0lBc1laQlAwOFNZaQ?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "snippet": "What is General Electric Tokenized Stock (Ondo)(GEON) Coin? Everything You Need to Know About GEON/USDT&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "SEC approves generic listing rules for commodity-based trusts - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53QkdiSC03dXlxS3dOb1ItN1JhZUVtS0VYNE5tc1FhS0F2Q1M3YXdPLVZRT3lqblJNNHY2LXJVX29uUVhxSXhSX3k5UUxxdlV5MW55NmVDN0xjQV90X1VRVUZJTmpoX1dnbF9GYjhHU1B0WlNlYUFCaG5Cc0s?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 18 Sep 2025 07:00:00 GMT",
+      "snippet": "SEC approves generic listing rules for commodity-based trusts&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "GE Vernova (GEV) Shares Climb After Upgraded Guidance and 100% Dividend Increase - Tokenist",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDM5ZjJLSW90Zmk2eVozb21rVHZka3E2NFF0cmJqSWR6Zl9NUktqejZGRGRZM25OMll4VDN0anJ6SGowYkJyeks0WnM3X0NsOVYtVFRNSjV5OTFjby1aNzR1cVNfdG92V0pvbGVSR19UeDJyb2M1ME53aFhCREM2WC1tY3dNeC1IMkhlQjAyNEx6UDA3YUFmV3BIY1YtZ2tw?oc=5",
+      "source": "Tokenist",
+      "publishedAt": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "snippet": "GE Vernova (GEV) Shares Climb After Upgraded Guidance and 100% Dividend Increase&nbsp;&nbsp;Tokenist"
+    },
+    {
+      "title": "Bitcoin News: Bitcoin Price Drops to $79K as DOGE Leads Crypto Losses — 67-Day Negative Funding Rate Record Signals Short Squeeze Setup - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxORmlRN2xQcjljQURJdGxnTUdWMjQzN1B0dVgxZmMtNkVvaF9BTk51VTFnamJhdUY1b25zMi1yQlFQS3ZzNC1VYTB0MHRWeTVIb1d4Y3RZdTRpQ29uYTFUREh1M29IUkg5bndJTThKQXFqc3N1YmRFajVOQWZNVmRBTW8yWnJ1S1QxNDhLdjBhVTlTR2N6cnZvYnFKLUctZDRZRENKaE1fVW9YNmhqZjRYbnZ3WVpNT0lsbTR6dlRfZVZWTWJXdF9sNms5VVVOWldZYU5lbm1lMkFqWWcwRWphZGJZbnE2T0ZQRnJ1NnJQbEZqUzREMkdSQTBsd2NORGV6RmYweXRlVXhMTFBFR3dudHN6cEprQkNlVUVLRWRCV3pxaHc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 08 May 2026 07:00:00 GMT",
+      "snippet": "Bitcoin News: Bitcoin Price Drops to $79K as DOGE Leads Crypto Losses — 67-Day Negative Funding Rate Record Signals Short Squeeze Setup&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Altcoins to Buy, 3 Metaverse-Themed Tokens Outperforming DOGE, SHIB - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaU9VRDlsbndza0EyeC1fSGhnYXI1MnZvY2w3RmktNUhVTEtYWnpBcm1ab3lUWlE0MzVPSlY3TEl2Z2lkaldnTTNWV0NiX09IR2IzeUczMzhBN3NZc2FhVnpzbUY5T3lOSnNFSFhBUGx4VTRIYUMyOUpkY3pwbDhmcGZjN19Yd09PSGptbExKX3FSQ2l1czUwaHVleWV2amNTQ0htcHprR1M?oc=5",
+      "source": "Business Insider",
+      "publishedAt": "Tue, 02 Nov 2021 07:00:00 GMT",
+      "snippet": "Altcoins to Buy, 3 Metaverse-Themed Tokens Outperforming DOGE, SHIB&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "What Is Dogecoin? The Original Meme Coin Explained - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUlBaRXlGakJMZVJMUUhQQlJHMXV4V1pUNkxhWGRySXpoTlZXVlBzY0ZuVWNGT0xsa3RMM05zWE9GZDluOTFTWVNxREVXeGdoOEZYX0NsaW1Sa3JTbFFDbGNKQnVSbFNpYk5mTUpRQUx5aUtOcnZqZDFJOW5kdG1QMnFNblp5dGVE0gGQAUFVX3lxTE1iUWRQV0kwdTlTcUlwdk5Ca1MtTVVubXAwTG9CRlZBOVF1b2UwQlBOWGk3aWwwOXhoYjlsbDlPVUtSdjBJWC1teno1N3JQeGllNzYxd1prVVpvN1h0dHc3ZWxEb1RZTnZqa0ktUEd0MEFWdGY5ci1RTXZadTVGWDNTblpWZFdZSFRHdFlFUHlNdA?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Thu, 14 Nov 2024 08:00:00 GMT",
+      "snippet": "What Is Dogecoin? The Original Meme Coin Explained&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "Perplexity AI Predicts Surge for XRP, Solana, Dogecoin in 2025 - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFU2dXZrdnowSTNkVnVTRDBKY2FMMVJlZlZiS293RDRpR21xRXhHT1ZIdUttdDNQNlBfcHQwcDVoS3JHRWphcTVvdFBLczlkdGU0enkyWXRib19HQ2QyMzVCeXBUV2FzSEdMTnd5S29WbGxZTG44cUMxcGFjQ0d3WDFMMEJJNVd3b1BsczlkdDEyRFRyR1ptX01Ca2NiZFEteUE?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "snippet": "Perplexity AI Predicts Surge for XRP, Solana, Dogecoin in 2025&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Pepe price today, PEPE to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80eVh2ZS04dExGRnpZMjNYOVVaRmFkQXZOV1ZjMDVqTHE0N0pHcjdndzY1eXpfeEYtSjVyUlZROVpJVDZiaFZxYzVBb19TekJVYW9DMw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 14 Apr 2023 07:00:00 GMT",
+      "snippet": "Pepe price today, PEPE to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "All Cryptocurrencies - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjREpiQWVkdVo3dER1YmQzNGN2YXpUZUxIblp6M255V2E0d3BUX1Nxc1lqRXNvZVhxanlLWHZkdndvbEtKbEVKX0g1SzNhRGIxelJ2QjJlVkpUWGJqcEE?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Wed, 25 May 2022 06:22:42 GMT",
+      "snippet": "All Cryptocurrencies&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "If You Invested $1,000 In Dogwifhat When It Launched, Here’s How Much You’d Have Today - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFZJY3lWOEs3VHZRQUJUelc2blh5TGZJRXI2MWIwTXhPWUdPWjlyUVJGNWRYSTlpdWcwSXpDNGhUUGZSUkZEaE9obDRpeXhRMWU0OG5WRWVFTnZ3U2EyMVJtSGV5b0JKUzVnS2JmczVTU2ZxenhUXzJaX05pejhkNlBWQmpPQ0hscVZvRFlLSlNsbHotc0d6ZmRXVTBMaUpzYVVibW1rZ3NtcUFZazUzN2lEMml0eEduTncxRERXeGoyNjQ?oc=5",
+      "source": "24/7 Wall St.",
+      "publishedAt": "Wed, 02 Oct 2024 07:00:00 GMT",
+      "snippet": "If You Invested $1,000 In Dogwifhat When It Launched, Here’s How Much You’d Have Today&nbsp;&nbsp;24/7 Wall St."
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

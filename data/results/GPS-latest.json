@@ -1,0 +1,220 @@
+{
+  "token": "GPS",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:46:55.931Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "GPS",
+    "name": "GoPlus Security",
+    "generatedAt": "2026-06-20T03:46:49.779Z",
+    "summary": "GPS近期因Web3安全赛道热度及Binance生态支持上涨，但距离历史高点跌幅超95%，流通量大，需警惕解锁风险。",
+    "rating": {
+      "score": 45,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 20,
+      "holdingPeriod": "1-2周",
+      "invalidation": "跌破0.008美元或出现重大负面新闻"
+    },
+    "catalysts": [
+      "Web3安全赛道关注度提升",
+      "Binance Labs及OKX Ventures投资背景",
+      "近期产品更新及H2 2025基本面报告"
+    ],
+    "latestNews": [
+      {
+        "title": "GoPlus Security: H2 2025 Fundamentals Update and Product Developments - CoinDesk",
+        "impact": "利好",
+        "reason": "展示项目进展，增强市场信心"
+      },
+      {
+        "title": "GPS Token Manipulation: Binance Bans Market Maker, Refunds Users - CryptoRank",
+        "impact": "中性",
+        "reason": "负面事件但已处理，短期影响有限"
+      }
+    ],
+    "fundamentals": [
+      "去中心化Web3用户安全网络",
+      "总供应量100亿，流通44.09亿",
+      "Binance Labs、OKX Ventures等顶级机构投资",
+      "已上线Binance、OKX等主流交易所"
+    ],
+    "marketRead": [
+      "24小时涨幅9.8%，7日涨幅29.8%，成交量约1189万美元，交投活跃",
+      "市值约4102万美元，排名517位，属于中小市值代币"
+    ],
+    "risks": [
+      "距离历史高点跌幅超95%，套牢盘压力大",
+      "流通量仅44%，未来解锁可能带来抛压",
+      "市场操纵历史（Binance曾处罚做市商）",
+      "Web3安全赛道竞争激烈"
+    ],
+    "watchlist": [
+      "代币解锁时间表",
+      "Binance及OKX等交易所的流动性变化",
+      "项目方新合作或产品上线"
+    ],
+    "sourceNotes": [
+      "Binance行情数据因地区限制无法获取，价格数据来自CoinGecko",
+      "新闻时效性一般，部分为2025年内容"
+    ]
+  },
+  "profile": {
+    "id": "goplus-security",
+    "symbol": "GPS",
+    "name": "GoPlus Security",
+    "categories": [
+      "BNB Chain Ecosystem",
+      "Base Ecosystem",
+      "Cybersecurity",
+      "YZi Labs (Prev. Binance Labs) Portfolio",
+      "OKX Ventures Portfolio",
+      "Binance HODLer Airdrops",
+      "Binance Alpha Spotlight",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://gopluslabs.io/"
+    ],
+    "description": "GoPlus is revolutionizing Web3 user security through its permissionless and user-driven User Security Network, which provides comprehensive protection across the entire user transaction lifecycle. GoPlus aims to create a more secure and user-friendly Web3 on-chain interaction environment by filling the gap of the security layer in the current blockchain's architecture, providing users with more effective and better-experienced on-chain security protection. ",
+    "marketCapRank": 517,
+    "currentPriceUsd": 0.00936381,
+    "marketCapUsd": 41023219,
+    "fullyDilutedValuationUsd": 93042161,
+    "totalVolumeUsd": 11891356,
+    "priceChange24hPct": 9.82422,
+    "priceChange7dPct": 29.80435,
+    "priceChange14dPct": 34.1393,
+    "priceChange30dPct": 28.43222,
+    "athUsd": 0.2198,
+    "athChangePct": -95.78538,
+    "circulatingSupply": 4409100001.78,
+    "totalSupply": 10000000000,
+    "maxSupply": 10000000000,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 2635,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "GPSUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GPSUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "GPSFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GPSFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "GPSUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GPSUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "GPSBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GPSBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "GoPlus Security: H2 2025 Fundamentals Update and Product Developments - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6LWtXUXF1MzZjdW0xdUJlWURjam9aVG5lSzJFWjRkd0hMNzVXaWcwZ2gzcXhwYVlpNWNnZG1Pbkg1ZXVjWkxKRl9PVzhGMG4xR1JPYXJ2QjhuUzVacDBqVE1YWk1VVFZM?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "snippet": "GoPlus Security: H2 2025 Fundamentals Update and Product Developments&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "GoPlus Security Price Prediction: Will GPS Coin Reach $1? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDFwLXJFZVFHRGY2WTJaVEdNNjhXdkJSeUprcHdZaVlDQmdmZkszYWJfZ1lTMHlqc19RWmpMNHFldGhXZWZkOF9qSW9oT2pET2F2Y0JqN3NubnkwVzdkVkJfbHZURHZPQ28wMXZka0sxZjNQbDNDNUl4Q0Y0NVdjUlpubkNWTHJN?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Wed, 02 Jul 2025 07:00:00 GMT",
+      "snippet": "GoPlus Security Price Prediction: Will GPS Coin Reach $1?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "GoPlus Security price today, GPS to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KNnBYSzQyaHRGaUVvRG1YSi1qQlB1a1pGQ2R0eDhjOGZxMmFmR0c0TUxLcGZuOWJOOTVnTXZVbnp3cDFEVWpqakFxZjNHUVI0QWVLQWtISjg1b1VsX2laOWRfMA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 16 Jan 2025 08:27:53 GMT",
+      "snippet": "GoPlus Security price today, GPS to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "GoPlus Security Price: GPS/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0dnFGQkd4aThSaFJaNFRqUTBzWmFteDE1QlNxZkZqUzMwREhWX2dkVWk5bkxxbzRjSktEejlaRmZoTV9ZeDBsT2ZYcF9QRGhtb3AwTHR0YnY5MWZlYlRn?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 16 Jan 2025 13:47:16 GMT",
+      "snippet": "GoPlus Security Price: GPS/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "GoPlus Security Price Today | GPS to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OaGFWSXhJX3FPSUtJR2EwRjJhYWMxSURlTTZYSlpOMmNzLUtSZmc1T3JUMmVId0F2dWRac3Zha0t0RDJuR2pqREN3blpFdEJLR093QTNoTUlyTDRt?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 16 Jan 2025 09:56:53 GMT",
+      "snippet": "GoPlus Security Price Today | GPS to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What is GoPlus Security: Get to know all about GPS - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVMnpkbkxGQzQ5SHJXUllMb0NLTGs5MUU1eFBKUkJlbENyMTRFMkY4dlByUnJvZm55NW0wYjBrUWhpa2pVUll2X1ZSVkcxWmRyakJkemE5blhPb1VwRk1hdTlmdw?oc=5",
+      "source": "OKX",
+      "publishedAt": "Tue, 04 Mar 2025 08:00:00 GMT",
+      "snippet": "What is GoPlus Security: Get to know all about GPS&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "GoPlus Security Price, GPS Price, Live Charts, and Marketcap: gps coin - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qWkNXdlRjeFJDQ0FtVjdESTBBbTZRNDF3T0FrN3gzLVhJQk44MGhaTzJycTZ6ZDhZcnlwOUxlM0I0WlB1VlZVdjE1WTJvOWJyRURNclh0YlBBMXI3dHJ5Rm1scjg5a2c?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Thu, 27 Feb 2025 14:28:50 GMT",
+      "snippet": "GoPlus Security Price, GPS Price, Live Charts, and Marketcap: gps coin&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "GPS Token Manipulation: Binance Bans Market Maker, Refunds Users - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVR5YzhwenJKTWFnT2dCRGVBZzhZUmlkeE5MVGxBVDd5MEtKcDNHN3oybExLM0NFZHU1RmNEYldOMDNINGx3RHM2OENaZjgtdWtUV1BaQ0RHaGxVRkQzQk9RUmFKcUdSUnh6SUU1cFJyTXJrM3hDQTVMLVVuTUw3YkpWeUpTd0ZZc1J3NWg1VGYyTUQ2Qm85cW13bHdOZUpxaXc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 11 Mar 2025 07:00:00 GMT",
+      "snippet": "GPS Token Manipulation: Binance Bans Market Maker, Refunds Users&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "GoPlus Security (GPS) - All information about GoPlus Security ICO (Token Sale) - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tNGNlY2N6eGNJX0xxTlB0Vy1uTFUwbEVKcGcyT1BYQWs2cTJQZVZvYTVTQmhBVTVHa1FqdjZxWHVuTnRXNHZ1VGFLbU94QQ?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Tue, 27 Dec 2022 22:25:52 GMT",
+      "snippet": "GoPlus Security (GPS) - All information about GoPlus Security ICO (Token Sale)&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "GoPlus Security: Decentralized Web3 Security Infrastructure Analysis - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZSkNqOGplakliRUV2bTQtMVdMbm9CaWdodDlsR2xlVHN5Mjl6dDNMUURUQXdLNndvUmVpOHNFLVVYZkVESmxDejJuWm9FY3l6SjVrRVdFNGhtVWszQmxPWUZZbVlUX3FwbU83cFZESl8tb3pweUE?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "snippet": "GoPlus Security: Decentralized Web3 Security Infrastructure Analysis&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "GoPlus Security Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast - Binance",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLVjJjekVuWFdYS0JXVlhJaVFsNXZjYzVCTW1Ma0VVOUtjeV83YUg4ejVhZHl3LWhQTkhRUEYzOG5QTnZJcVpMM2Z2SUloTmZSZ0NpUHJHcFprenhjNzR1Sjl1cGY4WnA3VjRN?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 04 Mar 2025 20:13:27 GMT",
+      "snippet": "GoPlus Security Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "GoPlus (GPS): Your Gateway to Safer Crypto Transactions - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHV3hOb0FzRGhPWFYyRlVLazRqVW51WTIybkJ4U1duVTNXVFJ6TFhQUmoyS3hpRzg3QlFSZ25Dd0hjWVAxb3MzWktURlk5c3pEVlFucWExNkRTeEh5TWVB?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Wed, 22 Jan 2025 08:00:00 GMT",
+      "snippet": "GoPlus (GPS): Your Gateway to Safer Crypto Transactions&nbsp;&nbsp;Bybit Learn"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

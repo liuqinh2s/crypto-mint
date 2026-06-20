@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-20T03:03:13.720Z",
+  "updatedAt": "2026-06-20T03:46:56.117Z",
   "results": [
+    {
+      "token": "GPS",
+      "name": "GoPlus Security",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-20T03:46:55.931Z",
+      "latestPath": "data/results/GPS-latest.json"
+    },
+    {
+      "token": "GE",
+      "name": "Dogecoin",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:46:56.115Z",
+      "latestPath": "data/results/GE-latest.json"
+    },
     {
       "token": "TSM",
       "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock)",
