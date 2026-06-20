@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-20T07:23:23.585Z",
+  "updatedAt": "2026-06-20T07:46:49.627Z",
   "results": [
+    {
+      "token": "CATI",
+      "name": "Catizen",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-20T07:46:49.626Z",
+      "latestPath": "data/results/CATI-latest.json"
+    },
     {
       "token": "HEI",
       "name": "Heima",

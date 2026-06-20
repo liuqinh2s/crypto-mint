@@ -1,0 +1,225 @@
+{
+  "token": "CATI",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T07:46:49.626Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CATI",
+    "name": "Catizen",
+    "generatedAt": "2026-06-20T07:46:42.417Z",
+    "summary": "CATI近期因Catizen 2.0 VWA游戏发布及TON生态热度上涨，但价格仍远低于历史高点，流通市值低，成交量放大，短期有投机机会，但基本面支撑不足，风险较高。",
+    "rating": {
+      "score": 45,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 20,
+      "holdingPeriod": "1-3天",
+      "invalidation": "价格跌破0.055美元或成交量萎缩50%以上"
+    },
+    "catalysts": [
+      "Catizen 2.0 VWA游戏发布，提供资产真实所有权",
+      "TON生态整体热度提升",
+      "低市值+高成交量吸引短线资金"
+    ],
+    "latestNews": [
+      {
+        "title": "Catizen 2.0: The World’s First VWA Game — Giving Players True Ownership of Their Game Assets",
+        "impact": "利好",
+        "reason": "VWA游戏创新可能吸引用户和资金流入"
+      },
+      {
+        "title": "How to Withdraw Catizen (CATI) Airdrop Tokens to KuCoin",
+        "impact": "中性",
+        "reason": "提现教程，无实质影响"
+      },
+      {
+        "title": "Has Success Finally Found Web3 Gaming? Catizen's Growth and Financial Results Offer a Clear Affirmation",
+        "impact": "利好",
+        "reason": "CoinDesk报道正面，显示项目增长"
+      }
+    ],
+    "fundamentals": [
+      "Catizen是TON生态的猫咪主题社交游戏，结合Telegram小应用和区块链",
+      "代币总供应量10亿，流通约4.54亿，流通市值约2725万美元",
+      "历史最高价1.11美元，当前价格0.0601美元，跌幅超94%",
+      "项目有Launchpool和Open Task平台，但收入数据不透明"
+    ],
+    "marketRead": [
+      "24小时价格微跌1.47%，但7日涨3.27%，14日涨28.68%，30日涨19.53%，近期有反弹趋势",
+      "成交量562万美元，相对市值2725万美元，换手率约20%，交易活跃",
+      "价格仍处于历史低位，ATH跌幅巨大，上方套牢盘重"
+    ],
+    "risks": [
+      "项目基本面薄弱，缺乏持续收入证明",
+      "代币解锁风险：总供应量仍有约5.46亿未流通，未来可能抛压",
+      "新闻多为2024年，近期催化有限",
+      "GameFi赛道竞争激烈，用户留存存疑"
+    ],
+    "watchlist": [
+      "Catizen 2.0游戏用户增长数据",
+      "TON生态整体走势",
+      "代币解锁时间表",
+      "成交量变化"
+    ],
+    "sourceNotes": [
+      "Binance行情数据因地域限制无法获取，价格数据来自CoinGecko",
+      "新闻来源为Google News聚合，部分时效性较差"
+    ]
+  },
+  "profile": {
+    "id": "catizen",
+    "symbol": "CATI",
+    "name": "Catizen",
+    "categories": [
+      "Gaming (GameFi)",
+      "Play To Earn",
+      "Telegram Apps",
+      "TON Ecosystem",
+      "Tap to Earn"
+    ],
+    "homepage": [
+      "https://linktr.ee/catizen",
+      "https://catizen.ai/"
+    ],
+    "description": "Catizen is a unique, cat-themed social entertainment experience on Telegram, blending playful interactions with the power of the TON Blockchain. As a revolutionary gaming bot, Catizen not only simplifies Web3 access but also makes mobile payments seamless, transforming the way users engage with decentralized technologies. Building on Telegram’s vast user base, Catizen is designed to become a hub for Web3 activities, combining a mini-app center with Launchpool and an Open Task platform. By gamifying the Attention Economy and leveraging Decentralized Value Realization, Catizen creates an ecosystem where users can enjoy engaging, fun, and rewarding experiences. ",
+    "marketCapRank": 687,
+    "currentPriceUsd": 0.060131,
+    "marketCapUsd": 27250792,
+    "fullyDilutedValuationUsd": 60057067,
+    "totalVolumeUsd": 5620249,
+    "priceChange24hPct": -1.47097,
+    "priceChange7dPct": 3.27013,
+    "priceChange14dPct": 28.67995,
+    "priceChange30dPct": 19.53043,
+    "athUsd": 1.11,
+    "athChangePct": -94.56525,
+    "circulatingSupply": 453748290.57,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 10801,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "CATIUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CATIUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CATIFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CATIFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CATIUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CATIUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CATIBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CATIBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Catizen 2.0: The World’s First VWA Game — Giving Players True Ownership of Their Game Assets - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkhMWlJYdFBuLXFVNDZ0U19UbjBjU3Q2N1MwYS1pT0VCYXFLZkpNQllGNGNyVTI1T2lqdEw0bU1hMlZqZk9RSHRQcENMRTgyUkN3Ri0wY3BFa0kxSUxxSHpLNHJmQ1FzeEs5V2NQWjJ6SGVlY09teUt1Nml1UmFiZW41X2J4bzkxVlhBX1h0dHZ1enY2SlpuSXJnbXpseVRNM2VuZExyWGdVTWVpLVlkM0JfczNIVlVFTE03Y2o1NnJiZw?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "snippet": "Catizen 2.0: The World’s First VWA Game — Giving Players True Ownership of Their Game Assets&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "How to Withdraw Catizen (CATI) Airdrop Tokens to KuCoin - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRDQwTWhLMTZhMEhYbmo3UTRIVkpSV185RkRONDNZdWJ6MFUyNDVtaWRBeVFtNlk0cW9FSWlmcmFrbW82dHljUG9hcEFEd1BSMmI5NmVvR2xocElsbWlQcW1pTHlVVGZQaFpiZmhwT1h5dmRSeDB5dkRZbnBFM3VEc3dOMHV3UUJUSmpKcTRtT3NKMjE0VlRNQ0Q2cw?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "snippet": "How to Withdraw Catizen (CATI) Airdrop Tokens to KuCoin&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "What to Do With Catizen Coin: Should You Sell CATI? - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZjkzUGsxMGJvQTJNOUN2SUsxZ1lBX2xFYXVwWnZCLS1CdlQxcjBfdk5NTDQzWXZPcGdNMm9ZWVVfeFFBVTVQZFUwZ2ZERUdFaUI2U3JFVXAxb2JFQmlGa1hJY015U1p3TE1zU0ZHSzBLdjlSSDd5UFpPTTdIUkV3LWtVUQ?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Fri, 11 Oct 2024 07:00:00 GMT",
+      "snippet": "What to Do With Catizen Coin: Should You Sell CATI?&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "Catizen (CATI) Price Surges Over 9%, Market Cap Tops $99M: Low-Cap Gem Gains Momentum - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVRSZWdOcWZaR0JlUGpuYjdvZVFONENlU0tSSjlSc0RMUFVzQjB5dFc0d0ZCQ1BkcVA2aW1DMGhCTDByMm9ZLWtjNGJmZklQVDZlcHdMdEFvM1NtWjRTZkd4VTNVbGV1SFJsemhIMU5ab3pIMlpsN3FqcEZFNzNOeHR3eWFDb29JWFFHa2J3WjZxdGM2bU1RYS02XzIyXzhHQlY3X3pkZkY0a21fcHlQSG1zblVQdFV3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 23 Oct 2024 07:00:00 GMT",
+      "snippet": "Catizen (CATI) Price Surges Over 9%, Market Cap Tops $99M: Low-Cap Gem Gains Momentum&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Catizen Price Prediction 2025: CATI Could See More Growth After All-time Low - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Dc2NpVmxQNUdYX1FZMExtV1dSTm9pVnM3WWhoWUJ6bmNtQ1pINEZmcWo3YXRuQ29KZWlhbDZtcGpYQTNIQ1QzTmJ3VFMtbkRkckZLUFNJYk45TmFRcDd2aVR2MFhmLVdqZ29BbVpBX2NjY3Rw?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Tue, 19 Nov 2024 08:00:00 GMT",
+      "snippet": "Catizen Price Prediction 2025: CATI Could See More Growth After All-time Low&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Catizen🐱 Listing Date⏳Price Prediction💲Future💡 & Additional income idea💸: - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zTEZEZGZVRWoySVZ1d19lbmRfZnVMLUNTd3NUSEZWQVlFSnNvUEc4RU40UWs0UXRxRmVYSEdjSW92cXBqZ2l5MmtJdlZ3bGRhOUFjRkEtNTlmLTlaZDRZbnQ1SQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 07 Sep 2024 07:00:00 GMT",
+      "snippet": "Catizen🐱 Listing Date⏳Price Prediction💲Future💡 & Additional income idea💸:&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Has Success Finally Found Web3 Gaming? Catizen's Growth and Financial Results Offer a Clear Affirmation - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWWREd1lGcWl3SEZyZk1FZExPWDJxNEEwbVhxX1E3aWN6QjlWQUhTNmdKY19PUjBmdVd6aW0zQXZXUzZ0OGhuMlpOdGY2SEhadzZ3ejVzZXU2NjJabFltNkZUSHM1dXJEXzVGRzVhcExNam5icExxTmlrRDVKM012dFhBbHFvYWI0dW9sVjFmY19vQ0E4UzVMS0ZhQXBUZVhud1JMSFEwSEJZOGhXcGJxaGVsOHhOVV9xYktLa2FyLTdJUUVNZFU1VDJIUjF0M1RudUZBMXJ6bFNFbzZvQUE?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 18 Feb 2025 08:00:00 GMT",
+      "snippet": "Has Success Finally Found Web3 Gaming? Catizen's Growth and Financial Results Offer a Clear Affirmation&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Telegram Game ‘Catizen’ Delays Airdrop Amid Blowback Over PETA Donation - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM2QzRDdWLXgyWXp2QkM2TlEwRkp1aWdxQVN3YzdPYmhhMXdXOWJzNlhoTG8xeHNaZ3RMbEdfZTNxLUtyVTloRVFIdUFSUTRMTWZEVS1LZW94dU9lSU1jMU5LQUlzOHFLc2tpTXFSRHJxRU9nRU83WWdSakdSc3otdmF0VExyMGVoc1ZtM0lB0gGWAUFVX3lxTFBuSnZhcy01V3MwT2xEQ2hja3BBaDZ4dkdKTm1pLXhoc1ZYeVBOMVNEZlppV2VQcVpKM08xWDhFRDBZNUxRdFpIeHFhVXIzTkxhQlVOS241RFJhdlRfY3BXZndaZEJOamo2bWZsSmk4MzhxeUtHbTFfOW1mYmtObkxPQUNFOUY1a28xVFF4RXJJZHZ3ZE40Zw?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Mon, 29 Jul 2024 07:00:00 GMT",
+      "snippet": "Telegram Game ‘Catizen’ Delays Airdrop Amid Blowback Over PETA Donation&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "Exploring Catizen: A Cat-Raising Crypto Game in the TON Ecosystem - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRVE2ZDV0YWVqR0dBYUNfeFV1WExHRWoyVldGWGxHbjc4MzhlRTdFXzBXWmNScUlRYjZsSk1Fc3d0ckdOWUM1bkJINVRfWmpkN3pJY2dKdTByVlB4ejZHUmFCbzVpYUVlQkc1UGlsUVdNOHBTeHF3QllDYzZOLUh3UmdtNDFLdEI4Sl9Ec0lEVkd0UkplZVZpWm9R?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "snippet": "Exploring Catizen: A Cat-Raising Crypto Game in the TON Ecosystem&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Catizen (CATI) Price Prediction 2023-2030: Will CATI Price Hit $5 Soon? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DbDhNQTEtWExOb0d1ek5JZThtWERTb3NEYnlvdS1xWXhoendsX05DLWlhV2owTVh2ZkoydEhNRXF1SHZSSk5KT1o2dWNFTEpndWYzTDNDeEZEVWw2cVVVUm10VUlkR2xXMVJhN3VNU0ItZU5vbkE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 23 Sep 2024 07:00:00 GMT",
+      "snippet": "Catizen (CATI) Price Prediction 2023-2030: Will CATI Price Hit $5 Soon?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Binance Confirms Catizen Token Listing: CATI Coin Price Jumps 35% Before Binance Launch - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sWmJOd1FNTzZJazN6b2RkWXUyMDV6ZnU0dFlHcUhOc2kyM3dJZmM4MlpNdDI0ekJscGlTMnJiZDdFcF8yLVVib1NlTTRvc1RfZmJsSzItTkxkQTdtZlJWRlZlZw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 13 Sep 2024 07:00:00 GMT",
+      "snippet": "Binance Confirms Catizen Token Listing: CATI Coin Price Jumps 35% Before Binance Launch&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Catizen (CATI) Token Launch: Where to Trade and What to Expect? - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96UTFkbnBqZGhrcEw3ckZpWnZ6aDdoRmVGUnZEM01wenE2SnlIejRidjBtT0dUdmNaaDgzeGotWGp3SXloV1p2TlhqUUJyd2RYa0Y4WHZ0R2ZqZlV4aUZxNHg1OGJkMXAwNkh6OERmNEpsVGZRSk1TdQ?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 26 Sep 2024 07:00:00 GMT",
+      "snippet": "Catizen (CATI) Token Launch: Where to Trade and What to Expect?&nbsp;&nbsp;CCN.com"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
