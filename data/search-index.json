@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-20T04:32:02.155Z",
+  "updatedAt": "2026-06-20T06:25:33.576Z",
   "results": [
+    {
+      "token": "EIGEN",
+      "name": "EigenCloud (prev. EigenLayer)",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "观察",
+      "generatedAt": "2026-06-20T06:25:33.574Z",
+      "latestPath": "data/results/EIGEN-latest.json"
+    },
     {
       "token": "PENDLE",
       "name": "Pendle",
@@ -180,15 +189,6 @@
       "action": "观察",
       "generatedAt": "2026-06-20T03:02:41.946Z",
       "latestPath": "data/results/NBIS-latest.json"
-    },
-    {
-      "token": "EIGEN",
-      "name": "EigenLayer (EigenCloud)",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-20T03:02:42.513Z",
-      "latestPath": "data/results/EIGEN-latest.json"
     },
     {
       "token": "EWJ",
