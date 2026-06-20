@@ -1,0 +1,226 @@
+{
+  "token": "SLX",
+  "exchange": "binance",
+  "generatedAt": "2026-06-20T22:26:07.701Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SLX",
+    "name": "Solstice",
+    "generatedAt": "2026-06-20T22:25:58.338Z",
+    "summary": "SLX 近期因Upbit上线和TVL突破5亿美元等利好上涨，但24小时涨幅已超21%，且早期空投抛压和上线暴跌历史提示风险。当前估值中等，但缺乏新鲜催化剂，短期追高需谨慎。",
+    "rating": {
+      "score": 45,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": 15,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若价格跌破0.18美元（近期支撑）或TVL大幅下降，则逻辑失效。"
+    },
+    "catalysts": [
+      "Upbit上线后交易量激增，韩国市场情绪推动",
+      "TVL突破5亿美元，显示生态增长",
+      "Solana和BNB Chain双链生态布局"
+    ],
+    "latestNews": [
+      {
+        "title": "Upbit Adjusts Solstice (SLX) Listing Time by 30 Minutes",
+        "impact": "利好",
+        "reason": "Upbit作为韩国最大交易所，上线带来流动性和关注度"
+      },
+      {
+        "title": "Solstice price surges as its TVL crosses $500M and a rare bullish pattern forms",
+        "impact": "利好",
+        "reason": "TVL增长反映协议采用率提升，技术形态看涨"
+      },
+      {
+        "title": "Solstice token drops over 40% on launch day as airdrop recipients sell SLX",
+        "impact": "利空",
+        "reason": "早期空投抛压表明存在大量获利盘，可能限制涨幅"
+      }
+    ],
+    "fundamentals": [
+      "Solstice是DeFi收益层协议，将机构级收益策略代币化",
+      "支持Solana和BNB Chain，TVL超5亿美元",
+      "总供应量10亿，流通约2.43亿，流通市值约4900万美元",
+      "代币用于治理和协议费用分配"
+    ],
+    "marketRead": [
+      "24小时涨幅21%，但成交量5.29亿美元，换手率极高，显示投机情绪浓厚",
+      "价格距历史高点0.463美元仍跌56%，上方套牢盘压力大",
+      "Binance API受限，无法获取精确订单簿数据，流动性情况不明"
+    ],
+    "risks": [
+      "早期空投抛压持续，上线首日暴跌40%历史重演风险",
+      "TVL增长可持续性存疑，若资金流出将打击信心",
+      "市场情绪过热，短期涨幅过大可能回调",
+      "Binance Alpha上线后价格波动剧烈，缺乏稳定支撑"
+    ],
+    "watchlist": [
+      "TVL变化趋势",
+      "Upbit和Binance交易量",
+      "是否有新的大额解锁或空投",
+      "整体DeFi市场情绪"
+    ],
+    "sourceNotes": [
+      "Binance API因地区限制无法获取实时行情，价格数据来自CoinMarketCap",
+      "新闻来源为Google News聚合，部分日期可能不准确",
+      "TVL数据未直接提供，来自新闻引用"
+    ]
+  },
+  "profile": {
+    "id": "solstice",
+    "symbol": "SLX",
+    "name": "Solstice",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "Yield Farming",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Binance Alpha Spotlight",
+      "Governance"
+    ],
+    "homepage": [
+      "https://solstice.finance/"
+    ],
+    "description": "Solstice is the Yield Layer, a protocol bringing institutional-grade yield products on-chain for DeFi composability. Most on-chain yield has been leveraged on volatile assets. Institutional yield strategies, like delta-neutral funding capture, tokenized corporate credit, and sovereign-rate exposure, have historically sat behind compliance perimeters that public chains couldn't cross. Solstice closes that gap. The protocol wraps licensed off-chain strategies in a standard on-chain container, so the yield they produce flows across the DeFi ecosystem as composable tokens. Built for institutions. Open to everyone.",
+    "marketCapRank": 462,
+    "currentPriceUsd": 0.198622,
+    "marketCapUsd": 49244753,
+    "fullyDilutedValuationUsd": 202782485,
+    "totalVolumeUsd": 52905087,
+    "priceChange24hPct": 21.30789,
+    "priceChange7dPct": 5.83667,
+    "priceChange14dPct": 14.6559,
+    "priceChange30dPct": 0,
+    "athUsd": 0.463469,
+    "athChangePct": -56.24571,
+    "circulatingSupply": 242845200,
+    "totalSupply": 999999996.717088,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 72.73,
+    "watchlistUsers": 1930,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "SLXUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SLXUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SLXFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SLXFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SLXUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SLXUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SLXBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SLXBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Toncoin Price Outlook: Why Traders Are Watching $4 Level? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2s0dkpVWkJZWU9ZOXdOUlJuWWhYUjNuT3J6ektHY29uZGhfTl9hN0dCZDNPbzdFcy1URzZfNWN6T1cxZkRwX3o3UDZZLWN5UGFoZGVfTlI0WWh2UTBJYWdGWTZJWXhaTWgzVC1oelRVeURxN1BNQ2czczlkWmNqQkFJSlpUdmxyNXh3dzhTaEJZV2IyMEJR?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 20 Jun 2026 18:11:01 GMT",
+      "snippet": "Toncoin Price Outlook: Why Traders Are Watching $4 Level?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Solstice price today, SLX to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZ0ZIUWhNSlgxcE9qeWZEVE1FQ09oQjR3cmtpUmtEX0o4cEVRdzhCSUZGSm9xSlMtWVVYSnlOTUtfYy1zX0RPX2xMS3BUeURDN3ZQNXctcHo2QQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 22 May 2026 17:53:26 GMT",
+      "snippet": "Solstice price today, SLX to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Why is the Solstice (SLX) Token Price Up Today? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1VFRBZk5fTlFIQXlyS2ZnZUpWNUxNSnBtSHpZanZWdmMwUTVONHduaUlyUVZxakpWMllVejNJZmMxZVFGTWpuVXJvcENTd0s1aGliUXNaWXFULXNFa0ZaUUNaYi01Y1IyYXVTSWxjejZ0djY4Wmo40gF8QVVfeXFMTWR0MzFJRmJVTUwtRV9EUlZyQk0tcnBQNHp4dHFFSTVGTDN4X3ZaeWFGN1I2UWlCYnFNNGl1MzVTd050TVBQNS1mTWhjMzZ3NExFdzJJNThZWnhLUUhHQXY0YlhJcVhyNWRuVy1FMURiRHdEcWszajhVcFdoMQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Wed, 27 May 2026 07:00:00 GMT",
+      "snippet": "Why is the Solstice (SLX) Token Price Up Today?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "SLX Token Price Today: Solstice Launch Volatility Explained - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTFXR0xOaW53M2tlbENZOVZYNzBYNnVrRUZZTTVFMFZyTkx1Unc2UE9NX2dpT2lpeDJ2QlVPOVZwWUJJS29aNUFwZWhNQk4wbVA4Q0Qzd1F3UzV1d1pwTzhmLTEwelpITFJHdDJyV2tsSGxwMHg5UHlIRFVHLXR5UWxVMGpiRkhqdS01elBQOUVtTXdaNmlOWjZ0NHA1NTFMcUhHTnZvSVpZUTAzTHdiZl9oeHFvUWFH?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
+      "snippet": "SLX Token Price Today: Solstice Launch Volatility Explained&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Upbit Adjusts Solstice (SLX) Listing Time by 30 Minutes - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUTENNendDeWxWNVpCb3pjV1FtdG5MaWF2VU5zaDMwSWRQREVTOGNyUnpoblJVWThKREFfMmtaM0ZZWDB6ZW5sWnNJcHVRazZrRmVmUTlNZ1ZSLXJpS1hFMnFtTFlPcXU4UXlndUNLbEFueDBwQjE3dHRB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 18 Jun 2026 16:23:27 GMT",
+      "snippet": "Upbit Adjusts Solstice (SLX) Listing Time by 30 Minutes&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Solstice price surges as its TVL crosses $500M and a rare bullish pattern forms - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcWhGT1FLdlV3b2d3QnozZVgyQm1hZnhFVWx2WjBTSDdsTTNJNS15Ym9McGZYTklQRkUydFZnbm5xVi1neHpHaktvZ2xsMkJpcjYwRGJOWEZPZUc0Z1JIMlZqRy15RlNuM1prYXpUTkh1SXFwSVR0RHdmY1J1YVpha2N6N19pZGpDU3JPbUV0Qzh1RWlnVExWc2J6YmRaRWlXdW5OSlVkSXZMV3FJVWd4Sm1HRGlGb2dwWG1yWTZkbF9EM2d3WUg0aDQxNkxkajM0?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 29 May 2026 07:00:00 GMT",
+      "snippet": "Solstice price surges as its TVL crosses $500M and a rare bullish pattern forms&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "$SLX surges 103.8% following listing on Upbit, South Korea’s largest exchange - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OUUlqSUpTOUVtekIydWpXRVRPRzdjNzdwRW9VVHFRU3BZQXV1SnBVWll6VVBaR3BlMkx4MnNoNm9ILXk0cGxVOUpwVGFxOWE4RjNhOUhnRHlxc2pzNXlSMFh3?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "snippet": "$SLX surges 103.8% following listing on Upbit, South Korea’s largest exchange&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "Solstice launches SLX token for fast-growing Solana yield ecosystem - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOODdRU3pxT2RTT1ViZkNqS2RCR1V5OWxNMkVNWHFUYmYzX0xtdjVYZndyOG15cWtCaWo3Sm0yY1V1WmN5am1tWWhrVjBucF83OTRsLTVlZ1RCM3J1OWE2NFIxYWU1aTEwcjlxbHk1ZmZldmVLc1ZWYmU5NUFFU3hGR2p2WGszVm5CampHQlY4S1NJdmNkU3Rjb1E1WGJCSnJPajh0dEFleXF0V3Vy?oc=5",
+      "source": "thestreet.com",
+      "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
+      "snippet": "Solstice launches SLX token for fast-growing Solana yield ecosystem&nbsp;&nbsp;thestreet.com"
+    },
+    {
+      "title": "Solstice Price Today | SLX to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PM251ZzNaclRUMlZibTFJQmhqNEREcmc1U3dObEg3RXdYQ2J6c1ZmWlVkZjVGamxuRk42S2g3V2p1WXNuZTd5RHdqRjlrWlZ3T1Zzbjdybw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 31 May 2026 07:00:00 GMT",
+      "snippet": "Solstice Price Today | SLX to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Solstice token drops over 40% on launch day as airdrop recipients sell SLX - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtWVNzajd3eW1SUU4tRVN5RDJmNXRTUTM0bXJJVHMtWU5ocEdSU0Q5aTUzYmFJSHpPa3NSbmZubWtaeldtaG5Bb3dJZ3k4blhGSGM0NkZYdFBDVzA?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Mon, 25 May 2026 07:00:00 GMT",
+      "snippet": "Solstice token drops over 40% on launch day as airdrop recipients sell SLX&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Solstice Crashes 30% Within Minutes Of SLX Binance Alpha Debut - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Wendnd21oVHVWVjNJXzNYa2NDYUZLLTlOUW9SSXpwd0RTeGdIUUpKWW9FSFpnNU5abmdfZDZPUGdPX2JLQTBlUTM3eGd6X3c3Sjk2b3pLUVRKdVk5dWhTVkNmTEFOT2JmMEVLbXpsQ253QlJublE?oc=5",
+      "source": "Yellow.com",
+      "publishedAt": "Mon, 25 May 2026 14:26:16 GMT",
+      "snippet": "Solstice Crashes 30% Within Minutes Of SLX Binance Alpha Debut&nbsp;&nbsp;Yellow.com"
+    },
+    {
+      "title": "Solstice Token Price is Soaring Today, and Why SLX is at Risk of a Crash - BanklessTimes",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWlFXOU41UHQ5VktCQUljSXhMMG9LRUJCSkluTnlrVFFlZ3hmVlNCVUZNdjJVM3dLd3RHczVaVExoRzdhTFRZZFpmUWthX3BPYVkzNnBqNVhFcFJQcWMxaVJLeWRmenY3SDF6YVd6OEF2bDZ3Z2xVRWZWWng2elR2QUZDcHJXbm5PWno4N0w0VzNQNzEyVGZOaUFpTDA0OGg3Wl9LWWYyTnZIbVk3WVhVYWxCeTI3RTE5QU5EcXh5OA?oc=5",
+      "source": "BanklessTimes",
+      "publishedAt": "Mon, 01 Jun 2026 13:16:01 GMT",
+      "snippet": "Solstice Token Price is Soaring Today, and Why SLX is at Risk of a Crash&nbsp;&nbsp;BanklessTimes"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
