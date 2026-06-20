@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-20T03:46:56.117Z",
+  "updatedAt": "2026-06-20T03:52:12.252Z",
   "results": [
+    {
+      "token": "AERO",
+      "name": "Aerodrome Finance",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-20T03:52:12.249Z",
+      "latestPath": "data/results/AERO-latest.json"
+    },
     {
       "token": "GPS",
       "name": "GoPlus Security",
@@ -135,15 +144,6 @@
       "action": "不买",
       "generatedAt": "2026-06-20T03:02:32.289Z",
       "latestPath": "data/results/ARM-latest.json"
-    },
-    {
-      "token": "AERO",
-      "name": "Aerodrome Finance",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "观察",
-      "generatedAt": "2026-06-20T03:02:39.186Z",
-      "latestPath": "data/results/AERO-latest.json"
     },
     {
       "token": "CRDO",
