@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-20T03:52:12.252Z",
+  "updatedAt": "2026-06-20T04:01:58.191Z",
   "results": [
+    {
+      "token": "PENDLE",
+      "name": "Pendle",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-20T04:01:58.189Z",
+      "latestPath": "data/results/PENDLE-latest.json"
+    },
     {
       "token": "AERO",
       "name": "Aerodrome Finance",

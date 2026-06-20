@@ -1,0 +1,252 @@
+{
+  "token": "PENDLE",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T04:01:58.189Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "PENDLE",
+    "name": "Pendle",
+    "generatedAt": "2026-06-20T04:01:49.708Z",
+    "summary": "Pendle近期因代币回购空投、上线Revolut及Monad链等利好上涨，但30日跌幅仍大，需谨慎。",
+    "rating": {
+      "score": 55,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 15,
+      "holdingPeriod": "1-2周",
+      "invalidation": "跌破1.2美元或TVL大幅下降"
+    },
+    "catalysts": [
+      "Pendle回购170万枚代币并空投sPENDLE持有者",
+      "上线Revolut，触达2000万欧洲用户",
+      "与Monad链合作，拓展新生态",
+      "Arthur Hayes买入340万美元DeFi代币（含PENDLE）"
+    ],
+    "latestNews": [
+      {
+        "title": "Pendle buys back 1.7M tokens, distributes $1.4M in airdrops to sPENDLE holders",
+        "impact": "利好",
+        "reason": "回购减少流通，空投激励持有者"
+      },
+      {
+        "title": "A New Partnership Unveiled — Pendle Launches on Monad",
+        "impact": "利好",
+        "reason": "拓展新链生态，增加TVL潜力"
+      },
+      {
+        "title": "PENDLE Token Goes Live on Revolut, Reaching 20M EEA Crypto Traders",
+        "impact": "利好",
+        "reason": "增加用户基础和流动性"
+      },
+      {
+        "title": "Arthur Hayes Deploys $3.4 Million into 4 DeFi Tokens: Bet on 2026 Comeback?",
+        "impact": "利好",
+        "reason": "知名人物买入，市场情绪提振"
+      }
+    ],
+    "fundamentals": [
+      "Pendle是收益代币化协议，允许交易未来收益",
+      "TVL曾达83亿美元，目前约30亿美元（估算）",
+      "代币用于治理和费用分成",
+      "sPENDLE机制取代vePENDLE，更灵活"
+    ],
+    "marketRead": [
+      "24小时涨幅38%，7日涨幅8.6%，短期反弹强劲",
+      "30日跌幅27%，仍处于低位",
+      "成交量2500万美元，流动性一般"
+    ],
+    "risks": [
+      "30日跌幅较大，反弹持续性存疑",
+      "市场整体情绪不明，DeFi板块波动大",
+      "代币解锁风险（总供应2.8亿，流通1.7亿）",
+      "新闻催化可能已部分定价"
+    ],
+    "watchlist": [
+      "TVL变化",
+      "sPENDLE空投后抛压",
+      "Monad链上线后TVL增长",
+      "比特币及大盘走势"
+    ],
+    "sourceNotes": [
+      "Binance数据受限，价格来自CoinGecko",
+      "新闻来源为Google News聚合，时效性较好"
+    ]
+  },
+  "profile": {
+    "id": "pendle",
+    "symbol": "PENDLE",
+    "name": "Pendle",
+    "categories": [
+      "Decentralized Exchange (DEX)",
+      "Exchange-based Tokens",
+      "Decentralized Finance (DeFi)",
+      "Yield Farming",
+      "Automated Market Maker (AMM)",
+      "BNB Chain Ecosystem",
+      "Derivatives",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Optimism Ecosystem",
+      "Fixed Interest",
+      "LSDFi",
+      "Base Ecosystem",
+      "Restaking",
+      "LRTfi",
+      "Liquid Restaking Governance Tokens",
+      "Berachain Ecosystem",
+      "Yield Tokenization Protocol",
+      "YZi Labs (Prev. Binance Labs) Portfolio",
+      "GMCI DeFi Index",
+      "Sonic Ecosystem",
+      "Liquid Staking",
+      "GMCI Index",
+      "BTCfi Protocol",
+      "HyperEVM Ecosystem",
+      "Monad Ecosystem",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://pendle.finance/"
+    ],
+    "description": "Pendle is a protocol that enables the tokenization and trading of future yield. With the creation of a novel AMM that supports assets with time decay, Pendle gives users more control over future yield by providing optionality and opportunities for its utilization. ",
+    "marketCapRank": 153,
+    "currentPriceUsd": 1.37,
+    "marketCapUsd": 234804991,
+    "fullyDilutedValuationUsd": 386584880,
+    "totalVolumeUsd": 25001788,
+    "priceChange24hPct": 0.38291,
+    "priceChange7dPct": 8.57587,
+    "priceChange14dPct": 14.03072,
+    "priceChange30dPct": -27.20386,
+    "athUsd": 7.5,
+    "athChangePct": -81.70237,
+    "circulatingSupply": 170994918.1152545,
+    "totalSupply": 281527448.4585314,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 81245,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "PENDLEUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PENDLEUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PENDLEFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PENDLEFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PENDLEUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PENDLEUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PENDLEBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PENDLEBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Pendle buys back 1.7M tokens, distributes $1.4M in airdrops to sPENDLE holders - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KVVZZM1ZtcTVIcEZEN1pVQmZ5dWJXMHdDbXJyRUVKR3BiX2N1a1VWYzhTcnhXZ0xKYUhKMGZmMkx4UzZKXzJHejR3U1N1c2cyR1NVZlN4UDM5SjV3V1JRSUZzMHcyUTVSOXc?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Mon, 15 Jun 2026 16:05:14 GMT",
+      "snippet": "Pendle buys back 1.7M tokens, distributes $1.4M in airdrops to sPENDLE holders&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "A New Partnership Unveiled — Pendle Launches on Monad - Coinfomania",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZC1uOGlBS0tZTk0zbUwzNzQ3M0poOXlQek5vWmJsdVlPRE9Zdjk5MDAtUF92UTFuUGd0NlJGN2lZZ0NfaXVPbWttNkxXT0Y1czJMeXpFZDctQThJT21mNXMyb2dpMXphUnJVWklZSEhVNTRYbzdIdWg1NExZdEF3ZkxR?oc=5",
+      "source": "Coinfomania",
+      "publishedAt": "Fri, 19 Jun 2026 14:32:22 GMT",
+      "snippet": "A New Partnership Unveiled — Pendle Launches on Monad&nbsp;&nbsp;Coinfomania"
+    },
+    {
+      "title": "How to easily buy Pendle on App: Mobile Buying Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1oxcTRUT29XZG5BdDVJeUdILW1paElCLVBPbkl1NWdhODFuaXJ0UkF5QXlxTzRUYUFsUzJERmlHNUd3OGNKejBDX2tMcnFRa3pFLVRzUnJXdkM3Qzk3aUpMdHlqQVVpelU0YmRqMDhrS21jc0puUUNwcUF6WElVOG13?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Thu, 18 Jun 2026 16:42:18 GMT",
+      "snippet": "How to easily buy Pendle on App: Mobile Buying Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "PENDLE Token Goes Live on Revolut, Reaching 20M EEA Crypto Traders - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTU9wUEFOZHVNR2Z0UFhCTkkyczFTZURYZ29hU3YxV1ZKelVRN1pEaFRKYTQ2aEo1VWFwYVBKdU8xbTh6bzhZSmZRV2RuZmZjTmpJQ3AtT0pyVS0yMUFmU1c4SkVUUW5ERFZWOVhpYjA1RnNMQmg2UFQ4ZUhIdnFCSmJLRWxMSjVvam10d0xwM3Z4elRnX3NZcFdDZENzQQ?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "PENDLE Token Goes Live on Revolut, Reaching 20M EEA Crypto Traders&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Pendle buys back 1.7M tokens, distributes $1.4M in airdrops to sPENDLE holders - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1obFZzUWhHRVRLeThqTUFSZ2ZnNjR4SmE4a1hoY0dzNkdRSnNMa05kSU5zRmxlY0dYRUNxd3VwMDNaS3UtWlQyVUdQcGJORmdVZEYxbXJLTzZoUjhYWUpabUZIekltX3dUMHfSAWpBVV95cUxNaGxWc1FoR0VUS3k4ak1BUmdmZzY0eEphOGtYaGNHczZHUUpzTGtOZElOc0ZsZWNHWEVDcXd1cDAzWkt1LVpUMlVHUHBiTkZnVWRGMW1yS082aFI4WFlKWm1GSHpJbV93VDB3?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 15 Jun 2026 16:30:20 GMT",
+      "snippet": "Pendle buys back 1.7M tokens, distributes $1.4M in airdrops to sPENDLE holders&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Pendle Price Prediction 2025, 2026 – 2030: Is PENDLE Coin Worth A Buy? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITkUzVjRaendWQ2pYM2lJa01UYlhGRVpzOXlUakp5cUVFN0ZhejlNMFQyRklTOGI2YVhVQXg5VzVua3FJamNIbmszUXh6RjZLM2tHQ051WmVDMjNrX3JEcHo0Y1dZNUZsdExNVUw5Q0TSAXZBVV95cUxQM3FDTXlTaFg1M202QW9RNFFZbzZvUHYwSTVCRXpYZnFrWExyV3lnSmJCR1FqdUs4cDl4VzIxWEIxcVJKS2NvRF9LbjFHZ3FQSFpPZjhFaVQ0d0N4cEtyQktDd3YtenpzcEZVdjVRMW1ycXY3QVBB?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "snippet": "Pendle Price Prediction 2025, 2026 – 2030: Is PENDLE Coin Worth A Buy?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Arthur Hayes Deploys $3.4 Million into 4 DeFi Tokens: Bet on 2026 Comeback? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YZ2ppUWZFQjJ0WWtTNFh6bjBCYmxKSXQtOVBTOFVwX0k1WUdoYjEwTDRiMF84c0kzcDhkNy1QSXVWbHhvLWJ6bVZNbkF4aVVTME1wNU9jcHNLSXY1Z0hBbTJPU0tLUlR4aGFBaHA1Y253eHFjUThfTi1B?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 01 Jan 2026 08:00:00 GMT",
+      "snippet": "Arthur Hayes Deploys $3.4 Million into 4 DeFi Tokens: Bet on 2026 Comeback?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Pendle Price Prediction: Is PENDLE Crypto a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdDgwT1FiMlBxdDZ0WFZucnA1N2RvMERzVG85Uk43QWZWVjBfRWFQQm9XR3owMHpYOFl2TTdxRElMcnY5dXgtek1BOHZvYnhkY3hrOEIyY0FERzAzblJ6Wk1acTZJYjd5YkRrUVZITGYtbi03b1M3dFpleUhGOE4wc3hzdnNEVDNkX0FDM2dR?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Wed, 27 Aug 2025 07:00:00 GMT",
+      "snippet": "Pendle Price Prediction: Is PENDLE Crypto a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "DeFi News: Pendle's TVL Hits Record $8.3B After Yield-Trading Platform Debut - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWMtMXNfMnhDc3Nqc1VIdm1vdXJrOWN5QmdDdDNBME41dWVjOXhFMF9UU0pfanpxbWdYSEp4bGV2a0JoSlhaMzNDOXN1TklMalhGVHdRZlU1S0VtWnB2TW1qd2xCamk2UktiUGlvUTdqTkFRQUhzVzlzcW96ZXhQSWQ1ZEpyai1Qcl9QWDdIcGxoNTRmQUlXV0RkQXBHaTlsc3dCR0NXV2VSZFNra3M3bw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "snippet": "DeFi News: Pendle's TVL Hits Record $8.3B After Yield-Trading Platform Debut&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Strategy's STRC: Capture Bitcoin-Linked Yield via Saturn & Pendle - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWnpDRlRsVE13RjlQZkZhdFZUZ3M1N0tsNGpwYUZhaVRNZkZQQmV5S1lYbnZYalJJUlNsXzJqVndxTktEenFuS1JWVW1Xc3Rzelo0UWJTT1gyV0tKM2lVcXFwQnhBYTh6Z2l1eFF4SXN1c3lhXy13TGUwYk5vV0VEMA?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 07 May 2026 07:00:00 GMT",
+      "snippet": "Strategy's STRC: Capture Bitcoin-Linked Yield via Saturn & Pendle&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Pendle Replaces vePENDLE With More Flexible sPENDLE - - Altcoin Buzz",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmJYTnM2V19jZnZoaGlLSU1qLWJrcDgzdU1TNDA3S0lMYTg3WEFONHhpSm9IeWp4aWprcThCbDdfN2g0blhZbG5lbUdSYjN3enN1eDMwdWJpQzFzVVRhOGdQNWxPTFpSZEgzeE5SSGszalJTS2k0WWJWZUJmdWNDbVZHaVpkN3h4N0VQLTRMM0NNbzZpN0FGTjhlWng2LURS?oc=5",
+      "source": "Altcoin Buzz",
+      "publishedAt": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "snippet": "Pendle Replaces vePENDLE With More Flexible sPENDLE -&nbsp;&nbsp;Altcoin Buzz"
+    },
+    {
+      "title": "Pendle Tutorial: How can I buy Pendle Virtually - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DMDlwc2hSSnBHbnNoU3FjRnZSMFJ5TFhlRmxma2dTSlQ3M3JnU2J1U1pkZGp1S0dObjF3bC0yU1VKNlo1TWJBSktBUEZiUmpSaVpOUy1BY1R6QmF1YXNyNUkwTWFxY1QtWHZNSFBtTFVCcWhBUllr?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 17 Jun 2026 22:51:01 GMT",
+      "snippet": "Pendle Tutorial: How can I buy Pendle Virtually&nbsp;&nbsp;Kabul University"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
