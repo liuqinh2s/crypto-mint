@@ -1,0 +1,229 @@
+{
+  "token": "IOTX",
+  "exchange": "binance",
+  "generatedAt": "2026-06-20T13:37:22.840Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "IOTX",
+    "name": "IoTeX",
+    "generatedAt": "2026-06-20T13:37:16.243Z",
+    "summary": "IOTX近期无重大利好，24小时涨幅28%但7日跌幅11%，价格仍处低位。基本面为DePIN+AI概念，但曾遭黑客攻击，市场情绪偏弱。建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现新的基本面恶化或黑客事件，则逻辑失效"
+    },
+    "catalysts": [
+      "DePIN+AI概念热度",
+      "项目方曾承诺回购和流动性计划（2025年10月）"
+    ],
+    "latestNews": [
+      {
+        "title": "IoTeX Bridge Hacked for $8.8M via Private Key Exploit, IOTX Price Dips",
+        "impact": "利空",
+        "reason": "黑客事件损害项目信誉，导致价格下跌"
+      },
+      {
+        "title": "IoTeX commits to 100% compensation plan in hack recovery plan",
+        "impact": "中性",
+        "reason": "补偿计划有助于恢复信任，但执行效果待观察"
+      },
+      {
+        "title": "IoTeX Plans Token Buybacks, Liquidity Boost Programs Following Binance IOTX Price Anomaly",
+        "impact": "利好",
+        "reason": "回购和流动性计划可能支撑价格"
+      }
+    ],
+    "fundamentals": [
+      "IoTeX是专注于物联网和AI的区块链平台，与Google、Samsung等合作",
+      "总供应量100亿，流通94.4亿，接近全流通",
+      "市值约2836万美元，排名667，属于小市值项目",
+      "历史最高价0.2556美元，当前价格0.003美元，跌幅超98%"
+    ],
+    "marketRead": [
+      "24小时涨幅28%，但7日跌幅11%，30日跌幅32%，短期反弹但中期趋势仍弱",
+      "成交量253万美元，相对市值较小，流动性一般",
+      "Binance数据不可用，可能受地域限制影响"
+    ],
+    "risks": [
+      "曾遭黑客攻击损失880万美元，安全风险高",
+      "价格长期低迷，市场信心不足",
+      "小市值项目波动大，流动性风险",
+      "新闻多为旧闻，缺乏近期催化"
+    ],
+    "watchlist": [
+      "是否有新的合作伙伴或技术进展",
+      "回购计划执行情况",
+      "黑客事件后续影响"
+    ],
+    "sourceNotes": [
+      "Binance数据因地域限制无法获取，价格数据来自CoinGecko",
+      "新闻时效性较差，多为2025-2026年初"
+    ]
+  },
+  "profile": {
+    "id": "iotex",
+    "symbol": "IOTX",
+    "name": "IoTeX",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "Internet of Things (IOT)",
+      "Ethereum Ecosystem",
+      "DePIN",
+      "Base Ecosystem",
+      "Account Abstraction",
+      "AI Agents",
+      "GMCI DePIN Index",
+      "GMCI Index",
+      "Made in USA",
+      "Robotics",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://iotex.io"
+    ],
+    "description": "IoTeX is the blockchain platform for Real-World AI. Since 2017, its foundational infrastructure has delivered verified, real-time data from the real world to AI systems and decentralized applications. Powering 100+ projects and 40M devices across mobility, robotics, energy, health, and more, IoTeX enables developers to build next-gen AI models and applications that deliver real-world impact. The IoTeX tech stack provides the data, identity, and verification layers to fulfill the surging demand for real-world data in the new AI era. Trusted by partners like Google, Samsung, IEEE, ARM, and Nordic Semiconductor, IoTeX is uniquely positioned to capture the multi-trillion-dollar AI and data economy.",
+    "marketCapRank": 667,
+    "currentPriceUsd": 0.00300391,
+    "marketCapUsd": 28362600,
+    "fullyDilutedValuationUsd": 28362600,
+    "totalVolumeUsd": 2536390,
+    "priceChange24hPct": 0.28219,
+    "priceChange7dPct": -11.4011,
+    "priceChange14dPct": -11.2757,
+    "priceChange30dPct": -31.96414,
+    "athUsd": 0.255593,
+    "athChangePct": -98.81783,
+    "circulatingSupply": 9441368550,
+    "totalSupply": 9441368555,
+    "maxSupply": 10000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 61293,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "IOTXUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IOTXUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IOTXFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IOTXFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IOTXUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IOTXUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IOTXBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IOTXBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "IoTeX Price Today in India | IOTX to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZbjBSTVJhb29QXzNlZ1puY29LZTkxd0Z1QU9SOXd3YlNlOXNaWGNIUk1WbVNwOFpWRHJGMXY3MlJVUXRuVjl5dDloYTV0dERDRkJR?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 15 Jun 2026 22:21:00 GMT",
+      "snippet": "IoTeX Price Today in India | IOTX to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "IoTeX Price Prediction: Is IOTX a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUk5ROVVjdGdMcmxycUR0QlhTcWlIRVI1UkpzOG1mTHlrSFZpRUJVSjBYX25VejdQV2R0Z0I0S0VlZ082dTFiQjhNT24wV0hnTEtKZUlfa2xxVWNodjBxREdaNXNVb1U1dFdVSmlfLXYzSnJFajNacXVrOFRveVpLNg?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Tue, 23 Sep 2025 07:00:00 GMT",
+      "snippet": "IoTeX Price Prediction: Is IOTX a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "IoTeX (IOTX) Price Prediction 2026, 2027-2030: How High Can IOTX Go by 2030? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yZDg4TGNzTmJkcDk0bHZHZXhldDNEcjNSLXlUVE0ydzNyMmNvMmw3cF9uR3cwOHBZcmx4d2NMV3U5UzdBMFZpbUhiQ05IUnYwT0lzVDVoNlgxcEtwMGfSAWNBVV95cUxOTUg1bzFGNnlDSndvVEpVXzZtU01Nd2UtZUJQc2hqbUFRdWhvdlBtb2JjRUluTGE0RUY1WExKclp0TWtVYS1RWENJVG9acEl4WHlmam82ZXhrRkNaUXJoSDJvV0k?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 14 Mar 2026 07:00:00 GMT",
+      "snippet": "IoTeX (IOTX) Price Prediction 2026, 2027-2030: How High Can IOTX Go by 2030?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "IoTeX Bridge Hacked for $8.8M via Private Key Exploit, IOTX Price Dips - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaGlUOTAwQWVWdS1GMGdESVhLX1VxMEhTYzVFTnczZFJRUmd5eTlJZFNWZWtEVWJxRzF5VVI5ZTRUQVBGU1RlZ2EwUE9OU1Z5Q29FRjFUdUJWOHhwS0VLLXA3aEptSWsxZU5wUTJWMnR1Zm52Z253NHBlcERBMVozTU16UjlIRl9IWWZmR3hfNVMzbWxWWEE1dnptSEtuY0dteDNIczJBQjZ1cG9oQlpiMlo3Z3ZPOFFoVEpXWXo0TlZPaFVVTjVZ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Sat, 21 Feb 2026 08:00:00 GMT",
+      "snippet": "IoTeX Bridge Hacked for $8.8M via Private Key Exploit, IOTX Price Dips&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "IoTeX commits to 100% compensation plan in hack recovery plan - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUnN6UlFIY2JRZ2tDWjRHQUR2OVh5Q3Y2UFhxV2pwZkpORjg4R1NJUmlhczhPS2ZOdTVlRUlXbk9Pdl9IdWxXV3QwNVlpcV9mYlhIVXZVNnBfcm5uVkRydy11WTg5M0pIWTlLYXBYWmNsTVZyOTRSdjlPQk1menRCbw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 26 Feb 2026 19:04:32 GMT",
+      "snippet": "IoTeX commits to 100% compensation plan in hack recovery plan&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "IoTeX Plans Token Buybacks, Liquidity Boost Programs Following Binance IOTX Price Anomaly - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DeXhRZHNPaGZhQVlZVFVzRzJKOV8tZVVvOThMY2k4NExETHhrRE9Uc1B5dEg2dHNVaC1UeXFUd01nRXU0VUtlVEFDTTNINHdHWXhFUjlLMmUxRG5BSFZBUzNIOA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 12 Oct 2025 07:00:00 GMT",
+      "snippet": "IoTeX Plans Token Buybacks, Liquidity Boost Programs Following Binance IOTX Price Anomaly&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "IOTX coin price prediction: What is the Internet of Things’ future? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qSHVTT01vZVIyT05tVHdKQ21ld1l3TnZhTWd2YjhGU0ZGXzRyTWhkZ2lmV2hJRFdaNDFXSm8tbUtza2Z5bUZTQUpZZ3hyX25nZDJVLWstZklVVFFKWjd0Q0dRX1JlY0dVVm8zUXdRRU0?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Tue, 06 May 2025 12:29:14 GMT",
+      "snippet": "IOTX coin price prediction: What is the Internet of Things’ future?&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "IoTeX (IOTX) Price Prediction 2026 2027 2028 - 2040 - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zZDRaMl9mQVRMQUFUQ1NzbzRpcks2REZEWlVPUVJ6bWRzT2hNZE94aEFFRlh5VFR4SkdOajNOVVhrcEdvRG1nRF9wVWVkdzZjRGhLUm9sWVhxU0N0YUE?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Mon, 15 Aug 2022 11:28:49 GMT",
+      "snippet": "IoTeX (IOTX) Price Prediction 2026 2027 2028 - 2040&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "IoTeX Suffers $8 Million Hack After Private Key Compromise - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUE1NUnVHSVMyRmIxWHVHT2dNQXFoRjBRXzFGcUo1bzZrT00wUUtJOGhDM25FRmt3OU5Ob1d3S2pEdnhpWVBkeHJrRFJWV1F5Ty1YVWRfSUFRU250Y3dLNGV2aVpxMTB5ZlB4b2JFTVM3WENvU1Jabm1oWG0wT2NlRGl0SU9EMlNvMkxvbjFR0gGTAUFVX3lxTE5uMW43RGVzUnJDcWVBOWRTbWs4X0VNcTZtanhuM3B3RzVuX1cwdEt6UjhjblY5WGZxSGdHc0J5TzhJWXhYaVR0V0Z5el9KVmJvN19PYkR3VlRYM0xBRDN1MHpaVVIzNmtKZ3pyVHlQeklIZHZlSFVPRDJtR0ZldWJvQ2VJZExfRll5VEhxbXVNbVdSaw?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Sat, 21 Feb 2026 08:00:00 GMT",
+      "snippet": "IoTeX Suffers $8 Million Hack After Private Key Compromise&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "IoTeX Price, IOTX Price, Live Charts, and Marketcap: iotx coin - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SeUN5QVRpRFo1YnZKWmRQaEJpV3dOM3ZqT09jYTk3NmMtQ0tsZ1dieEdvUUNGcDJpcGM0ellyRTRnd2J1bWhmMHROZ1U0YUNVLTEtdg?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Mon, 21 Apr 2025 08:44:29 GMT",
+      "snippet": "IoTeX Price, IOTX Price, Live Charts, and Marketcap: iotx coin&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "IoTeX Price: IOTX/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAteHphSDA5aG1LRFNPa1R4OGQ0eDltVTVhOVFMejJxWHFYWVh4MmlBcHY4N2RvTDdzRUJtZ1VueUFwSXlIUVdRWVNsVHBMRU9XcVE?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 22 Mar 2018 14:56:38 GMT",
+      "snippet": "IoTeX Price: IOTX/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "3 Coins Worst Hit by Black Friday Crypto Crash - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CRVdZUFRNYy14WGxTWHU5bm9HX0RTR25OTng4ZGdKMjVOQWVCY0Z6RTg1M2pkRDllVDBFbWNJbDBCQnBWNUhyMW5ZWVBDNXgxOTZScC14ZHVweDREaUHSAWNBVV95cUxNc2VCdGlWYk1zcmJXazEwZ3NpckZsRTdQTDE3NHJmYUtncEFXMEJSbHpJNFliVmEzQ3R4d0pWWk1qMEhXYklKdjk5WEJZTXZreC1qbGpCdG00QUtSRWNnUVpBV2s?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "snippet": "3 Coins Worst Hit by Black Friday Crypto Crash&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
