@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-20T10:07:45.448Z",
+  "updatedAt": "2026-06-20T13:04:43.342Z",
   "results": [
+    {
+      "token": "RIF",
+      "name": "Rootstock Infrastructure Framework",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T13:04:43.340Z",
+      "latestPath": "data/results/RIF-latest.json"
+    },
     {
       "token": "RARE",
       "name": "SuperRare",
@@ -423,15 +432,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-20T02:01:25.465Z",
       "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "RIF",
-      "name": "Rootstock Infrastructure Framework",
-      "score": 65,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-20T01:24:38.574Z",
-      "latestPath": "data/results/RIF-latest.json"
     },
     {
       "token": "LUMIA",
