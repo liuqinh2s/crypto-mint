@@ -1,0 +1,223 @@
+{
+  "token": "PROM",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T08:46:55.810Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "PROM",
+    "name": "Prom",
+    "generatedAt": "2026-06-20T08:46:47.675Z",
+    "summary": "PROM近期上涨14天涨幅约20%，但缺乏明确催化剂，新闻多为旧闻或无关内容。项目为ZkEVM Layer2，市值约2100万美元，流动性一般。建议观望。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现实质性利好（如主网上线、大额合作）可重新评估，否则持续观望。"
+    },
+    "catalysts": [
+      "2024年2月DWF Labs创始人个人投资消息曾推动价格翻倍，但已过时",
+      "项目定位为模块化ZkEVM Layer2，概念有一定热度"
+    ],
+    "latestNews": [
+      {
+        "title": "DWF Labs Founder Announces Personal Investment In Gaming Protocol Prom",
+        "impact": "利好",
+        "reason": "知名做市商创始人个人投资，但已是2024年2月旧闻，影响已消退"
+      },
+      {
+        "title": "PROM token: Crypto Veteran Andrei Grachev Acquires 50K PROM As Price Soars Nearly 100%",
+        "impact": "利好",
+        "reason": "同一事件，重复报道，时效性差"
+      },
+      {
+        "title": "Prom Price Prediction: Is PROM Token a Good Investment? - StealthEX",
+        "impact": "中性",
+        "reason": "普通预测文章，无实质信息"
+      }
+    ],
+    "fundamentals": [
+      "Prom是模块化ZkEVM Layer2，支持EVM和非EVM链互操作",
+      "总供应量1925万，流通1825万，接近全流通",
+      "市值约2110万美元，排名795，属于小市值项目",
+      "历史最高价105.94美元，当前跌超98%"
+    ],
+    "marketRead": [
+      "24小时涨幅4.1%，14天涨幅19.75%，但成交量仅66万美元，流动性较低",
+      "Binance数据因地区限制无法获取，需注意交易环境",
+      "价格从ATH大幅下跌，市场情绪偏弱"
+    ],
+    "risks": [
+      "新闻多为旧闻或无关内容，缺乏近期实质性催化",
+      "成交量低，流动性风险高",
+      "项目概念虽好，但竞争激烈，落地进展不明",
+      "价格从ATH跌幅巨大，存在进一步下跌风险"
+    ],
+    "watchlist": [
+      "项目主网上线或重大合作公告",
+      "DWF Labs或其他知名机构后续动作",
+      "成交量是否放大",
+      "整体市场情绪和Layer2赛道热度"
+    ],
+    "sourceNotes": [
+      "Binance数据因地区限制无法获取，价格数据来自CoinGecko profile",
+      "新闻多为2024年及更早，近期无重大更新",
+      "部分新闻标题与PROM无关（如Prom 10、Permission to Dance）"
+    ]
+  },
+  "profile": {
+    "id": "prometeus",
+    "symbol": "PROM",
+    "name": "Prom",
+    "categories": [
+      "Smart Contract Platform",
+      "BNB Chain Ecosystem",
+      "Ethereum Ecosystem",
+      "Layer 2 (L2)"
+    ],
+    "homepage": [
+      "https://prom.io/"
+    ],
+    "description": "Prom is a modular ZkEVM Layer 2 that enables interoperability across various chains, including both EVM and non-EVM compatible networks. Prom submits its proof of transaction to the additional chains on top of the chosen Settlement chain, building the bridge between ecosystems. ",
+    "marketCapRank": 795,
+    "currentPriceUsd": 1.16,
+    "marketCapUsd": 21106685,
+    "fullyDilutedValuationUsd": 22263215,
+    "totalVolumeUsd": 660930,
+    "priceChange24hPct": 4.10276,
+    "priceChange7dPct": 6.51928,
+    "priceChange14dPct": 19.75332,
+    "priceChange30dPct": 8.27022,
+    "athUsd": 105.94,
+    "athChangePct": -98.91018,
+    "circulatingSupply": 18250000,
+    "totalSupply": 19250000,
+    "maxSupply": 19250000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 12045,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "PROMUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PROMUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PROMFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PROMFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PROMUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PROMUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PROMBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PROMBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Prom Price Prediction: Is PROM Token a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzZsUkZjR29wTHJVU1dWakZBYm1QcXBrbXBENFFxNEl0b29qSXhYSHBHWmwxTkJFeEMxNElxaFBJTUZrVHh2cEtCUjlBN09ja2o5NXlLVjZ1WmhqcXlhNDJZR0dSMnFkVlplVVBPNTJ3NU5mb3hxRkNsMEpqMEs3azZlNkpXWFk?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "snippet": "Prom Price Prediction: Is PROM Token a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Prom price today, PROM to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54elNlUVdFenJiNmdmeFlwSHRCcVdRS1F2b0lhY0d2OTFUVGIwdDlMWXZ5WWZCdS12NTd2ak1yUEN1YUdSbEJneWFqU2xxVk9mN1g3VA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 19 Jul 2022 02:42:47 GMT",
+      "snippet": "Prom price today, PROM to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Prom (PROM) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MaTRnUDBueFhUQ0E4ZTF0RjJRd25xWXJQWW5pMVN5c2NvMDdDRVZEVnFZcnRZNG9IOTFYSUNLcDNIYmpIaTd2SjJzMi11dUthYzNSS2NTYzBCRHRiMTc2SmU2WEJzUQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Mon, 29 May 2023 22:09:10 GMT",
+      "snippet": "Prom (PROM) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "SANTO KEKI(@Santo42)'s insights - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40dlNKUGFJMDh5alpjZ291RzBjTEplY2d4emNOdnhsLUFCSlp2S1JrUWVEZHNyeHd2SmkzR2RzeGUwc1BDcktFYmVIOTYyN0h6U01Rc3puTFdyeUp3UHFjR0lrcw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 13 Jan 2025 08:00:00 GMT",
+      "snippet": "SANTO KEKI(@Santo42)'s insights&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Prometeus price today, PROM to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wUHBYT3gybmc5Y2Ywa2VrdW1DU2NaUmQtUC11NVVqSWhoV3ZEbC1QRk9pblZ4ZEpObUUtalVzUE02V0N2MDl5WHpnMA?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sun, 24 Nov 2024 21:45:05 GMT",
+      "snippet": "Prometeus price today, PROM to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "DWF Labs Founder Announces Personal Investment In Gaming Protocol Prom - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXplYW52N1dTZllLVWswMFlzVlFxNlV6aTlhVWR0WFpWRUktb2EzaGVfbjFpcUJMLVdjUGVSQkg5ak5sSm8xZ0xsbWV4TXJ2UkJEVTVBMmpwVjlZVHFDYy1WZ3dYVTJxenBqMWhaNDBTT0FxT0FHb05UZjJTRGo2UmNtWGc1Q2xZcFNDeFF6bUN5UWE5STJ5dUpHQmlsRHdSRFNMcQ?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Wed, 14 Feb 2024 08:00:00 GMT",
+      "snippet": "DWF Labs Founder Announces Personal Investment In Gaming Protocol Prom&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Prom (PROM) ICO Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55bkxwb0VDcUFrNUo0bU5NRE80VkF5RG1SdDRRWXJzZE5MRm5lY29zVl9Va1hjODVzcFJMSTgzeWtUYlM4cWhwUHc3bw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 03 Aug 2020 18:19:56 GMT",
+      "snippet": "Prom (PROM) ICO Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "PROMUSD Charts and Quotes - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wbXhZeVVtcXVqNzQ2VEd1WDhpbXRSeGx3bEMxMmE4MWJ6a3F5bXYzMFdZSjdLRVg1LUItSkNTV19RZ3RqY3VPTFQ2Njk3MmJDbEY1aEVQSQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 26 Dec 2019 20:03:47 GMT",
+      "snippet": "PROMUSD Charts and Quotes&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "There's Good News: ‘Permission to Dance’ Prom gives Central Oregon residents with disabilities a night to shine - KTVZ",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcUxTYzh3bXZNZlpDS3pzZ1VKTG5pZ2IyRkg1YkV6M3lacXpMTE5yOGNJczVSNjA2UXpSRFBGVzBqYmloY1RMczR1RlloR2FXSi1Nc3RnNnVRbTJBSjZVd0dqcU1uQTN4b0pEN2RqRnpXSkdTSEFBU2o2OUZuTmd0TGRxVVpjSHhtWF9pVUVHd1pPZGotU3NaSEwxR1hnZk9aeWlhUU84TVg4aF9IME53bXV0UEd1OE10MDBXd1lXMS1sbm5KZ2lKbTBfQV9ZeFVoSUVHSlA5RFFPaEt2OHNiZEc5cVNVbkJYblZQWEktcw?oc=5",
+      "source": "KTVZ",
+      "publishedAt": "Sat, 11 Apr 2026 07:00:00 GMT",
+      "snippet": "There's Good News: ‘Permission to Dance’ Prom gives Central Oregon residents with disabilities a night to shine&nbsp;&nbsp;KTVZ"
+    },
+    {
+      "title": "Move over, Magnificent 7: Goldman Sachs proposes the ‘Prom 10,’ China’s top stocks including Tencent, Alibaba and BYD - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTlNR1NZX1drVkdqd1V4QkFidm5lUmpYN3N1QXBKRU5vbmIzaEtUeVlhNFBrbFBTRFlpS05ud0ZleFpHam1IdThFV05CYkIzeWFhdHFiaHN3RVY5QUJoRHA2Znd6Vnd1QVY4V1RPblZBQXBUUElWazEwRFdibWtxZE1YNA?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 23 Jun 2025 07:00:00 GMT",
+      "snippet": "Move over, Magnificent 7: Goldman Sachs proposes the ‘Prom 10,’ China’s top stocks including Tencent, Alibaba and BYD&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "PROM token: Crypto Veteran Andrei Grachev Acquires 50K PROM As Price Soars Nearly 100% - CoinGape",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNemtNTl9rTnJWUUdhMGIyYXczRHZ5NHh3WUp4Tm91c0hmRVJYc2o2MnV4aDA3ZkpmcGJDMUVfY091YjhoaDQwQk9ZSGdVMmp4T0xMWWUyUzZnUk9remZRU0FuV045R090ZWVtTEpDTkRBcWtLSHpyX0VDQkJ0dUpheHh0bDFneHFVdzFxdzFpUGE5N2ppYm5lbmc4TQ?oc=5",
+      "source": "CoinGape",
+      "publishedAt": "Wed, 14 Feb 2024 08:00:00 GMT",
+      "snippet": "PROM token: Crypto Veteran Andrei Grachev Acquires 50K PROM As Price Soars Nearly 100%&nbsp;&nbsp;CoinGape"
+    },
+    {
+      "title": "Prom Price USD, PROM Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02X2lNenJEbTJnZFFJSTJxUjV4R2JxMVp5cTlVZjVWRzhrLWc0aGdJbjZYZGFlTVJsd2R2NFpHZkhQc0pSQ2JLRw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 10 Jun 2023 07:35:36 GMT",
+      "snippet": "Prom Price USD, PROM Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

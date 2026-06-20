@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-20T07:46:49.627Z",
+  "updatedAt": "2026-06-20T08:46:55.812Z",
   "results": [
+    {
+      "token": "PROM",
+      "name": "Prom",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T08:46:55.810Z",
+      "latestPath": "data/results/PROM-latest.json"
+    },
     {
       "token": "CATI",
       "name": "Catizen",
