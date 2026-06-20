@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-20T06:25:33.576Z",
+  "updatedAt": "2026-06-20T06:30:02.994Z",
   "results": [
+    {
+      "token": "BEL",
+      "name": "Bella Protocol",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T06:30:02.992Z",
+      "latestPath": "data/results/BEL-latest.json"
+    },
     {
       "token": "EIGEN",
       "name": "EigenCloud (prev. EigenLayer)",

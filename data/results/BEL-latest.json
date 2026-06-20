@@ -1,0 +1,229 @@
+{
+  "token": "BEL",
+  "exchange": "binance",
+  "generatedAt": "2026-06-20T06:30:02.992Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BEL",
+    "name": "Bella Protocol",
+    "generatedAt": "2026-06-20T06:29:53.743Z",
+    "summary": "BEL近24小时大涨28.7%，7日涨幅64%，主要受近期多项合作伙伴关系公告（Metopia、Billions、Xona Agent）催化。但项目基本面较弱，市值仅约1045万美元，流通量8000万枚，全稀释估值约1306万美元。价格已大幅拉升，短期追高风险较大，建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若价格跌破0.12美元或成交量萎缩，则上涨逻辑失效"
+    },
+    "catalysts": [
+      "与Metopia、Billions、Xona Agent等项目的合作伙伴关系公告",
+      "DeFi板块整体回暖可能带动",
+      "低市值小币种易受消息面炒作"
+    ],
+    "latestNews": [
+      {
+        "title": "Bella Protocol Partners With Metopia - TradingView",
+        "impact": "利好",
+        "reason": "合作可能带来新的用户和生态整合，提升项目曝光度"
+      },
+      {
+        "title": "Bella Protocol Partners With Billions - TradingView",
+        "impact": "利好",
+        "reason": "与知名项目合作增强市场信心"
+      },
+      {
+        "title": "Bella Protocol Partners With Xona Agent - TradingView",
+        "impact": "利好",
+        "reason": "连续合作公告形成短期催化"
+      }
+    ],
+    "fundamentals": [
+      "Bella Protocol是DeFi产品套件，提供一键式流动性挖矿、灵活储蓄等",
+      "属于BNB Chain和Ethereum生态，获Binance Labs投资",
+      "流通量8000万，总量1亿，无锁仓释放压力",
+      "市值仅1045万美元，排名1150，属于极小市值项目"
+    ],
+    "marketRead": [
+      "24小时涨幅28.7%，7日涨幅64%，成交量达4363万美元，远超市值，换手率极高",
+      "价格从低点0.08美元附近快速拉升，短期涨幅过大，存在回调风险",
+      "因地理位置限制无法获取Binance具体K线数据，但整体量价显示投机情绪浓厚"
+    ],
+    "risks": [
+      "短期涨幅过大，追高风险极高",
+      "基本面薄弱，缺乏持续收入或用户增长支撑",
+      "合作公告多为短期消息，实际落地效果未知",
+      "低市值币种易受大户操纵，流动性风险",
+      "历史ATH跌幅达98.7%，长期持有者亏损严重"
+    ],
+    "watchlist": [
+      "后续是否有更多实质性合作或产品更新",
+      "价格能否站稳0.12美元以上",
+      "成交量是否持续放大",
+      "整体市场情绪和DeFi板块表现"
+    ],
+    "sourceNotes": [
+      "Binance行情数据因地区限制无法获取，价格和成交量数据来自CoinGecko",
+      "新闻来源为Google News聚合，部分为价格页面，实际催化新闻仅三条合作公告",
+      "无链上数据或社交媒体情绪数据，分析基于有限公开信息"
+    ]
+  },
+  "profile": {
+    "id": "bella-protocol",
+    "symbol": "BEL",
+    "name": "Bella Protocol",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "Yield Farming",
+      "BNB Chain Ecosystem",
+      "Binance Launchpool",
+      "Yield Aggregator",
+      "Ethereum Ecosystem",
+      "Manta Network Ecosystem",
+      "YZi Labs (Prev. Binance Labs) Portfolio"
+    ],
+    "homepage": [
+      "https://bella.fi/"
+    ],
+    "description": "The Bella Protocol offers a suite of DeFi products for streamlined crypto-banking experience. The core concept of Bella’s product design is 1-Click. Bella provides automated services, subsidizes gas fees, and caters to both new and experienced users either on-chain or via Bella’s custodian service. With Bella, users can save gas fees and time and enjoy high yields from sophisticated strategies. The current product lineups include Bella Liquidity Mining, Flex Savings, One-Click Portal, and Lending.",
+    "marketCapRank": 1150,
+    "currentPriceUsd": 0.135523,
+    "marketCapUsd": 10447805,
+    "fullyDilutedValuationUsd": 13059757,
+    "totalVolumeUsd": 43630311,
+    "priceChange24hPct": 28.68147,
+    "priceChange7dPct": 64.24448,
+    "priceChange14dPct": 70.77462,
+    "priceChange30dPct": 29.23525,
+    "athUsd": 9.99,
+    "athChangePct": -98.7185,
+    "circulatingSupply": 80000000,
+    "totalSupply": 100000000,
+    "maxSupply": 100000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 14196,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "BELUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BELUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BELFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BELFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BELUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BELUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BELBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BELBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Bella Protocol Partners With Metopia - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmZ4blpkMVk0QXUxa3NCVGY4czdJb1lMYk11QVJCQzVXMnZiX3hBdGdnLXRTaVQwRk50WklmLV9vY0ZsZEM4TUpNRnJLUTFVYXFNeG9LMldJaFNNNzFGeHRPNWk1Z2RzUWowZGVlYm11SDJ2OXZpbDJPTTFzZkp2d1haWnVFbFgxSFRQVzUwOUJIZW5MNW5fRFdR?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 17 Jun 2026 17:12:18 GMT",
+      "snippet": "Bella Protocol Partners With Metopia&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Bella Protocol Price: BEL Price Index and Live Chart - The Block",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wS3lzRS1OV3E1aUFyT3lWZXBUY3pUVlp5eTNEWVdPVDhmUHZ1NGdnODBwYlRVVjZtYmMyUXZ3ejA0ZDdfa21ueE5HMk1PVi1TdmJPSHlNbTZrLTJNOFI3bEI5a2ZTQmd6Rzl3?oc=5",
+      "source": "The Block",
+      "publishedAt": "Sun, 07 Jun 2026 07:00:00 GMT",
+      "snippet": "Bella Protocol Price: BEL Price Index and Live Chart&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Bella Protocol Partners With Billions - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0JUUHpJMjdIMHJ2VkhWV2ZHOWlJQmFQZkxNemtrSTAtZkdlTjF5QUFwREI2MnhwR3ZXc3QzWGVqNTNRb2xXZjU3Ui1ZdEg1ZWtvLUFyNnl2MFA1dWtTSExEaHBhUG5OVXNsOExmS0RLc2g1ZmhEY3RhcFU4NDdhUjNBaG1INFg5UVRIODN5VEd0QlowNWJzY0pZOA?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 04 Jun 2026 15:09:55 GMT",
+      "snippet": "Bella Protocol Partners With Billions&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "BEL Stock: Understanding Bharat Electronics and Bella Protocol - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sWndtZUQtY2NaU00tc2hCS3k5SXhsa1M3bWp4dWs4X2dEZW1xbllLMk5NV2J1eDBqeXMxZHAtSlpKcWhfUThITDNoUVU3QQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 02 Feb 2026 08:06:16 GMT",
+      "snippet": "BEL Stock: Understanding Bharat Electronics and Bella Protocol&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bella Protocol (BEL) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZVDlDVVJxTTUzUzdsYkFvZFg2dUNLVXF5cERmdzBzNEVKSXU0dnJFMW9kZFBpZUFDODVydGRLVEE4UHNrS0xQLVo4SnZwRkRzbkVnM2NzM0hHUWhmNnBLaHRGSHR2OUVtaXd0N0djYzNZUQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Sat, 15 Apr 2023 20:49:39 GMT",
+      "snippet": "Bella Protocol (BEL) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Bella Protocol price today, BEL to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15YVhSZ19rR3dvX25kc1I2NVhxcm5oRXc3VTNoTk5weUFRVEJGQ3B0Xzl5b29WSlkyZ2t2YkhYYVBnLVVsUlgwVVhCd1BMU3hST3NIY0M4c3l1djhuc3lzZjlB?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 15 Sep 2020 07:00:00 GMT",
+      "snippet": "Bella Protocol price today, BEL to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Bella Protocol Partners With Xona Agent - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYkdQZlo4ZW5tTVM4X3BFRnJfaTh6S19XTk51SklLN1B3b3RlUnJNcWhRWWdsWmI5MEh2bkFpZnR5cWRFNVM3bUFtRzRZanFBa05icUt1d20xS2FIQ1pQNHFoLWZZVl9RWFh6aThWSTFKTmdqOEZMRVdrUjMtME81cUJtYXN2dENQRGlZNDE4Qk1NSm1JLTdWcWNkSjJTdw?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 05 Jun 2026 17:18:06 GMT",
+      "snippet": "Bella Protocol Partners With Xona Agent&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Bella Protocol price today, BEL to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PTkVMZTVCTXZ3ZXMzTDZvNmZZdk9KNXBvWlh4bTdNSjFNMXNrNkxoVDlnUExrZUY4MlI4bEdJY1ZoNUstQnF3VWFR?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sun, 24 Nov 2024 21:36:25 GMT",
+      "snippet": "Bella Protocol price today, BEL to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Bella Protocol Price Today | BEL to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBra2lJT0RHVVpSb2d6N3h1eC1MVHZVcU1ycU1wRTR1bk9kV0h6YzVmdVRmYmFzdjVkUHM2ajZqYjBpTVhNN1VUeTY4bGdOYTFncFdkWGVGYXBSeWc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 30 Dec 2021 19:00:00 GMT",
+      "snippet": "Bella Protocol Price Today | BEL to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Removes These Crypto Trading Pairs, Sparking Price Dip Concerns - CoinGape",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcC1TSGxMV3RjQ2N4RWVMMzVQMkZNZnRtbXZ2MFh1X05RUGFvSHdsQUxHajN6MGJoZlhvUUlUWG5DNW8wNnVfRVJma1Rad3ZNXzg1RlE3NmNuWnNmTm1EejlWbExjZjdDMmpqOFRDR0VZRWVNdkI3V2E2Z1BHNHlIMl9ORTdwU2tBNjFvMVhsem1JVmhZeUxJ?oc=5",
+      "source": "CoinGape",
+      "publishedAt": "Wed, 08 Jan 2025 08:00:00 GMT",
+      "snippet": "Binance Removes These Crypto Trading Pairs, Sparking Price Dip Concerns&nbsp;&nbsp;CoinGape"
+    },
+    {
+      "title": "What is Bella Protocol (BEL)? How To Buy BEL In India? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vQ0xFZTNaMXExN1pBX0JrcXJHLVNJTzVzZjRQT0JyemZQQzdoRG5UNi12bGJuMDNMcEN4R01wZ3B6OHRBYVM4N3dqNUwyaDdvM3BqOVJVSmpvY055QjlYaGlqTmhaS3pf?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Thu, 13 Apr 2023 07:00:00 GMT",
+      "snippet": "What is Bella Protocol (BEL)? How To Buy BEL In India?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "How to sell Bella Protocol (BEL) - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52VVVwWmRHTVlucUd4QmFjUWVib0J5WlRmOXNxQWhiOGM0bFJDamdrTDRyRHJqaGFKQkhQalJiczRjcDQ0cW0zek05Z0xONy1fVVZINTBLd282OGFMcGc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 20 Oct 2024 02:12:35 GMT",
+      "snippet": "How to sell Bella Protocol (BEL)&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
