@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-06-20T01:24:38.575Z",
+  "updatedAt": "2026-06-20T02:01:25.466Z",
   "results": [
+    {
+      "token": "UNI",
+      "name": "Uniswap",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-20T02:01:23.921Z",
+      "latestPath": "data/results/UNI-latest.json"
+    },
+    {
+      "token": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 35,
+      "label": "谨慎试仓",
+      "action": "观察",
+      "generatedAt": "2026-06-20T02:01:24.353Z",
+      "latestPath": "data/results/VELODROME-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "name": "Hyperliquid",
+      "score": 65,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-20T02:01:25.465Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
     {
       "token": "RIF",
       "name": "Rootstock Infrastructure Framework",

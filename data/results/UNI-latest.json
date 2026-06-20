@@ -1,0 +1,248 @@
+{
+  "token": "UNI",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T02:01:23.921Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "UNI",
+    "name": "Uniswap",
+    "generatedAt": "2026-06-20T02:01:15.707Z",
+    "summary": "UNI近期因渣打银行给出$100目标价而大涨，鲸鱼活动创7个月新高，但基本面仍受制于治理僵局和代币解锁压力，短期追高风险较大。",
+    "rating": {
+      "score": 45,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 15,
+      "holdingPeriod": "1-2周",
+      "invalidation": "跌破2.8美元支撑或消息热度消退"
+    },
+    "catalysts": [
+      "渣打银行预测UNI到2030年可达$100，引发市场关注",
+      "鲸鱼活动达到7个月高点，显示大户增持",
+      "技术面突破3美元阻力，短期动能较强"
+    ],
+    "latestNews": [
+      {
+        "title": "UNI token surges while rest of crypto market looks to Fed's Warsh for guidance - CoinDesk",
+        "impact": "利好",
+        "reason": "UNI逆势上涨，显示独立行情"
+      },
+      {
+        "title": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered - Yahoo Finance",
+        "impact": "利好",
+        "reason": "顶级投行给出极高目标价，提振市场情绪"
+      },
+      {
+        "title": "Uniswap whale activity reaches 7-month high after Standard Chartered’s $100 price target - Crypto Briefing",
+        "impact": "利好",
+        "reason": "鲸鱼增持表明大户看好"
+      }
+    ],
+    "fundamentals": [
+      "Uniswap是最大的去中心化交易所，TVL领先",
+      "UNI是治理代币，持有者可参与协议治理",
+      "代币供应量约8.94亿，流通6.22亿，最大供应10亿",
+      "当前价格较ATH跌93%，估值处于历史低位"
+    ],
+    "marketRead": [
+      "24小时成交量2.21亿美元，流动性充足",
+      "7日涨幅21%，14日涨幅22.5%，短期强势",
+      "但30日仍跌17%，整体处于底部反弹阶段"
+    ],
+    "risks": [
+      "渣打目标价是2030年，短期无法兑现",
+      "治理僵局可能导致协议升级缓慢",
+      "代币解锁压力：仍有约2.7亿未流通",
+      "市场情绪依赖单一消息，持续性存疑"
+    ],
+    "watchlist": [
+      "UNI价格能否站稳3.2美元上方",
+      "鲸鱼地址变化是否持续增加",
+      "是否有新的治理提案或协议升级"
+    ],
+    "sourceNotes": [
+      "Binance数据因地区限制无法获取，价格来自CoinGecko",
+      "新闻来源均为公开报道，可靠性较高"
+    ]
+  },
+  "profile": {
+    "id": "uniswap",
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "categories": [
+      "Decentralized Exchange (DEX)",
+      "Exchange-based Tokens",
+      "Decentralized Finance (DeFi)",
+      "Yield Farming",
+      "Automated Market Maker (AMM)",
+      "BNB Chain Ecosystem",
+      "Avalanche Ecosystem",
+      "Polygon Ecosystem",
+      "Near Protocol Ecosystem",
+      "Gnosis Chain Ecosystem",
+      "Harmony Ecosystem",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Optimism Ecosystem",
+      "Paradigm Portfolio",
+      "Coinbase Ventures Portfolio",
+      "Index Coop Defi Index",
+      "Andreessen Horowitz (a16z) Portfolio",
+      "Energi Ecosystem",
+      "Sora Ecosystem",
+      "Huobi ECO Chain Ecosystem",
+      "GMCI DeFi Index",
+      "GMCI 30 Index",
+      "Blockchain Capital Portfolio",
+      "GMCI Index",
+      "Polychain Capital Portfolio",
+      "Made in USA",
+      "Unichain Ecosystem",
+      "Coinbase 50 Index",
+      "Governance"
+    ],
+    "homepage": [
+      "https://uniswap.org/"
+    ],
+    "description": "UNI is the governance token for Uniswap, an Automated Market Marker DEX on the Ethereum blockchain. The UNI token allows token holders to participate in the governance of the protocol. Key decisions such as usage of the treasury or future upgrades can be decided through a governance vote.",
+    "marketCapRank": 44,
+    "currentPriceUsd": 3.04,
+    "marketCapUsd": 1888816421,
+    "fullyDilutedValuationUsd": 2715640134,
+    "totalVolumeUsd": 221457726,
+    "priceChange24hPct": -2.82456,
+    "priceChange7dPct": 21.15218,
+    "priceChange14dPct": 22.52784,
+    "priceChange30dPct": -17.01851,
+    "athUsd": 44.92,
+    "athChangePct": -93.24101,
+    "circulatingSupply": 621671561.5538775,
+    "totalSupply": 893806420.0329479,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 75,
+    "watchlistUsers": 301463,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "UNIUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=UNIUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "UNIFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=UNIFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "UNIUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=UNIUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "UNIBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=UNIBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "UNI token surges while rest of crypto market looks to Fed's Warsh for guidance - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT1ZyS3N6WC1xd2NhbjVSODE5dE8tTFZhY0xtUWRHSWlDUDZ6MFY0MXVISHRPNlFaTHBSTlpzUVltVU16UlM1TnBrcXlvampsUTYwcHNZUHlNMlc3dWJIZzY1elVLUVlKZUNmVm5LdU1MYnJtNEJFNl8yTWYtWHRxNkFYSW5tSi0yY0JXdE94VUpRNUo0ZUloNGdyVWhwR01kcVc5LUJMcU1ySUJ4bWNoOGd5ekl6T2xGWFN0ZzFxZw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 17 Jun 2026 10:37:13 GMT",
+      "snippet": "UNI token surges while rest of crypto market looks to Fed's Warsh for guidance&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV2xsenVTZjR1TXB2RFpfZERLMFI4VU9DVFk4R21GaF9SWTI1eXNvb3R5bkNzQkpQOUZYcXRza0dRY2lGbFNLclFULWJPc3cxVDI4VW91QUtucnJOTHZwV1RPcm1TbDhfLTdQZGhiMDZONGtrdlZ1QTNjN3h2YWU0NGxObTdlUzhMcVNzS3pxakRHUk9KLTEyVHc2WlNTUQ?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 15 Jun 2026 18:37:57 GMT",
+      "snippet": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Standard Chartered says Uniswap's UNI token could surge 40x to $100 by 2030 - The Block",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeks0X1F4U1JONVdtWDlEUWt1YUw0N0RwM2hBSE9vcEg4d2Rnb0wyZkVHdnM2bzBETlBfV3p1YUk0N2I2MnBqSG5Celd6M09BUWh0ckRDZFJyRHl4ZmJnTEdGNzhKMGNZSjBScGFPcm80aHJXM0JvclM4Szh2UVJPQmRpalpmV2xWM2ZPOV8tQnpwNkRn?oc=5",
+      "source": "The Block",
+      "publishedAt": "Mon, 15 Jun 2026 19:27:10 GMT",
+      "snippet": "Standard Chartered says Uniswap's UNI token could surge 40x to $100 by 2030&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Uniswap UNI Token Price Could Surge To $100 According To Standard Chartered - Crowdfund Insider",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTUxRWphRWdudWpXT2Fyb3Fad253UHVJeDduM0dkVllKQllPV2kxOXBYN3kzcnZ5eksyOXk3ZUxGSkJSUGRPR2tDdDJwLUVLOWRreHJOZG5LY09oZGxNUU5tLUU4ZjNQZ29NMUhESHhVNXp1RGd6M2FSdTdhWnhCSzhBTjJ4WWlKSzM5R3B0dWNYNF9jZEVjRnI0SVNpZ2pGcEdTT0VDWkFfM0FIblNWNWkxLVU1d3REakFFbjNXek8?oc=5",
+      "source": "Crowdfund Insider",
+      "publishedAt": "Tue, 16 Jun 2026 11:11:28 GMT",
+      "snippet": "Uniswap UNI Token Price Could Surge To $100 According To Standard Chartered&nbsp;&nbsp;Crowdfund Insider"
+    },
+    {
+      "title": "Wall Street analyst predicts 3,200% surge for battered token - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2I3OFZvUXN3c0EwREY4ai03WGU5S2oxcndSMkFuWUNaVVlLcnl3MDhnNml1WnJVZFVlYWJydUtBMnBZMXMxNGprS25hUnFHeTFBdUlZOTFFZlBMWlF4RUJTaU5KTzRyYjg2SUJuUHZxejdzcWstZ3pZU2NEMXVIUmxXN1RkcXI4YTluN0ItQmF0ZU9QdEtNZzFmNTBpUjA?oc=5",
+      "source": "thestreet.com",
+      "publishedAt": "Wed, 17 Jun 2026 15:24:08 GMT",
+      "snippet": "Wall Street analyst predicts 3,200% surge for battered token&nbsp;&nbsp;thestreet.com"
+    },
+    {
+      "title": "Uniswap whale activity reaches 7-month high after Standard Chartered’s $100 price target - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVVA2VnRfLVVyeVAwbEdDLVpVMmJVTzgxUzRldnY0QTdEbGpIM2x1TXRsQms1M0xKTXltQ0VNekhWWVhldmtWbWJ0azRzcU5nUzkwd1NSOVF2ODFHMW5YX1NWWmhrakFuM1c0RlM4QjRRQzFISHo4TjdWdjY3MEt5MG4wMGlSY1pIc0E?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Fri, 19 Jun 2026 09:08:02 GMT",
+      "snippet": "Uniswap whale activity reaches 7-month high after Standard Chartered’s $100 price target&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "Uniswap activity spikes as Standard Chartered sets $100 UNI price target - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2NCWThhY0d6Sm5Pa2o4UTUwbHhjMlluekFxTWxzdWFwWWdiMURDWGE2cS13SHJFczBZZUVibDNvdWduM1lPSFFGbnJ0SURSN0MzNk5Ga2pESjhrQnFLbWdJMDRxMHF6OUR4MFVBUVBoaVllRzFiR3pqRnVlRmRHa19sQWZJSTdJZno5eUo4ckhJT1RPYk54NzN2WXV6UQ?oc=5",
+      "source": "Pluang",
+      "publishedAt": "Fri, 19 Jun 2026 08:39:15 GMT",
+      "snippet": "Uniswap activity spikes as Standard Chartered sets $100 UNI price target&nbsp;&nbsp;Pluang"
+    },
+    {
+      "title": "Can Uniswap Reach $100 by 2030? ChatGPT, Grok and Claude Weigh Standard Chartered's Bold Call - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOTVJVGZRYUtSMGkwbTdMTlZqYVlDQ25ucWFFMkZxSUdiUnI2ZG1QLWF2VzBGNmJNMlBFUGdpRVZBQVhsZGR4WDY1R3JNOU5rNFByV0gzM3Fjb3Utb01xTG1XaWRUd0pCeEl2MS0tWUFzVHhNLXMwRS1HbXF0Y2xOMzZReWNRQ2dnTVVId1lZMkxPckFZbVk1OXVkMnZ2WHRqcnZMV3VRSFRScERldGc?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Tue, 16 Jun 2026 11:08:50 GMT",
+      "snippet": "Can Uniswap Reach $100 by 2030? ChatGPT, Grok and Claude Weigh Standard Chartered's Bold Call&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Standard Chartered’s $100 UNI Call Triggers Surge in Uniswap Network Activity - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xUXJkX0NLUl9xNk12MTluU3V2SE90ZXE0NGlNOFRTYVdWa3pmelM1aXo1M25VUDNGYnk5MEkzMkJ0M1QwcUxhMDdteVJCY0ZwVE1qekcxcjZNckpQaGptYWI3azhoYUY3eGFxU1lWdS1PeGYxbTF0MW16VEY?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Thu, 18 Jun 2026 09:13:00 GMT",
+      "snippet": "Standard Chartered’s $100 UNI Call Triggers Surge in Uniswap Network Activity&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Uniswap (UNI) Price May Have Found Its Bottom: Key Signals Point to a Potential Rally Toward $10 - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTUl4aEZqV3AxdnFWUmFpQ2QwcVA1RE9vazh0SHhhZGlMUktBeUhueTc2MUo3QXdKZFhxQ2ZjV0oxZmVBNHFCRzJrTzZjUmFvdXpKSkdHdjdQSjBnblNxVFF1QmdDVFpzSTZRZ3l2aVJ2eHRwMUJGSXM5T2swTFEtdWR4ZW53aGprekVXWHoyUTVuMFAyWWVvMWd5bTd1Sk4zRDR2RzRaZ2RUeXF0Zi1SWkFyTXBiSEhSS0lTbnZZY1hFbkwtQ2wtY0R30gHPAUFVX3lxTFBRaHNsOHF0QnR2TjRaQXl2RlFRR0dkemFWcjl4VTFPR1hyNkVTWUlmM0hHZVZrcDFEQVptS1hneFhSSjhwV1lyZGFvazJMd2FSUnQ2SnNMTXd2RTdNblAtMG9wNmF2ZGhENEtmVER2ZWZzbmU1bGVjR0pITWsyS3NrenlhUTBuTEx4d0kyTU45NWZ3MjZoYkxIQTVGYUxEWF80bUNoanBMcmxRZ0RRVmFQOGNMdEtDbkIwcnQwbllHRGFrcXdURVFOTFNQMUFOcw?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Tue, 16 Jun 2026 11:46:00 GMT",
+      "snippet": "Uniswap (UNI) Price May Have Found Its Bottom: Key Signals Point to a Potential Rally Toward $10&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Uniswap Price Prediction: UNI Surges 20% as Bulls Target a Break Above $4 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXVGaHZFMEo1UTlIY2tuTXdrMUk1cmsySkRVandaWThmM2JaczVaaS1CZTVNai1Ga1pJUU4wSWowQzU2ekt1ZjlSRTY1aFgzVGdqWVNTWmYwWlhSajNJMHcxNnhvNnkxUGxHYWZtSWd5eUt6RWtGeUdDN3BxRkJyM3RvbGsyUDNUc0p5UXVqd3czT2J0V0hZcnFRVUhSUnhIWWJXYVFOZmVPM3p3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "snippet": "Uniswap Price Prediction: UNI Surges 20% as Bulls Target a Break Above $4&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Uniswap’s UNI could surge 40x to $100 by 2030, Standard Chartered says - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSnNwY2toUS1fX193WkxVYzFZVXdidElyWkF2S0hfMFpSb1MwSVlJRXE5ajY1WUVfd0pHbFgzTUN6cm9YVWpUejhRY05zMUlZejdpcTMyVi1HckZpZ1gzNWlURnp1WmdNLXdpNkNoQXZkUUpQa3Z2bHh0eXlTRVQ3ZklfcWJka2dfbFpDaWxLWjF0UQ?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Tue, 16 Jun 2026 06:29:00 GMT",
+      "snippet": "Uniswap’s UNI could surge 40x to $100 by 2030, Standard Chartered says&nbsp;&nbsp;crypto.news"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

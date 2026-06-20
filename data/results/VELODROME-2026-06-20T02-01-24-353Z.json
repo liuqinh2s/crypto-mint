@@ -1,0 +1,223 @@
+{
+  "token": "VELODROME",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T02:01:24.353Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "VELO",
+    "name": "Velodrome Finance",
+    "generatedAt": "2026-06-20T02:01:15.536Z",
+    "summary": "VELO近7天涨幅超33%，主要受Aerodrome合并催化及Optimism生态利好推动，但Binance已添加监控标签，流动性风险较高。",
+    "rating": {
+      "score": 35,
+      "label": "谨慎试仓",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若跌破0.017美元支撑或出现负面新闻，则逻辑失效"
+    },
+    "catalysts": [
+      "Aerodrome与Velodrome合并形成DeFi新势力",
+      "Optimism Superchain跨链基础设施上线",
+      "近期价格突破前期阻力，技术面走强"
+    ],
+    "latestNews": [
+      {
+        "title": "Aerodrome Finance (AERO) Surges 14.53% on Protocol Catalysts",
+        "impact": "利好",
+        "reason": "AERO上涨带动VELO情绪，合并预期强化"
+      },
+      {
+        "title": "Binance Will Extend the Monitoring Tag to Include VELODROME",
+        "impact": "利空",
+        "reason": "监控标签意味着下架风险，压制长期持有信心"
+      },
+      {
+        "title": "Top Optimism DEX Velodrome Launches On-Chain Swap Infra for Superchain",
+        "impact": "利好",
+        "reason": "技术升级提升生态实用性，吸引用户"
+      }
+    ],
+    "fundamentals": [
+      "Optimism上主要DEX，提供AMM流动性市场",
+      "总供应量25.1亿，流通12.2亿，流通率48.5%",
+      "市值约2265万美元，排名760，属于小市值项目",
+      "历史最高0.4075美元，当前跌超95%"
+    ],
+    "marketRead": [
+      "24小时涨幅7.5%，7天涨幅33%，成交量约343万美元，放量上涨",
+      "价格接近0.0186美元，距ATH极远，反弹力度有限",
+      "Binance监控标签可能导致流动性下降"
+    ],
+    "risks": [
+      "Binance监控标签增加下架风险",
+      "小市值代币波动大，易受操纵",
+      "合并利好已部分消化，后续催化不足",
+      "总供应量较大，解锁压力未知"
+    ],
+    "watchlist": [
+      "Binance是否移除监控标签",
+      "Aerodrome合并进展及代币经济细节",
+      "Optimism生态整体表现",
+      "成交量能否持续放大"
+    ],
+    "sourceNotes": [
+      "Binance数据因地域限制无法获取，价格数据来自CoinGecko",
+      "新闻来源包括CoinMarketCap、FXStreet等，部分时效性较低"
+    ]
+  },
+  "profile": {
+    "id": "velodrome-finance",
+    "symbol": "VELO",
+    "name": "Velodrome Finance",
+    "categories": [
+      "Decentralized Exchange (DEX)",
+      "Exchange-based Tokens",
+      "Decentralized Finance (DeFi)",
+      "Optimism Ecosystem"
+    ],
+    "homepage": [
+      "https://velodrome.finance/"
+    ],
+    "description": "Velodrome Finance is the trading and liquidity marketplace on Optimism.",
+    "marketCapRank": 760,
+    "currentPriceUsd": 0.01855965,
+    "marketCapUsd": 22648218,
+    "fullyDilutedValuationUsd": 46712027,
+    "totalVolumeUsd": 3426499,
+    "priceChange24hPct": 7.54203,
+    "priceChange7dPct": 33.04568,
+    "priceChange14dPct": 46.22266,
+    "priceChange30dPct": 20.80825,
+    "athUsd": 0.407515,
+    "athChangePct": -95.45265,
+    "circulatingSupply": 1217821498.805588,
+    "totalSupply": 2511760939.511928,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 21189,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "VELODROMEUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=VELODROMEUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "VELODROMEFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=VELODROMEFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "VELODROMEUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=VELODROMEUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "VELODROMEBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=VELODROMEBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Aerodrome Finance (AERO) Surges 14.53% on Protocol Catalysts - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzb0FYN0hISGpsdEJTTkxBUHZ4VVVkTkVUeTZ0R0trb2c5aHd1SG5STlhfZElJN2VQRDRHNlV1Z1o5ZWlITDJyc0l3RVBBcGlzbTVEOWItY3FpOWdWSWZGQkl4Nl9hOGp5UmF1cldEODI?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 17 Jun 2026 07:05:00 GMT",
+      "snippet": "Aerodrome Finance (AERO) Surges 14.53% on Protocol Catalysts&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "How can I buy Velodrome with Visa: Speedy Crypto Overview Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnV6ZWVTZ1pCUDdvV2NWYXcxdFJ3RTZ6M0lzZy1QckprbjJLOU5aRi10a3NCOUk3U3RjTU4yNFhwNWFIUm5FeDh5UTRhRHF5Q21feGIyY3BWTGJWMnhuQjFnREU2UEZhWDNlSmZQMjY0NzlacjQwSDJCSW1rem1US09oZEVwQVpZenA4cVJramRaWkFmRFZHZA?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 17 Jun 2026 13:09:46 GMT",
+      "snippet": "How can I buy Velodrome with Visa: Speedy Crypto Overview Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Velodrome Finance Explained: Beginner’s Guide to VELO & AMM Yield - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OS2lDLUx0a1h2ZUNhOXNiM2lrN3ZxRlYyelZVQ1JDTVRDU3pWTFhLWU84Y0ZxR2hkdTZBNXNMQU9qRE9JVE90NWNqYnNfemFTQkNJODNPTllwVEhSckE?oc=5",
+      "source": "OKX",
+      "publishedAt": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "snippet": "Velodrome Finance Explained: Beginner’s Guide to VELO & AMM Yield&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Nansen - Nansen AI",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OWXBkbkFzN0pIcWFxa2lrUC1QdWZHM3JtbjJ0VUhGNzQ5Tm9EWk1Ma0NTS0V1bmhzTWhKNk5yZ2hxNjRqVzg2b2laejMwMDl3N2FWQ2lkSWZMQ0N1?oc=5",
+      "source": "Nansen AI",
+      "publishedAt": "Thu, 10 Jul 2025 07:00:00 GMT",
+      "snippet": "Nansen&nbsp;&nbsp;Nansen AI"
+    },
+    {
+      "title": "Revolutionary Aerodrome and Velodrome Merge Creates New DeFi Powerhouse - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByX2g2b0VhVnQwSktYTzdLLXVIenNGVVdIcGFTOGRCc1N4R0hwd2ozZUs0WFYtTVRya2dBd3BHcmFPVjNIbTM5TktXUjEyNnIzWGJXcFVEOUFEMmlTZ0VTcmpiUXloYl94VmhoeXh4TFFUQmUtV3NwTA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 12 Nov 2025 08:00:00 GMT",
+      "snippet": "Revolutionary Aerodrome and Velodrome Merge Creates New DeFi Powerhouse&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Aerodrome, Velodrome tokens plunge 20% following merger unveil - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUNKQmtOY09sMjRJY2tTZ0x2SU9fUzUzLVd5bV9nRjU3cUJzMFg1S0RWQU4zbF8xT3poUVptbUJwOFNaNE1pNUlTam1BNExISXNIemNDa3l5SlNxdUJtX1FpazA2MEpQNlhkdTFMUEd5eW9uM0F6R05tTXVtMnpxV1UwXzRBeklQNVJzZlZEQ1BqZFZTVU9nMGxJYnE4ZEhoZzZqOTRCQmJLcUxGYkV4ZEF4Y1NvRjlqel85Y9IBwgFBVV95cUxQN3Q3UDZabFlkckc1NjZBZ1FmczJuWVlCREV6NHVFekNMOVROU1VHMTRkWERfY1JGWW0ydE1CX3p3eFphV055YnR0bTd5Rm5HNWpZSktwWi1sVEtIdHlWd3pMb3h1S3JScW5sRWxoYzJEakdiRUNmNjFyOTh5WVljbkdDTlBkNDlHR0p5TVp6UkpPZFNhRW0zZ0pXb0pvSjNDeUpUTDcyWDhSaHR0eUlnVEdJQ0sta1RUdHVSSWYzQ29HQQ?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "snippet": "Aerodrome, Velodrome tokens plunge 20% following merger unveil&nbsp;&nbsp;FXStreet"
+    },
+    {
+      "title": "VELO to EUR: Convert Velodrome Finance (VELO) to Euros (EUR) - Revolut",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pRGZIRlBIVzdwMndKM3lqQVVaY3RVU1lNSnJTckkzdHpjNmxvVUZib25VMVZYbnpSdUJqTnFJZFZfR0VlUVQ2OElxU2pTSHFsN1RaUTdtUVctdw?oc=5",
+      "source": "Revolut",
+      "publishedAt": "Fri, 24 Oct 2025 04:36:18 GMT",
+      "snippet": "VELO to EUR: Convert Velodrome Finance (VELO) to Euros (EUR)&nbsp;&nbsp;Revolut"
+    },
+    {
+      "title": "Binance Will Extend the Monitoring Tag to Include FARM, HIGH, MLN, RESOLV, SYS, TRU & VELODROME, Remove the Seed Tag for XAUT on 2026-04-14 - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2ZEMjVlTVIwRDNYcDlzY09DRE50ZzNhMWE3Sm5SMzJmbk5LSEo0ZmJFcUNtenlNelpqeUdmdFc4ajZ3azJCRU90RU5OOVVmbFJnUUI4bXo5eTJLODJ5MF9pQVlnTklUdHlRemFNVHNlWVdId2R0WmVsTDdIcmhFbGpzOTAtNml0NUdzcWZXdzA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "snippet": "Binance Will Extend the Monitoring Tag to Include FARM, HIGH, MLN, RESOLV, SYS, TRU & VELODROME, Remove the Seed Tag for XAUT on 2026-04-14&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Velodrome Finance (VELO) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84Q0lCSFJuVW1HejhIRTI0amY1YUppRjNENXF5U0lENUROVUxyWWtmT0pNWG9jUXNfclFiNERzcVdxNE0zR2FwMFowZTZ5R0o4ejRheGpacDBQYk11T2t3ZzFKMHozc1pYRU5UZlpxVGw0Y2hUeWRB?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Sun, 16 Jul 2023 14:24:01 GMT",
+      "snippet": "Velodrome Finance (VELO) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Top Optimism DEX Velodrome Launches On-Chain Swap Infra for Superchain - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82cW9WMzNyWFAzbS0xN2dyS3lxOVBsOFYtNzdaX1AtVUllYTd3X1BYb0FrMTgzNDdlVDUtN1hCOWZtdFZrYTRCVWUzMUc3clIzeUpNejNVNTJPcHVpbkV5NnpnUmxTWEJibkM5Mk0wZFZ3RUprSWhRWQ?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Mon, 30 Jun 2025 07:00:00 GMT",
+      "snippet": "Top Optimism DEX Velodrome Launches On-Chain Swap Infra for Superchain&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "CYBER and VELODROME are available for trading! - Kraken Blog",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON0VTMmtpQmxMNXk1d0ZKdlo1VjkyblpYdVBVMW5vWFRzVi05LUROSFk0cFNDYkM1VjQ5aHZHYVZ0eHllZllFbm5WNmE5RWtQUmI4WW04M282em90SmhNRHE4cjBtNkd1Q2lRZFBQbkw1ZzBXa2Z4SGJuWWcxVFVuVjdIU2NXNThUdTdzMnZHM0dtUUpVSUN3?oc=5",
+      "source": "Kraken Blog",
+      "publishedAt": "Tue, 18 Feb 2025 08:00:00 GMT",
+      "snippet": "CYBER and VELODROME are available for trading!&nbsp;&nbsp;Kraken Blog"
+    },
+    {
+      "title": "Velodrome enables native cross-chain swaps for its DEX ecosystem on Optimism Superchain - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmFuU2xlelhmQ216Sk51VGRwenFkaUUwN1lzN2JQQkRWWWNQYnQ4MEpLazFXOEtmTG0teEFUbDBmWFlraG80OE5QTVFTdDY4ckZ5NG80WTlxTUtjbnY2Umx1M1R3RElUNl9sempPRjZ6MmtUMU5fekRpUGY5NDYtdDNTZnlKYzJDOEZwMkM4eF9kUWx1c1lpM29WYVlqbXNuaDE3QWZnTWhWX1ZQYU9JTGJGY2ZXN3RmWDRHYlVua3I?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 02 Jul 2025 07:00:00 GMT",
+      "snippet": "Velodrome enables native cross-chain swaps for its DEX ecosystem on Optimism Superchain&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

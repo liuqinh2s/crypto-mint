@@ -1,0 +1,243 @@
+{
+  "token": "HYPE",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T02:01:25.465Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "HYPE",
+    "name": "Hyperliquid",
+    "generatedAt": "2026-06-20T02:01:15.735Z",
+    "summary": "HYPE近期因SpaceX期货上线、ETF资金流入、营收突破11.6亿美元等利好创历史新高，但短期涨幅过大，需警惕回调风险。",
+    "rating": {
+      "score": 65,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 15,
+      "holdingPeriod": "1-2周",
+      "invalidation": "跌破60美元或日成交量持续萎缩"
+    },
+    "catalysts": [
+      "SpaceX期货上线吸引新用户和交易量",
+      "Hyperliquid ETF自推出以来流入1.72亿美元",
+      "Hyperliquid营收超11.6亿美元，基本面强劲",
+      "Hyperion CEO看好HYPE超越交易所范畴"
+    ],
+    "latestNews": [
+      {
+        "title": "Hyperliquid Price is Approaching a Make-or-Break Zone After 250% Rally—Can HYPE Push to $90?",
+        "impact": "中性",
+        "reason": "指出250%涨幅后进入关键阻力区，存在不确定性"
+      },
+      {
+        "title": "Hyperliquid poised to become more than an exchange and drive HYPE higher, Hyperion CEO says",
+        "impact": "利好",
+        "reason": "CEO看好长期发展，可能吸引更多投资者"
+      },
+      {
+        "title": "HYPE rallies to new ATH at $76.70 as SpaceX futures fuel Hyperliquid activity",
+        "impact": "利好",
+        "reason": "SpaceX期货是近期主要催化剂，推动价格创新高"
+      },
+      {
+        "title": "Hyperliquid ETFs Draw In $172M Since Launch as HYPE Hits All-Time High",
+        "impact": "利好",
+        "reason": "ETF资金流入显示机构兴趣增加"
+      },
+      {
+        "title": "Hyperliquid’s HYPE Just Hit a New All-Time High: Experts Now Weigh $300 Target",
+        "impact": "中性",
+        "reason": "专家目标价乐观，但短期可能过于激进"
+      }
+    ],
+    "fundamentals": [
+      "Hyperliquid是L1区块链，主打永续合约和现货交易，生态包括借贷、RWA、EVM",
+      "HYPE最大供应量10亿，当前流通约2.22亿，流通市值154亿美元，FDV约663亿美元",
+      "项目营收超11.6亿美元，显示强劲的盈利能力",
+      "已推出ETF产品，吸引机构资金"
+    ],
+    "marketRead": [
+      "24小时涨幅2.66%，7日涨幅17.12%，30日涨幅22.99%，近期加速上涨",
+      "价格接近历史高点76.7美元，成交量约9.23亿美元，流动性充足",
+      "市场情绪偏多，但短期涨幅过大，存在获利回吐压力"
+    ],
+    "risks": [
+      "短期涨幅过大（250%），技术面超买，回调风险高",
+      "FDV高达663亿美元，估值较高，需持续增长支撑",
+      "加密货币市场整体波动性大，监管风险",
+      "解锁风险：总供应量约9.55亿，流通仅2.22亿，未来解锁可能带来抛压"
+    ],
+    "watchlist": [
+      "能否突破并站稳76.7美元历史高点",
+      "日成交量是否维持高位",
+      "SpaceX期货交易量及用户增长数据",
+      "ETF资金流入是否持续",
+      "代币解锁时间表"
+    ],
+    "sourceNotes": [
+      "Binance数据因地区限制无法获取，价格数据来自CoinGecko",
+      "新闻来源包括CryptoRank、The Block、crypto.news等，时效性较好",
+      "部分新闻标题可能夸大，需结合实际情况判断"
+    ]
+  },
+  "profile": {
+    "id": "hyperliquid",
+    "symbol": "HYPE",
+    "name": "Hyperliquid",
+    "categories": [
+      "Decentralized Exchange (DEX)",
+      "Smart Contract Platform",
+      "Exchange-based Tokens",
+      "Decentralized Finance (DeFi)",
+      "Derivatives",
+      "Perpetuals",
+      "Layer 1 (L1)",
+      "Proof of Stake (PoS)",
+      "Hyperliquid Ecosystem",
+      "Governance"
+    ],
+    "homepage": [
+      "https://app.hyperliquid.xyz/trade",
+      "https://hyperfoundation.org/"
+    ],
+    "description": "Hyperliquid is a layer one (L1) blockchain best known for perpetual futures and spot trading. Beyond its flagship DEX trading platform, the ecosystem supports borrowing, lending, real world assets (RWAs), and a full-fledged Ethereum Virtual Machine (EVM), making it a leading force in decentralized finance (defi). Just as electronic trading dramatically improved markets in the 2000s, Hyperliquid offers an opportunity for a massive technical upgrade of the existing financial system through a transparent, efficient, and resilient blockchain. HYPE is the native token of the Hyperliquid blockchain, with a maximum supply of 1 billion.",
+    "marketCapRank": 10,
+    "currentPriceUsd": 69.33,
+    "marketCapUsd": 15428489630,
+    "fullyDilutedValuationUsd": 66258616983,
+    "totalVolumeUsd": 923266891,
+    "priceChange24hPct": 2.6637,
+    "priceChange7dPct": 17.12338,
+    "priceChange14dPct": 14.24599,
+    "priceChange30dPct": 22.98703,
+    "athUsd": 76.7,
+    "athChangePct": -9.59994,
+    "circulatingSupply": 222445714.0741414,
+    "totalSupply": 955307079.4341414,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 62.5,
+    "watchlistUsers": 179289,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "HYPEUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HYPEUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HYPEFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HYPEFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HYPEUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HYPEUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HYPEBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HYPEBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Hyperliquid Price is Approaching a Make-or-Break Zone After 250% Rally—Can HYPE Push to $90? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSHVhRFhBX2h4Z1M5T0RaZGpaX1pMalU3UWVhZm9DcU4wZWtkYy0zUWpzU3JnOS13YmN2Nzl2RFJBX2RsVjZCU2E3MlNMaE9JNDl4NjB1X1U3RWJ6Y2NZc1dDT08zWnItcU00TVlyNnNZMmMybDBvX2wzaHpEWUhWZnBib0JNYWhqS2gyd2l6N2xHS3Y1MFNsN2l3Sk1ZZGRqQWd2M1BZaEVqbHBQclNQd2Q0ekVyNElOcENjZ1p5elUwdXFxT2c?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 19 Jun 2026 20:02:56 GMT",
+      "snippet": "Hyperliquid Price is Approaching a Make-or-Break Zone After 250% Rally—Can HYPE Push to $90?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Hyperliquid poised to become more than an exchange and drive HYPE higher, Hyperion CEO says - The Block",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORHByTVk5NWM0UFlQSVduN0RtYXpLNXFjOUlSMFptTklUb2swUENHc0lMZDI0RTVBNE5nZmVEZGlvM3Jyb1hEb0xJNkZBNmo2UVc0b1hPWUl6Q2J5ek9vM29vSkNvbzZCdGdhbkdSYnNrX21zQ3RMZFhzTVVaVFlwN0N5dE9MM3RlX0hFTXZKZy1XMmo4TVlWZzlxMzdGN1g3X1F3aGYwcGpMQVlkRkw5UjJQZWJMUQ?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 18 Jun 2026 18:44:03 GMT",
+      "snippet": "Hyperliquid poised to become more than an exchange and drive HYPE higher, Hyperion CEO says&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "HYPE rallies to new ATH at $76.70 as SpaceX futures fuel Hyperliquid activity - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1Vyd3JNcjY0bDF4ZkkzWDJuc2lESC1Dc1hVRGY4UFI4TlFESzNaUGVTbWd0TEU2cUZaR2UtYUE2MWMyM2h1TzFQeENvanR2ZTBmdjdmNG5tTmpab1NyTUxsWmZkNmNsV0JqSFZnRG9aNzV0Ny13MkZRNHBjRjNJamV6M2F2d25aVWlmMDhBNzZOajF6REJJNkJ4b1Npdw?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Wed, 17 Jun 2026 00:10:00 GMT",
+      "snippet": "HYPE rallies to new ATH at $76.70 as SpaceX futures fuel Hyperliquid activity&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "HYPE, UNI and WLD outperform on Tuesday - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDlTTG0xN3A0X2RDMVNHYTFEWDhDSmRhLUljTFZNenY3b1JCWU9NT29TdnE3NjNXODdHaWtEMDZJZE51VWdDZjFlUnFoVkZlYzFLajkxd0ZaeTBwQW9ncTZPZFlFM0Q2cmlRRUx1Y1hyQ3gzMVZiM01rbVJtZGZOT1VDd3d4d2ZYVlFSazFiX25oYk5tOU15eWJ2aFRsTy1kTzJ4OURWNVNKNHpVeDhsdTZFWmNBSmVsMUFKMWNoVnBwZk13QWc?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 16 Jun 2026 20:26:04 GMT",
+      "snippet": "HYPE, UNI and WLD outperform on Tuesday&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Hyperliquid Strategies Inc Relaunches Website with Expanded Analytics, HYPE Tokenomics and Insights Sections - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVVR5RFoyR1VPWnhrazBWcTlsemtXRk40SzRYOGZDeWVRRVhVeWdYazJQMy1NTHJVcHZwTlMtbWVja3UzQmpOZVk4MWpVTnczWUl4N2lteC1KeHRfXzdPeFhVVFFHYTVnM0VWay1ER0gtblNrdHpWN0hsMTR0SVljZlJXdTJ5Um1vX2FjUExnWWJCUnhPVTMwUndFbG1NSVJId0VMOXVicFo0c09xbVIxdEl5eXEtd0tzcnBBR2VLT2R2cVRyS1JHNGQwUVVtZXUzZndTLWxxelppTHI4R2NaZlg5VG1GOEthV2cwSmpUQlFGaFhzSUE?oc=5",
+      "source": "PR Newswire",
+      "publishedAt": "Tue, 16 Jun 2026 13:00:00 GMT",
+      "snippet": "Hyperliquid Strategies Inc Relaunches Website with Expanded Analytics, HYPE Tokenomics and Insights Sections&nbsp;&nbsp;PR Newswire"
+    },
+    {
+      "title": "HYPE Price Outlook Improves as Hyperliquid Revenue Surpasses $1.16B - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRE5nRmFKbllUZFpWMUZBSGdyUkpYUElILUh4UDhnNFdUYktWeU1SdVpNYkt1MmJ1WEtNOGU0bjNrakVsOEZMRFRMUVpfcVFfZ2xkallTRG9ZX2p6ZGNkR1RfVVhzN2xzeXNMRGctMzRoWTM4Z3JfbEVDdWJLbC16cm9MY2Z6OFRiNWpOQ21hLTJJSDktMlEwVm9DcXJLZHZxY2RxdWJCcDRVRXZXXzFmaA?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Fri, 19 Jun 2026 10:53:56 GMT",
+      "snippet": "HYPE Price Outlook Improves as Hyperliquid Revenue Surpasses $1.16B&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Hyperliquid ETFs Draw In $172M Since Launch as HYPE Hits All-Time High - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVzdENkVnRWpWSkdBZWpFX3VMNE53c1R3clZMWkFxTy1JT01NY2VrQXFBMzhYcUFVRFVaY01SSzAzbnctekNrV0h0c1RlZXFybEFCdlFXZGhQaUh1RWh0UXRKY18yYllFNjlxZkdrZTVHM0N6M2wtbk9SZmx5aHlVbnMyRmd5RjU4TnFYSTZmSDB2TDNxN0pzemhXUnBMZw?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Tue, 16 Jun 2026 12:32:08 GMT",
+      "snippet": "Hyperliquid ETFs Draw In $172M Since Launch as HYPE Hits All-Time High&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Hyperliquid’s HYPE Just Hit a New All-Time High: Experts Now Weigh $300 Target - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hZTBHdF9sYVNPZnFHOFFNSDVZOFd2a0FwdnNYVW16RnJSVkh5MjVYZ1Fid0pVWjZwWFRFS0c0aHNrSmppRlpVcTNCbTRFSF92LVZNdlpEWnVRbzhsVjVhb0J3VVRyWE5TVzNEekc4LXhGOTZRelpRUmVfQQ?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Tue, 16 Jun 2026 16:33:00 GMT",
+      "snippet": "Hyperliquid’s HYPE Just Hit a New All-Time High: Experts Now Weigh $300 Target&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Hyperliquid’s HYPE token returns to all-time high of $75 - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEo0dV9OZ1ZROENRWmptTHJkM0tiMjIyMEpMSjZUR3RKNDVkYUN2LUtlVHVJNDFOM0hka2VFWVduc0g0U2J6WTBKdHlBUU01OEFHVGcwclJqdm5DZjNOSTh2eU00dkI2enlKNjNOQl9JazBNOFBqOW52Z0VxOENQX1REX1U3MWowS0E?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Tue, 16 Jun 2026 13:38:47 GMT",
+      "snippet": "Hyperliquid’s HYPE token returns to all-time high of $75&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "Hyperliquid Price Prediction 2026: Is HYPE a Good Investment? - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTzFPV2NzT1VmYnRabnJLcEdmSlpMVUJycC1vaUJ2eE5NalhOM0ZMdDIwdEw1Q2FuREd3Q3FUV051RXdKVENTeFBYQzBIVDlMMzAtVHAtQVI5dWJWZVBlT2hweVFxS3BKVWJmT3lybnNSY2NHZl9IcEZoVi0xVlg5QlpvcE5HeU9RVTBJczF3d1JqenRIN1JjNGc2aTRlSWNxU1lka2dYMjhyQ3gydmxnSFZXMnZMd0pqUXc?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Thu, 18 Jun 2026 18:19:04 GMT",
+      "snippet": "Hyperliquid Price Prediction 2026: Is HYPE a Good Investment?&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Hyperliquid Strategies shares jump as HYPE token strength and late-June index reconstitution fuel buying - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRHBPcUJBYURMendpMklNdWdTWERaclJHNWhEanhaM1pNM0NBeWY3N3JZZHNaeDB2LUFsRnlOWUhaempSazEzaTNRUVdNWk54Y3VPMnVMWktzcGVrUGM5LWU4R0QtN0lRWnc5MHlzdFhuSC1ic1huZ2g5WHp2Ml9VV19PZU1hOHZ2a0x6NTd5czBZOVkxSmVDU29FS0kzMzVkRVRwVTJnQUsxQi1fNzIwRW1qUllvS19rcENfdTFqc1FaNWs5RHRVTXQ3XzJuTDZhTlVN?oc=5",
+      "source": "Quiver Quantitative",
+      "publishedAt": "Tue, 16 Jun 2026 15:52:00 GMT",
+      "snippet": "Hyperliquid Strategies shares jump as HYPE token strength and late-June index reconstitution fuel buying&nbsp;&nbsp;Quiver Quantitative"
+    },
+    {
+      "title": "Hyperliquid's HYPE token hits $76.70 as SpaceX futures make the case for permissionless finance - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdkVDU3pWXzNDSFRjUnFJb204UzNRSi1lM0R2clphTWdVN3BkekpFYTFlVEV0MUVXWExwOHhQamxOUmpwLWVsaVFOMl9sc2MyOV9uamZNdDRaNG9oa0ZwRklobGhzM3NEcDNBQW12UnUxWnljR0VtMTNHNUFGZ0xUc2JiRkFsZ2NTUnluLUxvQjdBaVRadExCRkthRVd2eEhhbmZPbGNSNEpxaldnZVRza2ZqVE9BWWFkTElEZQ?oc=5",
+      "source": "Startup Fortune",
+      "publishedAt": "Wed, 17 Jun 2026 06:07:04 GMT",
+      "snippet": "Hyperliquid's HYPE token hits $76.70 as SpaceX futures make the case for permissionless finance&nbsp;&nbsp;Startup Fortune"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
