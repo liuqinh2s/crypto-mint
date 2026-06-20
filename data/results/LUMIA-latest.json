@@ -1,0 +1,226 @@
+{
+  "token": "LUMIA",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T01:15:36.876Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "LUMIA",
+    "name": "Lumia",
+    "generatedAt": "2026-06-20T01:15:29.139Z",
+    "summary": "Lumia近期价格大幅上涨，24小时涨幅超24%，7天涨幅超31%，主要受RWA叙事和项目基本面推动。但当前价格仍较历史高点跌超94%，流通市值仅约1766万美元，流动性风险较高。建议观望，等待更明确的催化剂和成交量确认。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若价格跌破0.10美元或成交量萎缩，则上涨逻辑失效"
+    },
+    "catalysts": [
+      "RWA（真实世界资产）叙事热度持续",
+      "Lumia作为首个原生dApp层在Polygon专用RWA链上线",
+      "代币从Orion (ORN) 迁移至Lumia (LUMIA) 的换币完成"
+    ],
+    "latestNews": [
+      {
+        "title": "Lumia is the first native dApp layer to go live on a dedicated RWA chain - Polygon Labs",
+        "impact": "利好",
+        "reason": "表明项目在RWA领域取得实质性进展，吸引市场关注"
+      },
+      {
+        "title": "Bitvavo will support the Orion (ORN) token swap and rebranding to Lumia (LUMIA)",
+        "impact": "利好",
+        "reason": "交易所支持换币，增加流动性，减少不确定性"
+      },
+      {
+        "title": "Dissecting the LUMIA Token: Real Asset Tokenization Strategy in the Crypto World - Pintu",
+        "impact": "中性",
+        "reason": "教育性文章，提升认知但无直接价格影响"
+      }
+    ],
+    "fundamentals": [
+      "Lumia是专注于RWA的Layer 2网络，基于Polygon技术栈",
+      "代币总供应量2.388亿，流通供应量约1.384亿（约58%）",
+      "项目由Orion Protocol rebrand而来，团队有区块链经验",
+      "市值排名876，属于小市值项目"
+    ],
+    "marketRead": [
+      "24小时成交量约1490万美元，相对市值（1766万）换手率高达84%，显示交易活跃",
+      "价格突破近期高点，但缺乏大交易所（如Binance）的实时数据，流动性存疑",
+      "7天涨幅超31%，短期涨幅较大，可能存在获利回吐压力"
+    ],
+    "risks": [
+      "小市值代币，流动性不足，容易受大户操纵",
+      "价格仍较ATH跌超94%，市场信心不足",
+      "新闻多为旧闻或教育内容，缺乏近期重大催化剂",
+      "代币解锁风险：总供应量仍有约42%未流通，未来可能面临抛压",
+      "RWA赛道竞争激烈，Lumia差异化不明显"
+    ],
+    "watchlist": [
+      "关注是否有新的交易所上线或做市商公告",
+      "监控成交量是否持续放大",
+      "跟踪RWA赛道整体情绪和龙头项目表现",
+      "留意代币解锁时间表"
+    ],
+    "sourceNotes": [
+      "Binance数据因地区限制无法获取，价格和成交量数据来自CoinGecko",
+      "新闻来源多为聚合网站，部分日期较早，时效性不足"
+    ]
+  },
+  "profile": {
+    "id": "lumia",
+    "symbol": "LUMIA",
+    "name": "Lumia",
+    "categories": [
+      "Smart Contract Platform",
+      "BNB Chain Ecosystem",
+      "Ethereum Ecosystem",
+      "Layer 2 (L2)",
+      "Real World Assets (RWA)",
+      "Governance"
+    ],
+    "homepage": [
+      "https://lumia.org/"
+    ],
+    "description": "",
+    "marketCapRank": 876,
+    "currentPriceUsd": 0.12714,
+    "marketCapUsd": 17659107,
+    "fullyDilutedValuationUsd": 30459824,
+    "totalVolumeUsd": 14899219,
+    "priceChange24hPct": 24.26553,
+    "priceChange7dPct": 31.42245,
+    "priceChange14dPct": 54.908,
+    "priceChange30dPct": 25.55508,
+    "athUsd": 2.49,
+    "athChangePct": -94.94696,
+    "circulatingSupply": 138496021.73127738,
+    "totalSupply": 238888888,
+    "maxSupply": 238888888,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 7117,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "LUMIAUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LUMIAUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "LUMIAFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LUMIAFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "LUMIAUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LUMIAUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "LUMIABTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LUMIABTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Lumia Price Today in India | LUMIA to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QZUF0a3VLRVcxdUpxMGNHQTdJalh4dHdvaERnVF9IWjJlcHJDd3VCb25nYWdTeHRKU0dhWi1EdDJhSWM3RzZ2Z1JwWTRyZ0N0bUU4?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 13 Jun 2026 13:26:00 GMT",
+      "snippet": "Lumia Price Today in India | LUMIA to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Lumia price today, LUMIA to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zTEp5S29HNjNDZGpiSC1rUm0xaUpHdG42TkdqWEdhN1psZHBGMGswSWZzSkNiZlFqalB4NDAwakJ4dU9jVEM5S05OWU1vU0UwMk05SlB3?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 14 Oct 2024 10:35:03 GMT",
+      "snippet": "Lumia price today, LUMIA to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Lumia Price: LUMIA/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zVGdmeElxa05fa1owbldORWZlRFlmUHNqUFpVME1TLXlCdjNNMllyWjFKU05GcWZ6YV9zRU9yZ1BEOWYtVTg0UGRLS0IzX3JnYXc?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Sat, 19 Oct 2024 07:35:45 GMT",
+      "snippet": "Lumia Price: LUMIA/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Lumia Price | LUMIA Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83Q2NKUk0xVWJWUFBabXdrX2VValZ0NFBxTGJtTzN2YTNlZl94NE84UTU1eldCd0NhSUJ2UVJjY3dSLWpxM3dLbw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 05 May 2025 15:30:54 GMT",
+      "snippet": "Lumia Price | LUMIA Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "LUMIAUSD Charts and Quotes - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tRkp4clFqeWZxQ0RvQ3pGLVpXSUs5WVFLWVJJNlowemVkX011M051b1p5bUhnbGpHNWFDcU82WTRfRzNZVU90Y3NvcmNPQnNZbS1ENnNBNFg?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Sat, 26 Oct 2024 12:50:30 GMT",
+      "snippet": "LUMIAUSD Charts and Quotes&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Lumia is the first native dApp layer to go live on a dedicated RWA chain - Polygon Labs",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXdGMVhRWkpWaGtBakx1aWR1SFA0d3NiWTFBNmkwWURGSUFOeE1yb1J6YVZRbEdLWENIcTZBY09KNy1ab3dxS1BqQy1YNndjVkQzOW1USnFWNm5qSGdSUmxBZnBRUFRHNk95LVN2NFV3OXQ1bnY2YXFMNHltVHB6NllqSjlZQ0l4RGVwSUdhTl96d2RHXzF6dTZKd2RLWXN6MzZ6VGN1d0k2MGJlY1RV?oc=5",
+      "source": "Polygon Labs",
+      "publishedAt": "Tue, 04 Feb 2025 08:00:00 GMT",
+      "snippet": "Lumia is the first native dApp layer to go live on a dedicated RWA chain&nbsp;&nbsp;Polygon Labs"
+    },
+    {
+      "title": "Lumia - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAtVFAxOGFqZjM1TE5fRHB4RmFpeTA2WEtMVzdDN1djZkxNQXpUYXRsZ2R3N0tRQVZGLUc0ZHFDWVk?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Fri, 29 Nov 2024 08:00:00 GMT",
+      "snippet": "Lumia&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Price of Lumia LUMIA today in EUR – Quotation and market trends - Bit2Me",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5XNVlOakg4anBwUTBvQ0w5WmxiRkozSEFzME5EQmhqUjdDUGJhalVOU3gxUEhpY1AxdWtZMFF5dUFwY3Qx?oc=5",
+      "source": "Bit2Me",
+      "publishedAt": "Tue, 17 Dec 2024 14:08:38 GMT",
+      "snippet": "Price of Lumia LUMIA today in EUR – Quotation and market trends&nbsp;&nbsp;Bit2Me"
+    },
+    {
+      "title": "Dissecting the LUMIA Token: Real Asset Tokenization Strategy in the Crypto World - Pintu",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3dHblZ4dGQzYmpIWG56SDRMaEpsVmdnNjhlQXotaDNxbFVXSExWZWRwTnI3QWZISHRMVkdyQjhDZ1NQZnFIYXIzUVB1UDZ5RDFQUUhJQjhfSFYtcTRNeEdSSE1kUW43SnQ0RmY2YWFzNDNRaGptSFJ0MnMzSV8yZVk1Zm1UNGxIMC1wRjhsSkktMmQ3dElYbmxFLVJmNGp4d0ZrQWY4U0FHOGFvVVJxZUR1VXTSAboBQVVfeXFMTXUyM2tHUkRnMFpNdEMxZFJtdXdqRDloeXhpVFJvOW5xU3pjMEx5V0JTSU1JWTEzWHFYVFVqTTBTZWxxUDFDUWlGejZNLXpaa1RTMnhTZ2JlVXlpaXNjeFpyU2xnNHVGalpZejlHUUppUkdUUm45VU9vbFhINjgyR0JWNHdfT096NmdMRnhSN1ZQLU1ybElkMElFNnQ5aWdVeHhXaDQzRW0yZFo1VVRBeWJUN0NOVDlBN2d3?oc=5",
+      "source": "Pintu",
+      "publishedAt": "Fri, 22 Aug 2025 07:00:00 GMT",
+      "snippet": "Dissecting the LUMIA Token: Real Asset Tokenization Strategy in the Crypto World&nbsp;&nbsp;Pintu"
+    },
+    {
+      "title": "Bitvavo will support the Orion (ORN) token swap and rebranding to Lumia (LUMIA) - Bitvavo",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rRmNUSW03WVJJdzZEV1c5OHdPc1lUSkNpT0ZhX0IzRy0yNDRkdnh3MEJCWUdTYndXWjQ0Zm1iVWdXNVlrbElYMHg1WW1iNVFhdVo0Tg?oc=5",
+      "source": "Bitvavo",
+      "publishedAt": "Thu, 25 Dec 2025 18:51:23 GMT",
+      "snippet": "Bitvavo will support the Orion (ORN) token swap and rebranding to Lumia (LUMIA)&nbsp;&nbsp;Bitvavo"
+    },
+    {
+      "title": "Lumia (LUMIA) IDO Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EQ3M4ZHhHbUlKRnEyUktWNWpHYmJQWUtGTUJ1MG5XeG81aWpyS2ozMjFwMUxWSkFoeGQ4UHM2MGxNRWNiQ2c?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 05 May 2025 15:41:13 GMT",
+      "snippet": "Lumia (LUMIA) IDO Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Lumia Price Today | LUMIA to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0td0N1Tnk1MTJJSmVBVUJUWGJobEJpQUhDWmVoQzFpV3o0NGc1WWNOcEVxaEhHNlhqNG1WaXp3SzhrSldHbkhCQ3owZmtHTlE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 18 Oct 2024 06:03:23 GMT",
+      "snippet": "Lumia Price Today | LUMIA to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
