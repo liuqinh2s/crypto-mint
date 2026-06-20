@@ -1,0 +1,212 @@
+{
+  "token": "RIF",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T01:24:38.574Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "RIF",
+    "name": "Rootstock Infrastructure Framework",
+    "generatedAt": "2026-06-20T01:24:33.357Z",
+    "summary": "RIF近期大涨，受Animoca与RootstockLabs合作将比特币DeFi引入日本机构的消息刺激，24小时涨幅约25%。项目基本面扎实，但短期涨幅已大，需警惕回调风险。",
+    "rating": {
+      "score": 65,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsetPct": 15,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若价格跌破0.09美元或合作消息被证伪，则逻辑失效"
+    },
+    "catalysts": [
+      "Animoca与RootstockLabs合作将比特币DeFi引入日本机构",
+      "RIF作为Rootstock生态核心代币，受益于比特币DeFi叙事",
+      "24小时成交量近1.5亿美元，市场关注度高"
+    ],
+    "latestNews": [
+      {
+        "title": "Animoca, RootstockLabs partner to bring Bitcoin DeFi to Japanese institutions",
+        "impact": "利好",
+        "reason": "合作引入机构资金，提升RIF生态曝光和采用"
+      }
+    ],
+    "fundamentals": [
+      "RIF是Rootstock（比特币DeFi层）的基础设施代币，用于激励、治理和互操作",
+      "总供应量10亿枚，已全部流通，无解锁抛压",
+      "市值约1亿美元，排名276，属于中小市值项目"
+    ],
+    "marketRead": [
+      "24小时涨幅25%，成交量放大至1.5亿美元，显示资金涌入",
+      "价格接近0.10美元，接近前期阻力位，短期可能震荡"
+    ],
+    "risks": [
+      "新闻驱动上涨，持续性待观察",
+      "比特币DeFi赛道竞争激烈，RIF并非唯一选择",
+      "市场情绪波动大，回调风险较高"
+    ],
+    "watchlist": [
+      "合作具体进展和落地情况",
+      "RIF价格能否站稳0.10美元",
+      "比特币价格走势及DeFi板块整体情绪"
+    ],
+    "sourceNotes": [
+      "Binance数据因地域限制无法获取，价格和成交量来自CoinMarketCap",
+      "新闻来源为Google News聚合，时效性需注意"
+    ]
+  },
+  "profile": {
+    "id": "rif-token",
+    "symbol": "RIF",
+    "name": "Rootstock Infrastructure Framework",
+    "categories": [
+      "Solana Ecosystem",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Base Ecosystem",
+      "Rootstock Ecosystem",
+      "Outlier Ventures Portfolio"
+    ],
+    "homepage": [
+      "https://rif.technology/",
+      "https://rootstockcollective.xyz/"
+    ],
+    "description": "Built to compliment Bitcoin, not compete with it. RIF is designed to accelerate the adoption of Rootstock, Bitcoin’s DeFi Layer by powering incentives, infrastructure and interoperability. RIF is the easiest way for anyone to shape and share in the success of Bitcoin DeFi. RIF powers community rewards, governance and grants, on RootstockCollective, the home of the community on Rootstock. RIF underpins key infrastructure powering Bitcoin DeFi on Rootstock including USDRIF, a censorship resistant stablecoin and RNS for simplifying wallet addresses. RIF gives the wider world of Web3 exposure to the success of Bitcoin DeFi on Rootstock through availability on the top exchanges, leading chains and largest dApps.",
+    "marketCapRank": 276,
+    "currentPriceUsd": 0.099944,
+    "marketCapUsd": 99936605,
+    "fullyDilutedValuationUsd": 99936605,
+    "totalVolumeUsd": 14999872,
+    "priceChange24hPct": 24.98348,
+    "priceChange7dPct": 24.95931,
+    "priceChange14dPct": 43.27926,
+    "priceChange30dPct": 37.33081,
+    "athUsd": 0.455938,
+    "athChangePct": -78.15864,
+    "circulatingSupply": 1000000000,
+    "totalSupply": 1000000000,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 9208,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "RIFUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RIFUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RIFFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RIFFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RIFUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RIFUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RIFBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RIFBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Top Binance Alpha Tokens | Live Alpha Crypto Prices Today - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zNnVqYU8wT2lOLTFfb2E0WFl4ajZkU1U3ZFZiRXQ0cFNOVUQ0VUdac21UQkFFaXNhb0RoUHVHYlBJT052QmZ3Q3dmRU9pV3FUNEFBUm91YXF2MEtVNEE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 02 Oct 2025 18:13:22 GMT",
+      "snippet": "Top Binance Alpha Tokens | Live Alpha Crypto Prices Today&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Rootstock Infrastructure Framework price today, RIF to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53QlNpOXlLVlk4d25haHVMU2Q2bTNubUtOWE9tVHhfWl9oa25qcUVRMmpJT2JTOEwyNzRKOENQalhoNm92R3ozT29iR3p5cHVWTG1IQW9SUWY2ejZ4dnBKZVNWYmRhcGhLQVlPZUl6Rmx0UnEw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 02 Mar 2020 22:26:44 GMT",
+      "snippet": "Rootstock Infrastructure Framework price today, RIF to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Price of Rootstock Infrastructure Framework RIF today in EUR – Quotation and market trends - Bit2Me",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vZ2MzWjlMM09TSGdIaDhtczRxQnlaZ2o4V0JCMmtKT3VaQ2hKMlN3SzBCbjc0QVRnMG1uSzk2OC1kR1o5MF9LVlRoRjNkRVdyOXZRVl9TeXhlaG96WUxLRTVSYlRJbEN0WXo4?oc=5",
+      "source": "Bit2Me",
+      "publishedAt": "Thu, 07 Nov 2024 13:11:45 GMT",
+      "snippet": "Price of Rootstock Infrastructure Framework RIF today in EUR – Quotation and market trends&nbsp;&nbsp;Bit2Me"
+    },
+    {
+      "title": "Rootstock Infrastructure Framework Price, RIF Price, Live Charts, and Marketcap - Coinbase Spain - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sN2NadWcyOHp4Y1NtOThCWmh5UEo5aWExVTRpRWh1U09mekhkWWh3bkV5QmwwVE04eTZVbkIyLXNQb0xDY1ZIaE9Gb3lVWjhLRU80S1l1bmNYTWdReEZJc2doUVRBR3lncVlmNHFoSWlvR0U?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Thu, 11 Apr 2024 22:10:53 GMT",
+      "snippet": "Rootstock Infrastructure Framework Price, RIF Price, Live Charts, and Marketcap - Coinbase Spain&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Rootstock Infrastructure Framework price today, RIF to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zZE54aUF2TG03LWVaTmNxdEdlc2JpajlwU2s3eUJXNlhyUnNaVG5pUXBJNkZCUEVWbGMzbndnTXhYSkczQUFwb2pn?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 25 Nov 2024 00:13:28 GMT",
+      "snippet": "Rootstock Infrastructure Framework price today, RIF to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "RIFUSD Charts and Quotes - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1YTB2czRwLXpIVjVvYTktQk9xaDFqbmY2OUdqNWVoNlJlODBYOUQzRzhDYVFhY09CcVVXS2tOdW9Edi0xQ1ozWFI1VGRvRXJPRG16akRB?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Sat, 19 Jan 2019 13:11:17 GMT",
+      "snippet": "RIFUSD Charts and Quotes&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Rootstock Infrastructure Framework price today, RIF to USD chart, marketcap and volume - CryptoSlate",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MU1YwWm5OTjlUTmUxUnV0ZW9BUWxZby1weDNyQVp3YmJwTHVTa0xvMXBxSEFRLVdhZ2otX2dmRWw3Nk1HNVJ5a0Z4WjdZWlQ2RVZPblMzZlpwalY4ekxpMWVpWmN2UkRlN3BR?oc=5",
+      "source": "CryptoSlate",
+      "publishedAt": "Thu, 05 Mar 2020 16:32:26 GMT",
+      "snippet": "Rootstock Infrastructure Framework price today, RIF to USD chart, marketcap and volume&nbsp;&nbsp;CryptoSlate"
+    },
+    {
+      "title": "Rootstock Infrastructure Framework Price Today | RIF to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ObXg3ZlVpUnYweWZGVkVRem5BdlN0OS12RTJocmljNVRyeGhiVHdHQ2w4RlZnSXd2RTFFYkxPV2lhbjk2OGVEZnFLTlNxVG5wNkZKaUtfS185TVNaNUxLRktuYVl0MUZhWWxBYmFR?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 09 Jan 2022 07:47:22 GMT",
+      "snippet": "Rootstock Infrastructure Framework Price Today | RIF to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Rootstock Infrastructure Framework Price, RIF Price, Live Charts, and Marketcap - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDN1Z6RkZpOE1POVpsYjJENF9XSk5uMUo0N0hUbzY0RXdIRGNfTjFrT0tGb0Y3enRpMFNqQmRteVplNER0eWhydHlPQ2p0VDU3bUdlbVRhcmtVYldxMzIwSlJDdmxEQlFKN1BQUzJhbmJQRjQ?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Sat, 20 Jan 2024 00:00:54 GMT",
+      "snippet": "Rootstock Infrastructure Framework Price, RIF Price, Live Charts, and Marketcap&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Rootstock Infrastructure Framework Price USD, RIF Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBreFpEUktoNTJZd3ZYa2M2VUl2MFVzcVpzY1BPbWpTVGg4TEJuSVlmX2lPS0hRWmFoVS03MDhleXBEU0xkWkg3WGU0UkIzRjVqSDRxVm5wY2syMmxhRWh4RUNQT3lFRzVZNTJ0REVrX04?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 18 Aug 2023 06:45:43 GMT",
+      "snippet": "Rootstock Infrastructure Framework Price USD, RIF Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Animoca, RootstockLabs partner to bring Bitcoin DeFi to Japanese institutions - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVTJQdXdfRjRRdjA4N0xZVHlPSktPQjQ2ZlF1LVJYbDZQYXB0N0R1bXpZeWV5MW5qdWwwODBFMG1fazNpTkxfZE8wLW1HTkllYjFGTE4yRUdtSnFObGRSaXpuZzk2Y01ha0ZNSE1qNkJISFdabDVuTTlDZmN1TGxTdVoxNU9UV2hMeFFjV2hQOEozbS1xeEpKYTd4M0Y3dE9zTHRleUVibDNuMmFPREYzOGROZFlLM1JoVmozSUt2cEhDQTZMVVpCRFJXWVBfVXpsYi1BWkdRVQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "snippet": "Animoca, RootstockLabs partner to bring Bitcoin DeFi to Japanese institutions&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Rootstock Infrastructure Framework Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast - Binance",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pd3I3YVBnZWxxZVVzVnlEQVpJNWNQQVFPQmZsWlVRTGZqb2hsMWRRbHd5VWUwU0VXUVBhMzlIcU1DcGNwN2dPYzJDUnd4OGd1RGpGa3ptVHJ2czFNLXNkd0NPYkdTUTZkaG9HMlRPMkRCbmNLcXRmMldtZ3c?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 10 Nov 2022 00:03:25 GMT",
+      "snippet": "Rootstock Infrastructure Framework Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
