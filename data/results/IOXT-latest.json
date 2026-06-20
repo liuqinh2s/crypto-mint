@@ -1,0 +1,102 @@
+{
+  "token": "IOXT",
+  "exchange": "binance",
+  "generatedAt": "2026-06-20T13:39:34.140Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "IOTX",
+    "name": "IoTeX",
+    "generatedAt": "2026-06-20T13:39:29.635Z",
+    "summary": "数据获取受限，无法分析上涨原因。仅能从新闻标题推测IOTX为物联网概念代币，但缺乏实时行情和基本面数据，无法给出有效评级。",
+    "rating": {
+      "score": 0,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "数据不足，无法设定失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "IOTX coin price prediction: What is the Internet of Things’ future? - Capital.com",
+        "impact": "中性",
+        "reason": "仅为价格预测文章，无实质利好或利空信息"
+      },
+      {
+        "title": "IoTeX Price: IOTX/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+        "impact": "中性",
+        "reason": "常规行情页面，无新增催化"
+      }
+    ],
+    "fundamentals": [
+      "IoTeX是物联网区块链项目，但本次未获取到项目资料"
+    ],
+    "marketRead": [
+      "Binance API返回451错误，无法获取行情数据，可能因地区限制"
+    ],
+    "risks": [
+      "数据完全缺失，无法评估任何风险"
+    ],
+    "watchlist": [
+      "需使用其他数据源获取IOTX实时价格和成交量",
+      "关注IoTeX官方动态及物联网赛道热度"
+    ],
+    "sourceNotes": [
+      "Binance API因地区限制无法访问，新闻仅两条且陈旧，分析基础薄弱"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "IOXTUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IOXTUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IOXTFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IOXTFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IOXTUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IOXTUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IOXTBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IOXTBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "IOTX coin price prediction: What is the Internet of Things’ future? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qSHVTT01vZVIyT05tVHdKQ21ld1l3TnZhTWd2YjhGU0ZGXzRyTWhkZ2lmV2hJRFdaNDFXSm8tbUtza2Z5bUZTQUpZZ3hyX25nZDJVLWstZklVVFFKWjd0Q0dRX1JlY0dVVm8zUXdRRU0?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Tue, 06 May 2025 12:29:14 GMT",
+      "snippet": "IOTX coin price prediction: What is the Internet of Things’ future?&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "IoTeX Price: IOTX/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAteHphSDA5aG1LRFNPa1R4OGQ0eDltVTVhOVFMejJxWHFYWVh4MmlBcHY4N2RvTDdzRUJtZ1VueUFwSXlIUVdRWVNsVHBMRU9XcVE?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 22 Mar 2018 14:56:38 GMT",
+      "snippet": "IoTeX Price: IOTX/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
