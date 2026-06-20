@@ -1,0 +1,224 @@
+{
+  "token": "ACU",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T04:32:02.153Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ACU",
+    "name": "Acurast",
+    "generatedAt": "2026-06-20T04:31:54.414Z",
+    "summary": "ACU近24小时上涨7.8%，7日涨幅11.4%，14日涨幅29.6%，但30日微跌0.08%。项目为DePIN+AI概念，利用手机闲置算力提供去中心化计算网络。市值约2556万美元，全稀释估值8748万美元，流通量约2.98亿枚，总供应10.19亿枚。近期无重大新闻催化，上涨可能为技术面反弹或市场情绪推动。",
+    "rating": {
+      "score": 45,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若价格跌破0.08美元或成交量萎缩，则上涨逻辑失效"
+    },
+    "catalysts": [
+      "DePIN+AI赛道热度持续，项目概念符合市场热点",
+      "近期价格突破短期均线，技术面偏强",
+      "CoinList Launchpad背景，社区关注度较高"
+    ],
+    "latestNews": [
+      {
+        "title": "Acurast Price Today | ACU to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格跟踪页面，无实质内容"
+      },
+      {
+        "title": "Acurast (ACU) Coin Price Prediction & Forecasts for January 2026: Rebound Potential After Sharp 50% Drop - WEEX",
+        "impact": "中性",
+        "reason": "旧闻，预测性内容，无新信息"
+      }
+    ],
+    "fundamentals": [
+      "Acurast是去中心化可验证计算网络，利用手机闲置算力为AI代理提供基础设施",
+      "支持多个生态系统：AI、BNB Chain、Ethereum、DePIN、Base等",
+      "代币总供应10.19亿，流通约2.98亿，流通率29.2%",
+      "全稀释估值8748万美元，当前市值2556万美元，估值中等偏低"
+    ],
+    "marketRead": [
+      "24小时涨幅7.8%，成交量343万美元，换手率约13.4%，交投活跃",
+      "价格从近期低点反弹，但距离历史高点0.316美元仍跌73%",
+      "无Binance等主流交易所深度数据，流动性可能受限"
+    ],
+    "risks": [
+      "代币流通率低，未来解锁可能带来抛压",
+      "项目处于早期，实际采用和收入数据不明",
+      "新闻面缺乏实质性利好，上涨持续性存疑",
+      "市场情绪波动大，DePIN/AI赛道竞争激烈"
+    ],
+    "watchlist": [
+      "关注是否有新合作或主网上线等实质性进展",
+      "观察成交量能否维持或放大",
+      "注意代币解锁时间表",
+      "跟踪DePIN和AI赛道整体走势"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko，Binance行情因地区限制无法获取",
+      "新闻多为价格页面，缺乏深度报道",
+      "无链上数据或项目进展更新"
+    ]
+  },
+  "profile": {
+    "id": "acurast",
+    "symbol": "ACU",
+    "name": "Acurast",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "BNB Chain Ecosystem",
+      "Ethereum Ecosystem",
+      "DePIN",
+      "Base Ecosystem",
+      "Binance Alpha Spotlight",
+      "x402 Ecosystem",
+      "CoinList Launchpad",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://acurast.com/"
+    ],
+    "description": "Acurast is a decentralized, verifiable compute network designed to provide infrastructure for AI agents and general secure applications. Instead of relying on traditional centralized data centers, the platform utilizes the unused processing power of global smartphone hardware. By leveraging the built-in hardware-secured enclaves found in modern mobile devices, Acurast enables developers to run distributed, confidential, and tamper-proof computing workloads. The architecture focuses on scalability and data privacy, allowing applications to execute tasks securely across a decentralized footprint. ",
+    "marketCapRank": 711,
+    "currentPriceUsd": 0.08607,
+    "marketCapUsd": 25564674,
+    "fullyDilutedValuationUsd": 87478103,
+    "totalVolumeUsd": 3432516,
+    "priceChange24hPct": 7.81755,
+    "priceChange7dPct": 11.40193,
+    "priceChange14dPct": 29.62425,
+    "priceChange30dPct": -0.07604,
+    "athUsd": 0.315928,
+    "athChangePct": -73.06815,
+    "circulatingSupply": 297781989.7,
+    "totalSupply": 1018960894.55,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 92.58,
+    "watchlistUsers": 3549,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "ACUUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ACUUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ACUFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ACUFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ACUUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ACUUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ACUBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ACUBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Acurast Price Today | ACU to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85cVhBQW41WnVWSkhla1hMbTdMSHNoMVZFTGdOd0F2TjQ2WHp2bkFfZUFqS0V5bU5oTDZOc0x1SHZCMEhNS3FsN2tMVy12XzAxNFpMTWV3?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 13 Jun 2026 19:46:00 GMT",
+      "snippet": "Acurast Price Today | ACU to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Acurast Token price today, ACU to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsLXRLSS0yRzFCWDEzRHZGUnlOcU1vdlpWcnU0RHcwTVFIbzZlUHlqMVVGWGxmYU5VNWhPWWtiLU0zS1ZWNHYtN3ZB?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 23 Feb 2026 21:35:10 GMT",
+      "snippet": "Acurast Token price today, ACU to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Acurast Price, ACU Price, Live Charts, and Marketcap - Coinbase Italy - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjZlZ1FVMFZSYWY2dDNPZWsyeWhTZGxyeF96aUlPTF9QQ1NLWXdvcjhOeC1fSFlmTFptX0YzbEd4Y3RzYmJmVEwxZUNlcmNwMkxJZTNPRGJDWDVQUURPaVlnS25ZUGpRQjNLc0pSV0t6dVg2U2JkejdSX0NMUm9Xa0lPM0ZLcHJhVEFEMVo4cW1NQQ?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Sun, 25 Jan 2026 23:00:42 GMT",
+      "snippet": "Acurast Price, ACU Price, Live Charts, and Marketcap - Coinbase Italy&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Acurast (ACU) Coin Price Prediction & Forecasts for January 2026: Rebound Potential After Sharp 50% Drop - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc0swbnJXYS1PUnNSeG9UUHNHUnNRX0RYcHdQNHFrblRYWk5PanJFdmI0ZklnWU1sY3U2bXlIek5zQ01pbEhZenR4WGRtT2QzLVpMWlRETXF1cTZRaXpld1BQRG8tYlhtSi15RHJGUjk2ZmY5VEtZZl8ycWlZWVI3S2R3R0V6bDZqcnRvWGRHbjhoODR0Ry1XelA3Q0xfWDZIQzI5elJzb2ZLNXhfemNSLXVwZlJlWUt1Z3gybEo4WWxmQ2dmN3VJaHp0LUVZUFdXdVRnaA?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Acurast (ACU) Coin Price Prediction & Forecasts for January 2026: Rebound Potential After Sharp 50% Drop&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Acurast Price Today in India | ACU to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBac3lCa3dDUXBVYjIyZ2o3SGZDM2pRenJOWU0yT0RTOVNTTy1NSUUwdVRIaVVJdUxhN19YSGRENldpRmhoRWVPY0IzZFpRSnRVZUZGV1Z3?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 15 Jun 2026 09:51:00 GMT",
+      "snippet": "Acurast Price Today in India | ACU to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Acurast Price USD, ACU Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05bkpFcWRqakxibXpQZmphWGVBbVllbFZXLVhWRmRvdlBreDNaTXl4bnFtX0VoZVFFTEFDNGQ3NVhPWDF3OVFsbW51WVY?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 13 Nov 2025 10:01:53 GMT",
+      "snippet": "Acurast Price USD, ACU Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Acurast price today, ACU to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12M2xVV1NzVkx4ZlFRdG84NDBPSDBsUHFxa0ZjTXlEZXN1Y3FQbWFWZjFyOGVQZ2toa3d3YkVwbTRlaFpPVkVvMFNwS0xDYTFSejNHb3dUNG0?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 13 May 2025 13:45:00 GMT",
+      "snippet": "Acurast price today, ACU to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Acurast (ACU) Price Prediction [2026, 2027, 2030, 2040] and more - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LS2ZYSHpfNlJ3UTBwUzJFRVZxVER6dTNsaERIcmYycjZKVVROZThkdHJTTDRmLTM1VnM5TzYxbXFRTnY4eEI5MGpMaGUzLVo1YnF5MThOdVI4U3ozUS10U1lkT1pqdw?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Sun, 07 Sep 2025 18:26:31 GMT",
+      "snippet": "Acurast (ACU) Price Prediction [2026, 2027, 2030, 2040] and more&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Introducing Acurast : Complete Guide to $ACU and Airdrop Opportunities - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQzFMcWlCRkNCNndyUmk2RG11V2VKcTlKeTh0ZmlxaWUwNEx0aXNCZDVkdnllQnN0UjlPT0pzSU1LRDRUX2Vfc3BZSGZ1RnJEX09UM1cteUdabXMzQ1dvb1JCMER2T0oyc0VwN09hZzd2R2JuanozSmd4TEVYTUpMMzFLNmFLWHZoeUJzSFpMRzkzLXA4eEMwdXR2RElVY3dOTzBKeV9BX3RyOGM?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "snippet": "Introducing Acurast : Complete Guide to $ACU and Airdrop Opportunities&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Acurast Price Today | ACU to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wbEtTbmxkeDZJV1NuVkRYbkpJbXhWQTIxRXNmLWxjY3p5X01WU3o5bzUwc0paeXJlTy1hYzFwZXQ0ZnZ4emN4NThjMzJzcGtSWHc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 23 Jan 2026 08:00:00 GMT",
+      "snippet": "Acurast Price Today | ACU to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Acurast (ACU) ICO Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10RzhpVm0xTXRaQ0NRZDNkQXpOMk9DblVYYW1LOHd5cTJ3ZnNqaU5rWktTbVUzNVQ2Vjl4NlNxVkVmblBEa1lVWg?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 08 May 2025 20:48:01 GMT",
+      "snippet": "Acurast (ACU) ICO Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Acurast Price | ACU Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EcUR2ZmFsUXZQR1YyZDJ0c3hqN193Z2pMSWNuNjM4eGJGMXBDNDhLdWJydEp2U0NvTUNYZm9PQVhOaWItbmduam9zSQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 25 Mar 2025 18:05:16 GMT",
+      "snippet": "Acurast Price | ACU Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

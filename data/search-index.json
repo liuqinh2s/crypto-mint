@@ -1,14 +1,23 @@
 {
-  "updatedAt": "2026-06-20T04:01:58.191Z",
+  "updatedAt": "2026-06-20T04:32:02.155Z",
   "results": [
     {
       "token": "PENDLE",
       "name": "Pendle",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-20T04:01:58.189Z",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T04:32:00.972Z",
       "latestPath": "data/results/PENDLE-latest.json"
+    },
+    {
+      "token": "ACU",
+      "name": "Acurast",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T04:32:02.153Z",
+      "latestPath": "data/results/ACU-latest.json"
     },
     {
       "token": "AERO",
