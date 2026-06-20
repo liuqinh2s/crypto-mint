@@ -1,0 +1,225 @@
+{
+  "token": "RARE",
+  "exchange": "binance",
+  "generatedAt": "2026-06-20T09:48:34.657Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "RARE",
+    "name": "SuperRare",
+    "generatedAt": "2026-06-20T09:48:27.728Z",
+    "summary": "RARE 24小时涨幅35%，但近期有黑客事件，基本面偏弱，NFT市场整体低迷，短期反弹可能由超跌和消息驱动，但持续性存疑。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若价格跌破0.015美元或黑客事件进一步发酵，则逻辑失效。"
+    },
+    "catalysts": [
+      "黑客事件后反弹修复",
+      "NFT市场情绪短期回暖",
+      "低市值小币种投机资金流入"
+    ],
+    "latestNews": [
+      {
+        "title": "RARE Crypto Up 35%, SuperRare Bounces After Hack",
+        "impact": "利好",
+        "reason": "黑客事件后价格反弹，显示市场消化利空，短期情绪修复。"
+      },
+      {
+        "title": "Record auction price for super rare 1907 $10 dollar coin",
+        "impact": "中性",
+        "reason": "与RARE代币无关，仅为同名新闻。"
+      },
+      {
+        "title": "Rare Aussie 'holey dollar' coin worth $120,000",
+        "impact": "中性",
+        "reason": "与RARE代币无关。"
+      }
+    ],
+    "fundamentals": [
+      "SuperRare是NFT市场，专注于数字艺术。",
+      "代币RARE用于治理和质押。",
+      "项目已转型为DAO。",
+      "市值约1390万美元，排名990。",
+      "流通供应量8.2亿，总供应量10亿。",
+      "ATH为3.64美元，当前价格较ATH跌99.5%。"
+    ],
+    "marketRead": [
+      "24小时涨幅35%，成交量2760万美元，远超市值，显示投机活跃。",
+      "价格从低点反弹，但缺乏持续上涨的明确驱动。",
+      "Binance数据不可用，可能受地域限制。"
+    ],
+    "risks": [
+      "黑客事件可能引发后续抛售或信任危机。",
+      "NFT市场整体低迷，项目基本面弱。",
+      "代币供应量大，解锁风险未知。",
+      "价格波动剧烈，流动性风险。",
+      "新闻多为同名无关内容，缺乏实质利好。"
+    ],
+    "watchlist": [
+      "黑客事件后续进展及官方回应。",
+      "NFT市场整体交易量变化。",
+      "RARE代币解锁或质押数据。",
+      "Binance等交易所的流动性情况。"
+    ],
+    "sourceNotes": [
+      "Binance数据因地域限制无法获取，价格数据来自CoinGecko。",
+      "新闻中多条为同名无关内容，需注意区分。",
+      "黑客事件细节未在数据中提供，需进一步核实。"
+    ]
+  },
+  "profile": {
+    "id": "superrare",
+    "symbol": "RARE",
+    "name": "SuperRare",
+    "categories": [
+      "NFT",
+      "Ethereum Ecosystem"
+    ],
+    "homepage": [
+      "https://superrare.com/"
+    ],
+    "description": "",
+    "marketCapRank": 990,
+    "currentPriceUsd": 0.01680614,
+    "marketCapUsd": 13927882,
+    "fullyDilutedValuationUsd": 16974684,
+    "totalVolumeUsd": 27601782,
+    "priceChange24hPct": 35.09107,
+    "priceChange7dPct": 30.67011,
+    "priceChange14dPct": 33.56551,
+    "priceChange30dPct": 2.27745,
+    "athUsd": 3.64,
+    "athChangePct": -99.53423,
+    "circulatingSupply": 820509100.5897726,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 16957,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "RAREUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RAREUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RAREFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RAREFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RAREUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RAREUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RAREBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RAREBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Record auction price for super rare 1907 $10 dollar coin - Just Collecting",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbW9BLWFNVlZnbWEtLWxYS3hpQUdDMWhlTjZhSS0wWXREU0kzREZVNXJGeTltbG5jZGhaTDJLX0NDTHRHeDZsSzUxWE11SUhmSDVTR2g1YWVFVUJUem0zUW16bjdXeGJyUV82c1JUdHJjMGJHS3lCOTQyQVBZcXdpWnF3bnZMbXBJdExObVZGV1E0QQ?oc=5",
+      "source": "Just Collecting",
+      "publishedAt": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "snippet": "Record auction price for super rare 1907 $10 dollar coin&nbsp;&nbsp;Just Collecting"
+    },
+    {
+      "title": "RARE Crypto Up 35%, SuperRare Bounces After Hack - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU2JpeGRkTEg1aDltcm41akNkYjU4OUJOMXFWYXktczFvMm5rbGNhTUhpS0I2cE1fRHIzbnRDNGhvNHE1djNaTEQ2TGF1b0R3aUItVEp6ZG5lNmtMeWduSjhnUXhKLUdPM0FvVk55b0JOaWJQNV96a2VYSHhCVkN1aHFTZGdKQ1lCdFkxbXVpUkp6V2NoRzBXN3VoTE1UQTRIVXhQVkFpMFZXV01qVGNMUGYtazBybzU0dEE?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Mon, 04 Aug 2025 07:00:00 GMT",
+      "snippet": "RARE Crypto Up 35%, SuperRare Bounces After Hack&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Rare Aussie 'holey dollar' coin worth $120,000 that’s still 'possible' to find - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFZPR3d6aVN0dXk0NExCWXd2OEdHM1dTUl8ta1hwY3FZRVJudnRCNXhic1J1c29QbE9HWFZSU0wxMU5jemN4T1RfcFJOcl93emdsX2VzOHU3S2xXRHpSV3JNV2xhbU1nLVZuUXdkaUlldWNTWlVOSU9sY0lMamlkMUxTand5Qm5oMzBoR3g2MjEyTXBkME95X3h2RE1xZzRGeXIyZmxyQnFBS1ZCN0M5WEx4cWNvZ01scTRxbQ?oc=5",
+      "source": "Yahoo Finance Australia",
+      "publishedAt": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "snippet": "Rare Aussie 'holey dollar' coin worth $120,000 that’s still 'possible' to find&nbsp;&nbsp;Yahoo Finance Australia"
+    },
+    {
+      "title": "SuperRare (RARE) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84azBldUlWbFFiQXQ2Qi0wMkppU3BRRTNONnVlRmU0ZmcyS01VQW5ZSjdoekpOVW9ORC16emlGMTk4SFhoalh1RTNROU9PLUJzbXlFVHlvaVZUYXhxdjdFS2RjWW45N2NMaFViMQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 15 Sep 2022 20:52:50 GMT",
+      "snippet": "SuperRare (RARE) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "SuperRare price today, RARE to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wX2M0OHgwb2xaWGEzZUlscjlEOHQwR2cxd3RxNmplaUJJem53Q0g3dHRtd0ZmSHlHbUt6bHBfamtKVUVkVlNzX1dGTDZndWJ3ZHc?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 14 Jul 2022 03:11:28 GMT",
+      "snippet": "SuperRare price today, RARE to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "10,000 RARE to JPY: Convert SuperRare (RARE) to Japanese Yen (JPY) - Revolut",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80Qzc5QzJ2aEd6V1F6SkJHRkxLdDF5QnQ4cXNLMVhUQ2lfOF96WERHdkZyNWdQWGhmQW5qS3NXUGhTN3JLcDB3ck9QUmllZEJ0MFNkY2hGdy1MY0FLYlV5akNDM1V1cDVCOTRIbGRpNA?oc=5",
+      "source": "Revolut",
+      "publishedAt": "Mon, 17 Nov 2025 09:46:29 GMT",
+      "snippet": "10,000 RARE to JPY: Convert SuperRare (RARE) to Japanese Yen (JPY)&nbsp;&nbsp;Revolut"
+    },
+    {
+      "title": "How to Create an NFT: NFT Marketplace Guide for 2026 - Coursera",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQTTcxNEVSYWFTVnNFdlQtakZobkVhdy1lYzFsZGZINEkxUE9FX0U2a3ItU0QyUXZRRGJIV293QnFTaWhFNW1KdUFvZnBKN2ZaRlg5OEV2SHhwOXFhRUY0bGF4ZWo?oc=5",
+      "source": "Coursera",
+      "publishedAt": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "snippet": "How to Create an NFT: NFT Marketplace Guide for 2026&nbsp;&nbsp;Coursera"
+    },
+    {
+      "title": "What is SuperRare(RARE)? How To Buy RARE Token In India? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45cVRRWTN0emFzQ29pM2Izb2F0a1l1MHZqeE94cExJQ21GNW1iYkc3M05ZLUdNZTc5STFhdUNRUzhUN1R6VjZHbGNRdlNEdm96cXo3VU8zbzBQa2lmd3puU05R?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Thu, 30 Mar 2023 07:00:00 GMT",
+      "snippet": "What is SuperRare(RARE)? How To Buy RARE Token In India?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Binance Alpha News: OpenGradient's $636M Volume Mystery, BUILDon at +201%, and Alpha Box Goes Tiered - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOGhEcDY1dHUwU3dhcHZXM1BYQ3NnSW5XdmVkTXp1MGRSMnB4WjFmeUd6WmhVLS1sajNhQlVVcXMxWm10UXdrZWxLSWNKbFdsbWNod1BsZUZRWDJ3UmxneVc4M21IV3d1cXFNcjFwRnNaNnZ0VUdKVVJrYmtFcjBkOW5ydG1uWHVmM0dMYVJjVnBVV1hOY0lsNklHeHlJb3duYXlBdGktZzZ2M0tYWUlGekoyS2pZLUhnd1c4dEFndzNnM1VTLXNSTlFjbWZqRE1OcExzYkhZQ0xOVTBjQTZoZm1B?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 01 May 2026 19:59:55 GMT",
+      "snippet": "Binance Alpha News: OpenGradient's $636M Volume Mystery, BUILDon at +201%, and Alpha Box Goes Tiered&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Top NFT Projects To Expect A New Breakthrough On Ethereum - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByWmZlSFRxTHNCQUJTOHoxTzItVHcwRjFlTUU5SUUxT0FMc0ZJZExxLTZXMGhqTVk4R0NOZHpKTFlHLXRrLTRKWHNKRjdGZ04xZWZ3WWswdEdEaEo3NHdRblBXT05oT2tkRTQ5cUhPNGRubEV6NFBUWWVB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sun, 11 Jun 2023 07:00:00 GMT",
+      "snippet": "Top NFT Projects To Expect A New Breakthrough On Ethereum&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "The Co-Founders of SuperRare Tell Us How and Why Their Incredibly Successful NFT Platform Became a DAO - Artnet News",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UNTBoMUgwaEh3cmxsSFdtSm1fZDBLZHpJcnNuQU44Z0hRTkhSV2lsbDBTaEcyUEt2UDBPdERnSk5ZdWNyZ25WcUZydE0xaFY4eFVlX1Q5MWpGOHBtMS1wS2llb0xOcm550gFwQVVfeXFMTXl3VmZsbnZ3UXNKbnYxUlpVRjktMEF3QzBiWUlUMktlR0hkanJmS1U0ZTBxT0JYNlM1NWd1Mm9INkdub0czY0gwQkhNNE9FSTlYZVlZOGNSTjFqVnAxUDBENnJCekpBMWZ1aHFTTVZfQw?oc=5",
+      "source": "Artnet News",
+      "publishedAt": "Wed, 16 Mar 2022 07:00:00 GMT",
+      "snippet": "The Co-Founders of SuperRare Tell Us How and Why Their Incredibly Successful NFT Platform Became a DAO&nbsp;&nbsp;Artnet News"
+    },
+    {
+      "title": "Ultra-rare 50p coin worth hundreds more than face value and it's not Kew Gardens - Plymouth Live",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUDhSQzhkR2VZS21uSmNFWldQVGNQc3VTa2VMemFOeF9BOFkxSE5RczM5dktIeDJJWjUzdVFkSXdWbHNEWEh6MkJOT1dTT05uVld6VXJBdklXYWthSGx3X21rZmp4a2JYUG50NUo1aTNiZ3dwVjBWYV96R3V0MzU1NlZ6NHJOazQwcjNXYWRCc9IBlAFBVV95cUxPa2JrQzB6dG5ISW9XV2xjZlJUck84cU93RDZWSnBRMTdORm5KaVoyc1B1bmJfa25hMmxHbkphMEJZb0prUVpSU1FWbUJHYWdIMzFWU3lBQ1J6c0VjYXBxVGd1dHNrYUFKRjVDQnN1WmtYTFhiTFBOcXE2SE9RZVhudG1ZNDI4STNUckFNVDA2MmotVW81?oc=5",
+      "source": "Plymouth Live",
+      "publishedAt": "Wed, 13 Aug 2025 07:00:00 GMT",
+      "snippet": "Ultra-rare 50p coin worth hundreds more than face value and it's not Kew Gardens&nbsp;&nbsp;Plymouth Live"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
