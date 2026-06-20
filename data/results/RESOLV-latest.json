@@ -1,0 +1,228 @@
+{
+  "token": "RESOLV",
+  "exchange": "binance",
+  "generatedAt": "2026-06-20T23:25:47.425Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "RESOLV",
+    "name": "Resolv",
+    "generatedAt": "2026-06-20T23:25:39.079Z",
+    "summary": "RESOLV 24小时涨幅24%，但近期遭遇严重安全事件（3月被黑损失8000万美元），价格从ATH跌超95%。基本面受损，市场情绪脆弱，短期上涨缺乏明确催化，风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非项目方公布重大利好（如新融资、合作伙伴或修复方案），且价格突破关键阻力位，否则逻辑持续失效。"
+    },
+    "catalysts": [
+      "24小时涨幅可能由短期资金博弈或低流动性拉盘导致",
+      "Binance HODLer空投可能带来部分买盘",
+      "Coinbase Ventures等机构背书（但已被安全事件削弱）"
+    ],
+    "latestNews": [
+      {
+        "title": "Resolv Labs hacked, DeFi projects exploited once again.",
+        "impact": "利空",
+        "reason": "3月黑客事件导致8000万美元损失，严重损害项目信誉和代币价值。"
+      },
+      {
+        "title": "Resolv’s USR stablecoin depegs after $80M exploit hits supply",
+        "impact": "利空",
+        "reason": "稳定币脱锚进一步打击市场信心，可能引发连锁反应。"
+      },
+      {
+        "title": "Resolv Labs Burns Stolen Tokens After $34M DeFi Breach",
+        "impact": "中性",
+        "reason": "烧毁被盗代币是积极举措，但无法弥补整体损失和信任危机。"
+      }
+    ],
+    "fundamentals": [
+      "Resolv是DeFi稳定币发行协议，支持BNB Chain和Ethereum",
+      "总供应量10亿，流通约4.09亿，FDV约1818万美元",
+      "ATH 0.4085美元，当前0.01818美元，跌幅95.57%",
+      "Coinbase Ventures、Delphi Ventures等投资，但安全事件后价值存疑"
+    ],
+    "marketRead": [
+      "24小时涨幅24%，但成交量1.77亿美元相对市值744万美元偏高，可能存在操纵",
+      "价格远低于ATH，且30日跌幅37%，趋势仍偏空",
+      "Binance数据受限，无法获取完整K线，流动性风险高"
+    ],
+    "risks": [
+      "严重安全事件（8000万美元黑客攻击）导致信任崩塌",
+      "价格从ATH跌超95%，存在归零风险",
+      "低流动性下易被操纵，买卖价差大",
+      "新闻多为利空，缺乏正面催化",
+      "代币解锁风险：总供应量10亿，流通仅4.09亿，未来解锁可能带来抛压"
+    ],
+    "watchlist": [
+      "项目方是否发布修复方案或新融资",
+      "稳定币USR是否恢复锚定",
+      "代币解锁时间表",
+      "Binance是否上线更多交易对或恢复数据"
+    ],
+    "sourceNotes": [
+      "Binance数据因地域限制无法获取，价格和成交量来自CoinGecko",
+      "新闻主要来自3-4月，近期无重大更新",
+      "市场解读基于有限数据，需谨慎"
+    ]
+  },
+  "profile": {
+    "id": "resolv",
+    "symbol": "RESOLV",
+    "name": "Resolv",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "BNB Chain Ecosystem",
+      "Ethereum Ecosystem",
+      "Coinbase Ventures Portfolio",
+      "Stablecoin Issuer",
+      "Delphi Ventures Portfolio",
+      "Binance HODLer Airdrops"
+    ],
+    "homepage": [
+      "https://resolv.xyz/"
+    ],
+    "description": "",
+    "marketCapRank": 1327,
+    "currentPriceUsd": 0.01818454,
+    "marketCapUsd": 7444601,
+    "fullyDilutedValuationUsd": 18183462,
+    "totalVolumeUsd": 17673775,
+    "priceChange24hPct": 24.24175,
+    "priceChange7dPct": 5.6617,
+    "priceChange14dPct": 6.57357,
+    "priceChange30dPct": -37.35607,
+    "athUsd": 0.408541,
+    "athChangePct": -95.57191,
+    "circulatingSupply": 409416036.012738,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 3630,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "RESOLVUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RESOLVUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RESOLVFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RESOLVFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RESOLVUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RESOLVUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RESOLVBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RESOLVBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Resolv Price Prediction 2026-2031: Can It Reach $0.18 by 2026? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ndmJFaVgzdm1USzh0UkEwWFdfRzdpd20zT3RnQmVfMmtkbmhYY0RMVTdRYmRLaVY0dUFQSkZJQnJJdjZ5Y3lvU3EyXzByZS13UUdXN0U3VllTYUpHdklCajJsRjhrYkhETmFHeWlTa2F3ZVQ3cHc?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "snippet": "Resolv Price Prediction 2026-2031: Can It Reach $0.18 by 2026?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Resolv says no assets lost as DeFi protocols respond to $24M USR exploit - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYmhGUnphbDFDMDlNVDhWdGZoT3U4U2xjbS1waWg0ZXB4WjZBZVNQV0YtMjI1QzQ3cFhEWVYxY1o3LVZyZ2lwUVVNWTNWaGtCd3lERHJ2Z29WT1M1SV9qb3A4TnpsY084cXVZY090a3dabTAyellxOXBGYXVydDVQRGxHZ0ViTF9VZkRySF8tRldDeXN0UkZUd1FoVjBaajFSU05CT09GZS1KOVVqQ2RPd0k5NVRtUTkyZ0RYclg0UUpIMHBnUWR6QndaMnUwVmZJ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Sun, 22 Mar 2026 07:00:00 GMT",
+      "snippet": "Resolv says no assets lost as DeFi protocols respond to $24M USR exploit&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Resolv Labs hacked, DeFi projects exploited once again. - PANews",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZSHU4VHFCNnNqSHJPMUZWQW1KWm1SdWNEVURjVFJlTkZFbHR3eUhRS0hFU0FCbXd1M2k1YjZYNlBDYXRxbllhSE1nNjhFb3dPYzdrOHhFcEFsbmF3LVFqcDRJWFZUUGR3OFRNQk45M185azBjUEZYNVY3TVVhYkk?oc=5",
+      "source": "PANews",
+      "publishedAt": "Sun, 22 Mar 2026 11:57:16 GMT",
+      "snippet": "Resolv Labs hacked, DeFi projects exploited once again.&nbsp;&nbsp;PANews"
+    },
+    {
+      "title": "Resolv Labs Burns Stolen Tokens After $34M DeFi Breach - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmdOT3ZJRFFiSnlzbkpjaFB5VWwzajhvV2hibFkzQVpOUm1KcmU1YW9paXBnOC0tOF9TTDlVd0VWdWNvWlUwTkdDTEtIQmRaYURGZWxXbzUzR3RLS3ZnbHU2alExdU5CUm9PdXdqMlNiX3NBNENMSWhSLWhiNWI1NjdFUHQzVVdULXUtcmxvM0NlRy1qcVE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "snippet": "Resolv Labs Burns Stolen Tokens After $34M DeFi Breach&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "A hacker just created $80 million worth of fake stablecoin and walked away with $25 million - Cybernews",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd01YUkxac1k2eHBsRlg3QjR4Xy1jOWVOUGVwdE1SMjlNTjRHdThKbUlQYjczNWFubXpycllBYWJrX1U5QlNLc2ZaV2hxWGV5UUVOOExxMExJTUxjM1d2aEdqeG92dmtCbThaczJxNGtiNWhlNGFjRVBDMkFHNmZLR1N5bEVMMVVUdVdmM2RXcVJEN3c?oc=5",
+      "source": "Cybernews",
+      "publishedAt": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "snippet": "A hacker just created $80 million worth of fake stablecoin and walked away with $25 million&nbsp;&nbsp;Cybernews"
+    },
+    {
+      "title": "Resolv’s USR stablecoin depegs after $80M exploit hits supply - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JWTlXamE1TFV6RW8wNXVHbl91ek1iYzlwUHU4SnJUZ3RnWWRrOTFOUy0zSnd1ZVhxV1RqVlZGdmxaZWVGOG5KQkRjaVRhRVduV0dKSHRiTEVUQQ?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Sun, 22 Mar 2026 07:00:00 GMT",
+      "snippet": "Resolv’s USR stablecoin depegs after $80M exploit hits supply&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Best Crypto Presale: Pepeto Goes Live With 1000x Potential While Resolv Exploit Hits $24M and BTC... - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XWWZlbGhYcGo3VDh0OTNpZ25ITGlSdTJ2OTllNjdyRF9FTkxHRWswZkN5YmJzNEo1ZW9PeEJ2QUdsUlNVbS1aOTVSN2ZocUVqR0txYS0xLS1oZWMtbU51eTYwMlo?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "snippet": "Best Crypto Presale: Pepeto Goes Live With 1000x Potential While Resolv Exploit Hits $24M and BTC...&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Biggest DeFi Hacks and Exploits of 2026: $1 Billion+ Lost and Counting - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbk9wTmRMdzhqUW04T1dyM1dwbEVYNnU0U21uenoyN0J2U1VoOC1pRC1zQU1uanA1N0xzb1UySWQzSUZDYkhGenRmM1NWc1ZQZDR3aVluX1h2aU9zZElybVVHV3hiQmYxTE1oV19WcE1iZExIQlJnYXFRSlNXanNSVDNBNER4VklVMHo0?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Tue, 19 May 2026 07:00:00 GMT",
+      "snippet": "Biggest DeFi Hacks and Exploits of 2026: $1 Billion+ Lost and Counting&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Resolv Price: RESOLV/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IQTM3RGFLcG9tTVdKaWNkZmtVUVVISzFnMC1jUnhidzdDa0J3dFNwMzI2ZTJ5cUJYN1B6YmlhZ0ZMbkVaM2Rubm11WUpVX01vbkRB?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Wed, 28 May 2025 15:41:27 GMT",
+      "snippet": "Resolv Price: RESOLV/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Resolv price today, RESOLV to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zR0tEajNTNHB0bkNFQ0ZEY1hCcGxmMHh6UXRrd3ZnQmpNbTVFUmVXUnBBa3g3VlV1Qm1oZmxNTWszem82QUdldXZhT21pRW1lcWJlelFzbw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 04 Jun 2025 08:43:29 GMT",
+      "snippet": "Resolv price today, RESOLV to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Resolv Protocol Hack: Devastating $80M Unauthorized Mint Exposes Critical Private Key Vulnerability - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLLUFrWEtDVFlVck1QRmM5SzUwTDgwWFhUenRvWlkzeW5kZUhuN09hbktIZGFBQTFvVF9TbEprUDVRZUU0eXFwR2cyVFR0N054eTZ5ZjIwcFlraFRlc0s2cmJVYTVZaFBQRHl1aGxadzVJU1JjSUE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "snippet": "Resolv Protocol Hack: Devastating $80M Unauthorized Mint Exposes Critical Private Key Vulnerability&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Resolv Stablecoin Protocol’s Token Debuts at $300 Million Valuation - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTnUtTlJiazZqdEoxRXdjVWwzaTNjRzBkYzltWjJCT3N3NU5nUE1laDZuMUo5cFh2Z2lla0RYOWJGQmtCRkpmT016VDB4X3kxcVpoa2pQT2ZXV0Z6RVFSeUxseFZ0anhVbmpCU2FjS1BwVmFkNmJtelF0WlQxSktJd3hBU01VRmRKMEpwc0kzaDBhVmNzblRFanFZVklxYzViakpr?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Tue, 10 Jun 2025 07:00:00 GMT",
+      "snippet": "Resolv Stablecoin Protocol’s Token Debuts at $300 Million Valuation&nbsp;&nbsp;thedefiant.io"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
