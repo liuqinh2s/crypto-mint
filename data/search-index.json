@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-20T22:26:07.702Z",
+  "updatedAt": "2026-06-20T22:30:33.255Z",
   "results": [
+    {
+      "token": "RIF",
+      "name": "Rootstock Infrastructure Framework",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T22:30:33.253Z",
+      "latestPath": "data/results/RIF-latest.json"
+    },
     {
       "token": "SLX",
       "name": "Solstice",
@@ -90,15 +99,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-20T13:14:41.687Z",
       "latestPath": "data/results/RE-latest.json"
-    },
-    {
-      "token": "RIF",
-      "name": "Rootstock Infrastructure Framework",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-20T13:04:43.340Z",
-      "latestPath": "data/results/RIF-latest.json"
     },
     {
       "token": "RARE",
