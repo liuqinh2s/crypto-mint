@@ -1,0 +1,230 @@
+{
+  "token": "BLESS",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T01:13:21.159Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BLESS",
+    "name": "Bless",
+    "generatedAt": "2026-06-20T01:13:13.409Z",
+    "summary": "BLESS近期因DePIN叙事和Binance Alpha关注度上涨，但团队此前抛售导致暴跌，基本面尚可但供应量大，短期涨幅已高，风险较大。",
+    "rating": {
+      "score": 35,
+      "label": "谨慎试仓",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": 20,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若跌破0.007美元或出现团队/大户抛售迹象，则逻辑失效"
+    },
+    "catalysts": [
+      "DePIN赛道热度回升",
+      "Binance Alpha Spotlight listing预期",
+      "社区空投活动可能吸引新用户"
+    ],
+    "latestNews": [
+      {
+        "title": "Bless Price Today | BLESS to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格跟踪页面，无新增信息"
+      },
+      {
+        "title": "BLESS Token Plunges 55% in Devastating Team Sell-Off: On-Chain Data Reveals $3.8M Move - CryptoRank",
+        "impact": "利空",
+        "reason": "团队抛售导致价格暴跌，市场信心受损"
+      },
+      {
+        "title": "Can BLESS Coin Reach $1 in 2026? Price Outlook - WEEX",
+        "impact": "中性",
+        "reason": "预测文章，无实质催化"
+      },
+      {
+        "title": "BLESS (BLESS) sees 51.8% volatility in 24 hours: Team's sale of 300 million tokens triggers sharp drop - Bitget",
+        "impact": "利空",
+        "reason": "高波动性及团队抛售，风险警示"
+      }
+    ],
+    "fundamentals": [
+      "Bless Network是去中心化计算平台，利用闲置设备算力，属于DePIN赛道",
+      "项目前身Blockless，2022年成立，总部旧金山",
+      "总供应量100亿，流通18.4亿，流通市值约1537万美元，FDV约8348万美元",
+      "代币用途：支付网络计算资源、节点质押等"
+    ],
+    "marketRead": [
+      "24小时涨幅25%，7天涨幅49%，14天涨幅92%，短期涨幅巨大",
+      "成交量654万美元，相对市值较高，换手率约42%，交易活跃",
+      "价格距历史高点0.218美元下跌96%，当前处于低位反弹"
+    ],
+    "risks": [
+      "团队此前抛售3000万枚代币，存在继续抛售风险",
+      "总供应量极大，解锁压力未知",
+      "DePIN赛道竞争激烈，项目差异化不明显",
+      "新闻多为旧闻，缺乏近期实质性利好",
+      "价格波动剧烈，流动性风险"
+    ],
+    "watchlist": [
+      "团队钱包动向及链上大额转账",
+      "Binance是否上线现货交易对",
+      "项目方公布新合作或产品进展",
+      "DePIN赛道整体市场情绪"
+    ],
+    "sourceNotes": [
+      "数据来源CoinGecko，新闻来源Google News聚合，部分新闻日期较早",
+      "Binance API因地区限制无法获取实时行情，价格数据来自CoinGecko",
+      "团队抛售事件发生在2026年4月，距今2个月，影响可能已部分消化"
+    ]
+  },
+  "profile": {
+    "id": "bless-2",
+    "symbol": "BLESS",
+    "name": "Bless",
+    "categories": [
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "DePIN",
+      "Binance Alpha Spotlight"
+    ],
+    "homepage": [
+      "https://bless.network/"
+    ],
+    "description": "Bless Network is a decentralized computing platform designed to transform idle capacity from everyday devices into a global shared computer. Founded in SanFrancisco, USA, under the name Blockless in 2022. By leveraging laptops, desktops, and mobile devices, Bless enables applications to access distributed computing resources directly from their user base. As moreusers join, the available network capacity scales proportionally, creating a self-sustaining infrastructure layer. The network is built on its neutral application framework (nnApp) and nested node infrastructure, which allow developers to deploy compute-intensive applicationsacross heterogeneous devices. This model reduces dependence on centralized cloud providers, a common bottleneck for decentralized ecosystems.",
+    "marketCapRank": 947,
+    "currentPriceUsd": 0.00830828,
+    "marketCapUsd": 15374208,
+    "fullyDilutedValuationUsd": 83479584,
+    "totalVolumeUsd": 6541119,
+    "priceChange24hPct": 25.35222,
+    "priceChange7dPct": 49.29941,
+    "priceChange14dPct": 91.8712,
+    "priceChange30dPct": 58.1626,
+    "athUsd": 0.218135,
+    "athChangePct": -96.23631,
+    "circulatingSupply": 1841666667,
+    "totalSupply": 9999966783.509287,
+    "maxSupply": 10000000000,
+    "sentimentVotesUpPct": 20,
+    "watchlistUsers": 5018,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "BLESSUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BLESSUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BLESSFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BLESSFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BLESSUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BLESSUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BLESSBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BLESSBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Bless Price Today | BLESS to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PMHhJQnViblJubkRFVlo3VHFlZ2pmcU5KdHlvQnZUVzIwMTAyY1lGcHgwWHAzbVVYOTE3U3d4V2Q0T0ZncmNHQWpXeENQQzl3TzBN?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 16 Jun 2026 03:09:00 GMT",
+      "snippet": "Bless Price Today | BLESS to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "BLESS Token Plunges 55% in Devastating Team Sell-Off: On-Chain Data Reveals $3.8M Move - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YVmlZZnUwSWJBYzNXTGd5VVVXVjUzWkR5U3FQMUtCUWtOakJwZXEwN3FIUXZoZkZaeDg0NVpaQlFOekIzN19CMmctUHpXaUpKWWxCZ0lSYTRnekVvcGoxMDc5T2VPeld6OGtMd3RpQkYxdk1jczRNY0NB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "BLESS Token Plunges 55% in Devastating Team Sell-Off: On-Chain Data Reveals $3.8M Move&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Bless Token price today, BLESS to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MXzVPOXcxalk5dXozVDFJSE5HZFdUNzBTM0JjcHREWkxHbEkxd2xPMnBpUlE0c3pKMk1xMHpSbjAwY0NYN21WV2czazd1eFp2eFJwNw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 30 Sep 2025 00:27:27 GMT",
+      "snippet": "Bless Token price today, BLESS to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Can BLESS Coin Reach $1 in 2026? Price Outlook - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVY4YzFZdEJzMHU3RWhCX2J1YVlISjFiWU4weG45dmRncGJwWUFwUzBuOFFkeDNMTGFtMXVHN1Vvcmc4RkNhTVZIMVRTb3lLSlp5QVBRbnJsMEtFcTFlMDJtX3FjUlVUVm1qY1plWUF2QW44d3p6aFkwNWQ3b0ZZamt1SGpqeXRHaVY0Sg?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "snippet": "Can BLESS Coin Reach $1 in 2026? Price Outlook&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Bless Price Today in India | BLESS to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iMDJzWTY5d2trQnItdXE3TXRucS1pR2w4UnF5OFptMWx5eGwzUHlsOVM0Z3hEM2pvcHJkRWs2bmFVR1oxYjl0UlJBci1YaV9paGdn?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 14 Jun 2026 15:41:00 GMT",
+      "snippet": "Bless Price Today in India | BLESS to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "BLESS (BLESS) sees 51.8% volatility in 24 hours: Team's sale of 300 million tokens triggers sharp drop - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XcjZDRUlzUUtpTmpDaHg1WE01S0drTkJBWkFqRUxzc0VCemxYeFd5NXFXWWdqUGtFUmdMdzU1aGdpUmtoVEpUTVZEN2JGLUdZLVNjaTZHaXRDaUNDalHSAWNBVV95cUxNMUxqOVpEcENFczUwRTczVnlsMXF0Y3N0LTdHZnFWOEVOOERSUnZuTzNOS1ZLbHlZVDE1MEV4WnJ5Wmw0cFA2ZDBvcnBqeU1Iajc0dE8tZVV5M1NZUF8yNzJKaDg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "snippet": "BLESS (BLESS) sees 51.8% volatility in 24 hours: Team's sale of 300 million tokens triggers sharp drop&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What Is Bless? Unlock the Future of Decentralized Computing - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSTlNRdGFpNElIZHJlZDVqeTFJVXdkaWNjOGIxSkFMeEMtcmpjY2J3MkZLeTNUVC1RUl96blJmQ1ZxN1JTNl93UW02OWxVZWswYy1SVEpsRGc5bE5LYnQ1RWNhR0EzVzZqOWVzcg?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "snippet": "What Is Bless? Unlock the Future of Decentralized Computing&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "What is Bless (BLESS) Coin: A Comprehensive Guide to This AI-Powered Crypto - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0JXVDNZTDdiSkRPN1lEdGxKZ0gweFU5VV82Tm9pbGVXTElrN0l5c192ejE3amFqa1dHNk5XS0pjZVhib3pJbk1pV3lDVkgwa2p2Y3dzTmpTS09xcVlQbGcwUUNHSnY3WlBzYWlJazhjSjFJdW5sN2J5TURRR1JfanBRWTFRN2JaTmZCMmFzdG8yaGxpMk4tT3k4VmZ1MmdCZXhnaTR2TS1hX01aaGdqTkhn?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "snippet": "What is Bless (BLESS) Coin: A Comprehensive Guide to This AI-Powered Crypto&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Top crypto price predictions: Bless Network, Plasma XPL, Mantle - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbmxFempPUmcxWl84WUFkSVNCQlFhbnVmcmJCLUw1Wk5rQVpTYUJpU0xQNUpRVm5KRUdJWE01dUpraUJITmhMeHVXOTNkdklVd1lwTFlfMGtxd0pUTzMzYzVjSEwzdy0zQlhnMWcxVGppeTViSDJHVFVZNHVZd2FuT1NLbjJpQlA3X1hlTzd0a1hPVy1hbS1rcjVwaXcxNFE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 07 Oct 2025 07:00:00 GMT",
+      "snippet": "Top crypto price predictions: Bless Network, Plasma XPL, Mantle&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "How to Claim Bless Airdrop Rewards: A Step-by-Step Guide You Don’t Want to Miss - OKX",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zWHFSckZ3YXpEVFNRUXlDSi1DZDVNb1hfUXZsdDVBY2RzRk9ZVVJwS3o3QzdrS0luU1hXeWN6aEFhOEVpQVotekdhRm1mSHJSLTBjaVBJaDl1eE1RWEdQZ0Fha1ZpVnhfYUZ3?oc=5",
+      "source": "OKX",
+      "publishedAt": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "snippet": "How to Claim Bless Airdrop Rewards: A Step-by-Step Guide You Don’t Want to Miss&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "EasyFeedback price today, EASYF to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWdEl2RzlPa1lRSlI0WTFTLXFWRzBhRmtrRlhITEpwU2Y0dGh0Ymg3S0JLaWlvci1hQy1PRlFaVUY1UG5GWkZSd1NYVWs?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 19 Feb 2026 14:33:33 GMT",
+      "snippet": "EasyFeedback price today, EASYF to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Bless Price Prediction 2026: Is BLESS a Real DePIN Bet or Just Another Narrative Trade? - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHhwN2FOLTAwVWhPWDNaREJjNUU2OWRleHkyMC05X2cyd0J1U3BaSlJ4WTBQSHVuUGJLbDVFa0x6QkJuSldIWF9lSmdFdEJ6M2VQaG8waHVPN1hPbF9iVS1GZklsdksxbFlyVW1RN3pwMVE5cnpVSzRJMmQ4TnZ0VXRkM0N1OTNydGY4LV9kenljZTJhQjk1Mg?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "snippet": "Bless Price Prediction 2026: Is BLESS a Real DePIN Bet or Just Another Narrative Trade?&nbsp;&nbsp;WEEX"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
