@@ -1,0 +1,165 @@
+{
+  "token": "DRAM",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:50.929Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "DRAM",
+    "name": "unknown",
+    "generatedAt": "2026-06-20T03:02:47.210Z",
+    "summary": "DRAM代币在Binance等主流交易所无交易对，新闻中无直接相关消息，项目基本面未知。当前缺乏足够数据判断上涨原因或投资价值，建议观望。",
+    "rating": {
+      "score": 10,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现明确项目信息、上线交易所或重大合作，可重新评估。"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "无公开项目资料"
+    ],
+    "marketRead": [
+      "Binance无DRAM交易对，其他交易所数据未获取，成交量未知"
+    ],
+    "risks": [
+      "流动性极低或不存在",
+      "项目信息缺失，可能存在欺诈风险",
+      "无可靠价格数据"
+    ],
+    "watchlist": [
+      "关注是否上线主流交易所",
+      "查找项目白皮书或官方渠道"
+    ],
+    "sourceNotes": [
+      "所有数据来源受限，Binance返回451错误，新闻搜索结果不相关"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "DRAMUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=DRAMUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "DRAMFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=DRAMFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "DRAMUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=DRAMUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "DRAMBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=DRAMBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Cronos (CRO) Price Outlook 2026–2030: Key Factors That Could Drive a Breakout - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvNktER0o2MVJzVW1KdlhlNks0RHphWWRwNmRhaTBPVlVhODNlVnRYekItUmhJSXJnRVd5b0pFRHFLQ1FlR3RpQXRGSGVGVVhEUHhhRkdzb2k4dXI3cGFVdEJMTk4tS3ExV2lkN0czbFVmaDMxWFNSV2xJZlk?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 23 May 2026 07:00:00 GMT",
+      "snippet": "Cronos (CRO) Price Outlook 2026–2030: Key Factors That Could Drive a Breakout&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Bitcoin ‘never’ hit $100K in real terms, SEC’s crypto ‘dream team’: Hodler’s Digest, Dec. 21 – 27 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV3dWdU4tbGZJRk5PTUR0NTlhVHc5NW1Nay1sNzZlU1dHd2lBZUtWeHpRekl4QzdiWHE3SWd3YnRpNmxtZG5qWHRZQS1zcjZSTFJsVTRkczFDenRpWjg4SVpCanVBRGNIVVpxVmhmX1BwOW82RnhjS0FWamdxZDZDNzJzbm55aWprbHNtdm45SVpxeHZBQXFaTGJIR1lwTS1acVJWX0ZNV2NIbVlYTXhFM1pEVXNTU3ZKV0xNTXQzNTVUVFdBX0QwSEhEY2Q2NW81a2NMMVg1U2xUMkhmano4WGRiMjU?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Sat, 27 Dec 2025 08:00:00 GMT",
+      "snippet": "Bitcoin ‘never’ hit $100K in real terms, SEC’s crypto ‘dream team’: Hodler’s Digest, Dec. 21 – 27&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Ethereum (ETH) Price Faces a Critical Ceiling Ahead of the $3,000 Dream - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HdXM0a0FpUFdlVWY0T18zNnNsU3JQRVFrcXhnRTdsYUxablRhS21UMXVLa0phTkJpZy0wZG1OcmVHbXJIeVJsM2ptRm5fMlAxT3g1dFd0TU1lRk10d284cXJRRi1wVm1EMkl1bzVGcWhFazBSdlE?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "snippet": "Ethereum (ETH) Price Faces a Critical Ceiling Ahead of the $3,000 Dream&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "The DAO dream is over? Billion dollar crypto company shuts down, kills token launch citing 'no users' - CryptoSlate",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORTk3eWRSOXprem1FRGJqdnBNa3ZPUDBOVzNUbUtGQWVSRE1HUk5sMGRpNTMzX1ktZ3dHWm9lellPQjF4eWpXQ0RnSXFidFFzYVBNeVFhMEVSMlFfXy01VkYtWjlLSVpWS0Y1WXV3ZnJRT2laZ0JBU1BtTFB3Qmk2QlViaFVNRzBSenBwSzdrOEEwYkozYThRaW9IZ3V2TDUzMmJkR3dHeDloTE82RUdBazlKV0xMLUNVQk1TMjVJV0RpQQ?oc=5",
+      "source": "CryptoSlate",
+      "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "snippet": "The DAO dream is over? Billion dollar crypto company shuts down, kills token launch citing 'no users'&nbsp;&nbsp;CryptoSlate"
+    },
+    {
+      "title": "Dream Price Today | DREAM to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZaFhXWXFXNlRRcTdOdXdjVUJBOHFiOC14LWdnOGpVQ0JaNXdwcnF2MWhGUU1VZUlIQWRzUWxISUtzQ3d1NlpoZTZkRUpfdms?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 09 Nov 2025 08:00:00 GMT",
+      "snippet": "Dream Price Today | DREAM to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "XRP Price Prediction: Can XRP Price Ever Reach The $100 Dream ? While Pepeto Delivers the True 150x Entry - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwSFowS0dzWk9RdzJCbG1JYVpkeExGbHNhbjc3Y0hfWWZkVExGRXpMV2hyd290TFN4UkR0V05OczIxcVMwZDBEUlpxQnFkOFU?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Sat, 04 Apr 2026 07:00:00 GMT",
+      "snippet": "XRP Price Prediction: Can XRP Price Ever Reach The $100 Dream ? While Pepeto Delivers the True 150x Entry&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Polygon’s $1 Dream Driven By Revenue & Stablecoin Surge - DailyCoin",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WdHlUM0VDczlaQmdKX3BRdHhldERtYkx2eWtTOWNuUUFONm5oME10X2htVDRxUlhYeGxWdzlpdXFOWVhiX05tRTNrUm9wMlFVaG1jNC1ZZ2pLRmNJQnQxX3U5ZEh4MW5sVkxZUjFjSzJaZl9RQ1VGd3dIT2dNMzA?oc=5",
+      "source": "DailyCoin",
+      "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "snippet": "Polygon’s $1 Dream Driven By Revenue & Stablecoin Surge&nbsp;&nbsp;DailyCoin"
+    },
+    {
+      "title": "Ondo Price Prediction: A Stunning Forecast for 2025-2030 and the $10 Dream - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yWFNjVWN2YzZUS2dSUlBGOEVwbG9DbF9GQ1U0S1JjX0dCNzk2b1hyUFl2Mm1HZFgzZVRIX1ZfVXNSN1BlV1BmWU9tLWFxT19SQXZ0el9aR0xud2V5c3dLSFd3S001STdIOXgxQlhmSVpxT1JHc2hJdXFMSQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "snippet": "Ondo Price Prediction: A Stunning Forecast for 2025-2030 and the $10 Dream&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Is Bitmine Immersion Technologies (BMNR) Stock at $100 a Pipe Dream? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObC1BRUV3Ymx0a0F5LVZUSWRMUVB3N3haSHBteHVmV1Rjd1M0UmljR1B2dkJmMjFCYnNER01MSTZMQlRqRVdWM3VRRGVnWi1NbkRjYVJkLTVBdW1EZmo2emNxWFp5X1Q5VWxyTk1TZUZtQ1VVeThtWk1xQV91alJ2RlljbDM4MkdIbG1Nbks0WEo3WENtaWpFU185WXhYVzg0MlJhdHJqYUJlU0x4?oc=5",
+      "source": "24/7 Wall St.",
+      "publishedAt": "Thu, 06 Nov 2025 08:00:00 GMT",
+      "snippet": "Is Bitmine Immersion Technologies (BMNR) Stock at $100 a Pipe Dream?&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "XRP Price Eyes a Domino Effect to Relive the $3.30 Dream – Here’s How - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGQXN1eHhtLWJWWG1vSjBzTUIxTGU2LW1hNnlyX3BFY2ZyVTkxUWNqVGxmMXFlWGE3Uk85WElvYmNxY1dwWElmLVQwUEdRbnYxaXBMNy13UGpFckV5Z0ZsLUVZOTN3VkpN?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "snippet": "XRP Price Eyes a Domino Effect to Relive the $3.30 Dream – Here’s How&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Top Layer 3 (L3) Crypto Projects to Watch in 2025 | XAI, Orbs, DMT & More - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vNWZvcTlnZ3hpZHhSUUV4ck9fTFN1Ym1YY2dVUms4VHY1VlEySzB1NDgxU2NzUF9EVGMtNjZLNlpUaTM2TThoMThXSUxFUHRVZHhZaW12bk9QN3BOLTdZVGdpa0tRWUpZTzlPUWRrMkZubUt5T29GRzRpdw?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Sun, 07 Sep 2025 07:00:00 GMT",
+      "snippet": "Top Layer 3 (L3) Crypto Projects to Watch in 2025 | XAI, Orbs, DMT & More&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "The x402 protocol ignites an AI payment revolution: The unfinished payment dream of the Internet is being realized by cryptocurrency. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92dW1BcmxySHhQbWFIZkllZVBCY3gxS2VfdDJ0OVl6OHN5c1YwYjZYRDhpWnBlaXo0VWxnSTQ1V1Zwb1hTY3ltN1I5dVVQMnhyWHU0di1TQng3SW04SXfSAWNBVV95cUxOajdzR29QcVNpclBiZmVOdWFnaTFDSThQLV9Qa3hHUmc2ZlJHemFPS1paS3lTZzAtSXFmaGdCY1hxbnhGSTY2elZqa1R5RWtQdmxuVllwVEg3WWhGWFNtS2lJOEE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 27 Oct 2025 07:00:00 GMT",
+      "snippet": "The x402 protocol ignites an AI payment revolution: The unfinished payment dream of the Internet is being realized by cryptocurrency.&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=DRAM: Throttled\n"
+  ]
+}

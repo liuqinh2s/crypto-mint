@@ -1,0 +1,194 @@
+{
+  "token": "EIGEN",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:42.513Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "EIGEN",
+    "name": "EigenLayer (EigenCloud)",
+    "generatedAt": "2026-06-20T03:02:36.155Z",
+    "summary": "EIGEN近期无显著上涨催化，市场数据缺失，新闻多为旧闻或无关内容，基本面关注代币解锁压力。建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，不适用"
+    },
+    "catalysts": [
+      "无近期明确上涨催化"
+    ],
+    "latestNews": [
+      {
+        "title": "How to Build an EigenLayer Restaking Monitor with CoinMarketCap API",
+        "impact": "中性",
+        "reason": "技术教程，非基本面利好"
+      },
+      {
+        "title": "Over $700 Million in Token Unlocks This Week, Led by $684M HYPE Release",
+        "impact": "利空",
+        "reason": "提及代币解锁，可能增加供应压力"
+      },
+      {
+        "title": "Foundation behind restaking protocol EigenLayer plans bigger rewards for active users",
+        "impact": "利好",
+        "reason": "提高用户奖励，可能促进参与，但新闻日期为2025年12月，已过时"
+      },
+      {
+        "title": "$SUI, $EIGEN, and $KITE Embrace for Huge Token Unlocks",
+        "impact": "利空",
+        "reason": "强调EIGEN面临大额解锁"
+      }
+    ],
+    "fundamentals": [
+      "EigenLayer是以太坊上的再质押协议，允许用户将ETH或LST再质押以保护其他网络。",
+      "项目已更名为EigenCloud，但代币符号仍为EIGEN。",
+      "代币经济模型包含解锁计划，可能对价格造成压力。"
+    ],
+    "marketRead": [
+      "由于Binance API限制，无法获取实时行情数据。",
+      "新闻中多次提及代币解锁，市场情绪可能偏空。"
+    ],
+    "risks": [
+      "代币解锁事件可能引发抛售。",
+      "缺乏近期积极催化剂。",
+      "市场数据不可得，分析受限。"
+    ],
+    "watchlist": [
+      "关注EIGEN代币解锁时间表及实际解锁量。",
+      "监控EigenLayer协议TVL变化。",
+      "等待Binance或其他交易所恢复数据访问。"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取价格和成交量数据。",
+      "新闻来源多为聚合网站，部分日期较早，时效性差。",
+      "未发现近期价格异动或重大利好新闻。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "EIGENUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EIGENUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EIGENFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EIGENFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EIGENUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EIGENUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EIGENBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EIGENBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "How to Build an EigenLayer Restaking Monitor with CoinMarketCap API - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONzE2ZFk2cm1SeXhtR3MwT3lrNEs3MlpZcjh1UGVFNmRDc29NcGJkUk55UGc3Rjd5aHI5dnBIYUpab2dNMl94QkFnVnVia015THFLNzJiT3lWWUF5ODhQVFE5MEF6dGFDS0hXaG0wYVlVLXlrOFlJa1ZYYzg0bTdRbFJrQ2NNUHdRUTdRSFpZcGhXUHRGX3B2NlZLTHJDNEJNbTlOb1BWbHBuWS05TFE?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 19 Jun 2026 13:22:53 GMT",
+      "snippet": "How to Build an EigenLayer Restaking Monitor with CoinMarketCap API&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Over $700 Million in Token Unlocks This Week, Led by $684M HYPE Release - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdEQtSE1ieVZRNkh1enRhdm5JZWlBWDN6eVU5MUlEREdqNXRKaVIydDU1b1FXT1JiTzJMNjZiZmpsMGlTbC1qMkctNW13V3dWZ3JTMDVzZDRYM2ZuYjRtQ0ZQaEtkRi1vRWFaMFhyX2kzNWRwbERNNjA1VUMxeXBLMnlldFVxbmliSGRR?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 01 Jun 2026 02:03:09 GMT",
+      "snippet": "Over $700 Million in Token Unlocks This Week, Led by $684M HYPE Release&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Foundation behind restaking protocol EigenLayer plans bigger rewards for active users - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTllqYjhjRVViLTVnZW1kd05RMThzZjBqVlI5enZWSTQ4MEExbnU4REVUNjJ6dkVYS3ppT1FKWkUwbUFwSHotcEJQNnEycXROMFFkb0tOeFhKandIdkZWVjNWcV94MU9UN3p5WTBwYkV6QW5UaV96aHNUcENkQmdJZGFzdGJVRmJoeUYyOVF0NU5vd1B6VGdKVXNuRUh0WGVKbEdJcnRjTEtqMnhncnFudGxwQk4tZDVRa3RNUW1tSnNiQUhJUTZjaHhB?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "snippet": "Foundation behind restaking protocol EigenLayer plans bigger rewards for active users&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "EigenCloud price today, EIGEN to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuUHVxY3Bjeng4VGlRdDVrR3c0dWx3MzkyQ0VzUlY4cTRwWE0wMXlJbGYtNDctbWFqQzBIamJNc1NtS3k2aUNKSE9OaTlFUm1leWJ3dG1Zd0hyV25K?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 04 Dec 2025 05:36:20 GMT",
+      "snippet": "EigenCloud price today, EIGEN to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "EigenCloud Price Today | EIGEN to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vRXlZakNscFA1cFEzMlFONDd5UGUyNC0zRUw0Y2R2UW9SS3lkd2V1MlJ5M0o4ajdaZndxOXlwX2NoclJydmJQU2lsVy1QSTBCT1NRU1lB?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 04 Dec 2025 19:03:00 GMT",
+      "snippet": "EigenCloud Price Today | EIGEN to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "EigenCloud (prev. EigenLayer) Price: EIGEN/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UZ1NQRlBsdTAtb25hS2w2U3dmUUZublRRRlpxTDN2bHBZcm5VdkdiX1NNTzVRMVpPTDc5V0xualEwNkZpX1ZhbjQzOThoektqQWg2RnFYQWQ?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 27 Jun 2025 06:04:08 GMT",
+      "snippet": "EigenCloud (prev. EigenLayer) Price: EIGEN/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "$SUI, $EIGEN, and $KITE Embrace for Huge Token Unlocks - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjd2RfWF9vS0N1SjVVN1l4SVdrWnVyZWp5LTRMZXRBQjVYNTZQMHNtUzBfeUpPWmdYSUsxSVMtRW1EaWtHSTNEMDY2d05XcWZ1SnBJT1J5d0pFR1ctT1HSAWNBVV95cUxOaGcwU3V5SUEzWmVxOTBMMU9QMmF1Zk5CYmFtR19ReFphbEJaZ2hyMmxUTWtpa202VTl2dVI4NFFlekF3LTUwMnlvMFpweHJJa09OR2hxWjlSX2R0NGVXdmp0M28?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 24 Jan 2026 08:00:00 GMT",
+      "snippet": "$SUI, $EIGEN, and $KITE Embrace for Huge Token Unlocks&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Crypto Token Unlocks for May 2026 - BitPinas",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zaEhHVFc3bi1UaDFtUlJZTnppQml6LXAtQ0dNcGFQMVRxUlI1QW9JQ2NXNHM3bXlDaDVRWW9aYV9vRzFVcW9YcGJWS2hzaTNyZW9nTm1GY0hrZ1ZaRU05OHVGZXZBb3pKUWJUX0pR?oc=5",
+      "source": "BitPinas",
+      "publishedAt": "Fri, 01 May 2026 07:00:00 GMT",
+      "snippet": "Crypto Token Unlocks for May 2026&nbsp;&nbsp;BitPinas"
+    },
+    {
+      "title": "Token Unlocks This Week: Critical $36.26M SUI Release Tests Market Resilience - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQQzk0S3g4ZHh6ZzNkNGtYeHMtNUdid0t4dndUcl80ZmhTd3ZJZGpwYldpUGU4Qks4OC0wS1pvbk1fZXNrQUZXb0tvblg5YkxCNmdXdUhCTm55NGVhenlsclF1YUkzWlRYQlVkX0VCQUVJQWlnUkFlTVlUMA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 30 Mar 2026 01:43:03 GMT",
+      "snippet": "Token Unlocks This Week: Critical $36.26M SUI Release Tests Market Resilience&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "EigenLayer Price Prediction 2025: Recovery From All-Time Low Likely - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RelJpaTdCSU9PX0M5TWwyb3YyMS1uNy0zR3htejlHbkdtc2J5VmNvbEtqS1NvSXhtRmg3cXdVNjZRZ3hocDRyNVVPUDZueHJ6N0ItNjA5c2pZVlZ2UG90VmxXaEdScjhjME1zUUpJekVyWHRCVHNwYTFB?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 13 Mar 2025 07:00:00 GMT",
+      "snippet": "EigenLayer Price Prediction 2025: Recovery From All-Time Low Likely&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Next Meme Coin Ready to Burst? Top 5 Tokens Poised for Green Candles This February - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPLTY4UWx1eFVremlxY1pmTmhmTEJuS0YydzdhQWRMU2tQUFpuTmo5ZDBqNnNvVWhzUUFmVFRxQTJFTC1pcWU5S0ZrR0xXc1ZqdVl1R2NkSEJtaWgtbXfSAWNBVV95cUxQeTBTSHFQbHhoUGpVY3VsTTVybEptZmJkS1k5V2lPTVQwNmNUM0Q5VDRabUJiZG9uck45NUt4SXMtbTRrd280SUp3U2NGMTZMSkh2QmVJOXNFQWRQbkVCNzVVUFE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 07 Feb 2026 08:00:00 GMT",
+      "snippet": "Next Meme Coin Ready to Burst? Top 5 Tokens Poised for Green Candles This February&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Eigen LabsResearcher Says DAOs Will 100x as AI Crushes Software Costs - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc1VKbVhMQ1ZLX1J2RG9tS3d2dTVrQ1pxOTFsRHN3SFBQcUNjd1NBdVozQWhFMGpzaDNhT1hiRlozcUdvRlZrS0VZaGdIMmFSRDZVY3JwOUpuSFdBWFp0dUI4Q3dWaG00NHNKdGhTdjAwcXJvakcyQ055X3l3LUNzSkJkREE3ZG5DVEtheEcweXFDYjV5VV94UjExTkxrZ9IBowFBVV95cUxQMXM4Smxpbm5XYnFsUzVyaURReGJUYUxnSmpuWnZjcDZ1VHlCZDFPeXhvblM3TzN1VmlnMU9jQVF0N3hwTFRWUnRJN1p3YUxZN041SWI4LUxJR205WlBSbEdzVXJROHlTd2lBMVlLR3podXJhVkhwYTY3aF9QaEtYbXl1Q243eWNDejJQeDFfQ3ZPc2NYT081ZFVYZ0tPYUlNQWhR?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Sat, 07 Feb 2026 08:00:00 GMT",
+      "snippet": "Eigen LabsResearcher Says DAOs Will 100x as AI Crushes Software Costs&nbsp;&nbsp;Coinpedia"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/eigenlayer?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

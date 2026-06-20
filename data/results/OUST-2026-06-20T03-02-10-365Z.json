@@ -1,0 +1,163 @@
+{
+  "token": "OUST",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:10.365Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "OUST",
+    "name": "unknown",
+    "generatedAt": "2026-06-20T03:02:06.918Z",
+    "summary": "OUST代币在币安无交易对，无行情数据，新闻中未提及OUST，无法分析上涨原因。建议观望。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无数据支撑，逻辑失效条件不适用"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [],
+    "marketRead": [],
+    "risks": [
+      "无交易对，流动性极差",
+      "无公开市场数据，价格不可知",
+      "可能为未上线代币或已下架"
+    ],
+    "watchlist": [
+      "关注是否有交易所上线OUST",
+      "查找项目官方信息"
+    ],
+    "sourceNotes": [
+      "币安API返回451错误，无法获取行情",
+      "新闻中无OUST相关内容",
+      "数据不足，无法进行有效分析"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "OUSTUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=OUSTUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "OUSTFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=OUSTFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "OUSTUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=OUSTUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "OUSTBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=OUSTBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Bitcoin hovers around $71,000 as Bernstein analysts say token 'looks bottomed' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX2N4elBvS3RDams2Q1pYeG5fUFRNWmU0Z0dwQm9nNjZnQ3NOZm9zRmhBeDBJNlZod2IxaFphOEZyUkVWTl9pYjFVRm9SUFVQcE0xbU1wQmVTdXY0NDdfcWY5dzJhdzd3QnVTejJQd3ZsRXotMXVKMEFiaEYyZGl1MXJNeEg3azVDS3RtZ3daZnFRVjNQbDllVmQ4a0U3R1BhSXVucV9Zc2U0eU8wZFF5amZQUHpXVUNYVExjOQ?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "snippet": "Bitcoin hovers around $71,000 as Bernstein analysts say token 'looks bottomed'&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Bitcoin price news: What next as BTC tops $68,000 after Iran confirms Khamenei death - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0RhX3NQbTM2Q19XUFlrc3BDTnRjVHB5RWo0RnowSWhERV9TSTZTa3B1YVJFSnBBbTY3QlZweW9kN0U4TWt4cDJVMy04anpoTllsc2FlZzVPUEQwQjdXUWtlUlVCMEEwdm91WXlTeGNMVFZEck5TUWJhU0Z0UmprRVMzRDA3eUZjdW5vYmc1MXM3YTFlSTJpVDVxOUdEd3pVblhocHBtS05rdFpmbGF1T1h1YzNVQkJCeEVBTG5OUzhlMTA?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sat, 28 Feb 2026 08:00:00 GMT",
+      "snippet": "Bitcoin price news: What next as BTC tops $68,000 after Iran confirms Khamenei death&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Bitcoin bloodbath: Selloff sparks fears of new 'crypto winter' after weekend crash hits BTC, XRP, ETH, and others - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSm82TE9xRHJONTBVb2ctRTNTVnBtRjh0VlBOVjZ4UHV4REJHS0VGNEl2VFNqQ21rTU1hSTJBMU5LZ01PU3F5YXNIM3FZRDZNZkRSUkhiWHpYalBraWx6R1JOLVUzc3BzQl9ISEZVbzJtQWYtM3dwbkMzQWd2VFJZZ2pfYjcwRmtuM3BhWU9oZHJmZVRabld3ZGgyVXA?oc=5",
+      "source": "Fast Company",
+      "publishedAt": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "snippet": "Bitcoin bloodbath: Selloff sparks fears of new 'crypto winter' after weekend crash hits BTC, XRP, ETH, and others&nbsp;&nbsp;Fast Company"
+    },
+    {
+      "title": "XRP Plunges 26% As Crypto Market Faces Fresh Headwinds - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXTVk2ZURzVXU4OUE3LU1qY1ZiMEJ5SnRoOVB6X0Q5QklEbk9XRmkxUm1VUXRLb0FRd1UwWnZ3SWNUVlZ2bmNwNzdmMHViYUM2X0xLem8xUWNKMnBlTVpQUmNJM1lqZXNZRHVra0FXXy1UX092aHJsT2ROdFh6N1U?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Sun, 01 Mar 2026 08:00:00 GMT",
+      "snippet": "XRP Plunges 26% As Crypto Market Faces Fresh Headwinds&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Oil and Precious Metals Oust Altcoins, Boosting Hyperliquid’s Turnover - ForkLog",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYURiSTdDejJJc0pfTHVoMW1sWUdXb1plUjkxX25TSW1lMGN1LTZnX0wxNk55Q25kdzJVaEtlSjc4NzVzTnhVbUhNVmhsTUNYalpSZzlKazJ2QUJWR2g2c0VoX3VEV2pseDF0bFZteUx0ekZJLXlMQWEzd3BaYkFMX2xMTEZmRW5waDFMS0RnUUY4N0h6OGhr?oc=5",
+      "source": "ForkLog",
+      "publishedAt": "Fri, 27 Mar 2026 07:00:00 GMT",
+      "snippet": "Oil and Precious Metals Oust Altcoins, Boosting Hyperliquid’s Turnover&nbsp;&nbsp;ForkLog"
+    },
+    {
+      "title": "Crypto News Today: Crypto Markets Brace for Fed Rate Cut Amid Political Shake-Up at Central Bank - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jOFczQXhnQnZaZ0NuQkpSN1lROU1fWTFsbDV2Z0FIMHdZUFdJVVhpTEtnUDZTM1VrbVJYOVhSN2JKakUyUktaeExiWGpkTGdXZWtxcTRZNzlONmVhaGVlenNoZw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "snippet": "Crypto News Today: Crypto Markets Brace for Fed Rate Cut Amid Political Shake-Up at Central Bank&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Pundit Drops Bombshell Exposé On Kadena Team After Closure Announcement Saw KDA Price Crash Over 60% - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeUFFZWVuQzQ3S2dreDBWNXZVOGtjVTlaVzhCcm5xQTJ4aTlFQWxfcTlybmRFMTZvRmRKUDc2eTRyZl9qbmZObWhMdXZvbzNNdEx5Y19nSV9hdXpvWFNhbThZNnNORnkxTURYZXpNbzF6d2pYOUs2UklGNi1MZFJOeTRsYkRsZVdLajdHeENWWkc2UzUtUkF2dDQ2THdHMVM5ZTRRbjZ0a2JJLVFBZEZydTByckN5blZ5M0ZqbHdFckVUQU5ZUFhCbWVYUmtwR0M3QmpLbTh1U0dqSEQwSUpRd1VzLThsN0Z4ZzE2RQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "snippet": "Pundit Drops Bombshell Exposé On Kadena Team After Closure Announcement Saw KDA Price Crash Over 60%&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "The Sandbox co-founders ousted from exec roles amid mass layoffs - Blockworks",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFbzc2U1IzWG1jcHVuQlhrQlpUanBvSFhEUEdNWDdUNFFWbWlvWngzd0VrYVFhd2RhcjhKa0lYcEd5RWVoblpubWtyU1l6VWRhRXBSMWFFbDZsbl9fb3FOLXQ3VHl0cm1tQ2plZlhTWQ?oc=5",
+      "source": "Blockworks",
+      "publishedAt": "Thu, 28 Aug 2025 07:00:00 GMT",
+      "snippet": "The Sandbox co-founders ousted from exec roles amid mass layoffs&nbsp;&nbsp;Blockworks"
+    },
+    {
+      "title": "Bitcoin falls to $65,000, putting token on pace for fifth month of losses - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFhXallMU2I3SVkzMnFyNjloZTFDWVRTU3M2b0xQRjlyR2pFYWV5RVhfSkh1VTZnQm1Gc1dpdmx6NGtzQjFMSDhUV0NxSzlVUUg5N3d4YkpOczFjdUVwTmtBR1NhVUhRakoweTdlVU1FN3YzaV9TbkZWLUxKbDRzWGwxUjd3LXlKbU13NDNUTWk0U1dUa245OVQ0WWMzcHBjNFhIa3R1LWdxQmtYbFRwQkd1S3dhbVU?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "snippet": "Bitcoin falls to $65,000, putting token on pace for fifth month of losses&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Eclipse Launches $ES Airdrop, Distributing 15% of Token Supply - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRFRSWEo4NW5sdjlpanRXYUVzMVBXWDhBNWZRQTVsbmN0VkdXeXFMT1ZZR19YT1ZzQlhqeDVOYUJGS1RXRnpidXpaODVZam9EaUo0OXBLOXgzdVFfQ25WVEtUNWFEd3laQ1lxMnF2VFU0S3dFdlpMc2xCNzg3T3FqR2dFQk1ZclNKdnRSTFlMOWFMM0lDTWNQUkV1QjYtWElrZUE?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 16 Jul 2025 07:00:00 GMT",
+      "snippet": "Eclipse Launches $ES Airdrop, Distributing 15% of Token Supply&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Why Venice Token (VVV) Is Rallying While the Broader Crypto Market Falls - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVlB2cFlEQnJrb1RDQWI0M3RycWlGM0pFMVRWNVdvTUhZMHZPNS1PS2FDS0FCNnV4dXZaNTkyLVd1SmpMTEpxdVB4NXJZQVpKWVY5Q0VtZm1EMHhBY0MtSDZJTkFPMVJHMWozM2VidFBjYzg4SEpSdHJISG9zakJBdA?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
+      "snippet": "Why Venice Token (VVV) Is Rallying While the Broader Crypto Market Falls&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "River Crypto Token Up 1,900% in the Last Month—What's the Deal? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MQURMNjBzTWw2XzVKMGM1V0ctZGZnOUxuQk9hVkxyWVZJai1UZFFQVC02c2hmMlhFNEVnSzk0SUd5M1RSMkN2S05IQWVWdlVDdFJONURmZzB4STZmMUgzZUNGNWR1R1FobGl0ZmpGb2VmMHpMS1hVNF9R?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 26 Jan 2026 08:00:00 GMT",
+      "snippet": "River Crypto Token Up 1,900% in the Last Month—What's the Deal?&nbsp;&nbsp;Yahoo Finance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/new-baby-elephant-houston-zoo?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

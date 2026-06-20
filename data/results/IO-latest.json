@@ -1,0 +1,162 @@
+{
+  "token": "IO",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:54.448Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "IO",
+    "name": "unknown",
+    "generatedAt": "2026-06-20T03:02:51.472Z",
+    "summary": "由于Binance API限制无法获取实时行情，且新闻数据中无IO相关报道，无法分析上涨原因。建议观望。",
+    "rating": {
+      "score": 0,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无有效数据支撑任何判断"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "无可用项目资料"
+    ],
+    "marketRead": [
+      "无法获取行情数据"
+    ],
+    "risks": [
+      "数据缺失，无法评估风险"
+    ],
+    "watchlist": [
+      "需等待Binance API恢复或从其他数据源获取IO价格和成交量"
+    ],
+    "sourceNotes": [
+      "所有Binance API请求均返回451错误（地区限制），新闻源中无IO相关新闻"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "IOUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IOUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IOFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IOFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IOUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IOUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IOBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IOBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Film.io price today, FAN to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2UnZDTjROSGxlMXBFUWE2R0E0emxxVmFKaVlIM2dITk52U1RUMDNDNGpKcGJCZlk5b25NNHpOMkhYaDlqMEZ5Vkhtbkk4ZDV6UXBUOWN6OA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
+      "snippet": "Film.io price today, FAN to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "AI Tokens Surge as Crypto Market Rallies - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQk5pS0xmN3BWb2FmWmFMSVVuTi1ydk1uZWNnUEg4M3JLemVSZ3QyVW45SnNwN3doUFo0aDVLQnpHU3ZzczRpMVZhSUhQVWc0THo3VkVjUVVxLWt2eTVqb1hMY1ZwRjFKbHpzNjhQa0hzSm9CSUYzeDBJQ25STGhIbw?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "snippet": "AI Tokens Surge as Crypto Market Rallies&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Humanity Protocol Price Prediction: Is H Coin a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWDZFMHNaLWhNeUNYS0VQTUxDS3ZVVlAwWm83ZGN4ZU5HTnY4R3JtbnJRZExlcWNOeV95aHVPazhLcDl2RnlSdzhVU1hWaVFwUVdPZ0ZzQXJYeERPenJkVE82bExFTk1PT0dMQjFla1JaNzF5XzVjNWFhZWh3MnRDSGZqQWkwVmpVNS1EamxqU1Z1UEk?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "snippet": "Humanity Protocol Price Prediction: Is H Coin a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Crypto News: Ethereum Based Crypto Pepeto Project Update Amid Bitcoin Price Prediction Targeting $125,000 Soon - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZTJ1RU9zTlNsX2ZwaDRPYWdRZlJkWHlMM21YYzFvSkJ2dzVRd3FVNnU4QVpkdEdpQUpOUmlaN0ZoeE5yMXdCVmE0NVZWYXJFME9LQjhSWDBmODFJWnZkaVBtLXoxUWdRQXl5WVgyM0djdUlIbVFjU2RjcVRFV2pxWDFsTk1aUUxKVmNsTFFxSFdYMkl0dkd1eVNZZDh3akp3UWFMckYxN2ZQM1BkemZzeUdnSVRVTnM3U2VlOUs3bC1nWm11ODJwai1ZU2l0dFVsMjNUMlQtS3dOd1NKMXhxT1R0bXU5cGxmUndpWGJiNDY5LVAwNkZJRXp0c2dqWGRwVXBXQko4Y3ZLMjZV?oc=5",
+      "source": "GlobeNewswire",
+      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "snippet": "Crypto News: Ethereum Based Crypto Pepeto Project Update Amid Bitcoin Price Prediction Targeting $125,000 Soon&nbsp;&nbsp;GlobeNewswire"
+    },
+    {
+      "title": "STO Token Deposit: Stunning $10.1M Move to Gate.io Follows 755% Price Explosion - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LbkdfM1BjbmoybkRuaEtybWlDaWZJM1lsa1BXYWgwRzE1OHVYWW9mdE5NTzdDcHdpenNkQUFCWW9zdEJHQnpoUmxPQnlSOThnUFFZRW9qdl84Ny1PRWIxQWlWcW1tVXZCZVQ0YU8teFo?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "STO Token Deposit: Stunning $10.1M Move to Gate.io Follows 755% Price Explosion&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Pi Network Price Prediction 2026–2030 | Future Forecast - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3aXFRa0h6OVpXc1U0aEEwcGprYkZNQUU0RFlCU1Jzb0psRnFqaFMwTl9nWUhiWEN1VWVhSGgtWGlQM2dWRURLMGh1ajVPbWhkSUFaUm40bDd6aWZrYjdna3BvOTV1bERtSHhCelVINHh1a1FTcUFV?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "snippet": "Pi Network Price Prediction 2026–2030 | Future Forecast&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "Ethereum Price Analysis: ETH Coin Targets $2,500 as Bulls Defend a Strong Support - CryptoTicker",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWk95X2tvbkYwZ1g5LWlKOVFzS2FQZnpMQUhaVEFFazZpbHducVdGVjZlZVFXX2lUT2sweThOSE1aUEN2OU83WmxESC1FSTdpQTVsZ1Q5dU5pV1BKaVYxeGxmNU80SmNLbUVPSkRMX29ZeWdTTjNUTW5vRU40U2d6MGx3?oc=5",
+      "source": "CryptoTicker",
+      "publishedAt": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "snippet": "Ethereum Price Analysis: ETH Coin Targets $2,500 as Bulls Defend a Strong Support&nbsp;&nbsp;CryptoTicker"
+    },
+    {
+      "title": "Pi Network Price Under Pressure as OKX & Gate.io Consider Possible Delisting - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ0pka2FzcFQ1MEZJNDYyRHJJUGVYQWxkNmlZZXdWbW53MFI0RzJQZFQtY1Y2bWJrMkRyNi1ONlVsTUZ3NUR2REp5UzUwVkdHWE1sTUg5VVpxSlNYLTRGdFA4a28zWm4tU0tHclpVUnR4d25VYUpRSGhLZElQS2NiYTZRNDU4al9YODlFTGFxNm1QSUF5b3ItcVh0RVE2QVEtTE8tbmlSNXVoUVAtWEZjWll5U1FnTXhfRF9uTTl2M2ZmYnNnY0d4Wi1nVEZPOTA?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Sat, 06 Dec 2025 08:00:00 GMT",
+      "snippet": "Pi Network Price Under Pressure as OKX & Gate.io Consider Possible Delisting&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Crypto News: Pepeto Presale Demand Update as Bitcoin Price Prediction Targets $250,000 - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSGd2V1ZtdWRqcjNRVy1NZnd6Mkc0eGpuVmhUWDdJbW1rempCaFdpcG4wTmVmT19nLXFZcTBtT0JkQTAySy1Lb1hDZkcxdTZvTTQxcWlCVl9uaW9LYlN1WFZJa0RsUnhUWHJkUGhEZU9lQXFqLWRlUFE1SWtQaHFEMDM5bFlsNERLT3hZLVNhRE9wdDE3LUQzZk5LVE5uaW5KRHVGaUk1bTJWYThheGlHbEdCMnZLSnBWYVRnSFdkNDgyMnZ2dV9lNmwwTUxPQTFIX2xGSmFOaV9pVEdwRFg1Qi1EMWZuc2ttdjk0cA?oc=5",
+      "source": "GlobeNewswire",
+      "publishedAt": "Sun, 19 Apr 2026 07:00:00 GMT",
+      "snippet": "Crypto News: Pepeto Presale Demand Update as Bitcoin Price Prediction Targets $250,000&nbsp;&nbsp;GlobeNewswire"
+    },
+    {
+      "title": "Crypto Market Recap: January 2026 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aT216eG5fZDNUVkRkUWZ0Q0h3Z05nN3BxWmVxbDZuM0hBYUEzVDNfZzNYZTFKR3kxZ252amJ5cl9yd3Y4WXk5ZFNFS1lsUHpfV2IxWkwxM1dGQzdYZXZFUXhSYTNZeDJSSlc5N0VhNkxMVDBLMVB1MWNLaw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 05 Feb 2026 02:14:47 GMT",
+      "snippet": "Crypto Market Recap: January 2026&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Monad Price Prediction: Will MON Coin Reach $1 Soon? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaUw4cTY1WGpYRW8yWFB4Sk01LVQxczltZE9ENU1Zc19xc2tiUmpFNFZsM2dXbk5YWG40OXNudjcwS09pRXBsdkNqYVM5WjNDWmZWejZyd1VrWTFjZmc2LXVTOVJLQXVBUEIxcWNDMTk2QzFZbktXWFI5VVNZV0NPdFlR?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "snippet": "Monad Price Prediction: Will MON Coin Reach $1 Soon?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Crypto News: Pepeto Presale Binance Listing Update While XRP Price Prediction Might Hit $30, But When ? - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNekZlWnVYajlESDkzdjZwbmpZYXo2UXBlN0JwVEhIanJpeU9aMFBPOEx6blNybVFGZ2RTa09tcXRQcnphbzFxRUpDNnphUHp0ZFpTZFpDRDlSWXROSVlQbWVoZ2E4RWtJcHRLMWwtYXBydk5tQUctai1ySWx6X3lsbjNzZnN5aUxlNHNrdDE4T3FLS1hUMGFuYjVSTU5DdnZuNmtGYm9GUzk2MDhpMGhXbG1VeFZYN2NFbDZUbHBtOWV0ZnlDRnowT253RjRBcHNrbVNmdTVQSVphcXlCSnZ5Y0NiNWVRRklXTF9rU0w3cFo4Wkl3OWlCRDByS21GUlk?oc=5",
+      "source": "GlobeNewswire",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "Crypto News: Pepeto Presale Binance Listing Update While XRP Price Prediction Might Hit $30, But When ?&nbsp;&nbsp;GlobeNewswire"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=IO: Throttled\n"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "token": "EWJ",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:42.805Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "EWJ",
+    "name": "unknown",
+    "generatedAt": "2026-06-20T03:02:36.235Z",
+    "summary": "EWJ为基于日本ETF的永续合约代币，近期在Binance和KuCoin上线，但缺乏链上或交易数据，无法确认真实价格走势。新闻多为交易所上线公告，无基本面支撑，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无可靠数据，逻辑无法成立"
+    },
+    "catalysts": [
+      "Binance上线EWJ永续合约（10倍杠杆）",
+      "KuCoin上线EWJUSDT永续合约"
+    ],
+    "latestNews": [
+      {
+        "title": "Binance Launches Revolutionary EWJ Perpetual Futures Based on Japan ETF with 10x Leverage",
+        "impact": "利好",
+        "reason": "交易所上线增加流动性和关注度"
+      },
+      {
+        "title": "KuCoin Futures Will List EWJUSDT & EWYUSDT Stock Index Perpetual Contracts (2026-03-20)",
+        "impact": "利好",
+        "reason": "多交易所上线扩大交易渠道"
+      }
+    ],
+    "fundamentals": [
+      "EWJ为永续合约代币，锚定日本ETF（iShares MSCI Japan ETF）",
+      "无独立项目白皮书或团队信息",
+      "代币经济模型不明确"
+    ],
+    "marketRead": [
+      "Binance API返回451错误，无法获取实时行情",
+      "无K线数据，无法分析价格趋势和成交量"
+    ],
+    "risks": [
+      "数据完全缺失，无法验证价格真实性",
+      "代币性质为合约代币，非原生资产，价值依赖交易所",
+      "新闻热度集中在2026年3月，已过3个月，催化效应可能消退",
+      "无基本面支撑，纯交易性标的"
+    ],
+    "watchlist": [
+      "Binance和KuCoin上EWJ的交易量和价格数据恢复",
+      "是否有更多交易所上线或项目方公告"
+    ],
+    "sourceNotes": [
+      "所有行情数据获取失败（Binance 451错误）",
+      "新闻来源为Google News聚合，部分内容可能不相关（如CRO、EWT新闻）",
+      "仅依赖新闻标题，无法确认具体内容"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "EWJUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EWJUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EWJFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EWJFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EWJUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EWJUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EWJBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EWJBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Binance Launches Revolutionary EWJ Perpetual Futures Based on Japan ETF with 10x Leverage - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY2tTUmNlT0N4VFFKVjNMTkd0X0JaU2dWR251aE1Ma0xzV2dHZWdvY2NhQVdGaWxwTWkyLTY5WXY3SjhNWVRDcDNVb3RlckoyNTZnWmFITUhCYklNVzNwV3B3aFZ2T1p0NlBjTE93VGRBMDl5ZHlzbmNTcWoyZFF4eGpQQQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "snippet": "Binance Launches Revolutionary EWJ Perpetual Futures Based on Japan ETF with 10x Leverage&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "RahulOffi(@RahulOffi)'s insights - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwNEVFdU5BOUVJZ0tvV094QUVlNVVxdC0tVS0tUWVXOFRJNW8tVFF0MmtzQkhjUUtvUElSc0Z5ZnMwc1lmakp1RlNBcEFwNHJ0emExb3JCX1RoQkZQWHFfSWZ5bVY?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "snippet": "RahulOffi(@RahulOffi)'s insights&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "CRO Coin Price Hits Over 3-Year High After Trump Media Deal - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQUtfRUwtZ0MxRjFCX1YwYlJHamE4cGIwSU92SFNiZlNYOW5sYjByTl82SDJfdXNJY2pMcHMwLXlWQjJpUkVzWk5vb1VOdE5SV2gtSC1BNGxNTVlLMWlkMERnbExHMndRQjhqZWpEWTNicG84bERsZzE0N1hiSHZQazdHS1pid3ppWk42MVpDTW9RMjFqeG82MGxycE9CSWNoMjZpZ051clRPWW5hdmoxQlgyZlBLZFlqeW5rVFlhdTFBX2tuOXdWaURoZw?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Thu, 28 Aug 2025 08:32:22 GMT",
+      "snippet": "CRO Coin Price Hits Over 3-Year High After Trump Media Deal&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "KuCoin Futures Will List EWJUSDT & EWYUSDT Stock Index Perpetual Contracts (2026-03-20) - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjB0QTM3Sm5EczRpRmlUa25oRFRHS1R1dDZKM25EaVZ6MERUWHdWYkZZTjZQRXJ5VVlwZEtjSmNxeXduNU1YTVU5Q3ptQjJsNDc3dmJxZF9OLTg3YkZ5eEM1N2pGa3lOS09YVTg3b1N3ZzZZRHk4WXZ4ZGlzUHVfeFBGWGhIbTgwcGpzY190dEJ1aE01a3Jyb2ZORHNnRGVBMUFseVIwa2w1QTVmZWRIY1prZHlaR3R4ay1nZFEwSQ?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "snippet": "KuCoin Futures Will List EWJUSDT & EWYUSDT Stock Index Perpetual Contracts (2026-03-20)&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Energy Web Token Price Today | EWT to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VZWJPVlpqaVphaUpWT2VqdW9YNXVWUVBKY1M0WlE2VGJpdXVCaTZwcEQ0cGNiQXNYc2Y0ejhxWFFzLUljVnZWaHRzeERqci1Id3pjdmN0YTJHN05UUVE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 08 Jan 2022 08:03:03 GMT",
+      "snippet": "Energy Web Token Price Today | EWT to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=EWJ: Throttled\n"
+  ]
+}

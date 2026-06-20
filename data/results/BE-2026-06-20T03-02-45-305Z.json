@@ -1,0 +1,158 @@
+{
+  "token": "BE",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:45.305Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BE",
+    "name": "unknown",
+    "generatedAt": "2026-06-20T03:02:42.551Z",
+    "summary": "数据严重不足，无法分析BE代币上涨原因或给出评级。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无有效数据，逻辑无法建立"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [],
+    "marketRead": [],
+    "risks": [
+      "无市场数据，无法评估流动性、价格波动等风险"
+    ],
+    "watchlist": [
+      "需确认代币全称、合约地址、交易所上市情况"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取行情数据；新闻中无BE相关报道；profile为null"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "BEUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BEUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BEFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BEFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BEUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BEUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BEBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BEBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "US SEC poised to allow stock token trading in potential market shakeup - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSU5DUG1RTzhGdHE3aDRHWTZ3RFRqR3l2Xy1INEVxUDlKQUtiXzlwZGg5YmIwdnlDYm4zSDNxS3dKU0ZtLWlSUGQ2ZFNFQU5ibkhmT2NvYnFmcEtUTVU1OFZsSkdNWHpSQnByRkNhdlhTM0VONUpSdW1BNGxKZThjMlZodXFyM18zYTJ1ckxSUmpjRllzRXNLN196SUFVa25JTk9lTXN1ZlFqLW1NVHN5VUZYekVjOUhf?oc=5",
+      "source": "Reuters",
+      "publishedAt": "Wed, 17 Jun 2026 13:22:15 GMT",
+      "snippet": "US SEC poised to allow stock token trading in potential market shakeup&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "UNI token surges while rest of crypto market looks to Fed's Warsh for guidance - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT1ZyS3N6WC1xd2NhbjVSODE5dE8tTFZhY0xtUWRHSWlDUDZ6MFY0MXVISHRPNlFaTHBSTlpzUVltVU16UlM1TnBrcXlvampsUTYwcHNZUHlNMlc3dWJIZzY1elVLUVlKZUNmVm5LdU1MYnJtNEJFNl8yTWYtWHRxNkFYSW5tSi0yY0JXdE94VUpRNUo0ZUloNGdyVWhwR01kcVc5LUJMcU1ySUJ4bWNoOGd5ekl6T2xGWFN0ZzFxZw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 17 Jun 2026 10:37:13 GMT",
+      "snippet": "UNI token surges while rest of crypto market looks to Fed's Warsh for guidance&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Crypto Update: Bitcoin Rallies on US-Iran Peace Deal - Investing News Network",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5",
+      "source": "Investing News Network",
+      "publishedAt": "Mon, 15 Jun 2026 21:05:00 GMT",
+      "snippet": "Crypto Update: Bitcoin Rallies on US-Iran Peace Deal&nbsp;&nbsp;Investing News Network"
+    },
+    {
+      "title": "Crypto News: Pepeto Confirms Exchange Progress and Shiba Inu Pattern While Kiyosaki Bitcoin Price Prediction Targets $250,000 - markets.businessinsider.com",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUnNFS0k2bFZ5alVPNVFXSFpjMkRsRjFJTzFrZjRIWDFfa1Exczk2OWFOeUZMbHBHV3FrVC15Ri1vR192Tnk2VWJtWE54aERoN3R3Q0hvZ044OGZIaEFRaGk2NGJ0ZE5HNmtscjI5UWNjU19YYmY0eURuYjFjaC1sVmxhWDgzVWs0ckRoR05sRGlIQ0dmREF6WDlPcXRJSW5nNjhSZFg5LVRHcGJGTEU0MTZ1Y3BNTXhGa1B5M1NHQ2RSSHIzc0VPeDZhSnhKaW9rQmRHMTZqSE85dV9TdlVqemhKLWI3bUJ4Tk1wTUVCWkJEbUxXTUxRTEI4S051VnA2MVVPaVZWeC1aQTNYLWtJ?oc=5",
+      "source": "markets.businessinsider.com",
+      "publishedAt": "Thu, 18 Jun 2026 00:28:10 GMT",
+      "snippet": "Crypto News: Pepeto Confirms Exchange Progress and Shiba Inu Pattern While Kiyosaki Bitcoin Price Prediction Targets $250,000&nbsp;&nbsp;markets.businessinsider.com"
+    },
+    {
+      "title": "Crypto Price Predictions: Venice Token (VVV), Shiba Inu Coin, Zcash - BanklessTimes",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZENLeE1aR1ptd21BZWt3M2swM2NyOTMzeVlzSzBnNXpfSF8yME5KWnNqT2gtdjJiWUJuMnlpTGdnYWo1bjRtblNaSGVueFpBVl9qN2xhSlUwQ3FZSkJwVHdodWIyQ19sN2hJcENyeVlSZlhXcE5XN3pUeWdYZ09WUHktc3o3eHVJQzVXU1VFRWRFLVl6TTJteDJqV0lrUFNoalVKMGZpSUp2Ul9ENDFpOUdldw?oc=5",
+      "source": "BanklessTimes",
+      "publishedAt": "Fri, 19 Jun 2026 10:00:07 GMT",
+      "snippet": "Crypto Price Predictions: Venice Token (VVV), Shiba Inu Coin, Zcash&nbsp;&nbsp;BanklessTimes"
+    },
+    {
+      "title": "Top 10 Cryptos To Invest In June 2026 [By Market Cap] - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kRU80bGVLanAxOHROSTgyZ2h0eGxkMlljSXgzZzk5V3U1UjNOY215ekNRNWZuZHNYQnJVR3IwTXdIcldGMVdOMDYtN2M3WUZ4NmJ2Wm9UaE16UVh3d3V3QUI5bWJMVm9VSkFteGtRWkhweWFSOVRV?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "snippet": "Top 10 Cryptos To Invest In June 2026 [By Market Cap]&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Base rolls out Beryl testnet upgrade with native token standard - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVmZBLTdCWDBvWmpjakZNTFlvaDdEWThkMEpvRUhuUDF6UTZxZXRibDlzNzFIZG5IQUFYQnRQbmh1bWJvdEwwd0JkWDViQ1RReHk1X2o5NlQ2YlNKeGszUVJKYXFHSGRhZGVqSExUTTRuNV9qRV9XRXkwdC1xVW44Uk94d2ZzNTFGNjhUYQ?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Fri, 19 Jun 2026 11:53:25 GMT",
+      "snippet": "Base rolls out Beryl testnet upgrade with native token standard&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "SpaceX Ignites On-Chain Frenzy: Namesake Meme Coin Surges 15-Fold, Is It Still Worth Buying Now? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVTJTVWhWNzJ2NnVtMURXbVZQM0NVSkdoWEJEdkkwS3NqaElQdk5TSFlnY1R1QVczTXVHZ3lqbE0wWVNtMzgydmQwZE92dlU2SElITXgxS3VhNHBxbkNDZWI3NmQxOUQ5REtHQUFhamJwNDRQQnlkVnlwRGw5YmZoMzRmYjVCbi1Uai0yVDRtTDc5bUdjOG1NMUZIRk5HTW5HcWQ4eGhlLUhocS1Nc3ByeFRJU1Z4YnlvVzNPR2VXVDhxWG9jR3ZXcmZZZjRtcVRrRzJCc2F4U3o?oc=5",
+      "source": "TradingKey",
+      "publishedAt": "Fri, 19 Jun 2026 15:05:38 GMT",
+      "snippet": "SpaceX Ignites On-Chain Frenzy: Namesake Meme Coin Surges 15-Fold, Is It Still Worth Buying Now?&nbsp;&nbsp;TradingKey"
+    },
+    {
+      "title": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41eXZCYVB1MGRuVTgwNXMwcmJwMU1DenZtSGxyNlBZTU40OUxtT0JBbjZtZ3NKUXFmZTM2R2swZTJudGNZTV9GaVBsM05jRjBUZ0ctSy1rMDd0UQ?oc=5",
+      "source": "BBC",
+      "publishedAt": "Fri, 05 Jun 2026 09:56:27 GMT",
+      "snippet": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean&nbsp;&nbsp;BBC"
+    },
+    {
+      "title": "Bitcoin continues plunge as one analyst says token's 'bear market is in late stages' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdm9uVXFFV0I0MndmOWozTHRHUlpsZUdRalFpTWxJelJsQ0pPclZrVUI0dUNVblVwWTNrUEQ0djlUbFpOQmdvdHNzNjRldElyY2dITXVoTXp0TXYtX2o2ODFqYmJ1UVZvT2hBdW5OWk5udWZiTnpsTHNObmtMMDZteGtLOGl5QXQzT1I2dTAtdVZueS1xcUNiVlVkaUdJZXhlclVIQkJUZkxMdEhrTXNPbGZ5bzEyNjBsakZDbVpWQUc0Mmx4YkQxbURRWk5Takw5VnBJWA?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 04 Jun 2026 14:12:45 GMT",
+      "snippet": "Bitcoin continues plunge as one analyst says token's 'bear market is in late stages'&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "There Are Millions of Crypto Tokens. Almost None Have Any Value - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmUydVFtRWFiaUVkWlR6aHZUZXBKVHVGREVDR2JKcTdYUTFPNHNETTU0TFh5WW5qakJKTlBYM3ZwWEtWTUpaUzRaRWZCN0prRjFBRHZieWhzTjl2UWpIU1BCa05TcjRtUmhyNlBuVTl2aEd0M3poQll3QnJCanlsSnFzTlM2VWxKOTRXNmhpY0ZWaXJuZ2pWMmdnMlZNaVlwcHNpdkhXVm93TS1SZkRSNWhtNA?oc=5",
+      "source": "Bloomberg.com",
+      "publishedAt": "Sat, 06 Jun 2026 07:00:00 GMT",
+      "snippet": "There Are Millions of Crypto Tokens. Almost None Have Any Value&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "LAB Token Soars 192%—Discover What’s Fueling the Surge! - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uYUlwczZxV2JfWWN5TWZOSlRtcTFkVjhudHFfc3d0Uk1EZUppXzFYNzU4cXJlaHpaMncwUmJuWVd0bXY3azVXS1FGRDhseFlRb3IwdlJIOC1kckM4RkVQeQ?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "snippet": "LAB Token Soars 192%—Discover What’s Fueling the Surge!&nbsp;&nbsp;Phemex"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=BE: Throttled\n"
+  ]
+}

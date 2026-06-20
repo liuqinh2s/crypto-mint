@@ -1,0 +1,180 @@
+{
+  "token": "PANW",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:27.444Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "PANW",
+    "name": "Palo Alto Networks",
+    "generatedAt": "2026-06-20T03:02:22.680Z",
+    "summary": "PANW是网络安全股票，非加密货币。近期因中国禁令传闻下跌，但财报超预期。无链上数据，不适合加密货币交易。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "PANW是股票，非加密货币，本分析不适用。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Palo Alto beats estimates, but stock slips despite AI security boom",
+        "impact": "利好",
+        "reason": "财报超预期，但股价下跌，显示市场情绪谨慎。"
+      },
+      {
+        "title": "PANW, AVGO, FTNT, CHKP Stocks Decline Pre-Market As China Reportedly Bans Cybersecurity Software From US, Israeli Firms",
+        "impact": "利空",
+        "reason": "中国禁令传闻导致板块下跌。"
+      }
+    ],
+    "fundamentals": [
+      "PANW是美股上市公司，非加密货币。",
+      "网络安全行业龙头，受益于AI安全需求。",
+      "财报超预期，但股价反应平淡。"
+    ],
+    "marketRead": [
+      "无加密货币交易数据，无法分析。",
+      "股票市场受宏观和地缘政治影响。"
+    ],
+    "risks": [
+      "中国禁令风险。",
+      "地缘政治紧张。",
+      "估值较高。"
+    ],
+    "watchlist": [
+      "中国政策动向。",
+      "网络安全行业竞争。"
+    ],
+    "sourceNotes": [
+      "数据来源为新闻聚合，无链上数据。",
+      "PANW是股票，非加密货币，本分析基于错误假设。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "PANWUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PANWUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PANWFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PANWFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PANWUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PANWUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PANWBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PANWBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Palo Alto Networks Stock Price: PANW Stock Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCUUFERERVM283OXlIOEtYY3czQjZ2RnlPcjMxN3JBMGVqTXowV2Q0WHd1ZnlzY2NwbWVraWdCTWRUdjVVSmF5c2doUWZ0ODRYMEVINzNKS2ZwWkRUal9pcnBIY20?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 19 Jun 2026 20:04:43 GMT",
+      "snippet": "Palo Alto Networks Stock Price: PANW Stock Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Palo Alto Networks Inc (Derivatives) Price Today | PANW to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ORGFsM0RBSmZaVjJKcVFCWHhDR2tVWWJZN1Zod2dEUkRpSnA0aWJXaDdibmlxTnRRSjlWcXl0LUtaVlRXV3kxcERGdUx0MWs5WVRKMlJNWU9lcHJnVFVrbjNqZjd5eUMtcFotTTNFQXBIbVVsb0E?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 09 Jun 2026 02:40:07 GMT",
+      "snippet": "Palo Alto Networks Inc (Derivatives) Price Today | PANW to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Palo Alto beats estimates, but stock slips despite AI security boom - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVElybnBMWnkyRkNMSEZRc3NxeXVqWWtxVFBub2N5ZUpKamxqN05UYV9lR2hqbEVLaFE0Ul9JSldKZ2tFcmxObWVCcVVYTmJON2VWYUpUandpUTJnamFiREZuRnRxTEZhd1U5RFpTcjFiS2sxVFBTR285eEt6bTBFdDlCSmltWTVKeWF2WFlBSzI5Q2UwZWhia3NsVWZLV3Y4ZUJiMlpzRQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 03 Jun 2026 17:06:34 GMT",
+      "snippet": "Palo Alto beats estimates, but stock slips despite AI security boom&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "How Trump’s crypto empire fared in 2025 — and what comes next - dlnews.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGxIdnFSVnk0S0FHNUFianI0bmlhQ0xZTGhQVjg2aTJPNXdGcEhGTVI5eWNZZG1tX1RWVFBNLV81aVU3cjd1azNzSXRkdkdHWm5YUEZaY013Z1doOTJSN0NHUUFqelJ2bUgtY2F5OWxRUkVXRlQ2NFdxVjdGa0NRWjRYQmFrQjN2bVFiTV9KYnh6ei1BMWM0?oc=5",
+      "source": "dlnews.com",
+      "publishedAt": "Mon, 05 Jan 2026 08:00:00 GMT",
+      "snippet": "How Trump’s crypto empire fared in 2025 — and what comes next&nbsp;&nbsp;dlnews.com"
+    },
+    {
+      "title": "PANW, AVGO, FTNT, CHKP Stocks Decline Pre-Market As China Reportedly Bans Cybersecurity Software From US, Israeli Firms - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLXhxLTdHV2duVzdrODVvdkN6QXM0VXZuUS1ibm5ScWl6QWEwMnZGTkt3bk03LUYxNzVEUEVZQXQ0b0I4dFp1ZWQxZl9iSVpsNWl1NjhXbzdKRDhlam9oX1Q1MUFnNlhDNXgtcl85X3RXUUhaN0o3MnZnVlUzZm5LUEctRVYyNElDV0IzWlV5VDhOQzRlcHZTUFdkZFVFYURpNGRUcGtaVXdwajk3Nk5kdDRMTmFDNTU2elFiS1BUdzRvMjJ5NTZMcF9nUzZBRHRFWEI3TExYNFBmRmhsTm5BR0o3Zw?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "snippet": "PANW, AVGO, FTNT, CHKP Stocks Decline Pre-Market As China Reportedly Bans Cybersecurity Software From US, Israeli Firms&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Should I Invest in USD.AI (CHIP) Coin? Resistance Test in Focus - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMW9DQTlOcW9nckVMRFA0TEtSN1ZYUEdRUVBqeE5LN1NmZTdyb1lIbkxtbjhGdU12SjJvU2s1SFlFd3lRZWZYdm81Zi1VUnVWQ242cWQ4OTJWNnEtLWlsa3BSYnRDVGxtWFFOOGlRRGVsSzFsMHlrcnNudTZfS01DWGVJQS1BS3hsTTVEZ2ptX08tVW1pY2xJeFhrNVpfY09I?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "snippet": "Should I Invest in USD.AI (CHIP) Coin? Resistance Test in Focus&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Bitwise Files S-1 for Sui ETF as Fifth Issuer Races Into Layer-1 Altcoin Market - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORW9TRW40NDdPMi01QkxPYjB5am56c21ab2Q2SldPRTlfdFdTcUxhWS1VSzkwajhOUU85M1VGdWNQWm9rVUVwX1ZrLURFUGVLQno1c1psSGN6Q3BPWFFQZUFLVHhZdWNRU1B2anBGUFRNRklraTd2d3E0M0NQRm96MmNoc0M0WXhLSzNMb25aNkh4cUFNQlNjY01uRzVONGJCemVySzRDdVpZX2RuX2dOZVl5X0RhcURN?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "snippet": "Bitwise Files S-1 for Sui ETF as Fifth Issuer Races Into Layer-1 Altcoin Market&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "6 Biggest Blockchain Companies - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50cW9DOVk1Nld5OWtwSUluVzZfc0dlS2Zvb0hYWDNaVmdSV0FUUmpIZTRnR2NxbXNOemtZMXU4UHYyQ3BqZ2lEcjBpcnkwbUsydENXd3hRSUJ0UmQ0NnBhVDBmWm96ang1Zm52MUZXSVY2TnhjYzZF?oc=5",
+      "source": "Investopedia",
+      "publishedAt": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "snippet": "6 Biggest Blockchain Companies&nbsp;&nbsp;Investopedia"
+    },
+    {
+      "title": "Monero, Dash Reach New Record Highs With Privacy Coins Outshining Bitcoin Rally – Zcash Lags - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRGV2Mk1nQ3ZYTXlEYzB2bnAxWnZYb0JiaUxSc0RhVEFRYmVpUEJoREx2aU9IVE5fLXdjM0FVMno1MW5GRlR0WkM4WDB4UzZZQjV1WDVxOVAtaGJsLWw1TXFvNlc3bHJ1WFZ1bWU1RTFYUnpFMmpTWlE5LWJwSGRSX3pMTG1QLVVrWkt4M0pVOFhteE00dW1oWFBmcERJQ29SbEQ5WTRiUE5JLV9jbFFGRVNKU0ZnVTljX3oyY0NQNGdYZUpDY3h1Q1JaU3oxR3Q0Zk0yMVl0WUM3ZkhnaDZUOG9n?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "snippet": "Monero, Dash Reach New Record Highs With Privacy Coins Outshining Bitcoin Rally – Zcash Lags&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "What is CHIP (CHIP): Up 300% in 2 Days, the Next 100x Coin? - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1RZeWQ1bDk4V2FvcXItRkxycnBVT3Fyd21zc0hiZUpfRGZsR1I3Y2phT05rXzNQT0NxRDVMamRZOUJtVUl2U2ZwSDlHNTV5dG1WTXpULTctd3A3Z2pXOVlabVY1WVI4Ymh2QWthVFctQUNOaWxIcDF6bWlUanhNamF5SXVjM3hadzhFOGJTbktTcHYzZ283aQ?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "snippet": "What is CHIP (CHIP): Up 300% in 2 Days, the Next 100x Coin?&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Crypto reels from a $200 billion crash as casino crowd moves on - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZTZobEtOelk5V3FPUnM5TEQ0d0VHRE96NlJtYlZGV05YSDZ1dUc0a1phUERRSkdpclBYMFFkZW90UG9DMjlDZ0ZRdURpRmJTLWJjWTVDamVNUnlPcTNtS3A3d0VNV3hyemZpa3FVUkY5b3AzZ0o0WWw4WnZGZmF3c21ubHUybk1SUGxnU2hLQ1NjbFltcjVoOVU4SC1mdEdBbm9qR0M5Y3VSQ0ZRWTNWQ1U0aGpzajNFRlZkVUhIU2dxMGhtVXJWcQ?oc=5",
+      "source": "The Detroit News",
+      "publishedAt": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "snippet": "Crypto reels from a $200 billion crash as casino crowd moves on&nbsp;&nbsp;The Detroit News"
+    },
+    {
+      "title": "Melania Trump launches cryptocurrency on eve of inauguration - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiVlotcVpvSE9Na2ZYUzNXVjN0VHFReWYtSENxdm9UQWRPWGp0N3dzTnRXdl94OXdEcFVfdGtxTjBtc3JNbHZJUk9PazgyR1BpSlZHdUVtbFdBZw?oc=5",
+      "source": "BBC",
+      "publishedAt": "Mon, 20 Jan 2025 08:00:00 GMT",
+      "snippet": "Melania Trump launches cryptocurrency on eve of inauguration&nbsp;&nbsp;BBC"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=PANW: Throttled\n"
+  ]
+}

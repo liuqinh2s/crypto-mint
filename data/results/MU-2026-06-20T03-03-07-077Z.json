@@ -1,0 +1,162 @@
+{
+  "token": "MU",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:03:07.077Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MU",
+    "name": "unknown",
+    "generatedAt": "2026-06-20T03:03:04.017Z",
+    "summary": "MU代币在币安无交易对，新闻均为无关内容，无法分析上涨原因或给出评级。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无有效数据，逻辑不成立"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "无项目资料"
+    ],
+    "marketRead": [
+      "币安无MU交易对，无法获取行情数据"
+    ],
+    "risks": [
+      "数据缺失，无法评估风险"
+    ],
+    "watchlist": [
+      "需确认MU代币的真实合约地址和交易平台"
+    ],
+    "sourceNotes": [
+      "所有新闻均与MU无关，行情数据因地域限制无法获取"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "MUUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=MUUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "MUFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=MUFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "MUUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=MUUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "MUBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=MUBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Trump family got about $500M from crypto venture — but investors saw steep losses - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDZwckVnOE1ybE1mRUJscXBtdmdzUWc3ZUI0VER5aWNkZTBZZkkzR05FeV95V2pfZUZVZXBWaUhic0I1eVVnOWthdFkzVnd6U1pjdHB4dkxFcjgwcXloMk1pbV9PcTVacUM5RFZxTDNTSU5oWlN1ME02SVlOZl9sZnNXNWFXLW1kYXVLR9IBkgFBVV95cUxQWFJaZC05VFhqd0tPS3BHRGVzRzZkNl85eTJEVnRTdEdHNEY3SzFiVUNKSTBnem11Z1JKX1pna3NyUDV5T1hub19TOERaSFJfdDFvaWtHV1hFRHJ0a1V1MnA5WF9BdF9vMUxtbjBTVmJwWFdGb0pzUVZjQUdfVDB1emR5YUxWY2w1WHlrRUUtM2toQQ?oc=5",
+      "source": "CNBC",
+      "publishedAt": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "snippet": "Trump family got about $500M from crypto venture — but investors saw steep losses&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "What is crypto staking? A beginner's guide to earning rewards on your crypto. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONG1tbzdJcGp0SkNtWl9DVkQ2WHMzYVladVN2N2VET3F3c1pYeVhfeW1WcjA1T3A3ZHhuRk9mb2RBY3ZIYjF2THMtajFHT2JnV3pySkMzdFpqbS1qci1DS3dRaHFIdHhMZHBLRDQwM1B2SzI4X0pjcm1BWTZ0QkZreHBqZmNFRTVIdVplZGdDV3BjMW1TMWR4QTVMZUM3YTZpam1nNnVoSTcxcG1pWDU1NTBGN051Z25lbFJHQy05bndHV1NwUjV2eVFpbGQ5Y2NwQW82WWZyYWFyZTJWUlhOOFV2eG0?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "snippet": "What is crypto staking? A beginner's guide to earning rewards on your crypto.&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3OVZxN2JqMkpJTXdpME9FR2VPMEEyZGdlc0RuLXhFNVNUNWNEOTg3UkttT3d3QkxaTkJ4OHZhX0xOR1JFNU44WWZZWXlnRkJRbGtyQUctaTBYdw?oc=5",
+      "source": "BBC",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "snippet": "Billionaire backer sues Trump family's crypto firm over alleged extortion&nbsp;&nbsp;BBC"
+    },
+    {
+      "title": "Crypto billionaire Justin Sun sues Trump family's World Liberty Financial, alleging fraud - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUUdkdFVqOVR6WkdncVE0YVBzektfWjFOanBfX2lQTjhCeFpqU0xJWDdBT0NUb3ZIdUJQOXhCQW9sb0NSN0pKaFdtMmJSbFFYQkEtY09sOFpGclpZUDItWHJwaEx6UXN4WkM5SjFfbkF4TGdpY1dWVHhWTU5SRGhxWXU1OVJfZ9IBiwFBVV95cUxPZGxCSkF2aC1vQ2lKYmNQTWZnMXdUeVNkZjdHeUVmR0dnWUxFT3E3VkF4TTJjNWgzZUEwOU00Snp5R0RZZE5IMWZmZTktdmxCTGJuRlAwZ254czZHNW1OeWZuXzFnbWNySGdpdGlheDd3WmlZQVZwb1o1TjlVa2p0SEZwZXg1R2FlLVZv?oc=5",
+      "source": "CBS News",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "snippet": "Crypto billionaire Justin Sun sues Trump family's World Liberty Financial, alleging fraud&nbsp;&nbsp;CBS News"
+    },
+    {
+      "title": "Why XRP Is Going Down? XRP Price Drops 5% as Bitcoin and Ethereum Retreat Amid Heavy Crypto Profit-Taking - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVlNjTmF1aHlPNFdHcHBJNjhveEROR25wZFNkbXVlQmM0UG9LS2Q2VzJwdHJuWm93bnFzR3VkZl9vZWJwdXFVY2R1LXFORXVrYldzeE5jZ1hkdXpEdlhSdE90VzJEeEN1eE9vRGR5TXlQXzFVLTJDdXBqamp6V2lKd01DYlhlczJSbHMwQ0paWXBaelBtWk1qcGRoT0JRSDdVdzdHVVlqZ0FOXzZtc2gxdmNjc0cwQVlxdGF1aGR6NHM4ekN4bFpkR2VsN19jN0p5UjdOU29pemlldGxPYkppMnY1enBhS1NsRjYzM25GT005U2RXOUFzRXQxOHk4UQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Mon, 18 Aug 2025 07:00:00 GMT",
+      "snippet": "Why XRP Is Going Down? XRP Price Drops 5% as Bitcoin and Ethereum Retreat Amid Heavy Crypto Profit-Taking&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Crypto Market Cap Charts - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WVFVfVk5CcTVtZlROd3lYbEdYblJ5NVAtSHZFMWVjSkZ5cUdpQm1wX0t0b3UwRWpLdnRNV3owQ1pHWGd2ejhULVJoQQ?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 04 Sep 2025 08:04:04 GMT",
+      "snippet": "Crypto Market Cap Charts&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "OFFICIAL TRUMP Coin Price Prediction 2026, 2027-2030: How High Will TRUMP Crypto Go? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOTNwTEJndTU0WFlmdHJUeEVfY1ZCaV92dlczM0dVNEw5bENvMU1mdXNBVXp2NjhNeG5ENDBVN19uR2NOZk4wcHBod3JjQmhNWHVWUEhsQVNlUlhpTHY1UDVkbGZuU3VBWjBTenJaMEptMW92MGt5M1JkbVJaRGlXMXN4b2xBWVlDNFJWVGVUSlE?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
+      "snippet": "OFFICIAL TRUMP Coin Price Prediction 2026, 2027-2030: How High Will TRUMP Crypto Go?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Crypto exchanges rushed to list Trump's coin - leaving many losers and some big winners - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdDlRWGxyMzJCblB0Wi1uQ004QzFBRFpRQ296bTNHU240X1dzOXY5aEdHQ2lOVGZFbGtVRkpGQW5YV1FGajlpVFhwdkliUkNzQVdRU1FhSGU0Q0tOb1lKRi11YUFBXzlkSDlBQ09rN2dDeEVEUW1sUVppaTZkWG9fdzhuak5jVndnNnU2aGVFdjgzZDVHNXoxR0JGRldmVE9hRDV5NFUxckFZWDhVU3hFQWRWVnR2ZGc4WUFFcUpJUm94cnhjWWRPVkhLQzk3UE5rVHQ4X2dnOXJJdVFHLTFjN0dPWndxbGVO?oc=5",
+      "source": "Reuters",
+      "publishedAt": "Mon, 14 Jul 2025 07:00:00 GMT",
+      "snippet": "Crypto exchanges rushed to list Trump's coin - leaving many losers and some big winners&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "Linea (LINEA) Token Listing Price Predictions: What to Expect - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBacXZZZHhhM0xxazlocGJLMktVTFY2Zk9qOEJDX2dEVllhMGh4a093QUF6YS1fQi1ibU1kbWhlYkhmVmxVbml4YW5fSkVnQzlseE03bVBlRVNpVm5LeW1ya3pEVQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 10 Sep 2025 07:00:00 GMT",
+      "snippet": "Linea (LINEA) Token Listing Price Predictions: What to Expect&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Crypto Whale Nets $700,000 Profit On ApeCoin After APE Token Price Hits 3-Month High - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTERfMks0clhkMkoySlFfUHgyUXozeVZYaGFOeHRSNzJvNU1fbWhMSkZUbUphc3YzU1RmRTZYc1ZDVS1PcnJXcE53Z0dBVGpVQkdDUmxpZlFzWGdlSVREUmJqVW9nWGJFeE9wZmwteEYzTVdPd0pmYmxPVUVmSXJCWklfbU02Tl9CRFJ1cDBRenIzRHdnMVFjakhBM1Z0bmxYQ0FWZWdpd1R5X05VMmpCQUN4Y1hfX1ZBLVFKVUhDblQ3b0pSV2hodkNWd3BRaTc1eWc?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "snippet": "Crypto Whale Nets $700,000 Profit On ApeCoin After APE Token Price Hits 3-Month High&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "American Bitcoin, backed by President Trump's sons, listed on the Nasdaq - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZFNmSnE3RHA2R0syZmhfSndOSHg4Y2lNU0RQZG1xWHY3YW5LcFJvUmV0aWhPTlhIWGZHNC1GWFR2RkcxUjJ6NEt6Nk9OZUdRaDEzdjBXZGFqZXRETC1EeVlIdXhnYmRMcXlOTlh6dm1GVVRyR3VseU5PbWwzeUlHVE9oMF9XYjQ0a1luOXJQb2FndThXUl9XblBnMkQxRVQ0cTZadEgycElBcGtfazRaQkJoM1JzZw?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 03 Sep 2025 07:00:00 GMT",
+      "snippet": "American Bitcoin, backed by President Trump's sons, listed on the Nasdaq&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "How to Import Crypto Prices in Google Sheets (Easy Guide with Examples) - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wNG5oVWVxc0dLODl6YlhraGlES3VFMzVsUjE2Z2Y1cGw3V3hrd1k4WldsenlNa2RDTFowbHhFZkhOX0hQVEpuNkk0TjU3TEd5blpEbGZLZWNKaThyRVdJSHVab0hxSC02cjdXTWZLS1hjcGRz?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Sun, 08 Feb 2026 08:00:00 GMT",
+      "snippet": "How to Import Crypto Prices in Google Sheets (Easy Guide with Examples)&nbsp;&nbsp;CoinGecko"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/spiko-amundi-overnight-swap-fund-eur?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

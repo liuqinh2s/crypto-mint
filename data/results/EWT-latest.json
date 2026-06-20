@@ -1,0 +1,191 @@
+{
+  "token": "EWT",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:13.937Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "EWT",
+    "name": "Energy Web Token",
+    "generatedAt": "2026-06-20T03:02:06.827Z",
+    "summary": "EWT是Energy Web Chain的原生代币，专注于能源行业去中心化应用。近期无重大利好，价格走势不明，流动性数据缺失，建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，不适用"
+    },
+    "catalysts": [
+      "能源行业区块链应用概念",
+      "曾因BlackRock提及而短期上涨（2022年8月）"
+    ],
+    "latestNews": [
+      {
+        "title": "It's not famous or highly valued, but this cryptocurrency could be key to the energy transition.",
+        "impact": "中性",
+        "reason": "文章讨论潜力，但无具体催化事件"
+      },
+      {
+        "title": "Energy Web Token Jumps 25% After BlackRock Gives Decarbonization Project a Shoutout",
+        "impact": "利好",
+        "reason": "历史新闻，显示机构关注可带来短期涨幅"
+      },
+      {
+        "title": "Energy Web Token Price Prediction | Is EWT a Good Investment?",
+        "impact": "中性",
+        "reason": "预测类文章，无实质信息"
+      }
+    ],
+    "fundamentals": [
+      "Energy Web Chain是开源区块链平台，专为能源行业设计",
+      "EWT用于支付网络费用、质押和治理",
+      "项目由Energy Web Foundation支持，与多家能源公司合作"
+    ],
+    "marketRead": [
+      "Binance数据因地区限制无法获取，无法分析实时行情",
+      "历史新闻显示2022年8月曾因BlackRock消息上涨25%，但此后无持续动力"
+    ],
+    "risks": [
+      "流动性数据缺失，无法评估买卖深度",
+      "项目概念虽好，但实际采用进展缓慢",
+      "加密货币市场整体波动风险",
+      "缺乏近期催化剂，价格可能长期低迷"
+    ],
+    "watchlist": [
+      "Binance或其他交易所恢复数据后的价格和成交量变化",
+      "Energy Web Foundation的重大合作或技术更新",
+      "能源行业政策或机构投资动态"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取实时市场数据",
+      "新闻来源多为聚合网站，时效性差，最新新闻为2025年7月",
+      "无链上数据或项目官方公告"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "EWTUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EWTUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EWTFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EWTFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EWTUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EWTUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EWTBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EWTBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Energy Web Token (EWT) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SNUp3NmNBTUNzU2hNNmhTRGJTWVpPbDhQUU0yaFNkV0RTbldNckxhZXd6b1d5aTZYbmZ1V25RRlpwV3B5dDhqVm9EWEc4aEVKTzV0ZHZOdjJwR085bjJqelEzYVkzbU5TU3RwVw?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Wed, 23 Aug 2023 23:19:44 GMT",
+      "snippet": "Energy Web Token (EWT) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Energy Web Token Price Prediction | Is EWT a Good Investment? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYZXhEWXlSdEY3ZVZLQlRVY1hsQm40QXVhYzZ6cVhRWnhMX1Fhd1k3SDZnbVlDSjdnUXR5eDgyc3B6WWVONERfcDVTQkNaX0c0T1lZbE5MQUtLTHREbnZWdjd3UVFXckF4eGY5c3RROUZVVXhUdG91TTJ3cUdJdw?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Tue, 06 May 2025 12:32:01 GMT",
+      "snippet": "Energy Web Token Price Prediction | Is EWT a Good Investment?&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "It's not famous or highly valued, but this cryptocurrency could be key to the energy transition. - Bit2Me News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMUJMNU1EbjcyalZmWFZ0VmpjeEh1Mjd2aE5OOG1qWnBSYW1yenowZ0d0bUItczJ3Z0UzbGd6elpwY01kWEtMNDRXdHpiOFAwbTYzS1pUVEFQZ0RaY3pXLUxNTF9xOFR1MURLU3oxNy1FMlVhSW1EaHhFd3RhVU1ITEpZWkZBQQ?oc=5",
+      "source": "Bit2Me News",
+      "publishedAt": "Fri, 04 Jul 2025 07:00:00 GMT",
+      "snippet": "It's not famous or highly valued, but this cryptocurrency could be key to the energy transition.&nbsp;&nbsp;Bit2Me News"
+    },
+    {
+      "title": "Energy Web Token price today, EWT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JNEllMnl5aGNERHpOUVJROHJQMERSYlM4Y2g4bEdoWVFaWkM4dTZIbUNNSmNJMHdYV0hxaTBkeVdIaGloUXZVdlRKWDZCWlZpVVB0LVhRUklhQ244dUtOVXFUaE0?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 30 Mar 2020 06:19:32 GMT",
+      "snippet": "Energy Web Token price today, EWT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Energy Web Token (EWT) Live Price Chart - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xdEsxbkRyaDJSeDAzRjVRWWNUa25MTF92b0F0aEoyVVpPQ0dBQkFrcFFjaGV3UjRWZTBNTHNzeVJKQWotY2Vj?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Wed, 13 Apr 2022 22:38:29 GMT",
+      "snippet": "Energy Web Token (EWT) Live Price Chart&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Energy Web Token Price Today | EWT to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VZWJPVlpqaVphaUpWT2VqdW9YNXVWUVBKY1M0WlE2VGJpdXVCaTZwcEQ0cGNiQXNYc2Y0ejhxWFFzLUljVnZWaHRzeERqci1Id3pjdmN0YTJHN05UUVE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 08 Jan 2022 08:03:03 GMT",
+      "snippet": "Energy Web Token Price Today | EWT to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Energy Web Token (EWT) Review - Altcoin Buzz",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWZVWjBoX2RkWmNpMmJEWTRVdmRJX0JFdFltMnFMN1NOaER4Q2dUQW9ET0EtdHd4NnNjQTg2aENKSjBwSE9CeHlYYUxvc095OHpOdjVQMDlBTlBJRVZJdi1rTWRZSGhPaUR0d0Q3dnQxUXB4QmVyRFlZWGQ5MFEyc251VzktNUE?oc=5",
+      "source": "Altcoin Buzz",
+      "publishedAt": "Mon, 10 Aug 2020 07:00:00 GMT",
+      "snippet": "Energy Web Token (EWT) Review&nbsp;&nbsp;Altcoin Buzz"
+    },
+    {
+      "title": "Energy Web Token Jumps 25% After BlackRock Gives Decarbonization Project a Shoutout - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQV9GZm9nanV1XzBRZ1VvLTY5dk9lOGFXdmluSzZXZm9Cd0ZhdzNyVVVjUkNZQlNlWVNsZmVVQ054Q1pkQV9xNjlnY010U25lWl9zdDdOOVFOLUlqMFdVLTFhaDBqUFRHTVJ6eW0tTC1EM3Z2Z09fVGFFSzZxdWFfSkRqVnowc1Q4WkVoUnZRUmpUeE9nZ2VwZ0FwZ1hudVRlQnNFZGN6MHZyUUdHVEJTQ2loU0dRREt2M2lGMld3RG5vRnJoOEE?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 11 Aug 2022 07:00:00 GMT",
+      "snippet": "Energy Web Token Jumps 25% After BlackRock Gives Decarbonization Project a Shoutout&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Energy Web Token Price, EWT Price, Live Charts, and Marketcap - Coinbase Australia - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBseC1KYVVtblFWQTBqdkpRemN3dEo5aDBCTFVuazY4TnJISHMycDVGNm5RRWZ0b19KZHdMR3o4NXRvUUxOM1d2ZFJZbC1iOHBnX2wxX3BOU2M5S0U?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Sat, 23 Nov 2024 07:16:08 GMT",
+      "snippet": "Energy Web Token Price, EWT Price, Live Charts, and Marketcap - Coinbase Australia&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Bitcoin’s Pullback A Healthy One? Chart Signals Move To New All-Time High - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qUkcwV181THZoWEhCMld6b0stS0k3VndMeG1URmVKSFpZLThCaEhabDltWDZDMW1xN0hOY3dIdTd2eWE4SF9JSnVxZjBQQ1JpTHdLYUZtdlQ2TUZWcmpvdWdNR3lfTjFkeFlCZVhITFc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 11 Oct 2025 07:00:00 GMT",
+      "snippet": "Bitcoin’s Pullback A Healthy One? Chart Signals Move To New All-Time High&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Price of Energy Web Token EWT today in EUR – Quotation and market trends - Bit2Me",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sWFN6QjluZXRWekJqQWZBY2VqdjhYQ2l3bnFuUWF0eFRIajFkQk0xcUxRVFU1VkV0c2U3VHViZmhjS1c4cWIxempWOHhkU2J4Q2pB?oc=5",
+      "source": "Bit2Me",
+      "publishedAt": "Mon, 15 May 2023 07:00:00 GMT",
+      "snippet": "Price of Energy Web Token EWT today in EUR – Quotation and market trends&nbsp;&nbsp;Bit2Me"
+    },
+    {
+      "title": "Energy Web Token: Decarbonizing Crypto With Blockchain - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05b2JDNXpHdU1MZjZhVGQ3MEp1SkMzUEdsdkNpSXdZMkw2SWttR2hmYUlIU2tHZW1icHZJTWJlUndGM2NlakQtenRQTGRzcEJSQWltOU1xdzRVaWpVQnljbUVuSWVTOHZvb2tpX21lZ0Y?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Wed, 12 Oct 2022 07:00:00 GMT",
+      "snippet": "Energy Web Token: Decarbonizing Crypto With Blockchain&nbsp;&nbsp;Bybit Learn"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/energy-web-token?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

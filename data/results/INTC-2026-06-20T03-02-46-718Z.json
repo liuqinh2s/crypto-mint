@@ -1,0 +1,194 @@
+{
+  "token": "INTC",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:46.718Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "INTC",
+    "name": "Intel Corporation (Derivatives)",
+    "generatedAt": "2026-06-20T03:02:39.546Z",
+    "summary": "INTC为英特尔股票衍生代币，近期因Nvidia拟投资50亿美元及AI叙事带动上涨，但基本面疲软，流动性不足，风险较高。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现明确利好（如财报超预期、大额投资落地）且流动性改善，可重新评估。"
+    },
+    "catalysts": [
+      "Nvidia拟投资50亿美元与Intel合作开发数据中心和PC（2025年9月消息）",
+      "AI叙事带动相关代币情绪",
+      "Tokenized资产创新高，可能吸引资金流入"
+    ],
+    "latestNews": [
+      {
+        "title": "NEAR, TAO, AI Token News: Nvidia (NVDA) to Invest $5B in Intel (INTC) and Develop Data Centers, PCs",
+        "impact": "利好",
+        "reason": "Nvidia投资预期提振Intel股价及衍生代币价格"
+      },
+      {
+        "title": "Intel earnings preview: options pricing signals 'sell the news' reaction",
+        "impact": "利空",
+        "reason": "期权市场预示财报后可能下跌"
+      },
+      {
+        "title": "Why Did Intel (INTC) Stock Drop 14%: Weak Forecast Raises Red Flags",
+        "impact": "利空",
+        "reason": "基本面疲软，业绩指引不佳"
+      }
+    ],
+    "fundamentals": [
+      "INTC为英特尔股票衍生代币，非原生加密货币",
+      "英特尔基本面：营收下滑，竞争加剧（AMD、Nvidia），代工业务亏损",
+      "无原生代币经济模型，价值锚定股票价格"
+    ],
+    "marketRead": [
+      "Binance数据不可用（地区限制），无法获取实时行情",
+      "新闻提及INTCUSDT交易对存在，但流动性可能较低",
+      "近期价格受Nvidia投资消息提振，但缺乏持续动力"
+    ],
+    "risks": [
+      "流动性风险：衍生代币交易量小，买卖价差大",
+      "基本面风险：英特尔业绩疲软，股价承压",
+      "新闻时效性：Nvidia投资消息为2025年9月，已过时",
+      "监管风险：衍生代币可能面临合规问题"
+    ],
+    "watchlist": [
+      "英特尔财报及业绩指引",
+      "Nvidia投资进展",
+      "衍生代币交易量及流动性变化",
+      "整体市场情绪及AI叙事热度"
+    ],
+    "sourceNotes": [
+      "Binance行情数据因地区限制无法获取，依赖新闻来源",
+      "新闻时间跨度大（2025年9月至2026年6月），需注意时效性",
+      "部分新闻来源权威性一般（如WEEX、Tokenist）"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "INTCUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=INTCUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "INTCFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=INTCFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "INTCUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=INTCUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "INTCBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=INTCBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Intel Corp (Derivatives) Price Today | INTC to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wVGFfZnh1ZFFiNFlaNkp4SXlyWUc0WFpoWm5zVTFaUzFQQ3VuZUpmb0lEeFg5VGs0d1VrdFRFRVFMelk3aTlLQjNHRWpQb3BUR1oySDlyUjQ0WFdHU2xPaXZic0ZJQQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 16 Jun 2026 18:08:00 GMT",
+      "snippet": "Intel Corp (Derivatives) Price Today | INTC to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Tokenized Assets Hit a New Record in May. That's Fantastic News for These 3 Cryptocurrencies. - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNbUswVlNJcm9rMlhOdG0ybHFGY3JMVk5oSTNvamRVM1dFSlB6cWxYa0FoUldUM1IzMHRrTWg1MnNPSzN5SkRYWWtrT1g0RFNjXzN0SW9xbUd0aTVETDdJRWQxU0tHb3J1cC1ZclRkWWVkV2QzT3YyeHZHbDRIX1VVNlZSeFBHRGtiUU96dlFXelFkVWtZcVB5ZFNiOFJQd2pIYjduaUtBWlV1a2hrQkVIS3h4RTZjZlZ4YmdGcGlnVTcweDhYNjI3d3hPMFJoT3RDMFd0Qk9Na3RpVDY4T2ZhRER6amNpX194eEZPaGdmWnlmQ0o5VEg3MFRzWlRJX3otZW9nZkFGMHhLUQ?oc=5",
+      "source": "The Globe and Mail",
+      "publishedAt": "Tue, 16 Jun 2026 09:21:00 GMT",
+      "snippet": "Tokenized Assets Hit a New Record in May. That's Fantastic News for These 3 Cryptocurrencies.&nbsp;&nbsp;The Globe and Mail"
+    },
+    {
+      "title": "Is Intel a Good Investment in 2026? INTC Price Analysis and WEEX Trading Guide - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRmhJYmw4bFRReU5OMkRKQ2gtV0x2ZWJuVlVLOG84WUVPbF80anVlNlpmZ1Fld254aE5hbEZycXFGenhjVjljZGtRZmVIVEw1OHgzMjE5clpWa0ZqalFNUk9GMFRFZlNmTEFVaV8wQjdXb3djNHRCdFZPUWczS25YY3B1TlhaWG9ZamV3N3k1QUJFZHZGb2xWZzhHM0RHdGdNVWRFSHllSlZzR0tSNm0zbVNtVVduWHpXSmtoUmJMVkFXZ2wtN1IyR1dKT25POTJzdnc?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Thu, 18 Jun 2026 08:23:51 GMT",
+      "snippet": "Is Intel a Good Investment in 2026? INTC Price Analysis and WEEX Trading Guide&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Top Stock Movers Now: Intel Rises, Nvidia and Oracle Slip; Bitcoin Price Near $92,000 - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3N0MUJYNy13UE40MF9paGhfWHJab3lMSzdFSFhycDRkR3lUSkxCN0ZaWERuZkRKRzN3WUlwTTA2SHl5bE4xNnp3Nno2WTB4VTZZdlV4OEhrSTlUdWwxVVFrLVA0WHBqdFVfT1l2NlptR3lobzlRdmJaRFlWOWIxMUptMjB1a1ZEd2dKUHRHaXlhNWVTQmxmNV9TbEkxdl9LQlE4Vm5IaWZzalF5WnRXeTZjcldQZFF6UzNGOEpn?oc=5",
+      "source": "Investopedia",
+      "publishedAt": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "snippet": "Top Stock Movers Now: Intel Rises, Nvidia and Oracle Slip; Bitcoin Price Near $92,000&nbsp;&nbsp;Investopedia"
+    },
+    {
+      "title": "Intel earnings preview: options pricing signals 'sell the news' reaction - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHVUdkl6N21nbDc2cFJuT1dqNUpieng2dl9nTG9McEY2ckJzQVVhaFN5NTZsTVZpRTlkUk9rRzI4dWltdmNPT2lkeFNhYVFxNnlqRmpRQkNvLWE2UWdKcGVZYnBmWXlObGV5dTJBb3BLdlkwa0JCWm1mRm9INnZGX0xteEhpRUJMZXNzZnp0LVNzQW93NkdEVnYycjVxRWZHUTNOcGxUME1BeDg?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "snippet": "Intel earnings preview: options pricing signals 'sell the news' reaction&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Bitcoin price news: BTC's advance appearing to be a one-day event - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTUdWdGROZ2ZYRW4yOENibk5IczVpVU83cmFoZTlnczB2anduSmx5TkEySDJ4Q2JzMHk3clpGMWNENnZ0ZTByaHkyQUM2eE9nRzNQOEstWFE4NG5PNE5BeU41b1BOTDdxMC1UUkIwTEhhem9pTWFJcjVNUzhyR0tnZ3FjV3cwRHN2Y2RaT2E3eERqR2dmRnlfa3IzTWIzdkprcE5xRHhRMkFqcjZ6MmdrZ292ZzhlckU?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "snippet": "Bitcoin price news: BTC's advance appearing to be a one-day event&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Could Buying an AI Crypto Today Set You Up for Life? - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcURCX0M0OF8wSllndTVhVkdOck0xZzR4M3RsTFM1VTFHVUZ0TlE5VExOMXdKa2FsdGhPaHhhZnJ6by10MENwZ1R4RTJINElMWXhocFlPdzVMMEc1aUJObl93Rmw3cURxQnBrWlE4aEZ2aXp3RFFxS0c5bUU3Q3NxejlycmhOcnV2dkFmQ3F2YUhndk1Fek5MNGRwa2dueUhyY0tGSFIxczZWb1B3UTNHd19qTDV1bmhuSjhHb2dUaERjRVRJRzFEdXlEd1V0QnhlbUNLTA?oc=5",
+      "source": "The Globe and Mail",
+      "publishedAt": "Fri, 12 Jun 2026 22:20:00 GMT",
+      "snippet": "Could Buying an AI Crypto Today Set You Up for Life?&nbsp;&nbsp;The Globe and Mail"
+    },
+    {
+      "title": "Intel Corporation Stock Chart | NASDAQ: INTC Stock Price - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44UTlLTmVDVldPbnNxSDl2aTN4UG1manVGd05QQmpIT3ZMWFJ4c1BOQnNnMTdhQi1NNUdEUERJQlFOY2FpMU5UZ1UzQi1ZRWVUOHc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 20 Nov 2025 14:30:42 GMT",
+      "snippet": "Intel Corporation Stock Chart | NASDAQ: INTC Stock Price&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Why Did Intel (INTC) Stock Drop 14%: Weak Forecast Raises Red Flags - Tokenist",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcHRhemZvUXVMRE8zWV9NdVdyYm5BV3hBVEE0V25EYlJ0ejNCU2JoNGM3UW5SczFPM1RBRkNFcGdNR1NKM3drSW5Cd0xHM0pDYmxYLU8zQk1hSTQ0RUpIcHJaS29WejlpSnpocjBKOWxJaGI4UkctSVRwRmhsNFRIYkt1VWpCSVVoWjA5d1NR?oc=5",
+      "source": "Tokenist",
+      "publishedAt": "Fri, 23 Jan 2026 08:00:00 GMT",
+      "snippet": "Why Did Intel (INTC) Stock Drop 14%: Weak Forecast Raises Red Flags&nbsp;&nbsp;Tokenist"
+    },
+    {
+      "title": "Intel Corp (Derivatives) Price | INTC Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85UjA0SjZxTEZPanJKMWRjMmFZQktEQjFVU29tblgtZG5rczFocW1qZHc1NWZwY0t3U0R6ejJkempDWFpBeUNmaFU1ZVI4amllQkhaR0lKVWVObWRhUnJB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 17 Mar 2026 16:14:50 GMT",
+      "snippet": "Intel Corp (Derivatives) Price | INTC Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "NEAR, TAO, AI Token News: Nvidia (NVDA) to Invest $5B in Intel (INTC) and Develop Data Centers, PCs - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQemsyc3FDTk9fMTdfalhTdGlELU9ZN2Nlc2dFYTI1NmlVU1NIX0dxZWVKWXJmVWxCbUhIY0NkTjhMRlgwVUlweXF0V1pJb2VJR3pjSXd6NEk0SE1MQTJhSUlveGxEM1I2UmpqR2JNNmtxd2RsbmVkLU5YSzJkeG1GNmpybGJfdVowQmlpNFZrUVJhOGpWRlNHVDh0TGZxdDRjQ21IZE9oRDc?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 18 Sep 2025 07:00:00 GMT",
+      "snippet": "NEAR, TAO, AI Token News: Nvidia (NVDA) to Invest $5B in Intel (INTC) and Develop Data Centers, PCs&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "INTCUSDT Price USD, INTCUSDT Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Vdm1reXZmSGE5WG9NaVlNMkhDd0dGRV9EaGhUN0dXMjkycENEQmlyamw1VFhpUnNsUWF1UXV2ZDNhY1lCdy15dkZoX3Vmdw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 30 Jan 2026 22:31:17 GMT",
+      "snippet": "INTCUSDT Price USD, INTCUSDT Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/intel-ondo-tokenized-stock?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

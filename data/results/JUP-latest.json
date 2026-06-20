@@ -1,0 +1,196 @@
+{
+  "token": "JUP",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:26.320Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "JUP",
+    "name": "Jupiter",
+    "generatedAt": "2026-06-20T03:02:18.633Z",
+    "summary": "JUP近期因Solana生态复苏、通缩提案及DEX聚合器需求增长而上涨约40%，但面临0.20美元阻力位和代币解锁风险。基本面稳健但短期涨幅较大，建议观望。",
+    "rating": {
+      "score": 45,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "跌破0.15美元支撑或出现大规模解锁抛售"
+    },
+    "catalysts": [
+      "Solana生态复苏带动DEX聚合器交易量增长",
+      "新通缩提案（销毁部分费用）提升代币稀缺性预期",
+      "JUP在Solana DeFi中占据主导地位，用户回流"
+    ],
+    "latestNews": [
+      {
+        "title": "Jupiter price jumps 40% as bulls challenge key resistance near $0.20",
+        "impact": "利好",
+        "reason": "价格上涨显示市场情绪积极，但0.20美元是关键阻力位"
+      },
+      {
+        "title": "Jupiter (JUP) Surges 4.35% on New Deflationary Proposal",
+        "impact": "利好",
+        "reason": "通缩提案可能减少供应，长期利好"
+      },
+      {
+        "title": "Jupiter (JUP) Drops 3.38% Amid Broad Crypto Selloff",
+        "impact": "利空",
+        "reason": "整体市场回调拖累JUP，显示联动风险"
+      },
+      {
+        "title": "3 Token Unlocks to Watch in the Final Week of February 2026",
+        "impact": "利空",
+        "reason": "代币解锁可能带来抛压，需关注具体解锁量"
+      }
+    ],
+    "fundamentals": [
+      "Jupiter是Solana上领先的DEX聚合器，提供最优交易路径",
+      "项目团队活跃，持续推出新功能和提案",
+      "代币用途包括治理、费用折扣和质押"
+    ],
+    "marketRead": [
+      "近期成交量放大，价格从低点反弹约40%",
+      "0.20美元附近存在强阻力，突破需要更多买盘",
+      "RSI接近超买区域，短期可能回调"
+    ],
+    "risks": [
+      "代币解锁事件（如2026年2月）可能带来抛压",
+      "整体加密货币市场情绪脆弱，联动下跌风险",
+      "0.20美元阻力位若无法突破，可能回踩0.15美元"
+    ],
+    "watchlist": [
+      "0.20美元阻力位是否突破",
+      "代币解锁时间表和实际抛售情况",
+      "Solana生态活跃度及JUP交易量变化"
+    ],
+    "sourceNotes": [
+      "Binance数据因地区限制无法获取，价格信息来自新闻和第三方",
+      "新闻来源包括Coinpedia、CryptoRank等，部分为预测性内容"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "JUPUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=JUPUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "JUPFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=JUPFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "JUPUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=JUPUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "JUPBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=JUPBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Jupiter (JUP) Price Prediction 2026, 2027 – 2030: Can JUP Hit $10 by 2030? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16LWhxNVdhSkxYek84TVJJWVF1Z3BuRjdYak1RbkllZ1FyRWRqUzFNc2xUV2RoMHphejZzMTYxREVFYkx3SWFjSVJFOXpVTVV6WGwxX0d3bGFCMGcxbWRKaWt6dFh3VFZGUEVDVFZyVmFzM2F6S3Q40gF8QVVfeXFMTlg4czlJcTdDMktlT05TaDBfU0ZOWGE2YjNHTVFrcDF6ZUpZUVJrZUtBRnBnOGxqUlR4VFNsSi1uV0NhSEZkaEpmRElhNGwwcE5HbHJ0M0t5b21RMDhFVTRmcHI3YlVpQUtUdlpTX2g3MmpZQzN2Q1NTZDJZTQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Tue, 16 Jun 2026 06:00:00 GMT",
+      "snippet": "Jupiter (JUP) Price Prediction 2026, 2027 – 2030: Can JUP Hit $10 by 2030?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Jupiter (JUP) Price Outlook 2026–2030: Can Solana’s Leading DEX Aggregator Reach $10? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkRkdks4QVdLZlZFWWtSMV9zVzlELXpjeUJLVTU4SVREaWNEQ1h5REVZZE9tLUZMUTFZWWdDOFhvMGR4Vjl0QnVPVmRMZzZBSzBsZDJ2cF8tb3hJOGdTSlFjODRKNUpCMVJOaWVFcmdDVzNGMDdUZjFHSWJxeUlIbkx3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 16 Jun 2026 08:35:10 GMT",
+      "snippet": "Jupiter (JUP) Price Outlook 2026–2030: Can Solana’s Leading DEX Aggregator Reach $10?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Jupiter price jumps 40% as bulls challenge key resistance near $0.20 - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTY2d3RINUVFVm5aZUMwdm1uczFWMGZlUTRWV3JCdDJoTXFTWko5NzF4b21Cam9BRXVnMnZLSWotaVVfTjBWZmNrOVQzZ1NlMlhlVjJLbU9OY2JKZGlXRnFRcmxWRFluQlZyUXZHckZDU2tJaFdpUmZIQ0JLV3Ata1NUbnh4Sy13dmFqTXllNDM?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Tue, 16 Jun 2026 11:00:00 GMT",
+      "snippet": "Jupiter price jumps 40% as bulls challenge key resistance near $0.20&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Jupiter (JUP) Drops 3.38% Amid Broad Crypto Selloff - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DLXFiczhqUXRHZGFTM05sN0VSRzZZYVZJVEFWT201eEN6MnNmTDJFajNWVEJBZmo4RS01UUVxWURGWGJtdmdWbzg3RGo4UEpuRFZqNjF3azNLN1lpRVFVckJ6YW13TEdGa3U1YlBoV0o?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 18 Jun 2026 16:12:00 GMT",
+      "snippet": "Jupiter (JUP) Drops 3.38% Amid Broad Crypto Selloff&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Jupiter Price Jumps 10% as Solana Momentum Returns to Spotlight - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCOFlDU0hta2wyLWhhS1NTMnQzY2NrajMtWWs3MEtHZXVwYklpRTZzTHB3VlYyZGswLTZEYXVkWW9SdmxFYkp5QTVJQ0lNcUFCNHJEbHM2WVlqenlGR2fSAWNBVV95cUxOMG50NWh4X25iUjFfRzVKWlNLdWJrZTVRMFdidC1SM3RWR1hTVWQ0QTJzaURveDBDUVhEN042NmctaGxNZnViZnpxSE5fQVdLX0E2QV9ieHQ4NDlPTEpFT0xmN1k?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 15 Jun 2026 07:33:11 GMT",
+      "snippet": "Jupiter Price Jumps 10% as Solana Momentum Returns to Spotlight&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "‘Bear Market For Crypto, Bull Market For Perps, AI, And Privacy’ — Experts Flag 3 Winning Sectors - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaHZqMlR4dGF1RDNnWDRkd2ZWajFqN0lYQ1d4LU5JdHBJM1FGN0o2ZjV5Tk9xcWEtTk5PV2NudmpzX2prN251bkJYUW9oZmJid3FXMVZWSk9qb2pSRHI1R3YwLUFJYmtYcm81ZDhnQl9xckhGaE5fdDhjQ0NXdjRGS0hUMnotZE1JQkZjZS1XV01GLVFacHo2MzVDU1VSaVlucEJ4QkN1YWJadDNQY0E4TW16RFBxMWc1OVcwRGNsSGRoVjBHQjd1OElBVjFPOGJmSEZQdC1RM2gzRFVjbDhYaGN0bENRZw?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "‘Bear Market For Crypto, Bull Market For Perps, AI, And Privacy’ — Experts Flag 3 Winning Sectors&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Jupiter Price Prediction: Is JUP Coin a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMS1ZR3Y4MUZBX2Zmel8xOG50bi1HOU1NMGJ1dzh3VHRxa3dSUngzQ1hqOEsxaWNlSHlCQnR0TFFQampFb2pQN3Fqam1kaWN2dmQ0dDNqZFRoeHRaLS1tX0FHdkNaNi1Cd0J5S2tOQXJqZDBKd3JrQjUtcmNlRkoweXQ3Mnh1TW12?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Tue, 11 Nov 2025 08:00:00 GMT",
+      "snippet": "Jupiter Price Prediction: Is JUP Coin a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "3 Token Unlocks to Watch in the Final Week of February 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01WWlXc1dTdGR2WDRSRUNPeWRZcnVLNnhsSmJZcFhtbFBvajZHZVZmYkxOOHFZVWEweDMwYnFnQjkwSDFtTzIwVm03YVJDdkkxU0hVTm9VaVNabTlQUHMtZkNBa3dnNG5vejhkX3dueWdzVmxKMUFWTU81QzdwQQ?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "snippet": "3 Token Unlocks to Watch in the Final Week of February 2026&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Jupiter Price Prediction 2026-2031: Will It Hit $0.30 by February 2026? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fMG1MQ0F3aWRJT2J1bjNLR1FINlRRWFZiSXhJUXNHUWxSRkFCNXdUckFoNDk5TVFkV1ZmaDVJNWhPdjk3MGNidk5jSElDb3RyaHhYRnpEMVY5X0lhTG9FTmU1dGF2SjZpY0lVSGhqLWZCXzVfeURZ?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "snippet": "Jupiter Price Prediction 2026-2031: Will It Hit $0.30 by February 2026?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "3 Major Token Unlocks to Watch This Week - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUNXZHRF9VdXhKeWNjdmMweDQzaHQ3SE8tX01CUlZvV2QzcVRnOFIyZXpEdjJwV3NVTHFoWEFEUDlQeTdPR0YySEZrY2dIZFFIZlhmWENqdkpmWWEzQmhyMWdiTnRFZHpOUkNqNTZtMVVPUlBVSTFFQ1FLYnA?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "snippet": "3 Major Token Unlocks to Watch This Week&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Jupiter (JUP) Surges 4.35% on New Deflationary Proposal - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ra3FGcG5LR3NxLUdrMjAzclNTUlhkZnRENUlYa0lWeUI4M0NGVHJyZ3ZDYkF5YUZiODNVZGhvbFdCNC1XdTQxTkZDTzF4MlVsR29lU1BEbnhfeHkwTTRHOW10OHl5cTF2dXVZeVM1Z3A?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sun, 14 Jun 2026 22:08:00 GMT",
+      "snippet": "Jupiter (JUP) Surges 4.35% on New Deflationary Proposal&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Jupiter Rises 14% As Solana Traders Return To DeFi Aggregators - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HUm5RQklGeUJfNjBjYkFDMlF5UVljUER1dE5MSU9kWEFYU3hSNEY0cXh2NlE0RVZzYy0xQTI5dnlucjlNUFFCWjFRcWFKSFR5WHIwVDBVTG9fMkpva1VEaVFKRm5fbTlWRzQ0dC11MTVOYnplZnNEd25xU3c?oc=5",
+      "source": "Yellow.com",
+      "publishedAt": "Fri, 08 May 2026 19:22:29 GMT",
+      "snippet": "Jupiter Rises 14% As Solana Traders Return To DeFi Aggregators&nbsp;&nbsp;Yellow.com"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/jupiter-exchange-solana?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "token": "AMD",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:48.749Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AMD",
+    "name": "unknown",
+    "generatedAt": "2026-06-20T03:02:43.095Z",
+    "summary": "AMD并非加密货币，而是股票代码。由于数据限制，无法获取其加密货币交易对信息。当前市场整体偏弱，比特币下跌，风险资产承压。无明确上涨催化剂，不建议买入。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现明确加密货币相关项目或代币信息，则需重新评估。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Smart-contract and DeFi coins lead losses as bitcoin wilts for 4th straight day - CoinDesk",
+        "impact": "利空",
+        "reason": "整体市场下跌，风险资产承压，不利于任何代币上涨。"
+      },
+      {
+        "title": "US SEC poised to allow stock token trading in potential market shakeup - Reuters",
+        "impact": "中性",
+        "reason": "可能影响传统股票代币化，但AMD本身非代币，无直接关联。"
+      },
+      {
+        "title": "Bitcoin falls below $63,000 as risk assets sell off and the week's bounce fades - CoinDesk",
+        "impact": "利空",
+        "reason": "比特币下跌，市场情绪悲观，山寨币可能跟跌。"
+      }
+    ],
+    "fundamentals": [
+      "AMD是知名半导体公司，非加密货币项目。",
+      "无区块链或代币相关基本面信息。"
+    ],
+    "marketRead": [
+      "无法获取AMD在币安的交易数据，可能不存在或受限。",
+      "整体加密货币市场处于下跌趋势，成交量可能萎缩。"
+    ],
+    "risks": [
+      "标的非加密货币，存在误判风险。",
+      "市场整体下行风险。",
+      "数据来源受限，无法准确分析。"
+    ],
+    "watchlist": [
+      "确认是否存在名为AMD的加密货币项目。",
+      "关注SEC对股票代币化的监管进展。"
+    ],
+    "sourceNotes": [
+      "输入symbol为AMD，但未找到对应加密货币，可能为股票代码。",
+      "币安API返回451错误，可能因地区限制无法获取数据。",
+      "新闻内容与AMD无直接关联。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "AMDUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AMDUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AMDFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AMDFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AMDUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AMDUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AMDBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AMDBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Smart-contract and DeFi coins lead losses as bitcoin wilts for 4th straight day - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGZmTlcwVnk2UmI1NmxTT1hpQkE2ZmdpODNGV2ZLbmVPVDR6ZS0tZ2FhcGRPbWpETDctTFkyVU5PWEhtSVFkLXY3QzhGLVFZSE90YV95ZWstSzF4WVlZQ1VXWkwtRWpzdmhBSGhiMklsRWZ5dDNlOURESVNOc3JOdXJ4TWtFVnpEOUdVaF9uZmo5WE1WWG5aYzhMdlNLRmxhSV9Bdlh3T04tZGZWRWZWZWNQLVJ1Q1Z1akI5cExZVGQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 19 Jun 2026 10:48:29 GMT",
+      "snippet": "Smart-contract and DeFi coins lead losses as bitcoin wilts for 4th straight day&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "US SEC poised to allow stock token trading in potential market shakeup - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSU5DUG1RTzhGdHE3aDRHWTZ3RFRqR3l2Xy1INEVxUDlKQUtiXzlwZGg5YmIwdnlDYm4zSDNxS3dKU0ZtLWlSUGQ2ZFNFQU5ibkhmT2NvYnFmcEtUTVU1OFZsSkdNWHpSQnByRkNhdlhTM0VONUpSdW1BNGxKZThjMlZodXFyM18zYTJ1ckxSUmpjRllzRXNLN196SUFVa25JTk9lTXN1ZlFqLW1NVHN5VUZYekVjOUhf?oc=5",
+      "source": "Reuters",
+      "publishedAt": "Wed, 17 Jun 2026 13:22:15 GMT",
+      "snippet": "US SEC poised to allow stock token trading in potential market shakeup&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "Trump family sold crypto tokens and earned $2.3 billion while investors lost billions - mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wZVd1MHB2OWNrd3ZUZjJPOFU0RzB2T2JzczVrLTRabUUtNWFlZVhUeFI2SWtqLUNOcnQwUDdGZFpFLTNmS1Uya1N3aHM3ZTNpMGNCdXF6X0dmS2ZfZnJsVWhMRVdadw?oc=5",
+      "source": "mezha.net",
+      "publishedAt": "Fri, 19 Jun 2026 13:44:49 GMT",
+      "snippet": "Trump family sold crypto tokens and earned $2.3 billion while investors lost billions&nbsp;&nbsp;mezha.net"
+    },
+    {
+      "title": "Crypto News: AlphaPepe Plans More CEX Reveals After Azbit as Ethereum Price Prediction Hits $4,000 - markets.businessinsider.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcUZBa2xvT2ZjLXRwT1RKU2J4MTZLcW1IVm9ocDc0REdCTDdCdFl6d3VxNXdDUDNTeEU4U295NHVOb1Z5Wi1Mek9VcG0zeXF2dDdkOEVwNTNwTl9nWl9VbUU2SEhOOWROSVhKcUtQTDNiVzZXc2w4QlNHUEVISE5sdGVDdFlSQlBDU19NV0FUeUttd0EtS2tGUUMxN21qOV9YbXppSjdyM3hDTzdNSG10dVVyUnVLVlEwdlVEVVFDVkdDU3VLVFFGSURWMm9jSi1pX0E0VGswNFdsZzdaNDJhMU1aaFlzQ0FlX0NN?oc=5",
+      "source": "markets.businessinsider.com",
+      "publishedAt": "Fri, 19 Jun 2026 01:11:20 GMT",
+      "snippet": "Crypto News: AlphaPepe Plans More CEX Reveals After Azbit as Ethereum Price Prediction Hits $4,000&nbsp;&nbsp;markets.businessinsider.com"
+    },
+    {
+      "title": "SpaceX Ignites On-Chain Frenzy: Namesake Meme Coin Surges 15-Fold, Is It Still Worth Buying Now? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVTJTVWhWNzJ2NnVtMURXbVZQM0NVSkdoWEJEdkkwS3NqaElQdk5TSFlnY1R1QVczTXVHZ3lqbE0wWVNtMzgydmQwZE92dlU2SElITXgxS3VhNHBxbkNDZWI3NmQxOUQ5REtHQUFhamJwNDRQQnlkVnlwRGw5YmZoMzRmYjVCbi1Uai0yVDRtTDc5bUdjOG1NMUZIRk5HTW5HcWQ4eGhlLUhocS1Nc3ByeFRJU1Z4YnlvVzNPR2VXVDhxWG9jR3ZXcmZZZjRtcVRrRzJCc2F4U3o?oc=5",
+      "source": "TradingKey",
+      "publishedAt": "Fri, 19 Jun 2026 15:05:38 GMT",
+      "snippet": "SpaceX Ignites On-Chain Frenzy: Namesake Meme Coin Surges 15-Fold, Is It Still Worth Buying Now?&nbsp;&nbsp;TradingKey"
+    },
+    {
+      "title": "Top 10 Cryptos To Invest In June 2026 [By Market Cap] - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kRU80bGVLanAxOHROSTgyZ2h0eGxkMlljSXgzZzk5V3U1UjNOY215ekNRNWZuZHNYQnJVR3IwTXdIcldGMVdOMDYtN2M3WUZ4NmJ2Wm9UaE16UVh3d3V3QUI5bWJMVm9VSkFteGtRWkhweWFSOVRV?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "snippet": "Top 10 Cryptos To Invest In June 2026 [By Market Cap]&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Crypto News: Pepeto Confirms Exchange Progress and Shiba - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNWFozUTN2RXNOUV90UXJWUkRCZ1F6WTM5U29RZDhTQ1hLaE1BSEdwZU92My1yeWtGbnVWVnFSTFowVTBCU3dZYm85M0doVDBDUU85aGJ4QldmdHBDbjE2UVVwajRJal91czVIdWVSNWdHZGVkdGstd3ZuTzJtRTlaZllmdHZiajZYMHEtMTh5c0VQV2JkTWkzQUdQTElhOTNEdmgzZ0NXSWZXYUtlVHBac09VUVNaMU04Z3AxVzlldkpjNktlNkVjYkdMSjNyQnR5WlFPUTd5YTRCLXlRbHlLcVBlTXRJRUlVVFZXT3QtU19GWlVZNW5tU3JfZHJaLVFqUjltRWxLVTdSNFlMLW5zN0lKNU83OFJIUEI5cjF4ZXY?oc=5",
+      "source": "GlobeNewswire",
+      "publishedAt": "Thu, 18 Jun 2026 00:00:00 GMT",
+      "snippet": "Crypto News: Pepeto Confirms Exchange Progress and Shiba&nbsp;&nbsp;GlobeNewswire"
+    },
+    {
+      "title": "Base rolls out Beryl testnet upgrade with native token standard - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVmZBLTdCWDBvWmpjakZNTFlvaDdEWThkMEpvRUhuUDF6UTZxZXRibDlzNzFIZG5IQUFYQnRQbmh1bWJvdEwwd0JkWDViQ1RReHk1X2o5NlQ2YlNKeGszUVJKYXFHSGRhZGVqSExUTTRuNV9qRV9XRXkwdC1xVW44Uk94d2ZzNTFGNjhUYQ?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Fri, 19 Jun 2026 11:53:25 GMT",
+      "snippet": "Base rolls out Beryl testnet upgrade with native token standard&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41eXZCYVB1MGRuVTgwNXMwcmJwMU1DenZtSGxyNlBZTU40OUxtT0JBbjZtZ3NKUXFmZTM2R2swZTJudGNZTV9GaVBsM05jRjBUZ0ctSy1rMDd0UQ?oc=5",
+      "source": "BBC",
+      "publishedAt": "Fri, 05 Jun 2026 09:56:27 GMT",
+      "snippet": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean&nbsp;&nbsp;BBC"
+    },
+    {
+      "title": "What Is DEXTools? A Beginner’s Guide to Crypto Charting - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0k3bU5sS2tPMzJ0d3ZDTzNsQzlqX0VORnFKTF9ZQU1oZkVrRk5NWlRRUmUybFRTaThTSmRLS3hkal9SMEZiT2tTNXkyUmRuNnhTcFpuY1EyVVJQTXNCRmFCWlJkOE5IcS1ESTkzeG9OS1pRSW5UNWlaek1MaHRBRnRLZG9zMDZPeUF4bkU3SG9Ga3RaMGxFNk9PR192d01fUmhuOFM5ajUxZ21Fa2xSamx3?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Fri, 19 Jun 2026 13:10:11 GMT",
+      "snippet": "What Is DEXTools? A Beginner’s Guide to Crypto Charting&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Bitcoin Price Deep Dive: $35,000 Worst Case as Analyst Maps Levels for ETH, SOL and XRP - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOTJaRDhXWXltdnd3a1FBakg0VHhtUjdOa01LcllJUHFGNnQ0UGpLSHctUXZvMUJfVTR1c29IeHMyQmhuSDI1Tl9jWVd1U1NkY3IxczQydUo2OWlqOGVGUk9ac040X1A0cEU1QzlFWmFZbTJZTEUwWDg4ZEJXTEN6YjZENFVqYVJFeGExSEc5WXc0WjY2NDJZcXNGd2JYWnJoNlk2YXFCN0FCa2xUNmlnRdIBtgFBVV95cUxQeURkZzFpWExzajRqaHlnLXNsem5SeG1rbXVGQTZybzd4d2I3SzB3RlotVkFtVW9pZzlXa2UyMnZieGRkQlEyaWl0TnlxVGtuTzhmOWxYQ0pGTjRDZk5tanZ3dTRtaVF3cG1FT05xTTVxSEw0U0ZDNWRINDJfUmR0UlozV2FnbEh4UVZZajFiMlFPT0lMTGFXQkJpXzhjMXJfSHYwNWx6V2lhZjl6WXpzbUFsQTNLQQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Thu, 18 Jun 2026 17:50:40 GMT",
+      "snippet": "Bitcoin Price Deep Dive: $35,000 Worst Case as Analyst Maps Levels for ETH, SOL and XRP&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Bitcoin falls below $63,000 as risk assets sell off and the week's bounce fades - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLV9adXdnOS1ReGVkOGJ4WVFrejh3b0lHUi1mWWpqRUp4dmNIdlhmZU9tV1RvN0RXcUFJbEVtTGhkSUhmS0tOX09BUm5ZbXRiV3VSRGpBMWRHbWFDdE9sVXFFUG8zVFFFbXhXTWFtTlgwOXB2M3kxRk1NLS1FMjl3ZjY1NktxYmtxdmV5LUdISHZ3dG5DeDFncFhROC11clFCNzUyNHBGd2loZzlYVUJmaFd1cUJ2MTFwQUZ4NlNSWFloakU?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 19 Jun 2026 08:30:25 GMT",
+      "snippet": "Bitcoin falls below $63,000 as risk assets sell off and the week's bounce fades&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=AMD: Throttled\n"
+  ]
+}

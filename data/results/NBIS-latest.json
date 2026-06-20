@@ -1,0 +1,202 @@
+{
+  "token": "NBIS",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:41.946Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "NBIS",
+    "name": "Nebius Group N.V.",
+    "generatedAt": "2026-06-20T03:02:32.716Z",
+    "summary": "NBIS是Nebius Group的股票代币化产品，近期因AI基础设施合作（Nvidia、Meta、Microsoft）及Token Factory发布而上涨，但近期新闻显示动能减弱，且缺乏实时行情数据，风险较高。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若无法获取可靠价格数据或出现重大负面新闻（如合作取消、监管打击），则逻辑失效。"
+    },
+    "catalysts": [
+      "Nvidia 20亿美元投资及AI基础设施合作",
+      "Meta 30亿美元AI基础设施交易",
+      "Microsoft landmark交易",
+      "Nebius Token Factory发布，对标Open AI模型"
+    ],
+    "latestNews": [
+      {
+        "title": "NBIS Stock Has Already Beaten Its Own Analyst Target! Where Does the Nebius Price Prediction Go Now?",
+        "impact": "中性",
+        "reason": "股价已超分析师目标，后续上涨空间存疑，可能面临获利回吐。"
+      },
+      {
+        "title": "Here’s why Nebius and CoreWeave stocks have lost momentum lately",
+        "impact": "利空",
+        "reason": "明确指出近期动能减弱，可能因前期涨幅过大或市场情绪转变。"
+      },
+      {
+        "title": "Nebius Group N.V. (NBIS) Unveils Nebius Token Factory To Take On Tech Giants on Open AI Models",
+        "impact": "利好",
+        "reason": "Token Factory是重要产品发布，有望吸引更多开发者和用户，提升生态价值。"
+      },
+      {
+        "title": "NBIS Stock Rises After $3 Billion Meta AI Infrastructure Deal Despite Shaky Q3 Results",
+        "impact": "利好",
+        "reason": "Meta大单提振信心，但Q3业绩不稳构成隐忧。"
+      }
+    ],
+    "fundamentals": [
+      "Nebius Group N.V.是一家AI基础设施公司，提供云计算和AI模型服务。",
+      "已获得Nvidia、Meta、Microsoft等巨头投资或合作，资金和技术实力较强。",
+      "Token Factory旨在简化AI模型部署，对标OpenAI，但竞争激烈。",
+      "近期Q3业绩表现不稳，盈利能力存疑。"
+    ],
+    "marketRead": [
+      "由于Binance限制，无法获取实时行情数据，价格走势不透明。",
+      "新闻显示股价已超分析师目标，且近期动能减弱，可能处于高位震荡或回调阶段。",
+      "成交量数据缺失，无法判断资金流入流出情况。"
+    ],
+    "risks": [
+      "数据不足：无法获取实时价格和成交量，分析基础薄弱。",
+      "估值风险：股价已超分析师目标，进一步上涨空间有限。",
+      "竞争风险：AI基础设施领域竞争激烈（如CoreWeave、AWS等）。",
+      "监管风险：代币化股票可能面临监管不确定性。",
+      "动量风险：近期新闻显示动能减弱，可能进入调整。"
+    ],
+    "watchlist": [
+      "获取可靠的价格和成交量数据（如通过其他交易所或OTC）。",
+      "关注Nvidia、Meta、Microsoft合作进展及新订单。",
+      "关注Token Factory的实际采用情况和用户增长。",
+      "关注Q4财报及业绩指引。"
+    ],
+    "sourceNotes": [
+      "所有数据来自公开新闻和Google RSS，未验证真实性。",
+      "Binance API返回451错误，无法获取行情数据，可能因地区限制。",
+      "新闻时间跨度从2025年11月到2026年6月，部分信息可能过时。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "NBISUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=NBISUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "NBISFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=NBISFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "NBISUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=NBISUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "NBISBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=NBISBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "If You Can’t Buy NBIS Stocks, What Are the Trading Alternatives? - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTG1DRTU2V19xX0JwU0MwcHdsRXN0dGtORmhtWV82VHFNNGN4cWV3ZVFmUUEwdnoyYngzalVjQ1VWYjgtdWVKazhDUS12SG93WXFnLW4xWFRyMU5kY2R6bm1hTm1MZy1USW05Z2FGU2ZtMi14bWN6WllKdUFBcmJMUXBzUGJBbHRpMFhPWHFWRXlCUXRZaDJoVGJOSE93NWJadHMwRzl1ekdIMUUxNzNpY1plZlBTTHpMX20tWA?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Mon, 15 Jun 2026 13:14:11 GMT",
+      "snippet": "If You Can’t Buy NBIS Stocks, What Are the Trading Alternatives?&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "NBIS Stock Has Already Beaten Its Own Analyst Target! Where Does the Nebius Price Prediction Go Now? - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX25sb3hFZEE1a09qcHZLZzJfbjBHak9aU2Y3czZQZTVSejU3VWpZc2ZsRVRTZGRSZVpHYlg0U1B4Tl9Za0VBQ09XVkNlbHp1MTh5dm14dUdGT3RpOWRfMWpqbkNiTXpyajZkbkw1MS1XcnI2T2h0dlZfbmd1UVo1c2dLbmVPemNCbnVTUWFwSUhYUUtTbHpxRzVXbnFyZWR5RkozNld5NkdEby1KN01PZ2doMGVoeDZncjRrWkZpRjJTbnhkeVpmbHpFcGdyOF91QU9PYXE3cDI?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Thu, 18 Jun 2026 07:19:05 GMT",
+      "snippet": "NBIS Stock Has Already Beaten Its Own Analyst Target! Where Does the Nebius Price Prediction Go Now?&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Nebius Group NV (Derivatives) to Japanese Yen Price Today | Live NBIS to JPY Converter & Exchange Rate - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yZ2RyVi1qRV96aFczemxZQUY5ZW02Rk1aOXpxQ0tRVWs4SU1JSXBSUF9lZkxzT1pYOVBUVWNPT1hjaWFKQUtNaDNmZHVCeXBzMmZtM2ZRdVg1UmZ6eXFRTldNWWdpVXhDU19F?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sun, 14 Jun 2026 08:53:36 GMT",
+      "snippet": "Nebius Group NV (Derivatives) to Japanese Yen Price Today | Live NBIS to JPY Converter & Exchange Rate&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Nebius Group N.V. (NBIS) Unveils Nebius Token Factory To Take On Tech Giants on Open AI Models - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XQ1BjWDJ5LU9UVUItcVRDSXJYNkdFdTJkYjJILTM4em1Md2lEOXZ5VTV6RVBvRUIwcndDUk5Vc2tkazlCOF84cEZoOHpvdGp0amxWSnl3dGRSNVExQndrWXlTTDVuMDJyTnZKdWYxUW4xbkJ3VWc?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 19 Nov 2025 08:00:00 GMT",
+      "snippet": "Nebius Group N.V. (NBIS) Unveils Nebius Token Factory To Take On Tech Giants on Open AI Models&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Nasdaq, S&P 500 Futures Shrug Off Nvidia Hype: Why TSLA, GOOGL, LIDR, MU, NBIS Are Keeping Traders Engaged Today - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVUyLTBUeUdoLU90MkVhRDVvaURRXzhoR3AzMFAxeS0xV3RFUUVCZ3BCVTFWcU5XTW11dHRBT1VldTZfQ01Lb0ZtQU9XbWw0OENWaVZmbW9jNFFraHJPRDJQLW40aWFQcFlXSDRZV29ocWJzaE5Bejc5SXdrblFJRG5UWmJvS3JacWdFUVFIeUdQRzR6T2E2T0w3QjZ2QjI0QzdkbTRpMlJOSktyTzBXZGE2amV6V0hDZF9EaWZoSndyWGVCanJvRQ?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "snippet": "Nasdaq, S&P 500 Futures Shrug Off Nvidia Hype: Why TSLA, GOOGL, LIDR, MU, NBIS Are Keeping Traders Engaged Today&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Nebius Group NV (Derivatives) Price | NBIS Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qZzh0TUs4cUdoaTJHaXQ0NHAzenN3VDQydWU0bWFBNGplVE1ZMmdyOTJ5MFQ0azI0TW1KaUlPclZ0aWdkbmFyZUdVOEVORnZEQ1pxTUV2UTA5RWVCemtmV2xsNlBqUQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "snippet": "Nebius Group NV (Derivatives) Price | NBIS Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Nebius Group Tokenized Stock (Ondo) price today, NBISon to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03NXhlOFFocFpLSUtPS2V6WkdDMkZmeWRtSFVVaktDUnU4MUtjQU9LeTZoZE1OQllfQUhPcm9zeTRJNUh0X1BqRDRsSlNMMXU4cXNEQVNaUlVIT3ROcjNUMjBXbllNXzdFTjRreV9VWEZhX0lPeXJqa1Mzaw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 23 Mar 2026 07:01:58 GMT",
+      "snippet": "Nebius Group Tokenized Stock (Ondo) price today, NBISon to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Nebius Shares Rally on $2B Nvidia Investment and AI Infrastructure Deal - Tokenist",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVhYMWF5MV9fb3BfbFdWNW1mYmdESU8xcFZZczV3VUZYSGkxQU9lTkZjdnVsdVlzUGx6bVN0cURCU0NUYWJYRWtRS3gySTlvSFU3UHd5SFhjV0RBNnhsaUNyZzMwelB5aUVUd3g3QXhSam9RR2U5VDFDTHFYT3BuQ1RjS2NMWFBvVExmSUM0MGtzUjhFR3JV?oc=5",
+      "source": "Tokenist",
+      "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "snippet": "Nebius Shares Rally on $2B Nvidia Investment and AI Infrastructure Deal&nbsp;&nbsp;Tokenist"
+    },
+    {
+      "title": "Nebius Group (NBIS) Is Down 7.6% After Landmark Microsoft Deal and Token Factory Launch – Has the Bull Case Changed? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jWV9CQVktVG5Cb2VQZzFYUlZfUGV6Mk81eGNzR2tIRTlNNTk2ck1BUEJ5WTNablZvRGRIOHQ5LTJSYUh2SGxwNWd6ZnJxRnBSUHFrRzRGakcxTEJkZDRnbE5OanFwcGFDUXZTdEZhMjlTLTRodHI0ZGxR?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "snippet": "Nebius Group (NBIS) Is Down 7.6% After Landmark Microsoft Deal and Token Factory Launch – Has the Bull Case Changed?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "NBIS Stock: What Nebius’ AI Cloud Surge Means Now - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFFSZXB2MFF0RXNoS0ZTazl4ZnZPOS1BdjlqQk5sT3lxYXByUXZ2cjFDMHdkN0VWX0dVQmJVeVNWRzljaGZVRTVVS3VucnI4X2FoUlBSUmpJX3JyQ0JOTGdjZTFLWE96T0p6ZW1PeWZPdUYzME42WEJHYnI4bHh1SHE3QVFUZlR5N0FHYXB2bTFUM2l0QV9TTEptSDNqeWp3Mk9DRVdSR2Yxdw?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "snippet": "NBIS Stock: What Nebius’ AI Cloud Surge Means Now&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "NBIS Stock Rises After $3 Billion Meta AI Infrastructure Deal Despite Shaky Q3 Results - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTFRuOU9sYmFhMEVmaVI4UEE3ZXBGTkNFS0hmOUFPM0tNODZxcTR6VDF2aFg2WURMb3JyZkRiMUVldlN2cTM4UW9NVl9LeFQ4WXVoQmxTZzM3dXMyM0V5c0lwRUtKcHE0UGU5UzMtMUQyVW9LZFlieUoxVWlKVFh1U0M4VlFIajdVY1o1NnhFYm16dDBEZHVwemhfZlhRZm9JNy0xYkVmQVRHOWFJTEVZMlhQMm1UNVhZRVV3WEtjSW9idm9PRk1abEZwRFQyZ0ppVjB1Z1R4UlFGYWRvb1lNZG9Scw?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Tue, 11 Nov 2025 12:53:54 GMT",
+      "snippet": "NBIS Stock Rises After $3 Billion Meta AI Infrastructure Deal Despite Shaky Q3 Results&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Here’s why Nebius and CoreWeave stocks have lost momentum lately - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWhHc2dQc2Vmc3hETEkyb00tSm1nUFlSZ1l2a2E2RkNKSVIxMWRMV0xYcVV3ckFBSEIzS3RyY1RtSmcwek5aWGZGX1JNVTJhdUdIYVMwWkZtSmdlVmloZ2REZmMwNld3cXBacWxCQWxWUE5NSHo4SjlHajlOZlp4cktleW9SX1h2aGJwWG00N0x6SUZrUWJlR3ZoQVFOX1h2SVMw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 12 Jun 2026 14:34:31 GMT",
+      "snippet": "Here’s why Nebius and CoreWeave stocks have lost momentum lately&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=NBIS: Throttled\n"
+  ]
+}

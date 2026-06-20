@@ -1,0 +1,187 @@
+{
+  "token": "XVS",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:56.056Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "XVS",
+    "name": "Venus Protocol",
+    "generatedAt": "2026-06-20T03:02:49.579Z",
+    "summary": "XVS近期无显著上涨催化，历史负面事件（闪崩、漏洞坏账）影响未消，基本面缺乏新利好，市场数据不可得，建议观望。",
+    "rating": {
+      "score": 20,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，不适用"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Venus (XVS) Flash Crash: Stunning 30% Plunge in 10 Minutes Rocks DeFi Market",
+        "impact": "利空",
+        "reason": "闪崩事件损害市场信心，显示高波动性和潜在风险。"
+      },
+      {
+        "title": "Venus’ governance token XVS plunges 9% over exploit-driven bad debt",
+        "impact": "利空",
+        "reason": "漏洞导致坏账，进一步打击投资者信任。"
+      },
+      {
+        "title": "Venus to Be Integrated With Binance Wallet",
+        "impact": "利好",
+        "reason": "与Binance钱包集成可能增加采用，但新闻发布于2026年5月，时效性已过。"
+      }
+    ],
+    "fundamentals": [
+      "Venus Protocol是BNB Chain上的去中心化借贷协议，XVS是其治理代币。",
+      "历史上曾发生多次安全事件，包括2021年清算事件和2026年漏洞坏账。",
+      "代币经济学：XVS有锁仓和质押机制，但近期无重大更新。"
+    ],
+    "marketRead": [
+      "由于Binance API限制，无法获取实时行情数据。",
+      "历史新闻显示价格曾大幅波动，近期无明确上涨趋势。"
+    ],
+    "risks": [
+      "历史安全事件导致信任缺失。",
+      "缺乏近期正面催化，市场情绪偏空。",
+      "数据不足，无法准确评估当前市场状况。"
+    ],
+    "watchlist": [
+      "关注Venus协议是否有重大升级或合作公告。",
+      "监控链上数据如TVL和借贷量变化。",
+      "留意XVS解锁或质押变动。"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取实时价格和交易量。",
+      "新闻来源包括CoinDesk、Binance等，但部分新闻日期较早。",
+      "分析基于有限公开数据，结论可靠性低。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "XVSUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=XVSUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "XVSFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=XVSFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "XVSUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=XVSUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "XVSBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=XVSBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Venus (XVS) Flash Crash: Stunning 30% Plunge in 10 Minutes Rocks DeFi Market - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zamJGT1lNbktmNWZkendjY1d2Z1ZJMlRLY2tzT0gzRy1lYWJJOVhKNy1Icl9DX3J1ZE5GUm5OaXZORmtkNnFmSjRtaWlhSF9YLXBlSmI5MmVOeEcxbTQyejZkdw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "snippet": "Venus (XVS) Flash Crash: Stunning 30% Plunge in 10 Minutes Rocks DeFi Market&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Venus’ governance token XVS plunges 9% over exploit-driven bad debt - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV2g4ZTJDOXBfWllIOVJXRExGR3ZFbWVxVzVFeHRyUVl0QUhHbTBQZmxLYnh4UFBTbTA2VzRPMzJYNVBod0JRRmRjc3IzMGZaTTRIT1c5Qld2SUZuUnlqZE5VT2UyUFVid1FFUkFVR2ZmaUMxbU9TQWRYb1J0ZzQ1a2JtQTlsSW9rQ2wzQlgzc0ZjcXowUWZQdTBLcVZoVld1bjRUeEw4dmJrOUNvR0FJ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "snippet": "Venus’ governance token XVS plunges 9% over exploit-driven bad debt&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Venus to Be Integrated With Binance Wallet - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEtPRjJINjlYT3Z6M1ZxeVVUT2g4eEd1c2dfNHpleFY5Q0hxSmJ0S0xiang0MFN2blVSdkNZbHF6amRaaDNManNYVTF4R01GQXN6X3lLSUxLWVhlT0hUUDVPdXRtZVNhT3ppVUM0WEdGcld2UER0WTZuSFRkTnMzZ005NGxQc2Z4MEkzVHBhN0ZRSHJxUjdIbElYc3JscjByZ3c?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 28 May 2026 15:48:16 GMT",
+      "snippet": "Venus to Be Integrated With Binance Wallet&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "XVS Price Crash Triggers Devastating $1.09M Loss for Whale in High-Stakes Leveraged Trade - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yWDhldGMxem44MUkyd2Q0Rlg1Q2RnT3ZWX3Npb0Z1eGhJTkVSLUpCUWM4TkI3bTFyOFdDTlpmejVzMXN2OUNMeTM1TGhUQQ?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "snippet": "XVS Price Crash Triggers Devastating $1.09M Loss for Whale in High-Stakes Leveraged Trade&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Best Cryptos with Highest APY Staking in 2026 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRTlZqd0d5eUFOM1pTdmtlRXNyVnF6NEdDU2xLUE5oRndxVmFhMG5VbzVXSENGaUVlWXBJSlFuWUdDRzZzeVMxZnc2TmVJaVdRRUtYeHZDRkh1a2V3RkRiOXI5RHlvMm55SUowcw?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Fri, 08 May 2026 07:00:00 GMT",
+      "snippet": "Best Cryptos with Highest APY Staking in 2026&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "What Is Venus Protocol (XVS)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OSzdLWWQ0MGNreWZSRFIxUTRPVk9hc1FER2xkY240eXM2UWFjY2VHRVBDTUtqVkpYT1lhd2s2LW1EU2t3NjVKcHBZZHdoajZna2YwN2lucktuZUMtcDBZMnNJOUdTTXFRS3JqaUxhWF92RFhv?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "snippet": "What Is Venus Protocol (XVS)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Venus price today, XVS to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZdE5YaHBrYXViSGlXVTd1MUVNX3ZIYkRjUjFYc3FpeGxQMUtyLXBoQlJZVUd5aFFPSnJOVDZBVGdfdkdhalFZMFcxa29BdVJQc2xoTlFB?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 04 Nov 2020 08:00:00 GMT",
+      "snippet": "Venus price today, XVS to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Venus (XVS) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YQ0hFQVllME93WnhtZDhDRjhXenNXNnRaV3ZLRFZ4cTJTNWNhWElqbm5FMHdvRm1INmJBWE90M1owVmhtNHhacjlEVUI2WUtDUG9lbzNjc0lDc1MxZHZfbFJSOEtCZw?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 15 Sep 2022 21:42:46 GMT",
+      "snippet": "Venus (XVS) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Binance Smart Chain's Venus Protocol saw $200 million in liquidations. Here's why - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUNtOWJRZ1dCSFNlaF9DcmhDck56M0E0aW9aNUZrVkFBSDNkbDVheml3V1dIalZvSGFXcnYxbThEcHFnMWRGYVlMa2JBelVYdkgxZENUbXJqTTk0YWktS0RvYXBNeDFTNGYzN1hSS3NGalV2T0UydHFTa2tkYnByaFhMczRKVUlGdWxMNjJ3bThJNmJKaG5NV1lQWFA3b0Yzdi10YnlxemM?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 19 May 2021 07:00:00 GMT",
+      "snippet": "Binance Smart Chain's Venus Protocol saw $200 million in liquidations. Here's why&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Nansen - Nansen AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1NW9KMnpiMzV0Q3NaNGhHb0FpalVkZDBsR2lBQ0g1NnloelNoNDVOM1RNanBVYkF4R1ZoQUF5ai1OVXk2WHFjOUF4TUg0LXZMOUdCQnhuSXZVd0RwWGlMb2xSODZnOWJQMDBLRl9iVG81WVpqVFZNTFBtTQ?oc=5",
+      "source": "Nansen AI",
+      "publishedAt": "Mon, 23 Jun 2025 07:00:00 GMT",
+      "snippet": "Nansen&nbsp;&nbsp;Nansen AI"
+    },
+    {
+      "title": "XRP Healthcare launches XRPHAI token trading on MEXC - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoa3VBdTVmY1lCS255ZDk1dmlLNHpiZGFnTVo4eC1XWkpBci0xeW5zR1VjZWM2S18tQXFpUW9kNmxlRmZIU2RWSzdSMG95SFpHeTc5ckljaHNvQkk0cFhkOFctcTNMQV9HcDZCNU5YVHQ4TEFvVDNaSkVrelAzZw?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "snippet": "XRP Healthcare launches XRPHAI token trading on MEXC&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Venus price today, XVS to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE02bV9TWFZCQjlCMUZfRFAyRFl6YVA5SGI5d3Z6YmozZFo4akN0MVhqMG10VGZMc3V0QnNzVUw5c3BsNEhHLWVJbGJR?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 25 Nov 2024 01:19:39 GMT",
+      "snippet": "Venus price today, XVS to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=XVS: Throttled\n"
+  ]
+}

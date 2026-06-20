@@ -1,6 +1,312 @@
 {
-  "updatedAt": "2026-06-20T02:01:25.466Z",
+  "updatedAt": "2026-06-20T03:03:13.720Z",
   "results": [
+    {
+      "token": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock)",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:02:14.153Z",
+      "latestPath": "data/results/TSM-latest.json"
+    },
+    {
+      "token": "OUST",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:10.365Z",
+      "latestPath": "data/results/OUST-latest.json"
+    },
+    {
+      "token": "EWT",
+      "name": "Energy Web Token",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:13.937Z",
+      "latestPath": "data/results/EWT-latest.json"
+    },
+    {
+      "token": "WDC",
+      "name": "Western Digital (Ondo Tokenized)",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:17.720Z",
+      "latestPath": "data/results/WDC-latest.json"
+    },
+    {
+      "token": "LYN",
+      "name": "Lyn Token (Everlyn)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:18.241Z",
+      "latestPath": "data/results/LYN-latest.json"
+    },
+    {
+      "token": "B2",
+      "name": "BSquared Network",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:02:22.295Z",
+      "latestPath": "data/results/B2-latest.json"
+    },
+    {
+      "token": "ARQQ",
+      "name": "Arqit Quantum",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:19.597Z",
+      "latestPath": "data/results/ARQQ-latest.json"
+    },
+    {
+      "token": "EWY",
+      "name": "iShares MSCI South Korea ETF (Derivatives)",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:29.029Z",
+      "latestPath": "data/results/EWY-latest.json"
+    },
+    {
+      "token": "JUP",
+      "name": "Jupiter",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:02:26.320Z",
+      "latestPath": "data/results/JUP-latest.json"
+    },
+    {
+      "token": "QQQ",
+      "name": "Invesco QQQ Trust Tokenized ETF (Hyperliquid)",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:02:28.679Z",
+      "latestPath": "data/results/QQQ-latest.json"
+    },
+    {
+      "token": "PANW",
+      "name": "Palo Alto Networks",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:27.444Z",
+      "latestPath": "data/results/PANW-latest.json"
+    },
+    {
+      "token": "CRWV",
+      "name": "CoreWeave",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-20T03:02:35.722Z",
+      "latestPath": "data/results/CRWV-latest.json"
+    },
+    {
+      "token": "ARM",
+      "name": "unknown",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:32.289Z",
+      "latestPath": "data/results/ARM-latest.json"
+    },
+    {
+      "token": "AERO",
+      "name": "Aerodrome Finance",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:02:39.186Z",
+      "latestPath": "data/results/AERO-latest.json"
+    },
+    {
+      "token": "CRDO",
+      "name": "Credo Technology Group Holding Ltd (Derivatives)",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:35.927Z",
+      "latestPath": "data/results/CRDO-latest.json"
+    },
+    {
+      "token": "NBIS",
+      "name": "Nebius Group N.V.",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:02:41.946Z",
+      "latestPath": "data/results/NBIS-latest.json"
+    },
+    {
+      "token": "EIGEN",
+      "name": "EigenLayer (EigenCloud)",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:02:42.513Z",
+      "latestPath": "data/results/EIGEN-latest.json"
+    },
+    {
+      "token": "EWJ",
+      "name": "unknown",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:42.805Z",
+      "latestPath": "data/results/EWJ-latest.json"
+    },
+    {
+      "token": "INTC",
+      "name": "Intel Corporation (Derivatives)",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:46.718Z",
+      "latestPath": "data/results/INTC-latest.json"
+    },
+    {
+      "token": "BE",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:45.305Z",
+      "latestPath": "data/results/BE-latest.json"
+    },
+    {
+      "token": "AMD",
+      "name": "unknown",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:48.749Z",
+      "latestPath": "data/results/AMD-latest.json"
+    },
+    {
+      "token": "XPL",
+      "name": "Plasma",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:02:49.182Z",
+      "latestPath": "data/results/XPL-latest.json"
+    },
+    {
+      "token": "MMT",
+      "name": "Momentum",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:02:53.756Z",
+      "latestPath": "data/results/MMT-latest.json"
+    },
+    {
+      "token": "DRAM",
+      "name": "unknown",
+      "score": 10,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:50.929Z",
+      "latestPath": "data/results/DRAM-latest.json"
+    },
+    {
+      "token": "KAITO",
+      "name": "Kaito",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:56.617Z",
+      "latestPath": "data/results/KAITO-latest.json"
+    },
+    {
+      "token": "XVS",
+      "name": "Venus Protocol",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:56.056Z",
+      "latestPath": "data/results/XVS-latest.json"
+    },
+    {
+      "token": "IO",
+      "name": "unknown",
+      "score": 0,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:02:54.448Z",
+      "latestPath": "data/results/IO-latest.json"
+    },
+    {
+      "token": "KMNO",
+      "name": "Kamino Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:03:01.532Z",
+      "latestPath": "data/results/KMNO-latest.json"
+    },
+    {
+      "token": "SNDK",
+      "name": "SanDisk Tokenized Stock",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:03:03.457Z",
+      "latestPath": "data/results/SNDK-latest.json"
+    },
+    {
+      "token": "HOOD",
+      "name": "Robinhood Markets",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:03:04.653Z",
+      "latestPath": "data/results/HOOD-latest.json"
+    },
+    {
+      "token": "STXSTOCK",
+      "name": "Seagate Technology (股票代碼STX) 相關代幣或合約",
+      "score": 20,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:03:05.216Z",
+      "latestPath": "data/results/STXSTOCK-latest.json"
+    },
+    {
+      "token": "ETN",
+      "name": "Electroneum",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:03:09.658Z",
+      "latestPath": "data/results/ETN-latest.json"
+    },
+    {
+      "token": "MU",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-20T03:03:07.077Z",
+      "latestPath": "data/results/MU-latest.json"
+    },
+    {
+      "token": "NMR",
+      "name": "Numeraire",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T03:03:13.719Z",
+      "latestPath": "data/results/NMR-latest.json"
+    },
     {
       "token": "UNI",
       "name": "Uniswap",

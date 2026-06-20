@@ -1,0 +1,179 @@
+{
+  "token": "WDC",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:17.720Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "WDCON",
+    "name": "Western Digital (Ondo Tokenized)",
+    "generatedAt": "2026-06-20T03:02:06.811Z",
+    "summary": "WDCON是Ondo Finance发行的Western Digital代币化股票，近期价格大幅上涨（7日+34%，30日+63%），市值仅72万美元，流动性极低。上涨主要受RWA赛道热度、Ondo生态合作及传统股票WDC可能上涨带动。但代币化股票流动性差、交易量小，且无直接新闻催化，追高风险极大。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若WDC传统股票下跌或RWA赛道降温，代币价格可能迅速回落。"
+    },
+    "catalysts": [
+      "RWA（真实世界资产）代币化赛道持续火热，Ondo Finance作为龙头项目受益",
+      "Ondo与Chainlink、BX Digital等合作拓展机构采用",
+      "传统股票WDC近期可能上涨（需验证）"
+    ],
+    "latestNews": [
+      {
+        "title": "Ondo Finance Debuts $693M Treasury Token on XRP Ledger Amid Soaring RWA Trend",
+        "impact": "利好",
+        "reason": "显示Ondo在RWA领域的扩张，提升生态影响力"
+      },
+      {
+        "title": "Ondo, Chainlink Forge Alliance for On-chain Institutional Adoption",
+        "impact": "利好",
+        "reason": "合作增强代币化资产的可信度和机构采用前景"
+      },
+      {
+        "title": "Ondo partners with Block Street to unlock global liquidity for tokenized assets and ETFs",
+        "impact": "利好",
+        "reason": "提升流动性，但实际效果待观察"
+      }
+    ],
+    "fundamentals": [
+      "WDCON是Ondo Finance发行的Western Digital代币化股票，1:1锚定WDC股票",
+      "总供应量仅952.55枚，市值约72万美元，流动性极低",
+      "Ondo Finance是RWA赛道头部项目，已发行多只代币化股票和ETF",
+      "代币化股票受限于非美国用户，且需通过Ondo平台铸造/赎回"
+    ],
+    "marketRead": [
+      "价格30日涨幅超60%，但成交量仅6.8万美元，换手率约9.5%，显示交易不活跃",
+      "无Binance等主流交易所数据，仅能在Ondo或DEX交易，流动性风险高",
+      "ATH为795.2美元，当前757.77美元，距ATH仅-4.87%，接近历史高点"
+    ],
+    "risks": [
+      "流动性极低：市值仅72万美元，大额买卖可能导致滑点巨大",
+      "代币化股票监管风险：各国对代币化证券的法规不明确",
+      "依赖Ondo平台：若Ondo出现技术或合规问题，代币可能失效",
+      "价格与WDC传统股票脱钩风险：代币市场深度不足，价格可能偏离",
+      "无直接新闻催化：近期上涨可能由RWA板块情绪带动，而非WDC基本面"
+    ],
+    "watchlist": [
+      "WDC传统股票价格走势",
+      "Ondo Finance平台新合作或产品发布",
+      "RWA赛道整体市场情绪",
+      "代币交易量是否持续放大"
+    ],
+    "sourceNotes": [
+      "数据来自CoinMarketCap，但Binance API受限无法获取交易对数据",
+      "新闻均为Ondo生态相关，无WDCON直接新闻",
+      "价格数据仅反映代币自身，未验证与WDC股票价格关联性"
+    ]
+  },
+  "profile": {
+    "id": "western-digital-ondo-tokenized",
+    "symbol": "WDCON",
+    "name": "Western Digital (Ondo Tokenized)",
+    "categories": [
+      "Tokenized Assets",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Ondo Tokenized Assets"
+    ],
+    "homepage": [
+      "https://app.ondo.finance/"
+    ],
+    "description": "WDCon is the Ondo Tokenized version of Western Digital, giving tokenholders economic exposure similar to holding WDC and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
+    "marketCapRank": 3209,
+    "currentPriceUsd": 757.77,
+    "marketCapUsd": 721816,
+    "fullyDilutedValuationUsd": 721816,
+    "totalVolumeUsd": 68573,
+    "priceChange24hPct": 0.24329,
+    "priceChange7dPct": 34.31095,
+    "priceChange14dPct": 50.99428,
+    "priceChange30dPct": 62.93755,
+    "athUsd": 795.2,
+    "athChangePct": -4.86842,
+    "circulatingSupply": 952.552079842699,
+    "totalSupply": 952.552079842699,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 29,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "WDCUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=WDCUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "WDCFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=WDCFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "WDCUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=WDCUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "WDCBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=WDCBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Western Digital Tokenized Stock (Ondo) price today, WDCon to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LS0gweWFzYTk1eF9HOExVcmxpamRtMGNmU2FkWnlvcmhOV251Mk1xQWJzOXJ3cV9nUDJGbGlqa09GT3dVSE9jVmxLUm0tY3pkN01TVUZFOXBZM0NXaXdjOXd4QUFSWEVwZEtMRF83blZsbGxaMUxDZlE4bGpZZ28?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 23 Mar 2026 07:01:57 GMT",
+      "snippet": "Western Digital Tokenized Stock (Ondo) price today, WDCon to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Ondo Finance, BX Digital Brings First Batch of Tokenized Stocks, ETFs to Europe’s Regulated Markets - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkxOMnlzWTNjWHZVX19FWkIyd21KbndvSnlEcEJyaThTbE9aRUJkUjlubkI1eHpJSmRSbFRyMXR0LTF1TzNfR2tNNnRBQTVaQjk4aEc1cmZrMS1BVE9CZDQzTm8tR2ZhZ01jc1hOS1dNMHl4c1lLM0hEc01kR2pMcDhR?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "snippet": "Ondo Finance, BX Digital Brings First Batch of Tokenized Stocks, ETFs to Europe’s Regulated Markets&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Ondo, Chainlink Forge Alliance for On-chain Institutional Adoption - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZUbGtqVDFnZndxUzU5aXZqQW12WldDbHRvSnpac2dxbjViblhIV0xyZFA0blJLTjY0QnNldUpiTVhqamdUT1FMeXJGbmpoOWZsOFF3Tng4dDBEQkxyeHY1bDZvTGNhRDE5V2FqQmxfSXJGZWUtVGUwQTh3cFZuaXBkVFQzRkgt?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "snippet": "Ondo, Chainlink Forge Alliance for On-chain Institutional Adoption&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Ondo Finance Debuts $693M Treasury Token on XRP Ledger Amid Soaring RWA Trend - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT21TQXY4VlNzZWdKc1lNWVlWRldIdThnM2VuN1o3VWJMT1pQanpSY0ctb3RZUURaUGVQMXdMNE51aFRTb0JIYmtqTHp4WXhlelhRWlMzcC1hOHV3c3N2YlJiV0xsVi1rS1prdVhiSW11WmRTdEltQWZfRFFTenZBN21OS0g5UQ?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 11 Jun 2025 07:00:00 GMT",
+      "snippet": "Ondo Finance Debuts $693M Treasury Token on XRP Ledger Amid Soaring RWA Trend&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Ondo partners with Block Street to unlock global liquidity for tokenized assets and ETFs - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRHk4OWZPVy14YXZaZGlzYzN2R3dNQU9fOXplalhkdHRBVHd5RTBYZ0s4VDBjQk9OaUZXTUVKWEx4d2JPMVV3ME81ZDJ1Z1lJZzEwa1g3RDBDa293TEpTOXlGck1jRzl1S3dPdjU2RVZzSjEyU1JtaHp4UUFXMU5pX1JBR3lLUQ?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 03 Sep 2025 07:00:00 GMT",
+      "snippet": "Ondo partners with Block Street to unlock global liquidity for tokenized assets and ETFs&nbsp;&nbsp;Yahoo Finance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

@@ -1,0 +1,211 @@
+{
+  "token": "CRWV",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:35.722Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CRWV",
+    "name": "CoreWeave",
+    "generatedAt": "2026-06-20T03:02:26.757Z",
+    "summary": "CRWV近期因纳入纳斯达克100指数、Dell交付首台Nvidia Vera Rubin服务器机架以及Nvidia 20亿美元投资等利好上涨，但基本面存在高债务、亏损扩大等风险，股价波动大。",
+    "rating": {
+      "score": 45,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsetPct": 15,
+      "holdingPeriod": "1-2周",
+      "invalidation": "跌破近期低点或出现重大利空（如债务违约、客户流失）"
+    },
+    "catalysts": [
+      "纳入纳斯达克100指数，被动资金流入",
+      "Dell交付全球首台Nvidia Vera Rubin NVL72服务器机架给CoreWeave",
+      "Nvidia 20亿美元投资，强化合作关系",
+      "分析师目标价上调至140美元"
+    ],
+    "latestNews": [
+      {
+        "title": "CoreWeave Stock Price Today and Why CRWV Jumped on the Nasdaq 100 News",
+        "impact": "利好",
+        "reason": "纳入纳斯达克100指数将带来指数基金被动买入，提升流动性和市场关注度"
+      },
+      {
+        "title": "Could CRWV Climb to $140 or Higher? CoreWeave Price Target and Analyst Forecast",
+        "impact": "利好",
+        "reason": "分析师给出较高目标价，提振市场情绪"
+      },
+      {
+        "title": "Michael Dell Says 'We're Thrilled' – CRWV Stock Climbs After Dell Delivers World's First Nvidia Vera Rubin NVL72 Server Rack To CoreWeave",
+        "impact": "利好",
+        "reason": "Dell交付最新服务器机架，显示CoreWeave在AI基础设施领域的领先地位"
+      },
+      {
+        "title": "Bitcoin miners Cleanspark, IREN, and TeraWulf among those lower after NVDA/CRWV deal",
+        "impact": "中性",
+        "reason": "NVDA/CRWV交易导致比特币矿商股下跌，但CRWV本身受益"
+      },
+      {
+        "title": "CoreWeave stock price forms dreadful patterns as key risks persist",
+        "impact": "利空",
+        "reason": "技术形态显示风险，高债务和亏损问题持续"
+      },
+      {
+        "title": "Why Is CoreWeave (CRWV) Stock Down 11% Premarket? Rising Debt and Wider Loss",
+        "impact": "利空",
+        "reason": "债务上升和亏损扩大导致股价下跌，基本面承压"
+      }
+    ],
+    "fundamentals": [
+      "CoreWeave是一家专注于AI和云计算的云服务提供商，与Nvidia深度合作",
+      "公司债务水平较高，近期财报显示亏损扩大",
+      "收入增长强劲，但盈利能力存疑",
+      "纳入纳斯达克100指数，提升机构认可度"
+    ],
+    "marketRead": [
+      "近期因多重利好股价上涨，但成交量未显著放大，需警惕获利回吐",
+      "技术面显示短期超买，可能面临回调压力",
+      "市场情绪偏乐观，但基本面风险未消"
+    ],
+    "risks": [
+      "高债务和持续亏损，财务健康度存疑",
+      "AI行业竞争激烈，客户集中度高",
+      "股价波动大，受消息面影响显著",
+      "纳入指数利好已部分消化，后续催化不足"
+    ],
+    "watchlist": [
+      "后续财报能否改善盈利",
+      "Nvidia合作进展及新订单",
+      "债务融资或偿还情况",
+      "指数基金调仓时间及资金流入量"
+    ],
+    "sourceNotes": [
+      "数据主要来自新闻聚合，未获取到实时行情数据",
+      "Binance API返回451错误，可能因地域限制无法获取交易数据",
+      "部分新闻来源为加密货币媒体，需注意信息可靠性"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "CRWVUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CRWVUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CRWVFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CRWVFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CRWVUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CRWVUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CRWVBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CRWVBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "CoreWeave Stock Price Today and Why CRWV Jumped on the Nasdaq 100 News - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0d2huTG8wS05Wd2xFTF9ZejRWcDVZT0FQVk13YTNlRDNJNXR5YmpURGFiMTY5UzcybFhWLVRWc3BiVXYtU19KdWJFeXpNY0NLSWQ0R0VsemZMdEVRVHBleHpNYXlVN3Brbk5Z?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Wed, 17 Jun 2026 04:47:56 GMT",
+      "snippet": "CoreWeave Stock Price Today and Why CRWV Jumped on the Nasdaq 100 News&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Could CRWV Climb to $140 or Higher? CoreWeave Price Target and Analyst Forecast - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONE83cEFMMUF2clRZbjNkaDY4UGhqUkh6TElFTVRoUXVITmFCVTJ4dXRrUjFsQTVwZ0FsbFFYNnhZUS1ZTEttRV9wT3hucHlBNDdKaVZ3TlB0U1AzeWR2UDJvaDNXMFQxTnNTRnhaUU9COE5rZjN4UkV3cUFienhKdmg4V0hoaENjUUR3Zk1HOWRPMG1DZjh4YnJtaERzREhFdW5ackNjcFRlbWpiT2xBVUZqNHFlMG03NzVz?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Mon, 15 Jun 2026 10:45:01 GMT",
+      "snippet": "Could CRWV Climb to $140 or Higher? CoreWeave Price Target and Analyst Forecast&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Michael Dell Says 'We're Thrilled' – CRWV Stock Climbs After Dell Delivers World's First Nvidia Vera Rubin NVL72 Server Rack To CoreWeave - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObEdrOHNnMEpkQ1J4TTg2S3pnTDFoelVSakxLNlBYWnA3dU93anpFSjlMRHRQZDB6YUZIa1piMEhvTzRnTDJja3k1bktkQmlmQUE3QkF3dmo0Z3R4X25EQjZ0cThlRjYyYkVsZ0VuYU9UN09SWHFoVTk5VTlKdzZEb1V5bDJWZFFmNzJpYXI0SlBpaWFLd0dRX0g3bEYzLTBmdXIzUmpiQzBFWkRzOEFGakdhNTk5Smw2ZktoQy1rYWNPdldF?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "snippet": "Michael Dell Says 'We're Thrilled' – CRWV Stock Climbs After Dell Delivers World's First Nvidia Vera Rubin NVL72 Server Rack To CoreWeave&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Bitcoin miners Cleanspark, IREN, and TeraWulf among those lower after NVDA/CRWV deal - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUlIeUVyUFZobWRIX1U0Sy0tVkVoNmJwNE9fZnpEVnFkQTRtMWs1ZVJpTW1jVWNidzVHalZXOUx4Qkd4bHZDVFpMSVdRc01YaTQzUFY0MUxKZEYxdmxrQVpYYWVpTkxUZUF2NkhzclVCdUlCREVmeGRQdTFZYWptbU1UWUZaSDBMa3FCS2l2VUNidTF0cUpZd2lzNDFITU5hQi1PWlNPMVlOcXdXUk1uYUQ4RmdESjg?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 26 Jan 2026 08:00:00 GMT",
+      "snippet": "Bitcoin miners Cleanspark, IREN, and TeraWulf among those lower after NVDA/CRWV deal&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "CoreWeave stock price forms dreadful patterns as key risks persist - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWG5aOHlVTUc1Y0lPUW9SdTUyNWliUEI4VWhiNjVyVThwSFNzZFY5QVVXZVZjMnNPRWE0OXFmWE85WjhBM0I5RWVUWjhXM09wUEJwWjVSMmJWM1dQYTZzdnp6a2FmeF9ualdUa2ZzVTF5YkpUdk9IdlozXy0tTWJYZFZObnhsd1QyRk01QlVEYmFTQXJBRVd4a0RCQmdiN052U1RGc3NJdw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "snippet": "CoreWeave stock price forms dreadful patterns as key risks persist&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Why Is CoreWeave (CRWV) Stock Down 11% Premarket? Rising Debt and Wider Loss - Tokenist",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWlxdTRFR0JTY2MzYVhBN09teU5fSTl3MlFPcHVNTmd3TzFiY0hxbEdmSFJkeGU3dzB1RUREM1NYRm5nMi1tcUVDT0ZvVXcxdHVwTW9SVU83a2hIM3NoUkxTRWZxT292OEFsOXlmcGpnN1B4MnBTUDE4NEJqME5lUTBHblFIRXFjclJxS0F4MzBBdV84SVhnUjZR?oc=5",
+      "source": "Tokenist",
+      "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "snippet": "Why Is CoreWeave (CRWV) Stock Down 11% Premarket? Rising Debt and Wider Loss&nbsp;&nbsp;Tokenist"
+    },
+    {
+      "title": "CoreWeave Inc (Derivatives) Price | CRWV Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11Y3F5bUpxR3o0cjVqcGVSdFd5ODRIREk5U3hhbl9VcVc3cWdvaGhLYVo1elhNU1VQVWlZQ0MwNWIxUzIxYmQ5U3dGZ00yeHlvWXV6NXJXY0FtSUhEUTB2RjNpaw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 19 Mar 2026 17:39:11 GMT",
+      "snippet": "CoreWeave Inc (Derivatives) Price | CRWV Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "CoreWeave Inc (Derivatives) Price Today in India | CRWV to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UNnJMYkFxajZxUTByZTU2cS1TZThhZnRxUzlLV1V3cl9uY1YySjNxLXJSQ1VJbVVVWVF0cmJ0NWs4NV9hSkw4R2dhWGtEZEVfLTYxdjkzdzlzQU9LdXc0WjdZcDNCY2NnQ1lxUWNR?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 09 Jun 2026 18:35:00 GMT",
+      "snippet": "CoreWeave Inc (Derivatives) Price Today in India | CRWV to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Pre-market movers: MARA and Block rally while CoreWeave tumbles on margin pressure - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNanA3c1dyb3F2blZFeXRSQ2JaMHJHTEZwTkRkYW1IcnU1WGRoR21GUFVfMUZQUUczLTBJQk93TXdDUTRhZFRLUHdWRmZCaUFNUnZSbml2b0dleW1iSWxUcE1Ic3JZVHkyb21oeWF2MlZfLU5vR1BNaFdORGlJR0hveTV3Z0pqUENqTTJXYm54Yi1ib3oyaW5WMEtGQ19zTkZ5OFRTWUVkUHZ4Qk1IcXpjUmtCMGlFaTFCZWlDeTF3?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "snippet": "Pre-market movers: MARA and Block rally while CoreWeave tumbles on margin pressure&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "ARK Invest Buys More Crypto Stocks While Its Circle And Coinbase Positions Sit at Losses - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMEh0RDNiV0tCWldtUHdWZDYwRmFvOC0ydmhQWXhIQUNRTzlQSVNjcFZnZGctbGVMQVNQWEtSX1ZFNDFXVEFWS3RsZFJhakktTmEybnU5eVhkQnYxNnhKXzBhTHU4SWJUVFd5aTR2NW54R3B4UGxvRG5PemRxcHBkeDdiSXVyNkNoLUFpMWM0Q3R0OGRZNGVlbU55QkVHR2d5WDJzUXdOTmg5RmVXbW1td25VcGxLc2VrM3JZTnFKMXhMWGh3ZVp4RDJSWXhwX21zVV9nVzJEajZ2Mk1jYWdQNVRrT0RWQkU?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "snippet": "ARK Invest Buys More Crypto Stocks While Its Circle And Coinbase Positions Sit at Losses&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "CoreWeave stock news: CRWV soars 9% on new NVDA $2 billion investment - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcFNHVl9COHFEZ3VfQXB6cFZObFpLbUJ4bVlMVnI5OVJUcE5nc3YwYmVlanpPVkFqYndVRnlLQm54MjRRNmo4TzBzT0VLWFlmbHJlcU1PRnNnRnlpQlhjbEtVQk9veWthZXJHTmxxUUdHeXdoSzdqeU5Ea2U4QTY2VWw1RFFkbTM5aG9Ha3Qyalc3TVIwLTdlWVh3NmkxOWVjd2k2TktHa3JTRVk?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 26 Jan 2026 08:00:00 GMT",
+      "snippet": "CoreWeave stock news: CRWV soars 9% on new NVDA $2 billion investment&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "CoreWeave stock jumps after major Nvidia Rubin news: what next? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWFsTDdzQmVIeWdsWWdIamdNTUQyMDFGUnBpejdQLVJRR0FwM2tGcl9HTXVsZW9LbHhIRGtZbXl1djN6ZE5ubVRpbVdIY1lxZXQ1R3hncTVmXzh0UWNSNFVydHd3ZkVPcU1rcloyWnNmSXIzSW5Bd2JNXzBic1ZUcXBfeEF0ZHdGNWp0YWFSR0RXUVdDaHdacVh3TktxbllZ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 01 Jun 2026 16:15:33 GMT",
+      "snippet": "CoreWeave stock jumps after major Nvidia Rubin news: what next?&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=CRWV: Throttled\n"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "token": "ARM",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:32.289Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ARM",
+    "name": "unknown",
+    "generatedAt": "2026-06-20T03:02:27.935Z",
+    "summary": "ARM代币无明确市场数据，新闻关联度低，无法确认上涨原因。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无有效数据支撑，逻辑失效条件不适用"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Does Arm Holdings Has a crypto coin? What is ARMUSDT and how to trade with WEEX TradFi",
+        "impact": "中性",
+        "reason": "文章澄清ARMUSDT并非Arm Holdings官方代币，可能为同名项目，但无实质利好"
+      }
+    ],
+    "fundamentals": [
+      "ARM代币项目信息缺失，无法评估基本面"
+    ],
+    "marketRead": [
+      "Binance数据获取失败（451错误），无行情数据"
+    ],
+    "risks": [
+      "数据不可得，存在极大不确定性",
+      "可能为同名仿盘或流动性极差的项目"
+    ],
+    "watchlist": [
+      "需确认ARM代币的合约地址及真实项目背景",
+      "关注是否有主流交易所上线或官方公告"
+    ],
+    "sourceNotes": [
+      "所有Binance API请求均返回451错误，无法获取交易对数据",
+      "新闻中仅一篇提及ARMUSDT，且澄清非Arm Holdings官方代币",
+      "其他新闻与ARM代币无关"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "ARMUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ARMUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ARMFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ARMFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ARMUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ARMUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ARMBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ARMBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "How to sell Global Military Arms Reserve (GMAR) via a crypto wallet - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WMTF0UmpkSGRJOUtmdUNMVVczZDJWNHBtU1NqTG1Ud0FoaFhkYWhUeUhBNVJaSHQ2b3N4c0ZQVVFCcWlYeUVEYmZTSUM3OGJxdUlUd1FVRkg1Zml3TXRnbWpvZF9nS2VjMDNFdFA1bzhPM09KcHpNVlh3?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 19 Jun 2026 00:00:00 GMT",
+      "snippet": "How to sell Global Military Arms Reserve (GMAR) via a crypto wallet&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Coinbase's VC arm reveals the trends crypto investors are betting on in 2026 - dlnews.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORFFGRThEdnA5aG5CSjhQS1JlUGx2bHV2YWRwQ2hqaVN0THliUXBVbTlGVG5YWnVTQmd2S050QXQydmZibG9nNmI2ZFY1dEpLeGo5NXRqcU1vU3QyTi1yQXJPaGN4bGNnZmtJdDhvUm01Mk9WbmxjV0tmcld4SnRPMGpqRFNXd19VMmtyS1hqWTNLcXVvNDFEMGZ2ajFZYUp3dGdvZm1ZVkNtaEcwTFFlUw?oc=5",
+      "source": "dlnews.com",
+      "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "snippet": "Coinbase's VC arm reveals the trends crypto investors are betting on in 2026&nbsp;&nbsp;dlnews.com"
+    },
+    {
+      "title": "Coinbase backs Ethena ahead of savings product launch for exchange's 100 million users - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0NfZ2ZoR0lHTG5nTXhYakVVdHN1TVVfVWFlV0FBT3Q2TVplcUtXZjhmNVF6WmkwYnFzOG5nMU1qMzY0VnVSM2dpck04b3FTWUgxTEVZc1NxeV9SNHpKeVhYNFlORVU0WlZVM1cxLUcyd3JaeWE2RE1INmpBNVpJb0I2WjNWeEJaUFZLbHZRRlFiWTl2bTVTLTJRQzhGQXlHMm9ublpxRlBOdi1kTDlEQlIyUWRTWmtvdm1hY0NDb2xZTVF4dE8xRnFmTQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "snippet": "Coinbase backs Ethena ahead of savings product launch for exchange's 100 million users&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Does Arm Holdings Has a crypto coin? What is ARMUSDT and how to trade with WEEX TradFi - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUmZ1ejFFN2M5OGJnNnF0dWdVYng1bDZUYmZoTDRWcTB5YXhwQVplMmU5WHR5YzAyMHlOOGlhN1RCbjYxOEZ5RzBMbmw1SnVBZEltMks3TTRSS2tJc3R3bHVtZC1IMGVsaDdENktFR3dTeEZQRUdLQVc5dDI2OE44b3hNM3kwdjRQeDBhUEh6VVRHZy1kSy1CZnA2YjN0S0R2VldqbUF5ZDEzY2U2MTJocGZBUWtPRWVHRjBUdjJZZWQzLUFlaks2RG5BdDRqR2x4ZDItQ2ZwTXB4bnBG?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Mon, 08 Jun 2026 08:28:03 GMT",
+      "snippet": "Does Arm Holdings Has a crypto coin? What is ARMUSDT and how to trade with WEEX TradFi&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Coinbase Ventures Acquires ENA Tokens in Open Market Purchase, Signaling Deeper Partnership - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyM3NrclNLOVBqWk1fb3UxTElaRzZVamU2M0xveVJnUzlXX3ZQaEdTLTF5eTdBYzA0T1BHaXpkOWhYTDlfcjRKamNrR2tlX050R3NESTJicW9USVN5TGUxUUptNWhsQXM5RmdFZW9lZHc4VVdQWF9JWDZacw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 02 Jun 2026 18:51:17 GMT",
+      "snippet": "Coinbase Ventures Acquires ENA Tokens in Open Market Purchase, Signaling Deeper Partnership&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "XRP Taps Japan’s 44 Million Users, But Is This the Breakout Moment for Ripple Price? - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0REZfVGlTVThhZ3kxME5NR0gxSXZac0xWc09sRVg3ME1LZGswUXhZVFBxaVBlcUg0ZVNYNDIwbVkzNU84bmNjMDBDVmJxYW9MdE5rNGVCTVl3VWVheTJQT3ZVVzdTZUU?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Tue, 14 Apr 2026 12:34:36 GMT",
+      "snippet": "XRP Taps Japan’s 44 Million Users, But Is This the Breakout Moment for Ripple Price?&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Mitsui & Co.'s Crypto Arm Brings Tokenized Metals Asset Zipangcoin to OP Mainnet - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUXJuNFpDRnkwdUNTX29zcW9EbExMakg0dHpyaTJkVGlIdlMwQUt0c3Q2SWt2eXk2Z1FJWTE3R2JWYnp4cW9pY3F4RGNoS2pyOFVnZWZrWE5ERXE2cmZUODVteVp3dXlVdnRMbGVTWUJpRmx5RVB6R0Exc3R0MC0yOWtsYjQzaG9uWjJaMjl1c1Z3empIU1JzX1RtNmlOT3JWbXM1blA2amZFVHFieVdiNGVsUEFxRmNiQ2liY0RJSVlaV09FMlE?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "snippet": "Mitsui & Co.'s Crypto Arm Brings Tokenized Metals Asset Zipangcoin to OP Mainnet&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Trump media firm dives into red hot prediction markets, in tie-up with Crypto.com - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbFlxNTFvYWJSZTBrNTJ6SXQwOS05QVpQbi04VnVRV05DWmJZTG1CTTRrVDZRa2xtRTlpVWF6eHN6Nk5teHY2NldEUHBaZ2VDUVliLXZuTzNsOHR1Z05WSTZ0QVNNTlpzcktXeENIUmFjNkNhc3ZhZkktM2VzM1dJbG9R?oc=5",
+      "source": "Fortune",
+      "publishedAt": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "snippet": "Trump media firm dives into red hot prediction markets, in tie-up with Crypto.com&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "Sonic Labs pivots from speed to survival with business-first strategy - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSm1xTzVwUUZWOTRhMjN2dFM2bk5xQnJSWGdYVjctbGVJSlBaM1pzSF9hNGl2MGJ6eXZzZHVzaEFQQ2swdmpDZ2t2dmlOLVEyN3dFVWpsLWg4MmxnU2tBR001eG1lYlpQaERSd0xJOUdEdHlrSUFXNnA2bF92Y05uVDFEVURrank1cUg4WDVZVVBhYVIxM0t4VnZpQmhoaXRqdzlSMEt6UkFiNjFJTzBPRXpWZUNRMFVMbjkzWEdUVE4ydW94N091Q1k1QS1Jdw?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 12 Nov 2025 08:00:00 GMT",
+      "snippet": "Sonic Labs pivots from speed to survival with business-first strategy&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "CMB’s Hong Kong arm tokenises US$3.5 billion money market fund on BNB Chain - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVJ4aGhHdUliU3FMUlp5VGVFQUZxZDlCODQ0b0tJTGppaGpOM04xUUJvR0xBNHc2OFlubEJPb0JjN1R4d1BHZ05ydnlGdkZzTW5VbFBjTVpzWU9OcnpIQTBBd0RJOHF5VTdSaF9UZFppQVZWOXZocWNrc0FGU3ZZZ2pIWl9FRzJ1NHRVcFFOQ0lXdzJnVW1HVnpGNlhsVVcxS28wSWxyQTJlaC1URGVQR2dtcUlud9IBtgFBVV95cUxNN3djZEZwXzBMbGJSTzBsNmdud1FraW1sTXQ4Rlk3LXptcGgwaWpmNXFDWG9zVGVuVTNXQkpJdDl6T2lReW84RFJYcGR0d204NU95NVhfdnRkc1F6emJOQmt3Rmh6VG0ydTFNdlQ5bXd5VUhscXM0U2RLM2pMMS1JNFJFWFpsOTQ5RUxTTWktNmpTQXhMWW5sM2pWT1lKNzdtVFBuZWRkdFNsaV9wOEx0cE5pWkVTdw?oc=5",
+      "source": "South China Morning Post",
+      "publishedAt": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "snippet": "CMB’s Hong Kong arm tokenises US$3.5 billion money market fund on BNB Chain&nbsp;&nbsp;South China Morning Post"
+    },
+    {
+      "title": "Shiba Inu OI Crashes Over 30%, SHIB Burns Grind To A Halt; Is This The End? | Bitcoin dogecoin - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94aWlrR1NmYzdVQ2RvU2xVbG5qR1Ezd0pVaDUzakRzRWNjQ3ptWHNDMTlUS2pvZ2NWcTlKWkpaVldtZjFWV3NsbUR5a2tkUVF1Rkczb2FDLTdTQVlkSjJ5RkNYUllUNGJkNUhqVVlISWg1V0tH?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
+      "snippet": "Shiba Inu OI Crashes Over 30%, SHIB Burns Grind To A Halt; Is This The End? | Bitcoin dogecoin&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Coinbase's (COIN) asset manager bring its bitcoin (BTC) yield fund onchain with Apex - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbEpJXy1kMmxyWGFOQUdwdDIzUEdSZ00xOFlEdm1FWjZqS0ZnZmJDRk5sZlFyZk5nLUxFMkIzY3V2d1BtdWxEamZZWWloZlVfYVFPU1ZfS3o3YjJFa2dwalFDVDBsVlJjSE8wN3hMLXVjYWlrSlBEZzhvLVZTMzl2RW1KNGh0SUlsZWk1NnU1MzRwTkllbEt3SHRCaXl5UWctaExRcl91T0k5clF4YUxRT1R0bkRUSHRR?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "snippet": "Coinbase's (COIN) asset manager bring its bitcoin (BTC) yield fund onchain with Apex&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=ARM: Throttled\n"
+  ]
+}

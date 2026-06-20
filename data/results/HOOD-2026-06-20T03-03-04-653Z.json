@@ -1,0 +1,201 @@
+{
+  "token": "HOOD",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:03:04.653Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "HOOD",
+    "name": "Robinhood Markets",
+    "generatedAt": "2026-06-20T03:02:56.605Z",
+    "summary": "HOOD近期因Bernstein报告指出预测市场潜在80%上涨空间以及推出股票代币等创新产品而受到关注，但基本面受Q4营收不及预期和加密市场整体下跌拖累，股价波动大。当前缺乏实时行情数据，建议观望。",
+    "rating": {
+      "score": 40,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若加密市场继续大幅下跌或HOOD财报再次不及预期，则逻辑失效。"
+    },
+    "catalysts": [
+      "Bernstein报告指出预测市场机会达1万亿美元，HOOD有80%上涨空间",
+      "Robinhood推出股票代币、期货和质押等新产品",
+      "可能受益于加密市场反弹"
+    ],
+    "latestNews": [
+      {
+        "title": "Robinhood Debuts Crypto Test Network With Tesla, Amazon, Palantir ‘Stock Tokens’",
+        "impact": "利好",
+        "reason": "创新产品扩大用户基础，提升交易量预期"
+      },
+      {
+        "title": "HOOD Vs COIN – Bernstein Flags $1 Trillion Prediction Market Opportunity With Potential 80% Upside",
+        "impact": "利好",
+        "reason": "权威机构看好，提振市场情绪"
+      },
+      {
+        "title": "Robinhood (HOOD), Coinbase (COIN) plunge in crypto stock rout, outpacing bitcoin (BTC) decline",
+        "impact": "利空",
+        "reason": "加密市场整体下跌拖累股价"
+      },
+      {
+        "title": "Robinhood earnings news: HOOD falls another 7% on Q4 revenue miss",
+        "impact": "利空",
+        "reason": "基本面不及预期，股价承压"
+      }
+    ],
+    "fundamentals": [
+      "Robinhood是一家美国金融科技公司，提供股票、加密货币等交易服务",
+      "2025年Q4营收不及预期，股价下跌",
+      "积极拓展加密业务，包括期货、质押和股票代币",
+      "与Coinbase竞争，Bernstein看好其预测市场潜力"
+    ],
+    "marketRead": [
+      "因Binance限制无法获取实时行情，但新闻显示近期股价波动较大",
+      "加密市场整体下跌时HOOD跌幅超过比特币，显示高贝塔特性",
+      "成交量可能受市场情绪影响，缺乏具体数据"
+    ],
+    "risks": [
+      "加密市场整体下行风险",
+      "公司基本面（营收）不及预期",
+      "监管不确定性",
+      "竞争激烈（Coinbase等）",
+      "缺乏实时行情数据，分析受限"
+    ],
+    "watchlist": [
+      "加密市场整体走势（比特币、以太坊等）",
+      "Robinhood下一季度财报",
+      "监管政策变化",
+      "新产品（股票代币等）的实际采用情况"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取HOOD交易对行情数据",
+      "新闻数据来自Google News RSS，时效性截至2026年6月19日",
+      "部分新闻日期较早（2025年12月），需注意信息时效性"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "HOODUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HOODUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HOODFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HOODFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HOODUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HOODUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HOODBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HOODBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Robinhood Debuts Crypto Test Network With Tesla, Amazon, Palantir ‘Stock Tokens’ - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNUJrLU01TFNiMmoxZXltYXFlczNRV3pYajZfQzYzR3BQdWdMa2dia0JaNTI4UEdiRlF4b3NFaERjRDJKaEYzTEoyWjZ3UW5mZjdKOGZDY3QxN1doSUNlX0lfZDY1U2V4bUVCb0oyWmpIMnhIbE5uT1lnSVl3SENacmF3RV9GM3N0c0hUTzcteG1HaFI5SGdGVDAxekhsWFZDbXdaZ2p6aklSa2kwdFZZeHV0VTVJUmNqOW9CLS1fQjZ1TjVscy1DSlltWFp0VFFoWkh2RnlQd0MtcFdTNk1lSWVn?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Fri, 19 Jun 2026 09:21:51 GMT",
+      "snippet": "Robinhood Debuts Crypto Test Network With Tesla, Amazon, Palantir ‘Stock Tokens’&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "HOOD Vs COIN – Bernstein Flags $1 Trillion Prediction Market Opportunity With Potential 80% Upside - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZnJDR2Q1SFBjajVpSnJLUDAtSmVQMmJmUG5pRjV5Z1V0RFYzYkI5N1J3OEh4c3JpZnNRX2ZUdzRGRXJPOHdoVDBjQXdCLXI2anNTODlNSmpOVHZJV1VoNEY5YWxWQWxCQlJWWmVxOWx5cEJaTjNlTXBjeEh5YXBtalYxSHpXc3c4c3pCSnZ6Zk1XVHlQRmlYWTlXcmRadEtEX0RoOS02VnZPa2FOUW1VMDJUQ3Vvbm02dVlOd0xuengzaEJRMWVqUzhkSlB6TzJOZXc?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Thu, 18 Jun 2026 00:48:17 GMT",
+      "snippet": "HOOD Vs COIN – Bernstein Flags $1 Trillion Prediction Market Opportunity With Potential 80% Upside&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Robinhood (HOOD), Coinbase (COIN) plunge in crypto stock rout, outpacing bitcoin (BTC) decline - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcmpnNWVoNy1tcmhPczZ4b2ZrQ01TUVZWZU96T2QzTHNuMnpabnV3Z3FlOGFSU3BETlMtcTFJVEY1aDQtWGdDYTE2Z0MxeDJNOWYzYXhnRkVudldUb25GTXdDM2Q4dXJPX0EwWUp0RVFvOWlOeXgzWlF3RkU3NjZZUUlsc0VTeDdyWkswZE53VlBMXzFrM3ZjaWExbkJweUIwQzJlZDhNTEpZbTd0a0NXcUJn?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "snippet": "Robinhood (HOOD), Coinbase (COIN) plunge in crypto stock rout, outpacing bitcoin (BTC) decline&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Why Robinhood (HOOD) Shares Are Getting Obliterated Today - StockStory",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZW1OTWd1Wm9nUUdrSHBaNjkyOVBhNWg5Rk50bG90NTNCZUpWRndOeGIyRDFKZ0NvYm5TaUVqS0JTOHZOVjJ5a2UzdkRncVlfRlB1QkRtbjk2eFFDWHVYdHlybTVtaUtlOFRmc2tpbDlpSlBscHFUUWJsYXZuRnZhWGZwLXhKaUp3Q2VVTTZSWnlkWkowd2g4SUlWY1Babi1TSUlqVXZNS29VZ0pVZkxVYU05cDMtMlotUzJB?oc=5",
+      "source": "StockStory",
+      "publishedAt": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "snippet": "Why Robinhood (HOOD) Shares Are Getting Obliterated Today&nbsp;&nbsp;StockStory"
+    },
+    {
+      "title": "Robinhood Expands Crypto Offerings With Futures, Staking, and Stock Tokens - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONU1fNnowNTdXYlhxYlZnUkRXbUZoTW5KbHNzWGVzR3k4RnpVRUV2MGEtdVBzSmtEODJwcTlJeFE1bWJzZWhPZmE2emdUeFpTU3paT216TWRMWWJjVFNOQnRHMjFObnVYZGVYdkl6SF9fSkJMQXFTRmk4RHNuOUl3T05FcVRjcE50MUZPTGZwNjg0dw?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "snippet": "Robinhood Expands Crypto Offerings With Futures, Staking, and Stock Tokens&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Why crypto stocks Coinbase, Robinhood, Strategy are sliding today - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVhpSVVtT2hfeGw0cG1GaklFUGRveEVLNllXak9qSFlHRVRsZ01vbWIzd0U3bGhuSVRGWHVvdG5mMVl5eWp1eFg0ZVktY2RXR2h1SVY1WXpOeWtncW5HN054OG5EMlNWWXU3U2NMYkFuamhMWkY2NTlTQjEybkZPcnIzT1VtWFM1YkFDQVYtR2poZTZYdzh1QWZNcFVFS01JcnZjUHR6Qm9UaDFGbjRmUF8xOGR2Sm9VTkdvZg?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "snippet": "Why crypto stocks Coinbase, Robinhood, Strategy are sliding today&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Hedera Defies Crypto Selloff After Robinhood Listing — Dogecoin, Stellar Lead Losses - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPbnhyZ1JOWHZRZzc3QktucHRQd3gyX0p2eTA5Wkd3bHdBWUJKQmZFWmJBdm8wM1NxYUR2SnI3bVVCWFVBakh4QkpWckhBMFhoWlZpaUR5NERLX0hsdkVOQm9OMDlEUVNLRHN4bXNqYWhxel95bDlvSHdabzF4R3Vocnl3WXRzdVA1ZTBpa3YxUzFjbWExdEJTUkdPNTkxazA5bVp0YnctWVo5WkRGenNJSDZhQnVqQV82RGNuOFJxVV81REVmSVk5ZnRYVk5aTkxSa0h3d0cxdF9nTlNLNEVrMm5UVS0zZ3ZUSnNQakZKcEhWenY0NEV5bzdTMFN3N004UHVuRmVuVXh2Sjl2OFNUeWt2OE9OZkVQbUlqZ0JtSWtiTjlQY24yRHpWUlY3bVRZUTd5UEVmdHpFYndYMzljc0U2bXNfdTgxNGxnei1Hc21sWXh2aVM4c2ZiSDRDNnhPd0FZ?oc=5",
+      "source": "MSN",
+      "publishedAt": "Thu, 18 Jun 2026 12:38:38 GMT",
+      "snippet": "Hedera Defies Crypto Selloff After Robinhood Listing — Dogecoin, Stellar Lead Losses&nbsp;&nbsp;MSN"
+    },
+    {
+      "title": "Binance Coin: Navigating Market Volatility as a Crypto Blue Chip - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHdJcHllTGVwN0lfTlBId21EeVRvWEtPd3hWWXZRMk03b3dzakZXbTJ1V1hia2lDN1UzSVB2N1lMb0RDUE5FVWJDT3NLRkxRXzJ1cHJ0QXBLZlhzcHcxTHVQNEppUHJsNmExOEEzU2dkbXVucFFaTy1XUlVia09DbV8zcHdfeDd5cnRmT3BRNWlxOXJsSjd0RUpkQUluTWlGVktyLVU3NFo?oc=5",
+      "source": "Moomoo",
+      "publishedAt": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "snippet": "Binance Coin: Navigating Market Volatility as a Crypto Blue Chip&nbsp;&nbsp;Moomoo"
+    },
+    {
+      "title": "Had You Invested $1,000 in Coinbase or Robinhood IPOs, Here’s What You’d Have Today - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN3phVk1Jc3N1eHNRWmo5SlEwU3d5Z19WMjBtMXFHZW1TSXhEWmUwNDZYZ0FZdmRhME9zN3dtUXktRVZJbDVINXBaS2dXVzBYRWtFNGJITE1QWjJXUnRCVWxoZG8xZTJkQmhpajYyRlVZWG9mRng0MjV5alUwb1VneVViRzUxMGVyeWtoeEhSZWk2Z0hqeExlUTRBSnl0RGRiUVBlMjhoaHhvMEtJa1k1S0pJa1F5bkZYWl80ekhOZw?oc=5",
+      "source": "24/7 Wall St.",
+      "publishedAt": "Fri, 27 Mar 2026 07:00:00 GMT",
+      "snippet": "Had You Invested $1,000 in Coinbase or Robinhood IPOs, Here’s What You’d Have Today&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "HOOD vs. COIN: Which Stock Looks Better for 2026? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2hmQTZTQmpGMWN5VTdTQzRLREpHalE1VG5zQkxKV25oNEo2MlZvYndQa1EyYVQzNHJuNkdnZDNlOUtfWXZQS1gxSWZoSzhudHYtWTB3TUZtdzUza2dwVG0zTE1NcEpvd3o1bnByc053OENEVG5Gd1NpQXJ1bUFJbGQ2Mmc5YlBxVFhmZGt3aWZ3Nmc3SDF5akJ3?oc=5",
+      "source": "TradingKey",
+      "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
+      "snippet": "HOOD vs. COIN: Which Stock Looks Better for 2026?&nbsp;&nbsp;TradingKey"
+    },
+    {
+      "title": "Robinhood Lists LDO: A Bold Move for Mainstream DeFi Access - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NYzZCQWNGYktmQzhoQWlLV3NZM1J4YzB0T1hza0FCOXJWWDVWdF9IRG8xdVZqcy1hN3J2Sm56NGpMZDBjTmZJWHFxc2xrNUo0RUVWZGNCWFJqRUR2ZUxuOF84V2NkN0dyX21CYWMwLVdzQ0pXVHVNSHhB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "snippet": "Robinhood Lists LDO: A Bold Move for Mainstream DeFi Access&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Robinhood earnings news: HOOD falls another 7% on Q4 revenue miss - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSDc4X0w2WkJ1NDh1bGc4aEJjOWtvSVVqTXN2dE8zNnp0UmJYRW81VXJtMTZHSnR2ZXZ4Y29tYUFxb2g5WUU3SzJzOURId3hlLTBuNUFoWHAtQ2hGSzZwSmJELUltTUVIVXlDNDAtdUQxZzVtRnRpTlFzZ1pBbzR2RVBMa0dmQ1VyZE01aWJGdVNoTUZteDhwaGw1MFU2UjRGTmxRR1gweHlaWExOOW9KczNBbldtcFZfV3plYnZPZWlaWjBUZ2NNVFlB?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "snippet": "Robinhood earnings news: HOOD falls another 7% on Q4 revenue miss&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=HOOD: Throttled\n"
+  ]
+}

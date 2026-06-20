@@ -1,0 +1,224 @@
+{
+  "token": "AERO",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:39.186Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AERO",
+    "name": "Aerodrome Finance",
+    "generatedAt": "2026-06-20T03:02:29.106Z",
+    "summary": "AERO近期因预测市场功能上线和比特币反弹推动上涨约30%，但缺乏实时价格和成交量数据，无法确认当前走势。基本面有协议升级和代币回购支撑，但市场情绪和流动性风险需警惕。",
+    "rating": {
+      "score": 55,
+      "label": "谨慎试仓",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若比特币大幅回调或AERO跌破近期低点（如0.40美元），则上涨逻辑失效。"
+    },
+    "catalysts": [
+      "预测市场功能上线提升协议效用和代币需求",
+      "比特币反弹带动整体市场情绪",
+      "155 million代币回购计划支撑价格",
+      "Animoca Brands等机构买入"
+    ],
+    "latestNews": [
+      {
+        "title": "AERO token jumps 30% on prediction market launch and Bitcoin rally, eyeing $0.55 target.",
+        "impact": "利好",
+        "reason": "直接催化价格上涨，目标价0.55美元显示市场乐观。"
+      },
+      {
+        "title": "AERO price prediction: Will THESE catalysts extend Aerodrome’s 30% pump?",
+        "impact": "中性",
+        "reason": "分析文章，讨论催化剂持续性，无新信息。"
+      },
+      {
+        "title": "AERO Price Jumps 22% as Aerodrome Unveils Predictive Allocation Model",
+        "impact": "利好",
+        "reason": "新模型提升效率，吸引用户和流动性。"
+      },
+      {
+        "title": "AERO Drops 7.02% Amid Broad Crypto Selloff, No Protocol News",
+        "impact": "利空",
+        "reason": "显示AERO受大盘影响大，缺乏独立支撑。"
+      },
+      {
+        "title": "Aerodrome creator boasts up to 80% efficiency gain by becoming more like a prediction market",
+        "impact": "利好",
+        "reason": "效率提升长期利好协议竞争力。"
+      },
+      {
+        "title": "AERO Soars 10% as Animoca Market Buys Aerodrome's Native Token",
+        "impact": "利好",
+        "reason": "机构买入增强市场信心。"
+      },
+      {
+        "title": "Leading Base DEX Aerodrome Merges Into Aero in Major Overhaul",
+        "impact": "利好",
+        "reason": "协议整合简化代币经济，提升价值捕获。"
+      },
+      {
+        "title": "Will Aerodrome Finance bounce back amid 155 million token buybacks?",
+        "impact": "利好",
+        "reason": "回购减少流通供应，支撑价格。"
+      }
+    ],
+    "fundamentals": [
+      "Aerodrome是Base链上领先的DEX，提供低滑点交易和流动性挖矿。",
+      "协议近期升级为预测市场模型，提升资本效率80%。",
+      "代币AERO用于治理、手续费折扣和流动性激励。",
+      "有155 million代币回购计划，减少供应。",
+      "Animoca Brands等机构持有AERO。"
+    ],
+    "marketRead": [
+      "由于Binance数据受限，无法获取实时价格和成交量。",
+      "新闻显示6月17日上涨30%，但后续走势未知。",
+      "需关注其他交易所（如Coinbase）的成交量和价格变化。"
+    ],
+    "risks": [
+      "数据不足：无法获取实时行情，分析基于旧新闻。",
+      "大盘依赖：AERO与比特币高度相关，比特币回调可能拖累。",
+      "竞争风险：Base链上其他DEX可能分流流动性。",
+      "解锁风险：代币解锁可能增加抛压。",
+      "新闻时效：部分新闻已过时，市场情绪可能变化。"
+    ],
+    "watchlist": [
+      "比特币价格走势和整体市场情绪。",
+      "AERO在Coinbase等交易所的实时价格和成交量。",
+      "协议TVL和交易量数据。",
+      "代币解锁和回购进度。",
+      "预测市场功能采用情况。"
+    ],
+    "sourceNotes": [
+      "Binance数据因地区限制无法获取，使用新闻作为主要来源。",
+      "新闻时间跨度大（2025年10月至2026年6月），需注意时效性。",
+      "部分新闻来自非权威来源，可靠性中等。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "AEROUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AEROUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AEROFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AEROFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AEROUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AEROUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AEROBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AEROBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "AERO token jumps 30% on prediction market launch and Bitcoin rally, eyeing $0.55 target. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUY1X2g0ZDMyaGk2Z09TSThkLVA2NnFLU25WenExa250TTlZVEk4cmt1WU03ZWpZT2pFQlNxOFZZeGIxS21yVnFfcVRZUGtCR0UtQzFXc09tY1A3ZjRkRTB0dWliMU1vZm14NzQ1X2dXcGh6NE9SbkhJem9vOTlBRUl3cjBYanRfNWt6TnpUMlYxdzVqbWw0?oc=5",
+      "source": "Pluang",
+      "publishedAt": "Wed, 17 Jun 2026 03:12:53 GMT",
+      "snippet": "AERO token jumps 30% on prediction market launch and Bitcoin rally, eyeing $0.55 target.&nbsp;&nbsp;Pluang"
+    },
+    {
+      "title": "AERO price prediction: Will THESE catalysts extend Aerodrome’s 30% pump? - AMBCrypto",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlZfQmhFYVRPTGVyRlhaQnhFTjhKcFdzWWRmcnFOeXdZX092TUhrUUZzQ0dScmo0RHVxY09UeklFakZsQmtGRS1lempnTnpPU0F2SGJnbmNCTFkwOXU2SHR0UVZGSURNUW1BdmszWnlrSDc1NWQ5Vk5lU3JMU2xPRThoWWFKM1FId1dtUlRGV1c5b2hFZlHSAZsBQVVfeXFMTldybTU4TXd5Ulp5cXFzVmxXWjBHOTBsSkxyejViUHo4UnYzMFVUbHVFWXFPSHh3UC1fTU1PYVJGUEFVTDVHX3M1VU1CVDF0Zm1ORVBtdDhGcVo4ajVIbkl5cUFTajdVa3dCZ3ppVV9EVjZXX2V6c0JUdkgxNDdxb0ZWclpKRV84QlhOQWZ5aTJKZ0NXem4yM2FWUEU?oc=5",
+      "source": "AMBCrypto",
+      "publishedAt": "Tue, 16 Jun 2026 16:00:03 GMT",
+      "snippet": "AERO price prediction: Will THESE catalysts extend Aerodrome’s 30% pump?&nbsp;&nbsp;AMBCrypto"
+    },
+    {
+      "title": "AERO Price Jumps 22% as Aerodrome Unveils Predictive Allocation Model - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTU1TQ19QMWFBTGwza2dfUGJwcTk5RXZsUjNYZFQyQzRKUUF6emMxbFcwLXRBS19VZU5qaHljcWk5d0w5b3lPd0g0TzlhRlNDRmZteDY3OGFIRlZNNmp4OTdlZmM5eDlNSm9GR2xHcmxBTHhfQ2NReUVFOXlqakF2NHV4N1ZKY2hXOXZCRUVDYjYwYUQxR1hKajFqeVNldXYzWGxYN2pQREdUQQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 15 Jun 2026 18:52:38 GMT",
+      "snippet": "AERO Price Jumps 22% as Aerodrome Unveils Predictive Allocation Model&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "AERO Drops 7.02% Amid Broad Crypto Selloff, No Protocol News - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YZm9sYVNVOU5BQ2JiNDlPTHQ2WVJseFFaaDBMaGVHd0NyNnVtdDFSN1B1ZUhYbUhDbTNGT3p1bnFmWnhEcU1PSHJycXBZSXpKUWphYkxkdUhQS0M1cDltVTJ0WEI2cTNSeFd2eFgxY2E?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 02 Jun 2026 21:26:00 GMT",
+      "snippet": "AERO Drops 7.02% Amid Broad Crypto Selloff, No Protocol News&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Aerodrome creator boasts up to 80% efficiency gain by becoming more like a prediction market - dlnews.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY0NNV0NadlNCdENZcGJaRGg0cnNmQV9lWm9nUmdnYWlrZ3JubW94TUI0U0NYYk14Um15Zy0yQ1BvOXZuOGw4LWxVSUY0dk03bjQ3S2pra25uaGhBUGlySF9BQVlJOXF1R3BUblVTYjByaWZfamN3QUpqVC1sS0FpaGxnb2xqWXRYXzh6WjlhMHdKWFFNSUd3b2dvcw?oc=5",
+      "source": "dlnews.com",
+      "publishedAt": "Tue, 31 Mar 2026 07:00:00 GMT",
+      "snippet": "Aerodrome creator boasts up to 80% efficiency gain by becoming more like a prediction market&nbsp;&nbsp;dlnews.com"
+    },
+    {
+      "title": "AERO Soars 10% as Animoca Market Buys Aerodrome's Native Token - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUklQMzR2V3ZLeC1sWjFucVRzWHkzWDlhOHEwSjZVZ3RZa2dEWGowRFg2QzBzM0ttTGR5WEFmWG9tOUFZT3pIVGJTbHJsVy02dm8yWXNhS0tqelh2MjRzcEs1U1VyZlNXdUZUaHJZZGRMNVQ1ZEI1RDdyQzdBcWhGcDBkdFV0R0hGOWJYSTlB?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "snippet": "AERO Soars 10% as Animoca Market Buys Aerodrome's Native Token&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Crypto market rally today: here’s why Bitcoin and altcoins are going up - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaG5iYzRtdEs5TEFVOTNkOVdkd2pDU1VYcHlteU5UbVdwRnZmNWJISlZZS29ESGY3dE1WaldQV0tLbExtSk50MkhrTnJhYnpCbThSdkVHenotMnduaXdfNU1GNEQwNURLTE56a09pQnV3Zk9YUWg5WExqZWtUY0pZUE5HcG9ycnVZMEk2X0VyYzRvLVdSU1ZINnNYd2xnMjNmREsyZ2hDU1N4N042TTNKaGppYnRQRV9aTUFfeldway1kVjFWLWc?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 01 Jan 2026 08:00:00 GMT",
+      "snippet": "Crypto market rally today: here’s why Bitcoin and altcoins are going up&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Can AERO Take Off? Aerodrome Finance Price Prediction 2025–2030 - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11SG9wQVJRZ1MtSmVnb094YkJEZWFLOFRGeXBQQkhmaUFWWlExdy1RTXI0Ym1YZ1M5cU1lcF96ZEw5ZFpLNGt3cWNlWmp5VE1zekNXcTVxQW94U2VDR0h0dWJVWDFDY2UxVWVEOXQ0MHR1dw?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Tue, 19 Aug 2025 07:00:00 GMT",
+      "snippet": "Can AERO Take Off? Aerodrome Finance Price Prediction 2025–2030&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Leading Base DEX Aerodrome Merges Into Aero in Major Overhaul - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFQyTDhhcldDei0yWGw3VHJIY0VuN0ZZVGpwc2NRbzUzd2ZIcGlabEgydWxHOWJZbGRmT1FrSExhTVlmVVE5OVVwSGE0TnFtdjd2ZXo4TUpUX21Ya19xYTY4R3pEdjFyZll6dzFFcVZwU0xvNDRHc2RSN09VdzN1ZmNndDJaSTdBc095cWVwdHZORjBFMnBkRmJVZWRrblptWUV2Vg?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "snippet": "Leading Base DEX Aerodrome Merges Into Aero in Major Overhaul&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Aerodrome AERO Crypto To 3X After Coinbase Launchpad? - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTk1weUtpclhBazFFaUQwZTY1alRhaHRuREN2c0RHRU52MTBuUzR5dTBOWmVxRzg4Z2VscjVDd0hmVTNiNWRYdEM3OVUyT0NnTUxYdTRzOGs1UlAtcXhGTHRLRU1Nc3g3WXdZSkV4SFZ6Ny1YdFdleEhEYTN0WnpOUkRQTzlVSUFpVkw5UTYwU05FZmI4UjRFMjQ0TVhmUTA4OVJZaWUtdHVoZw?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Tue, 11 Nov 2025 08:00:00 GMT",
+      "snippet": "Aerodrome AERO Crypto To 3X After Coinbase Launchpad?&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Will Aerodrome Finance bounce back amid 155 million token buybacks? - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVFhIMXA2aDBRLWl0MUs1ZGlSVktuaXFBeDItbHlzS2w4bFljR0U3RzRmUVRFLTlIMDI1Z3U4RnVBM3ZZQi03aWtweU1yNVlqZXROQlZlbVZnSFRENlczaW84ZE5obXRjUmQ3S0JBck9KNUROVzNwQ2lRNDNIcUd3V3hsTk4xeWYzcXFhQTVYWW14bzJ2cU5fellTNWVLX29KdTlmUVFTb0IzS0NVMHI0cFRHS0RYQnhnYTBFYi14VmhlRC04WkNXMmpWbmlZT0lka0I0QXhLeTRoSjFYR2pUd2hzSUZCNjlp0gHuAUFVX3lxTE5nUkRnRGQ4ZWZFckJMSFR5Ym1HTDd6c1hMV2xVZm1sR2plLThodlRENENkRnRpWmk5NWFabWFzQ2tRZzhJY0NXMFdhb002TUZoYUxpb0J4VjNHRU5QVjVhLTBCeDZFb0NXeEp5SEZLYkVYelBJWmhQRTlSa2pTU01JMEczVk4xU3NSbGhhS3lhV3U3VEtCQ2NCUmZScXZBcEg4R09JbU1KdU1vTFpzXzF4SURXZ0k1c084T3dlenRjTHV4QVNyMTJPZFBxbGtpQ2p5MEpXMmdLZVg5aWJmb3l2d2xXdmRtQnUzZU04LXc?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "Wed, 19 Nov 2025 08:00:00 GMT",
+      "snippet": "Will Aerodrome Finance bounce back amid 155 million token buybacks?&nbsp;&nbsp;FXStreet"
+    },
+    {
+      "title": "Best Crypto to Buy Now: Next Crypto to Hit $1 Candidates and the Top Tokens to Stack Today - Modern Diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUJFZEpQN3FDMVNZcmxwOWRWUFVBaU1XSTBQZG1rX20zZWttREJaT3kzQlpBcWc3amZBeTFJZVE1b1BTeDdfSjV4Y0IzbXNLNkdLdWFMOWJ3V1hYYXBGZ0NVY3c0X3JTR0U2TlZQbk91bGIzMHNKQ2dEMWhWMG11OXZjZHhYTkpDeWFHdkp3YU0yWlBnMHY4S1RPTC1OOVZYVWlrMnREalVBZzg1cVJmSkhZSVBBZ3ZNakZVNVJEN3VMeE9OeFE?oc=5",
+      "source": "Modern Diplomacy",
+      "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
+      "snippet": "Best Crypto to Buy Now: Next Crypto to Hit $1 Candidates and the Top Tokens to Stack Today&nbsp;&nbsp;Modern Diplomacy"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=AERO: Throttled\n"
+  ]
+}

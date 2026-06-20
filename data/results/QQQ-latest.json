@@ -1,0 +1,194 @@
+{
+  "token": "QQQ",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:28.679Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "QQQ",
+    "name": "Invesco QQQ Trust Tokenized ETF (Hyperliquid)",
+    "generatedAt": "2026-06-20T03:02:20.021Z",
+    "summary": "QQQ是纳斯达克100指数ETF的代币化版本，近期因Binance上线永续合约及地缘政治缓和等催化而受关注。但当前缺乏链上交易数据，且新闻多为宏观事件，难以判断短期走势。建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现明确的交易量放大或项目方重大利好，可重新评估。"
+    },
+    "catalysts": [
+      "Binance上线QQQ永续合约，提供10倍杠杆，增加流动性",
+      "地缘政治缓和（如停火协议）推动风险资产上涨",
+      "代币化ETF概念受关注，类似ONDO等代币化资产表现"
+    ],
+    "latestNews": [
+      {
+        "title": "Binance Perpetual Futures Revolution: QQQ and Major US Stocks Enter Crypto Derivatives Market with 10x Leverage",
+        "impact": "利好",
+        "reason": "Binance上线QQQ永续合约，增加交易渠道和流动性，可能吸引投机资金。"
+      },
+      {
+        "title": "Risk assets surge in pre-market trading as cease fire drives gains across crypto and equities",
+        "impact": "利好",
+        "reason": "地缘政治缓和提振整体风险偏好，QQQ作为风险资产受益。"
+      },
+      {
+        "title": "QQQ, VOO, SPY ETFs are falling: Here’s why the stock market is crashing",
+        "impact": "利空",
+        "reason": "传统ETF下跌可能拖累代币化版本，但新闻来源为CryptoRank，需谨慎。"
+      }
+    ],
+    "fundamentals": [
+      "QQQ是Invesco发行的纳斯达克100指数ETF，代币化版本在Hyperliquid等平台交易",
+      "代币化ETF允许加密货币用户间接投资美股，但存在底层资产托管和赎回风险",
+      "项目方信息不透明，缺乏官方白皮书或团队资料"
+    ],
+    "marketRead": [
+      "由于API限制，无法获取QQQ在Binance的实时交易数据",
+      "新闻显示QQQ永续合约已上线，但成交量未知",
+      "整体市场情绪受宏观事件影响，QQQ作为代币化资产波动可能较大"
+    ],
+    "risks": [
+      "数据不足：无法获取价格、成交量等关键指标，分析基础薄弱",
+      "监管风险：代币化ETF可能面临证券法合规问题",
+      "流动性风险：代币化版本交易量可能远低于传统ETF",
+      "底层资产风险：若传统QQQ下跌，代币化版本将跟随"
+    ],
+    "watchlist": [
+      "Binance上QQQ永续合约的成交量与持仓量变化",
+      "传统QQQ ETF的价格走势及市场情绪",
+      "地缘政治事件进展（如伊朗局势）",
+      "其他代币化资产（如ONDO）的表现作为参考"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取交易数据",
+      "新闻来源包括CryptoRank、CoinDesk等，部分为聚合内容，可靠性中等",
+      "项目方信息缺失，代币合约地址未提供"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "QQQUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QQQUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QQQFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QQQFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QQQUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QQQUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QQQBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QQQBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "QQQ, VOO, SPY ETFs are falling: Here’s why the stock market is crashing - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSmFmMmwxWmNCZmM4RTRmQjZwcmN1cmFCUHZ0TzJvbzlKbHZXZm5jYXJlSEJ4bjNlVFhrZWdWOGp5T0Y3TkJmR3dpbTA5cHQtb0lrSERmeVg4cTJneExHMHpKN2U3X2t4TFR4eUpiQ29ldFBuT3FYZFlpSFc2MDFsb1ZmMVNEUHd6WGlFcGF3MFl5VHJRWlF4QkdRemhwdDRMNHRKeVJ1dWM?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "snippet": "QQQ, VOO, SPY ETFs are falling: Here’s why the stock market is crashing&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Invesco QQQ Trust Tokenized ETF (Hyperliquid) Price Today | QQQ to AED Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRlBBMlY3TFpxS1pBS0NMWW1LWlZBcnhUNV84V1B4Q05jT1FQd1JJREJWQmcwd3hEV3VHRDY0dFg2LUk4alVTVi0tdHJubHc3OThaTTh3YXA3aGZ5YXBrcVAtX185S2YxLTBOYy1sUUhwR01HUzJZLUVUQXl3cmtuNEhUTFVwZw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 15 Jun 2026 07:00:00 GMT",
+      "snippet": "Invesco QQQ Trust Tokenized ETF (Hyperliquid) Price Today | QQQ to AED Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Risk assets surge in pre-market trading as cease fire drives gains across crypto and equities - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUFYUzlTNXFTbU5LSGZfelRWdnh6NHNERFhodXBNb2RnZGRobGNPU0psc0hpN1V5LTROdEstS3kxblJhWkJiQ2VjTjd2cFdCS3ZnSnItMGYxTUZvQkw5SlBTT2Z2c1JZYUM3eTFEcGt6QktkYUlHeFV5Vkw5Rmx2NEcxa1dkWXhNbzdLYV9FZ3U2WXlITXFjSWdMN3FJMHlqLVp2Z2JjdnVmdkJtX3owSA?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "snippet": "Risk assets surge in pre-market trading as cease fire drives gains across crypto and equities&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Crypto stocks slide in pre-market trading as bitcoin stabilizes around $77,000 - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTU0RExabEdvcVNZMUJEaEd4REltR3VZOENhUU5VRG5fM2lQNzQ5ZW50bDlHRTYyOXFlbDFhOHM5WEFRalY2Q0c0U1ZSRndJSm00Zng1OFFrQUdlaEkxVHVMelpoNHBnM0N3OF9oZGMxUkVVNXEyNnBZbG5KUjNiQmpPSXA5dw?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "publishedAt": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "snippet": "Crypto stocks slide in pre-market trading as bitcoin stabilizes around $77,000&nbsp;&nbsp;Yahoo Finance Singapore"
+    },
+    {
+      "title": "US-Iran Tensions Swipe Bitcoin Gains – CRCL, HOOD, COIN Stocks Lead Crypto Equity Slide - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZFVtajFEQjJqWEV2VFh0RXJnS1NOenJxMWdUU2lqUlRSUGZ2QkRWc0cwOEhiSkRPQ05HSl9XcGNRVXZEdEtsandzeEhzUmZIVF9wTDJ6OElGSExrWUlGaVJyWVoyRTNaYkszX01iT2w1WUp5WlZ2b0VGVmJSTE9QSE9wV2EtRWNaUTZGNk5CV0w1TzBPd2pFa1daMHRXSGVMNEo2SFBqajNNQXFiQTJzNWE5VlUwSnJibFZfbE8xUVp5WkpwczdyYVY1bmdqOWVY?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
+      "snippet": "US-Iran Tensions Swipe Bitcoin Gains – CRCL, HOOD, COIN Stocks Lead Crypto Equity Slide&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "ONDO price outlook as Binance lists Ondo Finance tokenized US equities - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZHhVNHp2OU9hU21VdUpfLVZ4Q1liOGRVQmU4d2JTR0ZGR21tbVVnMWR6VGFneG96NDZuMkxTcHgwWHh6NTk5bkV4ZUtpVlNIbDFjdHBVaFRWaHdhc3Vabkt2UXN3X3pVRW9SdjRTTWlJYTNDUGJTa1c5VVJyVHFaYVJ6ekV4c05keHFQbE1GNVk5Yk1zV2dSa2xnQmFsdGVUTGZIYmxCRjdVNnRMNzhVV2J1ZVZ4ai1YbWRxNkh3SmNTa1RsZFE?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "snippet": "ONDO price outlook as Binance lists Ondo Finance tokenized US equities&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObURjbXFLVFdWU2ZzOGNyOHI4Yjdod0cwcWxNbjlfdWJOZTBWSzZaU0pWM1daUVllY3J0N2FfWmlCMFh3d1FTc2o2X0xsM3VLZFE2YWdDLXZMNmVudlVWUDMwNG1jSHd3dTE0UlhPLWFKVXRDekdMbU1vRmFNSVhNdkkzaS1ZcG9oS0JCSUpUSmZZRExxSDFITXdDcmxjZw?oc=5",
+      "source": "Investor's Business Daily",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin&nbsp;&nbsp;Investor's Business Daily"
+    },
+    {
+      "title": "Binance Perpetual Futures Revolution: QQQ and Major US Stocks Enter Crypto Derivatives Market with 10x Leverage - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BaDRKcUJlMXIxeEM0UHpVTE5OUkFiQk9zVGE0Z2VpN2tMcjR6ejRMbEdCQ3Zxb3NvZjdDTGFGcnZLUk1PbHZBenpkbjNiRTRuS3BTTG9wN3hadXhoLWZqUHR0TTRJTTVycVJ6cmcxQ2l1MmFDNVp4c1lBZXdTbmc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "Binance Perpetual Futures Revolution: QQQ and Major US Stocks Enter Crypto Derivatives Market with 10x Leverage&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Bitcoin (BTC) price drops toward $70,000 as Iran war sends oil price higher - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLWRyZHhoZk1lWFB1aDNGU1otb18zQ2hMY0steXVBVy15TXoxM2EweXlZMElWTjlhQ2UyQkJFckEwbmtkRXVMQXVaV0VKS1lLZExNNXVNMktFR0dKM2J5a0FrclFObEhhTVYwak91OVlyd2ItWTFDa2kwd0pUUk8xemdfc0tybzRSR3hFeGlHVHlZV2dHSl9MeHh3X3VTc0ZWYm1wa2RINHROUkxCd2Z4aHlsb1J5Q1JyNi1yei0wVjZ4b3M?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "snippet": "Bitcoin (BTC) price drops toward $70,000 as Iran war sends oil price higher&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Bitget Lists NFLX, FUTU, JD, RDDT, QQQ Stock Index Perpetual Futures - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeld6aUJYTHJKd3JYdmExUDFPcDhVVGQ4YzNRUWpXOHljcFB0eUt2UDAybUtBSmNabFBVMS14Y3FPTGhMMGF2cDR0ZFVrTG85TV9QblBmVGpWQmJaTll4ZW5iV3RkamJLOG5PeDRITkw3ZU9RM0RpMjRTMzBGSHJ2OTgyVkFybUVnVlJxMHQyY1YzWWNZYXhUUzlBSWZIV1lNV0pRdnYyck1oX1lnejdaaHd0YkxySEtnbFNoS2xZc0xyZw?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "snippet": "Bitget Lists NFLX, FUTU, JD, RDDT, QQQ Stock Index Perpetual Futures&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Bitcoin falls below $67,000 as U.S. equities slide and oil pushes higher - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVjRWUnB2a3RLZ3dXdjBYa2pfX29kdDZtTlFnREtsN00xS0x1M2p1Vndoby1ESWt3N2xwSVBwM0dDS0kyWDlPRXdIZzd6ZGFzQmZoanZIT1BudGVKU2ZFb3RaZHBTbU9oV0lLLUFCWHVtNWNHS25naVZEaHEyV1FYWGpTOWRLYTlUZ1hvd1QwX0R0TzR6RFJBZkZUSlQ3NkFrVFpYalRTT3dLR1g3Mnp6WERlSl9xcHBt?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "snippet": "Bitcoin falls below $67,000 as U.S. equities slide and oil pushes higher&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Ethereum Price Prediction: ETH Needs Channel Reclaim to Revive Bullish Structure - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXJ1WFdOeTJfWWJBOURfcDNoX0NCRDFpZUpnU19TN1RJUFMzY1dPY0pmM2dCZVk4VGx3eXRHWm5CVU1renc5YWp2dG84cjZWRGU0WXg2VDA5QWdfa2FfaFp1NHZONFJ6UzZRakk5ZmJhSWlDR0ozR2RLbHhMcWRFMkNvSEFWb0J0dHZ0MldFb2ZOWmZoY1BtN0txaG5TTy1kMDBYMlk1RVhfX2c2aWFLYVlxSlc4NVJn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "snippet": "Ethereum Price Prediction: ETH Needs Channel Reclaim to Revive Bullish Structure&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=QQQ: Throttled\n"
+  ]
+}

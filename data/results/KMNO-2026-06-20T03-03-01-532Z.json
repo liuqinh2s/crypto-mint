@@ -1,0 +1,192 @@
+{
+  "token": "KMNO",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:03:01.532Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "KMNO",
+    "name": "Kamino Finance",
+    "generatedAt": "2026-06-20T03:02:54.130Z",
+    "summary": "KMNO近期因Upbit上线新交易对及Solana生态代币解锁预期引发关注，但缺乏实时价格和成交量数据，基本面偏空（代币解锁压力大）。建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若代币解锁后价格持续下跌或成交量萎缩，则逻辑失效。"
+    },
+    "catalysts": [
+      "Upbit新增KMNO/BTC和KMNO/USDT交易对（2026-06-19）",
+      "Solana生态代币解锁事件可能带来短期波动"
+    ],
+    "latestNews": [
+      {
+        "title": "Upbit expands altcoin access with nine new BTC, USDT pairs",
+        "impact": "利好",
+        "reason": "Upbit上线KMNO交易对，增加流动性和曝光度，可能吸引韩国投资者。"
+      },
+      {
+        "title": "Solana ecosystem prepares for significant token unlocks in June 2026",
+        "impact": "利空",
+        "reason": "大量代币解锁可能增加抛压，对价格构成下行风险。"
+      },
+      {
+        "title": "Binance Drops a Surprise: Four New Futures Coins Listed at Once (AIXBT, FARTCOIN, KMNO, and CGPT)",
+        "impact": "中性",
+        "reason": "Binance上线KMNO期货合约（2024年12月），但消息已过时，当前影响有限。"
+      }
+    ],
+    "fundamentals": [
+      "Kamino Finance是Solana上的DeFi协议，提供借贷和自动化策略。",
+      "代币KMNO用于治理和协议激励。",
+      "2024年4月上线时价格暴跌70%，市场信心不足。",
+      "2026年6月有大量代币解锁，可能稀释流通供应。"
+    ],
+    "marketRead": [
+      "由于数据源限制，无法获取实时价格和成交量。",
+      "历史新闻显示KMNO上线后表现不佳，近期解锁事件可能加剧波动。"
+    ],
+    "risks": [
+      "代币解锁抛压风险：2026年6月大量解锁，可能引发价格下跌。",
+      "流动性风险：KMNO交易量可能较低，导致滑点大。",
+      "市场情绪风险：Solana生态整体表现影响KMNO。",
+      "数据不足：缺乏实时行情，分析可靠性低。"
+    ],
+    "watchlist": [
+      "关注KMNO解锁具体日期和数量。",
+      "监控Upbit上线后的交易量变化。",
+      "跟踪Solana生态整体走势。"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取实时行情。",
+      "新闻来源包括Binance、Bitget、CoinMarketCap等，部分新闻时效性较差。",
+      "Upbit上线消息为2026年6月19日，相对新鲜。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "KMNOUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=KMNOUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "KMNOFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=KMNOFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "KMNOUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=KMNOUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "KMNOBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=KMNOBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "What Is Kamino Finance (KMNO)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zaERtbzJ1TTZRMG1ZWUxOZVBQSERFSXpnVkR2WG9TM2kwSHFJTFJRV0RtN0tFVklHMHhZdDlVcDNEUUIwLTRLemVYRG1jTW1mOHZjM3B4Vl83Q1RJRVJtYWRJR2JVaHUzMEJVdFAxNjhYR0pCQUZLVWZJaw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
+      "snippet": "What Is Kamino Finance (KMNO)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Solana ecosystem prepares for significant token unlocks in June 2026 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xRFpXS2xNV2l1a2J0WWdwZ2FoZ1JnR1A4T0lKc3JYUE40ZDAtM052N2U3TFU4NTk4b3N4bi1BU0ZZNXhQeDc0MGtsR2dRakdYODF0S2xWdjhMOUxQUGfSAWNBVV95cUxQYXFDN2Z0ZFFfYzlzRm1uVFh2MTJDUVkwQVY0M0ZYSWNlcHJEVFpBSmlUT0ZEYWpROTFDbWN6X1dRR2lFY2djRWVTTmFpMThON0ZqMkJTVVNHcE9rMm5VZjhnbXc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "snippet": "Solana ecosystem prepares for significant token unlocks in June 2026&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Kamino price today, KMNO to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wY05iNzIxcUpkalRpbThBdXFaajdiOFBjMkJFd0h2eVdDZ3dUX292X0o3alpzckNRUDNqV0ppVi1OcWpzXzdHVW9jWWF2QTVtR3NlRGU3akhPV0VROHk0MFpR?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 30 Apr 2024 07:00:09 GMT",
+      "snippet": "Kamino price today, KMNO to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Kamino Price, KMNO Price, Live Charts, and Marketcap: kmno crypto, kamino crypto, kmno - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XejNlWTB3d1BQM3plWHBCUGNEekdBWHA3ZzExeTAyTnNOWjVUdkc5WFN5NGlyZHVOeFh0eTVzVUpNRUpjaUlaYVVEbzdBeHdza1NkTGhOdGU?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Wed, 01 May 2024 00:10:51 GMT",
+      "snippet": "Kamino Price, KMNO Price, Live Charts, and Marketcap: kmno crypto, kamino crypto, kmno&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Kamino (KMNO) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mZDR4Z2phNDZrZXVONmVteFR2TTRMRllVaXl4TEVkOXh6eHZtNWlsNnV3RTEyYTNXd0txX2FoaXV0YmhTc3A0MVdWM3NELWZGakwzR0p6eFdRSllNdUxrTHpLNkxBWTVu?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Tue, 30 Apr 2024 22:09:15 GMT",
+      "snippet": "Kamino (KMNO) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Kamino Price: KMNO Price Index and Live Chart - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50THptWjRiMUFnSmxxR2Q5VFhhWklXemlNcFJDcmFhZ05iaG1LSkdxdUsyd3A0Vkw1ckR2Yy1uZ1JmTW5fRU1BbHpZSUxlTy1OQWdVUXpwRkhSbW1OeE0zLTVB?oc=5",
+      "source": "The Block",
+      "publishedAt": "Sat, 21 Jun 2025 19:05:41 GMT",
+      "snippet": "Kamino Price: KMNO Price Index and Live Chart&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Kamino Finance Debuts Token With 70% Drop In Price - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3RTOGxtRElOWV9pZDNQT1pMaHZzRmV5Qlg0Rk1WdGtKemo1cGZidkVLYktBblBfNDJMMXo1eFMxdHR5NFJrMFJSZ0tuOWZiTmdUbmxYTEhWUWZEQWZBWWRwclVhZ2FWVmNXaDliWEk1Z2pZUlFnVGJhVmZzN1AzQWlMcXZFdWFZ?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Tue, 30 Apr 2024 07:00:00 GMT",
+      "snippet": "Kamino Finance Debuts Token With 70% Drop In Price&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Kamino Price | KMNO Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kNjg2ckhBSzdxanZVR1p1eXFDR1VmUnc5Rl9COFlCNG1jWmEySUFTWGwzbkVKd2VNNzNnZnliUXlkYmNZYnpPbmJB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 12 Apr 2024 19:04:35 GMT",
+      "snippet": "Kamino Price | KMNO Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Binance Drops a Surprise: Four New Futures Coins Listed at Once (AIXBT, FARTCOIN, KMNO, and CGPT) - CryptoNinjas",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQampCOTJPUElYTndqMUFJZkRRWnhLZEVOMGEtNmtCRy1wWHV3emdValdaV21oQXRnQzRJNkZTR2JIOFRtYnRMZ29NUENILUlsbWVlbTVwZkJ1TnF0TTdxMjd1Q0RUZHp5b013RzRyOWxDUlZUYkFVX3VmTkM2b29tbDdCTHFycERvcWc5eHNKc3dIcTRkazA2T1ZrWXVyaE9rNjh0Y2xZMFZjU3VqdlNla1VXUmhoUnRORERXYkJGMUJIQWhw0gHKAUFVX3lxTE14dEpfNjM2OGYtR0owbmNDYjVDdVpacDFDOVd0UHRsN2tmcmdNZ0N5Ynk3eUtjM056dEJQWjhPejduVGhaeVFiSkIyVUEtZ3BEMVpldGctSnd5WmFjOU1TWlREVWNkSDE5Qy1LdDNWa3c5Yi1CRXgzQ21ndC13SkZiZl9MRV9GV2VTOXRwN29XTGlRSmpLdDZxVUNHVTZFVklVZ0JHenVITmZRV1dKRS1tR2Juc0dzaFFvd2N2X3dTTHhIWHZKclhLNFE?oc=5",
+      "source": "CryptoNinjas",
+      "publishedAt": "Sat, 21 Dec 2024 08:00:00 GMT",
+      "snippet": "Binance Drops a Surprise: Four New Futures Coins Listed at Once (AIXBT, FARTCOIN, KMNO, and CGPT)&nbsp;&nbsp;CryptoNinjas"
+    },
+    {
+      "title": "Kamino price today, KMNO to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yNWp6MTNqbkpmVkF4ZzVHTi1rbFlNTWxwUmNPdVozOEpVZVFPXzBaUVpyVjRsVTV5QzZvYUJEVGdDQ0hlVUhBRmJvUQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 25 Nov 2024 03:08:43 GMT",
+      "snippet": "Kamino price today, KMNO to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Price of Kamino KMNO today in EUR – Quotation and market trends - Bit2Me",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85TEdYbmxTRllYX1N4Y0o0NTV1Vi02X3hOQTRkbXNKc0NVcXJ2dXdBel9UcXlJUzVLQUYwdzJhbHl1TTFLTXc?oc=5",
+      "source": "Bit2Me",
+      "publishedAt": "Thu, 19 Jun 2025 13:29:33 GMT",
+      "snippet": "Price of Kamino KMNO today in EUR – Quotation and market trends&nbsp;&nbsp;Bit2Me"
+    },
+    {
+      "title": "Upbit expands altcoin access with nine new BTC, USDT pairs - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWRQT3FXUXU3aHRoeXI3eFVhcE9tVXRocDA4aDBueFlVdkt1dG9WbG13eTl4UVBQVjhfYzdFeFN4c1ZkdnZNVDM2ZmpNMk9Od2VpZnlhcjE5azRWalAyaWdmWjhKNURkejRTRW9kdXVXVGFPOGwzMUlUWU1Xakpza051YUE?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Fri, 19 Jun 2026 06:28:00 GMT",
+      "snippet": "Upbit expands altcoin access with nine new BTC, USDT pairs&nbsp;&nbsp;crypto.news"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=KMNO: Throttled\n"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "token": "ARQQ",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:19.597Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ARQQ",
+    "name": "Arqit Quantum",
+    "generatedAt": "2026-06-20T03:02:14.502Z",
+    "summary": "ARQQ是Arqit Quantum的代币，但当前缺乏二级市场交易数据，新闻关联度低，无法确认上涨原因。项目基本面未知，建议观望。",
+    "rating": {
+      "score": 20,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，数据不足"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Arqit Quantum (Derivatives) Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD - CryptoRank",
+        "impact": "中性",
+        "reason": "仅为价格分析，无实质利好或利空"
+      }
+    ],
+    "fundamentals": [
+      "Arqit Quantum是一家量子加密公司，但代币ARQQ的具体用途和项目进展不明",
+      "缺乏官方白皮书或项目介绍"
+    ],
+    "marketRead": [
+      "Binance无ARQQ交易对，其他交易所数据未获取",
+      "无法分析成交量或价格走势"
+    ],
+    "risks": [
+      "数据严重不足，无法评估",
+      "代币可能流动性极低或未在主流交易所上市",
+      "新闻中提及的ARQx AI和Arqma与ARQQ无关，可能混淆"
+    ],
+    "watchlist": [
+      "需确认ARQQ是否在中心化交易所上市",
+      "关注Arqit Quantum官方公告"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取行情",
+      "新闻搜索结果中仅一条与ARQQ直接相关，其余为无关内容",
+      "所有数据均来自公开来源，可靠性有限"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "ARQQUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ARQQUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ARQQFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ARQQFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ARQQUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ARQQUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ARQQBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ARQQBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Stablecoins: from DeFi primitive to global financial infrastructure - Bessemer Venture Partners",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2c3a0otRWx3bTZ0c2lKSDA0NTQwcDVHdENhVFlaQlkyZVRpUU1PZUtnVWQ1RWNOYzc4czRSMFR0X0c3M1dGb1dLZUYwMUFFdkg4a0dUTmhKUXpzOFhGMWpEdHlMa0xkUEVMZl9GYzZCZlM2V2d4SjU5dFZKV0NldGdsUndhWmM1Nm41cVVpamkxYTJvTkd3?oc=5",
+      "source": "Bessemer Venture Partners",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "snippet": "Stablecoins: from DeFi primitive to global financial infrastructure&nbsp;&nbsp;Bessemer Venture Partners"
+    },
+    {
+      "title": "Arqit Quantum (Derivatives) Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KeXBvOWU3ZHRDai0zS2RVQ2dpQ3ZTWDdBcDl4d1FaVVQyaU95V1g3aXVqTnJCNmkxRE1GUFdhc0VFVEZtWFdVS3J3Q1lsN2p6LTRYa0hPcGVkdUg1NG9LTlU5bk12dVpRWDlwMldqdkk?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 10 Jun 2026 22:55:55 GMT",
+      "snippet": "Arqit Quantum (Derivatives) Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "WLFI Token Dives as Investor Feud Escalates - Investing News Network",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2tJWlZrQkpjZHU0QWdFMDdITFhSc2hHOHV5V2RScVhkWEpKR1JEQ3U3UnZ4UGhGUWZpN05NWlVTd04tNXZxOUQtcnRNalhQcmxnWFdJVjVtS0NEVGVTMk9LdUVmUzI0bk9vX3VjRGVKQTZKUURNM29XRHpvbjBMQg?oc=5",
+      "source": "Investing News Network",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "snippet": "WLFI Token Dives as Investor Feud Escalates&nbsp;&nbsp;Investing News Network"
+    },
+    {
+      "title": "DoorDash Brings Stablecoin Payouts to Stripe-Built Tempo Network - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNV9OU3hka1R1Ym9xX2tmWUp4c202cFFlQUdWdF9uZlZVbHh0bjZ5bktqYzFqWXZPUEpnb2dzOGF3UTlsd1ctYkNJYldSVi1hZnhqUGFFdWFGRVpUM3NWTTNpOVgybks0NUVhSXV5dW5KNWZRXzVFamU4WFFmZ3JsNDZVR0ZicDk1S1E5M0F1V0Q2S3luN1hCeWhfcmI3T3ZERXFmMVBTdmJIUQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sat, 06 Jun 2026 10:58:27 GMT",
+      "snippet": "DoorDash Brings Stablecoin Payouts to Stripe-Built Tempo Network&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Grayscale’s Bittensor Trust Makes Public Debut – Fails To Lift Token Price Amid Crypto Market Slump - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb3VuaVZHcnA2bHAxbVFyUVphYnNfQlItM2IzczVkV1R0cDRlLUtkS21faU95Rmw1NHJmeDRFWXk2cWRvbDd4MmhUUGtLeW1iYnBla3hGWVhJUEx5MlY1bUhid0Ytck9YRVJ1Y1JXVFBpcnh0cHB3YnNPaHN1SXN5dFEyUmRoeVB3LTRUa3pSald6OV9LNW5ReGZuUXc0UlR0QTFHYk9WZnVwOGxVanctd3NndDRRUF9qLV9zMWlUMENpa2VraWRxeEpqd0JRbEZvLWsxNGVLcGd0b2dVTnZkc0FoZnpRTUpmVTVqRXlkZkI?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "snippet": "Grayscale’s Bittensor Trust Makes Public Debut – Fails To Lift Token Price Amid Crypto Market Slump&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "DoorDash joins massive fintech push to bring stablecoins payouts to merchants - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUlplRlFLWkhKVzQtclZPdVN4eTRlTmVrTGlSUjhDa0NNN0Y2b1UtcnY5dE9KYkxpWUhfVzY0aHR5MzlFbWJDcWU2UGt0RlhkVVFLVTBqeUdjaUJZX2QtTW9SR1FkMk14LUI5MElSVzFFMTA1TVdjYWRjaExEWHlfYWhwX1c4THVZVThDT2tBVHkwNGZwYmMxNEtHWXVKYmhnNzA0Uk5peU01YzB2NFlFSURHVjV2LVE2ZGtFcFpSTzhzeEU?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "snippet": "DoorDash joins massive fintech push to bring stablecoins payouts to merchants&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Mastercard Brings 24/7 Stablecoin Settlements to Global Payments Network - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDBHYTNXb2xKQzljSk9oNzJTbnczWEtEUVV3cmVtazZnTjdqRzU5NWlTaU00QjJ4Nkk1cmJVajJ0OEIxTS0zcnpqWjM1Y29VVkNXU0JUczNHaXlhU1FFcG44STd0eENRakRFTjRvTV9ZNEdGYVBhb3Jod2xBaXhra3lkWnR6eU5KQURhOUNId0dPMlYyeGtTOWw0Uld1clc2SXhTS3lWcDJzZ01mRWQ0?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "Mastercard Brings 24/7 Stablecoin Settlements to Global Payments Network&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Morning News | Backpack will launch on-chain IPO subscription service; Predict.fun strategically acquires on-chain prediction platform Probable; SoFi partners with Mastercard for strategic cooperation - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQdGpEU1NhcVF3ZmdEQWpyZzdrRlNxcDdEMGNjc0NDMzluZW91ZFBZQ0hjdHpwQXl1SXZJMjk4WS1Td1o4OTd1d25BMm1jdWhqSnVuaEV3M3Z0VFp3Sjk3ZVdkdGc3QTcwOVJ2V1pGR0NHczg5cG1fLWZRdnBCQm9ZSEpmVE5MMS1MYzRBeGpNN0JIaFhhczk3UEJjRUhlb1MzTlJvbUpCRE5waGtWVE52TEpRNEllWW5HN1lmQzIxTGo3MHhxUklVMU4zUGxSRFFsTFp0bVlzbGtiR1ZyaG83djl2VXdtcEJmNktCX05wQTNDODhsb2ROZGlBZk1TRXk1dW1XTWt3WXlEaGdPY09STEZ4YUpYZzhmdmt0S0tNQnhYazROUmZpQUR2VjFYZ3dOTTdzSkFWQ0FZdkRMM3liTncwUVVNYzZfWGUyOU8yOEotSkZYQnc?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "snippet": "Morning News | Backpack will launch on-chain IPO subscription service; Predict.fun strategically acquires on-chain prediction platform Probable; SoFi partners with Mastercard for strategic cooperation&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "ETHZilla Unveils Eurus Aero Token I Tied to US Airline Jet Engine Leases - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3aFFWc1d6bmgwTWVXZlhRSjBkYjB3eG5QQlVuZzNud1dITW5PNVNTYV9jMDd6bENhbDdTNVF2WGEtbnJQMzFYRFNYa2NEcDJHeWRyVTVOX1FXUWdJOEHSAWNBVV95cUxPTVVyZVJURFhkYWlNdHVNbmppeTVLbEN4TTRXWWgtR29PTTlzZ3p0bF9kc0VoNXdXODVYOVVRZ1hrOVhSMThjdWtPUlpYdGFaaTZ0eThQT0hEZW5reUVfODE5SW8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 13 Feb 2026 08:00:00 GMT",
+      "snippet": "ETHZilla Unveils Eurus Aero Token I Tied to US Airline Jet Engine Leases&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Sam Altman's Crypto Project Worldcoin In Hot Water After ZachXBT Flags 'Black Market' Activity – WLD Coin Price Dips - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ251UUU1czh2aGtJY2Z1WmhNOVpCUDhGdVd4WnpOZTRhanYtZzdjaEl0eVRzR2JOUGZKR2pMNmd6dHdBQ1JwSnUzV211Sk5hYzZfbGk0REFOZmM4M00wZloyajJaRUJfMzI4cHNRU2F6TkJXRnFnSWFscWk0aUpmd2ZMU2cwZVlBSExteE9sOWRCdUNWRXAyRlBqWHdEVU10Nkt2a3lnclhoUEpWeHpSS0FHRTVIQ3hTanV4N0xlRXJpUQ?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "snippet": "Sam Altman's Crypto Project Worldcoin In Hot Water After ZachXBT Flags 'Black Market' Activity – WLD Coin Price Dips&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "ARQx AI Price: ARQX/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1NVdmZWtKWU5oaDMwYUhVdC1fZzBtZWhYdnhaeWViTkRTcEF6YTBETkh3TjVFWnJWTmIzeUJDejZfdXlLbXd3Y1BVU2FpeUV0b1lnSQ?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 13 May 2024 09:38:53 GMT",
+      "snippet": "ARQx AI Price: ARQX/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Arqma Price Today | ARQ to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84NkRIZVh1R1FhaVdybEV0WF80WXVIV1Q2TnhLWlhlbW1tX3I0Y1g1RE1fRVVzUGRibjl1TGI0Z1lPZGJUUVBVVWFfa3czZ0k?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 21 Dec 2023 08:00:00 GMT",
+      "snippet": "Arqma Price Today | ARQ to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=ARQQ: Throttled\n"
+  ]
+}

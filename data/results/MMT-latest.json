@@ -1,0 +1,206 @@
+{
+  "token": "MMT",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:53.756Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MMT",
+    "name": "Momentum",
+    "generatedAt": "2026-06-20T03:02:45.646Z",
+    "summary": "MMT是Sui生态的集中流动性做市商(CLMM)代币，近期因币安、Upbit上线及Coinbase/Circle支持而大涨。但当前缺乏实时价格和成交量数据，无法判断短期走势。项目基本面尚可，但估值偏高，且存在解锁风险。建议观望。",
+    "rating": {
+      "score": 40,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大负面新闻或代币解锁抛压，则逻辑失效。"
+    },
+    "catalysts": [
+      "币安上线现货、合约及理财",
+      "Upbit上线交易",
+      "Coinbase和Circle背书",
+      "回购计划改善代币经济"
+    ],
+    "latestNews": [
+      {
+        "title": "The Growing Buzz Around Momentum (MMT) Token: Could This Be the Next Major Opportunity in Crypto Investments?",
+        "impact": "利好",
+        "reason": "Bitget文章宣传MMT潜力，可能吸引新投资者。"
+      },
+      {
+        "title": "What Is Momentum (MMT) Crypto? Surges 101%, Backed By Coinbase And Circle",
+        "impact": "利好",
+        "reason": "强调Coinbase和Circle支持，增强信任。"
+      },
+      {
+        "title": "Upbit MMT Listing: An Exciting New Opportunity for Crypto Traders",
+        "impact": "利好",
+        "reason": "Upbit上线增加韩国市场流动性。"
+      },
+      {
+        "title": "Binance Will Add Momentum (MMT) on Earn, Buy Crypto, Convert, Margin & Futures",
+        "impact": "利好",
+        "reason": "币安全面支持，提升可访问性和交易量。"
+      },
+      {
+        "title": "Revolutionary MMT Buyback Program Transforms Token Economics with Massive Rewards",
+        "impact": "利好",
+        "reason": "回购计划可能减少流通供应，支撑价格。"
+      }
+    ],
+    "fundamentals": [
+      "Sui生态的CLMM DEX代币",
+      "获得Coinbase和Circle支持",
+      "币安、Upbit等主流交易所上线",
+      "有回购销毁机制"
+    ],
+    "marketRead": [
+      "由于API限制，无法获取实时行情和成交量数据。",
+      "新闻显示近期涨幅较大（101%），但缺乏当前价格验证。",
+      "市场情绪偏积极，但需警惕获利回吐。"
+    ],
+    "risks": [
+      "数据不足：无法获取实时价格和成交量，分析可靠性低。",
+      "解锁风险：代币可能面临解锁抛压。",
+      "估值偏高：短期涨幅过大，回调风险高。",
+      "流动性风险：部分交易所交易量可能不足。"
+    ],
+    "watchlist": [
+      "实时价格和成交量恢复后重新评估",
+      "代币解锁时间表",
+      "币安和Upbit的流动性变化",
+      "项目方回购执行情况"
+    ],
+    "sourceNotes": [
+      "所有市场数据因Binance API限制无法获取，仅依赖新闻。",
+      "新闻日期集中在2025年11月至12月，距今已超过6个月，时效性差。",
+      "部分新闻来源为交易所自身，可能存在宣传倾向。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "MMTUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=MMTUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "MMTFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=MMTFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "MMTUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=MMTUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "MMTBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=MMTBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Momentum Price Prediction 2025-2030: Can MMT Rebound by Year-End ? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vN2l1SExZdFZBa01XM3hzbTdrZ0dkOHk5NGpiV2hYN2RtNF84RXZxVWJXeHRBVW1jQUNYTTdBcWxWeXFLNXVzaUo2S3RZNnVnb0VEcWJYWVZINkNaRThBNk9UWHJ4RmdFTEdLVXRNWExJUUxWUDV6cA?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "snippet": "Momentum Price Prediction 2025-2030: Can MMT Rebound by Year-End ?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Momentum price today, MMT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JUmI5cUxvYlB6NTJudzYwVWhOSmdrWGVwS3pIVHprX3J5UlBCZXlhVXdSY0tGUUt4QkpMZENaMWpOa2Q4RlQ2M2N1SjNaQlo3bzNxaEQ1UFFTYl80MGljYTRB?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 29 Aug 2025 05:32:51 GMT",
+      "snippet": "Momentum price today, MMT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Momentum Price Today | MMT to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5COTFYeVdOLTFUU0J0dlhSd2Vhamw0Q1dkR2tMbjVGSXFFM1NmUUlJZ1d4eEFiTUtwZm9KVzgxRUowRXEyZU9wOVVMVWhJWEpleDQ0VHBJMTM0SEU?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 04 Nov 2025 08:00:00 GMT",
+      "snippet": "Momentum Price Today | MMT to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Revolutionary MMT Buyback Program Transforms Token Economics with Massive Rewards - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oaFFYczlBUkdvYzQ2ZWgxQm5PbURBdVFaMUI3aGJ0ME8tVVptbm93aEpRZGd3QzdRVHpQNERJM3R0MHNKTUoxS3dXRDlIN3JPV0ZKZnl2TV8yeGJoRnN0RFpOc0NJUjBVWUZmTDhyYXVuMHVi?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 11 Nov 2025 08:00:00 GMT",
+      "snippet": "Revolutionary MMT Buyback Program Transforms Token Economics with Massive Rewards&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "MMT (Momentum): Sui DeFi CLMM Token – Full Guide 2025 - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DUS1CbGRNa1VwYzZJRjBQNkVHODhuRmJXVzdTdll2eFVLbS1YUVotM1lIcmZLTm42UzZMV1N4c1o0OFJkVWpjWXc5UGRnQXNpQjNvLTRMUFBBZmhTald5Z0JBTQ?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Tue, 04 Nov 2025 08:00:00 GMT",
+      "snippet": "MMT (Momentum): Sui DeFi CLMM Token – Full Guide 2025&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "The Growing Buzz Around Momentum (MMT) Token: Could This Be the Next Major Opportunity in Crypto Investments? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wMHhMX3dSeFNFajNRSHdNMXd3TEhKV3BPLUZ6V3BQRUMxNlkwYnNCRWkwS2EtMXpnWkVyTUY1anhhWmFBMjZlRXJaLVdvTGdza3BEaE9FQjI3cVVrMkHSAWNBVV95cUxNV3BMRUpUWU9ycFNQZkhmaHRBajlZb3d3blNJSS1RdWdZdVByRVR2UlBiX0tjV24yMUczUEJEMFFQU21yaWlXWHFWQ3hyRW8xTTFyMDZ4WUplR2w2dk1Cai1aTEk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 07 Dec 2025 08:00:00 GMT",
+      "snippet": "The Growing Buzz Around Momentum (MMT) Token: Could This Be the Next Major Opportunity in Crypto Investments?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What Is Momentum (MMT) Crypto? Surges 101%, Backed By Coinbase And Circle - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2pKcnJoRlF4MWhONGh2TVV6aFdCZUkzS2o3dDY0clNBLXZTbU4yS1hVY3Z1S2xnbU9Ha1NTN2NvUWhodzN4ZGZwaF9RTTYxa2FkaUtRSy1Za1FWOFMyc2YtM18yY0s0ckJTV3p1Z2k5QlF6WXdZZzBENkpjRUtYNVY0eTI3V0ZhQTRhSUM4T3lvd0hiS1NhOEduOXNVNmhVaVdFNWMyM1Jidw?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Tue, 04 Nov 2025 08:00:00 GMT",
+      "snippet": "What Is Momentum (MMT) Crypto? Surges 101%, Backed By Coinbase And Circle&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Upbit MMT Listing: An Exciting New Opportunity for Crypto Traders - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XcDB2OWlRamI4X3NOUnVxUXVRSTU1cE5HcjE2N3R4eENTQzRnNXI4NXVLUVFfemtESHo4MmhDRHBXQnNkTldLS3hxd2lRbXN1X2ZPZmVxN0FrT1VGd3ZPbmVuMk5ZanJKcDRyaFpSV3ktZmNaZ2c?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 04 Nov 2025 08:00:00 GMT",
+      "snippet": "Upbit MMT Listing: An Exciting New Opportunity for Crypto Traders&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What Is Momentum (MMT)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UVkNQNWE0Y0lYVEZLSUtESmxNb0tSZms1d25KYnM2eWI5RHVpeGwtdkN2dHQ0RmFaUTNydEhqZEZxZTcwV1VMM1J0UUt1TWticmh0bzVBRUNfQlNaZjJfZi1sVDgtbVpIRDVmNncycHRaQQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "snippet": "What Is Momentum (MMT)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Momentum Price USD, MMT Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50SXlvanZ6SldDVkc1RFpzNzVTUU02bERzWDRhazFNRzdTWGkyTGxESzJ3Z1R5RmhQVWxwLVhMOXpBVG9nT2drclJkVDBiMnVCdU0yemdn?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 03 Nov 2025 12:59:34 GMT",
+      "snippet": "Momentum Price USD, MMT Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Exciting News: Upbit MMT Listing Kicks Off a New Era for Momentum - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94V0NyS19VeXlvWU84T19meS1yOC01YTZOekJON3V4anNYYjN2WmR1MGpsREZUX3RNcUJhcS1oTG5Rb1hOeUliMy1sbjhiSFBvWlN2bzFOa3ZsTm5oeV9VdFpaVEg3OE9oSHd3c3BrM3pKdw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 05 Nov 2025 08:00:00 GMT",
+      "snippet": "Exciting News: Upbit MMT Listing Kicks Off a New Era for Momentum&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Binance Will Add Momentum (MMT) on Earn, Buy Crypto, Convert, Margin & Futures - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQjQ5N1RJME9yVmZEOFlzZ0M0WFI1REV3cVliRWNSU011NEZGVHg4ekJWYTZFYVJ3N3dmZUVHZ0lKdWU0eFMtLUtZOVlHeUtpQzVXUFlXbWJNRlR3MzgzN1VmamVoNFF1aVlRNDhqOGVnRTBJdTYyQWZmYzZHc2h1Mk9ONUcxc05yVHFEYXZaOGI?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 04 Nov 2025 08:00:00 GMT",
+      "snippet": "Binance Will Add Momentum (MMT) on Earn, Buy Crypto, Convert, Margin & Futures&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=MMT: Throttled\n"
+  ]
+}

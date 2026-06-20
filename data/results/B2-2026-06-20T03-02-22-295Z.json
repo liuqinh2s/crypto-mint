@@ -1,0 +1,193 @@
+{
+  "token": "B2",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:22.295Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "B2",
+    "name": "BSquared Network",
+    "generatedAt": "2026-06-20T03:02:14.380Z",
+    "summary": "B2是BSquared Network的代币，近期因Blockworks推出B2代币透明度框架及与Coinbase、Kraken等成立透明度联盟而受到关注。但市场数据缺失，无法确认价格走势。基本面为比特币L2项目，但新闻多为旧闻或无关内容。建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现明确利好（如主网上线、大所上线）且成交量放大，可重新评估。"
+    },
+    "catalysts": [
+      "Blockworks推出B2代币透明度框架",
+      "Blockworks与Coinbase、Kraken、Ripple等成立透明度联盟"
+    ],
+    "latestNews": [
+      {
+        "title": "Blockworks Launches B2 Token Transparency Framework For Mature Protocols - Castle Crypto",
+        "impact": "利好",
+        "reason": "提升B2代币透明度，可能吸引机构关注。"
+      },
+      {
+        "title": "Blockworks forms Transparency Alliance with Coinbase, Kraken, Ripple, and other crypto firms - Crypto Briefing",
+        "impact": "利好",
+        "reason": "联盟成员包括知名交易所和项目，增强B2可信度。"
+      },
+      {
+        "title": "BSquared Network Trading Competition: Trade BSquared Network (B2) and Share $500K Worth of Rewards - Binance",
+        "impact": "中性",
+        "reason": "交易竞赛活动，短期刺激交易量，但已过时（2025年10月）。"
+      }
+    ],
+    "fundamentals": [
+      "BSquared Network是比特币L2扩容项目，旨在提升比特币网络的可扩展性。",
+      "代币B2用于网络费用、治理和质押。",
+      "项目仍处于早期阶段，主网尚未完全上线。"
+    ],
+    "marketRead": [
+      "由于Binance API限制，无法获取实时行情数据。",
+      "新闻中提及的透明度框架和联盟可能带来短期关注，但缺乏价格验证。",
+      "历史新闻显示B2曾在Binance有交易竞赛，但当前流动性未知。"
+    ],
+    "risks": [
+      "市场数据缺失，无法评估真实价格和成交量。",
+      "新闻多为旧闻（2025年），缺乏近期催化。",
+      "项目处于早期，技术落地存疑。",
+      "代币解锁和供应情况不明确。"
+    ],
+    "watchlist": [
+      "B2在主要交易所的上市情况",
+      "BSquared Network主网上线进展",
+      "透明度框架的实际应用效果",
+      "代币解锁时间表"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取行情数据。",
+      "新闻来源包括Castle Crypto、Binance、CoinMarketCap等，但部分新闻日期较早。",
+      "项目基本面信息来自CoinMarketCap和CoinGecko简介。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "B2USDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=B2USDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "B2FDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=B2FDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "B2USDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=B2USDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "B2BTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=B2BTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Blockworks Launches B2 Token Transparency Framework For Mature Protocols - Castle Crypto",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRi1sQU9YaVNkX3NTeTNaUm8zc2JNOHJmcWJfOHpqeWJqVGI5bFh5ZEJ3NTNzeEt5azBmVEVsNFMwR2d2Q28tbEJuMFZBNDNsdWhoMkYySWN0ZG5xWWs2cFZXbFhOOWF4SThBVmE3STVKMFRjRzZiMlYxajVfVEpwU3AyMG1DdktncVNIc1pWaG4xWW03aWk3ZXp6d24zdTlSRjBXQQ?oc=5",
+      "source": "Castle Crypto",
+      "publishedAt": "Fri, 19 Jun 2026 18:41:46 GMT",
+      "snippet": "Blockworks Launches B2 Token Transparency Framework For Mature Protocols&nbsp;&nbsp;Castle Crypto"
+    },
+    {
+      "title": "BSquared Network Price Today in India | B2 to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ad2pWd3NpaGpFeV9wZko5RGZSMlpwa0F2TW4xUkMteW1BdjlKZWdoaVE3OW9mOEhOU0ZyeVRYZVd4b1F0Vzh5VHV5ZUplTXVDa1VtZmJJV1R2djBIUnpTdTh3?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 12 Jun 2026 04:35:00 GMT",
+      "snippet": "BSquared Network Price Today in India | B2 to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "BSquared Network price today, B2 to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OSmI0M0lvQTVobUF2bm85RFRxYWpHeEZseF9uQWZXbWpQR2dDY0Z4YWxOLUNGRlhVdEJrRFU5VjBHU2RxTVRMUEtzLU1PeGp3bklXRGZQQzE3YVBSeHN6YVRzUzE?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 28 Apr 2025 11:16:53 GMT",
+      "snippet": "BSquared Network price today, B2 to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Blockworks forms Transparency Alliance with Coinbase, Kraken, Ripple, and other crypto firms - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrWXZad21ZOWUzd2tMRkRla0hvcEc1Z1VuNF9OXzdnUE1mQWRCM3B1c1RqbW5zRkp2azd6d3pDNm9nRVFWNE93TDBJX3JLa21fbWtEVkNTNFdRN2FqUFZ4anFoVk5DRkxBdHV6OFI2SnRpRGJYV0t5WVZ3?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Wed, 27 May 2026 07:00:00 GMT",
+      "snippet": "Blockworks forms Transparency Alliance with Coinbase, Kraken, Ripple, and other crypto firms&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "XRP Price News: Traders Target $6 as Ripple’s RLUSD Surges Past $500M Cap - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmNFRWVzcnRCY0RMbDJlc1VHNGxvazJKX0I3TWNidndrVHZOWFo3ck5YeVdLRDE2ZjR5QW01UVN4WC1tYUc5ME5YUzZXYTh1Z2NQUmlIdTRTRVU0VmtnT3NNaVV2NG1qeW91anNGSGVCQk9obFdLYmlSV254YWg4MDREalBCQjhGNDUyQS1DaVhaeFBsTDBLX19MVDIwNVN0VXY5ckFSUmFwaExNOFE?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 09 Jul 2025 07:00:00 GMT",
+      "snippet": "XRP Price News: Traders Target $6 as Ripple’s RLUSD Surges Past $500M Cap&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "BSquared Network Trading Competition: Trade BSquared Network (B2) and Share $500K Worth of Rewards - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV1hpZUlnQUo4bzd2TWlDLXRpSlJBbmh5VkEzNm5NZkVNSllBSkVFc3VUTExoQ2Z6Z0k3c3BINWxLTjRJcGcxMnVib25vejF5SjRLQmJRbkNscnNzYVdpaVJTTVJMSElwNzdwS1dLYkZjcDN0dFVXd0pEM2JwOVFWc1FmbUh5Z0FVcHVQcUVrT2s?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 25 Oct 2025 07:00:00 GMT",
+      "snippet": "BSquared Network Trading Competition: Trade BSquared Network (B2) and Share $500K Worth of Rewards&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Bsquared Network Price | B2 Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KbThRYjFsZnVWZmczczJSVWZUdnFyWnpIM0g2ZzlZcWtNVURlMWY5VS1qQVFXZm1PY0U5dXJVc3ViMW16SnV0emdPMnR6amE1?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 25 Jan 2024 15:35:44 GMT",
+      "snippet": "Bsquared Network Price | B2 Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Binance Alpha News: Airdrops Rain Down as Fear Grips the Market - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb0RweDNpLS1HZGZ1aGVQTVptamN5a0Jvd3ZCUmtKTm1iWTU2bFpyYlpnSGEyd1VVcWtFRDRxNjlFaVdSNmkzUDA4NTFkeVhrbXdQUi1aS2NBaTBFdGw2VnBEYVlRdjJaNGMxemZNcm1vanNmbjRUMi1XclZLUU9uMHp5UTM1cjBTbEtWYzRNZUtOZmNzcGVEVWVvM01LNWdwamhLZ2tNOA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 31 Oct 2025 07:00:00 GMT",
+      "snippet": "Binance Alpha News: Airdrops Rain Down as Fear Grips the Market&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "B2 Network - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1RMXUxWk1hVlZfX0FoYnFqOGtNOHhSN1dLU004alYwR0MtU1pBQzBjX21xcWJiR09ZTG5kTzFPdFRHTlR0QXdZ?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Wed, 30 Apr 2025 07:00:00 GMT",
+      "snippet": "B2 Network&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "The new ‘decentralization theater’: Crypto projects are still controlled by the few | Opinion - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1XzZBWS0xT2cwMHZwbGlYR2lpT0N0cUthejFHREJqZ2pRNkRWcW84UjlwczgySU5kOE9mcFNhdjRtZURzYTRPSVpMMFBzQ19ZdF9GZzFudzJ5Wno2emfSAWNBVV95cUxPZmJ2dXBGVGQydF8zWUFGbFIzcmxHV0p6NzhtQnJ0SXZScThGWHp6a0dKSUNwa3pPdG9KMFlNblBxV1h0aGJVbkNESzJhZlI2RUlRRWpXMzQwNk5HRlBONXM0eFU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 09 Jul 2025 07:00:00 GMT",
+      "snippet": "The new ‘decentralization theater’: Crypto projects are still controlled by the few | Opinion&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "BSquared Network Price, B2 Price, Live Charts, and Marketcap: 0x783c3f003f172c6ac5ac700218a357d2d66ee2a2 - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ka0hmSHZnOHk3WTMwNFZNOGkwM3VKUmpiQjZLSnNWRW1PVWx0TERCbjVRcHlXLVQtZnNrYTlKd2ZPOGNEV3k3MFRITWVFQ1B4bVVNOTBiZ2hrQTQ?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Thu, 01 May 2025 17:32:44 GMT",
+      "snippet": "BSquared Network Price, B2 Price, Live Charts, and Marketcap: 0x783c3f003f172c6ac5ac700218a357d2d66ee2a2&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "BSquared Network Blockchain: Coins, NFTs, Exchanges & More - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43a0I3a1ZfNzgtNXFPQzJpWjRpbE5iZFJyVTJCVF9ZRWQwdXpiZjY1RVd4dy02b1ZnemY3X2t0MGl5LU0wM2JlUHctTzNZRldrTmRXRjBoQTJjemhnd0lIaWVn?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 18 Apr 2024 09:53:10 GMT",
+      "snippet": "BSquared Network Blockchain: Coins, NFTs, Exchanges & More&nbsp;&nbsp;CoinGecko"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=B2: Throttled\n"
+  ]
+}

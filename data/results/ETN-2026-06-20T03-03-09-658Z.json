@@ -1,0 +1,192 @@
+{
+  "token": "ETN",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:03:09.658Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ETN",
+    "name": "Electroneum",
+    "generatedAt": "2026-06-20T03:03:01.943Z",
+    "summary": "ETN近期上涨可能与英国FCA允许零售投资者交易加密ETN的政策有关，但项目本身基本面较弱，流动性不足，且新闻多为行业宏观利好，非ETN特有。建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现ETN特有重大合作或应用落地，可重新评估。"
+    },
+    "catalysts": [
+      "英国FCA开放加密ETN零售市场（2025年6月）",
+      "英国BTC ETN获批（2025年8月）",
+      "加密ETP机构采用趋势"
+    ],
+    "latestNews": [
+      {
+        "title": "What does the FCA's new crypto ETN policy mean for retail investors?",
+        "impact": "利好",
+        "reason": "政策开放可能增加ETN相关产品需求，但ETN本身非直接受益标的。"
+      },
+      {
+        "title": "Crypto ETNs Face Devastating UK ISA Ban: Investors Lose Crucial Tax Benefits",
+        "impact": "利空",
+        "reason": "ISA税收优惠取消可能削弱ETN吸引力。"
+      },
+      {
+        "title": "UK BTC ETNs Are a Turning Point for Britain's Role in Crypto",
+        "impact": "利好",
+        "reason": "英国加密ETN市场发展，但主要利好BTC ETN，非ETN。"
+      }
+    ],
+    "fundamentals": [
+      "Electroneum是一个移动端加密货币，主打即时支付和挖矿，但项目活跃度低。",
+      "代币总量210亿，流通量约180亿，通胀压力大。",
+      "市值排名靠后，流动性差，主要交易对在KuCoin等小交易所。"
+    ],
+    "marketRead": [
+      "因Binance限制，无法获取实时行情数据。",
+      "从历史数据看，ETN交易量极低，价格波动大，易被操纵。"
+    ],
+    "risks": [
+      "流动性极差，买卖价差大，难以大额进出。",
+      "项目开发停滞，社区活跃度低，基本面薄弱。",
+      "新闻催化多为行业宏观，非ETN特有，上涨持续性存疑。",
+      "代币供应量大，解锁压力持续。"
+    ],
+    "watchlist": [
+      "ETN是否有新合作或应用更新。",
+      "英国加密ETN政策具体执行情况。",
+      "ETN在主要交易所的流动性变化。"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取实时行情。",
+      "新闻来源多为聚合，部分日期较早，时效性不足。",
+      "项目资料来自CoinMarketCap等公开信息。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "ETNUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ETNUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ETNFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ETNFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ETNUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ETNUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ETNBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ETNBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "What does the FCA's new crypto ETN policy mean for retail investors? - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUjY2c3hPV29Wa011UzI2Y3dxakJHLWR3Z2xWbVlhMTdsMFZBZnc3SDVZV2x0X0E0cjdxNGJiMUtUTFpvZTVUczVNbFR0N0FOTHVXRmptZU14dGVaZVZ5RFVmS0k4clQ2U1ZCMDJKOTgzNmJNUkcwalZtX3BacWVhZF9FRkNXTjVWYUxhSlctdzhxdklxV3VEYUktYw?oc=5",
+      "source": "Yahoo Finance UK",
+      "publishedAt": "Thu, 14 Aug 2025 07:00:00 GMT",
+      "snippet": "What does the FCA's new crypto ETN policy mean for retail investors?&nbsp;&nbsp;Yahoo Finance UK"
+    },
+    {
+      "title": "Crypto ETNs Face Devastating UK ISA Ban: Investors Lose Crucial Tax Benefits in 2025 Fiscal Shift - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fZlFTcG9wckNhU3ZaVWJxZFcwbTZvck5wX0JzRGVhTWhkRDhhNU5sZFB4V1lqSkVmeEZueU9BV2NVRDc5MjFUaTNjV0lpaWQwaWRXZGI3UmlKbXRpVEpKWGNoY2czWEFCd0hr?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "snippet": "Crypto ETNs Face Devastating UK ISA Ban: Investors Lose Crucial Tax Benefits in 2025 Fiscal Shift&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "UK BTC ETNs Are a Turning Point for Britain's Role in Crypto, Industry Participants Say - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUV2WHNwT0wxUEs3SUNNUHBYSk4yZ2dzQkFDRFFDaFhjNi00Y2dsN0VITTJfZWpMSUg3RG81WXpCemZMN0tKWlFQY3dLTEtIZXhUSEhFUy0ySTRSUTVpeUpJMlNjdmIwYjRlMmM1TUVRM1pUendXUmYxZl9KeEVPcFh1T19jUnBhVlNWaU9EZDVyY1ZvTy02WkNvdzRhSDA0ZVE?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 20 Aug 2025 07:00:00 GMT",
+      "snippet": "UK BTC ETNs Are a Turning Point for Britain's Role in Crypto, Industry Participants Say&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Electroneum Price: ETN Price Index and Live Chart - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBodHJKV3IweW96cnRjdS0xSDFBU2dya0VWZ1c3ZjE2STNzZEZ2WUI5VU45ME9uSUZ0VHJkZ1NjTFlEMG16enlZczZjQ0xMQkJoMVJTNjNxM09HcDVUaXFZcnJBMUlLaDA?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 24 Jul 2025 15:12:48 GMT",
+      "snippet": "Electroneum Price: ETN Price Index and Live Chart&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "The Rise of Crypto ETPs: How a Fringe Idea Became a Pillar of Institutional Adoption - TRM Labs",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORklLbFhPLUxaZndOR1hUZkJQT1k5TllFNUNPMWJhMGRKTVpaVUgyM2tEb21Tak5DcjR1SjE0eU1qRmtrUFd0Q2NkVDhtRXRnT1ZQNXpaQXJpb2w5aGlFbjJNRFFBUjVhZ3otVDZiOTdrcnBqbzJfbHRrMzNGaDJ0NXlxamJuYXJFWGpORGxLNFpuV3EzRllqMTBqYUp5M0dvbFBIYWk3S3pRbnhFa2pXUEdZbVRhSWI1V2F3WEh6dw?oc=5",
+      "source": "TRM Labs",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "The Rise of Crypto ETPs: How a Fringe Idea Became a Pillar of Institutional Adoption&nbsp;&nbsp;TRM Labs"
+    },
+    {
+      "title": "VanEck Crypto Monthly Recap for December 2025 - vaneck.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONGZmdS1FYWdnWUtvS2h6Y3cxZDdqNHdrNEpReHUtTmkyYzA4aUpIVGdFMjZZLUZYOGUxNy01aFl3WlB6N0t2cXBMVlVjN0xWUjhsaGtBTWdReGJDc2ZhRGpaMDFhZUlqaGpsU3g1aDhabWhfN2stWjBtN3NqaXVtc18ybGh5bjFMYWxMekZJS3Fva0s1MkREVmswM0x1QWRzZFdaNWVQendlSGVSZ1Z5UUZjbXpPSi1mcGJIWXpQU1lmT3Q3ckQwNTktWGtoQmc?oc=5",
+      "source": "vaneck.com",
+      "publishedAt": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "snippet": "VanEck Crypto Monthly Recap for December 2025&nbsp;&nbsp;vaneck.com"
+    },
+    {
+      "title": "Electroneum (ETN) Price GBP Today, News, Charts, Market Cap - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93U1NVcTNwZkxXdjdld0gtYlhuSmVlZXhPX2RUbzhLY29lUUE0QnZ2dFlHU2x4TGJJbkNRZ3czUWZkQ2xsdXJFZUpySnRuQXEyTlMzMEFkYVBJay03?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Wed, 03 Jan 2024 23:59:41 GMT",
+      "snippet": "Electroneum (ETN) Price GBP Today, News, Charts, Market Cap&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Electroneum price today, ETN to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9idGV2dDNJdG1FZzI1RHZYV0hWRldEUk1YVVE4ZGxwQ0RWX0RhVUdndzVQZnllNGdhQl9Qek1BSi1JUXZoLVRVdWVXdGNlQWxibFV1SjRhZkpxNm9OT2c?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 02 Nov 2017 00:55:48 GMT",
+      "snippet": "Electroneum price today, ETN to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "'Bitcoin is not an asset class': UK's biggest investment platform has a stark warning for investors - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDZhVk5RZFpLa0xrT3lfN21ldjhDRW1XQUJPeHhDendtSl90ZTNiSHZDaDA1ajc2bVMtUGpKZkpCVUgtWW8zRGQ4c21NRERGb1VJMHQ1bWV6MnFYNjRxWlo4NzhLcGtiUF9jNzRacmVvUTREMlRtakUtd0lSeTJJVDZTYnAxOEFiYjhTYWNwSE1ydXVSOGpaaTB4MTA3UdIBowFBVV95cUxPQ1lYRDhCcXRiWjhfTHc0a2t3eTMtVzhpeERYSG9iTDhIZ3JKMnBmdmtfTDEyU2JWeGJpTWZyY3Y3dWNPVXY3VEppaVAwakVORGtXVVZVZ01JNlJES1hCTzAzN2w0eDh6Z2FiLUlZR1YxLUt3ZlQ0SVRIQVBnZXFXbmNCaXVUTEVuNF83SVlGY19kb2RTbDNPel9iaHZQU0pYcXZJ?oc=5",
+      "source": "CNBC",
+      "publishedAt": "Fri, 10 Oct 2025 07:00:00 GMT",
+      "snippet": "'Bitcoin is not an asset class': UK's biggest investment platform has a stark warning for investors&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "What is Electroneum (ETN): Cryptocurrency Wallet with Instant Payment - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OQVlQWUZNZC1qSjFsMzlPSUpvQWg4YTg5UVhmaHhuX2lUcmhUTU5WS1lXTElmT2w0dkxMRFZLQnpTdDJhM3BzVjIxazB2bkRONEgyZjVqd0RvdzdrY3VJ?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Wed, 20 Oct 2021 07:00:00 GMT",
+      "snippet": "What is Electroneum (ETN): Cryptocurrency Wallet with Instant Payment&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Deep Dive into Pyth Network - vaneck.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHhMVDl6X1dFZnJPaVk5bHJwSUtQeDlkWHdHZHl6T1RtS1NOaU1uMGVKSVR1cXUxRVNmaVZjVEpIS25kNGRoSjU1RDhDUG55cXUyVThUMTAwSTMtTTdzV1Z2WWM3UVdpYlhHYlJpd1didTd0cXNvQ1YtUjJWc2M3QVdJYw?oc=5",
+      "source": "vaneck.com",
+      "publishedAt": "Tue, 05 Nov 2024 08:00:00 GMT",
+      "snippet": "Deep Dive into Pyth Network&nbsp;&nbsp;vaneck.com"
+    },
+    {
+      "title": "UK Breaks With Past Policy, Opens Crypto ETN Market to Retail Investors - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fNEZkejJ5SHNhQXd5NktIbGQ0bTlGU1FpN3RqMjZ4dEJ4MlM3WUpmU3JLeFUzRkVsQ1JwVW9WQi1NU0w4UnVzbEo4NGIzejlVS1AteEZfV0RVVzdjdkhZMllESUk2b1FjNkdwTTY2dFoxTjVPd2tuZHZjZTM?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 06 Jun 2025 07:00:00 GMT",
+      "snippet": "UK Breaks With Past Policy, Opens Crypto ETN Market to Retail Investors&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/electroneum?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

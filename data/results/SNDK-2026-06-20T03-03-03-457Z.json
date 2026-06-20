@@ -1,0 +1,198 @@
+{
+  "token": "SNDK",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:03:03.457Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SNDK",
+    "name": "SanDisk Tokenized Stock",
+    "generatedAt": "2026-06-20T03:02:54.849Z",
+    "summary": "SNDK是SanDisk的代币化股票，近期因Coinbase推出半导体股票永续合约、分析师看涨以及市场对存储芯片需求回暖的预期而大幅上涨。但缺乏实时价格和成交量数据，且新闻热度已过，风险较高。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若无法获取可靠价格和成交量数据，或新闻催化消退，则逻辑失效。"
+    },
+    "catalysts": [
+      "Coinbase推出半导体股票永续期货（包括SNDK）",
+      "分析师预测280%上涨空间（MEXC报道）",
+      "存储芯片行业需求回暖预期"
+    ],
+    "latestNews": [
+      {
+        "title": "SanDisk Stock (SNDK): Why It Exploded and What Comes Next - WEEX",
+        "impact": "利好",
+        "reason": "解释上涨原因，可能吸引更多关注"
+      },
+      {
+        "title": "Sandisk Is Mooning Like a Meme Coin. Here's Why - Yahoo Finance",
+        "impact": "利好",
+        "reason": "媒体关注度提升，可能引发投机"
+      },
+      {
+        "title": "Coinbase Perpetual Futures for Intel, Micron, SanDisk Stocks: A Bold Move into Semiconductor Derivatives - Cryptonews.net",
+        "impact": "利好",
+        "reason": "衍生品推出增加流动性和交易渠道"
+      },
+      {
+        "title": "SanDisk (SNDK) Stock Soars to All-Time High as Analysts Project 280% Upside Potential - MEXC Exchange",
+        "impact": "利好",
+        "reason": "分析师看涨预期提振市场情绪"
+      }
+    ],
+    "fundamentals": [
+      "SNDK是SanDisk Corp的代币化股票，代表传统股票的所有权",
+      "SanDisk是NAND闪存和存储解决方案的领先供应商",
+      "代币化股票在Ondo等平台上交易，但流动性可能有限"
+    ],
+    "marketRead": [
+      "由于Binance API限制，无法获取实时价格和成交量数据",
+      "新闻显示SNDK曾大幅上涨，但缺乏近期价格更新",
+      "市场情绪受Coinbase衍生品和存储芯片行业新闻驱动"
+    ],
+    "risks": [
+      "数据不足：无法验证当前价格、成交量和流动性",
+      "新闻时效性：大部分利好新闻发布于1-2个月前，催化可能已消化",
+      "代币化股票风险：流动性差，溢价/折价波动大",
+      "监管风险：代币化股票可能面临合规不确定性"
+    ],
+    "watchlist": [
+      "获取SNDK在Ondo或Bitget等平台的实时价格和成交量",
+      "关注存储芯片行业新闻（如NAND价格、需求）",
+      "跟踪Coinbase衍生品交易量变化"
+    ],
+    "sourceNotes": [
+      "所有市场数据来自Binance API但返回451错误，无法获取",
+      "新闻来源包括WEEX、Yahoo Finance、MEXC等，部分为聚合内容",
+      "价格和成交量数据缺失，分析基于新闻和基本面"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "SNDKUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SNDKUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SNDKFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SNDKFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SNDKUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SNDKUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SNDKBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SNDKBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "SanDisk Stock (SNDK): Why It Exploded and What Comes Next - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSkhnZGNhWmlQd3lJLWRFOE1sb1NLdGdnNGJYQ1RjeHhPb0RnV1FvbUJIclM4OE9HMjhqNjBIa0s0UnZ2SUZUdW1ES2RJTHZaRm5tem9KOHh3X2tUVlBleEpFS2I0Y091cXZWRnU2WEdXN2xoNW8wR1haSVMwa3VQTkpmanVpLXlYSDBnRDZieXNPak9TUExwdmJ3TnNGeTBhZjlHRkk4SkJPS2FhTzBGTlJCNA?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Fri, 19 Jun 2026 02:16:45 GMT",
+      "snippet": "SanDisk Stock (SNDK): Why It Exploded and What Comes Next&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "SNDKUSDT Price USD, SNDKUSDT Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42SkV0QnhQQXBkcnE2UEdMS1BZbVd4OEtjcGxTNFBfa3Q2dU1FWGhFNF9nUG43VHFwTVFiNFNGQVYyZTRxWER1VHZUUEtKQQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 19 Jun 2026 12:43:37 GMT",
+      "snippet": "SNDKUSDT Price USD, SNDKUSDT Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "SanDisk Corporation (Derivatives) Price Today | SNDK to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5INGc3em5qOGdQQV9XLTRsVFFmWm91T0MxTmxRZWYzWlhKQjNKR3ZaLTRjWU93Rll6QmNCcHNpa1FJRS1QZ2N3S0lTX1R0c3hraU9wZGpKSndUN1FzVHRkTjFIa3BTUXBVQWRnanZWWlliQQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 12 Jun 2026 21:13:00 GMT",
+      "snippet": "SanDisk Corporation (Derivatives) Price Today | SNDK to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Bitcoin price analysis: BTC left to drift as hot money chases other assets - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYy1DZ2RyU1JmWDZYV3VrcWNPSmFaeVBjdXI1amh6R0w5WjhlMXYzUVBwOVVPYXRVOWNabXR1MGM2cTBnSVgyQUdFczBKT21HUXBxZjlJbzVfbU1vdFpjTWE4aDFaUk1kLUk0RXZ4ck5aUXRraUEzOTJKMHZwakRkS2ZXQjM3bVRDUG9OMFd4RzVxYnhlTFBhaGZwWE1EX0dCUGJ0QmZoanJRWk13VnZhOW1tV2RUUVNoeGJr?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
+      "snippet": "Bitcoin price analysis: BTC left to drift as hot money chases other assets&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "SanDisk Tokenized bStocks Price | SNDKB Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50RXFEQk1QU0FvTDdkTS1fVHR6MUJMd2FtcC1JUHlBUkVfRHVMdVEtYkRSV1ZJbzdrTWJnUzNSZFBKa0VHaW42N1NlZXBoRllNYmFjajVBOHV4LU9hQ3o5Q05BSQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 15 Jun 2026 11:20:49 GMT",
+      "snippet": "SanDisk Tokenized bStocks Price | SNDKB Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Sandisk Is Mooning Like a Meme Coin. Here's Why - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTlZRjd4d1F6eFdObXpUWkZyRk0yUlhfMV8tc3pDV3VWY2hFM1BKS2c1TzdTUEFzMk8tcF96SU5OV0IzOC1FMnBCVWwta01mcGtMN25qVmFJUlZGLUVEd19RQm1iR2Z5WWhTeTFHMEp5WDVjT3VXMktDR09MdWZMOGIxVWo4a0dKVGlHXzZ4ampoU1lYNHhyV3FQX0M?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
+      "snippet": "Sandisk Is Mooning Like a Meme Coin. Here's Why&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Crypto rally: Why Humanity, Worldcoin, FET, and Venice Token are soaring - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjFkZFpoSUdUcmEta3lGLVlKdUJzSUR0WVVBYmltRlpUNmxTb2RXWXRwZklfV1ZKSGJFN2MtaE5QMXptWElBaVNlUjBOcmtxdFlNN1B0a1NVOW5jNkxZVUl5WE52WU1NNU91NlNiM1NmM3dtVUdnWVRBZ01qRE9wczZ3MHpNSG5mRWRHcjhjdmx6eVNhTmJFM3oxUTdVMWhCWWpHY1J6QU4xWHNZWGRGMWxkcHR6UFY2ZjA3T0NiXzg5cFk?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Sat, 30 May 2026 07:00:00 GMT",
+      "snippet": "Crypto rally: Why Humanity, Worldcoin, FET, and Venice Token are soaring&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Coinbase Perpetual Futures for Intel, Micron, SanDisk Stocks: A Bold Move into Semiconductor Derivatives - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13azFKUHFfQkFpSGp3QXF1ZDhDWDJxcGZobVhkeHAwcXlsS2U0WWFQWko0ZUhvc2lzWWI5bmd3RkFBT0M1SDZoWDQ2OFN0N0lsLTBLUndybw?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "snippet": "Coinbase Perpetual Futures for Intel, Micron, SanDisk Stocks: A Bold Move into Semiconductor Derivatives&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Why Is SNDK (Sandisk Corp) Stock Rising Today? - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0IxTk5YVmNxYjJBZk83S3kteTBGTjI2bXNlTTNad2xkeXhwVWY4dm4yV3E2ZjZMcldmcnlXRk1rNUZzOGE5Yy1DWlZZcTQ4N0tyUWhSY2RmYnBEYjJIZ3Jwd3NRdk8xeTRobVBRZ0YwWXlvZmJMbzFpUmlNZ3hyWGpmUU1ldjhxOFlZXzdKRTFfQ29FUUVtTlZR?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "snippet": "Why Is SNDK (Sandisk Corp) Stock Rising Today?&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Bitcoin Cash Price Faces Major Breakdown: Here’s What Traders Are Watching - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWEdfZXZ4Y25odTZZR0hZc29tLTQwTzRXdDYzamIydHBVLUtCZjR5Zk0xaENtbFllaVItQ0duWk5IRC1jeVBEa29GbERuaEl2U2E1YjRVOWNSQ3AzdWN6OFZUYl9OLUxnMGZfYzNpVElEY3I5eUNvYno4cGZQblBXanZodXctc2VJYUdJMWtleEV6UnBXdTZTNzhxV1poSmMydnFkR1R5dWhGNG9tUkI0?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 04 Jun 2026 20:13:40 GMT",
+      "snippet": "Bitcoin Cash Price Faces Major Breakdown: Here’s What Traders Are Watching&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "SanDisk Tokenized Stock (Ondo) price today, SNDKon to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTOWp6VHhXdmlVTFhQTnNtLV9YUU5EYjdib0ZJMl9QaTVaY0hfQWZ6Ui03LUpmbmZpNDJVWC1tMmFSQzNGMHVtVjM3MXZCWGV6bmZleWRwdF9Pdi03S3FMbE5nUXJrQlhuQllwMy1sUGs4Sng1?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 23 Mar 2026 07:01:59 GMT",
+      "snippet": "SanDisk Tokenized Stock (Ondo) price today, SNDKon to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "SanDisk (SNDK) Stock Soars to All-Time High as Analysts Project 280% Upside Potential - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1jZ0d6eWFWVzZlUW1WNFdZeUlOT0k5bGR0cmQ2ZXdBdWxZWTAzekdMNjRPLTNUOXlqNmRzMGdDRkRsOC10LVNZ?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Thu, 09 Apr 2026 07:00:00 GMT",
+      "snippet": "SanDisk (SNDK) Stock Soars to All-Time High as Analysts Project 280% Upside Potential&nbsp;&nbsp;MEXC Exchange"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=SNDK: Throttled\n"
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "token": "EWY",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:29.029Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "EWY",
+    "name": "iShares MSCI South Korea ETF (Derivatives)",
+    "generatedAt": "2026-06-20T03:02:18.088Z",
+    "summary": "EWY是追踪韩国股市的ETF衍生品代币，近期因Binance上线期货合约及韩国在全球加密交易中占比30%的新闻受到关注。但缺乏链上数据和交易量，价格走势不明，风险较高。",
+    "rating": {
+      "score": 20,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，数据不足"
+    },
+    "catalysts": [
+      "Binance推出基于韩国股票ETF的期货合约（10倍杠杆）",
+      "韩国占全球加密交易30%的新闻"
+    ],
+    "latestNews": [
+      {
+        "title": "Ishares Msci South Korea ETF (Derivatives) Price Today | EWY to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格页面，无实质信息"
+      },
+      {
+        "title": "Binance Launches Revolutionary Futures Contract Based on South Korean Stock ETF with 10x Leverage - CryptoRank",
+        "impact": "利好",
+        "reason": "交易所上线衍生品可能增加流动性和关注度"
+      },
+      {
+        "title": "30% Of Global Crypto Trading is Coming from South Korea, Research Finds - BeInCrypto",
+        "impact": "利好",
+        "reason": "韩国市场活跃可能带动相关代币需求"
+      },
+      {
+        "title": "Ishares Msci South Korea ETF (Derivatives) Price Today in India | EWY to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格页面"
+      },
+      {
+        "title": "South Korea accounts for 30% of the global crypto market - Coinspot.io",
+        "impact": "利好",
+        "reason": "重复信息，韩国市场占比高"
+      },
+      {
+        "title": "Ishares Msci South Korea ETF (Derivatives) (EWY) price Prediction - Bitget",
+        "impact": "中性",
+        "reason": "预测类文章，无实质数据"
+      },
+      {
+        "title": "EWY USDT Listing: WEEX Futures Adds iShares MSCI South Korea ETF - WEEX",
+        "impact": "利好",
+        "reason": "更多交易所上线，增加可交易性"
+      },
+      {
+        "title": "Top RWA Tokens to Invest in May 2026 - CoinDCX",
+        "impact": "中性",
+        "reason": "EWY被归类为RWA，但文章无具体分析"
+      },
+      {
+        "title": "Coinbase CEO Seeks ‘Win-Win’ on Market Structure Bill in Davos Charm Offensive - Decrypt",
+        "impact": "中性",
+        "reason": "监管新闻，与EWY无直接关联"
+      },
+      {
+        "title": "TON price soars 13% as Telegram revives original Gram token brand - MEXC Exchange",
+        "impact": "中性",
+        "reason": "无关新闻"
+      },
+      {
+        "title": "Samsung Ships First Commercial HBM4 Memory Module, Nvidia’s Vera Rubin Expected To Use It: SSNLF Stock Soars 55% - Stocktwits",
+        "impact": "中性",
+        "reason": "韩国科技股利好，但间接且不直接关联EWY"
+      },
+      {
+        "title": "How to Fetch Crypto Data Using Python & CoinGecko API (With Examples) - CoinGecko",
+        "impact": "中性",
+        "reason": "技术教程，无关"
+      }
+    ],
+    "fundamentals": [
+      "EWY是iShares MSCI South Korea ETF的衍生品代币，追踪韩国股市表现",
+      "属于RWA（真实世界资产）代币类别",
+      "已在Binance、WEEX等交易所上线期货合约"
+    ],
+    "marketRead": [
+      "无法获取实时行情数据（Binance API受限）",
+      "新闻提及价格页面存在，但无具体价格和成交量信息",
+      "缺乏链上数据，无法判断真实交易活跃度"
+    ],
+    "risks": [
+      "数据严重不足：无法获取价格、成交量、市值等关键指标",
+      "流动性风险：代币可能交易量极低，买卖价差大",
+      "新闻时效性差：多数新闻发布于2026年3-5月，已过时",
+      "监管风险：韩国加密市场政策不确定性",
+      "ETF衍生品代币的合规性存疑"
+    ],
+    "watchlist": [
+      "获取EWY在Binance或其他交易所的实际交易数据",
+      "关注韩国加密监管政策变化",
+      "观察Binance期货合约的持仓量和交易量",
+      "查看项目官方文档和团队背景"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取行情数据",
+      "新闻来源主要为聚合网站，可靠性一般",
+      "无链上数据，无法验证代币供应和持有分布"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "EWYUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EWYUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EWYFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EWYFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EWYUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EWYUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EWYBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EWYBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Ishares Msci South Korea ETF (Derivatives) Price Today | EWY to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMbGFEOUhEZFItN085dmtQUU9aaGY0T1R1STBhSGc2S0dMdGRqaTJVSTVxOVl0bm1WV2NaX19rbGhqVUVaRnppWGdQTkNyUlp1dnNzcEl6X1Q2YXFhYk8zbXA3TENwM2IySTZpemxjVjAybVNCMFQyZUJDbVExQQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 16 Jun 2026 14:53:00 GMT",
+      "snippet": "Ishares Msci South Korea ETF (Derivatives) Price Today | EWY to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Launches Revolutionary Futures Contract Based on South Korean Stock ETF with 10x Leverage - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wVkFCYlJtREcxRzlyYV9iUW5RSk9aOHpvUENRS2haWkdSM18xVUxLNnV5aTd3aWlTaHpxejN4OHZQNXc1bVBQbExWVXJ4Yk1WY3BJRVNySGVvcHNwTlBPR0NtSzVJQ19NdVg4SVJEbkhITEU0dG5RbFFR?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "snippet": "Binance Launches Revolutionary Futures Contract Based on South Korean Stock ETF with 10x Leverage&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "30% Of Global Crypto Trading is Coming from South Korea, Research Finds - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kMUFpc2oxMURsclVKNGNVaXlrTGE3WEd1WUZBRU5zZzhrVTA5cmJsWWx5LUljOTJ6UC1VbGVPaXczTG8zMzNUU19oVk1zN0ZrQjE5d2JBVFRJWFFwRW5WWkhHeWdOelplTGR2ampR?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Tue, 05 May 2026 07:00:00 GMT",
+      "snippet": "30% Of Global Crypto Trading is Coming from South Korea, Research Finds&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Ishares Msci South Korea ETF (Derivatives) Price Today in India | EWY to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNUVONHhQZzZNTVY0YXFGVlRvdTVFTy0yZjZMaThLUVB6cXRFOExUTXU3S1hsX3ZHOFE1eWM5ZU1kZWxyTWtHSlBvS253VEFFUXlncDRPYVliVlQ5b0FPbkx1eVU1RnI1b094NzN3STI5NWZRb0JxVG9aMnhIUDRSNEJ3?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 16 Jun 2026 23:02:00 GMT",
+      "snippet": "Ishares Msci South Korea ETF (Derivatives) Price Today in India | EWY to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "South Korea accounts for 30% of the global crypto market - Coinspot.io",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGVzemlEZ1VFV0VWeHpucmJQM0R4OU8tWnFaRFM1WVdYU19fYjVuTzFSSGluS3E2NnhJSVRJMXNnYXFpblZoWEhESmZjdUpJRi1WNlZoOExZYmdGMjctLXVqa0tqRnZadW1RQmdHRTJUc1VVUzNyZHFnU3ctQzhWNXlnSkdnSFlLRjZBeFA0cnU5Y0l1eUlsRGxWakM5Tno4?oc=5",
+      "source": "Coinspot.io",
+      "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
+      "snippet": "South Korea accounts for 30% of the global crypto market&nbsp;&nbsp;Coinspot.io"
+    },
+    {
+      "title": "Ishares Msci South Korea ETF (Derivatives) (EWY) price Prediction - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU2VkVHkycTQ1bTlwZlk2czBGUnZiNlRzdHBnV2V2NGhWcDB3akxXYnVDYjhfTnh4T3JVblBoOGstMmxQbnRHTEFUcUxZTVlwUkV1d3JjSExtcGVzbU43T0RvRV9NTEZSTkxSbkdvNlBQUlQ0NklTNHR0N09iLWJ0Qk5iSVdkWXhvekwwNnVvSQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 07 Mar 2026 23:07:13 GMT",
+      "snippet": "Ishares Msci South Korea ETF (Derivatives) (EWY) price Prediction&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "EWY USDT Listing: WEEX Futures Adds iShares MSCI South Korea ETF - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeERiRTUwdTNLZW82NjROWElQRDFqX3BYTjYyZUd0ajc2TmNpLVRCdHZad1FNTTVoVzBXRlFFZmZzRjVDa3EyazZSTlY1bjdvaTY0STM1U0JKRHNPNWVoa21mM1BvOVFLeFBSU1hPcGRLdE9hVWVsajJpcFU3UUxRTFhCVWxvdEMzeEpqUWFUb1NLNFBwNTRjbk1FVHJ0TkV4LXk2OXN3?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "snippet": "EWY USDT Listing: WEEX Futures Adds iShares MSCI South Korea ETF&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Top RWA Tokens to Invest in May 2026 - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02a21feEdPRDVyaTZWUmwzWjR1SkRkZHNBMlhybGlJYVRKY2p2MlVqS2pIZUsxSmhKYlF3V0NtTk5vNWZER1IydzZ5WjlzcUtRbnZaOXVUMm9aSVRlTUNDM1BpWUdna3Q0ckYyc1cwemJKVEdvcG1Wa2U2bkk?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Sat, 30 May 2026 07:00:00 GMT",
+      "snippet": "Top RWA Tokens to Invest in May 2026&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Coinbase CEO Seeks ‘Win-Win’ on Market Structure Bill in Davos Charm Offensive - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGpjQVA0c0pqTkszdHNmdEpaak44ZzdEUTVZVjRxZ3RJRDFCSjhXNWNHS2VjRFpsY3p5OWdSYm1nSkVMek5TM0I0R25IN3FrN1FIUE5qVGZybTMyZ1BVV3VOdDF5QjhsclpubHN4RUliMW1WNFpjNUZ1UHZ0eVJNQUlaV2tFV3BCRFVSME5RX19CbThUSGRYUWprYnZnZ1h0Z0ExNNIBrAFBVV95cUxOZUNObkxrLUhuS2FGT1V3dXgxeWhwZlM5LWxtc3U5QWVNOTdHQUcwYUNpWHZSWFFTTDBhcGJ3S3B5U3N4VWlsc254TGNjaFNHT20zckdSSWZCeFh6aGU0MWk1MmJ4bC1PSEktcTZNR2RBUFpMQ1JDeS1qWEZ1OEtuaXlDTXl4SUFlYmFLMmowY0NYemJ4MTZlalZWcTZtdFFtdmRpa1pDSXVLZWVY?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "snippet": "Coinbase CEO Seeks ‘Win-Win’ on Market Structure Bill in Davos Charm Offensive&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "TON price soars 13% as Telegram revives original Gram token brand - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1QeGNVVUtxU0loUmhycjVMaDVfMTZqV0JLN2MtLWk3aXZBelJzNlRxYUM3U0ptd3JMUTZLdnhTQ2tqNkJTSFpr?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Tue, 02 Jun 2026 01:59:17 GMT",
+      "snippet": "TON price soars 13% as Telegram revives original Gram token brand&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Samsung Ships First Commercial HBM4 Memory Module, Nvidia’s Vera Rubin Expected To Use It: SSNLF Stock Soars 55% - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTlMSGZpd1RtekZkNGJ0UzJEbGVhRGd4MGcxSHh6YnllNW8wZVE4SFgtdVd5bFNyLU9SdzFhdUFmeFd1Ui1CemkxREpUVTJwV0N3UHh1UllMNTVDRmN3RVhvNHo5Y0U3YkJHWmtOZVo5d2dFUHlyei1GSklwazlnVVY4bzZDWWNsOVB6NXI5SWJBUnAtZW1ZVnFhMzEwMERsTHN6WW5sdkRKdlFGVVVGX2xYMllLc3l5bWpfX3ZRa0o2WmNxLURtYTRTOWk?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "Samsung Ships First Commercial HBM4 Memory Module, Nvidia’s Vera Rubin Expected To Use It: SSNLF Stock Soars 55%&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "How to Fetch Crypto Data Using Python & CoinGecko API (With Examples) - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5heDRHUjF1OGxxT1NydEtPLUpKRlZpSkV0UFpGSTZiMUxHNFZBSnpVWktKM2xkOE82bnpxQTJ1UlAwWk1ENnEwcVJUTEFUTVhzVlVQdEFLU0c4cWV3VzdISDhpTFNncGVCZFE?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "How to Fetch Crypto Data Using Python & CoinGecko API (With Examples)&nbsp;&nbsp;CoinGecko"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=EWY: Throttled\n"
+  ]
+}

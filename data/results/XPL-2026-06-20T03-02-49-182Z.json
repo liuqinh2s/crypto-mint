@@ -1,0 +1,189 @@
+{
+  "token": "XPL",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:49.182Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "XPL",
+    "name": "Plasma",
+    "generatedAt": "2026-06-20T03:02:43.278Z",
+    "summary": "XPL因Plasma One主网上线消息单日上涨35%，但此前从高点下跌85%，且近期有大量代币解锁，基本面与叙事存在矛盾，短期反弹持续性存疑。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若价格跌破近期低点或解锁抛压加剧，则反弹逻辑失效"
+    },
+    "catalysts": [
+      "Plasma One主网上线引发短期需求",
+      "部分分析师看好2026年表现"
+    ],
+    "latestNews": [
+      {
+        "title": "XPL Price Jumps 35% As Plasma One Launch Ignites Demand",
+        "impact": "利好",
+        "reason": "主网上线直接推动价格上涨"
+      },
+      {
+        "title": "Plasma (XPL Crypto) Loses 85 % of Its Value in Six Weeks: What Happened?",
+        "impact": "利空",
+        "reason": "历史跌幅巨大，显示市场信心不足"
+      },
+      {
+        "title": "Over $35 Million in Token Unlocks Scheduled This Week: HUMA, XPL, and Others Lead Supply Events",
+        "impact": "利空",
+        "reason": "大量解锁增加抛压"
+      }
+    ],
+    "fundamentals": [
+      "Plasma是稳定币聚焦的Layer1公链",
+      "XPL代币于2025年9月上线，初始市值超24亿美元",
+      "项目有DeFi集成和空投活动"
+    ],
+    "marketRead": [
+      "因Binance API限制无法获取实时行情，但新闻显示单日涨幅35%",
+      "此前长期处于下跌趋势，成交量可能放大但需警惕"
+    ],
+    "risks": [
+      "代币解锁事件带来巨大抛压",
+      "历史跌幅85%，市场情绪脆弱",
+      "缺乏持续利好支撑，反弹可能是短期"
+    ],
+    "watchlist": [
+      "Plasma One主网上线后续进展",
+      "代币解锁实际抛售情况",
+      "价格能否站稳近期高点"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取实时价格和成交量",
+      "新闻数据来自Google RSS，部分来源权威性一般"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "XPLUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=XPLUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "XPLFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=XPLFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "XPLUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=XPLUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "XPLBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=XPLBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "XPL Price Jumps 35% As Plasma One Launch Ignites Demand - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaDVZSjE3WjNzZDVhclRsSGdZUWFRNnVoLVhXV201OC1IZ1RuTmJDTDFxN2N5X1N2YXVGNkRWWjZiMzVvbG9mMWtpOXdVNWpNZ0o2dG95YlAxVUUxLXhJdEtBMkJ5YUNMZ3NXRnNubVBHYUJnRzRybUJIbDg3TE5uaXpoTmFrdFFzY2tRUV93UC1xRUpobEVN?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 18 Jun 2026 04:23:42 GMT",
+      "snippet": "XPL Price Jumps 35% As Plasma One Launch Ignites Demand&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Plasma (XPL Crypto) Loses 85 % of Its Value in Six Weeks: What Happened? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zTWFFYjA5TUFFaTlPM0FFX0ljSDFyUEZYWDlpMXdWeDRkSG84aWs1VEp3MEpQVDJ5SS1iYkQ2dG16YmppRFJVQXEwRVNOMmZwSksweEN0SEhuWHA3WWdPNUQ5dW14dlh6ajJ6M3I1b3ZVeDhJUUgzXzNZeFQ?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Sun, 23 Nov 2025 08:00:00 GMT",
+      "snippet": "Plasma (XPL Crypto) Loses 85 % of Its Value in Six Weeks: What Happened?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Stablecoin-Focused Plasma's XPL Token Debuts With Over $2.4B Market Cap - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlhjZU1YTlQzdkROaEpPMHZLSHNGSFdEUENIUUYzUDJ6aWFkSERnc3QzdXdOUE95OWVkRFFJMWMyZENCVUw4eDBuenFSbW4tUTZVZXlJdERIZDMyNlFBczhjVHJVTUc3Q2R5aWpaM0wzblZUWjFvRXRwOUpreGRIUEJJWlBSRDRwX0p2b0V1MFlKejZ0dEd2WUlkUWJvaDAzY1hBS1MxckxoOW1BQkpIczZpS2dlZ2ZW?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "snippet": "Stablecoin-Focused Plasma's XPL Token Debuts With Over $2.4B Market Cap&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "3 Token Unlocks to Watch in the Final Week of May 2026 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LMEc1YWVkTE45X21uUXNEc2ZJUnZpOTZfdlhoQ1NHQ0thX2FNaHF4Nk9od0pjTWNsZ213Q2RKWmg3STVYSjBuMzU4eTBrcHNZaWNBQXBmbnNLXzR1cE56QThVbjl0a1FsWVlLZTMwSkFRR00?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Mon, 25 May 2026 07:00:00 GMT",
+      "snippet": "3 Token Unlocks to Watch in the Final Week of May 2026&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Why is Plasma price up 30% today despite weak long-term trend? - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45U1BORUdmYkVaRTRBUzhfVWN3Z2hyRVNoVEIzZmo3UVQtelZQNEFqV2NISGZuUHE1cVJ6MVZVcEpmRWtmakRuazQ2X2FEWGFIR1B2NG9LRmZCTEU?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Fri, 12 Jun 2026 14:05:07 GMT",
+      "snippet": "Why is Plasma price up 30% today despite weak long-term trend?&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Stablecoin-focused Layer 1 Plasma goes live introducing XPL token and DeFi integrations - The Block",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVE16VkpLY0REY0h2Nm9zWnEyV18tR2R0aGd1QjR4bk1wVllyemxnWVhfTHV2UHVoZ3RUdVVOekxsQm53SE93cktNa0xqM0RTeEFTbThrazBiWjhnTzI0T2Jldlp1QkZHOENrZ1NsWEUtTlBIZHEzMDBZc2I1TU1fU1gzNG1pa1NLdS1mUV9yQXc1QklCTlcxTldhZzhuU1ZlSlZtYlRDT3pqZHBVUmJUdnBDQk5VQQ?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "snippet": "Stablecoin-focused Layer 1 Plasma goes live introducing XPL token and DeFi integrations&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Plasma Price Prediction: On-Chain Growth Explodes – Is XPL Becoming the New XRP? - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU0NPVlprRG1yaXhzYm5POE1mNDQxUW9Ibm1KSlFTeE52MlZmWUtaTVdJYTN3ZnZ4ckZUajUwWkVHSjhrVGpLVU9WVFJHcnM1QWg5Zk9FOUw2V3VfUEdLS0gzZHVyaEh2S1EwNGhaRTVWdjJXVWxYQmV2dVhJd1UzdHBVb3ptdEhuMGo4U1FpV0dLZmRxa2VXSV9BaXk4NGcxZGw3V0R6eU8?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "snippet": "Plasma Price Prediction: On-Chain Growth Explodes – Is XPL Becoming the New XRP?&nbsp;&nbsp;Cryptonews"
+    },
+    {
+      "title": "Crypto Analysts Expect Plasma (XPL) to Surge in 2026 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CMktTc1hjWm9VcGw0djhaalBnRFQ0SDRyX2dLeGF6Qm5DMjUzTW1IMHByZkpfLU1ranMtWmVSVDlxLWdLQ3VTNlM0d3hnN3JaWWJMNzl2SW1fb3kyR1HSAWNBVV95cUxOb1p0SXctbm05cXlacW8wYXhaS25aOGc4UjlhY1htZUtVNDVFejRoTFZMTXVHb0pzZE5HaU83Y0VUT0x3WHNvU3lzNlgyXzViNlc5SDNxLUM3SG5icVFxM1BGZGM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 31 Dec 2025 08:00:00 GMT",
+      "snippet": "Crypto Analysts Expect Plasma (XPL) to Surge in 2026&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "XPL Whale Nets $11M From Plasma Public Sale - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ3Z6ellKRVY5eUdkN3RCcUtySGdmUDVPak14X3BBLUMxRGttR2lYRW05ejJsTUg5RjJCcDZ1akN4VnBZT0JDb0JzSHhXSGRubHhrb1E1UHJ5OTdrZmgtVUU4d1NCUVBXZXRoMjh2QXROdHZ4dVpMd1hyWmRPZGtDU0tHWkJ0V184TzAwMEg1dTBGN0lR?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 26 Sep 2025 12:10:42 GMT",
+      "snippet": "XPL Whale Nets $11M From Plasma Public Sale&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Plasma Debuts XPL at Massive Multiple of ICO Price—And Hands Out Millions in Free Tokens - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRmNPSEZiRFhwcHhySU9rdm9vNlM5cm80akNvb3NMMDlTOG5RZXE3dVlGXzZPMkxsblNaMU1zUFdnUTVlb1pCdS1qaUtFbXhGS1RTOGIzVDdkRjJROTRJdU9uUDdsTVNfZUZjSWFQN3gteG9iMW5hRXBIaThMdk4teFY3ZTVZNGs?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "snippet": "Plasma Debuts XPL at Massive Multiple of ICO Price—And Hands Out Millions in Free Tokens&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "XPL News: Token Drops a Further 13% as Hype Fades - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXlLMWtidkhaTFo5OE5kWFhqVWI4NzlRUWZPUWJMTktsaG1kdU9sMFhweXFZSHNHT0hnOVBUVy14VnYtY01UV1pmQ1EwYW04UzVsWHlGYmprS3VZcnlJVzJta1NQclphb010WmFFa09ra0VBcG1PYVRieVFwbmFERkRoS0pYak9VU0JyTXVvSGMyUUlPOEN5Tlp3WENQc2pJWHNlNS1EcVhVQQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "snippet": "XPL News: Token Drops a Further 13% as Hype Fades&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Over $35 Million in Token Unlocks Scheduled This Week: HUMA, XPL, and Others Lead Supply Events - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQ0RrcEE0VV9vTm84N2g5ZTdEVzl1R3hEMlpzZnpCbUphNVpoQmdBVWE2eERBbVZsc0tnNGlhTTVpUEpoMnJPRFYwWGVKSWNfUnVlQ2ZSeXJYQ0pYSkVGR2tQOUxJWXZKZDlGYlhNWFphTDZsX0VBYnV3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 25 May 2026 06:04:09 GMT",
+      "snippet": "Over $35 Million in Token Unlocks Scheduled This Week: HUMA, XPL, and Others Lead Supply Events&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=XPL: Throttled\n"
+  ]
+}

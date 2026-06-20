@@ -1,0 +1,181 @@
+{
+  "token": "CRDO",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:35.927Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CRDO",
+    "name": "Credo Technology Group Holding Ltd (Derivatives)",
+    "generatedAt": "2026-06-20T03:02:29.472Z",
+    "summary": "CRDO并非加密货币，而是美股上市公司Credo Technology Group的股票或衍生品。近期新闻提及CRDO作为值得关注的股票，但无明确上涨催化。缺乏链上数据和交易量，无法分析二级市场走势。",
+    "rating": {
+      "score": 20,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若确认CRDO为加密货币且有可靠交易数据，则逻辑失效。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Dow Futures Edge Higher As Fed’s Liquidity Boost, Bowman’s Testimony Take Center Stage: MDB, CRDO, WBD, CRWD Among Stocks To Watch",
+        "impact": "中性",
+        "reason": "仅提及CRDO为关注股票，无具体利好。"
+      },
+      {
+        "title": "5 Best High-Risk High-Reward Crypto Coins to Buy in 2026",
+        "impact": "中性",
+        "reason": "文章标题提及加密货币，但CRDO实为股票，可能混淆。"
+      }
+    ],
+    "fundamentals": [
+      "CRDO是Credo Technology Group的股票代码，非加密货币。",
+      "Credo Technology Group是一家半导体公司，专注于高速数据传输解决方案。",
+      "无加密货币相关基本面数据。"
+    ],
+    "marketRead": [
+      "无法获取Binance等交易所的CRDO交易数据，可能未在主流CEX上市。",
+      "新闻提及CRDO为股票，非加密资产。"
+    ],
+    "risks": [
+      "资产类别混淆：CRDO实为美股，非加密货币，不适合按加密分析框架评估。",
+      "数据缺失：无价格、成交量、市值等关键指标。",
+      "流动性风险：若为衍生品代币，可能流动性极差。"
+    ],
+    "watchlist": [
+      "确认CRDO是否在去中心化交易所或小型CEX有交易对。",
+      "关注Credo Technology Group的财报和行业动态。"
+    ],
+    "sourceNotes": [
+      "所有新闻来源均指向股票CRDO，而非加密货币。",
+      "Binance API返回451错误，可能因地域限制或交易对不存在。",
+      "CoinDesk页面显示Credo（CREDO）价格，但CREDO与CRDO不同，需区分。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "CRDOUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CRDOUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CRDOFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CRDOFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CRDOUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CRDOUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CRDOBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CRDOBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "If You Can’t Buy CRDO Stocks, What Are the Trading Alternatives? - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2VwQUx6aklnX1ZrUGt3dldwem5FYWJmX3NXV3E1RWhsM0t3Vi1LOFpoeEQ5eGNleHNsR3QxNWtaLWJoUGNDOWJweXVkdk9TTzF5eGt2NXJDZmo3Ti13R2tpY0p1bjhTZHl0SkpxRUFEQ1hSWmFfby1adlYxQmpObm52a09XOThsbTY5ajFBYjBhRVEzRy1IeFRsVWhmYXYwclQ3NnV5d1Q4cmVfMEVZMzhPLTFEOWZpVlBYQQ?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Mon, 15 Jun 2026 13:14:10 GMT",
+      "snippet": "If You Can’t Buy CRDO Stocks, What Are the Trading Alternatives?&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Credo price today, CREDO to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CdjN0ckZzZVdsNGhuNEJCRUdLUXdOMW1sUzU1T0ZIemxkaVJkcTFlSng3Y1I4VENwT1dud0tVMDNTbjVXX1NxbXQ2OEQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 18 Feb 2026 23:25:01 GMT",
+      "snippet": "Credo price today, CREDO to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Credo Technology Group Holding Ltd (Derivatives) - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWndpMkJZV2JqajlvekNRMEkxWjFtN1ZlZU1ZbkctSVh5X2xHay0tZ2d4NkI0UG8yRjY4ZXB0WnR1bWloYWlyOFhHZVR4VWdldnlNLUpTQjdFeDJMQ1FYSUlyQzByMW9aRkZoM3RkaWpncExNdjUtclJzYTJiS21tTUxZR0Y?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 13 Jun 2026 00:04:47 GMT",
+      "snippet": "Credo Technology Group Holding Ltd (Derivatives)&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "US-Iran Tensions Swipe Bitcoin Gains – CRCL, HOOD, COIN Stocks Lead Crypto Equity Slide - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZFVtajFEQjJqWEV2VFh0RXJnS1NOenJxMWdUU2lqUlRSUGZ2QkRWc0cwOEhiSkRPQ05HSl9XcGNRVXZEdEtsandzeEhzUmZIVF9wTDJ6OElGSExrWUlGaVJyWVoyRTNaYkszX01iT2w1WUp5WlZ2b0VGVmJSTE9QSE9wV2EtRWNaUTZGNk5CV0w1TzBPd2pFa1daMHRXSGVMNEo2SFBqajNNQXFiQTJzNWE5VlUwSnJibFZfbE8xUVp5WkpwczdyYVY1bmdqOWVY?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
+      "snippet": "US-Iran Tensions Swipe Bitcoin Gains – CRCL, HOOD, COIN Stocks Lead Crypto Equity Slide&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "US midday market brief: stocks rise as Bitcoin rebounds 8% and tech names lead - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUVaUDZnNUdBRkVjTW84WDVUZzA1N2RVaXVjTEZ1TW95TDJPWkxORHh5Z0FkOHd4bXprZFhrZVpjMXRfbFZxelg3Y21VdjhlazhGNTNwdlREY3I4cHp4ZFB0V0tmbXE3OHhSQ2VDdEJINVhtd2wxeXpMT2tpbUk1UFdKcmNHcS1pMWJuSUxFcERSSjNGV3pUamtMcVJ1cTFVbDZmei0weFVydFJpdF9lTjdXbUxpU202M1lfMW0wb1RRNkJTM0JjWTdXM01zZw?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "snippet": "US midday market brief: stocks rise as Bitcoin rebounds 8% and tech names lead&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "3 crypto companies think they’ve figured out how to generate yield on the $4.6 billion ‘tokenized gold’ market - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ01lYzJrM3VtZDNlWGdRdnF5enBqUkpocmdSdVdycnhCcWRITHdlS1FVQzJVWkRiT194NXhhcWdERjBqaVhkRUxheXlsVDFxR0swOVNYbmNXUUttQldxdThGX01pTFZ1cGI2WkVjelhmanRsUmUtd2hKQ2xLUHRUN09FZlZDY3M?oc=5",
+      "source": "Fortune",
+      "publishedAt": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "snippet": "3 crypto companies think they’ve figured out how to generate yield on the $4.6 billion ‘tokenized gold’ market&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "Credo Technology Group Holding Ltd (Derivatives) - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXZJdUMzdzRUZUJBczRpZEk0SnpRd181U01vNzZJOVNMZTFJLXpuc0h0Y2Zyb3M3TlBjLWRfcWxoM3hvMWdnZVIyWEUyVDc2VkVzSlJXTlNjZjRnOFJIZUI3MEdTTE5TTk9rbkJnVGJ0blB1T3ozLXI1RVNfb2xOU3BaVmE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 13 Jun 2026 08:53:37 GMT",
+      "snippet": "Credo Technology Group Holding Ltd (Derivatives)&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "“A Bank Does Not Want a Blockchain”: Hedera CEO’s Line Becomes RWA Credo - DailyCoin",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd0lYTDZWbmo4LVFxRjVQUjBfS2hCZERidmVhQUxQMW95Sy1vRGQ0UllSdEh3S1Q4OHpkRDh6VWgyWHU2QnFzRmFGdVN6OXEtakVhVDc1RE1zZUV3TmNWRkExMDMzZExOZU02TW1mVXM2OGkxdE8yUXZ2UTJZUXpaNFpwS0NGN0k0Z3VJOUlDZFNSMVVGVVE?oc=5",
+      "source": "DailyCoin",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "“A Bank Does Not Want a Blockchain”: Hedera CEO’s Line Becomes RWA Credo&nbsp;&nbsp;DailyCoin"
+    },
+    {
+      "title": "Dow Futures Edge Higher As Fed’s Liquidity Boost, Bowman’s Testimony Take Center Stage: MDB, CRDO, WBD, CRWD Among Stocks To Watch - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlEzTm9yU01DWkdyVTkyODBSTmp1aXlFLWtJQjVpOUFSN0NIdnBWcjlibUZNLTlNZFkxOHdqNUZ2XzRZN2gxNnVFRFBfRmFVdW1wdHM5V1pvZkJ3U0lGNVl5ZGxQTTlGNTJaUHRHZHQxeldRdVBfUGVIbjJlTzRyZ3piSFRYaklHVHlFcjdwdnM2UFd0NEY4Zjc3OFo2TzlzaEdiZUozRmZHNWtNU0YtS1lVaHU1cVE?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "snippet": "Dow Futures Edge Higher As Fed’s Liquidity Boost, Bowman’s Testimony Take Center Stage: MDB, CRDO, WBD, CRWD Among Stocks To Watch&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "5 Best High-Risk High-Reward Crypto Coins to Buy in 2026 - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyamVUTGR1aFNLLTN6eXppVmR4c3BsZ0QxY1R2TDRxbUJ2OVBsUUFJdGpEbHRiWHU0M2FDSGJTLWRBTjBLMUlWUjd1NTNQU0tFVks1QktNbjRBMFdLR253cFlrRHhjaC0tOUY2MnhfQy1NeFBEV3c?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "snippet": "5 Best High-Risk High-Reward Crypto Coins to Buy in 2026&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "BlackRock offers DeFi trading for the first time, buys Uniswap tokens - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fSWFJdFpkN2NkTFRYX2hkS0lfZEFrZ3RQTE1COEJOaG41Tm5LbXB5UUgzY3BWa3F5Z0RQZ3ByaTB1VzVzeGNDUXgxSzFLZzhERDZ3aG13RDZURkdseVE?oc=5",
+      "source": "Fortune",
+      "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "snippet": "BlackRock offers DeFi trading for the first time, buys Uniswap tokens&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "Credo Technology Group Holding Ltd (Derivatives) - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTExhVXRVcy1Vem1ucW50WmlyOWljdzZKcGY4VEZmS1R6b3FxVjlWVDJ1Y3Rwc3JYQUJGa0Q3ZjczUUo1YVVXU3BCaE1XUTFVbmN5WkUyY2JtMEsyblBkSkxrTFRxQnlDNkZ5cDdMdGpXdTJVZ1lqUVlUNWRUamt4YjVnT0I?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 12 Jun 2026 23:28:49 GMT",
+      "snippet": "Credo Technology Group Holding Ltd (Derivatives)&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=CRDO: Throttled\n"
+  ]
+}

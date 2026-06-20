@@ -1,0 +1,191 @@
+{
+  "token": "KAITO",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:02:56.617Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "KAITO",
+    "name": "Kaito",
+    "generatedAt": "2026-06-20T03:02:49.159Z",
+    "summary": "KAITO是InfoFi赛道代币，曾因X平台封禁API导致暴跌，近期面临代币解锁压力，基本面承压，缺乏明确上涨催化，建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现新的合作伙伴或产品重启且获得X API恢复，则逻辑可能改变。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "3 Token Unlocks to Watch in the Third Week of June 2026",
+        "impact": "利空",
+        "reason": "代币解锁增加流通供应，可能带来抛压。"
+      },
+      {
+        "title": "Kaito token plummets after X revises API policies to ban InfoFi crypto projects",
+        "impact": "利空",
+        "reason": "核心业务依赖X API，被禁后产品Yaps关停，基本面受损。"
+      },
+      {
+        "title": "Token Unlocks This Week: PYTH Leads with $94.9M Release, ZRO and KAITO Also Scheduled",
+        "impact": "利空",
+        "reason": "解锁事件临近，市场预期供应增加。"
+      }
+    ],
+    "fundamentals": [
+      "Kaito是一个InfoFi（信息金融）项目，曾推出Yaps产品，用户可通过X平台发帖赚取积分。",
+      "2026年1月X平台修改API政策，禁止InfoFi项目，导致KAITO暴跌，Yaps关停。",
+      "项目方已宣布逐步关停Yaps，转型方向不明。",
+      "代币经济模型：总量10亿，初始流通约10%，后续有持续解锁计划。"
+    ],
+    "marketRead": [
+      "由于Binance API限制，无法获取实时行情数据。",
+      "历史新闻显示KAITO在2026年1月暴跌后持续低迷，近期无显著反弹。",
+      "市场关注度低，交易量可能萎缩。"
+    ],
+    "risks": [
+      "核心业务被X平台封禁，产品已关停，无收入来源。",
+      "代币解锁持续释放供应，稀释现有持有者。",
+      "项目转型不确定性高，团队执行力存疑。",
+      "市场情绪悲观，InfoFi赛道整体被抛弃。"
+    ],
+    "watchlist": [
+      "项目是否宣布新的产品方向或合作伙伴。",
+      "X平台API政策是否出现松动。",
+      "代币解锁具体时间和数量。",
+      "团队是否进行回购或销毁等通缩措施。"
+    ],
+    "sourceNotes": [
+      "行情数据因Binance地理限制无法获取，价格分析基于历史新闻。",
+      "新闻来源包括BeInCrypto、The Block、CoinGecko等，时效性在2026年1月至6月。",
+      "缺乏最新链上数据和社区活跃度指标。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "KAITOUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=KAITOUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "KAITOFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=KAITOFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "KAITOUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=KAITOUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "KAITOBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=KAITOBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "3 Token Unlocks to Watch in the Third Week of June 2026 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zdUhXc2VUS3NJMWJYUkZGQ1ZvOGduVERCTGxjS2F0QmpQZUttUjFUVjJCTFZUR2FHbVpMMFhGdnluWGZuT3VqT0VBX0s1cm9UdVE3TmFtbWljTFQzb1pxLXNpbndjQUpiY0NTR3RB?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Mon, 15 Jun 2026 03:11:00 GMT",
+      "snippet": "3 Token Unlocks to Watch in the Third Week of June 2026&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Kaito Price, KAITO Price, Live Charts, and Marketcap - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oSl9KZ3EtZWhQeUV5cEpJb0dSeEJLT3BLLTE5aDYxZkpzOWF4LTRPX0dBMUMzZ2lDZ214QVByQXBKdEZlLU1qcU53ODlnbGVCSl9kdXJkRVdKTEU?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Sun, 14 Jun 2026 07:00:00 GMT",
+      "snippet": "Kaito Price, KAITO Price, Live Charts, and Marketcap&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Kaito token plummets after X revises API policies to ban InfoFi crypto projects - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFBENE9KZHJyd0JCbWo3M1MxT3dsdmlyb19yWGpjVlJKbDJTRWNQc215OFZLbDE5UTVjaXZlcW5wbjlBN21zTGI1d1FhcEM1VU1PLVhKZ1BySS02SnBOcjhkYklmbkdXOHNrRFhPWm9IS01HU3k2Y2xNWGd3VndlSEx3YTN6ZjFiTVZxUkpkWnU0MFlXLUFBSHY5ekhvX1BjNFZpNTE5SVUxUQ?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "snippet": "Kaito token plummets after X revises API policies to ban InfoFi crypto projects&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "What Is Kaito? 2026 Guide to Studio, Markets & KAITO Token - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00UmlManFQV1c4dXZHcnl3Q0E0RTBZRjVQZW80Y20yV3NoVkgzS0thcENkWjBiMWUwUnd5R2lEbXAydE85WXFRNnZpQlhESEd1V0ZLSWg0NmVzX1I3eHdreFdLb3A5UWU1aW0wamdB?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 07 May 2026 07:00:00 GMT",
+      "snippet": "What Is Kaito? 2026 Guide to Studio, Markets & KAITO Token&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Token Unlocks This Week: PYTH Leads with $94.9M Release, ZRO and KAITO Also Scheduled - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcEMxNU5Yb1FvdENRYnFIdC05QURubjV1cUlVMWJWdjgyUHZrY3hKY19fMmFiSW9TNUlTbjhoZTBjQzE2NnZsMFdrbzlJS3pKOGN4MWlGd3VLYi1mdWlBRjlaVkxQbk10UG0yV2cxN1J0c0RscVZxRzlGOTlQTDI5Nk5n?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
+      "snippet": "Token Unlocks This Week: PYTH Leads with $94.9M Release, ZRO and KAITO Also Scheduled&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Crypto News: X Bans InfoFi “Post-to-Earn” Apps, Triggering Sector-Wide Selloff as KAITO Drops 20% - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtaEFqMGQtSnNEY0Q0RW5IWkRtVHJHM2VCZUFCR2JvRDFtb09USmdzUnBieFJHTFhYRFBXS041VGprd3lqeUtzTDhYSExhbnpVdE52WmI1MjVocWRxSGpLWTViTQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "snippet": "Crypto News: X Bans InfoFi “Post-to-Earn” Apps, Triggering Sector-Wide Selloff as KAITO Drops 20%&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Elon Musk’s X Cracks Down on InfoFi Crypto Projects; KAITO Token Falls 15% - CoinGape",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2hWSUN3NXg4ODY3dHBxeDBtYkJDWXFrRWswYnhKNzJxUEtxaHppX3BZNjE3bElaOFBQZElFZGpJZldQZUZfcUc2T3hrOEVCdEFRSm5Mc3QyejM4Y01rTWlZZS1VTWNLcWxLZl8xYmgtSFlUNUZYc0dxcDlQbDczcjFTSngyZExUZDl2Q0t3?oc=5",
+      "source": "CoinGape",
+      "publishedAt": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "snippet": "Elon Musk’s X Cracks Down on InfoFi Crypto Projects; KAITO Token Falls 15%&nbsp;&nbsp;CoinGape"
+    },
+    {
+      "title": "3 Token Unlocks to Watch in the Third Week of May 2026 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cDVpTUN2SzlyQWpvdXBxS0hwaFRBaWx3UjB4bkstV1N1YXVwUWU0c0tkdFhseVVHRkJ3MmN5bmRQMnVoOFl5VnI3TzQyZkFvSGxjc1Z3UDRVYU5rblFvWk5HYlFVYThjeVlWZQ?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
+      "snippet": "3 Token Unlocks to Watch in the Third Week of May 2026&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Crypto chaos hits X: KAITO token drops 20% and NFT prices fall after Elon Musk’s platform blocks InfoFi ap - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNN2d0VEc4bGR4RXctcUlsUFM4clhsdnhCOE9xUTdaQTdZMlFvRjhjcFd5ejhrSFhzczB0ZUMwVWc3NFhiY3JSc2tqWUx5WHNnTjYxN3VnNWVvRE5UN1FiOEdEaVBqdmE5MjJta3hnQ3YySHVlZmkzcG82VllOSTVMS0tWWldVNUdMcGx2Zk0zd1piRzlrTUx5bUxjVW9QVmN6V1psSE4xR2hIc3IyQWpnZUVLSk1LVkdEbVo0dW54RWt6N29nY3Z4QU41bFl2UGZFbkt3M1JIZF9PRk9RUTZEY0g2eUxtR3dzNmREcjJPc19QdC0tOGc1Y2Z6bEVmT09LbWNoMGpFb09KZUpIN2Q2TmU1Ry01cnRTanRyVWZLaXhtX0paamFjQnFkT1k1bGFfaXBVVnBjVkjSAb4CQVVfeXFMTllwTVRRcVV1UkxwelhsQkctWWlvRXRPV05HUE10cml2bHFJb2FZaVp6NHN6QVhsMm1BcGR2VjlxazRCdWcxVGdKT0R3dWNsb3p1UHdPaG1HcGtUQUFWNnVQMWFnSTNHQ3pScTNKYkx4VmhtaFczYmV4RHlRTEt1eE1TR0hfZVJlWEZsS2Nrc1hTQXAzakVlNTZkN3F2aEZPTGx2TmZ0N05FcnFVT3Y5aU5FaGJtdVlsbDRqZnZTSFVwVldXQ0RiMUw4clB6UjdmalRYQU11a0x1cHNZOUhZM3VvQzNkTUtJMUhCVmRkOFVmUVNGeGlVcWliV1hTSmRhakVSZmhFM0xXUGRZOVZWanV2ZnpnckhpTGVEd3E4TFh5NzJpZ0N1ejFCR0FkRzBwZnVZYjhEYzVSNXhlajV3?oc=5",
+      "source": "The Economic Times",
+      "publishedAt": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "snippet": "Crypto chaos hits X: KAITO token drops 20% and NFT prices fall after Elon Musk’s platform blocks InfoFi ap&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "title": "Kaito winds down Yaps product after losing access to the X API - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wQlI0cUNGTVZYRjRNQkJQY1JlRXRKSzBJaUpFLWVCS095M25Ca0p4NDE1TGxfZXFickJZM2JqYUtIdmIxUUphZ0ZYWWNjWlAtbWhGdmRUcEhWTmJrMkE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "snippet": "Kaito winds down Yaps product after losing access to the X API&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What Are InfoFi Tokens and Why Did Their Prices Collapse in January 2026? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRTZfdXh0bDc1SU5nSWFRMTVfemd2WmtqUFNjeURQMnNsMXdST0pTS2RIV0hOOFVxZGo4QUhsWHhQSnMyR3FvNjNDMlRycXc0Rk0tYXhfZVMxRkpGXzROYXZDaEloTXcyTFIxODl3UV9JWkhiR3Vwb2pWMGlkbWpMRkNVcHZTb0VURU04dWgyRHRWc3hQVUFLMTk0MA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "snippet": "What Are InfoFi Tokens and Why Did Their Prices Collapse in January 2026?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "KAITO Crypto Pumps +17% As Smart Money Bid New Crypto Presale - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjkyLXE2cTdNSW5SSWtlM3pCdS1Ga1R4X0Zpd3l3dVlrWG1LeUNkWlVfZ0I2aEhhV044ZzFFd2syenVaSFhTR251N2xMTjA4RGJWWTF6MThNSnRJM0tybmRTR0ZrM0VXTUxtT0xuMFpKTUhmVmtMUThoWXl3MXBaenBUR1VxaC1ZajBLMlNPcUZpOGUtbWVUSFJKYzQtdw?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Sun, 28 Sep 2025 07:00:00 GMT",
+      "snippet": "KAITO Crypto Pumps +17% As Smart Money Bid New Crypto Presale&nbsp;&nbsp;99Bitcoins"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=KAITO: Throttled\n"
+  ]
+}

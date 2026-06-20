@@ -1,0 +1,196 @@
+{
+  "token": "NMR",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T03:03:13.719Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "NMR",
+    "name": "Numeraire",
+    "generatedAt": "2026-06-20T03:03:05.042Z",
+    "summary": "NMR因摩根大通5亿美元投资和项目方回购等利好大幅上涨，但当前缺乏实时价格和成交量数据，无法判断是否已充分定价。基本面扎实但短期涨幅已大，建议观望。",
+    "rating": {
+      "score": 45,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现新的负面消息或价格跌破关键支撑位（需实时数据确认）"
+    },
+    "catalysts": [
+      "摩根大通承诺5亿美元投资Numerai，大幅提升市场信心",
+      "项目方进行980万美元NMR回购，显示对未来的信心",
+      "顶级大学捐赠基金支持，增加机构认可度"
+    ],
+    "latestNews": [
+      {
+        "title": "$500 Million JPMorgan Commitment Drives Numeraire (NMR) Price Up 150% - CCN.com",
+        "impact": "利好",
+        "reason": "巨额投资直接推动价格上涨，提升项目可信度"
+      },
+      {
+        "title": "Numeraire NMR Buyback: Strategic $9.8M Move Signals Powerful Confidence in AI Hedge Fund Future - Binance",
+        "impact": "利好",
+        "reason": "回购减少流通供应，显示管理层信心"
+      },
+      {
+        "title": "JPMorgan Commits US$500M to AI Hedge Fund Numerai, Doubling Crypto-Friendly Manager's Assets - Crypto News Australia",
+        "impact": "利好",
+        "reason": "进一步确认投资细节，资产管理规模翻倍"
+      },
+      {
+        "title": "AI hedge fund Numerai wins backing from top university endowments, token soars - TradingView",
+        "impact": "利好",
+        "reason": "机构背书增加长期持有信心"
+      }
+    ],
+    "fundamentals": [
+      "Numerai是一个基于AI的众包对冲基金，使用NMR代币激励数据科学家贡献预测模型",
+      "项目已运营多年，有实际业务和收入",
+      "NMR代币用于质押、支付和治理，具有实际用途"
+    ],
+    "marketRead": [
+      "由于Binance API限制，无法获取实时价格和成交量数据，无法进行技术分析",
+      "新闻显示价格曾因利好上涨150%，但当前是否已回调或继续上涨未知"
+    ],
+    "risks": [
+      "缺乏实时市场数据，无法评估当前价格位置和风险",
+      "加密货币市场波动性大，利好可能已被充分定价",
+      "项目依赖AI和量化交易，存在模型失效风险",
+      "监管不确定性可能影响代币价值"
+    ],
+    "watchlist": [
+      "获取实时价格和成交量数据，观察是否出现放量突破或回调",
+      "关注是否有更多机构投资或合作消息",
+      "监控NMR代币解锁和供应变化"
+    ],
+    "sourceNotes": [
+      "所有新闻来自Google News RSS，时间跨度从2022年到2026年，部分新闻可能过时",
+      "Binance API返回451错误，无法获取市场数据，分析基于新闻和基本面"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "NMRUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=NMRUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "NMRFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=NMRFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "NMRUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=NMRUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "NMRBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=NMRBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "$500 Million JPMorgan Commitment Drives Numeraire (NMR) Price Up 150% - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtQnJaQnhGTzFGSlh4SXFOSU82Mm15Q1hYN0xyekZ5RlNkeTkyM3B5Qk04RlJGM1F2TmFxNHlTWGhxMHQtZm1nQjcxREhqTlpzWklfOU1lSDZTVzlFd0lvSVVkMFBVY3lCc0hfcl92d3NFYVpRZmpLMmIyMA?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Wed, 27 Aug 2025 07:00:00 GMT",
+      "snippet": "$500 Million JPMorgan Commitment Drives Numeraire (NMR) Price Up 150%&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Numeraire NMR Buyback: Strategic $9.8M Move Signals Powerful Confidence in AI Hedge Fund Future - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YMnBqMFZyUEs2aWF5b19MVDd1dFdETUp5VlNCYkZaWF9JRGwyUVNrNUlqcXBTNUo2LThkZDNPa0pPQXhQcERmTDQtSHJSdVlqdmtNNVNEeXg5U3FIV3NCd3Q3aw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "snippet": "Numeraire NMR Buyback: Strategic $9.8M Move Signals Powerful Confidence in AI Hedge Fund Future&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "JPMorgan Commits US$500M to AI Hedge Fund Numerai, Doubling Crypto-Friendly Manager's Assets - Crypto News Australia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWxHUUhHZUpjLVUtYUZUWFV3bll5TG11NG1kNHExQ0IxT3JTUXFrT2gyMUpDbkZrVGpqb04wTzhWaVJNSHZ1ZnBxMVlQWDVqN05DeG1kUnJ0bGJmM3pHd1ZnU1ZIbWxCSEYxZ0FvZlBPWnQ4MExnRmpTd29XenV1MUNfckhZYjNDUlpSbWlaM3pPOENrMnU1VmxDWUhNWWRLSTdRLXJjRkZKUE1yNG9VaGxzU3Q4VDd4TXFoOUJLWUVxUUM2MF9n?oc=5",
+      "source": "Crypto News Australia",
+      "publishedAt": "Fri, 29 Aug 2025 07:00:00 GMT",
+      "snippet": "JPMorgan Commits US$500M to AI Hedge Fund Numerai, Doubling Crypto-Friendly Manager's Assets&nbsp;&nbsp;Crypto News Australia"
+    },
+    {
+      "title": "Numeraire Price Predictions: How High Can the NMR Crypto Go? - InvestorPlace",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUlBVS01IamZCVjNNNWRtQ3JobFdWSV9Ud20xa011dnJadEZaLW9YZzNWMTBDb0t0LWZnN0FMcF8zLVdSdWFwXzdvdDlZTmNreEpuQ1F5ei1ZenYyZU9SRnVlUVphNWNfVzhXMy12NkNuRS1abWhLT1BTZUdOVVJUeUo4UkNSMXJYOG44Wm4zSW5DZV82U3dzMw?oc=5",
+      "source": "InvestorPlace",
+      "publishedAt": "Wed, 29 Jun 2022 07:00:00 GMT",
+      "snippet": "Numeraire Price Predictions: How High Can the NMR Crypto Go?&nbsp;&nbsp;InvestorPlace"
+    },
+    {
+      "title": "AI hedge fund Numerai wins backing from top university endowments, token soars - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRFowelREc0QzYlpxSjkzaWhiU1E0dU1xVVBjWWNzVGtNc0xLVHotWUJ1ZUFIVjZJMDU1djJNUXlwNkUxM19kUU5rbU5Hd3lySWNQeFAxdi00RmhIeFVHZW9Fbm41cnFpeU9LamQtd2ZxN2h1R2liZExPS0FDNEVJMFJvUzlxcThjWVZ0MDN4V1dDTzd6OWxsdEFlZS14X2NKYjM2YXFlN0hfbkZ6ekpRaklUc1E0Q2lQUGtYdnFlcElQenU5anViZ0JncURmVHJGZnlTUWptSjQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "snippet": "AI hedge fund Numerai wins backing from top university endowments, token soars&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Numerai Price: NMR/AUD - Revolut",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05X2VEN3MxUzZIalJPVE5ZYmhmampDczg4bGxSWU5KblBBWnF5YzJnTS1WSW4yZzFIVEV3UlpFNjltWEtRM2hmV3VoVVhIRjhCWURobjRlTktoZUU?oc=5",
+      "source": "Revolut",
+      "publishedAt": "Fri, 21 Apr 2023 23:32:33 GMT",
+      "snippet": "Numerai Price: NMR/AUD&nbsp;&nbsp;Revolut"
+    },
+    {
+      "title": "Numerai and Numeraire: How This Crowdsourced Hedge Fund is Revolutionizing AI-Driven Finance - OKX",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iQmd5c2tlT3ZyRWk4RGdSZmV3Nmhoelp4TlFYR0xNZGZkRmRtbDVZaklCckdvcFVHQ19keUtaRXlicWtpUVlGb2h1LWpXUWR6azgtZ2ZPa05xc0NxdEZLeVVac2ozY0FNVGNKS3M1cGhwTF9sWDhsMlN2bGxmUQ?oc=5",
+      "source": "OKX",
+      "publishedAt": "Tue, 26 Aug 2025 07:00:00 GMT",
+      "snippet": "Numerai and Numeraire: How This Crowdsourced Hedge Fund is Revolutionizing AI-Driven Finance&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Numeraire (NMR) Price Prediction 2023-2030: Will NMR Price Hit $35 Soon? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmUjRsTkpkelQ2cFcxdWJDYVhlVGE0N2VhSzFQSkxSZnRndDBKY1prMTNOVElLdEJ3TktiVnFfMjhjRWRzU2Vxb3drcU5NaTNydFpDU3dHUGdxc1IzSkRSbkoyc3RQcUh6MlNhRzJOZU5IU1dBTjR3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 04 Sep 2023 07:00:00 GMT",
+      "snippet": "Numeraire (NMR) Price Prediction 2023-2030: Will NMR Price Hit $35 Soon?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What is Numeraire (NMR)? How to buy Numeraire Crypto in India? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yMUVERnNrcEU0a19CeXZVa0o1OEdNY0RxZHRqWW01Tm5QTWZUQS1idEVyNjREZklkdzNaa01nZEo0NkNpUEhrYWdaWVd5dm41QlZQNVQ0ejF5WXZUVTdISDVn?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Wed, 10 Aug 2022 07:00:00 GMT",
+      "snippet": "What is Numeraire (NMR)? How to buy Numeraire Crypto in India?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Why Did NMR Pump? | Market Breakdown - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zbXhhbXVfVkxJVEdpazkxS0tObGp2ZFJ6NFJVdTJVWF9BN0kxUGViUVR6Si0xbUVlWk5uZ2lLVkN2MHI0aGxrXzRFVlVYTG0zdkpvLVM4Mnl4RjNDTjc1aGxOdw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 27 Aug 2025 07:00:00 GMT",
+      "snippet": "Why Did NMR Pump? | Market Breakdown&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Numerai (NMR) Price Today | NMR Live Price Charts - Revolut",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoYU9ib29fam1rTWJzUVJEQ0dhMVRTeENKVV9JUVdpRjdJR0JIZ0hLdUk5VkE1RGl3TFhjTWJwSExRcmpUcGZsUkl1V0Y5bklueG9YRmU3QVZ5YWc?oc=5",
+      "source": "Revolut",
+      "publishedAt": "Wed, 27 Dec 2023 09:01:47 GMT",
+      "snippet": "Numerai (NMR) Price Today | NMR Live Price Charts&nbsp;&nbsp;Revolut"
+    },
+    {
+      "title": "Numerai Price: NMR/SGD - Revolut",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mRlFSdGFsZDlTTmEtYzVyMGJGREhTR1RicXFBaURETFlESWpyemxYTl8zY3g2cTlRYV9aNWgwdTZMME9yZ3BlaDBkaGlUVm45aV94NjY5SFhlTVE?oc=5",
+      "source": "Revolut",
+      "publishedAt": "Sat, 22 Apr 2023 00:11:48 GMT",
+      "snippet": "Numerai Price: NMR/SGD&nbsp;&nbsp;Revolut"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/numeraire?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}
