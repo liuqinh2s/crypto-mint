@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-20T06:41:27.528Z",
+  "updatedAt": "2026-06-20T07:23:23.585Z",
   "results": [
+    {
+      "token": "HEI",
+      "name": "Heima",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T07:23:23.583Z",
+      "latestPath": "data/results/HEI-latest.json"
+    },
     {
       "token": "ZAMA",
       "name": "Zama",
@@ -477,15 +486,6 @@
       "action": "不买",
       "generatedAt": "2026-06-19T07:31:24.820Z",
       "latestPath": "data/results/ASR-latest.json"
-    },
-    {
-      "token": "HEI",
-      "name": "Heima",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-19T07:26:41.288Z",
-      "latestPath": "data/results/HEI-latest.json"
     },
     {
       "token": "RE",
