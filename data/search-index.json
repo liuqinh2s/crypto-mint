@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-20T13:04:43.342Z",
+  "updatedAt": "2026-06-20T13:14:41.689Z",
   "results": [
+    {
+      "token": "RE",
+      "name": "RE",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-20T13:14:41.687Z",
+      "latestPath": "data/results/RE-latest.json"
+    },
     {
       "token": "RIF",
       "name": "Rootstock Infrastructure Framework",
@@ -513,15 +522,6 @@
       "action": "不买",
       "generatedAt": "2026-06-19T07:31:24.820Z",
       "latestPath": "data/results/ASR-latest.json"
-    },
-    {
-      "token": "RE",
-      "name": "unknown",
-      "score": 0,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-19T07:25:59.176Z",
-      "latestPath": "data/results/RE-latest.json"
     },
     {
       "token": "AVAX",
