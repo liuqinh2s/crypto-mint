@@ -1,0 +1,235 @@
+{
+  "token": "METIS",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T16:02:13.153Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "METIS",
+    "name": "Metis",
+    "generatedAt": "2026-06-20T16:02:05.351Z",
+    "summary": "METIS近期无明显催化，新闻多为旧闻或教育类内容，市场数据因地域限制无法获取，缺乏实时行情支撑。基本面为以太坊Layer2，但无新进展。建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，无法设定失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Buy Metis: Real-Time Price, Roadmap & Market Tutorial - Kabul University",
+        "impact": "中性",
+        "reason": "教育类内容，非实质性利好"
+      },
+      {
+        "title": "What Is Metis (METIS)? - OKX",
+        "impact": "中性",
+        "reason": "基础介绍，无新信息"
+      },
+      {
+        "title": "Metis Manual: Price, Pricing & How to Start - Kabul University",
+        "impact": "中性",
+        "reason": "教程类，无市场影响"
+      },
+      {
+        "title": "Metis Token price today, METIS to USD live price, marketcap and chart - CoinDesk",
+        "impact": "中性",
+        "reason": "常规价格页面，无分析"
+      },
+      {
+        "title": "What is Metis (METIS)? The growth potential of Metis in the future - Binance",
+        "impact": "中性",
+        "reason": "旧文（2025年8月），无时效性"
+      },
+      {
+        "title": "Metis (METIS) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+        "impact": "中性",
+        "reason": "2022年旧文，无参考价值"
+      },
+      {
+        "title": "METIS token surges after announcement of ecosystem development fund - The Block",
+        "impact": "利好",
+        "reason": "2023年12月旧闻，已过时"
+      },
+      {
+        "title": "VanEck’s Ethereum Layer-2s Valuation Prediction by 2030 - vaneck.com",
+        "impact": "中性",
+        "reason": "行业预测，非METIS专属"
+      },
+      {
+        "title": "Pi price today, PI to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "无关内容"
+      },
+      {
+        "title": "Metis Q3 2024 Brief - Messari",
+        "impact": "中性",
+        "reason": "2024年Q3报告，已过时"
+      },
+      {
+        "title": "Metis Price: METIS/SGD - Revolut",
+        "impact": "中性",
+        "reason": "价格页面，无分析"
+      },
+      {
+        "title": "Metis Team - CryptoRank",
+        "impact": "中性",
+        "reason": "团队介绍，无新动态"
+      }
+    ],
+    "fundamentals": [
+      "Metis是以太坊Layer2扩容方案，采用Optimistic Rollup技术",
+      "项目曾推出生态系统发展基金，但无近期更新",
+      "代币METIS用于治理、质押和交易费用",
+      "团队信息有限，透明度一般"
+    ],
+    "marketRead": [
+      "由于地域限制，无法获取Binance实时行情数据",
+      "新闻中无近期价格异动或成交量放大信号",
+      "缺乏链上数据或交易所数据支撑"
+    ],
+    "risks": [
+      "数据来源受限，无法准确评估当前市场状态",
+      "新闻多为旧闻或教育内容，缺乏近期催化",
+      "Layer2赛道竞争激烈，Arbitrum、Optimism等占优",
+      "代币流动性可能较低，存在操纵风险"
+    ],
+    "watchlist": [
+      "关注Metis官方推特或博客是否有新公告",
+      "检查CoinGecko或CoinMarketCap的实时价格和成交量",
+      "留意Layer2赛道整体走势"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取行情数据",
+      "新闻来源多为教育网站和旧闻，时效性差",
+      "分析基于有限公开信息，可靠性低"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "METISUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=METISUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "METISFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=METISFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "METISUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=METISUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "METISBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=METISBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Buy Metis: Real-Time Price, Roadmap & Market Tutorial - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvSDJxaF84NG1GbDNFbTg5T044TGxuWVdsTEZwN04xMTBkRVE5YVdkMzhRZW9XZE81bVZZbFRfdGVOdmZ4aUF6eE00b19adzFlNEl1cEpxZnR2ZWlPSHdxR0VwcTlqWWM1c1ZyQWtPRFhLbC1ieUJqMGRFazA?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 17 Jun 2026 15:40:43 GMT",
+      "snippet": "Buy Metis: Real-Time Price, Roadmap & Market Tutorial&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "What Is Metis (METIS)? - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zelJRRHNBN09hZVl4WER3TWhIT25lNXphd2dsQ0JLZGFyTzNoNVNWWlI3NWNWTGF4cVJhZXhxZk9VY3UzdHpSUFp0MG55TG5JVW9pVzhKQ0Z3QQ?oc=5",
+      "source": "OKX",
+      "publishedAt": "Thu, 25 Dec 2025 08:00:00 GMT",
+      "snippet": "What Is Metis (METIS)?&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Metis Manual: Price, Pricing & How to Start - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsck5PNW1sVk5ybzhxVjRWLWJFXzQzY3dfWkUwbU1jdFRMVHFJTURtakR1c3ltaTRXc1J2cnhibXZPb093R1lncXZCdVRFXzBtWlRSaDBMemx2WHV1ZGktWmJOcnNDX1RreEt6OXpfNjJfdUIzODF6VQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 17 Jun 2026 07:39:57 GMT",
+      "snippet": "Metis Manual: Price, Pricing & How to Start&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Metis Token price today, METIS to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02UFFWMS1PaXkwS2pJMGRnME9BSnc0dHh6Nmplb3lpekl0N1hVSEZ0bENMbTdLcF9ZZE5ueTh4OG9KcGNKeVdMMml3MmY?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sat, 06 Sep 2025 10:06:58 GMT",
+      "snippet": "Metis Token price today, METIS to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "What is Metis (METIS)? The growth potential of Metis in the future - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kNFdRejFsVkJQTmtKdEJlcXQ5OHQ2cHlTSnlNQm84dlVEeUt6Zzd1WTg0S1M5aXNza21QS2lGeTQxM090dzlGZElEUktrVXVuSTM1Y0t0c3lGQjFzLUlDZ3JPNA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 01 Aug 2025 07:00:00 GMT",
+      "snippet": "What is Metis (METIS)? The growth potential of Metis in the future&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Metis (METIS) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jRE91Zm1qQ0tMVnV3ZDYyNVVIeUhrLXpCZkZzMGpGcTdoajlKVk0yeFE2YUhrQ0VLSFNoT19QZlZHRFVlMjJsV3owcVRfbU1jdEtqX2F3YWJxZjBQNldOa0ZPVUNiVXR3?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Tue, 13 Dec 2022 14:15:04 GMT",
+      "snippet": "Metis (METIS) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "METIS token surges after announcement of ecosystem development fund - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmsxdkFaSUhHcTI0d1NfM1MyQ0x6dnpCSlZQV1VlbVdRVUJUWTRXVXdOSFRpNEQtWFpUN3ozVnIwYm50eW45ZTlCdk40T3NaNG83MHY1WHR0SThVU1kxTEFFTjRkcW9Hc1N5YWYyTlgtTHpFMS0xQ3huQ0FETVNSNE1yeGdSckEwNkFRQnEwTkFidUQzc0FvRFV1SVg2ZXNYRUs3WEU3MXBwbHhQMmpIYlY5QQ?oc=5",
+      "source": "The Block",
+      "publishedAt": "Mon, 18 Dec 2023 08:00:00 GMT",
+      "snippet": "METIS token surges after announcement of ecosystem development fund&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "VanEck’s Ethereum Layer-2s Valuation Prediction by 2030 - vaneck.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOby05SXBRd240b1JzQ3JVR0tWN3RtUnVCVEZyWEhoWVp2eUliU2hDeUtzQ2dQcUVDZldrQzYwWjdSdnY3S2E1aS1GZ3ZLcjhETVZYNklkMXU3eDBVTGc3eHJrSkNkbzl0MVJBUFZzZFRKV2MxeEJIbHhMTWVuNnFYWnk0eVlkclFaQ2hwNlpqdlV5Qi1PcjZTdlhGVHVrODMwVVJFcVBGczVlOUg5bFpyLUJ4REJWdy1HZkpR?oc=5",
+      "source": "vaneck.com",
+      "publishedAt": "Wed, 03 Apr 2024 07:00:00 GMT",
+      "snippet": "VanEck’s Ethereum Layer-2s Valuation Prediction by 2030&nbsp;&nbsp;vaneck.com"
+    },
+    {
+      "title": "Pi price today, PI to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmYXF2WGloT3ZQQm5sZlVGOGJuSE41ZDFBYVJSSlV4LUxOcXZrTnFHbWJZLWZfRzY4a05YMWR1aTNtV00xTllLdU5IcjJhLXhoWkE?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 11 Feb 2025 11:05:31 GMT",
+      "snippet": "Pi price today, PI to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Metis Q3 2024 Brief - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CWWoyRkdvSnNuY1J0czlHZm9KU3ZobzJPbml1WXQtWnRaTkJmQ2NPWG9MckdqSHh6cFhwa1l6bHQ0a1ctSUZjTE0xMnlLemt3a1JFWUk1b0M?oc=5",
+      "source": "Messari",
+      "publishedAt": "Wed, 30 Oct 2024 07:00:00 GMT",
+      "snippet": "Metis Q3 2024 Brief&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "Metis Price: METIS/SGD - Revolut",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RMXhvdzlpdTF1ZzVhOUw2NkVKZ0tNT0FMTHZLWmlPYU01SmVfR2EwRmlnYTJ2SmpMYUVEQUtGSE1wWGtuc1Q0aVhDb1RQZk1obEJlZkV4Vm51QW5mMFE?oc=5",
+      "source": "Revolut",
+      "publishedAt": "Wed, 13 Nov 2024 11:35:22 GMT",
+      "snippet": "Metis Price: METIS/SGD&nbsp;&nbsp;Revolut"
+    },
+    {
+      "title": "Metis Team - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02d0VDQTRsaEN0YVctajNaT0R4RDlSUmxMZFV4Z1E1RnItckNpYUtvRi1UR01pcXNvaHNMUUNiaEhYRjFXYV85YzdYbnhhY2FjUUhr?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 27 Dec 2023 21:47:26 GMT",
+      "snippet": "Metis Team&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/metis-token?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

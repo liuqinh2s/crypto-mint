@@ -1,0 +1,178 @@
+{
+  "token": "HOLO",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T16:02:09.578Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "HOLO",
+    "name": "Holoworld AI",
+    "generatedAt": "2026-06-20T16:02:05.303Z",
+    "summary": "HOLO是Holoworld AI项目代币，近期无重大利好，市场数据缺失，价格走势不明，风险较高。",
+    "rating": {
+      "score": 20,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "缺乏可靠数据，无法设定失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Holoworld AI Price Today | HOLO to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格展示，无实质内容"
+      },
+      {
+        "title": "Research Report | Holoworld Project Analysis & HOLO Market Value Assessment - Bitget",
+        "impact": "中性",
+        "reason": "研究报告，但未提供具体结论"
+      }
+    ],
+    "fundamentals": [
+      "Holoworld AI是一个AI项目，代币为HOLO",
+      "项目资料有限，无法评估基本面"
+    ],
+    "marketRead": [
+      "Binance API返回451错误，无法获取行情数据",
+      "无成交量信息，市场活跃度未知"
+    ],
+    "risks": [
+      "数据严重不足，无法进行有效分析",
+      "项目知名度低，可能存在流动性风险",
+      "新闻多为价格预测，缺乏实质性进展"
+    ],
+    "watchlist": [
+      "关注项目官方公告和路线图更新",
+      "等待交易所数据恢复后重新评估"
+    ],
+    "sourceNotes": [
+      "所有市场数据获取失败，新闻来源多为预测性内容，可靠性低"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "HOLOUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HOLOUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HOLOFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HOLOFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HOLOUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HOLOUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HOLOBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HOLOBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Holo Price Prediction 2026-2030: Will HOT Reach $1? The Ultimate Forecast - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZenhXeW9mc1hBZFlhalQtZy1HU1lLWlRXNm9lS3A3TC1BSE1PUy1uc2JFd2Y1X1gwY1ZpNHF3RnI5Ny1SVl9oTmxiaUp0RVFrZk5ILS1kMXpOemw0a2ZWbkpITy1ESUlHRzkyLXdpWTBKS0h4QV9yZWltY24?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "snippet": "Holo Price Prediction 2026-2030: Will HOT Reach $1? The Ultimate Forecast&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Holo Price Today | HOT to ZAR Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kVzZ6OXJSUDNwakxKUVZncVZUQ1p6YzE1RTlzOGZ2Um8wMk1GNE5lTWk5S1JaTE9ocDZ4eVoxdzBJaVpxM0k2ellSMVFEN1dtc0E?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 14 Jun 2026 08:26:00 GMT",
+      "snippet": "Holo Price Today | HOT to ZAR Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Holo Price Prediction 2026,2027-2030: When Will $HOT Reach $1? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcTF6d0JSRl9EM18zNjg1eU5zOEtxcVVLQXJZZHhsUWlCTFRlREh2V1pxZzVzTzNURHlLRm5jekZDOWJZMEg5ZEFYQl9GQ1RaWkhLZG55YVZzTnh0d3BKT3lidGVfUUlfcHFlMWdkZHVlQkQ5eXY2cVBmNjhSVWdrMNIBhgFBVV95cUxNbWl3VFpkT0JZRUl6VkhoclB1N0lnRFdBck9nZUdFMWdoa05EbThBdnVqZ3Y0cnBnMW00U2tKOHVEWVMtTzQ3MFJCLWtBVWg5RTFyemt2VmdDN3VWU2FCaG9tM0lSc2tVZDN6MlN3OEFfWXRvYXBVeG5aN3g1cVVDM0RaRlQ0Zw?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "snippet": "Holo Price Prediction 2026,2027-2030: When Will $HOT Reach $1?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Holo (HOT) Price Today: HOT Live Price, Charts, News - Crypto.com Australia - Crypto.com",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8yZ24wSmdKcS1lYWxiM3BkM0xFQmgzNExBa0JDN3kzZmNzd0JkOTBSeXdURHhxN1ltSk5vbHYtcFdBNVRZZXNV?oc=5",
+      "source": "Crypto.com",
+      "publishedAt": "Fri, 26 Sep 2025 23:37:22 GMT",
+      "snippet": "Holo (HOT) Price Today: HOT Live Price, Charts, News - Crypto.com Australia&nbsp;&nbsp;Crypto.com"
+    },
+    {
+      "title": "Holoworld AI Price Today | HOLO to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qc3FzYWRINVl5dlNuVVZkeGRJdlN4QW4xUG80SWpKbmd6dG04TGhOUkpWTXZ1eUdwczBBd1FkWWtfeG13aVctbkpCTmoxQkxhSzFtd2ZrX1Y?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 11 Sep 2025 07:00:00 GMT",
+      "snippet": "Holoworld AI Price Today | HOLO to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Holoworld Price | HOLO Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jZ2Z2dUk3Z2JYRkVyV0dKQ3dlSjZXUTRVdXJvSUpMTndYVV9pU21vV3dmWUU0NGtpTi1DWWx6dkZtbk1mSng3cFBud3ppZw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 11 Sep 2025 07:00:00 GMT",
+      "snippet": "Holoworld Price | HOLO Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Boundless (ZKC) Price Tanks 50% After Mainnet Launch — Airdrop Flood Sparks Sell-Off - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTdENEViUXg5SGpZLVRubmZhWHpUMGRxWWdtb25PVFJOd2trZzdPUWI1VXVXNEFWVkRwdjVsRVE5TXVpZEk4OFpGOGx3c1Z4SEtwOU1TQzZRdzhCUm5yNUhUdlZxRnJlbGZZTThlWElOV2paRXhhTkJLZm0xeEREOW45TUVlWTR6WUJPVy1wSElobGYtb3hfMDZHYW9zNHRKdzdFOGpQd01qQQ?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "snippet": "Boundless (ZKC) Price Tanks 50% After Mainnet Launch — Airdrop Flood Sparks Sell-Off&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Holochain price prediction: is HOT token cooling off? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVUo0ajJsVUN0dldsUVhfZFlUS0RLc2NFY051ZXhodlVDVkZLYlVTN1VrdmpwQW9YYVdvaWEwelhLR29BRWtkNExwSGpJSWdvWXBjZ29jUkxPNGp2cldMbTFTSEZjdjBqT09XUXR4cFI5NnA1Sk1UT0UtcVBkZmxsMUhR?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Tue, 06 May 2025 11:47:45 GMT",
+      "snippet": "Holochain price prediction: is HOT token cooling off?&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "Research Report | Holoworld Project Analysis & HOLO Market Value Assessment - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qcldKOTIybGlHVU1KZkNCdFBqam16cWRuWmFub3RucWVWUTMzM290LTU3RnR1WlZGeUt3N2oxUnVyVFBhOE84ZTlCS3lZbmFjaHk5bUZmTWU2VGZ4YlHSAWNBVV95cUxOOGRyRmgxZGpOMXpVemhSckZ0RUI5Tk1yTUpodjdNSEpRY3hfUFpOQjFRYVNsQWFFWWYyMEYxalJVaDVzdEVBVjRSdlBFQllJemVubWprdlhKNHpKTGp0VDd5LXM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 11 Sep 2025 07:00:00 GMT",
+      "snippet": "Research Report | Holoworld Project Analysis & HOLO Market Value Assessment&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Holo (HOT) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sRWZJZFZfalliYmRQUGFmZTgtYksxNzMzZjdfbmEtQ2Jma1VpOU54Q2MxZzFPbk5HTkdlaml5ak1UazNybHYwdnA2Y28xaTUwR2JYc3dQbkZzOFZ4dGlNSDc4dWU?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Tue, 21 Dec 2021 01:33:08 GMT",
+      "snippet": "Holo (HOT) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Holochain price prediction: is HOT token cooling off? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORDU2V1RUSUFya2d1YmhnV18yTm5Zb3VxeXMzbGZ0dUw2cHkySWgtUjA2cFpDT0FrdF9iU204UHpFSjFTbDk1aVdkak9tVTRGbEtQX2pmMVdzbEdDcDhtRHlUVm1IaV9DM2dNdVViU0NINWdLdkFzcWFoY0hQRTdhcw?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Thu, 05 Sep 2024 15:27:13 GMT",
+      "snippet": "Holochain price prediction: is HOT token cooling off?&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "Holochain Holo HOT Coin Price Prediction for the End of 2021 - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sSEluaVpINmZDNHBXMnJVd0txeTFvUkwzRnJmTTNRQWVOVUVTSHktNGRWVTVTMHozRkVVVkJlVmw3Sk1vS2tKd0hTb01TdE9VcTlHcXBCaXFXSDNsZ1pweUF2ZDZ2eHU1M2JmWGY3OA?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Fri, 27 Aug 2021 07:00:00 GMT",
+      "snippet": "Holochain Holo HOT Coin Price Prediction for the End of 2021&nbsp;&nbsp;StealthEX"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/holoworld?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

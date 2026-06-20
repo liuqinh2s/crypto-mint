@@ -1,0 +1,229 @@
+{
+  "token": "SSV",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T16:02:13.596Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SSV",
+    "name": "SSV Network",
+    "generatedAt": "2026-06-20T16:02:05.386Z",
+    "summary": "SSV近期上涨主要受SSV Staking上线和SSV 2.0框架发布等利好驱动，但价格仍远低于历史高点，市场情绪积极但流动性数据缺失。基本面扎实，但需关注解锁风险和竞争。",
+    "rating": {
+      "score": 55,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsetPct": 20,
+      "holdingPeriod": "1-2周",
+      "invalidation": "跌破2.0美元支撑位或出现重大负面新闻（如安全事件、团队抛售）"
+    },
+    "catalysts": [
+      "SSV Staking上线，连接SSV持有者至以太坊最大分布式验证器网络",
+      "SSV 2.0框架发布，引入bApps概念，扩展应用场景",
+      "近期价格反弹，14日涨幅23.68%，市场关注度提升"
+    ],
+    "latestNews": [
+      {
+        "title": "SSV Staking Launches, Connecting SSV Holders to Ethereum's Largest Distributed Validator Network",
+        "impact": "利好",
+        "reason": "直接增加SSV代币的实用性和需求，吸引质押者"
+      },
+      {
+        "title": "SSV DAO Unveils “SSV 2.0” Framework, Bringing bApps to Ethereum",
+        "impact": "利好",
+        "reason": "扩展SSV网络功能，可能带来新的应用场景和用户"
+      },
+      {
+        "title": "Ethereum Rare Mass Slashing Event Linked To Operator Issues",
+        "impact": "利空",
+        "reason": "可能引发对SSV网络安全性的担忧，但SSV旨在减少此类风险"
+      }
+    ],
+    "fundamentals": [
+      "SSV Network致力于以太坊共识层的去中心化、安全性和活跃度",
+      "提供完全去中心化的ETH质押网络，适用于个人和机构",
+      "获得Coinbase Ventures、OKX Ventures等投资",
+      "代币总供应量约1470万，全稀释市值约3520万美元",
+      "当前价格2.39美元，较历史高点65.82美元下跌96.36%"
+    ],
+    "marketRead": [
+      "24小时涨幅4.41%，14日涨幅23.68%，短期反弹明显",
+      "成交量约559万美元，相对市值3520万美元，换手率约15.9%，交易活跃",
+      "市场情绪积极，100%投票看涨（样本可能有限）",
+      "由于Binance数据受限，无法获取详细K线，但整体趋势向上"
+    ],
+    "risks": [
+      "价格仍处于历史低位，反弹持续性存疑",
+      "代币全流通，无锁仓，可能存在早期投资者抛售压力",
+      "以太坊质押市场竞争激烈，Lido、Rocket Pool等占据主导",
+      "近期以太坊大规模罚没事件可能影响市场对质押项目的信心",
+      "流动性数据不足，Binance API受限，可能影响交易决策"
+    ],
+    "watchlist": [
+      "SSV Staking上线后的实际采用数据和TVL",
+      "SSV 2.0框架的进展和合作伙伴",
+      "以太坊质押市场整体趋势和竞争对手动态",
+      "代币价格能否站稳2.5美元上方，突破3美元阻力位"
+    ],
+    "sourceNotes": [
+      "Binance行情数据因地区限制无法获取，价格和成交量来自CoinGecko profile",
+      "新闻来源包括The Block、CoinDesk等，时效性较好",
+      "市场情绪数据来自CoinGecko，投票人数可能较少"
+    ]
+  },
+  "profile": {
+    "id": "ssv-network",
+    "symbol": "SSV",
+    "name": "SSV Network",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "Ethereum Ecosystem",
+      "Restaking",
+      "Coinbase Ventures Portfolio",
+      "OKX Ventures Portfolio",
+      "Liquid Staking"
+    ],
+    "homepage": [
+      "https://ssv.network/"
+    ],
+    "description": "SSV promotes decentralization, security, and liveness across the Ethereum consensus layer and forms the foundation of SSV.network – a fully decentralized and robust ETH staking network. Using the network will be open and simple for anyone who wants to run an Ethereum validator; from DIY users all the way to staking pools and big institutional staking services. This applies to using the network both as a user or a service provider; regardless of staking configuration, as long as duties are properly executed, anyone is eligible to provide service and reap rewards for doing so. ",
+    "marketCapRank": 581,
+    "currentPriceUsd": 2.39,
+    "marketCapUsd": 35202329,
+    "fullyDilutedValuationUsd": 35202329,
+    "totalVolumeUsd": 5590328,
+    "priceChange24hPct": 4.40791,
+    "priceChange7dPct": 2.68663,
+    "priceChange14dPct": 23.68198,
+    "priceChange30dPct": -6.99987,
+    "athUsd": 65.82,
+    "athChangePct": -96.36128,
+    "circulatingSupply": 14699173.1,
+    "totalSupply": 14699173.1,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 10105,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "SSVUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SSVUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SSVFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SSVFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SSVUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SSVUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SSVBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SSVBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "SSV Staking Launches, Connecting SSV Holders to Ethereum's Largest Distributed Validator Network - The Block",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWUl4eWx3cUdXVnowbzVwRHJTbllOYnl2aXFNXzBkMUZNOUxjQ3VtTk9OOGFOd1RMMkJHbkd0Z3pKNlNlT2VCWi1Jei1UVmFVMzVaTmhidnFUbnFmUWIxNjRUWFRGbmpmb3gwNmZGSmNLTV9MUEFnUXY1cFNaNGhtdnduWEN2dVBaX2tJTlVPYXZaQ1F5QV85YlRHNy1vVEtWX0NSQk5GYWpNUDJPZTJCVC1Da2dRc1FjZXlqR0Y1VXFEMDZtb2lBc0xhOE1ZX1VVSGx6OFRTUQ?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "snippet": "SSV Staking Launches, Connecting SSV Holders to Ethereum's Largest Distributed Validator Network&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "ssv.network (SSV) Price Prediction [2026, 2027, 2030, 2040] and more - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBob1FCdWZYb1N0ajVzU01MOTVVbnh5NDRKcGJCa1JCSVJlcnNac2V2MXo3TG5pMWVSV2wzZl9jaVpLNFdGajBUVV9pbS1YSGRya0d6LXI0dG9hdkZoNEdHZEVYYWk5S3VfOW1Z?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Mon, 08 Sep 2025 08:13:44 GMT",
+      "snippet": "ssv.network (SSV) Price Prediction [2026, 2027, 2030, 2040] and more&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "ssv.network Price Today | SSV to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UUmZIWDNQc1JCaFRZSlRNRUpJbFc4QnZNeHZZUFNUeHN0bWdOY2w5cHR2ZHpZUmJHbUgwYjhTV0ZZUHVBZVJ0SjZCcHpweXdyM2tYMm82ak9VTFE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
+      "snippet": "ssv.network Price Today | SSV to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "ssv.network price today, SSV to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Tb1R3RUwyRlJvb0RJYVZpLUlYNHhfU0R5d1p0YVNqZWhVc01iMUg2MnVodVI3cl81Qks4N2gyX2cwSjcyNmVEMV9ycGdoSFJ4VnhBRUxmQWh2dG43Qmc?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 22 Oct 2021 05:30:44 GMT",
+      "snippet": "ssv.network price today, SSV to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "SSV Network (SSV) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKY0lMUEl6LWZDUFZ6SEUxNlZQQ05hZjlHcHgyTmpKRFZmQ1ZmSjBXaHFJZ2RQOXBGSEZjYXFmSUIwNGZJZ3c1Z3did2gtS0pZRXlSOWo2Q3lEandhTHFjbnBJLXJQaGF0WDExNW1B?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Fri, 16 Sep 2022 10:25:35 GMT",
+      "snippet": "SSV Network (SSV) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "SSV Network (SSV) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qVGQ4WEFZWUVFbVFZTEdDVzdiUGlyNjdxck12UV80UmxCdjhPQ0loYUN2NXlZN0cxQlh0ZVBxdHlNcVhPbVc1bVU2NEJiUQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 26 Nov 2022 00:32:56 GMT",
+      "snippet": "SSV Network (SSV) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "ZEROBASE price today, ZBT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42b3dCYUItbTJyQ2lzQ0NnTTZxMF9hNnVyU1JDN3M2RHN4Z3d1YzRzQWR4YWxERERjaEROajVsdnMyUkpmWjJJWGFxWllHWjZhX0FwUUhUYjMwdw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 17 Sep 2025 13:28:39 GMT",
+      "snippet": "ZEROBASE price today, ZBT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "SSV Network (SSV) Price Prediction 2025-2030: Will SSV Crypto Skyrocket To $100? （Newest Forecast!) - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdEZZSk96d2VuMllUMlZtNG9kYmtJbDZwdF9XdFhaM3Zqb2VNWkdmYWUzRkdVZG5GYzZ5aExDWS1GaUVoYmZNWl9Lbmc4WVVSa3kza29XTzV4M0JpRVU2Y1NXUkVlQzVCS1hDY2Nfb0RLMk5XMHlKYXBsRjNXSS11UFg0MDVXLVVLRFA0X2Z5bjlHV3BRX2FPNTQ4RFdHVTdrTzlLWFdTSmc3b2c0dG1Wb2lHT3pKdGhueGJlbFpkWVBoM2FUR0xyZg?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Thu, 16 Jan 2025 08:00:00 GMT",
+      "snippet": "SSV Network (SSV) Price Prediction 2025-2030: Will SSV Crypto Skyrocket To $100? （Newest Forecast!)&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "SSV DAO Unveils “SSV 2.0” Framework, Bringing bApps to Ethereum - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlVOQmQ3cWpxX3lZM05RWDZHTFNRVHItTmlMWTZTemR6NWJRSFVpU1FFamc1aWZIQXdQQU5DQ0M5N0M2bllqY085ZGNpQzM3OWxUN1M2WktCd2xPbHFFeC1lUU93czBrLVNrUU55dFVIdFBZTEkwTmZzYTYtcFUyUVZCMVBlUUFqQm9FaVB2bXd5Vl83aXVaOFlDMEk4V19JVHlz?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 28 Jan 2025 08:00:00 GMT",
+      "snippet": "SSV DAO Unveils “SSV 2.0” Framework, Bringing bApps to Ethereum&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Can SSV Skyrocket? Analyst Predictions Unveiled - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4SmNtVjdpcWJPdng5MGhLZUJfYTQzQ0ZvX3dUcHNsTHdCZGJKY2Y4TlBaRDdyRHRBV19Lb180T2FQdWJwbk5pLTZlLVdXcm5UWmJaRzJEUk9hS1BPNlVzWHBrWQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 03 Jun 2025 07:00:00 GMT",
+      "snippet": "Can SSV Skyrocket? Analyst Predictions Unveiled&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "ssv.network Price USD, SSV Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jMFVZbUtLaHJyQ1RCNnlkSFVHTjBadjlIZDVBSkVoUU1HRWl0Q3hnV0JMZHhUU1B6eFVKWmJlWUFhemJXN0hHSm91dG5obnJpSnc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 03 Jun 2023 20:02:41 GMT",
+      "snippet": "ssv.network Price USD, SSV Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Ethereum Rare Mass Slashing Event Linked To Operator Issues - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdW1pNkh2UWo3U1RLekk4OXZhNVBIWlNyN3I0b3BBcnRaZVE1WHVXeGFvakwxQ1h2bnlYWFh1ckZ6M3dmX1NBMlUwODZ6ekhsMkJBcVB1Ni1TQkJLTjREVWowM01weGlFYlN0VW56MHo4REVyMU1nOUVIQTRSZE1iNWN5b0dabWpWbjFzeWVzeVY1djlwSURlQ0lPakRJM0dhMkE?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 10 Sep 2025 07:00:00 GMT",
+      "snippet": "Ethereum Rare Mass Slashing Event Linked To Operator Issues&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

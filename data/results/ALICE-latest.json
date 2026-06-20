@@ -1,0 +1,232 @@
+{
+  "token": "ALICE",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T16:02:13.689Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ALICE",
+    "name": "My Neighbor Alice",
+    "generatedAt": "2026-06-20T16:02:05.339Z",
+    "summary": "ALICE 24小时涨幅33%，7日涨幅28%，14日涨幅35.5%，但30日涨幅仅5.5%，显示近期突然放量拉升。市值仅1348万美元，24小时交易量高达8528万美元，换手率超6倍，投机情绪浓厚。基本面方面，游戏已于2025年6月在Chromia上线第一章，但缺乏近期重大更新或用户增长数据。新闻多为旧闻或教程，无直接利好催化。价格已接近ATH跌幅99.67%，属于超跌反弹，但缺乏持续上涨逻辑。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若出现实质性游戏用户增长或大额合作，可重新评估；若成交量萎缩或价格跌破0.12美元，则反弹结束。"
+    },
+    "catalysts": [
+      "游戏上线Chromia第一章（2025年6月）可能带来新用户，但数据未披露",
+      "Binance Launchpool项目历史品牌效应",
+      "超跌反弹情绪驱动"
+    ],
+    "latestNews": [
+      {
+        "title": "My Neighbor Alice Launches “Chapter One: A New Adventure” on Chromia",
+        "impact": "利好",
+        "reason": "游戏内容更新是长期利好，但新闻发布于2025年6月，时效性不足，市场已消化。"
+      },
+      {
+        "title": "Blockchain Game Token ALICE Rises 60,000% in 30 Seconds Following Binance Listing",
+        "impact": "中性",
+        "reason": "2021年旧闻，与当前行情无关。"
+      },
+      {
+        "title": "My Neighbor Alice Price Soars 85% – Is This 2021 Metaverse Game Making A Comeback?",
+        "impact": "中性",
+        "reason": "2024年6月旧闻，当时涨幅已过，无新信息。"
+      }
+    ],
+    "fundamentals": [
+      "全链上多人游戏，基于Chromia，强调自我表达和社区",
+      "代币总供应量1亿，当前流通约9944万，接近全流通",
+      "属于GameFi、NFT、元宇宙赛道，但热度已过",
+      "Binance Labs投资，曾为Binance Launchpool项目"
+    ],
+    "marketRead": [
+      "24小时涨幅33%，但30日涨幅仅5.5%，说明近期突然放量",
+      "24小时交易量8528万美元，市值仅1348万美元，换手率632%，异常高，疑似短线资金炒作",
+      "价格0.1359美元，距历史高点40.93美元跌99.67%，属于深度超跌",
+      "无近期K线数据，无法判断支撑阻力"
+    ],
+    "risks": [
+      "缺乏近期实质性利好，上涨主要靠情绪和资金推动",
+      "高换手率可能意味着主力出货或短期游资行为",
+      "游戏用户数据未知，基本面支撑薄弱",
+      "市场整体情绪不明，GameFi赛道持续低迷"
+    ],
+    "watchlist": [
+      "成交量是否持续放大或萎缩",
+      "是否有官方公布用户增长或新合作",
+      "价格是否跌破0.12美元（近期低点）",
+      "社交媒体讨论热度"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko API，Binance行情因地区限制无法获取",
+      "新闻多为旧闻，缺乏近期直接催化",
+      "无链上数据或游戏内经济数据"
+    ]
+  },
+  "profile": {
+    "id": "my-neighbor-alice",
+    "symbol": "ALICE",
+    "name": "My Neighbor Alice",
+    "categories": [
+      "Gaming (GameFi)",
+      "NFT",
+      "BNB Chain Ecosystem",
+      "Binance Launchpool",
+      "Metaverse",
+      "DaoMaker Launchpad",
+      "Ethereum Ecosystem",
+      "Gaming Governance Token",
+      "Gaming Utility Token",
+      "Simulation Games",
+      "YZi Labs (Prev. Binance Labs) Portfolio"
+    ],
+    "homepage": [
+      "https://www.myneighboralice.com/"
+    ],
+    "description": "My Neighbor Alice is a fully on-chain multiplayer game built on Chromia with a strong focus on self-expression, collaboration and communities. Players can explore, gather resources, craft unique NFTs, and shape their own virtual world in the Lummelunda Archipelago. The game appeals to all ages and genders, promotes cooperation over competition. With open codebase and UGC tools, it fosters creativity, allowing players to create and potentially earn from their own assets and experiences. ",
+    "marketCapRank": 1010,
+    "currentPriceUsd": 0.135946,
+    "marketCapUsd": 13484968,
+    "fullyDilutedValuationUsd": 13484968,
+    "totalVolumeUsd": 85288182,
+    "priceChange24hPct": 33.32593,
+    "priceChange7dPct": 27.92353,
+    "priceChange14dPct": 35.54046,
+    "priceChange30dPct": 5.47866,
+    "athUsd": 40.93,
+    "athChangePct": -99.66862,
+    "circulatingSupply": 99437280.240118,
+    "totalSupply": 99437280.240118,
+    "maxSupply": 100000000,
+    "sentimentVotesUpPct": 50,
+    "watchlistUsers": 63029,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "ALICEUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ALICEUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ALICEFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ALICEFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ALICEUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ALICEUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ALICEBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ALICEBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "What is My Neighbor Alice (ALICE)? Quick guide - Bitnovo",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVzZyUVE1NFd4SUxsYjFxVk5fUDR5cFUwS1NGOEFpdURseTZ2ZjNMQXd5RmpJVW03Z3JlV2lFaEQ1WHY0ZGZLVHU0Q1BGc29QZUNCU25ybDlSdDNRRDhjblpBX2JPTmVMSk9aTUNlNy1NRHZFRW1KeVZsR1ZZZm1LZQ?oc=5",
+      "source": "Bitnovo",
+      "publishedAt": "Wed, 10 Sep 2025 07:00:00 GMT",
+      "snippet": "What is My Neighbor Alice (ALICE)? Quick guide&nbsp;&nbsp;Bitnovo"
+    },
+    {
+      "title": "My Neighbor Alice Crypto: ALICE Token Trading Guide & Platform Comparison - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNWl3N1FraHBPWS1VbHpUMzZjMk9EN2JYUFQxMUlEYk5aalBGdTJWbC1xQ0lPM1RLel96UGFhUkhsMXpFLVB0ejVacDNJMUx0eDZjeTJBeGJqT2t2Y3BXYdIBZkFVX3lxTE5LSE8teUdTVXJLOUFtQnJhQy1fZjhvNVJLTWRhZXNaQkYxYkFULVRwQjNBa3dId0xuN3BGbXhJem44a0dlOUFKSFloN2V4bFVtTkhHZ2dpNnNJWUVVWTNkbm9feTVidw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "snippet": "My Neighbor Alice Crypto: ALICE Token Trading Guide & Platform Comparison&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "12 Best Crypto Games to Play in 2026 - Top Blockchain Games - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JNGs5MmtVOXUtWl9pMlZRLUhoQVJBc01GYkt6Q2c1UExCTHhwQUlsUmdsSDh6SUE0bGhITWdhRm9GZG1IbGdSVkRCVDlsZVVHdm1vQVdVaDEta0dKb2RUcEotdkF4cXM?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
+      "snippet": "12 Best Crypto Games to Play in 2026 - Top Blockchain Games&nbsp;&nbsp;Cryptonews"
+    },
+    {
+      "title": "Coin of the champions price today, COC to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CVzJvV3pXWXVrMWlmRkp1TzNxeUJOMmhUU3NNZEdXUzRHYVMydEg0NkFoczUxSW5ENkpLelQ5cDVjMnpoYmFoaHRB?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 24 Feb 2026 08:32:13 GMT",
+      "snippet": "Coin of the champions price today, COC to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Best Metaverse Games list For 2026 [Updated] - CoinGape",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUQjBURE53UHJWakwyRkQzSTI4OE1IQXFBN3FIRUxXRUVnVnVlcFJrWUxpR3NmTElXQ2xaZTgyN2RQODZWT2RrVVFndFNaSXdNeWZHMnQ3TGxNaXM?oc=5",
+      "source": "CoinGape",
+      "publishedAt": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "snippet": "Best Metaverse Games list For 2026 [Updated]&nbsp;&nbsp;CoinGape"
+    },
+    {
+      "title": "My Neighbor Alice Price: ALICE/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTS3VNaTByQnNCc0xxcE5EckxfZDRmeVpCWWVlMjVlbzZqSWt2ZnJfNUxib3M3Z2RtN2NvdWlZUk0ydzVsUDIweTVxTWxJUlBsNWJhZGJMWVp4Z1JCXzZlZVVR?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 15 Mar 2021 03:16:10 GMT",
+      "snippet": "My Neighbor Alice Price: ALICE/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Blockchain Game Token ALICE Rises 60,000% in 30 Seconds Following Binance Listing - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdzFreVIwcXlTVTZRTDItV2FGd2lJMGREMlZzdS1ycDlmanIxR0RkZlVFWm4ybjI4d0x4VU9uQ011aU96LWlXZ2FieV9Ocl9ZaWg3cnpFYXFCQ3dYWkRJTHFjUEQ2TWE3OVlzYjlkeEU1T3NuN3lzcWl4TjRFSWpNWEEyVVB2Zw?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 15 Mar 2021 07:00:00 GMT",
+      "snippet": "Blockchain Game Token ALICE Rises 60,000% in 30 Seconds Following Binance Listing&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "MyNeighbourAlice (ALICE) Price Today | ALICE Live Price Charts - Revolut",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wd3pvdEU3VmdhWHJqTmpRNXpEMlJrSXJxQ0FBaGhwRlZXdlRzcjU4V2RidUZnOGZaTGhKQzh0VkFWOEZ0cTYzbTFoNGVFcUlOSnVlRmFWajhJTjlSM1dUeVVXZUo4TkNtTXRmWEhlYw?oc=5",
+      "source": "Revolut",
+      "publishedAt": "Sun, 14 Sep 2025 00:46:42 GMT",
+      "snippet": "MyNeighbourAlice (ALICE) Price Today | ALICE Live Price Charts&nbsp;&nbsp;Revolut"
+    },
+    {
+      "title": "What is My Neighbor Alice (ALICE): How to Play & Earn - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kSU1DSjhKNFhvdktmVDdrekdhTmxOVU5iVkxoYi1fRUloaEpsQWRUUV9FT3hfOEl1b1huV3ZWQVJyVGdreUxNNUxhN3l5dTBpYkhqU19ZakZWSmlyYWg2MU1YQlZ5QjdJZ3F6MlY5OG8?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Fri, 18 Feb 2022 08:00:00 GMT",
+      "snippet": "What is My Neighbor Alice (ALICE): How to Play & Earn&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "My Neighbor Alice Launches “Chapter One: A New Adventure” on Chromia - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2lsWXJ3bEhxWkp5d0tYRS1ZSXJsdl82MGViaUo4Zy1pWVJfYjE3cEFaMzRVVXJ0Nm9JQUp0bThSTFM0T0l4R05rZENsd2Y5ZWdHTzZLbnhLVGM2MTJ3TS1ncWp2aFh0RlNLN0hCSlRPRGhqVVZIQ0J6Nkt6QURCRmZIVFZuUUx5MjdIV3NyNV90bVVYb3fSAZ4BQVVfeXFMT2dLWi1OeEVUYUEwYkh0cEs2ZGxGWlJYZkhCbXFGcmJ6YXEtX3pHUmFOc0hmTldpYzB4UndJemZRMm45d2txOFlJUDE2YS1vbG11WU9MYWt4RzVjSjM5VFB0RjVvczRYUGZmQ3B6dFJuRlEwRkZNZ0ozVVdYRzg5N3dMN2JGUXBmaXJkcUNfaXZsZGxrYUs2MUIwdzRwWlE?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Tue, 17 Jun 2025 07:00:00 GMT",
+      "snippet": "My Neighbor Alice Launches “Chapter One: A New Adventure” on Chromia&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "My Neighbor Alice Price Soars 85% – Is This 2021 Metaverse Game Making A Comeback? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TMmNUdDBuRHJmZktnUk5WM2hFLXpqclBnbmlsYS11Q0EwMk5vaEJSdjdKVE5wUjdFSDA2YU9nSXdyZUZUcC1aTEJPUU1ub2JwRmJWMFVYY0xhM3dreDNoU0Rn?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 04 Jun 2024 07:00:00 GMT",
+      "snippet": "My Neighbor Alice Price Soars 85% – Is This 2021 Metaverse Game Making A Comeback?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "My Neighbor Alice Review - eGamers.io",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wQ2JJdUo1SmtmeDlJU3lFcEJzN2QyT0FDMUI3QlJKdC14UnNDbzN0R08yXzRIaE9jRDBORW40NW9Xc1BTTm5IdFZ5SVVuejlOQml6clFzbw?oc=5",
+      "source": "eGamers.io",
+      "publishedAt": "Sat, 19 Oct 2024 07:00:00 GMT",
+      "snippet": "My Neighbor Alice Review&nbsp;&nbsp;eGamers.io"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

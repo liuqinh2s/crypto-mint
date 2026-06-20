@@ -1,0 +1,193 @@
+{
+  "token": "AKT",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T16:02:17.985Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AKT",
+    "name": "Akash Network",
+    "generatedAt": "2026-06-20T16:02:10.214Z",
+    "summary": "AKT近期因BME升级和AI模型发布出现大幅上涨，但新闻时间较早（2026年3-5月），当前缺乏最新催化剂。市场数据获取受限，无法确认当前价格和成交量。建议观望，等待新信号。",
+    "rating": {
+      "score": 40,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现新的重大利好或价格突破前高，可重新评估；若持续下跌或缺乏新催化剂，则保持观望。"
+    },
+    "catalysts": [
+      "Burn-Mint Equilibrium (BME) 升级（2026年3月23日硬分叉）",
+      "Akash AI模型发布（2026年5月）",
+      "供应紧缩预期（BME机制）"
+    ],
+    "latestNews": [
+      {
+        "title": "Akash (AKT) Crypto Volatility: Is the Akash Upgrade a ‘Buy the Rumor, Sell the News’ Event?",
+        "impact": "中性",
+        "reason": "讨论升级后的市场反应，提示可能已提前消化利好。"
+      },
+      {
+        "title": "Akash Network (AKT) 30-Day Rally Hits 80% After ‘Burn-Mint Equilibrium’ Tightens Supply",
+        "impact": "利好",
+        "reason": "BME升级导致供应紧缩，推动价格大幅上涨。"
+      },
+      {
+        "title": "Akash AI model fuels AKT’s 17% rally – Daily token volume hits 5B",
+        "impact": "利好",
+        "reason": "AI模型发布带动短期价格和成交量上升。"
+      }
+    ],
+    "fundamentals": [
+      "Akash Network是去中心化云计算平台，提供计算资源市场。",
+      "BME升级引入代币销毁机制，减少供应。",
+      "AI模型发布显示项目在AI领域的应用拓展。"
+    ],
+    "marketRead": [
+      "由于Binance数据受限，无法获取实时行情。",
+      "历史新闻显示3-5月有显著上涨，但当前价格未知。",
+      "成交量在5月曾达到50亿，但后续数据缺失。"
+    ],
+    "risks": [
+      "新闻时效性差（最新为2026年5月），缺乏近期催化剂。",
+      "市场数据不可得，无法判断当前趋势。",
+      "升级后可能已出现‘买预期卖事实’回调。",
+      "整体加密货币市场波动风险。"
+    ],
+    "watchlist": [
+      "关注AKT在主要交易所（如Binance、Upbit）的价格和成交量恢复情况。",
+      "留意Akash Network官方关于BME升级后网络使用率的数据。",
+      "跟踪AI模型的实际采用和收入情况。"
+    ],
+    "sourceNotes": [
+      "Binance API因地区限制无法获取数据，仅依赖新闻。",
+      "新闻来源包括Yahoo Finance、CCN、AMBCrypto等，但时间较早。",
+      "缺乏链上数据和项目官方更新。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "AKTUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AKTUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AKTFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AKTFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AKTUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AKTUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AKTBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AKTBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Akash (AKT) Crypto Volatility: Is the Akash Upgrade a ‘Buy the Rumor, Sell the News’ Event? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3BfX09XYno3VU1NUHo4QWdzRlVDWDdlOTdlVmFEcm9GREh2aVpDaDBxcC1xM21wemlOU1dVSzU4UTloME1oY3B6Z2czSnlmWmJnUXh4Q283cWthc0ZucF94Z3EzTXBpTUJkcXZ6NHBSQ1ZCQ2hLMXUxUlA1WldSbnNsRkltNDVrVzV6clI1VjFuUHFOUGJITDFzYVM2WnM?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "snippet": "Akash (AKT) Crypto Volatility: Is the Akash Upgrade a ‘Buy the Rumor, Sell the News’ Event?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Akash Network (AKT) Price Prediction 2026, 2027 – 2030 - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KM3IzWFNON2ZJWXRwZ1VJTWxsUGxzOTRKRXJvbXA1dkhkT0lOLXlGcmlDRE1VWnBNdnVkS19lVzRJdHpmQ1JSeTUwNFRpcmM3NzcxMlRQTjdHSVNMelo1WWsxS2hTMTRfN3k0UWZmMENHNnNLd0JkV2dCM3FHOHfSAYQBQVVfeXFMTjR2a3VYU0pPYXFMUXNWY0JUemFLNFJtNVkwZGdaTlRVcnZLM2RpTWJHTTI4cS1LSjRlTWE1YmVXbHVVcy15TU11ZENWLW4yRGVUU0RhYTlqWGhEZkh0cmoyX1I1aE0xQjBjcm1ic1VCa3FxZURQWmJoRG9TNnVtTGl3RGg2?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "snippet": "Akash Network (AKT) Price Prediction 2026, 2027 – 2030&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Akash Network (AKT) 30-Day Rally Hits 80% After ‘Burn-Mint Equilibrium’ Tightens Supply - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnB4RlBTZ0NicDJHR3hNdmZMblNaRE15d3VOallqY05fUU5UTmFIZ3lYcVBYN0ZsdUthT25DWTRLQmRPQWZSTmNENXpEQk40VnNqT0R4cWZ5NWlHeTlEUm1obFM2VmJ2X3ozYXA2TFI0R1dncWw5dUxLMDNqa2d3cVYzQ0p4VTF4NlV1b2NSaFJkYWJHLUIySg?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "snippet": "Akash Network (AKT) 30-Day Rally Hits 80% After ‘Burn-Mint Equilibrium’ Tightens Supply&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Bithumb Announces Crucial AKT Suspension for Major Akash Network Upgrade - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbDRMQU1uMUN6Sjljb0pBVWxDbXRQYkU5VWZrNi1XYnItNkpjRzh1VUNKOHVXWVowY2wySEpaWlIzc2I5Sll6U2FCTDZoWGxibUxPRGh0b1piMVNtR3pjY2VHa2ZPcndneGJiRVdWZlcweDdISm91X3VGVUxUMVVTbmVR?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "snippet": "Bithumb Announces Crucial AKT Suspension for Major Akash Network Upgrade&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "AKT breakout builds as Akash Network nears major BME upgrade - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcUExbGZCRmkxdzNjeE5MUDRLQ1QtaXlUeERWVHE4TndzaFREMkNkRFVSZ2piaGl4YXRkVWo1eWlqcHgwYS1CQnVxaXIxMmN3cDZZenBVQTNQLTF5MjdVQzducWlZT2hRRnUyMWdsd3V2R3dtVG5ESGJLZ0ZZLXVFX0NmUzBZNHRYSGxlSS05UXBDYnRGOF9OaW5JODVGeFA3aVZTbThxNXlIUndXTHFpRkFLOUlYZURX?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "snippet": "AKT breakout builds as Akash Network nears major BME upgrade&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Akash Network's AI Model Spurs AKT Price Rally - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRG52UF9xRnVKaEthdF96dEdpb0RhVTUzc1ZCUVhnWDA4NEViblBzZXJLWVd0Q3VsQmd6NFBHSXVBc0M3VzBNRVJmVmk2LTA4d1NDa1Y3WGowTFBvdjc2b2U2RWtfS1N3UXFIMUttZXB2UE9HUTNFc0g0WFY5VEZmcVdRZ3lLY01icWNBZjRtM0M?oc=5",
+      "source": "Let's Data Science",
+      "publishedAt": "Sun, 10 May 2026 07:00:00 GMT",
+      "snippet": "Akash Network's AI Model Spurs AKT Price Rally&nbsp;&nbsp;Let's Data Science"
+    },
+    {
+      "title": "Akash AI model fuels AKT’s 17% rally – Daily token volume hits 5B - AMBCrypto",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1ZsZFpOZDJKUGc0cFBQVDJBYkwxbUk5bXJSN0NYM3FHZVZNXzJwalRHd0NBUWZhTl9WeGRVR0dXNXZoQ1pDbDB4dFF3Rjc1X1V1QXNYZC1NZTRDZTZ3Nl9xOW5vd3dhVmdBTGRWTmNPMW0tMjdHUU5fSU5ya1Ywc3AyUnBNanZ6OTMtYdIBkgFBVV95cUxQc0tEQ3FVeEVLXzg1dFVMWmFtSURMRjFLaUF5dHZnNTVsWlBKTlZETVdjR1Y4RDl0MHh0MGZxYmwtSUFuLWVHcjJvNFRlMG8zRWtrS3B5aHlnRlB5Y0RNczZydnNpMnptX2hJdDFScmtQVXdqZl93WFFZTnZvd1dRWmFZckdVcG9ieEt5X2RhdGl2Zw?oc=5",
+      "source": "AMBCrypto",
+      "publishedAt": "Sat, 09 May 2026 07:00:00 GMT",
+      "snippet": "Akash AI model fuels AKT’s 17% rally – Daily token volume hits 5B&nbsp;&nbsp;AMBCrypto"
+    },
+    {
+      "title": "Zero Knowledge Proof (ZKP), Render (RNDR), Akash (AKT), and Filecoin (FIL): Comparing Top Crypto Coins for Real-World Use Cases - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LbzUyRHdpaUlNUHg0azJ5M0VZNVVHZkdGbGNBU01UaWxQZlBBdTlwRW9qNGZvZ3lGbS05dHRUREl4WlljYU10OWZWUFY2RFhqZlkweW5CNThNNFVCdnfSAWNBVV95cUxOTXR6aTZhVlpQZ3gyUmRJQ3YwSWlQclRjY0YwcVZjZkp2YXJUU3ZDazA1N2tMSzhqclJ1TFBrc1BDdllZR211V3lhZ2x1OUpzM3pVVjBoZGtncG9TRUY5MDZqbEk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "snippet": "Zero Knowledge Proof (ZKP), Render (RNDR), Akash (AKT), and Filecoin (FIL): Comparing Top Crypto Coins for Real-World Use Cases&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Upbit Announces Critical AKT Suspension for Major Akash Network Upgrade - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY0V2Zkx2R1J0QWMtTGg2S2F1Vkp5RzYxMnlMczVQVjc5T2tubkFIeGN2a3dZbklxX3lzOEZySHJhbGhwRS14cG4wOE8xR2VNWVpiU0pjSTZxbzJLcV9mSXJGMTd1a3d1Z3Z3S00yajU4VlJEQktiUGppYjcwWHhHbXhB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "snippet": "Upbit Announces Critical AKT Suspension for Major Akash Network Upgrade&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What is SAROS Crypto? SAROS Dominates Gains as AKT and ZEC Bounce - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2tsQy1TRDZoallMVGl0ZFhBSEhyYU9uTWF0ZmVLeW1NSExzSXJRWk1Ca3JtOWVVVklPZEJLc3Y5MmlGQi1Bemt1YXdOREFTck1CUjNDQXhhbldja013Njd5Y1pMQTVXYldZQklVMUxXeTJsWkhvNExVb21tWk5CdVB0MTZvbFE?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Sun, 26 Oct 2025 07:00:00 GMT",
+      "snippet": "What is SAROS Crypto? SAROS Dominates Gains as AKT and ZEC Bounce&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Akash Network to Undergo Hard Fork on March 23rd - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1NaY1M3ZUZSbGdMMHRRV0t1b1JKdXYzdlduT0hRMXl3T2xFbkdpT2FRVExoREpleV95SVhJd2t2c2FIWjJxLXI2bjhqLUF3cEJEbUJjMkNlTHlPSGdNcElxWjFOLUZ0NUlYYU8yMjF5WGI1akl0Nlg1NnF4UHprYUxYLWhfNnZKWEMxUUNmWFktQ1RxT2kzeUp4NDBJWXVTbHlLQkl4aXI5QQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "snippet": "Akash Network to Undergo Hard Fork on March 23rd&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Akash Network (AKT) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wUmZsNHI3WVhYODNuTzFMb2R6cDJxSmJ0bGR5VlYzeEFGa3BFUUNLdXN4alk1c0VlalNhV3h5QUlNd2VsSVNmUmt5Q2xOeWFZQXZhWmhwZ0JTWlhOdGJfREw2TnBRQ1ExTUwyN0o2aWI?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 18 May 2023 13:41:53 GMT",
+      "snippet": "Akash Network (AKT) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/akash-network?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

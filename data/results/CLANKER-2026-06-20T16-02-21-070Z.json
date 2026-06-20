@@ -1,0 +1,195 @@
+{
+  "token": "CLANKER",
+  "exchange": "other",
+  "generatedAt": "2026-06-20T16:02:21.070Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CLANKER",
+    "name": "tokenbot",
+    "generatedAt": "2026-06-20T16:02:13.541Z",
+    "summary": "CLANKER近期因Farcaster收购其AI代币启动平台而暴涨350%，但新闻热度已过，当前缺乏实时价格和成交量数据，无法判断短期走势。项目基本面有亮点（AI+Base生态、回购机制），但估值不透明，流动性风险高。建议观望。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现新的重大利好（如上线主流交易所）或价格突破前高且成交量放大，可重新评估。"
+    },
+    "catalysts": [
+      "Farcaster收购CLANKER代币启动平台（2025年10月新闻）",
+      "代币回购机制制造稀缺性",
+      "AI Agent概念热度",
+      "Base生态发展"
+    ],
+    "latestNews": [
+      {
+        "title": "CLANKER Jumps 350% After Farcaster Acquires the AI Token Launchpad",
+        "impact": "利好",
+        "reason": "收购事件是近期最大催化剂，但新闻已过时（2025年10月），当前影响有限。"
+      },
+      {
+        "title": "Clanker Tokens Buyback: How It’s Driving Scarcity and Ecosystem Growth",
+        "impact": "利好",
+        "reason": "回购减少流通供应，理论上支撑价格，但实际执行情况不明。"
+      },
+      {
+        "title": "Clanker founder rejects Rainbow's offer to acquire Base token launchpad",
+        "impact": "中性",
+        "reason": "拒绝收购显示团队独立发展意愿，但未带来直接利好。"
+      }
+    ],
+    "fundamentals": [
+      "CLANKER是Base链上的AI代币启动平台，允许用户无需编码即可创建代币。",
+      "项目有代币回购机制，部分收入用于回购销毁。",
+      "被Farcaster收购后，有望整合进Farcaster生态。",
+      "代币经济学：总供应量10亿，部分用于生态激励。"
+    ],
+    "marketRead": [
+      "由于Binance限制，无法获取实时价格和成交量数据。",
+      "历史新闻显示2025年10月曾暴涨350%，但此后缺乏更新。",
+      "当前流动性可能较低，价格容易被操纵。"
+    ],
+    "risks": [
+      "新闻热度已过，缺乏新催化剂。",
+      "无法获取实时市场数据，交易风险高。",
+      "项目仍处于早期，代币价格波动极大。",
+      "Farcaster收购整合进度不明，可能不及预期。"
+    ],
+    "watchlist": [
+      "关注CLANKER是否上线主流交易所（如Binance、Coinbase）。",
+      "关注Farcaster生态进展及CLANKER的实际应用情况。",
+      "监控链上交易量和持有者分布变化。"
+    ],
+    "sourceNotes": [
+      "所有新闻均来自2024-2025年，无近期数据。",
+      "Binance API返回451错误，无法获取行情。",
+      "数据可靠性低，分析基于过时信息。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "CLANKERUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CLANKERUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CLANKERFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CLANKERFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CLANKERUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CLANKERUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CLANKERBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CLANKERBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "tokenbot Price Today in India | CLANKER to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0bjliel9oN2JJLVAzNzhfNDlMeDZBXzVWZkJNQWQ0Q0JmM2EycGJTLVZ1TGUyNmRFVjJxcXVzSHlKellrb1FnNExTeTdUUm91ZE0wSEFTWkxtUQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 14 Jun 2026 05:44:00 GMT",
+      "snippet": "tokenbot Price Today in India | CLANKER to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "TokenBot Crypto Price Prediction 2025–2030: Will CLANKER Sustain Its Rally? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUDV2TnNnYlBWbGNmdzR4NWZ4bkpoR3Y3LWhEQ0NiTXY2eTZELVlKcnBvS3NCX1BVcVhpaS11NXVsbTFrLUpkS3VXX3dwQVNtYS1MQXExV2lNbVR1akRicndqLU8yMGFSc3I0UVFVV0xJNzQyclVqLUZ0UUtYemw2ck9URQ?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "snippet": "TokenBot Crypto Price Prediction 2025–2030: Will CLANKER Sustain Its Rally?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "AI Agent tokenbot (CLANKER) Rockets 90%: What’s Behind the Sudden Rally - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ2c0d0FqSFRMNmdDRndqdFVtZFVUNzNKclZYQV9NekNtU2FBdUlfUXJWOWZKSHJ3dUhsSHdlODlNeUczaDMxVHRScnhndVJuM2tSTUxZVFNuQkRfOW5nVlhnYXJsVlVueUdoWDd4X2dIc1lSTDBuTUhZa0FjU3hCdGo5Um53RVFSeno2eUV3?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "snippet": "AI Agent tokenbot (CLANKER) Rockets 90%: What’s Behind the Sudden Rally&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Audiera price today, BEAT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xUE1paXIyY1BzaGtZUFNhQ3pPa3luZ19BS1VwVzhRQzE4UnpfTUlURGkxWWo5azRNQV9wU3lLS21rRFhKYWNJWWluY1pkVHBCN3hUTUNWdnU?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 30 Oct 2025 05:50:57 GMT",
+      "snippet": "Audiera price today, BEAT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Clanker Tokens Buyback: How It’s Driving Scarcity and Ecosystem Growth - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KdDhhd3RZdDhncWFBN0Q0LWU2N0d2dGI2Qm8zdUt4MmhJT3lnYmNYYnBRaTFyYWNoVExqbkpOSGNBQUJlNHNsdXNGWjBwanQtU3ZmMFlyc3RORDQwZTRoSDBwZzFrZmFTLWFWTGtaTFY3eWF5LXVBTWV3?oc=5",
+      "source": "OKX",
+      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "snippet": "Clanker Tokens Buyback: How It’s Driving Scarcity and Ecosystem Growth&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "CLANKER Jumps 350% After Farcaster Acquires the AI Token Launchpad - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT3JCRWs1Q05hV1dVaWo1b3k0VmlHTHdRcFpjdHI1aXVNeVRGVXFicTdpSENVWDZjVzdydERXeDdBUlFxRkZZc2pyZnpvckxINUlkM3NDZE1mOXNDMk1WUU5wZDc4cFgzQmQwc1RDak1YbllCUTAtczZuc19UQzR0eEhB?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "snippet": "CLANKER Jumps 350% After Farcaster Acquires the AI Token Launchpad&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Clanker founder rejects Rainbow's offer to acquire Base token launchpad - The Block",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWXdJTHJlYllTYnpmY1ZnQnBqSmxoZUR0em9xbWdHWTI5TzBZajBhdllBZmVvWDVYQV8xenM5UVlCNUxvUFFBQ3NsVXBoMHZsQktTcFlaZkg0Tm50VV9HZlFEWDJrTm9zM0Z0dDJQbnFYc3p5NVktUmFka09kZG0wMlNOTHZVanlDcHFYYThYNm5pRWc?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 23 Sep 2025 07:00:00 GMT",
+      "snippet": "Clanker founder rejects Rainbow's offer to acquire Base token launchpad&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Clanker (CLANKER) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yOHZSTnhKRG15a1YzeEVvWFkyRkl2anhYVmZTYkpZUWo5ZjZudTc3OHBjYk1GOUQ2d05CUktxZ2k5ZXY2UVNYMW9Ia2pfMk0?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 23 Oct 2025 20:26:34 GMT",
+      "snippet": "Clanker (CLANKER) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "CLANKER Market Growth: How This AI-Powered Platform is Revolutionizing Token Creation - OKX",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15ZFNsUkZ4U2FqSGZEelE3elRLbGFlOXNVNkxqUnlKTEc5YXY2aHc0UWR2WXgtZ1E3bUhCVk5rVFBDQ3JZTkluMkNndFd2Z3RreGNvM3JhZzh4X0g5Z1liejhXaGF2UmM3SVotdFhteWFFNkZ1d09n?oc=5",
+      "source": "OKX",
+      "publishedAt": "Sun, 26 Oct 2025 07:00:00 GMT",
+      "snippet": "CLANKER Market Growth: How This AI-Powered Platform is Revolutionizing Token Creation&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "tokenbot (CLANKER) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iZkFBVVFzY2xxNHp4MXFUT244dmNqbWRobFFLcFVOeXBRZGwzdmx4M1ZlOElfU1VpelNNMFRnNlBwcHkxUENfMTQ1N3JEVzVST3FPckc3STZyVndCR04tV0VfeVVQZXBsajY3RVhVSQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Tue, 26 Nov 2024 10:43:04 GMT",
+      "snippet": "tokenbot (CLANKER) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "tokenbot Price: CLANKER/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtckxvRzRuRFY0X0VWYTkxSDNWbHVValNBeW9qNmQwNTBpQmxtWEtQbEU3bzlNZHhrSmpnY1djamZrUTEzMVVYVlNGNzZBd3g5U2V3R1BPVkw?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Sun, 10 Nov 2024 10:13:20 GMT",
+      "snippet": "tokenbot Price: CLANKER/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Clanker Crypto Hit 30% Candle Amid Base Thrive: The Next Zora? - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEZqa01INWFqelNGSHZZdUpTeW9Qd25FdEJ0WWQwX3AtbVVtX2xLRE9vTGVuZG94Mm1HdGV4LTlZU0pLeUFpbXd4Z2ZDZWlKUlFuUXdPZ3RiZlZVOFFFeGhyaHZJRHEyY240NGVUOVdnR1JEYmRnV3YwN1praEVWejgzd1M2YTR1T0R5Vzl4SGJGU0dMaTB2aDF2ajJBZw?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Tue, 19 Aug 2025 07:00:00 GMT",
+      "snippet": "Clanker Crypto Hit 30% Candle Amid Base Thrive: The Next Zora?&nbsp;&nbsp;99Bitcoins"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/tokenbot-2?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

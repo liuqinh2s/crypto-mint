@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-06-20T13:39:34.142Z",
+  "updatedAt": "2026-06-20T16:02:21.072Z",
   "results": [
+    {
+      "token": "METIS",
+      "name": "Metis",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T16:02:13.153Z",
+      "latestPath": "data/results/METIS-latest.json"
+    },
+    {
+      "token": "HOLO",
+      "name": "Holoworld AI",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-20T16:02:09.578Z",
+      "latestPath": "data/results/HOLO-latest.json"
+    },
+    {
+      "token": "SSV",
+      "name": "SSV Network",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-20T16:02:13.596Z",
+      "latestPath": "data/results/SSV-latest.json"
+    },
+    {
+      "token": "ALICE",
+      "name": "My Neighbor Alice",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T16:02:13.689Z",
+      "latestPath": "data/results/ALICE-latest.json"
+    },
+    {
+      "token": "AKT",
+      "name": "Akash Network",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T16:02:17.985Z",
+      "latestPath": "data/results/AKT-latest.json"
+    },
+    {
+      "token": "CLANKER",
+      "name": "tokenbot",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-20T16:02:21.070Z",
+      "latestPath": "data/results/CLANKER-latest.json"
+    },
     {
       "token": "IOXT",
       "name": "IoTeX",
