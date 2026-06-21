@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-21T06:00:11.601Z",
+  "updatedAt": "2026-06-21T07:16:43.228Z",
   "results": [
+    {
+      "token": "LAB",
+      "name": "LAB",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-21T07:16:43.227Z",
+      "latestPath": "data/results/LAB-latest.json"
+    },
     {
       "token": "EPIC",
       "name": "Epic Chain",

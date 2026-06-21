@@ -1,0 +1,232 @@
+{
+  "token": "LAB",
+  "exchange": "other",
+  "generatedAt": "2026-06-21T07:16:43.227Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "LAB",
+    "name": "LAB",
+    "generatedAt": "2026-06-21T07:16:35.071Z",
+    "summary": "LAB代币近期经历大幅上涨后出现回调，24小时跌21%，但7日仍涨51%。项目为BNB Chain上的DeFi/分析/启动板生态，市值约47.5亿美元，流通量3.13亿枚。上涨催化包括鲸鱼做多、生态整合，但短期超买和空头压力导致回调。建议观望，等待企稳信号。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若价格跌破14美元（近期支撑）或持续放量下跌，则短期上涨逻辑失效。"
+    },
+    "catalysts": [
+      "鲸鱼大量建立多头头寸（CryptoRank报道）",
+      "BNB Chain生态热度及Launchpad预期",
+      "项目作为一站式交易生态的叙事"
+    ],
+    "latestNews": [
+      {
+        "title": "LAB crashes 21% as traders turn bearish – Here’s why prices can fall further",
+        "impact": "利空",
+        "reason": "报道指出价格下跌且交易者看空，可能进一步下跌。"
+      },
+      {
+        "title": "LAB token drops 21.6% as traders lean heavily short amid resistance rejection",
+        "impact": "利空",
+        "reason": "空头主导，阻力位被拒，短期承压。"
+      },
+      {
+        "title": "BNB Chain’s LAB Token Keeps Exploding in a Parabolic Rally: What’s Next?",
+        "impact": "利好",
+        "reason": "抛物线式上涨引发关注，但需警惕回调风险。"
+      },
+      {
+        "title": "LAB token jumps 57% in a week as whales pile into long positions",
+        "impact": "利好",
+        "reason": "鲸鱼做多推动上涨，显示大户信心。"
+      }
+    ],
+    "fundamentals": [
+      "首个一站式交易生态系统，整合交易、分析、资产管理、社区工具",
+      "基于BNB Chain，受益于生态发展",
+      "总供应量10亿枚，流通量约3.13亿枚，流通率31.3%",
+      "市值排名23，约47.5亿美元，FDV约152亿美元"
+    ],
+    "marketRead": [
+      "24小时跌幅21%，但7日涨幅51%，30日涨幅228%，显示前期涨幅巨大",
+      "当前价格15.23美元，距历史高点27.3美元下跌约46%",
+      "成交量3330万美元，相对市值较小，流动性一般",
+      "空头情绪浓厚，短期可能继续回调"
+    ],
+    "risks": [
+      "短期涨幅过大，技术面超买，回调风险高",
+      "空头持仓增加，可能加速下跌",
+      "项目仍较新，基本面验证不足",
+      "代币解锁风险：总供应量10亿，流通仅3.13亿，未来解锁可能带来抛压"
+    ],
+    "watchlist": [
+      "价格能否在14美元附近企稳",
+      "成交量变化，是否缩量止跌",
+      "鲸鱼持仓动向",
+      "BNB Chain生态相关新闻"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取交易对数据，行情数据来自CoinGecko",
+      "新闻来源包括CoinDCX、AMBCrypto、BeInCrypto等，部分为预测性内容",
+      "市场数据截至2026-06-21 07:16 UTC"
+    ]
+  },
+  "profile": {
+    "id": "lab",
+    "symbol": "LAB",
+    "name": "LAB",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "Analytics",
+      "BNB Chain Ecosystem",
+      "Launchpad",
+      "Binance Alpha Spotlight",
+      "Echo Launchpad"
+    ],
+    "homepage": [
+      "https://lab.pro/"
+    ],
+    "description": "LAB is the first all-in-one trading ecosystem, enabling faster execution, the lowest market fees, and a viral incentive layer powered by $LAB. Integrated with existing trading platforms it allows to tap into an established network while creating a unified environment for a new trading experience. LAB brings together trading, analytics, asset management, and community tools for the modern trader. It goes beyond traditional trading by forming a connected ecosystem – delivering a powerful, unified experience for both new and experienced traders.",
+    "marketCapRank": 23,
+    "currentPriceUsd": 15.23,
+    "marketCapUsd": 4748047982,
+    "fullyDilutedValuationUsd": 15191670657,
+    "totalVolumeUsd": 33305156,
+    "priceChange24hPct": 22.06987,
+    "priceChange7dPct": 51.48464,
+    "priceChange14dPct": 15.98276,
+    "priceChange30dPct": 228.01442,
+    "athUsd": 27.3,
+    "athChangePct": -45.99451,
+    "circulatingSupply": 312542846,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 33.33,
+    "watchlistUsers": 12515,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "LABUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LABUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "LABFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LABFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "LABUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LABUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "LABBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LABBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "LAB Price Prediction: Daily, Weekly 2026-2040 - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vajVBOFlLZ1piZVBrRmJVSW9lQXF0UExlMkdrbXBxX1FNaWZjaG5LVUM1a2ZVS2J0ZGllb2tyN3F0ZzFEQzZLZ2pOU0IzdndjT2VVVEpiaXlaand3MmlmVGZMcXRwUnZmTGNrWU9CTE4zTTJKdFotYmtR?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Wed, 17 Jun 2026 10:30:00 GMT",
+      "snippet": "LAB Price Prediction: Daily, Weekly 2026-2040&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "LAB Price, LAB Price, Live Charts, and Marketcap: lab coin price, lab coin price inr, lab coin - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vMEhRd3FzTjUzUVZva3A4YjZ2SzBONkp6YW1hV25zTGlBVC1vUER0US1hZmtTdFZRdVByZm9sY2VuWGNJTGYxcGdqWTNqWFZkWGc?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "snippet": "LAB Price, LAB Price, Live Charts, and Marketcap: lab coin price, lab coin price inr, lab coin&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "LAB crashes 21% as traders turn bearish – Here’s why prices can fall further - AMBCrypto",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVjVLbVgtTjRIRllmSk1PTjNJTWZOdWNTbTkyWll5V2JCa1I3OGdZenIyS3pMcXcxQmNUT2w2Tld2dFRhS2stRXZrTHJoMXZCVTZ6cVFodnJodDBHWmExb1NSVFlnanZqN0diRnY1TkdtZDJyakhUeDBkZTI1bFBhYjRBWHVrR0t0eEtaNHBBaTdhVFlVVWxXWENuVdIBoAFBVV95cUxQbExYRW9fMzdUREtpN09XeWRxQ05TT2FsLWU4NzNqWXdGXzZPUGFNbTMyMUZJLWdiZmhXTWhRM0lLaUpZemFjM2Y1TWxoeHhHN0daTkVySE4zNk5uM1RFSjEtVEcxQ1EtazZ5aktHMGk3UF9WNFJNMEhHX3FxMWItR1lNdU5KVE44bzc0Mkt0aWdfNFVLR19sblJRakxoclJ5?oc=5",
+      "source": "AMBCrypto",
+      "publishedAt": "Sun, 21 Jun 2026 01:00:21 GMT",
+      "snippet": "LAB crashes 21% as traders turn bearish – Here’s why prices can fall further&nbsp;&nbsp;AMBCrypto"
+    },
+    {
+      "title": "LAB token drops 21.6% as traders lean heavily short amid resistance rejection - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2YtVXFzOU54VFgyQ2hDcktwR3JWc2hDWkwwbmR6Zk1FcUdfSlJDMU93ek5OeTQwTHJHRUI1NVBiU0JKckQtS250RWYyNU5fNHhiSml5emVTNnpxamZzUlc1YURJRkFiYWF6TE0zbl9KYkgtOFIxenZySzJSRmZaWWNUYkVjajAxUktlZUgxV3dfczdPT2dpd3lYSU5aaHJwWjdvekt3?oc=5",
+      "source": "Pluang",
+      "publishedAt": "Sun, 21 Jun 2026 01:25:55 GMT",
+      "snippet": "LAB token drops 21.6% as traders lean heavily short amid resistance rejection&nbsp;&nbsp;Pluang"
+    },
+    {
+      "title": "BNB Chain’s LAB Token Keeps Exploding in a Parabolic Rally: What’s Next? - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpd0h4MjNrdFJ2VXdENnVXSWhibTloWFdNejR6bUJ1Nlp1X3JTTlpiNkhpSVEza20yS0hNdFdHbEhQdXkyWUpRYWoyYmNDeHdSZDBPcXRlalRRYU5RdFN1ZHUxeTE4anhhV3czUA?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Thu, 18 Jun 2026 19:49:00 GMT",
+      "snippet": "BNB Chain’s LAB Token Keeps Exploding in a Parabolic Rally: What’s Next?&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "LAB Token Soars 192%—Discover What’s Fueling the Surge! - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uYUlwczZxV2JfWWN5TWZOSlRtcTFkVjhudHFfc3d0Uk1EZUppXzFYNzU4cXJlaHpaMncwUmJuWVd0bXY3azVXS1FGRDhseFlRb3IwdlJIOC1kckM4RkVQeQ?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "snippet": "LAB Token Soars 192%—Discover What’s Fueling the Surge!&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "LAB Price Prediction 2026, 2027-2030 - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fb0FjYm5nYnpXeTBLakZCdjMwNXhMVU5VWGg1QXI1bGIyc0VjVjl4aE03SFZCSXRjenZTZXo3NTJOaEx6dFA1dXpad0tiT2FpcDk2cjVWcmRPU1E?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Thu, 18 Jun 2026 17:07:05 GMT",
+      "snippet": "LAB Price Prediction 2026, 2027-2030&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "LAB token jumps 57% in a week as whales pile into long positions - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVlOX1FGZk9KZVBUZG5CSmF1XzVrSmNxVWR4ZS1pbW1pbVYycDBWa05Cc0w3YnUzX1AtaHBEb3ZyRS13MkJ5dmdCMThfMTcxVTB0dVMweHh0Qlk5YkxYMjdRdVJTNFo3ODJJaHJuVHZHelB0elF0TUtJU01xTjIwU2czejI5WFlDNElBb29wc1BCMTNMS3dVMGFSS1NfSGFOSTlB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 17 Jun 2026 14:09:13 GMT",
+      "snippet": "LAB token jumps 57% in a week as whales pile into long positions&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "BNB Chain’s LAB Token Keeps Exploding in a Parabolic Rally: What’s Next? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DekxCXzlfUklJZWNfSnM0cEtnQS1WTlJBcElvRjdMdWpwcHVQaGFFd0FnMXJHMmFJMlhjSDR6d29LSHM5aXN6NVRoTkxEUG0zMU1IQ1g2eWZINWxsM25FT1c1TdIBY0FVX3lxTE1DekxCXzlfUklJZWNfSnM0cEtnQS1WTlJBcElvRjdMdWpwcHVQaGFFd0FnMXJHMmFJMlhjSDR6d29LSHM5aXN6NVRoTkxEUG0zMU1IQ1g2eWZINWxsM25FT1c1TQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 18 Jun 2026 20:40:05 GMT",
+      "snippet": "BNB Chain’s LAB Token Keeps Exploding in a Parabolic Rally: What’s Next?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "LAB Token Pulls Back After 1,500% April Surge — Data Suggests $4 Likely in May 2026 - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZUs3RjA0N0k4cnJHWG5wNzZYZ2xoUHJNMUY3Y3dQRjBrMzJDQWg5bGN5UWxXemNmZU1jTm5CRkt2Q1BKVXJ2OENVcDFwaS1TODVsNExMdnYyWXJlZ3p1NWVNcEtOS3pvdFEyNE5JcXNrVWxqdVpJTm9MQUpMVEJUb19yam1IOGhNWC1rTHd4Q01ibkc1WVdMZlFpTEFZQQ?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
+      "snippet": "LAB Token Pulls Back After 1,500% April Surge — Data Suggests $4 Likely in May 2026&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "How are AI agents spending your tokens? - Stanford Digital Economy Lab",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazVMbVRBbGxnSEpRUTNvTm5Pd3hfTi1LdklLV2NzbGJDSkNyTExWZXdDV21rTExLVU9VS1dmMk1qdl80RHU5SDRxZlBkQjQwdmlvbjlvMWhWRmVUcUtmTmpRbUNBaDFmdENLc3RpSzMzS3p6cUJ4SXppUVd2RnhsSlhIelZ1RFk?oc=5",
+      "source": "Stanford Digital Economy Lab",
+      "publishedAt": "Tue, 05 May 2026 07:00:00 GMT",
+      "snippet": "How are AI agents spending your tokens?&nbsp;&nbsp;Stanford Digital Economy Lab"
+    },
+    {
+      "title": "Two AI Tokens Lead May Rally, But Risks Are Rising - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aV0FBNVI5ckpzWUpsNDJlSlFBb1VnUFQyMHZia0pnZjdZT1NiUEtFQ0UwUm9qTzA4ekRsQW9yaGYyME9fSTNoZ3c0d0Z3MTNWZ0NJRTdrSGd2TkstY05hOXFGWXJ6ZTJjWGxua2JqLXZXVGNwZFo0?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
+      "snippet": "Two AI Tokens Lead May Rally, But Risks Are Rising&nbsp;&nbsp;Yahoo Finance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
