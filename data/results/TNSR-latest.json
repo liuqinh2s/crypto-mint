@@ -1,0 +1,223 @@
+{
+  "token": "TNSR",
+  "exchange": "binance",
+  "generatedAt": "2026-06-21T05:55:49.271Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TNSR",
+    "name": "Tensor",
+    "generatedAt": "2026-06-21T05:55:40.547Z",
+    "summary": "TNSR近期因Solana NFT市场回暖及项目基本面改善而大幅上涨，但市值低、流动性差，且距离历史高点跌幅超98%，风险较高。",
+    "rating": {
+      "score": 35,
+      "label": "谨慎试仓",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 30,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若价格跌破0.03美元或成交量萎缩，则逻辑失效"
+    },
+    "catalysts": [
+      "Solana NFT市场回暖，Tensor作为头部NFT交易平台受益",
+      "Vector社交交易应用快速增长，年化交易量达75亿美元，为TNSR国库贡献费用",
+      "近期价格突破下行趋势线，技术面看涨"
+    ],
+    "latestNews": [
+      {
+        "title": "Tensor (TNSR) Price Explodes 342% in Bearish Market—Here’s What Might Be Behind It",
+        "impact": "利好",
+        "reason": "显示市场关注度提升，但涨幅过大可能已透支"
+      },
+      {
+        "title": "Tensor (TNSR) Surge: Solana’s NFT Trader Hub Breaks Out in Style",
+        "impact": "利好",
+        "reason": "技术面突破，吸引交易者"
+      },
+      {
+        "title": "Tensor TNSR Price Surges 152% as Solana NFT Rally Brews",
+        "impact": "利好",
+        "reason": "Solana NFT板块整体上涨带动"
+      }
+    ],
+    "fundamentals": [
+      "Tensor是Solana上领先的NFT交易平台，市场份额60-70%",
+      "Vector社交交易应用年化交易量75亿美元，日活2万，增长迅速",
+      "TNSR代币总供应量10亿，流通约3.35亿，流通市值约1138万美元，FDV约3400万美元",
+      "协议费用50%归TNSR国库"
+    ],
+    "marketRead": [
+      "24小时涨幅23.5%，7日涨幅18.5%，但30日仍跌11.6%",
+      "成交量2308万美元，相对市值较大，显示投机活跃",
+      "价格从ATH 2.23美元跌至0.035美元，跌幅98.5%，处于极低位"
+    ],
+    "risks": [
+      "代币全流通，无解锁压力，但市值极低，易被操纵",
+      "新闻热度高但可能已price in，追高风险大",
+      "Solana NFT市场可持续性存疑，若降温则TNSR承压",
+      "Binance数据不可用，流动性数据缺失"
+    ],
+    "watchlist": [
+      "Solana NFT交易量变化",
+      "Vector用户增长数据",
+      "TNSR价格能否站稳0.035美元上方",
+      "是否有新合作或产品更新"
+    ],
+    "sourceNotes": [
+      "Binance数据因地区限制无法获取，价格数据来自CoinMarketCap",
+      "新闻日期为2025年11月，可能已过时，但近期无更新"
+    ]
+  },
+  "profile": {
+    "id": "tensor",
+    "symbol": "TNSR",
+    "name": "Tensor",
+    "categories": [
+      "NFT",
+      "Solana Ecosystem",
+      "NFT Marketplace"
+    ],
+    "homepage": [
+      "https://www.tensor.foundation",
+      "https://www.tensor.trade/"
+    ],
+    "description": "The TNSR token governs the protocols underlying Tensor and Vector. 50% of protocol fees from both products accrue to the TNSR treasury. Tensor launched in July 2022 and is the leading NFT marketplace on Solana, commanding 60-70% of Solana NFT market share. It gained momentum by catering to NFTs traders instead of just collectors with real-time data, pro charting tools, and a fast terminal interface. Vector is the leading social trading app in crypto. Within 3 months of launch, it grew to $7.5 billion of annualized volume and 20k daily active users, both of which are doubling every 1-2 weeks. It generates $75M/year in fees of which 50% goes directly to the TNSR treasury.",
+    "marketCapRank": 1102,
+    "currentPriceUsd": 0.03500673,
+    "marketCapUsd": 11377690,
+    "fullyDilutedValuationUsd": 34003119,
+    "totalVolumeUsd": 23079211,
+    "priceChange24hPct": 23.50592,
+    "priceChange7dPct": 18.53243,
+    "priceChange14dPct": 19.44188,
+    "priceChange30dPct": -11.6257,
+    "athUsd": 2.23,
+    "athChangePct": -98.51058,
+    "circulatingSupply": 334607238.97717,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 12091,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "TNSRUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=TNSRUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "TNSRFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=TNSRFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "TNSRUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=TNSRUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "TNSRBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=TNSRBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Tensor (TNSR) Price Explodes 342% in Bearish Market—Here’s What Might Be Behind It - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ1RrMU1FSHZMY2xyUElXZnNRLVVvWjRIYkxQTnBHaTZEa0ptbUZJRHd5OXhPQlRwZWs0WXF0anR5RUtrcmJEYk5BUlVMN2pyeHdEb2JSZU9qUkYtRVhxNi1teGo2MmNUeVRZVWxoMk1KcU5yZzZaWWlmSXNLbjRvRWZn?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "snippet": "Tensor (TNSR) Price Explodes 342% in Bearish Market—Here’s What Might Be Behind It&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Tensor (TNSR) Price Shatters Its Downtrend With 220% Pump: Next Move Revealed - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVduM2tITENhV0hpbElZZFZQMVF2M1VmWGpCd2RSRy12SzJrc3JQcVVJTlNoajFESHZCa09nNS00cUZIV2JjcVZNQzFud2lHOUd2eEF5aVRheEJib2ZDUlpselA0b2EzTU8tYkYybFBhYnpNRnpKem9MeVgzQW9oV0MxMFlibUVycU54RnZR?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "snippet": "Tensor (TNSR) Price Shatters Its Downtrend With 220% Pump: Next Move Revealed&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Tensor (TNSR) Surge: Solana’s NFT Trader Hub Breaks Out in Style - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaVdjeUdlNGQtTVR3dHlQSy1pbVJ0THJRSy0wVkI4RFcxSnBuWWFuRmlIVDNxVjdzMEZSOVlmd0FIbF95MFZkSGVscU92UUNnQVhueFpNLWxOdk9tdXVJcWx4OEZhdFhWei1qZ1JVdHliNDlUZjQ5dmNpUlNSenZQSDNnSHpSWUFubm92UlVVV1F4UDRoc2ctdFJlUmdaamVrb3RWbXJaam1Dc1dMRjlkS014VmlfMDBaaElHT0JHYkhLenczWXc?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 21 Nov 2025 08:00:00 GMT",
+      "snippet": "Tensor (TNSR) Surge: Solana’s NFT Trader Hub Breaks Out in Style&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "What Is Tensor (TNSR)? The Solana NFT Marketplace Bringing Pro-Level Tools to the Masses - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNHNha0RJMEV3WjE3M2l1TC01SC1ndVlaanhoMmJvQm9wUU5OVVFlZlpjZU5wSkpXbEhjR3RLNjA2ODhDOFhxVlFpbVhvSlVFMTJibTdjcGpaUm9jOFp0OEdMQzV3SFllRjVFRUUwWGJ3VTZRRldiR0lMeWxyOEliWkpEd19nY0lpQmRjY2VXcU05OTZuQ1BIUlZINUhfeTV1LS1LSQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 19 Nov 2025 08:00:00 GMT",
+      "snippet": "What Is Tensor (TNSR)? The Solana NFT Marketplace Bringing Pro-Level Tools to the Masses&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Best Altcoins Under $0.10 To Watch in 2025: Tensor & Verge Technical Analysis - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTjZObWpjMG1XN0hLT1JaTzh5Yms0V1l3MFhaWFVXRWZGOVhmcUJScVNTXzJsa3BVM3RNeFBIOTdVVmYwNXgzUWRpQXVJdFVxTUNHdGoyRDRJSlp4b1pFOWF0ZWhwMklhaG5RSjVpOWhINEFER25WamtzTjNZNG9rZUNGcDZKQlU?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "snippet": "Best Altcoins Under $0.10 To Watch in 2025: Tensor & Verge Technical Analysis&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Tensor Price Prediction: TNSR Breakout Sparks New Interest After Months of Decline - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQek9nZGFmZVVUZ0t2UERUQlg0SnJJSy04X1o2WW1hMzB2S0llVURzdVJlZ01HS2xKNTNGdU1MVW9QQVlHc3RlSThoOFN0MTgxaU1JelFaNkpHdmZOZXhxbDNQZ1VjVzU0V3dkN3R2OHdQRWN2VTdLOVlMYjVXMHNUUFNxcUlydzRJSjJ4bFRxTmpDQ1ZDUVFXb1p4TU95RnpHY2dOaEJJU0dHc1BwR3c3N3dMa2RaanM5Sncw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 21 Nov 2025 08:00:00 GMT",
+      "snippet": "Tensor Price Prediction: TNSR Breakout Sparks New Interest After Months of Decline&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Tensor (TNSR) Surge: Solana’s NFT Trader Hub Breaks Out in Style - Finance Magnates",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDA1ZUVDdHRGV25NUGVIQVRiRDB2cVhhSXZOSXdWU05ORkZSS2R3aHNOUW1qR0lnUFV3bkhZMmhRQVRBbk5aMHJYOXZGNHk0SVE0UVNjMUlRdkJMb01UTldWZUx2WkpWcFVDelVJUUg0aUZxbUs0RmdkU1d0dWZYZHU3TkxfY0tGTGY3UW04LXd0V1RwQlVjNVotbVZLdTg2OERPZw?oc=5",
+      "source": "Finance Magnates",
+      "publishedAt": "Fri, 21 Nov 2025 08:00:00 GMT",
+      "snippet": "Tensor (TNSR) Surge: Solana’s NFT Trader Hub Breaks Out in Style&nbsp;&nbsp;Finance Magnates"
+    },
+    {
+      "title": "Is Tensor TSNR Crypto The Best Crypto To Buy Now? - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWV6YkpJNldkalN3YmlUSktrLWdUeV9JaFVnTmpyNVZqUEVyUTJoUlFEVEpaT3Y0U3Vxc0tFcFlhSXUyeHExQTg4anhDUlJJY3JpOXN0VTVKb2J6WXQ0eHotdG93WjBrdm9VTHMwc0V2THJrOTljclJ6ektveUJjSEIxODhMZmdacjBXUlZKUjFBaUJDc3dLMlpBWFJsbmwtanc?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "snippet": "Is Tensor TSNR Crypto The Best Crypto To Buy Now?&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Tensor TNSR Price Surges 152% as Solana NFT Rally Brews - The Cryptonomist",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrT283TEVPbG5wTDlVUkQ1OFE2QWRrdWpVY24tMUI4QjJueklpUTFtYnBwWnNIWjA1QVVYSVRyaTBKNklXRmIwR2ZzRjhaMzdJT2hhd280UHkxYm5acFdvQ21ERFFWdHZpeGpFY0NXUQ?oc=5",
+      "source": "The Cryptonomist",
+      "publishedAt": "Fri, 21 Nov 2025 08:00:00 GMT",
+      "snippet": "Tensor TNSR Price Surges 152% as Solana NFT Rally Brews&nbsp;&nbsp;The Cryptonomist"
+    },
+    {
+      "title": "Tensor (TNSR) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wamlrMEFIY3l1S1h2VFl3RDRWSHBZM3l3OWtCeF9TTTZucTFncllNRGo2bXdtTjlxcWNUdmh0dXhGOV9BNV9xWHREdFFPcUpXMnFFQzc4aGo0UXBYdTd6LVhDRk1XSXRi?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Mon, 08 Apr 2024 15:55:57 GMT",
+      "snippet": "Tensor (TNSR) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Tensor price today, TNSR to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuOXJmeVlCZ0JOZWVGQlIxdk9COEJIM0FiUERnTkNac0o3QVhNMGFSVHpYeThMaWJKVnZvMkNRZUQ4MGpjRTlyN1liS2ZGTThya2h5dDlGYw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 08 Apr 2024 06:16:52 GMT",
+      "snippet": "Tensor price today, TNSR to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Tensor (TNSR), the Solana NFT marketplace token, soars 152%: here’s why - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYOVhrREdtWVQtQ1pXV2NqOVE3c2NqVnlNaUYyWFVzeFlUVlF0azNoT0NySWJlRko3bXZCeEstWlZfMHU2RWpQaTJqaVpfSEYtQW8wNC1hcVJNSW1RWHc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 21 Nov 2025 08:00:00 GMT",
+      "snippet": "Tensor (TNSR), the Solana NFT marketplace token, soars 152%: here’s why&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

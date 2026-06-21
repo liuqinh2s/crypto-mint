@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-21T02:17:03.704Z",
+  "updatedAt": "2026-06-21T05:55:49.272Z",
   "results": [
+    {
+      "token": "TNSR",
+      "name": "Tensor",
+      "score": 35,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-21T05:55:49.271Z",
+      "latestPath": "data/results/TNSR-latest.json"
+    },
     {
       "token": "XPIN",
       "name": "XPIN Network",
