@@ -1,0 +1,224 @@
+{
+  "token": "EPIC",
+  "exchange": "binance",
+  "generatedAt": "2026-06-21T06:00:11.599Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "EPIC",
+    "name": "Epic Chain",
+    "generatedAt": "2026-06-21T06:00:01.708Z",
+    "summary": "EPIC 24小时涨幅29%，市值约1620万美元，全流通。项目定位旅游RWA，获Ripple等投资，但新闻多为旧闻，近期无重大催化。成交量异常放大但价格波动大，需警惕短期炒作风险。",
+    "rating": {
+      "score": 35,
+      "label": "谨慎试仓",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若24小时内成交量回落或价格跌破0.45美元，则短期上涨逻辑失效。"
+    },
+    "catalysts": [
+      "Ripple等知名机构背书，可能吸引市场关注",
+      "旅游RWA概念，市场想象空间大",
+      "24小时成交量激增，短期资金推动"
+    ],
+    "latestNews": [
+      {
+        "title": "Epic Chain (EPIC) IDO Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+        "impact": "中性",
+        "reason": "旧闻（2025年8月），对当前价格影响有限"
+      },
+      {
+        "title": "Epic Chain (EPIC) Soars as Ripple-Backed Token Bets on $50T RWA Market - DailyCoin",
+        "impact": "利好",
+        "reason": "强调Ripple支持和RWA市场潜力，但也是旧闻（2025年8月）"
+      },
+      {
+        "title": "What Is Epic Chain (EPIC)? - Binance",
+        "impact": "中性",
+        "reason": "科普文章，无新信息"
+      }
+    ],
+    "fundamentals": [
+      "全流通，无解锁抛压",
+      "项目方有Ripple、Algorand等知名机构投资",
+      "商业模式：提供酒店和机票折扣，返现XRP",
+      "覆盖200万+酒店，支持多种加密货币支付"
+    ],
+    "marketRead": [
+      "24小时涨幅29%，但7日跌幅8%，14日跌幅25.5%，波动剧烈",
+      "成交量3234万美元，是市值的2倍，换手率极高，可能存在短期炒作",
+      "Binance数据受限，无法获取具体K线，但CoinGecko显示价格0.485美元，ATH 3.2美元，跌幅85%"
+    ],
+    "risks": [
+      "新闻均为旧闻，缺乏近期催化，上涨持续性存疑",
+      "成交量异常放大可能是短期资金博弈，风险较高",
+      "项目知名度低，市值小，流动性风险",
+      "旅游RWA赛道竞争激烈，落地效果待验证"
+    ],
+    "watchlist": [
+      "关注是否有新合作或产品上线公告",
+      "观察成交量是否持续放大",
+      "监控价格是否站稳0.5美元以上"
+    ],
+    "sourceNotes": [
+      "Binance数据因地区限制无法获取，价格和成交量来自CoinGecko",
+      "新闻多为2025年，时效性不足",
+      "项目基本面信息来自CoinGecko简介"
+    ]
+  },
+  "profile": {
+    "id": "epic-chain",
+    "symbol": "EPIC",
+    "name": "Epic Chain",
+    "categories": [
+      "Tourism",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Payment Solutions",
+      "RWA Protocol"
+    ],
+    "homepage": [
+      "https://www.epicchain.io/"
+    ],
+    "description": "Epic is the travel layer for crypto, giving crypto holders access to hotels and flights at up to 30% discount vs Booking.com. Inventory is sourced directly from over 100 wholesale travel suppliers, providing access to pricing that has historically been unavailable to retail consumers. The platform covers 2M+ hotels worldwide including Marriott, Aman, and Hilton properties, alongside flights across 180 countries. Every booking earns up to 8% cashback paid in XRP. All major cryptocurrencies are accepted alongside traditional payment methods including Visa, Mastercard, and Apple Pay. EPIC holders with $10,000 or more access Epic Concierge, a dedicated travel service providing end-to-end trip planning and further discounted rates, at no additional cost. Epic was founded as Ethernity, having advised the United States Space Force, Lionel Messi, Shaquille O'Neal, and Toys R Us on digital asset distribution at scale. The company has raised more than $20 million and is backed by Ripple, Algorand, Polygon, Chainlink, CEFFU, and BRINKS.",
+    "marketCapRank": 923,
+    "currentPriceUsd": 0.485177,
+    "marketCapUsd": 16193758,
+    "fullyDilutedValuationUsd": 16193758,
+    "totalVolumeUsd": 32343205,
+    "priceChange24hPct": 29.11057,
+    "priceChange7dPct": -8.04381,
+    "priceChange14dPct": -25.52785,
+    "priceChange30dPct": 59.01745,
+    "athUsd": 3.2,
+    "athChangePct": -85.03988,
+    "circulatingSupply": 33600000,
+    "totalSupply": 33600000,
+    "maxSupply": 33600000,
+    "sentimentVotesUpPct": 50,
+    "watchlistUsers": 26802,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "EPICUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EPICUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EPICFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EPICFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EPICUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EPICUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EPICBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EPICBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Epic Chain (EPIC) IDO Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CQ0ZnbWRjczBfeVVvdnk0UF9NTE94ZDhtQjBQVnNuSTF2cjhOYUp6MlhXMVhRVkJ6VVVBXzZNZXJtYi1hbV93ZEVIbms?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 18 Aug 2025 23:09:21 GMT",
+      "snippet": "Epic Chain (EPIC) IDO Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Yooldo ($ESPORTS) Plummets 93% in Epic Crash: Team Insider Dump Suspected - CryptoTicker",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GdkpwSW9SbWpzSERpY3dvcWV3OWxhWVhPWjM2cHVQczRkNDN3WU9JcUc3RFFMWlJ5cFV1YkZlbi1jM0hnZ3VPS1lVLTVYbVZlUkhGWmhNakhMSWlmXzJPR1dMQ3A5M2g4SFRHUTQxbUpZdExYd3c?oc=5",
+      "source": "CryptoTicker",
+      "publishedAt": "Mon, 25 May 2026 07:00:00 GMT",
+      "snippet": "Yooldo ($ESPORTS) Plummets 93% in Epic Crash: Team Insider Dump Suspected&nbsp;&nbsp;CryptoTicker"
+    },
+    {
+      "title": "What Is Epic Chain (EPIC)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OeUliczY5d010d01JZi1nYmFJSWMzalNoLVQwZkM2Q20wakUwU25mSE1zdUd3XzByY2ltcVFLckRCc1VwMEZWV3BScGJncGx1a3g5Z00tWEYtS2VQdk1zMjNQSTBpaDZOQzZqS1gtcjBVWDdPNFE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "snippet": "What Is Epic Chain (EPIC)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What is Ethernity Chain (ERN)? - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EcVZ3OTgyN2Z2OGI4MDJfX3VMWnAyRVJvUzRGQ1VmZ1ZTOHVIQjBsVVkxaVpmc1d4Q3V3blNCQ1JENS1QZl8yTmtBbFJXZ1AydlIxZDVpNTVXSUxYVkFaLUtLWQ?oc=5",
+      "source": "OKX",
+      "publishedAt": "Thu, 25 Dec 2025 08:00:00 GMT",
+      "snippet": "What is Ethernity Chain (ERN)?&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Epic Chain (EPIC) Soars as Ripple-Backed Token Bets on $50T RWA Market - DailyCoin",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEZMUHdMR2hRZEdYN0wxZ3pPOTBkUE8wUDNURVo5ajYwUjVyV3FTbl96eERKci15am9HODBqVjRMakRGdGw4VEV6WHJBMUdzeWF0T0p0STRtYi1mRXM1emRSSzMwTGZobmxySUVGa1NzSXhtdU83LTU1cTI5TUxhVkJYUkx1bXAtZ1dVTmhKRW9jMWwy?oc=5",
+      "source": "DailyCoin",
+      "publishedAt": "Tue, 19 Aug 2025 07:00:00 GMT",
+      "snippet": "Epic Chain (EPIC) Soars as Ripple-Backed Token Bets on $50T RWA Market&nbsp;&nbsp;DailyCoin"
+    },
+    {
+      "title": "Epic Chain Price: EPIC/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QQ1ZQRnlCWXNkTHFVSlFlb2JCcjk5NGE3SzQ3MHhWRHhnS3RPd1FzMTNWXzRGYkg5OXJvQmE2ZDZMRzNKSXI3bHdnM0tzcnAtbzFVN09TYmk?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 06 Mar 2025 08:03:48 GMT",
+      "snippet": "Epic Chain Price: EPIC/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Top Real World Assets Protocols Tokens by Market Capitalization - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pRVB0MC1RWnVBV2dVYUg5eGtWQldUaktNT25OZ3ZETEdxbGNOYy1JNFRoaEVTaVNobGNfNUkyRmVXN2tIZF9KcmFFa0lNQXJKdzRvVjFBZGRTOEF0LVZVNkt3R2JFa01NTExV?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 18 Jul 2025 08:59:28 GMT",
+      "snippet": "Top Real World Assets Protocols Tokens by Market Capitalization&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Epic Chain Price Today | EPIC to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NR3dndFVqcFNrVFprRDIyMnFqVXctcHp3Yk13VERWZDRWcE1oQWlJYVZyOUJXdHhjTEJsYUs5d2hGSF9Odzk2cmxLZ2p4ZHN5NkFobDZ0Ry1ydw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "snippet": "Epic Chain Price Today | EPIC to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Ripple’s (XRP) 3 & 6 Month Frame Predicts Epic Rally: Details - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaG9HSDZ3eEtyb0w1VnFJb1Z1UzlPZzdvR01KbWVKZXJqUm82Z1d6VjItd3RLYjYydVlBME9Ta1hIRHQ2LXZ3dVpaQXlHV2tVQjFHQnUyTXlSS2NZaDRjbWhjOXU3c0pXUkIwbnFiR0FJN0FINnczdUxqbDJNak1NbDEtWFYzODVGQ2RJQm1fN19sbGRQWWZ3eg?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "snippet": "Ripple’s (XRP) 3 & 6 Month Frame Predicts Epic Rally: Details&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "“Incredible Success\", Declares Cardano’s Boss As Midnight (NIGHT) Breaks Into TOP 10 Most Traded Coins - DailyCoin",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbVV1djU0VmVIWFNVV2ZfRE5OMVJYTkpWbGczYkhHbHZXZHpvZDZmOEhfdWdOV0o1RGJ1NDIwaHhQY3g5ZUJldzVUWEZKM0VfaVJBcUtaNFhDWEFZWl9tN3RBeXhJUmpvQzZSSG9oWWpnQ2NFMUhULVFqVXJFVHZrUW11Q1E?oc=5",
+      "source": "DailyCoin",
+      "publishedAt": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "snippet": "“Incredible Success\", Declares Cardano’s Boss As Midnight (NIGHT) Breaks Into TOP 10 Most Traded Coins&nbsp;&nbsp;DailyCoin"
+    },
+    {
+      "title": "Crypto PM(@CryptoPM)'s insights - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yNGhTUlliUEo0cHJTUEdZVHB2dXVCTHhwV0xfRmhxcHhGTVJUaGF1MXhmbHUtTkFRcWE2WkUtRHFFVkhqYU1pVjVzclJaRW42MEc2akp5REJJSlBEWVM3TkxLZw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 13 Sep 2025 07:00:00 GMT",
+      "snippet": "Crypto PM(@CryptoPM)'s insights&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Epic Chain Price | EPIC Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vRjF0dUxkdEtRMnVFQ1dVTmoxdllvWkRXNTQtcU9VY0dMZHJNTk13VTV6X0lvcHdEcm1xdVV3cENyQTQ3dFI2NUV3Z1NuSTQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 13 Mar 2025 11:51:33 GMT",
+      "snippet": "Epic Chain Price | EPIC Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
