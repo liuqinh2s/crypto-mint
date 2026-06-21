@@ -1,0 +1,213 @@
+{
+  "token": "STRAX",
+  "exchange": "binance",
+  "generatedAt": "2026-06-21T08:58:07.872Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "STRAX",
+    "name": "Xertra",
+    "generatedAt": "2026-06-21T08:58:01.029Z",
+    "summary": "STRAX近期因Binance交易大赛及品牌更名为Xertra等消息刺激，24小时涨幅超31%，但基本面薄弱，市值仅约2670万美元，且距离历史高点跌幅超99.9%，需警惕短期炒作风险。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若成交量萎缩或价格跌破0.01美元，则上涨逻辑失效"
+    },
+    "catalysts": [
+      "Binance STRAX交易大赛（200,000 USDC奖池）于2026年6月4日启动，可能吸引短期交易量",
+      "品牌更名为Xertra，可能带来市场关注度提升"
+    ],
+    "latestNews": [
+      {
+        "title": "Join the Binance STRAX Trading Tournament To Share in 200,000 USDC Token Vouchers",
+        "impact": "利好",
+        "reason": "交易大赛直接刺激交易量和价格，但属于短期事件"
+      },
+      {
+        "title": "Essential Guide: Bithumb’s Strategic Stratis (STRAX) Name Change to Xertra",
+        "impact": "中性",
+        "reason": "品牌更名可能带来短期热度，但基本面未变"
+      }
+    ],
+    "fundamentals": [
+      "项目原为Stratis，现更名为Xertra，定位区块链开发平台，基于C#语言",
+      "市值约2670万美元，排名683，流通供应量约21.78亿枚，无最大供应量上限",
+      "24小时涨幅31%，但30日跌幅2.1%，长期表现疲软",
+      "距离历史最高价22.77美元跌幅超99.9%，说明项目已严重衰退"
+    ],
+    "marketRead": [
+      "24小时涨幅31%，成交量约2752万美元，与市值相当，换手率极高，显示短期投机情绪浓厚",
+      "由于Binance API限制，无法获取详细K线数据，但价格波动剧烈，需警惕回调风险"
+    ],
+    "risks": [
+      "项目基本面薄弱，长期发展不明朗，团队动态不清晰",
+      "交易大赛结束后，买盘可能迅速消退，价格有大幅回落风险",
+      "无最大供应量上限，存在通胀压力",
+      "历史跌幅巨大，市场信心不足"
+    ],
+    "watchlist": [
+      "Binance交易大赛的参与度和成交量变化",
+      "项目团队是否有实质性进展或合作公告",
+      "价格是否跌破0.01美元支撑位"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取实时交易数据，价格和成交量来自CoinGecko",
+      "新闻来源为Google News聚合，部分内容时效性较差"
+    ]
+  },
+  "profile": {
+    "id": "stratis",
+    "symbol": "STRAX",
+    "name": "Xertra",
+    "categories": [
+      "Smart Contract Platform",
+      "Proof of Stake (PoS)"
+    ],
+    "homepage": [
+      "http://xertra.com/"
+    ],
+    "description": "Stratis is a powerful and flexible Blockchain Development Platform designed for the needs of the real world financial services businesses and other organisations that want to develop, test and deploy apps on the blockchain. Stratis significantly simplifies the development process for creating Blockchain applications and accelerates the lifecycle for Blockchain development projects. Stratis private chain allows businesses to deploy their own customise blockchain without the costs of running their own blockchain network infrastructure. The vision of the Stratis platform is to become a one-stop shop for all blockchain things, mostly becoming a blockchain-as-a-service (BAAS) platform. Technology-wise, it is a clone of Bitcoin’s core code, with a few enhanced features and written in C# language instead of C++. The team is based in the United Kingdom but has a decentralized structure with members spreading across the world. Several people on their management team are well-versed in enterprise software development using .NET and C# – a positive sign considering those are the project’s two primary languages. Chris Trew, the founder and CEO, has over 10 years of experience in enterprise IT ",
+    "marketCapRank": 683,
+    "currentPriceUsd": 0.01215152,
+    "marketCapUsd": 26719154,
+    "fullyDilutedValuationUsd": 26720045,
+    "totalVolumeUsd": 27522667,
+    "priceChange24hPct": 31.31748,
+    "priceChange7dPct": 29.30638,
+    "priceChange14dPct": 38.76845,
+    "priceChange30dPct": -2.11401,
+    "athUsd": 22.77,
+    "athChangePct": -99.94163,
+    "circulatingSupply": 2177735255.96052,
+    "totalSupply": 2177807884.236032,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 16154,
+    "genesisDate": "2016-08-09"
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "STRAXUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=STRAXUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "STRAXFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=STRAXFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "STRAXUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=STRAXUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "STRAXBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=STRAXBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Essential Guide: Bithumb’s Strategic Stratis (STRAX) Name Change to Xertra - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTVzVlZEUxaHZERE5PWmVmd0lQaFZWak44WXdNdl9VSmMtVVZGSU56RDhNQkFpV1UwTHYtSzhBek5hazdTUTRmWV9WOTFXNGJzSUx6Q1lLVlAza2U2d1JrVjJRRVRoV25wSmhxZDJDUUhwcDBSS0xHSzVOZw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "snippet": "Essential Guide: Bithumb’s Strategic Stratis (STRAX) Name Change to Xertra&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Xertra price today, STRAX to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXWGdCR29yNlhRWmt5ZDhFd0t5dm0teF9zdnFnTXY5aC1SaDdwbEdYVDV3eUVhQUQ0QllmTjd4bWstdzFpM04yUllPbXZTYlozcGxFV18wSWtGYUJQbWc?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 28 Mar 2024 11:57:34 GMT",
+      "snippet": "Xertra price today, STRAX to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Efinity Token Price Today | EFI to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jU3prd2JKUGh0VmxxbWNxVGVKeW5kYXo3T3dUNTZZV0hxMGdhTGIwUGNMWm0waVVJb3pCcmF0NzI4U3ZvdnVYR3RZZ2V3ekQtRnhnMVFB?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 31 May 2026 10:02:00 GMT",
+      "snippet": "Efinity Token Price Today | EFI to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Xertra Price, STRAX Price, Live Charts, and Marketcap - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03NWhIZnUzd2FxUFBhVDVwMF9ULUtoRk5yREhwWlYwYUZob0ZROVY2QXZKREk0MG5GU0hLOUhIQzZXVVFFWi1waTRYMEVtTjFKbkRJMDRJME9JNmR5?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Mon, 21 Apr 2025 11:42:16 GMT",
+      "snippet": "Xertra Price, STRAX Price, Live Charts, and Marketcap&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Xertra (STRAX) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xaHJnQlRKZW9YTEEwSnJhWVhSX0dZeC1qYm4tR05CYVpjMnlYWnJiR1RPRVdwcUFXVFZhR2h1aXppeV8zYUtFejJXRVFXd1E4NGljMHlETlV4MU9YSkxvelVPWU9qQnQxdk9z?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 15 Sep 2022 21:21:26 GMT",
+      "snippet": "Xertra (STRAX) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Empulser Price Today in India | CPT to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JZjV0eW84S1VFck5pcEwxZVRDRWV1RmxuUTlBcURPckFJaTFVd1dKcjh0aWdQamJnTUpqZHRrbFU1cUtKcFlvM1REODdnZ193NW4xaWZ3WQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 31 May 2026 09:37:00 GMT",
+      "snippet": "Empulser Price Today in India | CPT to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Join the Binance STRAX Trading Tournament To Share in 200,000 USDC Token Vouchers - Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qR1pRYlRicExQb0Y1dXdkbmJpSTlTYWdnbTRDd3FUZFpLN2xYTTFleGNWakJ3VXdfQklzdzE2QlFnU0N4TmN3T3ZTNU9HNDBrcTFZbG9zVkhmRV9TNGE2WHlKVTl3eGVTYU9yaUJXS3TSAXBBVV95cUxNakdaUWJUYnBMUG9GNXV3ZG5iaUk5U2FnZ200Q3dxVGRaSzdsWE0xZXhjVmpCd1V3X0JJc3cxNkJRZ1NDeE5jd092UzVPRzQwa3ExWWxvc1ZIZkVfUzRhNlh5SlU5d3hlU2FPcmlCV0t0?oc=5",
+      "source": "Ventureburn",
+      "publishedAt": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "snippet": "Join the Binance STRAX Trading Tournament To Share in 200,000 USDC Token Vouchers&nbsp;&nbsp;Ventureburn"
+    },
+    {
+      "title": "Acolyt Price Today in India | ACOLYT to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HSEJBVFdkWlh3SER3aUNIdUlreC1fYzF6cUtwdVp6bXFvSUV0ZDNrX0d1ZXN3SjA2Mm45ZFhhd0tGSWdnN1kweThSN1VqVmRMbW5NSFprbTF2R2VBeXNPWXVYUjJtdw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 31 May 2026 13:59:00 GMT",
+      "snippet": "Acolyt Price Today in India | ACOLYT to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Mantle (MNT) Price Prediction 2024-2030: Will MNT Price Hit $10 Soon? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45cGF0a29GRnRfMXBSbF81TW5GWVFfWDlpZGg3cGwtd09nbkwwdkJieVB0RzAycUQ4dWlUMTZYV1k3X1FEUkZMSHByTDE3QUtROHdvSjJYdTdOQ0wzYUdFTDU2N0tyTklYVXNFRmFhMnd0ZFE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 28 Mar 2024 07:00:00 GMT",
+      "snippet": "Mantle (MNT) Price Prediction 2024-2030: Will MNT Price Hit $10 Soon?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "BOBO Price Today in India | BOBO to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pVk5PZFVGRmZyOHJEU0lxQm9ZQ3VDVGNzcVhTbU9kUWVIR0NKRVhaQ1ZweGpPZExhZlluSGY2UF9aakhfMmRQWWhnek00TFRRUUtkUUd0Unk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 31 May 2026 09:10:00 GMT",
+      "snippet": "BOBO Price Today in India | BOBO to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "RAI Token Price Today | RAI to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ienh3bnZnR1NQNTNzZlVoMi1RRGE3ak54aTNmdWVnbmtxUVk5UXZVc3hFQUlRZ0ZlODdpNmJzN25YdWtYUjN1RVFnTmJZdHJqUFd3eQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 24 Nov 2025 08:00:00 GMT",
+      "snippet": "RAI Token Price Today | RAI to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Xertra Price Today | STRAX to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2TGpLa0VyQ1dCQWh6WWJKX2t1dktKdmJaWHJlQmR2d2FwZE40cXRtNkV2RVU4RG0wUGlLTWJjMncxd3g4SW5PQnNmQTlRQmRReXoxSUtpdw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 28 Mar 2024 07:00:00 GMT",
+      "snippet": "Xertra Price Today | STRAX to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
