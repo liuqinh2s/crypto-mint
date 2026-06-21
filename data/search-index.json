@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T16:02:12.341Z",
+  "updatedAt": "2026-06-21T16:17:00.672Z",
   "results": [
     {
       "token": "RUNE",
@@ -7,25 +7,25 @@
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-21T16:02:05.725Z",
+      "generatedAt": "2026-06-21T16:16:54.129Z",
       "latestPath": "data/results/RUNE-latest.json"
     },
     {
       "token": "COW",
       "name": "CoW Protocol",
-      "score": 25,
+      "score": 30,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-21T16:02:05.784Z",
+      "generatedAt": "2026-06-21T16:16:52.833Z",
       "latestPath": "data/results/COW-latest.json"
     },
     {
       "token": "PHA",
       "name": "Phala Network",
-      "score": 30,
+      "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-21T16:02:05.510Z",
+      "generatedAt": "2026-06-21T16:16:52.037Z",
       "latestPath": "data/results/PHA-latest.json"
     },
     {
@@ -33,26 +33,26 @@
       "name": "Compound",
       "score": 30,
       "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-21T16:02:04.245Z",
+      "action": "不买",
+      "generatedAt": "2026-06-21T16:16:50.889Z",
       "latestPath": "data/results/COMP-latest.json"
     },
     {
       "token": "ALCH",
       "name": "Alchemist AI",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "观察",
-      "generatedAt": "2026-06-21T16:02:10.718Z",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-21T16:16:58.949Z",
       "latestPath": "data/results/ALCH-latest.json"
     },
     {
       "token": "CBRS",
-      "name": "Cerebras Systems (Ondo Tokenized)",
-      "score": 10,
-      "label": "强烈回避",
+      "name": "Cerebras Systems (Derivatives)",
+      "score": 30,
+      "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-21T16:02:12.339Z",
+      "generatedAt": "2026-06-21T16:17:00.668Z",
       "latestPath": "data/results/CBRS-latest.json"
     },
     {
