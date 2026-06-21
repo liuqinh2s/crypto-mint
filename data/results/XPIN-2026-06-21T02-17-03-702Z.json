@@ -1,0 +1,227 @@
+{
+  "token": "XPIN",
+  "exchange": "other",
+  "generatedAt": "2026-06-21T02:17:03.702Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "XPIN",
+    "name": "XPIN Network",
+    "generatedAt": "2026-06-21T02:16:55.607Z",
+    "summary": "XPIN近期上涨主要受DePIN赛道热度、Binance Alpha Spotlight效应及KuCoin上线等催化，但基本面较弱，流通市值仅约2000万美元，FDV高达1.3亿美元，代币解锁压力大，建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若价格跌破0.001美元或出现大额解锁公告，则逻辑失效。"
+    },
+    "catalysts": [
+      "DePIN赛道整体热度上升",
+      "Binance Alpha Spotlight入选带来曝光",
+      "KuCoin首发上线（2025年8月）",
+      "社区投票支持率100%"
+    ],
+    "latestNews": [
+      {
+        "title": "XPIN Network Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast - Binance",
+        "impact": "中性",
+        "reason": "仅为预测文章，无实质利好。"
+      },
+      {
+        "title": "XPIN Token (XPIN) Gets Listed on KuCoin! World Premiere! - KuCoin",
+        "impact": "利好",
+        "reason": "上线主流交易所增加流动性和曝光。"
+      },
+      {
+        "title": "XPIN Network Withdrawal: Everything You Need to Know About Token Access and Features - OKX",
+        "impact": "中性",
+        "reason": "提现功能说明，无价格影响。"
+      }
+    ],
+    "fundamentals": [
+      "去中心化无线网络平台，属于DePIN赛道",
+      "基于BNB Chain生态",
+      "总供应量1000亿枚，流通量154.65亿枚，流通率仅15.5%",
+      "FDV是市值的6.5倍，解锁压力巨大",
+      "ATH为0.009999美元，当前价格较ATH跌86.85%"
+    ],
+    "marketRead": [
+      "24小时涨幅48.36%，7日涨幅163.77%，短期涨幅巨大",
+      "成交量约362万美元，相对市值（2030万美元）换手率约18%，交投活跃",
+      "Binance数据因地区限制无法获取，但其他交易所显示价格波动剧烈"
+    ],
+    "risks": [
+      "高通胀风险：总供应量1000亿，流通仅15.5%，未来大量解锁",
+      "FDV过高：完全稀释估值1.31亿美元，当前市值仅2030万美元",
+      "缺乏实质性应用进展：项目描述笼统，无明确用户数据或合作伙伴",
+      "新闻多为预测或上线公告，无近期重大利好",
+      "价格已大幅上涨，追高风险大"
+    ],
+    "watchlist": [
+      "代币解锁时间表及公告",
+      "项目实际用户增长或合作伙伴消息",
+      "Binance是否上线现货交易对",
+      "DePIN赛道整体走势"
+    ],
+    "sourceNotes": [
+      "Binance API因地区限制无法获取交易数据，价格数据来自CoinGecko",
+      "新闻多为2025年，时效性不足",
+      "无链上数据或项目进展报告"
+    ]
+  },
+  "profile": {
+    "id": "xpin-network",
+    "symbol": "XPIN",
+    "name": "XPIN Network",
+    "categories": [
+      "Communication",
+      "BNB Chain Ecosystem",
+      "DePIN",
+      "Binance Alpha Spotlight"
+    ],
+    "homepage": [
+      "https://www.xpin.network/"
+    ],
+    "description": "XPIN Network is a revolutionary Decentralized Wireless Network Platform designed to redefine global connectivity. By leveraging cutting-edge blockchain technology, XPIN Network provides secure, private, and encrypted communication solutions, empowering users to connect seamlessly worldwide without relying on traditional telecom infrastructure.",
+    "marketCapRank": 823,
+    "currentPriceUsd": 0.00131788,
+    "marketCapUsd": 20301347,
+    "fullyDilutedValuationUsd": 131272855,
+    "totalVolumeUsd": 3620081,
+    "priceChange24hPct": 0.4836,
+    "priceChange7dPct": 1.63767,
+    "priceChange14dPct": 10.20696,
+    "priceChange30dPct": 8.32769,
+    "athUsd": 0.00999923,
+    "athChangePct": -86.85029,
+    "circulatingSupply": 15465000000,
+    "totalSupply": 100000000000,
+    "maxSupply": 100000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 3586,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "XPINUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=XPINUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "XPINFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=XPINFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "XPINUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=XPINUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "XPINBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=XPINBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "XPIN Network Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmbXE5MXV2cmFWWEtkTzRkSko5U0ZsbXVJR3c0anNfbUFwRzdCc1RwVEh4UnRyMVJubTJTYTBTNkRGNVRJNUJnRXBvbHZBZkREdnh4NWYyZmNyLU1rX2tWWlNBQk5PLU0?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 16 Jun 2026 23:50:00 GMT",
+      "snippet": "XPIN Network Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "XPIN Network Price Prediction: Is XPIN Coin a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFQ3U0RDdEROYTZmaURnTGFSaHEzQU5qc1I0V3k2bW8yN19MTTlnN1Q2aGl4SzlNQnFtNkNlWWJwV3g1TjZlc3RxRTVNUVBuUGtpdVY2dWtoWG0zOTM2Vk9EVjFlQ09UN3Nzdk50N1N5bXVzQVp0MGdPTHA5Z1k0U0gwYzI1dnRvbThUT3lIQks?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Mon, 27 Oct 2025 07:00:00 GMT",
+      "snippet": "XPIN Network Price Prediction: Is XPIN Coin a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "XPIN Network Price: XPIN/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WNXdLVldzbC1TZFBiNmd1NXFIMWNzVkpsSFpFRGZxTXhmWEdObTZZVHhrUnJLOEhkc1BQUFczVVVLRGxobndSNFFXRk9yUkM3R2x1MHl4ZFMwZzg?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Wed, 20 Aug 2025 22:42:21 GMT",
+      "snippet": "XPIN Network Price: XPIN/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "XPIN Network Withdrawal: Everything You Need to Know About Token Access and Features - OKX",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91ZlRvb0VGMjFrd01PTlBQV1hkU3kwajBlTVFkNEdTaXlKa0d3bnhEU1IwUktOS1Nud0J4WjVxSUxNb0o0blZzSTI0T2VtdnFvemNlODNzREFZLWNjQlJVSldITkRBcnZmNjRjZkNYdG02ekM2NzQ4?oc=5",
+      "source": "OKX",
+      "publishedAt": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "snippet": "XPIN Network Withdrawal: Everything You Need to Know About Token Access and Features&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "XPIN Token price today, XPIN to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xUXQxcmVfT3VMMmVlWDgxMXJZSDQ1RVA2cU5GWUJ6LV9QTnFxZWx0Znp0c0dJV2N5LVE5UHV1RFpuUkoyXzctd2NCaDFpNmxXdWVR?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 17 Oct 2025 10:32:06 GMT",
+      "snippet": "XPIN Token price today, XPIN to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "XPIN Network Price | XPIN Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kWDJHX2lIUC1VdzA0dGJjcFRPUGhqNUJuS1dBT3BvRmlCazNCUGk0aGY0VWhZVFgtRjJwekdld1M1S0g4RUtFeFdqVkF5X1N2Z1E?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 23 Aug 2025 07:00:00 GMT",
+      "snippet": "XPIN Network Price | XPIN Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "XPIN Network Price, XPIN Price, Live Charts, and Marketcap: idx:xpin, xpin crypto price - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tV2pyLWdzdFpxSjJ5d0VwV2ZKYXA4Y0pOcFJCbjIxNE9YOGxPeWRQQWZYVGhmNWFjb1Y2UlZLdFdVYWJDSUFDdm5MTlRSMFFoT2RBanBR?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Sat, 23 Aug 2025 11:09:52 GMT",
+      "snippet": "XPIN Network Price, XPIN Price, Live Charts, and Marketcap: idx:xpin, xpin crypto price&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "What is XPIN Network (XPIN) Coin? - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wZHZ5b0c2R2M2S2NxMklTcU42ZHRXSDBEeVVDcjRQR0hBd2x3eFByU0hqYmpVaGxtYWlYS25JWUtNR1FaTTkyc0c4cXIyWFRrdVp1QnROblBLV1Q3LWxfdW44enFUeTVJVmpQRWVJTjNjODZrenpodFJR?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Tue, 26 Aug 2025 07:00:00 GMT",
+      "snippet": "What is XPIN Network (XPIN) Coin?&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "XPIN Token (XPIN) Gets Listed on KuCoin! World Premiere! - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTJnTWtEcGpJNTNLc0dvbUp4bE5tRmxFZUh0LUo1aGlPbjJjbWY2NUFDRGJtdEFVMmFVMldZQW1SV3VlaFQyaHJBdEgweEtBTWIxZzNWQ1M1MGpLMEdoU1RlM05UZTliTUFyekplNzdCend5M2pOallWdXRlRWx6eE8wcmFlaXlsN0l6MTNCY191LUdFdHc?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Thu, 21 Aug 2025 07:00:00 GMT",
+      "snippet": "XPIN Token (XPIN) Gets Listed on KuCoin! World Premiere!&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "XPIN Network Price Today | XPIN to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BWDlHQlFGNEJoMHhOUUlFa3RNMUVPbHRmOXVhczB6Z1BkYlhWVU1qX2FaUkhFLVRLVlZrSmd0eGY5T0lZSnk0c09JWVJ5X1ZrMTVLTUQ2Z2k?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 24 Aug 2025 20:19:12 GMT",
+      "snippet": "XPIN Network Price Today | XPIN to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "XPIN Network Price Today: Live XPIN to INR Price Chart & Market Data in India - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrMWo2Q1lobXZoYzlIcVFGRTBQVWl6WUFpQnlfNWNveWw5VHU3Y2VBel80dVZXT0NNcnJvc24yM2F0TnF2TUpxY21HTEY?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Tue, 19 Aug 2025 04:24:02 GMT",
+      "snippet": "XPIN Network Price Today: Live XPIN to INR Price Chart & Market Data in India&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "XPIN Network price today, XPIN to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuOXYtZkF6LXNxb3Y0S2FFcFFoTHF0ZzQ5dFpUbzRkQTZWanF6ZVZWODRKNkdrQWRoYktQeUM3UWN3WnkwVGc1bE94TEZLaDdfdDZYd3JPNXFNUlFBRkRn?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 11 Apr 2025 09:40:02 GMT",
+      "snippet": "XPIN Network price today, XPIN to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
