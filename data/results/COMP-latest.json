@@ -1,0 +1,171 @@
+{
+  "token": "COMP",
+  "exchange": "other",
+  "generatedAt": "2026-06-21T16:02:04.245Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "COMP",
+    "name": "Compound",
+    "generatedAt": "2026-06-21T16:02:00.028Z",
+    "summary": "数据获取受限，无法获取COMP实时行情和最新新闻，仅能基于历史资料分析。COMP作为DeFi借贷龙头，基本面稳健但缺乏近期催化，市场情绪不明。建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "数据不足，无法设定失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "Compound是去中心化借贷协议，允许用户存入资产赚取利息或抵押借款。",
+      "COMP是治理代币，持有者可参与协议参数调整。",
+      "项目已运行多年，TVL曾位居DeFi前列，但面临Aave等竞争对手压力。"
+    ],
+    "marketRead": [
+      "由于Binance API限制，无法获取COMP实时价格和成交量数据。",
+      "历史数据显示COMP价格波动较大，与DeFi板块整体情绪相关。"
+    ],
+    "risks": [
+      "数据缺失导致分析不完整，无法评估当前市场状态。",
+      "DeFi赛道竞争激烈，Compound市场份额可能被侵蚀。",
+      "代币解锁和通胀压力可能影响价格。"
+    ],
+    "watchlist": [
+      "获取COMP实时价格和成交量数据。",
+      "关注Compound协议TVL变化和治理动态。",
+      "监控DeFi板块整体资金流向。"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取行情数据。",
+      "新闻源返回内容均为ICP相关，与COMP无关，可能为RSS订阅错误。",
+      "本分析基于有限历史资料，可靠性低。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "COMPUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COMPUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "COMPFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COMPFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "COMPUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COMPUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "COMPBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COMPBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "ICP Price Eyes Breakout as Internet Computer Becomes Crypto’s Most Used Blockchain - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3lKUlNSanZZbUQ1UDVWbU1jbHEtOWRLOUc0UFZyVmpsTS0wM1RqNXl3RnBjaWE3aHpsS0kyeEF6ZHVGcnlSMl9YeF9EaDRkazBXYzZvSVctUFhqMzdtMnNPdHFBUmdjS3VzU0swbExMZmRwd0dZRTVaWU9QVVo4NUQ1cDlmYlJDZEEwVk5DMFEteGhoc3FwOHU1U3BFdndQR1ZiUlZQZFlHd0g4Y2R2TzhDa1NaWjNkR3Iw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "snippet": "ICP Price Eyes Breakout as Internet Computer Becomes Crypto’s Most Used Blockchain&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Winners of Trump's meme coin contest potentially include foreign investors - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTRkWEwyV3hRUVFCNzFkMkJjd2xTLUJOVzJLb0l2emtSS2g5YmlyNzZTbVdQeHBNTDdNX1JxdVdpUHoxbTdKSUl2dWxEcDdQMVdJY3NWU2E0UWNhYjE4NVpGY2txNkdjTjVQRVlVaDR4M2RnaUpKVnRiLU5SZXZrUUUxQjBwNEJMZTJkLU1zdHBuc2VMaldSXzlHOG9TQUpfdUZvddIBqgFBVV95cUxPYUNGSG8zcFJRU09pM2p3UzRlVmNvVE5oTTdwX1loT3NYbGhia0Y5SXZJX3pMNGtySjZKZkpCNWZnNVJuLWtUZnZQN1E5Znp2TXpIeGFIYlZGYnlTdFBhU2NJTlVFZUN0SW1kZ2doeXI1NXl4VUZRMlRVWGZtd29HRFhRWDFUQi1GWk1UajkzM1NwYnE4bzdraGxTU3RrRlY2TUE4TDJqS2hpQQ?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "publishedAt": "Wed, 11 Feb 2026 00:55:14 GMT",
+      "snippet": "Winners of Trump's meme coin contest potentially include foreign investors&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+      "title": "Internet Computer (ICP) Price Prediction 2026, 2027 – 2030: Is ICP Preparing a Move Toward $25? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm1UUWhiOHlXdlpudng4N2lhMjN6aHdob3pReGF0d1U2RVpIZkEycUpIQlpycVNBeTNybXZDOVdRVVFhLTBJMF9UcHRaeUpqMmd0U0gxSnQ2YlBaWmZtVlNvVENLcjN3TEdVT3pvZzhweFZXSlVtdTU0QUpRUklmUWhjMNIBiAFBVV95cUxPeDRwZVdwdXJTaFRySnhyZ1p4QmdSWGh3dUVzaDUtV2xnNEJlX2VHVkxvZVBnQXE1Q3NmYUh4aUh0eGpwREZOTndnckNqMjZ4U0RaQ0czMU1FVGRoUkZIMVRyUWRiU0J6YV9Ib2ZiN1E0Rmc0V3VkMkdhU0w0OVc0WEttLU92Smst?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "snippet": "Internet Computer (ICP) Price Prediction 2026, 2027 – 2030: Is ICP Preparing a Move Toward $25?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "ICP Price Rallies After Upbit Listing: Can Internet Computer Hit $4 Next? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLWp4NXlHZWRzaDI1ZXo5TzNGMEpZS3FLd09RT2Fwc0tjVFNQRVUwNXE4R0dfeU1oY3dxdkx6MW5PV19JU1QtNDktMFBLSmVVcFo0dFJDazJqemdNT2RDRXUzSXFmSmNpT3gxRDBGMFQwS3Fkc2lHeHFkRTNrQzdGR2FjdnBrNUM1OG5la29FalkxUHpOZmstQmRsTDBpcFRFWW1Yc1pfc0dWSC1TNGdYcEVBN1RwRHNaRDhaMnpqYzNiVV9UWVU0UFB3?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "snippet": "ICP Price Rallies After Upbit Listing: Can Internet Computer Hit $4 Next?&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Here's Why Internet Computer Is 1 Crypto Token Rocketing 37% Higher Today - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWJ0VENoVFVtUTJNYll2cGNwbS1LLUlpWVk0MDJEWVNmSkVkNDRpMnNuTVdFOHdXMnQ2SnpNV1QyakI5VzlURDZKVlFoTzdZaXdLeTRkUkZFVDRGYmViUTF2MUotWk1OWmJUZWRKSVpDVEF4WlY2VXZLeXg2M2kyS0l3UmtGWUJ0ZDh5T1JDSk1TaTVfRTBaWg?oc=5",
+      "source": "The Motley Fool",
+      "publishedAt": "Tue, 04 Nov 2025 08:00:00 GMT",
+      "snippet": "Here's Why Internet Computer Is 1 Crypto Token Rocketing 37% Higher Today&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "title": "ICP’s 20% Rally Shows Traders Are Looking Beyond Bitcoin Again - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaHVJNHRZYkc0UHpxSHRsQVJxajZwdFZVV25aRlp1dkxFZmNjR0NuVmllTUhRdlZEWlJIeXNXRnVDNzNvczdIMDh5U1NFbmlUV2R3SUlZdy04R09LR2lkUjhfV29FR0ZPTzJpaENmZTFXUVlBdkFSR25GSnFRNEMzQnlJSGdYYW8?oc=5",
+      "source": "Yellow.com",
+      "publishedAt": "Thu, 07 May 2026 03:45:20 GMT",
+      "snippet": "ICP’s 20% Rally Shows Traders Are Looking Beyond Bitcoin Again&nbsp;&nbsp;Yellow.com"
+    },
+    {
+      "title": "ICP News: Internet Computer Slides 7% as Institutional Pressure Breaks Support - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlJHMThseEF2dmlNNW4xWGEyb0tncUJFUFVjdlBmNEFpSl9OOVZmU3hwdDd4MGlKWGhYaTJXZDVJVXFzTTlscVRsVFB3d0kyN3JwWU11Umo4REh2UGFMOS1WajlWdW5fR1pQVUN3UXNORklYaEswNllsNUhXaUZkQzBFWk0yNTlqVkVRWFluLVFYVm83ZXN0a25xblJVTGZKVE85N1ptMWdSTlFqeTl2Rm5lSQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 18 Aug 2025 07:00:00 GMT",
+      "snippet": "ICP News: Internet Computer Slides 7% as Institutional Pressure Breaks Support&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Internet Computer Price Prediction 2025: ICP Collapses, Outlook Remains Harsh - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94bEExUHBna3ZpWlBGSjZxUjB1ZTVfbTh6UDMweGY4LVdDMEpPWElVczd2UFNsRlBDNW4yVlk2UUZmUTBNdFlDWHc3YlR4eW1uQTMyNkpobzZJUHE1U0VhUm5yRkVjVTEycEt3?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Tue, 21 Oct 2025 07:00:00 GMT",
+      "snippet": "Internet Computer Price Prediction 2025: ICP Collapses, Outlook Remains Harsh&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "What is Internet Computer Crypto: ICP Guide & How to Buy - OKX",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Qb2pUUExpNkJBWnRrYklQTWZESmZPVnV3VmR3LTE5SkxBUWlhZ3N5MTh4M3B2UHA5TEhkajU5ZkliOERwb1BYSFZZVFdLak9CVXVPQ2JNMmZJR2xzdE1WSmhEMnlTMVJwY1RjS1Jmdw?oc=5",
+      "source": "OKX",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "What is Internet Computer Crypto: ICP Guide & How to Buy&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Internet Computer (ICP) Price Prediction 2026–2030: Is ICP Preparing a Surprising Move Toward $25? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObVdmckpBd3BRblp6cVZIM0hXVHRMdE1kdnRrcFdINk16Z3lzdjExbnduVDgzVGd0TlhjUi1kc2pqbnRJRXFIa2NZa2NSNFhyRHpTNnZ0cG1EQW1CM2RrUFRDNUtkWlR4Q0hTdnFqVXNVWHFLdDdDdlcySG4xTnBYRWxn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 01 May 2026 07:00:00 GMT",
+      "snippet": "Internet Computer (ICP) Price Prediction 2026–2030: Is ICP Preparing a Surprising Move Toward $25?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Hyperliquid's HYPE Token May See $200 by 2035 Amid DEX Competition - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkRTVnFZQk1KSlVUVkFZa1B0X3dLVnl6RmxmT1BvRFhQT1FMVUVGQTBMUC1GTHczSXk5R091QVRUVXBQeDhkOS1DRlljUkpMSDM3cDQwOVMxVVFzMHNLMGtBRktSM19NazBZeE5mNzh6NUJONGozNTE5cm80N2Z6bWdlVmozb2w2Zy1JdzlDY3drTF9iLXIw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 22 Dec 2025 22:09:19 GMT",
+      "snippet": "Hyperliquid's HYPE Token May See $200 by 2035 Amid DEX Competition&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Internet Computer Crypto Jumps 38% as New Supply Shock Hits - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYU1FM0RVd3hfZzQ4aXBKNjhzcDMzNHNPQ2ZTSmdra05WaU50RlRlM1cxejZUd0N3OEFWV3Nmd3NWbllPam5QRENrZ0F4dV9CSFRsYUo0cmxvQ3M5N09KWU92SkhUUldzU09SRjBLTnlTNFJnSF9RRmJDVTdNMWVIeFFpa0YtejVvRlA5SmwtWnZLM25keWVCN0ViUm9iVkdSUXh2cE8wTURkM3J3QVJTTXJn?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "snippet": "Internet Computer Crypto Jumps 38% as New Supply Shock Hits&nbsp;&nbsp;99Bitcoins"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/compound-governance-token?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

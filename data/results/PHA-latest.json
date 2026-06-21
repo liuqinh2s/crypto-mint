@@ -1,0 +1,193 @@
+{
+  "token": "PHA",
+  "exchange": "other",
+  "generatedAt": "2026-06-21T16:02:05.510Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "PHA",
+    "name": "Phala Network",
+    "generatedAt": "2026-06-21T16:01:59.987Z",
+    "summary": "PHA近期因Bithumb上线、迁移至以太坊L2等消息推动上涨，但当前缺乏最新催化剂，市场情绪不明，建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现新的重大利好或成交量显著放大，可重新评估。"
+    },
+    "catalysts": [
+      "Bithumb上线PHA，打开韩国市场",
+      "Phala Network从Polkadot迁移至以太坊L2，提升互操作性",
+      "AI叙事热度可能带动隐私计算概念"
+    ],
+    "latestNews": [
+      {
+        "title": "Bithumb PHA Listing Sparks Major Access to Privacy-Focused Web3 Infrastructure in South Korea",
+        "impact": "利好",
+        "reason": "韩国主要交易所上线增加流动性和曝光度"
+      },
+      {
+        "title": "Phala Network Migrates From Polkadot to Ethereum L2",
+        "impact": "利好",
+        "reason": "迁移至以太坊L2可能吸引更多用户和开发者"
+      },
+      {
+        "title": "PHA Price Soars 27.93% as Broader Crypto Market Shifts",
+        "impact": "中性",
+        "reason": "价格上涨但缺乏持续性催化剂，市场整体波动"
+      }
+    ],
+    "fundamentals": [
+      "Phala Network是隐私计算协议，原基于Polkadot，现迁移至以太坊L2",
+      "代币PHA用于网络费用、质押和治理",
+      "项目聚焦Web3隐私基础设施，与AI概念有交集"
+    ],
+    "marketRead": [
+      "由于Binance API限制，无法获取实时行情数据",
+      "历史新闻显示3月曾因Bithumb上线大涨27%，但后续缺乏更新",
+      "当前无最新价格和成交量数据，难以判断短期走势"
+    ],
+    "risks": [
+      "迁移至以太坊L2后生态发展不确定性",
+      "隐私赛道竞争激烈，项目进展缓慢",
+      "代币解锁或抛售压力未知",
+      "市场整体情绪低迷，缺乏新叙事"
+    ],
+    "watchlist": [
+      "Phala Network主网上线及生态应用进展",
+      "是否有新的交易所上线或合作公告",
+      "AI/隐私赛道整体市场热度"
+    ],
+    "sourceNotes": [
+      "Binance API因地区限制无法获取实时数据，行情分析受限",
+      "新闻来源主要为3-10月旧闻，缺乏近期动态",
+      "建议通过CoinGecko或CoinMarketCap获取最新价格和成交量"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "PHAUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PHAUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PHAFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PHAFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PHAUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PHAUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PHABTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PHABTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "How to sell PHALA (PHA) via a crypto wallet - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zOXpCYmdTTXl0RmZaRjZPNzBLYkQyTEcxa0otRGVOTDRyWFFaRHJ6N0VUTDdfbFZ1b2FUN19wRTNETXNTV2tnaXhmQy1iRlZLZUw4QWcwLWsyT2c?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 17 Jun 2026 00:00:00 GMT",
+      "snippet": "How to sell PHALA (PHA) via a crypto wallet&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Pharma Pay Coin Price Today | PRP to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wbDlCYmVNY2pwTURzaXRiRXJtOGxDYkdoeGxMem1hRE5HOUxqejJ3RjJqcUl3Mk9iNThadzdYYjBnVWdkQlVORmVNOFAwWDEwLUVqd2loUGtneTBB?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 17 Jun 2026 03:45:00 GMT",
+      "snippet": "Pharma Pay Coin Price Today | PRP to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "AI Cryptocurrency Bittensor TAO Leads the List of Trending Tokens - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTHdJUHludWM2NEF3Sy1oN0Z2bTVUaWU4eDZfRmVhTW5ISldrWEpGVFRVVXFDbXFXS1U5dXV6VEJHVmRkSzdHbUpSSDZHVi1YUjg3ampWRGdNcmtWWndKTDZtNG9ENTUwcTd3Q0J5Q3lmZ2xuSlV1a1pCa0h2bkVlMDRSSVZpNmRsclVoSzB3dFZCLTFfQ1ZNMWZHdE96akZ0aTYySWFn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "snippet": "AI Cryptocurrency Bittensor TAO Leads the List of Trending Tokens&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "PHA Price Soars 27.93% as Broader Crypto Market Shifts - Coinfomania",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnkwQ2lSTUdkX296RUFfMDRPb2N0bnUwMkZZR2ozdl9aZkJiQk45TFA2QkM1WFN4cEJXdjhfVENsb1o1eFJaQ0dOQm10NmdHNmkzSEY4QlY2NUVDRWxNLUhzaThsckQ0NXRNYUJQdUZoakJYT2NVM3l0Z1J0ai1mRmE3RDI?oc=5",
+      "source": "Coinfomania",
+      "publishedAt": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "snippet": "PHA Price Soars 27.93% as Broader Crypto Market Shifts&nbsp;&nbsp;Coinfomania"
+    },
+    {
+      "title": "Companies load up on niche crypto tokens to boost share prices - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVnZxSFF0b3hlQjBhbEtFRTM0R3BiSHZFeHNxUlVPS19UaFZWR1l1aFpHaER0cm5uRGRmVDl3SzBMTnRyWm91UjBraGQ0NmlhVmhpaFd2aGRKenUwcUhfbzZYTWUxREloZFpXWDdoOWZReEZiVnByZWZfOU1CbTh1bGNYdWo?oc=5",
+      "source": "Financial Times",
+      "publishedAt": "Thu, 24 Jul 2025 07:00:00 GMT",
+      "snippet": "Companies load up on niche crypto tokens to boost share prices&nbsp;&nbsp;Financial Times"
+    },
+    {
+      "title": "How to Buy Phala Network (PHA) in the US 2026 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSmV2WW56bDNvcU5ydGZjaldQeTVMZjQ4dHhLNjlJQ0MxN2Y0eGw4WUJxdDByT3NLNkNWZnQ1VlJTSWFVOHZ0N3pHMmZURURYeVlHZWQxN2RUM2o1djNNOUI3elJOaUVKbFByOENYU25vOEtsX3Z4QkQ1emREeDZsek9OT29IMFpURjdTT3pMbVdrRWZVSEFCcEtHUDdMcFlodlJoTTVZWV9CU2PSAbABQVVfeXFMTWN5VHI3MjhnZ2JCNi1fNmw5V3BYbVZwX0UxRGZNZVpfeHNrQVc4SDVtbVRId2NpZ1AxQjhPM2ZyWnAzbHRuOWRpcFkxYkJGM3ZnbTJOWENxbG03UVBDMTdjNjA1QWN5SDFEWTV1S2pDWVMzMWJhN2pXSi00QlBfQ3hiY2NsUEw0aXJiVURqa0NhR1Rva1RjSXktUFcyUG5nTTZYZ09vMnhrZHZZdFJOSlA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "snippet": "How to Buy Phala Network (PHA) in the US 2026&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Phala Network Migrates From Polkadot to Ethereum L2 - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1A5TzNJNmNubjdVT3VYeXdaRXdvMXpOblhaZGc0UTdVcGt0OTFnaXZrR1RDMnlEeE5Fa2Y0SThiMERoT2VSLWxETUJ3al9RYlBtbkF0cnRTRk1QNk5na3F5Y1JFenhqY2xxMU1XU1FlZ3FuVmxhOU84bXhhZDFBbmpUb1QzbnpnTTluSnNhWjZmY3JEREFqNA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 10 Oct 2025 14:27:18 GMT",
+      "snippet": "Phala Network Migrates From Polkadot to Ethereum L2&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Bithumb PHA Listing Sparks Major Access to Privacy-Focused Web3 Infrastructure in South Korea - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vNklGckZqNGpCZ2I3Mjg0OS1OUXgwR2N3QklQME5RTVFuczUwRDB0OXFrOExDTUtScE1pUFBLc2Q3OG1lMnUzQU1RZDhRTGd6Vm42UldubHo2XzEwRFFNOFVRTlk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "snippet": "Bithumb PHA Listing Sparks Major Access to Privacy-Focused Web3 Infrastructure in South Korea&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "MEI Pharma Chooses Not Bitcoin, Not Ethereum, But Litecoin As Treasury Asset - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYnRBbTluTkxhQVNQdTR6OU4tai1ybk96U1FyUFZKVmF4SmVOcXIwY0xVSXFiWWRWTlRSaDVDNXNXaEpjVnh2QUw2cWJ4YXM0UGV5bldsVHhaUDhfSTFDSWctR3dzZFkxd0hTVEhwcDJwQmo3bk5wMUFFVmluTmxzUjV3?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "snippet": "MEI Pharma Chooses Not Bitcoin, Not Ethereum, But Litecoin As Treasury Asset&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Phala Network approves full migration from Polkadot to Ethereum Layer 2 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZF9KYXlrTmIzN3czYUJWbWZfblBaQWhsX0VudFVuS2F3T1dWRC0yOExWME9nOVZMMklfOFM2a19VZTVfQmJIY3VxTEgzTC1OMU1hQllfM3hCeUphVWFWWXhaZ0REOWRTTkg4X181a2ZXR3B3VHRoQXVjc29JeEJCOVFnSzlna00?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 10 Oct 2025 07:00:00 GMT",
+      "snippet": "Phala Network approves full migration from Polkadot to Ethereum Layer 2&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "MEI Pharma buys $100 million of Litecoin as treasury asset, with Charlie Lee and GSR as lead investors - The Block",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWpWUUlEcWVVSHp0MGZncnZ6SFFwNFN2NjBFaFZXME9OcW1GTU9BVDRLbGtISDhRanFaSjBxTTlHdGI4YV9tZDNkWGtIZGpBckJCOHpkM2tyaWJQWGFEV1dfcFNjcXpCZmpWMFVWeWE4UUFYWTRSc1pEOTZaQUtHckFPclNlMDV6NXI4VS16OTFGUHc?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "snippet": "MEI Pharma buys $100 million of Litecoin as treasury asset, with Charlie Lee and GSR as lead investors&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Litecoin News Today: Nasdaq Biotech Plans $100M LTC Treasury Strategy, Taps Charlie Lee - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSWdaVGh2cTk0Zk0xd3pKWi15ZEUtYWFiYXFES3RadVdLWHg3S29ZTldtQzJRZlBuYkR4dm9PeThjR2dEUkY3cnJiTEg3X2h0MldNQWRiVFJoMW5Qa00zTWN4Z2NCUndsN0lYbWNPTkVaWXpLZGd1Z2NPOHJhZFZ6ZS0wLVVmSHFTWmxqY1dkMGZEZWV4WE1PSmNsenJtR01fWkdTUzV6cnZUdy0yRWdmOGNDLWx3eUlIZ2NieVdWR0RKdw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 18 Jul 2025 07:00:00 GMT",
+      "snippet": "Litecoin News Today: Nasdaq Biotech Plans $100M LTC Treasury Strategy, Taps Charlie Lee&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/pha?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

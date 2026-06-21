@@ -1,0 +1,236 @@
+{
+  "token": "COW",
+  "exchange": "other",
+  "generatedAt": "2026-06-21T16:02:05.784Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "COW",
+    "name": "CoW Protocol",
+    "generatedAt": "2026-06-21T16:01:59.803Z",
+    "summary": "COW代币近期上涨，但基本面存在DNS劫持等安全事件，且新闻多为负面（鲸鱼抛售、交易事故）。当前价格较ATH跌超92%，市值约9300万美元，24h涨幅1.15%，7天涨幅6.26%。缺乏明确利好催化，风险较高。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大安全修复或合作利好，可重新评估"
+    },
+    "catalysts": [
+      "无明确近期利好催化"
+    ],
+    "latestNews": [
+      {
+        "title": "Two Whale Wallets Dump $20.28 Million in Ethereum via CoW Protocol",
+        "impact": "利空",
+        "reason": "鲸鱼抛售ETH，可能引发市场对COW协议流动性的担忧"
+      },
+      {
+        "title": "DeFi Slippage, Aave Swap Gone Wrong: A Trader Just Turned $50 Million Into $36,000",
+        "impact": "利空",
+        "reason": "负面事件损害DeFi声誉，CoW作为相关协议受波及"
+      },
+      {
+        "title": "DAO behind CoW Swap urges users to stay off platform after ‘hijacking‘",
+        "impact": "利空",
+        "reason": "DNS劫持事件导致平台暂停服务，用户信任受损"
+      },
+      {
+        "title": "Vitalik Buterin Swaps $198K USDC for ZCHF Stablecoin via Cow Protocol",
+        "impact": "利好",
+        "reason": "V神使用CoW协议，显示一定认可，但金额较小"
+      }
+    ],
+    "fundamentals": [
+      "CoW Protocol是去中心化交易所聚合器，采用批量拍卖机制，旨在提供MEV保护",
+      "COW代币用于治理和交易费折扣",
+      "总供应量10亿，流通约5.78亿，FDV约1.6亿美元",
+      "项目曾发生DNS劫持事件，导致服务暂停"
+    ],
+    "marketRead": [
+      "24h涨幅1.15%，7天涨幅6.26%，14天涨幅16.58%，短期有反弹但成交量一般（约450万美元）",
+      "价格仍处于历史低位，较ATH跌92.76%",
+      "市场情绪偏弱，缺乏资金关注"
+    ],
+    "risks": [
+      "安全事件（DNS劫持）影响用户信任",
+      "鲸鱼抛售压力",
+      "DeFi整体负面新闻拖累",
+      "代币解锁风险：总供应量仍有约42%未流通",
+      "流动性较低，波动可能较大"
+    ],
+    "watchlist": [
+      "项目安全审计更新",
+      "是否有新合作或集成",
+      "代币解锁时间表",
+      "市场整体情绪变化"
+    ],
+    "sourceNotes": [
+      "Binance数据因地区限制无法获取，价格数据来自CoinGecko",
+      "新闻来源包括CryptoRank、CoinDesk等，部分新闻时间较早"
+    ]
+  },
+  "profile": {
+    "id": "cow-protocol",
+    "symbol": "COW",
+    "name": "CoW Protocol",
+    "categories": [
+      "Decentralized Exchange (DEX)",
+      "Exchange-based Tokens",
+      "Decentralized Finance (DeFi)",
+      "BNB Chain Ecosystem",
+      "Polygon Ecosystem",
+      "Gnosis Chain Ecosystem",
+      "MEV Protection",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Base Ecosystem",
+      "Intent",
+      "Delphi Ventures Portfolio",
+      "Blockchain Capital Portfolio"
+    ],
+    "homepage": [
+      "https://cow.fi"
+    ],
+    "description": "COW token allows its holders the right to govern and curate the infrastructure of the CoW Protocol ecosystem through the CowDAO. Additionally, COW token holders receive fee discounts when trading on CowSwap &amp; some other perks.",
+    "marketCapRank": 284,
+    "currentPriceUsd": 0.160697,
+    "marketCapUsd": 92847110,
+    "fullyDilutedValuationUsd": 160656093,
+    "totalVolumeUsd": 4496748,
+    "priceChange24hPct": 1.15314,
+    "priceChange7dPct": 6.26459,
+    "priceChange14dPct": 16.58407,
+    "priceChange30dPct": -4.07305,
+    "athUsd": 2.22,
+    "athChangePct": -92.75914,
+    "circulatingSupply": 577924615.2630666,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 10302,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "COWUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COWUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "COWFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COWFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "COWUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COWUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "COWBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COWBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Two Whale Wallets Dump $20.28 Million in Ethereum via CoW Protocol - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOejlpQVdfTzM5b0xQRnMtU0E0STZVMFFWTzh4Q3h3LVhINmR4dmNrLWJBTm5JQ3F3cUZYVDYyMDFDMHBVeGhsQkptNG1nLWNaTlpLaFYzbjQ1RHpiWTJiOUN4VkI3RHJBZUxKOThuamFTZHlxYUViY0VjUU5IV0Zaa1N6d0NZc3JEdXc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 19 Jun 2026 05:39:03 GMT",
+      "snippet": "Two Whale Wallets Dump $20.28 Million in Ethereum via CoW Protocol&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "DeFi Slippage, Aave Swap Gone Wrong: A Trader Just Turned $50 Million Into $36,000. The Protocol Said It Worked Exactly as Designed. - FinTech Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2VnM1llWFBfWmxTNmJ2VnJ1b3pPUmdEUHluX0t6YUpqLWw2UHBNOTNTckktekQxWDh3RlJkcDVZMklDYmIxVDRPeEhkQ3RGUktmVi1tUFFENHFxQkRvcExGUlNEdXR6SjZWLXQ2b2c3ZFdBRGdDZGhxZ2VHMV9haExxWDN5ZGR3YTVFVFZQTlcwd2w0ZUZLYl9sdk9fYlliSkZNUDJKVUxFazV4Yi14VGZFSU5FSnpx?oc=5",
+      "source": "FinTech Weekly",
+      "publishedAt": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "snippet": "DeFi Slippage, Aave Swap Gone Wrong: A Trader Just Turned $50 Million Into $36,000. The Protocol Said It Worked Exactly as Designed.&nbsp;&nbsp;FinTech Weekly"
+    },
+    {
+      "title": "What Is CoW DAO (COW)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PdnVpZWxTekU0ZHFpczk0bmdlTWZjNnpPQ3UyUGhLaExJckpHYzRQa0llaGEzZHVBUlpGbGtCVFhLcnhPQWlsSHgwdlM2blpINWFIc2NMYVBnVWdCTmVucm9RNFlWU2N5cS15d2tMejk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
+      "snippet": "What Is CoW DAO (COW)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Crypto trader lost nearly all of $50 million in one botched DeFi transaction - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLTNLV1B2TWhqMUlDX3hmNEo1YU45OW1MOGtHbDlxWW0yQXEzWWgtWjdNRWhmdjBZRER6Z3dybVR4NzZSenJIMVpYcG0tV2t5RmdHdmJSVDZ0SWR3aVUwUFgtd1lnczhRTGpGVWR0Q0U0X1ZIX2syal9zT0FZa1RzMFNPR1dHZ05GN0hTWEtYeGFuNk5nRndsbC1LUGJXVnR0Wm9KWmk3WEppMnVLUkxIUDk5Smc?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "snippet": "Crypto trader lost nearly all of $50 million in one botched DeFi transaction&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "DAO behind CoW Swap urges users to stay off platform after ‘hijacking‘ - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0xCdDEyaDNubGFMLWlSS3dLWFJlNVFtQnAwM2lXS1JMYVE0V0hZa09jVkpHUWdkTW5mV3BwNmZtUnFrS2pJcF9OdjdqMW9uMmZZYkt1NU9NTTg2T0Jkdzk5MG9HTjNDbkhuS1JINV9DV1NKT29uYXQzVWJHdXpBbDJkcktyTzhkTDFzb2g4Mm16dHkyVnNMZlRpYUxENWt3Uzd5QnRaSGxZMmVzNW9mWXV2VFpjbHpGWnlfNVNXbHZpQjRzVmVlcWxxU0o?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "snippet": "DAO behind CoW Swap urges users to stay off platform after ‘hijacking‘&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Investor Loses $50 Million in Token Swap on Aave - ForkLog",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wVi1MSG9CX0pJMVJMLWVKREgtVGNqN3V4bjRUTEhGcHNCREFKMUVOczd2enhmREROX1E5WnY2YmY0dV9UN2hfV0J3QzJMV09MZTJkUms2YzFBVkJyajVGeXF4NXFOR091alNCblhyZXgybjdTaEdsanQxbw?oc=5",
+      "source": "ForkLog",
+      "publishedAt": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "snippet": "Investor Loses $50 Million in Token Swap on Aave&nbsp;&nbsp;ForkLog"
+    },
+    {
+      "title": "Cow Protocol Crypto Protocol Halts Services Following Major DNS Hijacking Incident - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzVUl0TmFqcEZRVko2aEowUkxzdzlqWEZUVXc0RkxaM0JhYnNFN01TbDB5dENWREFXXzJSckJKRkNNLVNtd0UzZTFzNE9EUG9MYnNucDNMek9zV3ZkdC1jWTJPY2dRd25TcUE0N0stWjk4SzJSVmc4R1U0VWE?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "snippet": "Cow Protocol Crypto Protocol Halts Services Following Major DNS Hijacking Incident&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "CoW Protocol Price: COW Price Index and Live Chart - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoYmZNUE1VZkRWUlFObUdNUGJsc0F2Nkd5QnA1Mm1OemppTGNYQU12OWYta3F6c1lDZG9SUTRTUG9Yay1DWVB4UmJCcFNSSUNvQnI1UDdoLW9UbkYtOFRsSktwRHZmdkV4?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 27 Aug 2025 18:33:56 GMT",
+      "snippet": "CoW Protocol Price: COW Price Index and Live Chart&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Vitalik Buterin Swaps $198K USDC for ZCHF Stablecoin via Cow Protocol - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeFYtdGFadkpVUHF3X25nc1lDRHZPN0dRYWxVZlRIN0k2VnVkV2ROZ0ZjdnkyeWJFODBEc0N6OVk5R2dfU0M4RWNQTjdoWk4wTUlkcTBWVGZwcG1jTTQ4S3lWUkhBZEtzV3hfaEF2cG5NR0h3LUluUVNhWU1jWUp6dk5CekpsblE0RVM2dU9oRS1oVGgxLTJYb3BwSW1LdjRyeFJxTA?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Tue, 31 Mar 2026 07:00:00 GMT",
+      "snippet": "Vitalik Buterin Swaps $198K USDC for ZCHF Stablecoin via Cow Protocol&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "BTC price holds near $75,000 as short-term holders look for profit opportunities: Crypto Markets Today - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcWJOM1ZreWdRS3ZiLVI0Z3ExaVlFTmNaYW42LXdRNnp5TXB2c0o4NUpUSmJLSjk5cmlmTXlud0JTc1Z0VjJFYzF3UThaTk84amlXT0ROVGMwcDV1dnBMd1hVMnNSTkllRWtLeE1mRjRqSzRqa2RINkM3YlBpYkhiZ0thVkZoMzhtOFdNM2p1S09MRFNuTlZTUl9rWnh6b2VnS2FycTgwaGFaaEFlSlJaZ2hSMEVuRlFINzFmMHRlOHdvZw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "BTC price holds near $75,000 as short-term holders look for profit opportunities: Crypto Markets Today&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "CoW Protocol price today, COW to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HU1RfZ3UyS3RMREpxbk1HSXQ4bFpLVGJnUVVWZGlJREx6eFdGUk5CcERXQm1YZUZGaFBtZXp5VEN2NzI2bi1sbF83ZlNNRWtsZDNvcGFyOEdzX3hUV2xn?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 01 Apr 2022 14:15:30 GMT",
+      "snippet": "CoW Protocol price today, COW to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "MEV bot makes $10M in $50M crypto swap gone wrong - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFQ3WlVVWkJWaE9ob0hRYUdvNFN1MHNCdFotUTlDdjBmNUUtSm9kbTZCVGRpc2hXQVFxQzg2SUNvWEZvbVNDMDFhaFUzbjF0akEwdGdJTjQ3NjhsalBNU1NaeVhpYTgxQ29NTlhxZEhZNDE4SE45RkVOU1lMYUJveUxQdHhheWtQOXVVZGlnNlFnVWdHaEpuc0l3czg0bnlqck82YnBfcUdBRGZCNTRlMQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "snippet": "MEV bot makes $10M in $50M crypto swap gone wrong&nbsp;&nbsp;TradingView"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

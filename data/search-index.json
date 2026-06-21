@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-06-21T08:58:07.874Z",
+  "updatedAt": "2026-06-21T16:02:12.341Z",
   "results": [
+    {
+      "token": "RUNE",
+      "name": "THORChain",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-21T16:02:05.725Z",
+      "latestPath": "data/results/RUNE-latest.json"
+    },
+    {
+      "token": "COW",
+      "name": "CoW Protocol",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-21T16:02:05.784Z",
+      "latestPath": "data/results/COW-latest.json"
+    },
+    {
+      "token": "PHA",
+      "name": "Phala Network",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-21T16:02:05.510Z",
+      "latestPath": "data/results/PHA-latest.json"
+    },
+    {
+      "token": "COMP",
+      "name": "Compound",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-21T16:02:04.245Z",
+      "latestPath": "data/results/COMP-latest.json"
+    },
+    {
+      "token": "ALCH",
+      "name": "Alchemist AI",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "观察",
+      "generatedAt": "2026-06-21T16:02:10.718Z",
+      "latestPath": "data/results/ALCH-latest.json"
+    },
+    {
+      "token": "CBRS",
+      "name": "Cerebras Systems (Ondo Tokenized)",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-21T16:02:12.339Z",
+      "latestPath": "data/results/CBRS-latest.json"
+    },
     {
       "token": "STRAX",
       "name": "Xertra",

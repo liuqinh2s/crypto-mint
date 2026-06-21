@@ -1,0 +1,139 @@
+{
+  "token": "CBRS",
+  "exchange": "other",
+  "generatedAt": "2026-06-21T16:02:12.339Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CBRSON",
+    "name": "Cerebras Systems (Ondo Tokenized)",
+    "generatedAt": "2026-06-21T16:02:05.961Z",
+    "summary": "CBRSON是Cerebras Systems的代币化股票，24小时涨幅6.26%，但市值仅3.6万美元，流动性极差。上涨可能源于AI芯片概念热度及MEXC扩大代币化股票交易的消息。但由于市值极小、交易量低，且缺乏基本面数据，风险极高，不建议买入。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "逻辑失效条件：若出现重大利好（如Cerebras上市或大额流动性注入），可重新评估，但当前无任何可靠信号。"
+    },
+    "catalysts": [
+      "AI芯片概念热度持续，Cerebras作为AI芯片公司受关注",
+      "MEXC扩大代币化股票交易，可能带来更多曝光和流动性"
+    ],
+    "latestNews": [
+      {
+        "title": "Latest News In AI Chips - MEXC Expands Access To Tokenized Stock Trading Globally",
+        "impact": "利好",
+        "reason": "MEXC扩大代币化股票交易可能增加CBRSON的曝光度和潜在流动性，但实际影响有限。"
+      }
+    ],
+    "fundamentals": [
+      "CBRSON是Ondo Finance发行的Cerebras Systems代币化股票，提供经济敞口",
+      "市值仅3.6万美元，流通供应量147.3枚，流动性极低",
+      "无历史价格数据（7日、14日、30日变化均为0），可能为新发行代币",
+      "项目描述强调仅限非美国用户，且存在额外限制"
+    ],
+    "marketRead": [
+      "24小时涨幅6.26%，但成交量仅6.1万美元，市值3.6万美元，换手率极高（约169%），表明交易主要由少数人推动",
+      "无交易所K线数据，无法分析趋势，价格发现机制不透明",
+      "持有用户仅2人，市场深度极差，大额买卖单极易导致价格剧烈波动"
+    ],
+    "risks": [
+      "流动性风险：市值极小，买卖价差可能极大，难以成交",
+      "价格操纵风险：低流动性下，少数交易即可大幅拉盘或砸盘",
+      "基本面缺失：Cerebras Systems未上市，代币化股票的价值完全依赖Ondo平台和底层资产，但缺乏审计和透明度",
+      "监管风险：代币化股票可能面临各国监管不确定性",
+      "数据可靠性：CoinGecko数据可能不完整，且无交易所公开订单簿"
+    ],
+    "watchlist": [
+      "关注Cerebras Systems是否计划IPO或重大融资",
+      "观察Ondo Finance是否增加CBRSON的流动性池或做市商",
+      "监控MEXC等交易所是否上线CBRSON交易对"
+    ],
+    "sourceNotes": [
+      "数据来源CoinGecko，但缺少交易所K线数据，价格和成交量可能不准确",
+      "新闻仅一条，且为聚合摘要，未提供具体细节",
+      "无社区或社交媒体数据，无法评估市场情绪"
+    ]
+  },
+  "profile": {
+    "id": "cerebras-systems-ondo-tokenized",
+    "symbol": "CBRSON",
+    "name": "Cerebras Systems (Ondo Tokenized)",
+    "categories": [
+      "Tokenized Assets",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Ondo Tokenized Assets"
+    ],
+    "homepage": [
+      "https://app.ondo.finance/"
+    ],
+    "description": "CBRSon is the Ondo Tokenized version of Cerebras Systems Inc, giving tokenholders economic exposure similar to holding CBRS and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
+    "marketCapRank": 7440,
+    "currentPriceUsd": 246.71,
+    "marketCapUsd": 36302,
+    "fullyDilutedValuationUsd": 36302,
+    "totalVolumeUsd": 61307,
+    "priceChange24hPct": 6.26284,
+    "priceChange7dPct": 0,
+    "priceChange14dPct": 0,
+    "priceChange30dPct": 0,
+    "athUsd": 244.47,
+    "athChangePct": 0,
+    "circulatingSupply": 147.30456299864,
+    "totalSupply": 147.30456299864,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 2,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "CBRSUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CBRSUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CBRSFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CBRSFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CBRSUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CBRSUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "CBRSBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=CBRSBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Latest News In AI Chips - MEXC Expands Access To Tokenized Stock Trading Globally - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaS1jclFhR3RxenFYY3RCU0FSQjdlOVVfZW1EclNWdmVhQlJwUHZ1dVgwRmE2QllhZlFrY2dpb3M3YmVCdWUzWHVNeGFSYzhoUDJBeXpOZnRIZGJhRkRpSWxud3I5cVRhV2pSWmF1V1pVVGZBNDFMSXAzdkxmVkc0ZnNlVENpQ2RuOExoRTNLcnhJbGhDNVVoX1ZIV3VXOUtLN1RNM0gzUDU5TUpTV1N2THFRVTlTQVZpOW1HUDRCa09RbGxETlluRTNwSdIB0AFBVV95cUxQWVRhTF9SU2dnQXdOM3lqUlRMRVpOU3BZZUFHU1F1dFVJM0VqZVVPa2RuTm9kU3pKZklILWQ1UnlHZGViNnBrNHBMdU1ncFU5RzlDU2FmRWl5Tnh6ekJJWXQ0SERTWjlHeV96SC05U3JmM0t2SmFsTzFrMVZLVVFoMVpfd24xZXc4dHNDWlpDWDcxLUZWSU5DRE55N2lQYTR0dy1XMWpWSW1hWG03eExaSjNHTkhRVnV1aUpNVUl1MnhZd0t0cV83d3RmMXdPdHBW?oc=5",
+      "source": "simplywall.st",
+      "publishedAt": "Fri, 19 Jun 2026 11:11:31 GMT",
+      "snippet": "Latest News In AI Chips - MEXC Expands Access To Tokenized Stock Trading Globally&nbsp;&nbsp;simplywall.st"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

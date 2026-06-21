@@ -1,0 +1,229 @@
+{
+  "token": "RUNE",
+  "exchange": "other",
+  "generatedAt": "2026-06-21T16:02:05.725Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "RUNE",
+    "name": "THORChain",
+    "generatedAt": "2026-06-21T16:01:59.783Z",
+    "summary": "RUNE近期上涨14%，但基本面受5月1000万美元黑客攻击影响，市场信心脆弱。当前价格仍远低于历史高点，短期反弹缺乏明确催化剂，建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若价格跌破0.38美元或出现新的安全漏洞，则逻辑失效"
+    },
+    "catalysts": [
+      "跨链DEX叙事热度回升",
+      "比特币生态复苏带动RUNE需求"
+    ],
+    "latestNews": [
+      {
+        "title": "THORChain Price Prediction 2026, 2027 – 2030: Will RUNE Price Hit $10?",
+        "impact": "中性",
+        "reason": "价格预测文章，无实质利好，仅反映市场情绪"
+      },
+      {
+        "title": "THORChain’s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt",
+        "impact": "利空",
+        "reason": "5月15日黑客攻击导致价格暴跌，安全风险仍是主要担忧"
+      },
+      {
+        "title": "THORChain pauses trading after suspected $10M exploit",
+        "impact": "利空",
+        "reason": "暂停交易加剧市场恐慌，影响流动性"
+      }
+    ],
+    "fundamentals": [
+      "THORChain是去中心化跨链DEX，支持原生BTC、ETH等资产交换，无需封装代币",
+      "当前市值约1.43亿美元，排名212，流通供应量3.38亿",
+      "最大供应量3.54亿，已全部流通",
+      "ATH为20.87美元，当前价格0.42美元，跌幅超97%"
+    ],
+    "marketRead": [
+      "24小时涨幅4%，7日涨幅14%，但成交量仅738万美元，流动性偏低",
+      "价格从ATH大幅下跌后处于低位震荡，反弹缺乏量能支撑",
+      "Binance数据因地区限制无法获取，市场深度存疑"
+    ],
+    "risks": [
+      "5月15日1000万美元黑客攻击后，安全漏洞未完全修复",
+      "价格远低于ATH，市场信心脆弱，抛压风险",
+      "成交量低，流动性不足，大额交易可能引发剧烈波动",
+      "缺乏近期明确催化剂，上涨持续性存疑"
+    ],
+    "watchlist": [
+      "THORChain官方关于安全修复的公告",
+      "比特币价格走势及跨链交易量变化",
+      "RUNE链上数据（如TVL、交易量）",
+      "交易所提现/充值恢复情况"
+    ],
+    "sourceNotes": [
+      "数据来源CoinGecko，Binance数据因地区限制不可用",
+      "新闻主要来自5月黑客攻击事件，近期无重大利好",
+      "价格预测文章仅供参考，不构成投资建议"
+    ]
+  },
+  "profile": {
+    "id": "thorchain",
+    "symbol": "RUNE",
+    "name": "THORChain",
+    "categories": [
+      "Decentralized Exchange (DEX)",
+      "Infrastructure",
+      "Smart Contract Platform",
+      "Exchange-based Tokens",
+      "Decentralized Finance (DeFi)",
+      "Layer 1 (L1)",
+      "Bridge Governance Tokens",
+      "Multicoin Capital Portfolio",
+      "Proof of Stake (PoS)",
+      "Delphi Ventures Portfolio"
+    ],
+    "homepage": [
+      "https://thorchain.org/"
+    ],
+    "description": "THORChain is the first decentralized exchange (DEX) to swap Bitcoin, and other UTXO chains, with Ethereum, and other EVM chains. All without using wrapped tokens. THORChain currently supports swapping between 10 different blockchains. Assets available to swap on THORChain include the following: Bitcoin (BTC) Ethereum (ETH) Tether (USDT) BNB (BNB) XRPL (XRP) USDC (USDC) Tron (TRX) Dogecoin (DOGE) Bitcoin Cash (BCH) Wrapped Bitcoin (WBTC) Chainlink (LINK) Litecoin (LTC) Dai (DAI) Avalanche (AVAX) Aave (AAVE) Cosmos (ATOM)",
+    "marketCapRank": 212,
+    "currentPriceUsd": 0.421649,
+    "marketCapUsd": 142649998,
+    "fullyDilutedValuationUsd": 149326041,
+    "totalVolumeUsd": 7382104,
+    "priceChange24hPct": 4.03206,
+    "priceChange7dPct": 14.01339,
+    "priceChange14dPct": 24.16463,
+    "priceChange30dPct": -5.42794,
+    "athUsd": 20.87,
+    "athChangePct": -97.98062,
+    "circulatingSupply": 338372606,
+    "totalSupply": 354208499,
+    "maxSupply": 354208499,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 149693,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "RUNEUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RUNEUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RUNEFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RUNEFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RUNEUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RUNEUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RUNEBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RUNEBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "THORChain Price Prediction 2026, 2027 – 2030: Will RUNE Price Hit $10? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pamp5WXZmbmRvY0x2YlFaUkVwUlk0eEZiNEFMTTN2UnU0N3pSZlkxVFpsSGJ1OUFJcG1qZnVsYXFvN1lfd082bE40RlkxYU82LVpDdnhXTk80QlNBbkdyZFYtWWZpbnJPZHVOVzV4SlFVcUlFamhaX1lId9IBgAFBVV95cUxNRnhwY0sxYXJHaGxMWkVpd20yTVVyakc2WnNERFdSLVAyMWtkcnVFM3VSWHpVMEdFWVZ6U1FPbTdKYkpaSTVZOVljR0hPUWpHVzhoMVVDMHNta013UlJadC03LXFacUhDODVzbmg4Y2VpWmY1UWQ1THB2bTJaUTFjLQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Sat, 13 Jun 2026 12:08:00 GMT",
+      "snippet": "THORChain Price Prediction 2026, 2027 – 2030: Will RUNE Price Hit $10?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "THORChain Price Analysis 2026-2030: Evaluating the $10 RUNE Target - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XamNDNms1VF9OQVZIN1BzQTFCRzhvVlB3Z1ptTmlmVjEwZlBkSFRuVTJKcU15Q05McEU5Qko2UmYwaGZPemM4M1ZabTQ2SEtGS1pFRVl2UkRvUVRtODJzdzVwaDNFWHNJOGJGT3YtbnhnS1lfMGhIT0NaSkE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 13 Jun 2026 14:31:44 GMT",
+      "snippet": "THORChain Price Analysis 2026-2030: Evaluating the $10 RUNE Target&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "THORChain’s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmozdFlGVWNxRl82X3Rtanl0bW1QRUl2QV91d3RVTElxNEx6anY0bFRNNDdLdXE1OHp2ZFBVdjVQRjZQdVE3ZExDWFBJOGxicTFteGxuRzJ0NkZEc1RtbDRCRmR2MXZ5emlFNjMtRGpET29SRTl3b295bEN6UjNuTlhCR2x1SWIzZ0FFYndrX0lDTjBqUDgyMmd2YTdQODNQeVHSAaoBQVVfeXFMTmZ6WkdaSE43NFIxWmpBQWdwbGJRcER1WWZscGd0MTlBX0NLQzc1UWxldWlqc093MVNxeVJ5MExkemtsdFRpMFVqRnlkbThjaWROQzlGWWlrVWtXaTdYbGZudEdwblZEc1RZSk5jTmg4UEg3M096TWF0QVQ5QVVudjR0c3o0WWVGbmlJRlYwd01PcmdfMTA1TFBNcmh1V2NkckI1Rll0QzZDV1E?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "snippet": "THORChain’s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "THORChain pauses trading after suspected $10M exploit - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVXhtQ1d4eWpRWTA1V09aUzFfWFA1aU5ieXdEeENoTzJ1Um9PRVByU0JmSHQ5NmRnWnFvZFVVTnRPZC1fUTZObVVySXE4UlhXVDZCZ0k1bFFKV0hKY1BzS1g2Q3Y5LVI3YmV2aFdTMUNGYmpSN29sODFLMGtubDV2QTZPTU84ZmpZUGhsM3owdHY2WmdodjFXaHB6ZVRxMkQ3cE40Q18yUjE1M3lTaFdNcnhYLS1oWGM?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "snippet": "THORChain pauses trading after suspected $10M exploit&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Crypto Hack: THORChain Exploit Hits $10M as RUNE Price Holds Weekly Gains - The Coin Republic",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQazFyNFBjbDJwN2JULTBLOUFmRmNsTmxhRGlJSm5aZEtVcnl3S2dSNFpTeWI2NXE0NTVVbUJpdmw3WEhQTlE3aDRKZ3JOcFMxbFVCUWVmU2NCQzg3N2JXdXBtbV96LV9jY2ZwXzRQWWZLZ05fNWFRc1psWmhwQWZOaEJDOXZnQ0JZRUVQeUxRVEU0UXFnSlJBNXJGUllLZnhGaldkLXBkY3dFOGdFUmY4aERpQmRaUdIBuwFBVV95cUxQZnpaX1B2OHU4U1U1ODVQUURHUTN5OXVqSUhqdUcySGROQ3lUdHZJOUdSbTMwMUdkSDNfaXBnNk1pYWhlbkxSNDBzdEZneUY3NWNWQTNrVEllblpEN25PS3UzLUtxU1pySllOWm1CdGVqWDRTSXd3clNNT2s4RExjSmVpWmdVWEdUamZWT1Zqc0VHa3dHMVBTZmVxX2wzUmR3VFItRDk2VGw1cEVhSmZ6SVVxOVVGRURCSkdB?oc=5",
+      "source": "The Coin Republic",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "snippet": "Crypto Hack: THORChain Exploit Hits $10M as RUNE Price Holds Weekly Gains&nbsp;&nbsp;The Coin Republic"
+    },
+    {
+      "title": "THORChain (RUNE) Suffers $10M Cross-Chain Attack, Token Plunges 15% - Blockonomi",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcEpoSEFyQ29tMEFSLUV3am9SNDVVRGI2UnBsSTZpRW13dUZUX3czX1J4ejR4NnFDMXR0ekdHamwzLXA0dHllSjZ1Tm55YWdhV2pKU1M1bkt0MEU2N0FfNmZpZ2U2ZGFDRkJVR1B3MWxkLTJUTFNLbUxmN3UxQUNCNXpUS1h3Q29ZWWFrQkdNNA?oc=5",
+      "source": "Blockonomi",
+      "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
+      "snippet": "THORChain (RUNE) Suffers $10M Cross-Chain Attack, Token Plunges 15%&nbsp;&nbsp;Blockonomi"
+    },
+    {
+      "title": "Thorchain Hack Drains $10M – ZachXBT Reports - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbFREWWxuMEdkS2VXWnc1ZUNvMzUxRm1BdkowcFRjZy1QMzNaRXpVbmM2ODlxTElYWWhoZGU1RmJDMklaNVhpS3A5SEJja1NhVVFXWHd6YnFsTlo5c20tTHRHMEVUYWhDWFk0cDlPUE5BUy15SExWTURSaXpEZWtvZDUwLXhiWm12SG9KRGt6VnJOcEFCRkFNal9LYThidHBSclBj?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "snippet": "Thorchain Hack Drains $10M – ZachXBT Reports&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12% - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzd3VDh5QlAycEptUEg0M0ZscWJ2ZFFhOUZiNlNram1uN2JTYWxpOUdfaG12ekRWLVR6TlhHN0NETFBRdmk4cGhJN3NsVWlBX0pfc1NxM0xpSFpGSVdOZV92ZEx4aFlhbWExTEhHSTEzcEpGMVBpZVUyZWV2ZXBMc18yQUx4c1Fkc0w0VU95U1B4SkhmMWpENEY0T2F1bUhXN2czOGJCNWt3aTlyUUZUT21GZjl5YzhqLWpFRVgyRy13UQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "snippet": "Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "THORChain Price Outlook: Panic or Opportunity After RUNE Crashes 30%? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUgwOTE4Y3BvalFqejFPcGF1NDl5TUtwYy10X2JrZXFjcWI0MUFyRUViRUdUdE1oOEgzX29vUVhOMG50c3R3c2NHcW5icjladTRKSFB2a1FzRTNmQm1pX2I3WkstWUg0VTBtejVZYWEwMXZ2NzFRWVdSVjBYQlVNRGtYSDJocUtCMFZQdHVtUnpCSU1yclRlck96TjQxUnB5N3hGWmhmQdIBrAFBVV95cUxPZkdic1pFOTBKWTJHX3p6QjdQSkh5WXhtM0FnSWphV3E3eUs4LU1xYVFPckxmWFY5Nzh4T3MtWklObEdnZFZ2Y0RHVEF1LUNCM1hoaExSMmdxbHUwbVd6RG1MVHZkYVFLQ3pqeUJuSzdwTWhqaVRob0FvTVNUdmhZNmF3end0MXVkTFBHS2QwWUI4MHpaSXpXc0hNWjZ3VF9hTXJORHNac2pRYzBM?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
+      "snippet": "THORChain Price Outlook: Panic or Opportunity After RUNE Crashes 30%?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "THORChain price prediction | Is THORChain a good investment? - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTUm9mdDN5TjBtMDgwUi1nNmNKTVQ1X3dPLWsxR2R4OEY4WXVfTktJeFRXOHNKWTZSVl9MbjJobWhPZnVNQzg2czNhbUloc3ItUDlaRmdMM0VzRzhudW5TMmZR?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Fri, 28 Mar 2025 07:00:00 GMT",
+      "snippet": "THORChain price prediction | Is THORChain a good investment?&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "THORChain price today, RUNE to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNODRDVzJSSk0wS0VHYTBCUTBfQjFXQnlMc28wdHlNcE0xeWNXWnJpTl91bm5HOGdUZ2pCX3JMc1ZJZkRQYXJXOXJ6dms5UXhOcXRLQVltc21yc0k?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 23 Jul 2019 21:09:17 GMT",
+      "snippet": "THORChain price today, RUNE to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "THORChain Price Prediction 2025: RUNE Collapse Leaves It Oversold, but Recovery Possible - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WdUdmb2xPcnh2VGdITWM2MDdsRmduR3FVTUZES3JKU013UE1jY2kwY2o4b0k5cTJfdHRMZUZPZFVhWW52NTZzSlp0SElJNHg5QzNSWUUyX1h0ckIwaFdDRWJMc3FlT045R3pzeTZtaXZGdElGN2lz?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Fri, 10 Jan 2025 08:00:00 GMT",
+      "snippet": "THORChain Price Prediction 2025: RUNE Collapse Leaves It Oversold, but Recovery Possible&nbsp;&nbsp;CCN.com"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

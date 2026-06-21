@@ -1,0 +1,226 @@
+{
+  "token": "ALCH",
+  "exchange": "other",
+  "generatedAt": "2026-06-21T16:02:10.718Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ALCH",
+    "name": "Alchemist AI",
+    "generatedAt": "2026-06-21T16:02:04.758Z",
+    "summary": "ALCH近期上涨主要受AI Agent概念热度和Alchemy推出AgentCard接入Visa网络等利好驱动，但基本面缺乏实质进展，市值已超6000万美元，短期涨幅较大，追高风险较高。",
+    "rating": {
+      "score": 45,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": 15,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若价格跌破0.065美元或成交量持续萎缩，则上涨逻辑失效"
+    },
+    "catalysts": [
+      "Alchemy AgentCard接入Visa网络，AI代理可进行链下支付",
+      "AI Agent赛道整体热度回升",
+      "Binance Alpha Spotlight等平台曝光"
+    ],
+    "latestNews": [
+      {
+        "title": "Alchemy’s AgentCard gains access to Visa network for AI transactions",
+        "impact": "利好",
+        "reason": "AI代理支付场景落地，提升代币实用性预期"
+      },
+      {
+        "title": "AI Agents Can Spend on Visa's Network With Alchemy's New AgentCard",
+        "impact": "利好",
+        "reason": "主流媒体报道，扩大市场关注度"
+      },
+      {
+        "title": "Crypto is built for AI agents, not humans, says Alchemy's CEO",
+        "impact": "中性",
+        "reason": "CEO言论强化叙事，但无具体产品更新"
+      }
+    ],
+    "fundamentals": [
+      "无代码AI应用开发平台，用户通过描述生成软件",
+      "代币总供应量10亿，流通量8.5亿，流通率85%",
+      "市值约6300万美元，排名384",
+      "ATH 0.243美元，当前距ATH跌约69%",
+      "项目尚未有明确收入或用户数据披露"
+    ],
+    "marketRead": [
+      "24小时涨幅9.6%，7日涨幅12%，14日涨幅25.9%，短期上涨动能较强",
+      "24小时交易量818万美元，换手率约13%，流动性尚可",
+      "价格接近0.074美元，接近近期高点，但距ATH仍有较大空间"
+    ],
+    "risks": [
+      "AI Agent概念炒作成分大，缺乏实际应用支撑",
+      "代币解锁风险：总供应量仍有约1.5亿未流通，未来可能解锁",
+      "市场情绪变化快，一旦热度消退可能快速回落",
+      "项目方背景不透明，团队信息有限"
+    ],
+    "watchlist": [
+      "ALCH价格能否站稳0.07美元上方",
+      "成交量是否持续放大",
+      "是否有新的合作伙伴或产品上线",
+      "整体AI板块走势"
+    ],
+    "sourceNotes": [
+      "数据来源CoinGecko，新闻来源Google News聚合，部分新闻日期较早",
+      "Binance行情因地区限制无法获取，使用CoinGecko价格数据",
+      "项目描述来自CoinGecko，未验证真实性"
+    ]
+  },
+  "profile": {
+    "id": "alchemist-ai",
+    "symbol": "ALCH",
+    "name": "Alchemist AI",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "Solana Ecosystem",
+      "Pump.fun Ecosystem",
+      "AI Applications",
+      "Binance Alpha Spotlight"
+    ],
+    "homepage": [
+      "https://www.alchemistai.app/"
+    ],
+    "description": "Alchemist AI is a no-code development platform (NCDP) that enables users to create software applications with just a simple description. By eliminating the need for coding expertise, our AI enables anyone from beginners to professionals to generate bespoke applications on the fly - ranging from simple utilities to games. Our system involves Natural Language Processing (NLP), Code Generation, Web Framework Integration, and access to a Limited OS API. The Large Language Model (LLM) plays a pivotal role throughout the process, handling everything from parsing user input to generating executable code. ",
+    "marketCapRank": 384,
+    "currentPriceUsd": 0.074289,
+    "marketCapUsd": 63140088,
+    "fullyDilutedValuationUsd": 74278999,
+    "totalVolumeUsd": 8178690,
+    "priceChange24hPct": 9.6096,
+    "priceChange7dPct": 12.04757,
+    "priceChange14dPct": 25.8991,
+    "priceChange30dPct": -0.07376,
+    "athUsd": 0.243323,
+    "athChangePct": -69.4689,
+    "circulatingSupply": 850000000,
+    "totalSupply": 999953450.76559,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 9081,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "ALCHUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ALCHUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ALCHFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ALCHFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ALCHUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ALCHUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ALCHBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ALCHBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Alchemy’s AgentCard gains access to Visa network for AI transactions - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CZEljam10aUluS2x4QTNIVHo4ZXl5NUF1X3RYN1dhSWloSXRqTGwtZ0RnSklxQmkwQmFLejVLVm1lSmhwNkFxdGlOTmRMbHZWRUVhNUs0R0lZLUhUM0VpQ0hlZTlSVWF0TF9VUGZyYVNSVHBF?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Thu, 18 Jun 2026 20:47:23 GMT",
+      "snippet": "Alchemy’s AgentCard gains access to Visa network for AI transactions&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "AI Agents Can Spend on Visa's Network With Alchemy's New AgentCard - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXJ6YU9jcWxOZ0NCdm9yNHpHeE8wR0RmODdzYlZLbC1NUmpYcXdSMXNCdVBXYVpEc1VBZkhZZUthVHRXY1k1dUtXUHBwTTJlYWxlRXdCWWdJZ2RPQ29CdkFud3h6ZFpwR3B4M2hpSGVBTEl3X1ktbVkzLTNzaXBael9fY1psandTbjY4OTRReXRHZ0NQNVBqN0hlc04?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 19 Jun 2026 00:14:19 GMT",
+      "snippet": "AI Agents Can Spend on Visa's Network With Alchemy's New AgentCard&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Crypto is built for AI agents, not humans, says Alchemy's CEO - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMTAxaWpiRTR4OGRCUFNqQWp5X0ltQ3RHTW1jTUlaZG9pa2RjQjhuSnNlNUNqby1FSWwxMXY0YlN1TS1ZOFJNanFtUndOYUUxZUN6SkhzUTRLTHFDaWJDdEZYM3dhZGhfY2hIZFV6TmtCazBvY3Y2ODkwcjlJTzNMakkwbGJtWDBRaGQ0X1BUaC1fZGc4X3dZRzlLOGVQNThhNWc?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sat, 25 Apr 2026 07:00:00 GMT",
+      "snippet": "Crypto is built for AI agents, not humans, says Alchemy's CEO&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Alchemy introduces autonomous payment rails for AI agents on Base - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUmszQXpTQ0ExZ21WXy04ZEM1VGhBMGZ2MXFGVU4tUHhxQnJZczVBOEFvc21xVDZHblp2aGk5ZGRYbk43cWkzODVSQmlRR2hiS3VTOU84eGl1YVNFbGxDQUJleVF2eHRBcDhUQ3FlLWNuZjhYN0dzYURwZFcwZkZIMUo5VzdBZS1yVEJPeGUxWTg0b1BlQ2VUYnJVenUxVV9rRUM4Wk5OZWJVcU56VHRVTE9aZHFNdWxfTUZqVWlfS1N5Y1NIVlRHcA?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "snippet": "Alchemy introduces autonomous payment rails for AI agents on Base&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Best AI Cryptos of January Include ICP and ALCH, but as AI Continues to Thrive, the True Innovator Within the AI Coin Sector Is DeepSnitch AI - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpaGtJSGxGUDJLY0R1aDEzb3BScHhHYVZ5ekRxY3NPVElkZklVMXZqckE1VnlwbDB0MF9xdjhpb3pkU3VwX04xTHM2RzEzSEpmblR3RG5rQUNnRElyeEHSAWNBVV95cUxORURvVmEwVTBteVNqUnZjczdVYXFuc1pXS2FINEdPNzZheGk2bmdwUU9SZllpSWIyZmZMNFVneURhQ2cxSC1NSjZHcU00b01nTzlxbHN5UDJzWjlQdWxOazRXa1U?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "snippet": "Best AI Cryptos of January Include ICP and ALCH, but as AI Continues to Thrive, the True Innovator Within the AI Coin Sector Is DeepSnitch AI&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Alchemist AI Price: ALCH Price Index and Live Chart - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BYXJGRlRXbTFCczBxY0FjbUxGN3AtU1V6R3BiNGtiYXRiUWlfRGhLM19sUFA4OWVfeVRJOE9NT0R0eV91RFg4dWRwV0p4LVJsZU5NTTBZUXp6QlY4ZnpwNm1vS2tIelUzZWc?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 29 Jul 2025 07:01:54 GMT",
+      "snippet": "Alchemist AI Price: ALCH Price Index and Live Chart&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Alchemist AI (ALCH) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VSEk4R0IwcWU3YUtzUko0bnFuMEhsRWNLLWI3NG4yVjJPc2M2cDhvbVQzZVJMQk9XVnBIcWFoQ2MyN3JUNzBQTjFkSVdkSnFuNjFxRHl2MTVpMVFDdzhQejh0d2h5SVp1ejhXZVRFWEw?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Mon, 02 Dec 2024 17:37:59 GMT",
+      "snippet": "Alchemist AI (ALCH) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "ALCH to SCR: Convert Alchemist AI to Seychelles Rupee | Live ALCH Price in SCR | MEXC - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mb2NnSDhLNkFyTmkzOE9RUDh4eVlBNUFBU1ZIN2VlSjhzS25QcGdVc1ZZaHhlOEs5VTlYUHVfc080Zm9XUkhrZDRyMUVLN3lEbWc?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Tue, 12 May 2026 20:23:21 GMT",
+      "snippet": "ALCH to SCR: Convert Alchemist AI to Seychelles Rupee | Live ALCH Price in SCR | MEXC&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Create Breaking News Together price today, CBNT to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3NTBBWU8zazFxR1c3aXY2dHZvSmljc25mdW5meVpyVElaTjFGcUE0UEZGWjZiLTNBYnhQVEdPZDlFZTZoSm1QZVJQMA?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 18 Feb 2026 19:21:20 GMT",
+      "snippet": "Create Breaking News Together price today, CBNT to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Alchemist AI (ALCH) Token Unlocks and Vesting: Schedule and Tokenomics - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42bEZPTGt0bHEzOHNOR3dmd1JiajAxZUdlUGZBb3dnSER3M29UT1JDS3poRUdvdHYyTDJMY1JtUlhYNTVqamZvalIxXzd2Y0h6RjY3Qjh2RVlaN0F1?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 02 Dec 2024 15:51:51 GMT",
+      "snippet": "Alchemist AI (ALCH) Token Unlocks and Vesting: Schedule and Tokenomics&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Alchemy Taps AWS Veteran Bill Platt as COO to Drive Next Phase of AI-Powered Financial Transactions - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeHRLU3MyajhPemVYTG91MFJ0VElPc2RieUM5SWVLYUJDcUhIeE5WbjVXc0MxUWtTVERHNEpQamIzdklNQlVETGpaWl9UWk93RmdiLXFoN3NQTEJ5WE9kZlRzR3g3V01Wd1k5YnEydTNqZkVkblctMnVaVW1EZGR1VFlBTy1HMlNwaFJrcTdnR21aZkJycXlGSThOQ1VEMi1nZjFDV0g0eG8xelpaUEJndnZrSVB0VnBQZDh4aG1OcEZZd20wNDlCemtsYUJnOGd6RmVNSFEwVjFCZEJZX2lfZkNUWEgzNU5JWjlB?oc=5",
+      "source": "PR Newswire",
+      "publishedAt": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "snippet": "Alchemy Taps AWS Veteran Bill Platt as COO to Drive Next Phase of AI-Powered Financial Transactions&nbsp;&nbsp;PR Newswire"
+    },
+    {
+      "title": "Audiera Integrates BEAT Token On Alchemy Pay To Advance Global Utility Of Web3 Entertainment And Gaming Applications - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41ZlFjZndqWl9aZnJlbXUxaU1wYVM0cjRpMEJrSm9EcXc4QU91eWJ5YnRONWpkZV9yajRiSm5YZFRFU3lEc3BFbzQzYjdLMVAyU3dUem5BNnc4ZmVrNlHSAWNBVV95cUxQaU1YaERsWEp0UFM4UXktaFVRQm9CRlEwUjZOVTE5cUhnaXhUNUZWT2lyNDRBQk5hejlqVWZnV0p6czFScWc3Z2dVVHZWc2pWNm1jM3JxYjlNaUhJdXNhWnhIaEk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "Audiera Integrates BEAT Token On Alchemy Pay To Advance Global Utility Of Web3 Entertainment And Gaming Applications&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
