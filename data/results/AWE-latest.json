@@ -1,0 +1,233 @@
+{
+  "token": "AWE",
+  "exchange": "other",
+  "generatedAt": "2026-06-21T16:46:53.296Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AWE",
+    "name": "AWE Network",
+    "generatedAt": "2026-06-21T16:46:46.187Z",
+    "summary": "AWE Network（原STP）是专注于AI代理自主世界的模块化框架，近期因AI赛道热度及合作伙伴关系而上涨。但新闻多为数月前，缺乏近期催化，且价格仍较ATH跌79%。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大合作或产品上线，可重新评估；若持续无新催化，则逻辑失效。"
+    },
+    "catalysts": [
+      "AI Agent赛道整体热度回升",
+      "与OptimAI Network合作（2026年1月）",
+      "Binance上线AWE代币（2025年5月）"
+    ],
+    "latestNews": [
+      {
+        "title": "Why are AI tokens rallying and Bitcoin crashes? - FXStreet",
+        "impact": "利好",
+        "reason": "AI代币整体上涨，AWE作为AI概念受益"
+      },
+      {
+        "title": "Best AI-Agent Crypto Coins to Buy in 2026 - Changelly",
+        "impact": "中性",
+        "reason": "媒体推荐列表，但非独家利好"
+      },
+      {
+        "title": "AWE Network Partners With OptimAI Network - TradingView",
+        "impact": "利好",
+        "reason": "合作扩大生态，但消息已过时"
+      },
+      {
+        "title": "AWE Token Goes Live on Binance After STPT Phase-Out - Coinfomania",
+        "impact": "利好",
+        "reason": "上线主流交易所增加流动性"
+      }
+    ],
+    "fundamentals": [
+      "AWE Network是模块化自主世界引擎，支持AI代理协作",
+      "World.Fun启动器可创建1000个AI驱动世界",
+      "代币总供应量20亿，流通19.42亿，接近全流通",
+      "市值约1.09亿美元，排名253"
+    ],
+    "marketRead": [
+      "24小时涨幅3.84%，7日涨幅5.25%，30日涨幅11.87%，呈温和上升趋势",
+      "成交量约490万美元，相对市值偏低，流动性一般",
+      "价格仍较ATH跌79%，处于低位"
+    ],
+    "risks": [
+      "新闻多为数月前，缺乏近期催化",
+      "AI赛道竞争激烈，项目差异化不足",
+      "代币接近全流通，无解锁压力但缺乏通缩机制",
+      "市场情绪依赖整体AI板块，若板块回调则承压"
+    ],
+    "watchlist": [
+      "是否有新的合作伙伴或产品更新",
+      "AI板块整体走势",
+      "Binance等交易所的流动性变化"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko及新闻聚合，Binance行情因地区限制无法获取",
+      "新闻时效性较差，最新为2026年6月5日，但多为重复内容"
+    ]
+  },
+  "profile": {
+    "id": "stp-network",
+    "symbol": "AWE",
+    "name": "AWE Network",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "Infrastructure",
+      "Decentralized Finance (DeFi)",
+      "Derivatives",
+      "Synthetic Issuer",
+      "Base Ecosystem",
+      "AI Agents",
+      "Synthetic",
+      "AI Agent Launchpad",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://www.awenetwork.ai/"
+    ],
+    "description": "STP (Becoming AWE Network) is opening the portal to Autonomous Worlds where AI Agents collaborate, adapt and evolve. The Autonomous Worlds Engine (AWE) is a modular framework enabling the creation of self-sustaining worlds for scalable agent-agent and human-agent collaboration. AWE scales interactions between thousands of autonomous agents using parallel processing, dependency management and GPU-optimized workloads. World.Fun is an autonomous worlds launcher that supports 1,000 agent AI-driven Autonomous Worlds powered by AWE. Users can create and customize agents to be deployed into these autonomous worlds using STPT. ",
+    "marketCapRank": 253,
+    "currentPriceUsd": 0.056067,
+    "marketCapUsd": 108995123,
+    "fullyDilutedValuationUsd": 108995123,
+    "totalVolumeUsd": 4908243,
+    "priceChange24hPct": 3.83886,
+    "priceChange7dPct": 5.2534,
+    "priceChange14dPct": 3.80226,
+    "priceChange30dPct": 11.87398,
+    "athUsd": 0.270085,
+    "athChangePct": -79.2083,
+    "circulatingSupply": 1942420283.0270672,
+    "totalSupply": 1942420283.0270672,
+    "maxSupply": 2000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 7843,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "AWEUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AWEUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AWEFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AWEFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AWEUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AWEUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AWEBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AWEBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Why are AI tokens rallying and Bitcoin crashes? - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNzhHOGhyWUpWTjMxT1ZHTHlPaTdHbXhkeFpyZWpBRHo4cXpYT1dwSUQwSHFnSTJjSG1ncTZ0dUdweGZXUDFvV2ZUS3ZwbTcxRjl5N04wUlk4SEZYRmQ0bGh5M3pXRnpSYTZ5dkd5Ukh1dHRXX19mc19zaEtNUnRkelpkaF80VEZNQ21vQXRodnkwMTZrdTFxZzlFWXc2WTFJT2o0czNFbllINXJSZ044MGlyOE9KMF80a1lKQmxjb3lzb3B4UFExeUhrSUPSAdIBQVVfeXFMT2E3ci1qdGhzT3V1RXNteHlmZld5U0U4OHpnWVN5d1BrSHFVajFVR0FVS2l5blIydS1SQzhtSU84VTVxRDV4MHV1Q0tYUmVQVUZEbnF6UnJuTkVySHVSZU8yRzNXRnZlNkZOa3FiVnpCdkRxUUVLa01wLXV2b0hSd2VGTHEzSkx3ZkhLYWplYzh0czJIbWpYOG5UQXdIejRDQkRlaW9oRWVCZ0dHRGRrWnQyYlRNRlRSVmh6ckxCVE1ZUFk1STRfNmxveF92eEdnQnhn?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "Sat, 02 May 2026 07:00:00 GMT",
+      "snippet": "Why are AI tokens rallying and Bitcoin crashes?&nbsp;&nbsp;FXStreet"
+    },
+    {
+      "title": "Best AI-Agent Crypto Coins to Buy in 2026 - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sOTBhY2NSSEYzMzJ4Um9OclVoSHdfUjc5M1d3T2RITkxNS0hjQTAzeC1CMHZXNUF1STBoY1A5bmdnd1pZa21WY0h3Q3BGYkVWZmh0elpwMlR2bUZKVGFELU1yWHJ3Ymgxb1BrZVFR?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "snippet": "Best AI-Agent Crypto Coins to Buy in 2026&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "STP Price: STPT Price Index and Live Chart - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iSjJQbmFZRV9sMl82RnJEUi1LTzROS0swQlMwaEtBQWVQbzlucHhuTTRHOFl0eTVnNXNXVkp2MWFJeXlOOTlkX01iVlFvZ2JvUE5vTWM5SDl5X1NMLXc?oc=5",
+      "source": "The Block",
+      "publishedAt": "Fri, 05 Jun 2026 06:08:00 GMT",
+      "snippet": "STP Price: STPT Price Index and Live Chart&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "AWE Network Partners With OptimAI Network - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTFuR015ZjNZTG1nVlllMUx0UGlhWlIzQjFsOXhVdWN1QXA1eVpURjJHMXZ3YmUxYW9uVnBiaVBHejJ0UDRMUDVJcU9rdEJ2Q3d1N0ptRUVncUFCeEdLNThSWDVidzV6YmJTeUptMzZ3aE9Kc28talpadDAxWFU4RFprbDltTnhaTG9lUjdBTEN4NDJtRVowMV9GN3FJVWhG?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Mon, 26 Jan 2026 08:00:00 GMT",
+      "snippet": "AWE Network Partners With OptimAI Network&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "AWE Price Today | AWE to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtU0d0Y3UwTG5rTW94WUdSc01HQzVwd09JaEZCakVCams3MlhxUUt5d1k5ZVFSRDVPUGRsNDZXYVVZaWJ2Y0F0Qk1sR1VBc0hsRXlZVFd0NFVRYTQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "snippet": "AWE Price Today | AWE to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "AWE Network price today, AWE to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWYkRJanVzT3hZSVhSNVhHRjJBSmhfdTdTMkRuc0VHZEFfdzRtRklfZHZ3RGVyYWhNT1JuM0NrVU9IUGZkNTNoTkZjOWdoMGswcWFyUw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 03 Jul 2025 01:00:37 GMT",
+      "snippet": "AWE Network price today, AWE to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "AWE price today, AWE to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NU3Y2b3ZfNFpYZDJRdUFWUkM4YnUzekFVTHNTMEV4QURZcXJBbDZBNU5aX2YyT0NSZnYzc3U5UHlCODVJSkxlZnYtYm9ZWUUwSnhRaGdQN2x5R1RUbGc?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 21 May 2025 07:11:27 GMT",
+      "snippet": "AWE price today, AWE to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Important Coinbase Announcement Concerning XRP, ADA, and Other Altcoin Investors - CryptoPotato",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmdMbF9XVEE4enpDbHRlU3oyNDltb3d3WmI4Z0l2WWl4VUJ1X2ktNEUtUnlWU3VuUkFLalhnd2syZWxVT3NqcGx1dXlDaHphcnMyUmpMLWw5b0xWMzFXMlQzQi1jUHBFa2g5SjFoNEl1b3NXNWk0djZtNDY4VUJlSUZPTXB0ZVphZmgtS1UzSEZQZF9wdGwxR3E3VEdNYzh6WlBac3dFaw?oc=5",
+      "source": "CryptoPotato",
+      "publishedAt": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "snippet": "Important Coinbase Announcement Concerning XRP, ADA, and Other Altcoin Investors&nbsp;&nbsp;CryptoPotato"
+    },
+    {
+      "title": "AWE Network Price | AWE Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOTFBhNmJtQTh6cGZWdmFrYTdkS1AxaThRZm1GdVlZeGs3NnJ1NXpSLTFSLVdxbVdveENyelcwdE1qeEI5emlHQUdnYktVSjht?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 07 Aug 2020 09:18:56 GMT",
+      "snippet": "AWE Network Price | AWE Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "AWE Price Today | AWE to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85SFNZcVhNU0VwOFdteVBHTXBXZjBTalJVN1FqbEgxckhMTzFWeUNwQ0d4VEVkaXBwbHVlMXZmNEh5RjRza3AwZ0RpaTNXZ19VSnJQQTV3QQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 21 May 2025 08:06:47 GMT",
+      "snippet": "AWE Price Today | AWE to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "AWE to EUR: AWE Network Price in Euro - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TM3FjTWhtTjVnZkYwaFNMQkR1WlFyRkctcVlnQXlsa2hUSlU0WGdNQ01sV3dMVklEWWEyUEhtZ3Z2MFdjM19JZnViOHN4VlBvWENQNHpwWWFFZ2pKR3dj?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Wed, 21 May 2025 08:41:23 GMT",
+      "snippet": "AWE to EUR: AWE Network Price in Euro&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "AWE Token Goes Live on Binance After STPT Phase-Out - Coinfomania",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZk1MUHNOWHBCV0dnZG9feEZuTkdLZGVKWHJnMmlEZnpaLVcxc1FQejFNTkswOE40SHU3cWxLR0tqeUwtUUYtRW5oOEI1UFdiYVEzR1dGTGxKRzdiZGE2TUJTem40OVprNG5pN19DelVkNlNjekNGNWdmWjBROHVnNk9WTWhtQQ?oc=5",
+      "source": "Coinfomania",
+      "publishedAt": "Tue, 06 May 2025 07:00:00 GMT",
+      "snippet": "AWE Token Goes Live on Binance After STPT Phase-Out&nbsp;&nbsp;Coinfomania"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
