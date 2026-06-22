@@ -2,13 +2,13 @@
   "token": "ID",
   "requestedInput": "Space ID",
   "exchange": "binance",
-  "generatedAt": "2026-06-22T07:24:18.254Z",
+  "generatedAt": "2026-06-22T06:05:08.339Z",
   "analysisStatus": "deepseek",
   "analysis": {
     "token": "ID",
     "name": "SPACE ID",
-    "generatedAt": "2026-06-22T07:24:11.757Z",
-    "summary": "ID近24小时大涨29.6%，但即将面临约198万美元的代币解锁抛压，且新闻面缺乏近期实质性利好，上涨持续性存疑。",
+    "generatedAt": "2026-06-22T06:05:00.095Z",
+    "summary": "ID代币因Upbit上线及韩国市场情绪高涨而24小时暴涨40%，但基本面支撑有限，且一周后有约198万美元代币解锁，短期追高风险较大。",
     "rating": {
       "score": 30,
       "label": "观望",
@@ -16,43 +16,54 @@
     },
     "recommendation": {
       "action": "观察",
-      "expectedUpsidePct": null,
-      "holdingPeriod": "1-3天",
-      "invalidation": "若解锁前价格大幅回落或成交量萎缩，则上涨逻辑失效"
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若价格跌破0.03美元或解锁前出现恐慌抛售，则逻辑失效。"
     },
     "catalysts": [
-      "24小时成交量高达1.35亿美元，远超市值（1617万美元），可能为短期资金炒作",
-      "过去7天涨幅34%，14天涨幅50%，短期动量强劲"
+      "Upbit上线交易对，韩国市场情绪极度贪婪",
+      "24小时成交量达1.18亿美元，远超市值（1630万美元），换手率极高",
+      "近期与Zetarium合作，拓展BNB Chain生态"
     ],
     "latestNews": [
       {
+        "title": "Space ID token surges on Upbit with volume spike and extreme greed sentiment in South Korea",
+        "impact": "利好",
+        "reason": "Upbit上线是直接催化剂，韩国市场情绪推动短期买盘"
+      },
+      {
         "title": "RootData: ID will unlock tokens worth approximately 1.98 million dollars in one week",
         "impact": "利空",
-        "reason": "一周后解锁约198万美元代币，占总流通市值约12%，可能带来抛压"
+        "reason": "一周后解锁约198万美元代币，增加抛压"
       }
     ],
     "fundamentals": [
-      "SPACE ID是跨链域名服务项目，曾获Binance Launchpad支持",
-      "当前市值仅1617万美元，FDV约7498万美元，流通率约21.6%",
-      "代币总量20亿，流通4.3亿，未来解锁压力较大"
+      "SPACE ID是跨链域名服务项目，支持多链Web3身份管理",
+      "曾获Binance Launchpad支持，有Binance Labs和DWF Labs投资",
+      "流通市值约1633万美元，FDV约7574万美元，流通率约21.6%",
+      "总供应量20亿，当前流通4.3亿，未来解锁压力较大"
     ],
     "marketRead": [
-      "24小时成交量1.35亿美元，是市值的8倍多，显示交易活跃但可能包含对倒或短期投机",
-      "价格从ATH 1.84美元下跌97.96%，当前处于历史低位"
+      "24小时涨幅40.7%，成交量放大至市值的7倍以上，显示投机情绪浓厚",
+      "价格仍较历史高点1.84美元下跌约98%，处于长期底部区域",
+      "缺乏近期价格数据，无法分析K线形态"
     ],
     "risks": [
       "一周后代币解锁，可能引发抛售",
-      "近期无重大合作或产品更新新闻，上涨缺乏基本面支撑",
-      "市场情绪中性（看涨比例50%），散户关注度一般"
+      "涨幅主要由韩国交易所上线驱动，持续性存疑",
+      "项目基本面未出现重大利好，估值支撑不足",
+      "流动性风险：若情绪消退，价格可能快速回落"
     ],
     "watchlist": [
-      "解锁前价格走势及成交量变化",
-      "是否有新的合作或生态进展公告",
+      "Upbit上ID交易量及价格走势",
+      "一周后解锁代币的抛售情况",
+      "是否有新的合作伙伴或生态进展",
       "整体市场情绪及比特币走势"
     ],
     "sourceNotes": [
-      "Binance行情数据因地区限制无法获取，价格数据来自CoinGecko profile",
-      "新闻多为旧闻或无关内容，仅一条解锁新闻为近期"
+      "Binance行情数据因地区限制无法获取，价格数据来自CoinGecko",
+      "新闻来源为Google News聚合，部分日期较早",
+      "解锁信息来自RootData，需确认具体时间"
     ]
   },
   "profile": {
@@ -71,22 +82,22 @@
       "https://space.id/"
     ],
     "description": "SPACE ID is building a universal name service network with a one-stop identity platform to discover, register, trade, manage web3 domains. It also includes a Web3 Name SDK &amp; API for developers across blockchains and provides a multi-chain name service for everyone to easily build and create a web3 identity.",
-    "marketCapRank": 916,
-    "currentPriceUsd": 0.03755986,
-    "marketCapUsd": 16166975,
-    "fullyDilutedValuationUsd": 74979795,
-    "totalVolumeUsd": 134654204,
-    "priceChange24hPct": 29.57378,
-    "priceChange7dPct": 34.20935,
-    "priceChange14dPct": 49.67443,
-    "priceChange30dPct": 20.55854,
+    "marketCapRank": 901,
+    "currentPriceUsd": 0.03790418,
+    "marketCapUsd": 16331610,
+    "fullyDilutedValuationUsd": 75743344,
+    "totalVolumeUsd": 118372926,
+    "priceChange24hPct": 40.70056,
+    "priceChange7dPct": 35.43966,
+    "priceChange14dPct": 51.04651,
+    "priceChange30dPct": 21.66371,
     "athUsd": 1.84,
-    "athChangePct": -97.95731,
+    "athChangePct": -97.93618,
     "circulatingSupply": 430506132,
     "totalSupply": 1996617244,
     "maxSupply": 2000000000,
-    "sentimentVotesUpPct": 50,
-    "watchlistUsers": 20648,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 20646,
     "genesisDate": null
   },
   "market": {
@@ -114,6 +125,13 @@
     ]
   },
   "news": [
+    {
+      "title": "Space ID token surges on Upbit with volume spike and extreme greed sentiment in South Korea - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZlA5N0s1cEpLYTJHcVd1bGxyUi1aMnJOUkxzN1d4U2FzeHV2QkpoZTB5TkhIaVhVMFVxcVJOSUJTOUtpT3F5bGhRNm9rWnRZSl9veWYtR0gtWG5keGdlTHcwN1lIVk0wWDA5QUxNa3FrVkVrR3RQZ3I4UXAxcE5hd3NpbWgwNXIyeWJyeTUzSEU4MDdpZTBGQ0MtZTducnpMNVNCT185c1ZIQQ?oc=5",
+      "source": "Pluang",
+      "publishedAt": "Sun, 31 May 2026 07:00:00 GMT",
+      "snippet": "Space ID token surges on Upbit with volume spike and extreme greed sentiment in South Korea&nbsp;&nbsp;Pluang"
+    },
     {
       "title": "RootData: ID will unlock tokens worth approximately 1.98 million dollars in one week - WEEX",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOFcwVDFkNEpRdzMyYnVRalRXbVJoNVlVNGJtRWZlWWZLSEQ3b1dKMDV4a3licXdHQTNHQi1yVmlzMnpUdHpRTHBMaThycmsycTNfRFlsZ2YzaXlvc3ZnSzlCN0xLcDVScDJLeThWcG50X2VKRnJmaUtKSU9YRDZGWVVuemYxRm9XaVZKSFd1dGNnZUVpMjZlWWl4NXdtQlRaY2s5WTFNVVRTQkdHTWRhNHV4MENreEJRZWYxMEQyeFZKUHpkbVdOY3NXRUYzWGVETmIyeEV6OA?oc=5",
@@ -157,13 +175,6 @@
       "snippet": "Zetarium Joins SPACE ID to Boost Web3 Identity and DeFi Experience on BNB Chain&nbsp;&nbsp;Bitget"
     },
     {
-      "title": "Fight ID (FIGHT) Coin Price Prediction & Forecasts for January 2026 – Potential Surge After Today’s Launch? - WEEX",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNVFfZEtIOGp1eXEyMkpPcW9DVE5UQlRmOHBkYjYxSHJidDRPa1RDOFdlN2k5aFdJOGpYVkNESTBwZER6bGhKV0pLQ0hhajFLSklXMmdiRG1LWk5WS1NPOWRVVDVLZDgwVUdrMWdHaEtwc0hrMDBHTDlxczREcldRWmQ4S3l5Y1VCS3FwU1M1QTNjZWs0b3Bzckg5VVdneEJwSkg2dm5GNjE2OF9Tc1dNUFhRa1dXR3Z4M1VqXzNRV1VzMm9pYV9aUWhqRFRXcjRxeXZteWVR?oc=5",
-      "source": "WEEX",
-      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
-      "snippet": "Fight ID (FIGHT) Coin Price Prediction & Forecasts for January 2026 – Potential Surge After Today’s Launch?&nbsp;&nbsp;WEEX"
-    },
-    {
       "title": "SPACE ID (ID): Managing All Your Digital Identities in One Place - Bybit Learn",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vZUw3RmdMeTktcTJpOHBPRVRTU0MwTlFib1RHQ0I2bjNJZ29PZmljVUt0Q0xXckl0M28ybEZQcS1GMWVwSWJTTGZlWnE2T1hSMkpIU3VrWVhiY3UycW02eHhrZXgtUQ?oc=5",
       "source": "Bybit Learn",
@@ -171,11 +182,11 @@
       "snippet": "SPACE ID (ID): Managing All Your Digital Identities in One Place&nbsp;&nbsp;Bybit Learn"
     },
     {
-      "title": "SPACE ID Price Today | ID to USD Live Price, Market Cap & Chart - Binance",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PY3NUNkFKNnIyU1NTQkkyN0dvSnB1ajQzekZMaVpnZ0tmanJyYzJ3R2dkM2FjX2t1TWtodFplTUcxY0FTbURXek9kVDRhLTdZbTNZ?oc=5",
-      "source": "Binance",
-      "publishedAt": "Fri, 17 Mar 2023 20:41:01 GMT",
-      "snippet": "SPACE ID Price Today | ID to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+      "title": "What Is SPACE ID? - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xYkhMU20tQ0N1XzhOWk5CcmhHT2JnMkRGcHp4UWVkdG9zTGhDWlNVQUV1US1IT3A2aHZYSjVCaGtrbmc0UWRUbUpSZ0E1OC0zMmI1Sw?oc=5",
+      "source": "OKX",
+      "publishedAt": "Thu, 25 Dec 2025 08:00:00 GMT",
+      "snippet": "What Is SPACE ID?&nbsp;&nbsp;OKX"
     },
     {
       "title": "ID/USDT - Binance",
@@ -197,13 +208,6 @@
       "source": "Binance",
       "publishedAt": "Tue, 18 Apr 2023 07:00:00 GMT",
       "snippet": "SpaceID (ID) Performs Whopping 120% Surge: Who May Be Behind Price Push?&nbsp;&nbsp;Binance"
-    },
-    {
-      "title": "SPACE ID Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast - Binance",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54OGRLMW1SM19laDhUQkRpZmxpT0hMMVpUak5ieS1SaWpDdUJOODZwX3pNbm4tckxZNEhyNXp5MldGS2hVazVrcVVFMm5oa1duTmo0MTFPZGFhakVNT3BPby1Bdks0dw?oc=5",
-      "source": "Binance",
-      "publishedAt": "Wed, 25 Oct 2023 19:12:03 GMT",
-      "snippet": "SPACE ID Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast&nbsp;&nbsp;Binance"
     }
   ],
   "sources": {
