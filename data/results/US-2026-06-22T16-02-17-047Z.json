@@ -1,0 +1,335 @@
+{
+  "token": "US",
+  "requestedInput": "US",
+  "exchange": "other",
+  "generatedAt": "2026-06-22T16:02:17.047Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "US",
+    "name": "Talus Token",
+    "generatedAt": "2026-06-22T16:02:10.285Z",
+    "summary": "Talus Network 是一个基于 Sui 的 AI 区块链项目，代币 US 近期价格平稳，24h 微跌 0.64%，市值约 1840 万美元，流动性仅 55 万美元。项目有 Binance 交易竞赛等短期催化，但缺乏近期重大利好，估值偏高，流动性差，风险较大。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "价格跌破 0.013 美元或流动性进一步下降"
+    },
+    "catalysts": [
+      "Binance 曾举办 Talus 交易竞赛（2025年12月），可能仍有后续活动",
+      "AI + 区块链叙事热度",
+      "项目仍处于早期，有潜在空投或生态激励"
+    ],
+    "latestNews": [
+      {
+        "title": "Talus Price Today in India | US to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格跟踪页面，无实质内容"
+      },
+      {
+        "title": "Talus Network Trading Competition and Deposit Campaign: Trade and Deposit Talus Network (US) and Share $220K Worth of Rewards - Binance",
+        "impact": "利好",
+        "reason": "Binance 官方活动，曾吸引交易量，但已过去半年"
+      },
+      {
+        "title": "Research Report｜In-Depth Analysis and Market Cap of Talus (US) - Bitget",
+        "impact": "中性",
+        "reason": "研究报告，无新信息"
+      }
+    ],
+    "fundamentals": [
+      "Talus Network 是一个基于 Sui 的 AI 区块链平台，旨在为 AI 代理提供去中心化基础设施",
+      "代币 US 于 2025-12-10 上线，当前市值 1840 万美元，FDV 1.44 亿美元",
+      "流通供应量未知，总供应量未披露，存在解锁风险",
+      "项目有官方推特、Discord，社区活跃度一般"
+    ],
+    "marketRead": [
+      "24h 价格微跌 0.64%，成交量约 35 万美元，流动性仅 55 万美元，深度极差",
+      "无近期 K 线数据，无法判断趋势",
+      "市值/流动性比约 33，说明价格容易被操纵"
+    ],
+    "risks": [
+      "流动性极低（55 万美元），大额买卖易滑点",
+      "FDV 高达 1.44 亿美元，当前市值仅 1840 万，解锁后抛压风险大",
+      "无近期重大利好或新闻催化",
+      "项目处于早期，合约风险、团队风险未知",
+      "24h 价格下跌，短期动能不足"
+    ],
+    "watchlist": [
+      "是否有新的 CEX 上线或做市商引入",
+      "项目方是否公布代币解锁计划",
+      "AI 赛道整体情绪",
+      "Sui 链上活跃度"
+    ],
+    "sourceNotes": [
+      "数据来源仅为 DexScreener，缺少 CEX 数据",
+      "新闻多为 2025 年底，时效性差",
+      "无链上持仓分布数据"
+    ]
+  },
+  "profile": {
+    "id": "0xee962a61432231c2ede6946515beb02290cb516ad087bb06a731e922b2a5f57a::us::US",
+    "symbol": "US",
+    "name": "Talus Token",
+    "categories": [
+      "sui",
+      "cetus"
+    ],
+    "homepage": [
+      "https://talus.network",
+      "https://docs.talus.foundation",
+      "https://talus.foundation"
+    ],
+    "description": "DexScreener pair on sui / cetus. Pair URL: https://dexscreener.com/sui/0x968f1f73b8e766e2ce0198c807d0c956aa384bfe64c98a18e56bfb970a13e7bb Socials: twitter: https://x.com/talus_labs; discord: https://discord.com/invite/talusnetwork",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.01442,
+    "marketCapUsd": 18393821,
+    "fullyDilutedValuationUsd": 144284193,
+    "totalVolumeUsd": 348909.26,
+    "priceChange24hPct": -0.64,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-12-10",
+    "chainId": "sui",
+    "dexId": "cetus",
+    "pairAddress": "0x968f1f73b8e766e2ce0198c807d0c956aa384bfe64c98a18e56bfb970a13e7bb",
+    "baseTokenAddress": "0xee962a61432231c2ede6946515beb02290cb516ad087bb06a731e922b2a5f57a::us::US",
+    "quoteToken": {
+      "address": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+      "name": "USDC",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 551089.64,
+    "pairUrl": "https://dexscreener.com/sui/0x968f1f73b8e766e2ce0198c807d0c956aa384bfe64c98a18e56bfb970a13e7bb",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "cetus",
+    "pair": "US/USDC",
+    "chainId": "sui",
+    "dexId": "cetus",
+    "pairAddress": "0x968f1f73b8e766e2ce0198c807d0c956aa384bfe64c98a18e56bfb970a13e7bb",
+    "pairUrl": "https://dexscreener.com/sui/0x968f1f73b8e766e2ce0198c807d0c956aa384bfe64c98a18e56bfb970a13e7bb",
+    "lastPrice": 0.01442,
+    "priceChange24hPct": -0.64,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 348909.26,
+    "liquidityUsd": 551089.64,
+    "fullyDilutedValuationUsd": 144284193,
+    "marketCapUsd": 18393821,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "sui",
+    "dexId": "cetus",
+    "url": "https://dexscreener.com/sui/0x968f1f73b8e766e2ce0198c807d0c956aa384bfe64c98a18e56bfb970a13e7bb",
+    "pairAddress": "0x968f1f73b8e766e2ce0198c807d0c956aa384bfe64c98a18e56bfb970a13e7bb",
+    "baseToken": {
+      "address": "0xee962a61432231c2ede6946515beb02290cb516ad087bb06a731e922b2a5f57a::us::US",
+      "name": "Talus Token",
+      "symbol": "US"
+    },
+    "quoteToken": {
+      "address": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+      "name": "USDC",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.01442",
+    "priceUsd": "0.01442",
+    "txns": {
+      "m5": {
+        "buys": 2,
+        "sells": 1
+      },
+      "h1": {
+        "buys": 25,
+        "sells": 24
+      },
+      "h6": {
+        "buys": 148,
+        "sells": 131
+      },
+      "h24": {
+        "buys": 920,
+        "sells": 1005
+      }
+    },
+    "volume": {
+      "h24": 348909.26,
+      "h6": 49892.48,
+      "h1": 8981.66,
+      "m5": 549.85
+    },
+    "priceChange": {
+      "h1": -0.32,
+      "h6": 0.32,
+      "h24": -0.64
+    },
+    "liquidity": {
+      "usd": 551089.64,
+      "base": 12720854,
+      "quote": 367547
+    },
+    "fdv": 144284193,
+    "marketCap": 18393821,
+    "pairCreatedAt": 1765371276000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/a3fa10606baddde4736f89456cd41bc4de29c3a4a8e01b4017f0f67e44a11204?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/cd0a042529b72e9662e21164dd849e23bd38c14d93a0f66e6a406cf8c3ab0a26?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/sui/0xee962a61432231c2ede6946515beb02290cb516ad087bb06a731e922b2a5f57a::us::us?timestamp=1782144000000",
+      "websites": [
+        {
+          "url": "https://talus.network",
+          "label": "Website"
+        },
+        {
+          "url": "https://docs.talus.foundation",
+          "label": "Docs"
+        },
+        {
+          "url": "https://talus.foundation",
+          "label": "Talus Foundation"
+        },
+        {
+          "url": "https://us.talus.foundation",
+          "label": "Staking"
+        },
+        {
+          "url": "https://cryptorank.io/price/talus-network",
+          "label": "Funding Rounds"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/talus_labs",
+          "type": "twitter"
+        },
+        {
+          "url": "https://discord.com/invite/talusnetwork",
+          "type": "discord"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Talus Token price today, US to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YMEhleHVpd0U0NUNkZmg4elhPOGhZaHBrLVB4ZDlIbk94YWpCMkstRmZkQkROY0hRdXdIZVc4OHdmY3J5RHBLTk5lTFBvWnE3MmRaQQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 19 Feb 2026 21:06:17 GMT",
+      "snippet": "Talus Token price today, US to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Talus Price: US/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DOXRCMUZjcEVZUGJMLUJaWkF0Qi1TRy1FTWxsbnZWZkEtd2owNVFGS3A0UE0tMHIwVXU1WDQyMlBNajdMVzNuM1lORUprSW1sMThGUA?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 14 Nov 2025 18:46:05 GMT",
+      "snippet": "Talus Price: US/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Talus price today, US to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LcXNyekt3NTZPaHQxZFBYT1BxWmJqa3hFRXd0RUhzengtaHl6Unp4dEs5WDdlU0U2MU1nWGhqd21GUWY1cDNHVEw4WnR0TWNfNlVWbmItaGUycnZGZkVFbg?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 03 Nov 2025 08:46:16 GMT",
+      "snippet": "Talus price today, US to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Talus Network (US) Coin Price Prediction & Forecasts for December 2025: Could It Surge 50% Amid AI Blockchain Buzz? - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONnZ2Z2RPMGZwR1ZHejk1MU83bm5tb0pFVk81a29VSEFZcm13UXZPYzJMcUFyenNXQUh0ZEhscm1VYmlzYWFsSUFYbC1IbzNTenVqeUhLVGJ3VTFlWENsZUlDc1Mtb05STjR6ZWlSQnFHUVZadU8zSGNxN1FpY19NX2pNbnRhWmxpTUpyQ01KZmFBSHJFZ3RPVXpiTUhMVGhxbGJGUmhiaU9QTHRKNFZ3dkprYzM5UlR2YVdTYUhoQS1aVEUxTnZudGg1SElHM3VBWEp4SkFCSGFrYmN1N2pHS2x3?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "snippet": "Talus Network (US) Coin Price Prediction & Forecasts for December 2025: Could It Surge 50% Amid AI Blockchain Buzz?&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Talus Price Today in India | US to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxRG8xQXNiZVdoVEpoU0lPWmpNdVZETHh0T3EwMTdxM3JEc0hpbDlFNW53dDB0X0hlY0Z2X0NuUXltT25fOVRNOURaUFV2MzdqcTRUdlRjT2x6YUpPb3c?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 14 Jun 2026 14:32:00 GMT",
+      "snippet": "Talus Price Today in India | US to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Research Report｜In-Depth Analysis and Market Cap of Talus (US) - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RYlVxejZPc0lSSTFLbEVyanJFR2xCeDZzNUFHbDhIbU9pMG5FTVlreEdsUVJSQ0JqMzFnRnppZkR3Uk5qMDFuNHVnNmtabGs0QmRKVjZoYjhWWGVsVGfSAWNBVV95cUxNR2M3QVhfdzIwNGY3LTdWZUtmYktaVWdfT3ZyMjdyWThSMC1US1JXd3BVeHhFaVVzcGtMZzBRTE9HRWlVOS1rT0gzWGNOS1Z0WmRKSzhoTUZBUUR1TC1RSUlZTUE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "snippet": "Research Report｜In-Depth Analysis and Market Cap of Talus (US)&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Talus Price USD, US Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDOUpjTVJMejIyeGFjRFg3RTNRU0FQSk9MQjhTcVNOYW51T2pFQ3VCQTl6bU9ocWZwNXRFcmNuX3huVlhJWXFtaUtHT2RjRGRacURmOA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 09 Dec 2025 16:03:08 GMT",
+      "snippet": "Talus Price USD, US Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Talus Network ($US) Price Prediction 2025–2030: From $0.02 to $0.60 Possible? - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZWlA0VklBOXFTSEtlejZtc3hsT0dnREl0YXp6XzBZV2FiNTlvYUFKU2hkd1pDZlAtdUYzeGx2am01OGx6amQxbnZGekJzcGN1TnhQaWdjSjlyX1hXSmRnM0wwSFd3dUtzZUpZencwN2JpODJ5Rm04?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "Talus Network ($US) Price Prediction 2025–2030: From $0.02 to $0.60 Possible?&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "What is Talus (US)? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qT2VSbnZiaUVyS0h5Y3ZaRFNqeDc4TFVxcGVMTUFXbFVMdEFRWHdNNWhqSlZZNzZlS1Zza0psc253RnppalVEVWRqbUxXQWlpSHlDTkUxM002cm9NLThSNG1pa3h2Z2p5ck1Celc2a2drUGVkZlZ30gF8QVVfeXFMUHo3THZzS3hZZ05haWZGeElFeW4zR1QzZTJFNF81VHd2TGp6SUo0RDRSYzlNWkpRTUZUNjBiNW5QZWRMQ1h5RUhjdWRUajhyeDIzZVlaanlBZk94Nm1xNS1Da04yeFZfaGpnOEZrT0lxLXFYazVyTlRURFVPUA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "snippet": "What is Talus (US)?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Introducing Talus Network: Complete Guide to $US and Airdrop Opportunities - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY2E3R1ZxMHdpeTNwMVBDY0haQ3RiT0Vham5BbWdfOVNFMzFyanZuOWd1U1JDNGt5cGNRczQzaTRkUlpoYnYxUTJIbnNPR3l4WnNYbi1OUmxMMmdpcjVpNUJmUlAweGdySXhRR0U2ZlpZNGlhYUtDMnJHQlZudXoyMG9sMkNuNEx0bTJjSGlQNVR6M2lLbGZCOXhEWTQzVnZ5V0JPSmcwOHVrUnJ3Mzl5U1hR?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "Introducing Talus Network: Complete Guide to $US and Airdrop Opportunities&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Talus Network Price | US Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3V3hkWk9WTjJrYndTc09yTUkzbHhrWDdyREExS1Fuc05GVWkxelZTSWhINzVGM2E3VlVUVWo2cXI3RFJMVVBEVG4zb0VnNWdQN2Rn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 26 Feb 2024 16:25:40 GMT",
+      "snippet": "Talus Network Price | US Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Talus Network Trading Competition and Deposit Campaign: Trade and Deposit Talus Network (US) and Share $220K Worth of Rewards - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzZrTURQSzFMTFNLRnJIcXRqcXJPVEdLTlJaSWxmNGp1SXV0WjhZLUlkN3NnN1Q3T0FQVzBOampQNTVOZFlwQ0F2ejdranlkMEtPdlgxQ01WQjd6Ry0yQnQ1dGlYYXJxdWtoVXdZbmJKdThtRmVtMWQ4UmdTamRxVDRVT18yX1lvUkJQaTdlT1Q?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "snippet": "Talus Network Trading Competition and Deposit Campaign: Trade and Deposit Talus Network (US) and Share $220K Worth of Rewards&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Advertise with Us - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NZGRrSFlPUDBFMUJFZTk2OVJhNTFIQmh1WlVZYlZwWWpZQl9YT19IWUpib1J2c3pJbkllN0hablpYcURHWUhMOQ?oc=5",
+      "source": "The Block",
+      "publishedAt": "Fri, 16 Sep 2022 08:51:39 GMT",
+      "snippet": "Advertise with Us&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

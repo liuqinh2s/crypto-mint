@@ -1,0 +1,312 @@
+{
+  "token": "LAYER",
+  "requestedInput": "LAYER",
+  "exchange": "other",
+  "generatedAt": "2026-06-22T16:02:23.382Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "LAYER",
+    "name": "Solayer",
+    "generatedAt": "2026-06-22T16:02:16.623Z",
+    "summary": "LAYER近期无明显上涨催化，24h价格微跌，成交量极低（仅3.99美元），流动性虽高但交易冷清。历史负面新闻（5月解锁后暴跌60%）压制市场情绪，基本面缺乏新利好。当前价格2.56美元，市值约5.38亿美元，估值偏高。建议观望。",
+    "rating": {
+      "score": 20,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，不适用"
+    },
+    "catalysts": [
+      "2026年6月3日上线永续合约平台Margin Trade，但市场反应平淡",
+      "与Binance HODLer Airdrop关联，但空投已结束"
+    ],
+    "latestNews": [
+      {
+        "title": "Solayer launches on-chain perpetual futures platform Margin Trade on mainnet",
+        "impact": "利好",
+        "reason": "产品上线可能增加生态使用场景，但新闻发布于6月3日，已过近20天，未引发价格反应"
+      },
+      {
+        "title": "Solayer (LAYER) Price Crashes 60% After Token Unlock — Could Fall Another 50%",
+        "impact": "利空",
+        "reason": "5月8日新闻，代币解锁导致暴跌，市场信心受损，后续抛压担忧持续"
+      }
+    ],
+    "fundamentals": [
+      "Solayer是Solana生态的硬件加速项目，旨在提升网络性能",
+      "代币LAYER通过Binance HODLer Airdrop分发，初始流通量未知",
+      "项目方推出Margin Trade永续合约平台，但尚未形成实质收入或用户增长",
+      "市值约5.38亿美元，FDV相同，无通胀数据，估值缺乏支撑"
+    ],
+    "marketRead": [
+      "24h价格微跌0.02%，成交量仅3.99美元，流动性5.36亿美元但几乎无交易",
+      "无历史K线数据，无法判断趋势，市场深度极差，大单可能造成剧烈波动",
+      "价格处于历史低位（ATH未知），但缺乏买盘支撑"
+    ],
+    "risks": [
+      "成交量极低，存在流动性风险，难以有效买卖",
+      "5月代币解锁后暴跌60%，后续仍有解锁压力（具体时间未知）",
+      "项目基本面未产生实际收入，估值偏高",
+      "新闻热度低，缺乏新催化，市场关注度不足"
+    ],
+    "watchlist": [
+      "是否有新的代币解锁事件",
+      "Margin Trade平台用户增长数据",
+      "Solana生态整体走势",
+      "是否有交易所上线或做市商介入"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，缺少CEX交易数据，成交量可能不全面",
+      "新闻多来自2025年，近期信息有限，可靠性一般",
+      "无链上持仓分布数据，无法评估大户动向"
+    ]
+  },
+  "profile": {
+    "id": "2f5o9crg1nxP2gPZCbVsTjRAgPnHq8cHrFyALvTGq6vC",
+    "symbol": "LAYER",
+    "name": "Solayer",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/8pw9fhsmwjdzzmsdtvbfu1mfq18c5b8upvzy5rs7glcc",
+    "marketCapRank": null,
+    "currentPriceUsd": 2.56,
+    "marketCapUsd": 537615757,
+    "fullyDilutedValuationUsd": 537615757,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-04-26",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "8Pw9fHSMwJDzZmsdtvBFu1mfq18C5B8upvZy5rS7GLCC",
+    "baseTokenAddress": "2f5o9crg1nxP2gPZCbVsTjRAgPnHq8cHrFyALvTGq6vC",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 536615793.27,
+    "pairUrl": "https://dexscreener.com/solana/8pw9fhsmwjdzzmsdtvbfu1mfq18c5b8upvzy5rs7glcc",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "LAYER/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "8Pw9fHSMwJDzZmsdtvBFu1mfq18C5B8upvZy5rS7GLCC",
+    "pairUrl": "https://dexscreener.com/solana/8pw9fhsmwjdzzmsdtvbfu1mfq18c5b8upvzy5rs7glcc",
+    "lastPrice": 2.56,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 536615793.27,
+    "fullyDilutedValuationUsd": 537615757,
+    "marketCapUsd": 537615757,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/8pw9fhsmwjdzzmsdtvbfu1mfq18c5b8upvzy5rs7glcc",
+    "pairAddress": "8Pw9fHSMwJDzZmsdtvBFu1mfq18C5B8upvZy5rS7GLCC",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "2f5o9crg1nxP2gPZCbVsTjRAgPnHq8cHrFyALvTGq6vC",
+      "name": "Solayer",
+      "symbol": "LAYER"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "2.5600",
+    "priceUsd": "2.56",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 3.99,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -0.02,
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 536615793.27,
+      "base": 209609393,
+      "quote": 18.4774
+    },
+    "fdv": 537615757,
+    "marketCap": 537615757,
+    "pairCreatedAt": 1745682506000
+  },
+  "news": [
+    {
+      "title": "Solayer launches on-chain perpetual futures platform Margin Trade on mainnet - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTXZscElPOUVXcEdpeGtLWUxrQnhFWS1Ra0RHeFY5VXhDZDN1VlIwd2VvWkFlWldxLWRUaGtNZTN0SzFIdml3SU1EUzZpRVBIWVN6a3VpUHlGMHBfWlhPUVBENDNDeDhnMkVhZ29wWVplTl9ESjUwVnJ3R0Z3cDVXbk5DdGxaQUh2bElTM0l3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "Solayer launches on-chain perpetual futures platform Margin Trade on mainnet&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Solayer (LAYER) Price Prediction 2026 2027 2028 - 2040 - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHZEZLdGNlQVB6eGdKYXdqeFdMem9jcGpoUVhKMmRIeTl0NWM1aEtZdzFIVjB6M0N1S1dpd0dQdnoxRy1oYy1YMzhkVHp0c2tKMmdkM3NFZnZsNnNIX1ZMOThKWGhSMTd1S2c?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Mon, 08 Dec 2025 09:52:42 GMT",
+      "snippet": "Solayer (LAYER) Price Prediction 2026 2027 2028 - 2040&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "Solayer (LAYER) Price Crashes 60% After Token Unlock — Could Fall Another 50% - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYy1GbXQ5XzE5N3d1S1pDd1FhTnh5WDVINXMzUDZXeVozdUJxWVFidFpLRnlOVGZMNWsxTHloUWRhX3ZiS1JqdEN4NWZRTTVwNXY3bHpSTENBaVhNQkkwWWphYkY3ZVpUU3lqRzBQajhaeFJNUkM1OWVwejZ2Sk9XSUV2bC1KY3hrNkNwWHVYVQ?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 08 May 2025 07:00:00 GMT",
+      "snippet": "Solayer (LAYER) Price Crashes 60% After Token Unlock — Could Fall Another 50%&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Solayer Price, LAYER Price, Live Charts, and Marketcap: layer coin price - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iS1pwbGltdDkyQ1dqMGFkSVJLM2I0d3NybnhEb2tfM1ZhQkJnVkpxVkxEWDNEMzVxbEZpMzVacWRwTUtCX3ZJWWFmY3JaUkE?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Sat, 15 Feb 2025 08:36:52 GMT",
+      "snippet": "Solayer Price, LAYER Price, Live Charts, and Marketcap: layer coin price&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Solayer (LAYER) Price Prediction 2025, 2026-2030: Will LAYER Reach New Heights? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTlHd2doQ0w5M08yZ3lpT0xVSkdIbEtkWGthQXo2Rnpkdm5tYzhPN0ZwN2M3Rmh2aFUwQUc2ZUVoXzI3T3pEUkhuNV9HVm13RDFNUTR3bEZ4UzY4RVM3VGtqOGE0S2hCX09tOEtpSGhDQVBVb2dqb0hmMUtVMERHeDRR0gGHAUFVX3lxTE5JejU4OFk1WGNKODdwUVhaR191eklIa0F1cG5kOEt6eXpuUFBrSzRKMEU3SjlJSkZlX3dYa3JJbGoyeWl6VHRuSmNyZnJ6bEljVTFaM2J5S2dQYXE2a0t4eEE2M1pXUHV4WkwwQTJ2emR6VGNFTnN5UGlMaDhmRUVNZmVEbTBmdw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 07 May 2025 07:00:00 GMT",
+      "snippet": "Solayer (LAYER) Price Prediction 2025, 2026-2030: Will LAYER Reach New Heights?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Get to know the technology behind Solayer LAYER - OKX",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBocWFXaXNFcjFKSVVSUTlhQVYxSmJSOFhjQnRURDU4Qll3dTA3WjRPaURPWGZtTHpTQnZkUGJKYlZEMnBNNzRiUXk0Z2lpTk1ubkEwYXMwYTJoaEhvbkRUQzlkSGpwbFBFVmFWQ2pfZVNPcnBjblE?oc=5",
+      "source": "OKX",
+      "publishedAt": "Tue, 11 Feb 2025 08:00:00 GMT",
+      "snippet": "Get to know the technology behind Solayer LAYER&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Solayer Crypto Freefaling: What Happened to LAYER? - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaURwMWFwV3Z2QzVYOFg0ZVJ5bUdYRUtiNTQ2VmZHN0xrSUZvMTJnczdSb1ladU1maHBBZDFVc2FOTlpTM2FvejZRMV8yOE1zN0JjUzdYb2RqTnpPVXhkZFh5elV1YUxfS05sY0lCSW1NTlA2OUdjbWs3c1FsMXNyTGtaRC1yLXluU3UzUXVWUQ?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Wed, 07 May 2025 07:00:00 GMT",
+      "snippet": "Solayer Crypto Freefaling: What Happened to LAYER?&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "The Case for (and Against) BlockDAG: What Makes It Different in a Crowded Layer 1 Field - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vTWhVaW1HQzVXWFJCX1pfbVFBdWtNY2k2UFlic01QYkJBNzRBTEtoUEZTOWZLd1k4eUw4Nzd3blJUV3NjOWc?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "snippet": "The Case for (and Against) BlockDAG: What Makes It Different in a Crowded Layer 1 Field&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "What is Solayer (LAYER)? How to receive Airdrop at Binance through holding BNB on HODLer Airdrop - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Qa2J4VHF3Zk1idjFZXzNTZV9OejZXNDNmSHNTYjcwQlNjd2c4Y1FMNmRrYVNJcnltM0ZiaUd0WE1rektGX2xKWV8wRkZMRTVBTk1yUENHYXdDYzNHMy1TRW50SQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 12 Feb 2025 08:00:00 GMT",
+      "snippet": "What is Solayer (LAYER)? How to receive Airdrop at Binance through holding BNB on HODLer Airdrop&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Ethereum EEZ Framework: The Revolutionary Proposal to Unify Fragmented Layer 2 Networks - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBLUV3NC1wdUc1TmtnUVhteUFSSzFwODh6TE1BYUNfQnpMaU9vU1FNWUpFeWJQRFo0dnJTZ1N4ekdjRVo3N0FB?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Sun, 29 Mar 2026 07:00:00 GMT",
+      "snippet": "Ethereum EEZ Framework: The Revolutionary Proposal to Unify Fragmented Layer 2 Networks&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Solayer Genesis Drop Introduces $LAYER: How to Check Eligibility, TGE and Listing Date - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcFFsX1A1MHVVcWJjdnNlTHhIcmhPdVJ2eUIwWVBDaWpmb2I1ekQ5RndCdG9WLXJIX3Y0eUlhMG83clBsSkUxVkp1enBwRDBNRFl6NzRqUVVOYl9qZ1EtX2hiVE1fZUVDRjhtMDJmMU5Od0ExdjR5SGVsZDQ5c3lzcXRwVUMyVWk5bnJFa28yc2ZBWkFSQ043SFliYXJzaGFQMmQ4OVVXT0g3ZzdrNGtQT3BNUURnc0doNXdLdDZvcEU0M0NnckYwUHdpOA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 11 Feb 2025 08:00:00 GMT",
+      "snippet": "Solayer Genesis Drop Introduces $LAYER: How to Check Eligibility, TGE and Listing Date&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "What Is Solayer (LAYER)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pU2E0N0hlQnlPZWkyMGhPY0JsY3I5LVEwY1BDNXdIa2lUOXNtY0lMYjdUWm5KdGI5X1dSZEp2WlQwSVZOVTJ0UU5HbXZDdkwtVjN1Vk5SYXNsdWF3aG95OFp0MA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 12 Feb 2025 08:00:00 GMT",
+      "snippet": "What Is Solayer (LAYER)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Solayer (LAYER): Enhancing Liquidity and DeFi on Solana - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wQlM4U0xSUWZOZXFHcjVpRHFuLWRJcExkS2V0N3gzRXlKanUzTF9aUFZSb01UM3dwTDJCN1BwSEVSUTdHcjVLX2JncXlKal9WcXZCVmtrRFVoWEQ4MmZlQUpmWkhlZ3FGRFZ4bjFndkUwLXVRN0dyNGVKeEEtUdIBgwFBVV95cUxQSThtSlB4SXZRRkd6UmxWZ0l0Z1lJQkE2czdpZDhrZ2RKR2hZLVYzLW1ReUowakgzMWpuMWNjRkVKZUoyTkdXT09KdjFiZEtTZ2NjNkU3eTlqaDR6U0Y0Q1V4TU5kOGpveE9ZTEROMFhBVjgydlJxS3JmRGw3bTJJWGpmYw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 10 Feb 2025 08:00:00 GMT",
+      "snippet": "Solayer (LAYER): Enhancing Liquidity and DeFi on Solana&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance HODLer Airdrop New Token LAYER, Get Informed in Advance to See if It's Worth Buying. - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vc1VDRzd3c0hmeG82cnp5YV9vU2kwclZpVEQ4S0xGOTUzU2JuZVlHc1Z2WUdJY0ZwY0l1SHJMdlRSZWJUUGdITWdzNHAxejFGMFBDNVgycFZQcVpYOUN5X25hWQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 10 Feb 2025 08:00:00 GMT",
+      "snippet": "Binance HODLer Airdrop New Token LAYER, Get Informed in Advance to See if It's Worth Buying.&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Solayer Labs: The Hardware Acceleration Innovator of the Solana Ecosystem—Technological Breakthroughs and Ecological Expansion - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41ekVaY3VVZ0FhckFCWllWRDJmOGxIRWpwRGNnOW80RGd1WHFRd0hPOVJVaWdnOFVZUWtrZnQ2SjBDSTM1YzhGMGxpNGtIbGw1WjhGZGNLdEZiTGtlcXU4YnM3OA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 17 Aug 2025 07:00:00 GMT",
+      "snippet": "Solayer Labs: The Hardware Acceleration Innovator of the Solana Ecosystem—Technological Breakthroughs and Ecological Expansion&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "All about BNSOL Super Stake, Solayer. Stake SOL now to receive increased APR LAYER rewards. - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYWTlWWm83by0wYkZzRDRNQUFub0dBelRFNlBsNzNMREpfQlo1bU92NWVFb3ZSTGU5SDVRdHVCOW01S003ZjNwVnZMSEYwS2VrT0NCV2ZDSlFmdGszYjVzUmpibw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 20 May 2025 07:00:00 GMT",
+      "snippet": "All about BNSOL Super Stake, Solayer. Stake SOL now to receive increased APR LAYER rewards.&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/solayer?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

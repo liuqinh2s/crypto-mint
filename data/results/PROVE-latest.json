@@ -1,0 +1,320 @@
+{
+  "token": "PROVE",
+  "requestedInput": "PROVE",
+  "exchange": "other",
+  "generatedAt": "2026-06-22T16:02:23.490Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "PROVE",
+    "name": "Succinct",
+    "generatedAt": "2026-06-22T16:02:17.379Z",
+    "summary": "PROVE是Succinct项目的代币，近期因AI验证叙事上涨40%，但24小时价格微跌0.02%，流动性极高但成交量极低，存在操纵风险。基本面为ZKP基础设施，有Binance等CEX上市，但代币解锁和供应数据缺失，估值偏高。建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若出现大量解锁或价格跌破1美元，则逻辑失效"
+    },
+    "catalysts": [
+      "AI验证叙事推动短期上涨",
+      "Binance等主流交易所上市提供流动性",
+      "主网上线后技术进展"
+    ],
+    "latestNews": [
+      {
+        "title": "Succinct (PROVE) price pops 40% amid AI-driven momentum",
+        "impact": "利好",
+        "reason": "AI叙事吸引市场关注，推动价格短期上涨"
+      },
+      {
+        "title": "PROVE Price Explodes After Succinct’s AI Verification Push",
+        "impact": "利好",
+        "reason": "AI验证技术进展成为催化剂"
+      },
+      {
+        "title": "Succinct (PROVE) Crypto Dumps Over 40% After Binance Listing",
+        "impact": "利空",
+        "reason": "上市后抛售表明存在获利了结压力"
+      }
+    ],
+    "fundamentals": [
+      "Succinct是ZKP基础设施项目，提供零知识证明验证服务",
+      "代币PROVE用于网络费用和质押",
+      "已获多轮融资，但具体金额未披露",
+      "总供应量和流通量数据缺失，存在通胀风险",
+      "已在Binance、Coinbase等主流交易所上市"
+    ],
+    "marketRead": [
+      "当前价格1.36美元，24小时微跌0.02%，成交量仅3.99美元，流动性高达13.6亿美元，但交易极度不活跃",
+      "市值约13.65亿美元，FDV相同，估值较高",
+      "缺乏历史价格数据，无法判断趋势"
+    ],
+    "risks": [
+      "成交量极低，价格容易被操纵",
+      "代币供应数据不透明，存在解锁抛压风险",
+      "AI叙事热度可能消退",
+      "ZKP赛道竞争激烈",
+      "合约风险：Meteora DEX池可能存在无常损失或漏洞"
+    ],
+    "watchlist": [
+      "代币解锁和供应量更新",
+      "成交量是否放大",
+      "AI验证相关新闻",
+      "Binance等CEX的持仓变化"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener和新闻聚合，缺乏链上持仓和交易深度数据",
+      "代币供应和流通数据缺失，无法进行估值分析",
+      "新闻日期集中在2025年8月，可能已过时"
+    ]
+  },
+  "profile": {
+    "id": "AG5eyaY2SQSATk9aqVdDV3UEQxJAAvR3WMFJk8yRHMHz",
+    "symbol": "PROVE",
+    "name": "Succinct",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/hnj6gv7znqtvdysxxts28pcpwa4qntybrv9tnsmtdrhg",
+    "marketCapRank": null,
+    "currentPriceUsd": 1.36,
+    "marketCapUsd": 1365470990,
+    "fullyDilutedValuationUsd": 1365470990,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-08-14",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "HNj6gV7zNQtvDYsXxts28pCpwa4qNTYbrv9TNsMtdRHg",
+    "baseTokenAddress": "AG5eyaY2SQSATk9aqVdDV3UEQxJAAvR3WMFJk8yRHMHz",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 1364471089.47,
+    "pairUrl": "https://dexscreener.com/solana/hnj6gv7znqtvdysxxts28pcpwa4qntybrv9tnsmtdrhg",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "PROVE/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "HNj6gV7zNQtvDYsXxts28pCpwa4qNTYbrv9TNsMtdRHg",
+    "pairUrl": "https://dexscreener.com/solana/hnj6gv7znqtvdysxxts28pcpwa4qntybrv9tnsmtdrhg",
+    "lastPrice": 1.36,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 1364471089.47,
+    "fullyDilutedValuationUsd": 1365470990,
+    "marketCapUsd": 1365470990,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/hnj6gv7znqtvdysxxts28pcpwa4qntybrv9tnsmtdrhg",
+    "pairAddress": "HNj6gV7zNQtvDYsXxts28pCpwa4qNTYbrv9TNsMtdRHg",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "AG5eyaY2SQSATk9aqVdDV3UEQxJAAvR3WMFJk8yRHMHz",
+      "name": "Succinct",
+      "symbol": "PROVE"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "1.3654",
+    "priceUsd": "1.36",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 3.99,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -0.02,
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 1364471089.47,
+      "base": 999267716,
+      "quote": 11.5207
+    },
+    "fdv": 1365470990,
+    "marketCap": 1365470990,
+    "pairCreatedAt": 1755170378000
+  },
+  "news": [
+    {
+      "title": "Succinct (PROVE) price pops 40% amid AI-driven momentum - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QbU1EV283a0Z2MFA4UTd6RkJxOHNVM0tGUkhvNTlYaG5jakQ4T1AyNFE2dS1lMlk4Z3R4djVGWk04Sm9pbGk0cHI1bmJ2YXcyNkdaVF8xUUJITnc?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Thu, 21 May 2026 07:00:00 GMT",
+      "snippet": "Succinct (PROVE) price pops 40% amid AI-driven momentum&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Succinct (PROVE) price pops 40% amid AI-driven momentum - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEpaLUx0UDBLS01qRzNOaDQ3UjI3cl8zLU5FT2gxT085bkpiSzd3TGRRbDFCR3h0MHNKN2paUE9uSl80ZktRekJ6V0RMbnlZVThJMnl6ZnRad095aFZ0U0FBdy1DN1pSaEp3RjBVLUNqM0syTVdIcWRyVUx2dk8zR1JFWXNpRWxKTWptVV9NN05KTzNk?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 21 May 2026 07:00:00 GMT",
+      "snippet": "Succinct (PROVE) price pops 40% amid AI-driven momentum&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "PROVE Price Explodes After Succinct’s AI Verification Push - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN2RaUWUtWnZwb3lwcTh0bWRkQXVJT2F2aWRoRWgtZEVzcDJRQ2h5N3QxWk1mbWFoRmM2UG1sXzBVNjBDN3RTM2kzNUVCU2hhbGVSM1RqdV9fdlFiNW8zNGJmVWpiLU1xNU1hbXJybU11bmZEUGttcFJWdGM2ZFdJdVZUeTBtSVdZMFU5VndZek52M0pZZi1xcVZnRdIBoAFBVV95cUxNUmw1Sk5CM2dRTjRHZ2dobW41VGsyUlBYVzBXc25OTmk5RHZRSTltZlU4M3ZDU3hTNzduX2s0QnQtbmlIMlB4OWd3Q3BQcGwxcjVqSzYzLWFVamlYY1FySTJ4RjRmUGRlZDBTNldtZ3REVUVNMTdWaEpraWF5cDBmOVBheGs1QVBOSVJDWS1lZktsMTlhbjk3UUZISjNmLXp1?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Thu, 21 May 2026 07:00:00 GMT",
+      "snippet": "PROVE Price Explodes After Succinct’s AI Verification Push&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Succinct Price, PROVE Price, Live Charts, and Marketcap: prove coin, prove coin price, succinct crypto - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lT0FsOUdPUlZ3UWRTSWl3V3g2OVlObmwyWHdPSUpha0kwSHlXS0JvNHRYbHFsRGFKUkNRcmN5UWpKT3N2eHZLSmRZbzg?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Tue, 05 Aug 2025 20:17:27 GMT",
+      "snippet": "Succinct Price, PROVE Price, Live Charts, and Marketcap: prove coin, prove coin price, succinct crypto&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Succinct Price Today | PROVE to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xdlF4R2hfTlFwQ2RFSGdpS2xWU0NNZTh2UFBqbkNKOTlUR2N0VUZvdEFQOFRtRENPN3pJRXVNR1pYRmY4UVFkcEtiY0xGRC1xbVoyTHU3Yw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 13 Jun 2026 14:25:00 GMT",
+      "snippet": "Succinct Price Today | PROVE to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Succinct Price USD, PROVE Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vdnR6b0dNRGNweEdjVjZaVDN3X3RsWExxd05kX0dWZDAyb2FUOF9vR0w0WWRuYUxMVUpQUnZnSlNHXy1CeFl1VmJBN2IxUQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 05 Aug 2025 04:03:13 GMT",
+      "snippet": "Succinct Price USD, PROVE Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Succinct (PROVE) Price Prediction 2025, 2026, 2027–2030 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EUnNZOWFRQVpGLTZVRm5oTksyX2JQVG1FR3Z4eDJFaGd0TW5NdFlMUVd4UmZDNVBsTlpYV1E3b0Q1RWdqWk52aVJwSzVmQ0Y3el9obE13Y2tpa0JfLUlqck9md1IxTEw0NHZtSmVRbHR1OHVHMHRTRQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "snippet": "Succinct (PROVE) Price Prediction 2025, 2026, 2027–2030&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Succinct (PROVE) Crypto Dumps Over 40% After Binance Listing - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbENEZjJ1MmFENzl2Xy05OUQ5VjU1YU1OQUZOSk81ZnI1WUJzV0MyVE1SYkJWN19rcnNTYVR3bDZyQnBKMWZlQmRTb2dDUUtsaTJ0WjA2eEJQZTFHb0hYc3RKMWdnSUtiMWRRV0RLclRjaW9FVmw1dFEyMVh4S3M3cTFnbGdmQWZfcjNsRVhEVVFKUmNHNGtqU3l0QQ?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "snippet": "Succinct (PROVE) Crypto Dumps Over 40% After Binance Listing&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "What is Succinct ($PROVE): A Guide to the ZKP Infrastructure Network - NFTevening",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uM2RKSlNOY2N0MllmY3RFbmRPTmhUOTlUVDZGeTgyaUsxMXpUZnRoYWlWdGFFbnAtTmwweFV1RGVLSkZlQmI2YU1IUG5VRUdrdVhrY0tSclI?oc=5",
+      "source": "NFTevening",
+      "publishedAt": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "snippet": "What is Succinct ($PROVE): A Guide to the ZKP Infrastructure Network&nbsp;&nbsp;NFTevening"
+    },
+    {
+      "title": "Here’s How the Succinct Mainnet Launch Fueled the PROVE Token’s 30% Rally Today - CoinGape",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlE2MjIwTTVLY0Vjak5ibzZjLTE0bDhYblVFS1FOR1luZ3p0OUtLRDg5VlE3WW9fTTZNeDdYTXBYR2MxQ0U0VE1STHBQQk9sWlNEeWtTZlo4ZzVlVlBBcUNzZzYtTnMzazUzQmZKRXQ2RVVNb0F6aGNxVW0yLUVvam5mdzEzTWRITy1oOU1EQkFBNGl3X0RpZ2FJRG1BZ3FYTGhHNVdVRjVnTGM?oc=5",
+      "source": "CoinGape",
+      "publishedAt": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "snippet": "Here’s How the Succinct Mainnet Launch Fueled the PROVE Token’s 30% Rally Today&nbsp;&nbsp;CoinGape"
+    },
+    {
+      "title": "What is Succinct (PROVE)? How to receive Airdrop by holding BNB in HODLer Airdrops - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2dTUxWWhvcDA3Z3dOalUwTDhqUm91WlpCOFRvd0c3UXFscHdSSENyWHFFWnhLcEszN2RlQUlpNVFMNFFtTlN3YUMxZTJueHFTUzRkM09ZcnY1Z2M1R0hPdHd0aw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 07 Aug 2025 07:00:00 GMT",
+      "snippet": "What is Succinct (PROVE)? How to receive Airdrop by holding BNB in HODLer Airdrops&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What is Succinct (PROVE)? - Pintu",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BTFBvVzBLNWFwT29jd3Z5MlF5aGZ0Y2Vzb0diRko5T0NyVGN2amNfU0ZNZXB5eVFwZElyNDlVZ3h4RWxQa0tlb002dWRnbjdqRDlEd3lZbVgzRUNsZHZ4THM1a2pEU3gtSGc?oc=5",
+      "source": "Pintu",
+      "publishedAt": "Sun, 16 Nov 2025 08:00:00 GMT",
+      "snippet": "What is Succinct (PROVE)?&nbsp;&nbsp;Pintu"
+    },
+    {
+      "title": "What is Succinct (PROVE)? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTFVtSnJZZHF5U1EzV19qNHVZdlk1WHNRcl9jRFhKeU9BVFUzOUFPdmNGYUNXNlpmUldzaDAtaW1mWHFZNVBHVlRpX2ZCd09SaVRvRldSTTEwcGZVOFNVbmFrZEtsT05Sal8xcEpOb01KQVhGdVZKUmhIOC05dms?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "snippet": "What is Succinct (PROVE)?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Succinct (PROVE) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12YjdLVmpLZGctQzVxU0FPX1R3NEdUWnRJMHAzZGVlRU9kbUN6MnIxMlVfeWZJeGRORDBOZ09OaXp5Q011SC1BV2h3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 21 Mar 2024 19:56:06 GMT",
+      "snippet": "Succinct (PROVE) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Succinct - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE85aE9ZSHJCSkpQdlFrNUFRa1JfeU5GUkl0MERsUlRYNVlWUjZuZXlHajBiVjZ4REpQSlJqYnNNNmVDOUMt?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Fri, 22 Mar 2024 17:38:51 GMT",
+      "snippet": "Succinct&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Succinct Price | PROVE Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53TkVURGZYTTBEQXhjOXhkOG9kX2xUaTZzWVRIZGE3SmtId3dTWTRFa0hxN3hkcE9ESFRmZWFvQldETHdlTVRGc0poZzY?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 21 Mar 2024 20:26:55 GMT",
+      "snippet": "Succinct Price | PROVE Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=PROVE: Throttled\n"
+  ]
+}

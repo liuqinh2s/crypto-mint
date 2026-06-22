@@ -1,0 +1,281 @@
+{
+  "token": "MEGA",
+  "requestedInput": "MEGA",
+  "exchange": "other",
+  "generatedAt": "2026-06-22T16:02:17.356Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MEGA",
+    "name": "Make ETH Great Again",
+    "generatedAt": "2026-06-22T16:02:10.408Z",
+    "summary": "MEGA是Kendu Inu生态下的Meme代币，近期因MegaETH主网上线、TVL超越Monad以及Robinhood、Coinbase等CEX上市预期而受到关注。但价格从ATH下跌超99%，当前流动性低，成交量极小，24小时涨幅仅0.02%，市场情绪偏弱。",
+    "rating": {
+      "score": 20,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [
+      "MegaETH主网上线，TVL超越Monad达4.6亿美元",
+      "Robinhood、Coinbase、Binance Futures等CEX上市或计划上市",
+      "Kendu Inu生态支持，社区活跃"
+    ],
+    "latestNews": [
+      {
+        "title": "MegaETH Beats Monad In TVL By $460M, Yet Robinhood Listing Fails To Erase MEGA's 45% Price Decline",
+        "impact": "利空",
+        "reason": "TVL增长但价格下跌，说明市场对MEGA代币本身信心不足，利好未能转化为买盘"
+      },
+      {
+        "title": "Binance MEGA Futures: Strategic Expansion into Pre-Market Perpetual Contracts with 5x Leverage",
+        "impact": "利好",
+        "reason": "Binance上线期货合约增加流动性和曝光，但已是1月旧闻，影响已消化"
+      },
+      {
+        "title": "Coinbase Adds MegaETH (MEGA) to Listing Roadmap",
+        "impact": "利好",
+        "reason": "Coinbase上市预期曾推动价格，但1月消息后价格持续下跌，说明预期已price in"
+      },
+      {
+        "title": "Bithumb to Halt MEGA Deposits and Withdrawals for Mainnet Upgrade",
+        "impact": "中性",
+        "reason": "主网升级暂停充提，短期影响流动性，但属技术性调整"
+      }
+    ],
+    "fundamentals": [
+      "Meme代币，无实际用例，依赖社区和叙事",
+      "总供应量100万枚，全流通，无锁仓",
+      "当前市值约6391万美元，FDV约5.65亿美元",
+      "项目由Kendu Inu生态孵化，但Kendu本身也是Meme币"
+    ],
+    "marketRead": [
+      "24小时交易量仅12.18万美元，流动性约112万美元，交易深度差",
+      "价格从ATH 31.72美元跌至0.05657美元，跌幅99.8%",
+      "24小时涨幅0.02%，几乎无波动，市场极度冷清",
+      "DEX上交易对MEGA/USDm，链上数据不透明"
+    ],
+    "risks": [
+      "Meme币高风险，无基本面支撑",
+      "价格已从ATH暴跌99.8%，可能归零",
+      "流动性低，大额卖出易造成滑点",
+      "新闻利好但价格不涨，说明抛压大或市场不认可",
+      "项目依赖Kendu Inu生态，若Kendu失败则MEGA受影响"
+    ],
+    "watchlist": [
+      "MegaETH主网TVL变化",
+      "CEX上市进展（Robinhood、Coinbase等）",
+      "Kendu Inu生态发展",
+      "MEGA代币价格是否出现放量突破"
+    ],
+    "sourceNotes": [
+      "数据来源：CoinMarketCap、DexScreener、Google News",
+      "部分新闻日期较早（2024-2026年），时效性不足",
+      "链上数据有限，DEX流动性数据可能不准确"
+    ]
+  },
+  "profile": {
+    "id": "make-eth-great-again",
+    "symbol": "MEGA",
+    "name": "Make ETH Great Again",
+    "categories": [
+      "Meme",
+      "Ethereum Ecosystem"
+    ],
+    "homepage": [
+      "https://makeethgreatagain.xyz/"
+    ],
+    "description": "MEGA - Make Ethereum Great Again MEGA stands for \"Make Ethereum Great Again\" and is the pioneering project from Kendu Lab within the Kendu Inu ecosystem. Our mission is clear: to restore Ethereum to its former glory by fostering innovation and community engagement. We boast a strong and vibrant community, dedicated developers, and the unwavering support of Kendu Inu. Our project is actively backed by Kendu Inu, ensuring a robust foundation and continuous growth. Join the journey to make Ethereum great again. Be part of a project that is built on trust, innovation, and a shared vision for a brighter future in the crypto space.",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.060002,
+    "marketCapUsd": 0,
+    "fullyDilutedValuationUsd": 60048,
+    "totalVolumeUsd": 2.79,
+    "priceChange24hPct": 1.41266,
+    "priceChange7dPct": 6.49633,
+    "priceChange14dPct": 8.12436,
+    "priceChange30dPct": -17.49897,
+    "athUsd": 31.72,
+    "athChangePct": -99.81083,
+    "circulatingSupply": 0,
+    "totalSupply": 1000000,
+    "maxSupply": 1000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 378,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "kumbaya",
+    "pair": "MEGA/USDm",
+    "chainId": "megaeth",
+    "dexId": "kumbaya",
+    "pairAddress": "0x5fB29184C49546c13A14A3958f21E5759f0821f2",
+    "pairUrl": "https://dexscreener.com/megaeth/0x5fb29184c49546c13a14a3958f21e5759f0821f2",
+    "lastPrice": 0.05657,
+    "priceChange24hPct": 0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 121764.07,
+    "liquidityUsd": 1123092.76,
+    "fullyDilutedValuationUsd": 565702039,
+    "marketCapUsd": 63912608,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "megaeth",
+    "dexId": "kumbaya",
+    "url": "https://dexscreener.com/megaeth/0x5fb29184c49546c13a14a3958f21e5759f0821f2",
+    "pairAddress": "0x5fB29184C49546c13A14A3958f21E5759f0821f2",
+    "baseToken": {
+      "address": "0x28B7E77f82B25B95953825F1E3eA0E36c1c29861",
+      "name": "MEGA",
+      "symbol": "MEGA"
+    },
+    "quoteToken": {
+      "address": "0xFAfDdbb3FC7688494971a79cc65DCa3EF82079E7",
+      "name": "MegaUSD",
+      "symbol": "USDm"
+    },
+    "priceNative": "0.05665",
+    "priceUsd": "0.05657",
+    "txns": {
+      "m5": {
+        "buys": 12,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 93,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 147,
+        "sells": 4
+      },
+      "h24": {
+        "buys": 322,
+        "sells": 205
+      }
+    },
+    "volume": {
+      "h24": 121764.07,
+      "h6": 29780,
+      "h1": 15447.92,
+      "m5": 1184.41
+    },
+    "priceChange": {
+      "m5": 0.02,
+      "h1": 2.12,
+      "h6": 2.32,
+      "h24": 0.02
+    },
+    "liquidity": {
+      "usd": 1123092.76,
+      "base": 14850859,
+      "quote": 283417
+    },
+    "fdv": 565702039,
+    "marketCap": 63912608,
+    "pairCreatedAt": 1777478988000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/saIDoOry3tPATtqM?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/b26ZOSsQs-MQOk4z?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/megaeth/0x28b7e77f82b25b95953825f1e3ea0e36c1c29861?timestamp=1782144000000",
+      "websites": [
+        {
+          "url": "http://megaeth.com/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/megaeth",
+          "type": "twitter"
+        },
+        {
+          "url": "http://t.me/megaeth_labs",
+          "type": "telegram"
+        },
+        {
+          "url": "https://discord.gg/megaeth",
+          "type": "discord"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "MegaETH Beats Monad In TVL By $460M, Yet Robinhood Listing Fails To Erase MEGA's 45% Price Decline - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWW9TampZUFp0Y3RFOE8ydEtWa1YxR1lQRk53MFZLb3pBM1YzMnl5cnFSb0YzMG1lanBPcmhuT3p6OXA0Z2Y3UzlGTXQwSkdEanlWb1F4aXY3ampSOU1oaGNaTFlKTHVfOVBsdEdfcmhEM2lWcVM2NmJ5VGl2S21HNHJWR21iZDhwc244S2NOc0hvNGtqdHRwUlJ3Tkp5a1hnTkhsZjBXcDJkalU4dlE?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 07 May 2026 07:00:00 GMT",
+      "snippet": "MegaETH Beats Monad In TVL By $460M, Yet Robinhood Listing Fails To Erase MEGA's 45% Price Decline&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Binance MEGA Futures: Strategic Expansion into Pre-Market Perpetual Contracts with 5x Leverage - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YUUV1LWdHRUp2a0RDbGRkTlN0SDRvQkhDcENtNUlLV3ZxemN0T0p0NmhGWWtLWGlLeERTa3RjZmlQaDk2NnQ1Zk1ZUnNuZTFmb2tMSU1LWklXQnRoWTdYZndxQVBWVmZKVWlGVlJYNDhCdjJSUUFySA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "snippet": "Binance MEGA Futures: Strategic Expansion into Pre-Market Perpetual Contracts with 5x Leverage&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Coinbase Adds MegaETH (MEGA) to Listing Roadmap - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSm9TU3NSc3hxUW5lZk4wdXhNOV9DdWRrU0I0Xzl2ZDRuYVVNYm1LR2lMbHpuYzJnY0ZuN1ZONHJROTh5VkwxWVd3UXI5cmtYUnY3SWxCUDZNc3NlSTVPMV9CNDg0MDJ1Njkydi1QWHo1STR3NzFVSVdGRFpUd3BTdGtXSXZ2eHI3THBkemtn?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "snippet": "Coinbase Adds MegaETH (MEGA) to Listing Roadmap&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Make ETH Great Again (MEGA) - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaN2hFY0I1UDNUcFBMbzBFYzZNZ2NyRGFtREc2dTlhMnBUVFNyVlN3NjhQM1JkZGVZeE9ubXpMMXdhcHhaWHo2dmhSRkZadFFCRUZwdkpGRHlXSmZVMVMweEc1TDdvQlFyRENVOExVVkxkczh2eEtYN2lnYw?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Tue, 26 Nov 2024 10:38:28 GMT",
+      "snippet": "Make ETH Great Again (MEGA)&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Bithumb to Halt MEGA Deposits and Withdrawals for Mainnet Upgrade - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSTc5X1QzbWFGOW1fblFsTnlNYkg0TURVblZad1hzUTh5YTEwN0dndF9OVG1fZURMb3gzZ084X3JUMUJGcEVHeHdULVByR3RTRjNOeTR5YnlfLU14WEdBOEhIUkRkaW9NT3U2RXhfMjRIOFpTWnJ1M2l0aGNXR0RjbVhjTDdHYVRJYVpjcWFWZVg?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "snippet": "Bithumb to Halt MEGA Deposits and Withdrawals for Mainnet Upgrade&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Make Ethereum Great Again price today, MEGA to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlbjBCTEpUOXJXOGtCdnhVWVdORXVfcEVpamRvdzNNd1RJQTM5ajVFRE1WbXNZTndkUmJpY2dNWGtEd2NidkJyRDZtRl8zZW13R0E5MGxoLUZTUXVkYjFMaHluVVVhUVplN1BjWkJUTkE?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 13 Nov 2024 07:51:14 GMT",
+      "snippet": "Make Ethereum Great Again price today, MEGA to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "What Is MegaETH and Why Is the MEGA Token So Hyped? - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vNXhGWktnc1ZCbTJLY0hXSkgxd0cwTG9TQjF6WjhJWVQxcy1qajJ4X2pDMnd1WndkVmJJN185akNjcUJpeEphLW4yN25BMk1oS1dUM1BIZmZ1SEMtZWpBS2hB?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "snippet": "What Is MegaETH and Why Is the MEGA Token So Hyped?&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "XRP Price Analysis: XRP Hits All-Time High, Hinting a 2017-Like Mega Bull Run? - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRXBFdnZDQXUxWTRoUFhBNHpXSFFqZjUwdzlLcDRqWVdoakZDNmxkb0tlT0NCUmozZXFHNUNsU0tGNEhzcHRmODVUR1RTOWZxZm9CX05lR0RLX1NHQWI0U1Jsd2hyQXZ2M2xQZTBibVUtazZHTTc2dndsc3hDM3EtTDM2MFh2em9KcHJUTw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 18 Jul 2025 07:00:00 GMT",
+      "snippet": "XRP Price Analysis: XRP Hits All-Time High, Hinting a 2017-Like Mega Bull Run?&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

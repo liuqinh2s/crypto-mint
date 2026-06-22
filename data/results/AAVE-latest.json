@@ -1,0 +1,344 @@
+{
+  "token": "AAVE",
+  "requestedInput": "AAVE",
+  "exchange": "other",
+  "generatedAt": "2026-06-22T16:02:25.059Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AAVE",
+    "name": "Aave",
+    "generatedAt": "2026-06-22T16:02:15.868Z",
+    "summary": "AAVE近期因Grayscale发布看涨研报（目标价$175-$179）、AAVE ETF申请消息以及V4主网上线等利好催化，价格在14天内上涨17.4%。但当前价格$75.61较ATH跌88.6%，且24h涨幅仅0.8%，短期动能减弱。基本面强劲，但需注意解锁风险（已全流通）和近期巨亏事件。",
+    "rating": {
+      "score": 65,
+      "label": "可以买但严控仓位",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 30,
+      "holdingPeriod": "1-3个月",
+      "invalidation": "跌破$70或Grayscale研报被证伪、ETF申请被拒、V4采用不及预期"
+    },
+    "catalysts": [
+      "Grayscale研报称AAVE被低估，目标价$175-$179",
+      "AAVE ETF申请（Grayscale与Bitwise竞争）",
+      "Aave V4主网上线，采用hub-and-spoke架构提升流动性",
+      "机构合作（Bybit、Mantle）推动机构级DeFi流动性",
+      "AAVE作为DeFi龙头，受益于整体市场情绪回暖"
+    ],
+    "latestNews": [
+      {
+        "title": "Grayscale Research Sees AAVE Token Climbing to $175 in a Year",
+        "impact": "利好",
+        "reason": "顶级资管机构看涨，提振市场信心"
+      },
+      {
+        "title": "AAVE ETF Filing Puts Grayscale in Race With Bitwise",
+        "impact": "利好",
+        "reason": "ETF申请若获批将带来大量增量资金"
+      },
+      {
+        "title": "Grayscale Says AAVE Undervalued, Sets $179 One-Year Price Target",
+        "impact": "利好",
+        "reason": "进一步强化看涨预期"
+      },
+      {
+        "title": "Crypto Trader Loses $50 Million In Aave Trade – Bots Pocket Profit",
+        "impact": "利空",
+        "reason": "大额亏损事件可能引发短期抛压和负面情绪"
+      },
+      {
+        "title": "Aave Founder Says V4 Spokes Will Drive Liquidity, Growth, and Monetization",
+        "impact": "利好",
+        "reason": "V4升级有望提升协议效率和收入"
+      }
+    ],
+    "fundamentals": [
+      "Aave是DeFi借贷龙头，支持多链（以太坊、Polygon、Avalanche等）",
+      "AAVE代币总量1600万，已全流通，无解锁抛压",
+      "协议收入来源于借贷利息和清算费，V4升级有望提升",
+      "Grayscale、Bitwise等机构关注，ETF申请推进中",
+      "近期与Bybit、Mantle合作，拓展机构流动性"
+    ],
+    "marketRead": [
+      "当前价格$75.61，24h涨幅0.8%，14天涨幅17.4%，短期上涨后进入盘整",
+      "市值约11.5亿美元，排名63，流动性充足",
+      "链上数据（Raydium）显示流动性极深（56.8亿美元），但24h交易量仅$3.99，异常低，可能数据延迟或非主要交易场所",
+      "日线级别处于ATH下跌后的底部区间，但近期有放量突破迹象"
+    ],
+    "risks": [
+      "Grayscale研报仅为预测，实际涨幅可能不及预期",
+      "ETF申请存在不确定性，可能被拒",
+      "近期$50万亏损事件可能引发短期抛压",
+      "DeFi赛道竞争激烈（Compound、Maker等），V4采用率待验证",
+      "整体市场情绪仍偏弱，BTC未突破前高"
+    ],
+    "watchlist": [
+      "AAVE ETF申请进展",
+      "Grayscale是否增持或发布更多报告",
+      "Aave V4 TVL和收入数据",
+      "AAVE价格能否站稳$80并突破$100",
+      "巨亏事件后续影响"
+    ],
+    "sourceNotes": [
+      "链上数据来自Raydium，但AAVE主要交易在以太坊和中心化交易所，Raydium数据可能不具代表性",
+      "新闻来源为Google News聚合，需交叉验证",
+      "Grayscale研报目标价$175-$179，但未提供详细估值模型"
+    ]
+  },
+  "profile": {
+    "id": "aave",
+    "symbol": "AAVE",
+    "name": "Aave",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "Yield Farming",
+      "BNB Chain Ecosystem",
+      "Lending/Borrowing Protocols",
+      "Solana Ecosystem",
+      "Avalanche Ecosystem",
+      "Polygon Ecosystem",
+      "Near Protocol Ecosystem",
+      "Fantom Ecosystem",
+      "Harmony Ecosystem",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Optimism Ecosystem",
+      "Base Ecosystem",
+      "Index Coop Defi Index",
+      "Stablecoin Issuer",
+      "Energi Ecosystem",
+      "Sora Ecosystem",
+      "Huobi ECO Chain Ecosystem",
+      "GMCI DeFi Index",
+      "Blockchain Capital Portfolio",
+      "GMCI Index",
+      "World Liberty Financial Portfolio",
+      "Coinbase 50 Index",
+      "Hydration Ecosystem",
+      "Governance",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://app.aave.com/"
+    ],
+    "description": "Aave is a decentralized money market protocol where users can lend and borrow cryptocurrency across 20 different assets as collateral. The protocol has a native token called AAVE, which is also a governance token that lets the community decide the direction of the protocol in a collective manner. Lenders can&nbsp;earn interest by providing liquidity to the market, while borrowers can borrow by collateralizing their cryptoassets to take out loans from the liquidity pools. ",
+    "marketCapRank": 63,
+    "currentPriceUsd": 75.61,
+    "marketCapUsd": 1147929771,
+    "fullyDilutedValuationUsd": 1209946177,
+    "totalVolumeUsd": 140912749,
+    "priceChange24hPct": 0.80768,
+    "priceChange7dPct": -0.56996,
+    "priceChange14dPct": 17.44432,
+    "priceChange30dPct": -11.20122,
+    "athUsd": 661.69,
+    "athChangePct": -88.57454,
+    "circulatingSupply": 15179911.874935383,
+    "totalSupply": 16000000,
+    "maxSupply": 16000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 247747,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "AAVE/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "DFJcDPrh5CjEkbiBGd8E88xKjmhnpTqmNhqukuS2wakZ",
+    "pairUrl": "https://dexscreener.com/solana/dfjcdprh5cjekbibgd8e88xkjmhnptqmnhqukus2wakz",
+    "lastPrice": 354.99,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 5679902312.31,
+    "fullyDilutedValuationUsd": 5679937809,
+    "marketCapUsd": 5679937809,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/dfjcdprh5cjekbibgd8e88xkjmhnptqmnhqukus2wakz",
+    "pairAddress": "DFJcDPrh5CjEkbiBGd8E88xKjmhnpTqmNhqukuS2wakZ",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "5FzWTvwfu9n2LJ6hJC2vHqTY4SQgv4bfEcLMgM4NZBy7",
+      "name": "Aave",
+      "symbol": "AAVE"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "354.9961",
+    "priceUsd": "354.99",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 5679902312.31,
+      "base": 15999900,
+      "quote": 1.8172
+    },
+    "fdv": 5679937809,
+    "marketCap": 5679937809,
+    "pairCreatedAt": 1734120623000
+  },
+  "news": [
+    {
+      "title": "Grayscale Research Sees AAVE Token Climbing to $175 in a Year - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVnBZSGplTTNRZEIyRzJJTUt2cFFPdXZ1b1FEcUxWR0RxY0lqelM1U2taT1RybEJUVHFMZVlydERGSS0waHUtNUJKSkFMYTZRZFFfdS13MTA0ODNOX1Y4bWYtZWJZMDN1dWxoemdQWV9IS0RqSFIzUGRZX3VfNnRlV3RJdlozSlY3SnBwVnhKbXZrbkxTVE5BTA?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Thu, 18 Jun 2026 15:37:23 GMT",
+      "snippet": "Grayscale Research Sees AAVE Token Climbing to $175 in a Year&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "AAVE ETF Filing Puts Grayscale in Race With Bitwise - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXdKM01HMUI1UFRSemVRTWRheHptLUFnc2RZNzZDYWRtUU8zTkRDZnBTbzNaOGp2VkVzWmppSFp0aG1lS1hFdWR4MUkxX29sZV8xeE5QT2lNU1REa1dVTVlqUGlCd3VVUXhZYzRvWEZleWlaeElkMXdPMHBwbXU0QlhBRU0xRWItWEtGZE5QRFY5ZnlTVFFfNQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 19 Jun 2026 01:00:44 GMT",
+      "snippet": "AAVE ETF Filing Puts Grayscale in Race With Bitwise&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Grayscale Says AAVE Undervalued, Sets $179 One-Year Price Target - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pWXlSczdaNlRiMlZkT3NvWnJMNm80QzRJSDRzSkk3NkJqWHU0LWw5WUlxejdaaGZna1hIWkthOEN4eTJITGdONlUtYlhvVk9wXzhkQTRzZHZpbVNCYXFlaWdMMDVCN3RyNXNDb2xB?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Wed, 17 Jun 2026 05:07:00 GMT",
+      "snippet": "Grayscale Says AAVE Undervalued, Sets $179 One-Year Price Target&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Grayscale Identifies AAVE, UNI, HYPE Among Most Undervalued Crypto Assets in 2026 - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGNhemxUSnRjRGMxWTdueFhzV0NKblR2NlFYNUNBMXdXVjNvbFVER2NLTjlmVU5hS2Z2TU1Tc1E1eWxTVkVpN0Frb01uOE1PaHZTT1FhY0U4Tnk1LTE0Uk9jR3d0enBTWS1jX2dXVXlHYmVSbVVvS3VGNkVQMnphNHUwVFVIMzVRTXo2SDFPb2NpUGtLd29N?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 18 Jun 2026 13:25:36 GMT",
+      "snippet": "Grayscale Identifies AAVE, UNI, HYPE Among Most Undervalued Crypto Assets in 2026&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Grayscale says AAVE fair value could reach $175 in one year - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNm53ckVjRHZqLUJrbjBOXzJmSUxYYTR2Q3Y0dDI3YUNkRGZDbU9mcUE1UXcza1BCRTJna3lZMGNnSlNpUVhmM0NzdjAxRENSQmNYT2ZPSHRxWkJRQ3NScjMzdk9oVTJEVnJHQjRVcndQZmtaZzI3MUh3eEhRLThRdDZYQmRoZw?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Thu, 18 Jun 2026 06:20:00 GMT",
+      "snippet": "Grayscale says AAVE fair value could reach $175 in one year&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Crypto Trader Loses $50 Million In Aave Trade – Bots Pocket Profit, Retail Questions Motive - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLUpxMDlMYUxqSVRWUTAxVHlhdFd1N1preW5uSEdRYXlPZkQyS2EwTjJ3RGhhRU9VaGh5cXpfc3ZYUGF3Q0RmbXFxOERTUVQ3R1BsblJKdld5SFF3RWtyZ210ZjVMNkFPdDBzcloyZmtWS0F4ME85R0FOOThta3IwTEYzM2NUbmw0aW96TmNRSGxtZGJyM3dIX1IxR1lYTGFZeXV3dWdqUHJWOXVyRm03OVBDNGhvNldtbjY0Y2NTOW44eHlwUzlOdDMtZEFHQ2lQRm5fc3U2OVdxR3pRUHow?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Fri, 19 Jun 2026 16:10:49 GMT",
+      "snippet": "Crypto Trader Loses $50 Million In Aave Trade – Bots Pocket Profit, Retail Questions Motive&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Grayscale sees Aave token undervalued, projecting price rise to $80-$100 amid ecosystem challenges. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMkRnU3U4eERPVlRJY1FMZ1pXcXlPTEpEZ0VPYmxZNnNNcnl3dkt4RjdIM21IdXlxeHRRU01aUkdSQmlxT3RYZWJPUVVsYWRFTWV1WU9CWkFtS21BZzBiREFpZXYtcUpFZ3ozX3NYSVlKMk85clItaU13cFg0WVVJYnJhT21JRndiYzRCdWdhblpyUXAyY1VmVXo4ZzFZT0pBc3N6T21Ldw?oc=5",
+      "source": "Pluang",
+      "publishedAt": "Thu, 18 Jun 2026 02:01:49 GMT",
+      "snippet": "Grayscale sees Aave token undervalued, projecting price rise to $80-$100 amid ecosystem challenges.&nbsp;&nbsp;Pluang"
+    },
+    {
+      "title": "Grayscale values Aave token at $175 - grafa.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xdlFHNjAwRENWeFcyOVVkVjhDVUZnZEVjeVA4UnVYU0FGSVJicTQxVGRod3ZZekh4WUhlcHJTR04zaXhzR1FzQU5MLXgzNWRvT01xTHVNZ2VCeEp3UjNjNkxiTGhxV0dTUXhMdHM0OGFHWTQ4bVE?oc=5",
+      "source": "grafa.com",
+      "publishedAt": "Fri, 19 Jun 2026 05:03:05 GMT",
+      "snippet": "Grayscale values Aave token at $175&nbsp;&nbsp;grafa.com"
+    },
+    {
+      "title": "Aave Founder Says V4 Spokes Will Drive Liquidity, Growth, and Monetization - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16YTFvbkNNanFQRWJIVDZqdzBkRDVRUkZ0QWo1WGZ5ejJkSl9oZktrel9qbVNpTF8wQ3JvOXIxbUJSWm8zZGdRSTExMFo1Vkl4bjNlSg?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Mon, 15 Jun 2026 18:36:16 GMT",
+      "snippet": "Aave Founder Says V4 Spokes Will Drive Liquidity, Growth, and Monetization&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Aave Proposal Moves To Add Circle Wrapped Bitcoin As Collateral - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZU90bmk4RHNnaTZ6VlJueFhhVnpXdk83OXFSdWtRS0pKYmRkYktJZmZHaEx1S2lVT25McFR6Q1BuVHREZVZWcTBoZ1JfR25HWEpsN080d3RhLXBsaTVkTGg2SnNhX0gydjZaemMyODhFeGVORHY4eXNFd1ZsVEViUFVhQ0R2dUJqN1Uzb1VnUjdXZzZVRmtPOEo1NzFsQnNNQnVicFVwSjZjSjNoX2VZaUIxeXlDUk9EVkdWenRR?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 12 Jun 2026 22:01:04 GMT",
+      "snippet": "Aave Proposal Moves To Add Circle Wrapped Bitcoin As Collateral&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Aave V4 launches on Ethereum mainnet with 'hub-and-spoke' architecture - The Block",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fMUJZaEtXY0o5WXQtazZocjMySmhCMVppSGZFMThTaFJTYzRzcDhwcWdtdE5WS2lWSjk3em1ua0dRTDhIbFdzSDN4eTlNYURnM2hyZDVZNFVjTFBOVkhDY0NFUVY0OG15eGo2M3FVdVR6NmFxZFhHTw?oc=5",
+      "source": "The Block",
+      "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "snippet": "Aave V4 launches on Ethereum mainnet with 'hub-and-spoke' architecture&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Bybit, Mantle, and Aave Partner to Bring Institutional-Grade DeFi Liquidity Onchain at Global Scale - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbUp1V3hFX2hTOW9xb0RYLU00ajgyWVBEcU1vdXpDNnRmZDV3NExfZko1Vm1MQXJsdm5tSzJBdXp0bnVwS1pPNFlQS1RiZTV1SkpxVXpoejRCbmJ0ZFZvb0puV0ZLQ2owRzMwaG1HRmJWbTc0Wlo4eE5pNldrdWNHR2tVc3ljb0J2UnVtbEJpM2V2dS0wWjEzOG9SWVBDVW1iVnU3Y1dUQUhHaDYzSTQtZFhNbi1mc1NiQmFjanY2bU5kaFpuR2pWWEpUaVdQR1ExS2hBTlMzTU9NUWFtc1ZXRlFqWW15UTV2?oc=5",
+      "source": "PR Newswire",
+      "publishedAt": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "snippet": "Bybit, Mantle, and Aave Partner to Bring Institutional-Grade DeFi Liquidity Onchain at Global Scale&nbsp;&nbsp;PR Newswire"
+    },
+    {
+      "title": "Bybit, Mantle, and Aave Launch Strategic Mainnet Integration to Scale Institutional-Grade DeFi Liquidity - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNmtNd3ZEMllFZml6T1B2SUR6UEZobVJVRkZtUkY4NHgzbjJLbHZnZGRMV1l0RUpsNXlYUVh1YWxFaG1IWVY2Q0ppN3psTGJMQ0tWbXBDMVVQYVE2cnhNeEhHTVJCVFU2T3BNWGdWekpfSTZkakNUMGdPbXFjUlpfVzFBcnAtSGxDNzNQVDRHUUp1TzVkR29FMEJyelJMbUd3dmpWc21JaVprSFhzeDdlSlAtMk53MXJZTFcweWdZMTBPeTZrdFhvLXB2MUotNmxtNmIya2otZGVyZ2Z2QXh2QkFVSFJFdmlseWtuc1AtR3N5Sm9E?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "snippet": "Bybit, Mantle, and Aave Launch Strategic Mainnet Integration to Scale Institutional-Grade DeFi Liquidity&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Maple brings syrupUSDC to Base, targets Aave V3 listing - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVpLRGs2a2JzNkZPMklTSU00ZDlhOTN5aHpJcUlHUzJTZEhiVGJoa012MVo3NW1yWVFHTGFVSjV6VnJzZnRUNTk0by05WFRPd1J2OGk4WXlLZGpEVFpyUk5wM0ExbTJWVFJkUW9CaHdpY0xYVmR4UFFBd0hYcUVYYVk4d21fU0NGVWdMcDNnc1NwMWI2bGJvdnA4M05STy1CNkFqZVN6YjEwSldPbWxaSy1kbjhNMlpvSGc?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "snippet": "Maple brings syrupUSDC to Base, targets Aave V3 listing&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Where do I purchase Aave: Best Platforms & Walkthrough - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXAyRm9PUG1nbnl2dHVBRzV4YmFNTDZnM0YyMWVCUG5VRmRMMHh6N1FNQVRxeWZjZmNwN3hKUTBCT0hkcC1rZGRHdlZBOXNGNXk2azhGU3MwR3JkM1lyZVBTeTNyNTdicnBfb3NneEdSRG9xQ1FsN2lQenR3UEZUSlAwWWNEcFdl?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Thu, 18 Jun 2026 08:27:18 GMT",
+      "snippet": "Where do I purchase Aave: Best Platforms & Walkthrough&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Aave Announces 'DeFi United' Relief Fund to Restore rsETH Backing After Kelp Exploit - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWpyeG0wbDlVNVl5OHZheGdPTzZuS3NISlJxQ2VNOUQ3bV9hc3A5WFJEQXZMdnRLeXpmdGdZX0ZnQXNtZ0ZsZGI2dmlTZE4wMkJFLUxjelNaSVpXc0pFRGZSeHdNcDBzR1luM1ZETVdtUm54Z2M4ZVZKeU9yNEZQTjJFd3dwVGlzZExqVUM0eHR1bkNWV3J4RXRvNkRjMXlFQXVrTW5Oa21rLWg0MGlILW5oU3I?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "snippet": "Aave Announces 'DeFi United' Relief Fund to Restore rsETH Backing After Kelp Exploit&nbsp;&nbsp;thedefiant.io"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

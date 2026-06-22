@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-06-22T15:47:12.862Z",
+  "updatedAt": "2026-06-22T16:02:25.061Z",
   "results": [
+    {
+      "token": "TIA",
+      "requestedInput": "TIA",
+      "name": "Tiamonds [OLD]",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-22T16:02:15.144Z",
+      "latestPath": "data/results/TIA-latest.json"
+    },
+    {
+      "token": "ORCA",
+      "requestedInput": "ORCA",
+      "name": "Orca",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-22T16:02:16.200Z",
+      "latestPath": "data/results/ORCA-latest.json"
+    },
+    {
+      "token": "MEGA",
+      "requestedInput": "MEGA",
+      "name": "Make ETH Great Again",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-22T16:02:17.356Z",
+      "latestPath": "data/results/MEGA-latest.json"
+    },
+    {
+      "token": "US",
+      "requestedInput": "US",
+      "name": "Talus Token",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-22T16:02:17.047Z",
+      "latestPath": "data/results/US-latest.json"
+    },
+    {
+      "token": "AAVE",
+      "requestedInput": "AAVE",
+      "name": "Aave",
+      "score": 65,
+      "label": "可以买但严控仓位",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-22T16:02:25.059Z",
+      "latestPath": "data/results/AAVE-latest.json"
+    },
+    {
+      "token": "LAYER",
+      "requestedInput": "LAYER",
+      "name": "Solayer",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-22T16:02:23.382Z",
+      "latestPath": "data/results/LAYER-latest.json"
+    },
+    {
+      "token": "PROVE",
+      "requestedInput": "PROVE",
+      "name": "Succinct",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-22T16:02:23.490Z",
+      "latestPath": "data/results/PROVE-latest.json"
+    },
     {
       "token": "VD",
       "requestedInput": "INDA",
@@ -841,69 +911,6 @@
       "action": "不买",
       "generatedAt": "2026-06-19T06:09:59.781Z",
       "latestPath": "data/results/ZEN-latest.json"
-    },
-    {
-      "token": "DEXE",
-      "name": "DeXe",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-19T06:00:28.733Z",
-      "latestPath": "data/results/DEXE-latest.json"
-    },
-    {
-      "token": "BTW",
-      "name": "Bitway",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-19T05:50:13.103Z",
-      "latestPath": "data/results/BTW-latest.json"
-    },
-    {
-      "token": "TAC",
-      "name": "TAC Protocol",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-19T03:15:10.523Z",
-      "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "OG",
-      "name": "OG Fan Token",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-19T01:58:16.078Z",
-      "latestPath": "data/results/OG-latest.json"
-    },
-    {
-      "token": "FORM",
-      "name": "Four",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-19T01:54:40.647Z",
-      "latestPath": "data/results/FORM-latest.json"
-    },
-    {
-      "token": "LINK",
-      "name": "Chainlink",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-19T01:53:09.905Z",
-      "latestPath": "data/results/LINK-latest.json"
-    },
-    {
-      "token": "SXT",
-      "name": "Space and Time",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-19T01:51:32.190Z",
-      "latestPath": "data/results/SXT-latest.json"
     }
   ]
 }
