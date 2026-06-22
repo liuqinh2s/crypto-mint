@@ -17,6 +17,7 @@ const SOURCES = {
   binanceKlines: "https://api.binance.com/api/v3/klines",
   bitgetSpotTicker: "https://api.bitget.com/api/v2/spot/market/tickers",
   bitgetSpotCandles: "https://api.bitget.com/api/v2/spot/market/candles",
+  dexscreenerSearch: "https://api.dexscreener.com/latest/dex/search",
   googleNewsRss: "https://news.google.com/rss/search",
   deepseek: "https://api.deepseek.com/chat/completions"
 };
@@ -91,6 +92,29 @@ function scoreCoinSearchCandidate(coin, input) {
   if (candidateId === lookup) return 25_000 + rankScore;
   if (candidateSymbol === symbol) return 20_000 + rankScore;
   if (!isShortAmbiguousSymbol(symbol) && candidateName.includes(lookup)) return 5_000 + rankScore;
+  return -1;
+}
+
+function isLikelyContractAddress(value) {
+  const text = String(value || "").trim();
+  return /^0x[a-fA-F0-9]{40}$/.test(text) || /^[1-9A-HJ-NP-Za-km-z]{32,44}$/.test(text);
+}
+
+function scoreDexPair(pair, input) {
+  const baseToken = pair.baseToken || {};
+  const inputSymbol = normalizeSymbol(input);
+  const lookup = normalizeLookup(input);
+  const baseSymbol = normalizeSymbol(baseToken.symbol);
+  const baseName = normalizeLookup(baseToken.name);
+  const baseAddress = normalizeLookup(baseToken.address);
+  const liquidityUsd = Number(pair.liquidity?.usd || 0);
+  const volume24h = Number(pair.volume?.h24 || 0);
+  const activityScore = Math.log10(Math.max(1, liquidityUsd + volume24h));
+
+  if (isLikelyContractAddress(input) && baseAddress === lookup) return 50_000 + activityScore;
+  if (baseName === lookup) return 30_000 + activityScore;
+  if (baseSymbol === inputSymbol) return 20_000 + activityScore;
+  if (!isShortAmbiguousSymbol(inputSymbol) && baseName.includes(lookup)) return 5_000 + activityScore;
   return -1;
 }
 
@@ -188,6 +212,22 @@ async function getCoinGeckoProfile(input) {
   return { symbol: normalizeSymbol(detail.symbol || candidate.symbol || inputSymbol), candidate, detail };
 }
 
+async function getDexScreenerProfile(input) {
+  const searchUrl = `${SOURCES.dexscreenerSearch}?q=${encodeURIComponent(input)}`;
+  const search = await fetchJson(searchUrl);
+  const pairs = Array.isArray(search.pairs) ? search.pairs : [];
+  const matches = pairs
+    .map((pair) => ({ pair, score: scoreDexPair(pair, input) }))
+    .filter((item) => item.score >= 0)
+    .sort((a, b) => b.score - a.score);
+
+  const pair = matches[0]?.pair || null;
+  return {
+    symbol: normalizeSymbol(pair?.baseToken?.symbol || input),
+    pair
+  };
+}
+
 async function getBinanceMarket(symbol) {
   const pairs = [`${symbol}USDT`, `${symbol}FDUSD`, `${symbol}USDC`, `${symbol}BTC`];
   const attempts = [];
@@ -276,9 +316,11 @@ async function getNews(symbol, coinName, exchange) {
   const queries = [
     `"${symbol}" ${name} crypto token price news`,
     `"${symbol}" ${name} crypto listing partnership mainnet`,
+    `"${symbol}" ${name} crypto airdrop funding ecosystem`,
     exchangeName ? `"${symbol}" ${name} ${exchangeName} crypto` : "",
     `"${symbol}" ${name} site:bitget.com/news`,
-    `"${symbol}" ${name} site:binance.com/en/support/announcement`
+    `"${symbol}" ${name} site:binance.com/en/support/announcement`,
+    `"${symbol}" ${name} site:coindesk.com OR site:theblock.co OR site:decrypt.co`
   ].filter(Boolean);
 
   const settled = await Promise.allSettled(queries.map(async (query) => {
@@ -383,6 +425,79 @@ function compactBitget(market) {
   };
 }
 
+function compactDexScreener(pair) {
+  if (!pair?.baseToken) return null;
+
+  const websites = Array.isArray(pair.info?.websites)
+    ? pair.info.websites.map((item) => item.url).filter(Boolean).slice(0, 3)
+    : [];
+  const socials = Array.isArray(pair.info?.socials)
+    ? pair.info.socials.map((item) => `${item.type}: ${item.url}`).filter(Boolean).slice(0, 5)
+    : [];
+
+  return {
+    id: pair.baseToken.address || pair.pairAddress,
+    symbol: normalizeSymbol(pair.baseToken.symbol),
+    name: pair.baseToken.name || pair.baseToken.symbol,
+    categories: [pair.chainId, pair.dexId].filter(Boolean),
+    homepage: websites,
+    description: [
+      `DexScreener pair on ${pair.chainId || "unknown chain"} / ${pair.dexId || "unknown DEX"}.`,
+      pair.url ? `Pair URL: ${pair.url}` : "",
+      socials.length ? `Socials: ${socials.join("; ")}` : ""
+    ].filter(Boolean).join(" "),
+    marketCapRank: null,
+    currentPriceUsd: pair.priceUsd ? Number(pair.priceUsd) : null,
+    marketCapUsd: pair.marketCap ?? null,
+    fullyDilutedValuationUsd: pair.fdv ?? null,
+    totalVolumeUsd: pair.volume?.h24 ?? null,
+    priceChange24hPct: pair.priceChange?.h24 ?? null,
+    priceChange7dPct: null,
+    priceChange14dPct: null,
+    priceChange30dPct: null,
+    athUsd: null,
+    athChangePct: null,
+    circulatingSupply: null,
+    totalSupply: null,
+    maxSupply: null,
+    sentimentVotesUpPct: null,
+    watchlistUsers: null,
+    genesisDate: pair.pairCreatedAt ? new Date(pair.pairCreatedAt).toISOString().slice(0, 10) : null,
+    chainId: pair.chainId,
+    dexId: pair.dexId,
+    pairAddress: pair.pairAddress,
+    baseTokenAddress: pair.baseToken.address,
+    quoteToken: pair.quoteToken,
+    liquidityUsd: pair.liquidity?.usd ?? null,
+    pairUrl: pair.url,
+    source: "dexscreener"
+  };
+}
+
+function compactDexMarket(pair) {
+  if (!pair?.baseToken) return null;
+
+  return {
+    exchange: pair.dexId || "dex",
+    pair: `${pair.baseToken.symbol || "TOKEN"}/${pair.quoteToken?.symbol || "QUOTE"}`,
+    chainId: pair.chainId,
+    dexId: pair.dexId,
+    pairAddress: pair.pairAddress,
+    pairUrl: pair.url,
+    lastPrice: pair.priceUsd ? Number(pair.priceUsd) : null,
+    priceChange24hPct: pair.priceChange?.h24 ?? null,
+    highPrice24h: null,
+    lowPrice24h: null,
+    volumeBase24h: null,
+    volumeQuote24h: pair.volume?.h24 ?? null,
+    liquidityUsd: pair.liquidity?.usd ?? null,
+    fullyDilutedValuationUsd: pair.fdv ?? null,
+    marketCapUsd: pair.marketCap ?? null,
+    thirtyDayChangePct: null,
+    dailyCandles: []
+  };
+}
+
 function compactMarket(market) {
   if (market?.exchange === "bitget") return compactBitget(market);
   return compactBinance(market);
@@ -408,11 +523,11 @@ function buildPrompt({ symbol, exchange, profile, market, news }) {
     {
       role: "system",
       content: [
-        "You are a crypto secondary-market research analyst.",
+        "You are a crypto token research analyst covering both on-chain DEX markets and centralized exchanges.",
         "Use the supplied public data only. Do not invent facts.",
         "Return strict JSON only, with no markdown fences.",
         "This is research, not financial advice.",
-        "For buy calls, be conservative and explicitly weigh liquidity, news freshness, valuation, unlock/supply, and momentum risk.",
+        "For buy calls, be conservative and explicitly weigh liquidity, news freshness, valuation, unlock/supply, contract/DEX risk, and momentum risk.",
         "All prose fields must be in Simplified Chinese."
       ].join(" ")
     },
@@ -595,13 +710,17 @@ async function analyzeOne(input, exchange) {
   const requestedInput = String(input || "").trim();
 
   const errors = [];
-  const profileResult = await Promise.resolve(getCoinGeckoProfile(requestedInput))
-    .then((value) => ({ status: "fulfilled", value }))
-    .catch((reason) => ({ status: "rejected", reason }));
+  const [profileResult, dexResult] = await Promise.allSettled([
+    getCoinGeckoProfile(requestedInput),
+    getDexScreenerProfile(requestedInput)
+  ]);
 
   if (profileResult.status === "rejected") errors.push(`CoinGecko: ${profileResult.reason.message}`);
-  const profile = compactCoinGecko(profileResult.value?.detail);
-  const symbol = profile?.symbol || profileResult.value?.symbol || normalizeSymbol(requestedInput);
+  if (dexResult.status === "rejected") errors.push(`DexScreener: ${dexResult.reason.message}`);
+
+  const coingeckoProfile = compactCoinGecko(profileResult.value?.detail);
+  const dexProfile = compactDexScreener(dexResult.value?.pair);
+  const symbol = coingeckoProfile?.symbol || dexProfile?.symbol || profileResult.value?.symbol || dexResult.value?.symbol || normalizeSymbol(requestedInput);
   await writeRequest(symbol, exchange);
 
   const marketResult = await Promise.resolve(getMarket(symbol, exchange))
@@ -610,11 +729,16 @@ async function analyzeOne(input, exchange) {
 
   if (marketResult.status === "rejected") errors.push(`${exchange}: ${marketResult.reason.message}`);
 
-  if (profileResult.value?.candidate && profile?.symbol !== symbol) {
-    errors.push(`CoinGecko returned ${profile.symbol} for ${symbol}; profile ignored to avoid token mix-up.`);
+  if (profileResult.value?.candidate && coingeckoProfile?.symbol !== symbol) {
+    errors.push(`CoinGecko returned ${coingeckoProfile.symbol} for ${symbol}; profile ignored to avoid token mix-up.`);
   }
-  const safeProfile = profile?.symbol === symbol ? profile : null;
-  const market = compactMarket(marketResult.value);
+  if (dexProfile?.symbol && dexProfile.symbol !== symbol) {
+    errors.push(`DexScreener returned ${dexProfile.symbol} for ${symbol}; DEX profile ignored to avoid token mix-up.`);
+  }
+  const safeProfile = coingeckoProfile?.symbol === symbol ? coingeckoProfile : (dexProfile?.symbol === symbol ? dexProfile : null);
+  const cexMarket = compactMarket(marketResult.value);
+  const dexMarket = dexResult.value?.pair ? compactDexMarket(dexResult.value.pair) : null;
+  const market = cexMarket?.pair ? cexMarket : (dexMarket || cexMarket);
 
   let news = [];
   try {
@@ -643,6 +767,7 @@ async function analyzeOne(input, exchange) {
     analysis,
     profile: safeProfile,
     market,
+    dexPair: dexResult.value?.pair || null,
     news,
     sources: SOURCES,
     errors
