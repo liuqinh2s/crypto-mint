@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-22T03:14:24.475Z",
+  "updatedAt": "2026-06-22T03:15:10.726Z",
   "results": [
+    {
+      "token": "IDUSDT",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-22T03:15:10.725Z",
+      "latestPath": "data/results/IDUSDT-latest.json"
+    },
     {
       "token": "ID",
       "name": "unknown",
