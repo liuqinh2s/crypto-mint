@@ -1,0 +1,186 @@
+{
+  "token": "HMSTR",
+  "exchange": "binance",
+  "generatedAt": "2026-06-22T01:41:13.472Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "HMSTR",
+    "name": "Hamster Kombat",
+    "generatedAt": "2026-06-22T01:41:06.614Z",
+    "summary": "HMSTR近期因交易量激增和价格反弹受到关注，但基本面疲软，代币价格较历史高点下跌超90%，且缺乏新的实质性催化。建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大合作或生态进展，可重新评估"
+    },
+    "catalysts": [
+      "2026年6月11日价格单日上涨55%，交易量飙升1300%，可能由短期资金推动",
+      "部分交易所上线或活动可能带来短期热度"
+    ],
+    "latestNews": [
+      {
+        "title": "Hamster Kombat (HMSTR) Price Surges 55% as Trading Volume Jumps 1,300%—What’s Driving the Rally?",
+        "impact": "利好",
+        "reason": "显示短期市场关注度提升，但缺乏基本面支撑"
+      },
+      {
+        "title": "Will Hamster Kombat price recover after falling 90%?",
+        "impact": "利空",
+        "reason": "指出代币长期下跌趋势，反弹可能不可持续"
+      }
+    ],
+    "fundamentals": [
+      "Hamster Kombat 是一款Telegram上的点击赚钱游戏，代币HMSTR用于游戏内经济",
+      "项目曾因空投和上线交易所获得关注，但后续价格持续下跌",
+      "代币供应量大，且存在持续解锁压力"
+    ],
+    "marketRead": [
+      "由于数据获取受限，无法获取实时行情和成交量数据",
+      "根据新闻，6月11日曾出现量价齐升，但后续走势不明"
+    ],
+    "risks": [
+      "代币价格已从高点下跌超90%，反弹可能仅为短期投机",
+      "游戏热度下降，用户增长放缓",
+      "代币解锁和抛售压力大",
+      "缺乏新的生态进展或合作伙伴"
+    ],
+    "watchlist": [
+      "关注是否有新的游戏更新或合作公告",
+      "观察交易量是否持续放大",
+      "注意代币解锁时间表"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取实时市场数据",
+      "新闻来源包括CryptoRank、crypto.news等，部分新闻日期较早",
+      "数据可靠性中等，建议结合更多实时数据判断"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "HMSTRUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HMSTRUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HMSTRFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HMSTRFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HMSTRUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HMSTRUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "HMSTRBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=HMSTRBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Hamster Kombat Price Today | HMSTR to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mMHFhdzVNUmloUHBvWlFsS2d2YXYxYUw0anRlZUJVbVNOTHphN1VtMWU2akhqTGpzeGpuVVlzMndmb2RjM2NEMm1ldDFxVmczSkFsVV8zNHNqcHUyNllj?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 18 Jun 2026 18:25:00 GMT",
+      "snippet": "Hamster Kombat Price Today | HMSTR to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Hamster Kombat (HMSTR) Price Surges 55% as Trading Volume Jumps 1,300%—What’s Driving the Rally? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaXhOQV9XbXNmNUZTbmY5dk1jY3BLdmZnZ0tORmNLc1U4cmY2NWdPdndtWlZZSHI0ZW5iQk1wTnhPd29LX0RNU0h1eFpQWkxtRFpyVm9sLVMyNWc4MGtXMmhQd21zVExHcG1SSG9YQ002ajczaVF6eEloTVZZNHZVejF6aVRIX2hobU9RUkRXLUxVMG81WFI0bjMtWjJpazNsYzhnYVpEaVNRTnNUUWUxUXVtUXNJT1dWVWg1QlhVV1lGN3BLR0E?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "snippet": "Hamster Kombat (HMSTR) Price Surges 55% as Trading Volume Jumps 1,300%—What’s Driving the Rally?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Hamster Kombat Guide: $HMSTR Token and Web3 Gaming Ecosystem - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa2xqSHVvcUtxdEs2cVdyeExoLS02YVVBWkN1LXZIc0tIdnQ1ZnFPTUlMaWU4aVZJOTItQzNwOFRINjFueWJKWnlPVjBTSEF5ajgwTUJvbXhfRF90LUd6ckY2b3o2T3VublMzVUFIWjl2dUpVdUtpYkdLOEt6Q0hadVprVUpyNFdDTU9sSUQ3Q0FTN0RvSWlGRncxcEJhNGRrVU54enhFaW5OLWhSWUlySdIBtgFBVV95cUxOTXdteGI4UFROLVh3aGFtb253WGJ3aTNGWWtsSFpuY1p4TXQySV8zOUVYMFFfWWpGdk5ZTHhzd3Q3LXJwbm9QYWFXQmhQWm1HZTVjc2tYbVUxRjNKdXBwdWNpaXh4M2llVDhma1BOVDRJQVdBVzdvQjItYmh4Yk95U01XWHRLTWw2bkJ6STJ5SVpha09LQ1RRTG5wTHFYNzZPZVJHRGhSam1wSWhwQmdTek41VjlYZw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "snippet": "Hamster Kombat Guide: $HMSTR Token and Web3 Gaming Ecosystem&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What is Hamster Kombat? All You Need to Know - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHV2FUQkxwbVI2TXZJdkhQX2VlVmdXUXZGektGLWxxblE1RV9sLVpYOXNNVkdidTF2R1h4clp6dGVxeWhrOUxLdjBSWlA3ODBMNTFPQXI2Y1FQVEQ0YVRqRlNueDdhemlxaXJqTW1WR3Q?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "snippet": "What is Hamster Kombat? All You Need to Know&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "1. How to Trade Hamster Tokens on KuCoin Pre-Market - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbzJTdHdQRDV4Y2l2TUw4cVhaVjdYOU92aUlwUTNMUXlmbkw0Q0hrODR5TDhZZVpYWHluRDJoLVNQd25WbzNnRHhXelZXcE5ocDJRWXRoNnpTekloVTRmRkZITzdLZkNrS1A4b01hQk1iYWFvZE81dlZtQTdLYnFnbDdMTjVBd1FKb0FZ?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "snippet": "1. How to Trade Hamster Tokens on KuCoin Pre-Market&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Hamster Kombat price today, HMSTR to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UdXZ1SmxfZk90WGxDVEJJUzBDVUZWdUF4V1Jpc054MW52NEY2QUU2a2d5LVU2d0oyaGlYLW5EUkMwcmlpdmNOTDFabGgzV3dCNUl2QmV6WDZiYzBINGtmbTlR?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 12 Jul 2024 10:17:31 GMT",
+      "snippet": "Hamster Kombat price today, HMSTR to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Hamster Kombat Price Today: Live HMSTR to NGN Price Chart & Market Data in Nigeria - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WQ1F3RXVKamc2aUlMOWtYc2YwQlc1ckhtU3VjZ3A0VmRTYUx2bDFCVzItTXdULTZZdU1OUGJqSUFrdnVfbEdLSlRzTXdBZw?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Sat, 18 Oct 2025 08:02:25 GMT",
+      "snippet": "Hamster Kombat Price Today: Live HMSTR to NGN Price Chart & Market Data in Nigeria&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Will Hamster Kombat price recover after falling 90%? - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hUC1GV05zcGpmN0dnbzJDVjhvOXZMZXZJcnpublRadDRPS0dUOWJXYnNFTS05WlFhamRTQ21CdUdfWjE2bzI2b0g4WkJhc2UxVmpNMExva250SDZNdFMwdU5JNVU5VDRkS2pwdXJlSkFOZEF2TFV3NHdwTQ?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Thu, 12 Jun 2025 07:00:00 GMT",
+      "snippet": "Will Hamster Kombat price recover after falling 90%?&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "What to Do With Hamster Kombat Coin: Should You Sell HMSTR? - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdyNjVxWEJMVHdldU5ib2pBek1zeVBHSFJBNGgwbFV0WmVwV2J4U0EwRUw5SDAyUHVYaDhCTC1ndjVPcHJielJrSDhmbkduWTZYZFBlUVdjY0dUSm5GcXdpYWJIT3R1aTlIZFhVRFhra0Fpdl90THhMOTAzTDZOZ0pUelVWU1hrWWJmR0NB?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Mon, 30 Sep 2024 07:00:00 GMT",
+      "snippet": "What to Do With Hamster Kombat Coin: Should You Sell HMSTR?&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "Hamster Kombat Price Prediction 2025: HMSTR Numbers Collapse as Struggles Continue - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvczVSY2p0SUoxbUpPamFpTVNWNFpWTVo3Z3ZPVndBb1pwT0hTREpSUTMyUmtCRW9ubEw2bEJCTHppdzhvLTJYTWtkODhuTFBKUXBlV1lLVE01a1ZvYzBNYTI4TTh4S096U0pNY0wyZzMzQW1RZkxSQ21tdEdFU1U?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Tue, 27 May 2025 07:00:00 GMT",
+      "snippet": "Hamster Kombat Price Prediction 2025: HMSTR Numbers Collapse as Struggles Continue&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Hamster Kombat (HMST) Price Makes a Strong Comeback, Surging 88% in a Few Hours - DailyCoin",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGZ1cGtzWnFZYW9vcGQ0ODBINU5hNUlNSGx5TE83ZGx2Qi1BR1BwYWM0Y0N0TW1yUDEwcklrNTBnTS05RElvQlFSZkk4VjZvRndESEJ4cW5uM2cxLVZoX1VQbUFrcFhPdHh1aG91TERwZHNHM2EwRnhueGs5cno0TjBHZEc1eTZ1Z05OUmxXQ0w?oc=5",
+      "source": "DailyCoin",
+      "publishedAt": "Sat, 09 Nov 2024 08:00:00 GMT",
+      "snippet": "Hamster Kombat (HMST) Price Makes a Strong Comeback, Surging 88% in a Few Hours&nbsp;&nbsp;DailyCoin"
+    },
+    {
+      "title": "Hamster Kombat token listing: the year’s biggest disappointment for most users - Qazinform",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdUlWblVYWnF6Rk5zUV9Ta25BLVFzekgyOUlUYnM2dm8yQUJ1R2FpUzBqbTRpVjdmZDQyeUNRWU81ZS1EU3FWZFR1UTlNY3liUWIybVR0YUpHdnlWMzFfNTR4SWswSGJqa0YxN1lZekpqdXpOZ1BiWVA4N3hJcS1WSlMwa2gybGpROUVhdkhHdV9hSGtrVVZRNERsbVlnX0l3bDZSeldLX1V4aV9Vai040gGvAUFVX3lxTE80YXR1Vll0cjYyb3JQTlBvSTRTczRPUTREX2hDbjZkTHZ5RnEzR1ZFaDg0N1ZsUGo2TGkxYjJoeWhCYjctbkNpVGRxdXI5dWJ4OTRLSTRka1JaanNoZlhpTTNTQ1hXNXZjS3VYbXZfN0thc0tnVVljTHpaYWlhWTZtNElqUDJoNmJkV0tuVDJVMVc3RHdvSFJFVVpnWE9fZWVPaEU0eWRlWURiQ0JtOHc?oc=5",
+      "source": "Qazinform",
+      "publishedAt": "Tue, 01 Oct 2024 07:00:00 GMT",
+      "snippet": "Hamster Kombat token listing: the year’s biggest disappointment for most users&nbsp;&nbsp;Qazinform"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 502 Bad Gateway from https://api.coingecko.com/api/v3/coins/hamster-kombat?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-502/\",\"title\":\"Error 502: Bad gateway\",\"status\":502,\"detail\":\"The origin web server returned an invalid or incomplete response to Cloudflare. This typically indicates the origin is overlo"
+  ]
+}
