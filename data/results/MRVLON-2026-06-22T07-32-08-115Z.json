@@ -1,0 +1,198 @@
+{
+  "token": "MRVLON",
+  "requestedInput": "MRVL",
+  "exchange": "other",
+  "generatedAt": "2026-06-22T07:32:08.115Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MRVLON",
+    "name": "Marvell Technology (Ondo Tokenized Stock)",
+    "generatedAt": "2026-06-22T07:32:00.680Z",
+    "summary": "MRVLON是Marvell Technology的代币化股票，近期价格大幅上涨，但链上流动性极低（仅0.03美元），存在严重交易风险。基本面受Marvell股价和RWA叙事驱动，但当前链上市场深度不足，不适合实际交易。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "链上流动性恢复至合理水平（如>10万美元）且交易量正常化"
+    },
+    "catalysts": [
+      "Marvell Technology股价上涨带动代币价格",
+      "RWA（真实世界资产）代币化叙事热度",
+      "Ondo Finance平台用户增长"
+    ],
+    "latestNews": [
+      {
+        "title": "Marvell Technology Tokenized Stock (Ondo) price today, MRVLon to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "仅为价格数据报道，无新增催化"
+      }
+    ],
+    "fundamentals": [
+      "MRVLON是Ondo发行的Marvell Technology代币化股票，提供经济敞口和股息再投资",
+      "总供应量109,708枚，当前市值约3485万美元（按CME价格）",
+      "链上DEX（Meteora）流动性仅0.03美元，实际交易不可行",
+      "代币可在Ondo平台铸造和赎回，但需符合KYC/AML限制"
+    ],
+    "marketRead": [
+      "链上DEX（Meteora）价格0.003888 SOL，24小时涨幅10406%，但流动性极低，价格失真",
+      "CME价格317.72美元，30日涨幅62.9%，与链上价格严重脱节",
+      "链上成交量仅0.04美元，无实际交易意义"
+    ],
+    "risks": [
+      "链上流动性极低（0.03美元），无法执行任何实际交易",
+      "价格操纵风险：极低流动性下少量交易即可导致价格剧烈波动",
+      "合约风险：代币合约可能存在漏洞或权限问题",
+      "监管风险：代币化股票可能面临合规不确定性",
+      "估值风险：当前链上价格与CME价格严重偏离"
+    ],
+    "watchlist": [
+      "链上流动性是否增加至合理水平",
+      "Ondo平台是否推出官方流动性池",
+      "Marvell Technology股价走势",
+      "RWA赛道整体市场情绪"
+    ],
+    "sourceNotes": [
+      "链上数据来自Meteora DEX，流动性极低，价格不可靠",
+      "CME价格来自CoinMarketCap，但代币实际交易需通过Ondo平台",
+      "新闻仅有一条CoinMarketCap的RSS摘要，无实质内容"
+    ]
+  },
+  "profile": {
+    "id": "marvell-technology-ondo-tokenized-stock",
+    "symbol": "MRVLON",
+    "name": "Marvell Technology (Ondo Tokenized Stock)",
+    "categories": [
+      "Tokenized Assets",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Ondo Tokenized Assets"
+    ],
+    "homepage": [
+      "https://app.ondo.finance/assets/mrvlon"
+    ],
+    "description": "MRVLon is the Ondo Tokenized version of Marvell Technology, giving tokenholders economic exposure similar to holding MRVL and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
+    "marketCapRank": 578,
+    "currentPriceUsd": 317.72,
+    "marketCapUsd": 34858436,
+    "fullyDilutedValuationUsd": 34858436,
+    "totalVolumeUsd": 1298833,
+    "priceChange24hPct": 0.18133,
+    "priceChange7dPct": 8.13763,
+    "priceChange14dPct": 15.48336,
+    "priceChange30dPct": 62.92823,
+    "athUsd": 339.17,
+    "athChangePct": -6.50483,
+    "circulatingSupply": 109708.2435527855,
+    "totalSupply": 109708.2435527855,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 197,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "MRVL/SOL",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "3UUkHCoBnqUHhCL8spuQ36LRvE5gijb81YfkbHvHrR5U",
+    "pairUrl": "https://dexscreener.com/solana/3uukhcobnquhhcl8spuq36lrve5gijb81yfkbhvhrr5u",
+    "lastPrice": 0.003888,
+    "priceChange24hPct": 10406,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.04,
+    "liquidityUsd": 0.03,
+    "fullyDilutedValuationUsd": 340095,
+    "marketCapUsd": 340095,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/3uukhcobnquhhcl8spuq36lrve5gijb81yfkbhvhrr5u",
+    "pairAddress": "3UUkHCoBnqUHhCL8spuQ36LRvE5gijb81YfkbHvHrR5U",
+    "labels": [
+      "DYN2"
+    ],
+    "baseToken": {
+      "address": "B6zZBqeCkx8YvVfv7UM2zJsqNM1TFhpCipoL4FNEu2pX",
+      "name": "Marvell Technology Inc",
+      "symbol": "MRVL"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.00005259",
+    "priceUsd": "0.003888",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 6,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 0.04,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": 10406
+    },
+    "liquidity": {
+      "usd": 0.03,
+      "base": 3.4698,
+      "quote": 0.0002325
+    },
+    "fdv": 340095,
+    "marketCap": 340095,
+    "pairCreatedAt": 1780408267000
+  },
+  "news": [
+    {
+      "title": "Marvell Technology Tokenized Stock (Ondo) price today, MRVLon to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSVRNTmVmdnRxZ3FhNS1RMThnY1pVdlBvb2JMa1dLNzFkYjYxaE1oWkFPdmdxRVZTMzFUdHJCMVl4YnhsZ21uNUZwZnJkUm9XNmhpQ0FUU2Q0WGhodEswRXlwOGNBRDdxWVAxU1JRcFUyS3VpVHBtekdWdlprTUFuNjJsZw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 18 Aug 2025 02:49:18 GMT",
+      "snippet": "Marvell Technology Tokenized Stock (Ondo) price today, MRVLon to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned MRVL for MRVLON; DEX profile ignored to avoid token mix-up."
+  ]
+}

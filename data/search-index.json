@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-22T07:24:18.256Z",
+  "updatedAt": "2026-06-22T07:32:08.117Z",
   "results": [
+    {
+      "token": "MRVLON",
+      "requestedInput": "MRVL",
+      "name": "Marvell Technology (Ondo Tokenized Stock)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-22T07:32:08.115Z",
+      "latestPath": "data/results/MRVLON-latest.json"
+    },
     {
       "token": "ID",
       "requestedInput": "Space ID",
@@ -892,15 +902,6 @@
       "action": "不买",
       "generatedAt": "2026-06-19T01:47:52.563Z",
       "latestPath": "data/results/VELVET-latest.json"
-    },
-    {
-      "token": "SYN",
-      "name": "Synapse",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-19T01:40:27.531Z",
-      "latestPath": "data/results/SYN-latest.json"
     }
   ]
 }
