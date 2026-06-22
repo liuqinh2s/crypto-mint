@@ -29,6 +29,13 @@ function normalizeSymbol(value) {
     .replace(/[^A-Z0-9]/g, "");
 }
 
+function parseTokenInputs(value) {
+  return [...new Set(String(value || "")
+    .split(",")
+    .map((item) => item.trim().replace(/^\$/, ""))
+    .filter(Boolean))];
+}
+
 function parseSymbols(value) {
   return [...new Set(String(value || "")
     .split(/[\s,;，；、]+/)
@@ -50,6 +57,14 @@ function slug(value) {
     .replace(/^-+|-+$/g, "");
 }
 
+function normalizeLookup(value) {
+  return String(value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/^\$/, "")
+    .replace(/\s+/g, " ");
+}
+
 function isShortAmbiguousSymbol(symbol) {
   return symbol.length <= 3;
 }
@@ -61,6 +76,22 @@ function scoreCoinCandidate(coin, symbol) {
   const rank = Number(coin.market_cap_rank);
   const rankScore = Number.isFinite(rank) ? Math.max(0, 1000 - rank) : 0;
   return 10_000 + rankScore;
+}
+
+function scoreCoinSearchCandidate(coin, input) {
+  const symbol = normalizeSymbol(input);
+  const lookup = normalizeLookup(input);
+  const candidateSymbol = coin.symbol?.toUpperCase();
+  const candidateName = normalizeLookup(coin.name);
+  const candidateId = normalizeLookup(coin.id).replace(/-/g, " ");
+  const rank = Number(coin.market_cap_rank);
+  const rankScore = Number.isFinite(rank) ? Math.max(0, 1000 - rank) : 0;
+
+  if (candidateName === lookup) return 30_000 + rankScore;
+  if (candidateId === lookup) return 25_000 + rankScore;
+  if (candidateSymbol === symbol) return 20_000 + rankScore;
+  if (!isShortAmbiguousSymbol(symbol) && candidateName.includes(lookup)) return 5_000 + rankScore;
+  return -1;
 }
 
 function nowIso() {
@@ -133,27 +164,28 @@ function decodeXml(value) {
     .replace(/&#39;/g, "'");
 }
 
-async function getCoinGeckoProfile(symbol) {
-  const searchUrl = `${SOURCES.coingeckoSearch}?query=${encodeURIComponent(symbol)}`;
+async function getCoinGeckoProfile(input) {
+  const inputSymbol = normalizeSymbol(input);
+  const searchUrl = `${SOURCES.coingeckoSearch}?query=${encodeURIComponent(input)}`;
   const search = await fetchJson(searchUrl);
   const candidates = search.coins || [];
-  const exactMatches = candidates
-    .map((coin) => ({ coin, score: scoreCoinCandidate(coin, symbol) }))
+  const matches = candidates
+    .map((coin) => ({ coin, score: scoreCoinSearchCandidate(coin, input) }))
     .filter((item) => item.score >= 0)
     .sort((a, b) => b.score - a.score)
     .map((item) => item.coin);
 
   // Very short symbols such as ID, IO, RE, OG are easy to confuse with words or
-  // unrelated coin ids. Only accept an exact symbol match for them.
-  const candidate = exactMatches[0] || (isShortAmbiguousSymbol(symbol) ? null : candidates[0]);
+  // unrelated coin ids. Full-name matches are allowed, but we avoid blind fallbacks.
+  const candidate = matches[0] || (isShortAmbiguousSymbol(inputSymbol) ? null : candidates[0]);
 
   if (!candidate?.id) {
-    return { candidate: null, detail: null };
+    return { symbol: inputSymbol, candidate: null, detail: null };
   }
 
   const detailUrl = `${SOURCES.coingeckoCoins}/${encodeURIComponent(candidate.id)}?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false`;
   const detail = await fetchJson(detailUrl);
-  return { candidate, detail };
+  return { symbol: normalizeSymbol(detail.symbol || candidate.symbol || inputSymbol), candidate, detail };
 }
 
 async function getBinanceMarket(symbol) {
@@ -529,6 +561,7 @@ async function updateIndex(results) {
   const resultList = Array.isArray(results) ? results : [results];
   const nextItems = resultList.map((result) => ({
     token: result.token,
+    requestedInput: result.requestedInput,
     name: result.analysis?.name || result.profile?.name || result.token,
     score: result.analysis?.rating?.score ?? null,
     label: result.analysis?.rating?.label || "未知",
@@ -558,19 +591,25 @@ async function writeRequest(symbol, exchange) {
   await fs.writeFile(file, `${JSON.stringify(record, null, 2)}\n`);
 }
 
-async function analyzeOne(symbol, exchange) {
-  await writeRequest(symbol, exchange);
+async function analyzeOne(input, exchange) {
+  const requestedInput = String(input || "").trim();
 
   const errors = [];
-  const [profileResult, marketResult] = await Promise.allSettled([
-    getCoinGeckoProfile(symbol),
-    getMarket(symbol, exchange)
-  ]);
+  const profileResult = await Promise.resolve(getCoinGeckoProfile(requestedInput))
+    .then((value) => ({ status: "fulfilled", value }))
+    .catch((reason) => ({ status: "rejected", reason }));
 
   if (profileResult.status === "rejected") errors.push(`CoinGecko: ${profileResult.reason.message}`);
+  const profile = compactCoinGecko(profileResult.value?.detail);
+  const symbol = profile?.symbol || profileResult.value?.symbol || normalizeSymbol(requestedInput);
+  await writeRequest(symbol, exchange);
+
+  const marketResult = await Promise.resolve(getMarket(symbol, exchange))
+    .then((value) => ({ status: "fulfilled", value }))
+    .catch((reason) => ({ status: "rejected", reason }));
+
   if (marketResult.status === "rejected") errors.push(`${exchange}: ${marketResult.reason.message}`);
 
-  const profile = compactCoinGecko(profileResult.value?.detail);
   if (profileResult.value?.candidate && profile?.symbol !== symbol) {
     errors.push(`CoinGecko returned ${profile.symbol} for ${symbol}; profile ignored to avoid token mix-up.`);
   }
@@ -597,6 +636,7 @@ async function analyzeOne(symbol, exchange) {
 
   const result = {
     token: symbol,
+    requestedInput,
     exchange,
     generatedAt: nowIso(),
     analysisStatus,
@@ -633,18 +673,18 @@ async function mapLimit(items, limit, worker) {
 }
 
 async function main() {
-  const symbols = parseSymbols(tokenArg);
+  const tokenInputs = parseTokenInputs(tokenArg);
   const exchange = exchangeArg.trim().toLowerCase();
 
-  if (!symbols.length) {
-    throw new Error("Usage: node scripts/analyze-token.mjs TOKEN[,TOKEN...] [exchange]");
+  if (!tokenInputs.length) {
+    throw new Error("Usage: node scripts/analyze-token.mjs \"TOKEN OR TOKEN NAME,TOKEN2\" [exchange]");
   }
 
   await ensureDirs();
 
   const concurrency = getBatchConcurrency();
-  console.log(`Analyzing ${symbols.length} token(s) with concurrency ${concurrency}: ${symbols.join(", ")}`);
-  const results = await mapLimit(symbols, concurrency, (symbol) => analyzeOne(symbol, exchange));
+  console.log(`Analyzing ${tokenInputs.length} token(s) with concurrency ${concurrency}: ${tokenInputs.join(", ")}`);
+  const results = await mapLimit(tokenInputs, concurrency, (input) => analyzeOne(input, exchange));
   await updateIndex(results);
   console.log(`Updated index for ${results.length} token(s).`);
 }

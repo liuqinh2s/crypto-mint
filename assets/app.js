@@ -65,6 +65,18 @@ function normalizeToken(value) {
     .replace(/[^A-Z0-9]/g, "");
 }
 
+function normalizeLookup(value) {
+  return String(value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/^\$/, "")
+    .replace(/\s+/g, " ");
+}
+
+const tokenAliases = {
+  "space id": "ID"
+};
+
 function getRouteToken() {
   const baseSegments = SITE_BASE.pathname.split("/").filter(Boolean);
   const pathSegments = window.location.pathname.split("/").filter(Boolean);
@@ -87,6 +99,31 @@ function parseTokens(value) {
     .split(/[\s,;，；、]+/)
     .map(normalizeToken)
     .filter(Boolean))];
+}
+
+function parseTokenInputs(value) {
+  return [...new Set(String(value || "")
+    .split(",")
+    .map((item) => item.trim().replace(/^\$/, ""))
+    .filter(Boolean))];
+}
+
+function resolvedToken(input, result) {
+  if (result?.token) return normalizeToken(result.token);
+  const lookup = normalizeLookup(input);
+  return tokenAliases[lookup] || normalizeToken(input);
+}
+
+function resultMatchesInput(result, input) {
+  const lookup = normalizeLookup(input);
+  const normalizedInput = normalizeToken(input);
+  return [
+    result?.token,
+    result?.requestedInput,
+    result?.name,
+    result?.analysis?.name,
+    result?.profile?.name
+  ].some((value) => normalizeLookup(value) === lookup || normalizeToken(value) === normalizedInput);
 }
 
 function fmtNumber(value, digits = 2) {
@@ -224,6 +261,13 @@ async function loadIndex() {
   return index;
 }
 
+async function findResultFromIndex(input) {
+  const index = await loadIndex();
+  const row = (index.results || []).find((item) => resultMatchesInput(item, input));
+  if (!row?.latestPath) return null;
+  return loadResult(row.latestPath);
+}
+
 async function loadResult(path) {
   const response = await fetch(new URL(`${path}?t=${Date.now()}`, SITE_BASE), { cache: "no-store" });
   if (!response.ok) throw new Error("结果还没生成");
@@ -290,7 +334,17 @@ function startPolling(symbols) {
       if (!pending.has(symbol)) return;
 
       try {
-        const result = await loadResult(tokenPath(symbol));
+        const guessedToken = resolvedToken(symbol);
+        let result = null;
+        try {
+          result = await loadResult(tokenPath(guessedToken));
+        } catch {
+          result = await findResultFromIndex(symbol);
+        }
+        if (result && !resultMatchesInput(result, symbol)) {
+          result = await findResultFromIndex(symbol);
+        }
+        if (!result) throw new Error("Result is not published yet.");
         pending.delete(symbol);
         latestLoaded = result;
       } catch {
@@ -321,7 +375,7 @@ function startPolling(symbols) {
 
 form.addEventListener("submit", async (event) => {
   event.preventDefault();
-  const symbols = parseTokens(tokenInput.value);
+  const symbols = parseTokenInputs(tokenInput.value);
   const exchange = exchangeInput.value;
 
   if (!symbols.length) {
