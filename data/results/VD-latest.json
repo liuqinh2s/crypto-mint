@@ -1,0 +1,284 @@
+{
+  "token": "VD",
+  "requestedInput": "INDA",
+  "exchange": "other",
+  "generatedAt": "2026-06-22T12:02:04.517Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "VD",
+    "name": "VinDax Coin",
+    "generatedAt": "2026-06-22T12:01:55.582Z",
+    "summary": "VD是VinDAX交易所的平台币，当前价格极低（$0.0132），距离历史高点跌超93%。24小时涨幅4.2%，但流动性极差（交易量仅$851），且流通量为0，完全稀释市值$1.65M。新闻均为聚合价格页面，无实质利好。基本面薄弱，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [
+      "无明确催化剂，价格波动可能源于极低流动性的随机交易"
+    ],
+    "latestNews": [
+      {
+        "title": "VinDax Coin Price Today in India | VD to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格聚合页面，无新信息"
+      },
+      {
+        "title": "VinDax Coin (VD) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+        "impact": "中性",
+        "reason": "2024年3月旧闻，无实质内容"
+      },
+      {
+        "title": "VinDax Coin price today, VD to USD live price, marketcap and chart - CoinDesk",
+        "impact": "中性",
+        "reason": "2026年2月旧闻，仅为价格页面"
+      },
+      {
+        "title": "VinDax Coin Price: VD/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+        "impact": "中性",
+        "reason": "2019年旧闻，无参考价值"
+      },
+      {
+        "title": "VinDax Coin price today, VD to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "2019年旧闻，无参考价值"
+      },
+      {
+        "title": "VinDax Coin Price, VD Price, Live Charts, and Marketcap - Coinbase",
+        "impact": "中性",
+        "reason": "2020年旧闻，无参考价值"
+      },
+      {
+        "title": "VinDax Coin Price Today | VD to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "2026年6月17日价格页面，无新信息"
+      }
+    ],
+    "fundamentals": [
+      "VinDAX交易所的平台币",
+      "总供应量1.25亿枚，流通量为0（可能未解锁或未公开流通）",
+      "完全稀释市值约$1.65M，当前市值$0",
+      "项目官网vindax.com，但交易所知名度低",
+      "无明确的代币经济模型或用途说明"
+    ],
+    "marketRead": [
+      "24小时涨幅4.2%，但交易量仅$851，流动性极低",
+      "7日跌幅3.6%，14日涨幅3.2%，30日涨幅3.8%，整体横盘偏弱",
+      "无K线数据，无法分析趋势",
+      "市场深度极差，大额买卖单可能导致价格剧烈波动"
+    ],
+    "risks": [
+      "流通量为0，代币可能未解锁或存在合约风险",
+      "流动性极低，交易量仅$851，难以买卖",
+      "项目方背景不明，交易所规模小，存在跑路风险",
+      "新闻均为旧闻或聚合页面，无实质利好",
+      "价格距历史高点跌超93%，可能归零"
+    ],
+    "watchlist": [
+      "关注VD是否在中心化交易所上线及流动性变化",
+      "关注VinDAX交易所运营状态及公告",
+      "关注代币解锁或流通量变化"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko和DexScreener，但DEX配对为MEMES/SOL，与VD无关，可能数据错误",
+      "VD的DEX流动性数据缺失，仅中心化交易所数据可用",
+      "新闻均为价格聚合页面，无实质内容"
+    ]
+  },
+  "profile": {
+    "id": "vindax-coin",
+    "symbol": "VD",
+    "name": "VinDax Coin",
+    "categories": [
+      "Exchange-based Tokens",
+      "Centralized Exchange (CEX) Token"
+    ],
+    "homepage": [
+      "https://vindax.com/"
+    ],
+    "description": "VinDAX Coin (VD) is a cryptocurrency to be issued by VinDAX Digital Asset Exchange.",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.0132011,
+    "marketCapUsd": 0,
+    "fullyDilutedValuationUsd": 1650138,
+    "totalVolumeUsd": 851.49,
+    "priceChange24hPct": 4.21732,
+    "priceChange7dPct": -3.63056,
+    "priceChange14dPct": 3.21676,
+    "priceChange30dPct": 3.84198,
+    "athUsd": 0.198579,
+    "athChangePct": -93.35235,
+    "circulatingSupply": 0,
+    "totalSupply": 125000000,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 278,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "MEMES/SOL",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "9SfpgVXDyrCCG4t9dcrFqn16YFiZCdwHb9W6vZgzCnfy",
+    "pairUrl": "https://dexscreener.com/solana/9sfpgvxdyrccg4t9dcrfqn16yfizcdwhb9w6vzgzcnfy",
+    "lastPrice": 0.0001681,
+    "priceChange24hPct": 0.69,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 94.13,
+    "liquidityUsd": 10062.76,
+    "fullyDilutedValuationUsd": 16794,
+    "marketCapUsd": 16794,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/9sfpgvxdyrccg4t9dcrfqn16yfizcdwhb9w6vzgzcnfy",
+    "pairAddress": "9SfpgVXDyrCCG4t9dcrFqn16YFiZCdwHb9W6vZgzCnfy",
+    "baseToken": {
+      "address": "8W4qpyLx74vwBRewa3rVEPPVMnJ8VWMkCTWCTSYPQTDu",
+      "name": "MemeCoinDAOai",
+      "symbol": "MEMES"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.000002261",
+    "priceUsd": "0.0001681",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 3
+      },
+      "h24": {
+        "buys": 24,
+        "sells": 29
+      }
+    },
+    "volume": {
+      "h24": 94.13,
+      "h6": 5.53,
+      "h1": 1,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": 0.5,
+      "h6": 0.17,
+      "h24": 0.69
+    },
+    "liquidity": {
+      "usd": 10062.76,
+      "base": 29893373,
+      "quote": 67.7586
+    },
+    "fdv": 16794,
+    "marketCap": 16794,
+    "pairCreatedAt": 1704905041000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/82979ed827e0881c50326e7b7da3e09e1b34d89b2a8f9ed8725418d93f860934?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/8db36d035d37d8c7234261e8d0a58cb0f4ae2df94067ad728b857f1dffc526f9?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8W4qpyLx74vwBRewa3rVEPPVMnJ8VWMkCTWCTSYPQTDu?timestamp=1782129600000",
+      "websites": [
+        {
+          "url": "https://www.memecoindao.ai/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://twitter.com/MemeCoinDAOai",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/+8GaBrj_gUjg5YmYx",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "VinDax Coin Price Today in India | VD to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FY1FWVjM4YlI2a041TGUzOFRDZ2tnamtyNGJ6d0RMdnBVSHRRTkZnc1JESjA3dW1jZm9qUzV2TUxMaXhOVWo2SHAxakNLQllodlZlVzVaN0ZjZEk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 14 Jun 2026 13:27:00 GMT",
+      "snippet": "VinDax Coin Price Today in India | VD to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "VinDax Coin (VD) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mdXJJRElNZ3JLY1pRTTQ3S3kyNEdKSE1Bdml6UmxlT0pLVW8xRkZ6eE9xSWVzOXRqQzlJWTlYOGYtVmR5NTlyYjMwYWlwODYzMmp0dWppNW01R3E1aVhxV0c3bG0zTDVNQ3BhZg?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Wed, 20 Mar 2024 06:35:23 GMT",
+      "snippet": "VinDax Coin (VD) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "VinDax Coin price today, VD to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FZmFURzFMRXgyLXV5ZlplQy1KbDBQaUdhN0RPQUxmem5wX2FlWGZ5SUtUY2NsMF9ZSEJtRk1TdWZlQVYtZmVXTQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 18 Feb 2026 19:20:48 GMT",
+      "snippet": "VinDax Coin price today, VD to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "VinDax Coin Price: VD/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9veFZnZm9zVXZZNXVQRnBJaDlfSDVSYlA1XzRiY3oxYWxwaVNHM2xQWkRPV1RjTXl2TWpZNGd0dTlWWkF5U2poR2NPWHFrWGx2bl94ME9NYWgtdw?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 28 May 2019 03:45:40 GMT",
+      "snippet": "VinDax Coin Price: VD/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "VinDax Coin price today, VD to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FSXFJNGFoTVhubHFtXzRmVFJEaDkwMlhOZnVFVHRWeHg4aU9LQzE3S3lNdFMzR0dVcnRYTlVMTlpTcjJ4TzN3OUdhTkw1dENkUU1uTlV6T1JpVlJIWmc?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 17 Jul 2019 19:38:30 GMT",
+      "snippet": "VinDax Coin price today, VD to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "VinDax Coin Price, VD Price, Live Charts, and Marketcap - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NOFg4VlUyWWdqbU80ZVJCSFhwcmF4YWNhSDF2ZEs0ZHlLWGxJY1ZZVFR4dVhrYUtrdjNkTGVQVnJlYk9lN0dJcVJ6cGszWUFPV1JoSw?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Thu, 16 Apr 2020 02:16:02 GMT",
+      "snippet": "VinDax Coin Price, VD Price, Live Charts, and Marketcap&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "VinDax Coin Price Today | VD to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXdzBkNmlXYVlPbTl1NmlQNEhSb25GME95dnp3WUlfajdwdDZyWUtvbE5vUU9nXzh5SktoSVJKZ0dTSFYwWEhqcmo0am03aTdVb01hUFF1VQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 17 Jun 2026 05:02:00 GMT",
+      "snippet": "VinDax Coin Price Today | VD to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned MEMES for VD; DEX profile ignored to avoid token mix-up."
+  ]
+}
