@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-06-22T02:31:22.021Z",
+  "updatedAt": "2026-06-22T03:16:58.102Z",
   "results": [
     {
+      "token": "SPACEID",
+      "name": "Space ID",
+      "score": 0,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-22T03:16:58.100Z",
+      "latestPath": "data/results/SPACEID-latest.json"
+    },
+    {
+      "token": "IDUSDT",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-22T03:15:10.725Z",
+      "latestPath": "data/results/IDUSDT-latest.json"
+    },
+    {
       "token": "ID",
-      "name": "Hyperliquid",
-      "score": 65,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-22T02:31:22.019Z",
+      "name": "unknown",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-22T03:14:24.474Z",
       "latestPath": "data/results/ID-latest.json"
     },
     {
@@ -882,15 +900,6 @@
       "action": "不买",
       "generatedAt": "2026-06-19T01:40:27.531Z",
       "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "BASED",
-      "name": "Based",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-19T01:18:27.731Z",
-      "latestPath": "data/results/BASED-latest.json"
     }
   ]
 }

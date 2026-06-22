@@ -1,0 +1,100 @@
+{
+  "token": "IDUSDT",
+  "exchange": "binance",
+  "generatedAt": "2026-06-22T03:15:10.725Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "IDUSDT",
+    "name": "unknown",
+    "generatedAt": "2026-06-22T03:15:06.659Z",
+    "summary": "数据严重不足，无法分析上涨原因或给出评级。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "数据不足，无法设定失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "0.03095 | IDUSDT USDⓈ-Margined Perpetual Chart | Binance Futures - Binance",
+        "impact": "中性",
+        "reason": "仅为价格快照，无实质信息"
+      },
+      {
+        "title": "0.0276 | IDUSDT | Binance Spot - Binance",
+        "impact": "中性",
+        "reason": "仅为价格快照，无实质信息"
+      }
+    ],
+    "fundamentals": [],
+    "marketRead": [],
+    "risks": [
+      "数据完全缺失，无法评估任何风险",
+      "API返回451错误，可能受地域限制"
+    ],
+    "watchlist": [],
+    "sourceNotes": [
+      "所有市场数据请求均返回451错误，无法获取行情",
+      "新闻仅包含两条价格快照，无实质内容",
+      "项目资料缺失，无法识别代币名称"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "IDUSDTUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IDUSDTUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IDUSDTFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IDUSDTFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IDUSDTUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IDUSDTUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IDUSDTBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IDUSDTBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "0.03095 | IDUSDT USDⓈ-Margined Perpetual Chart | Binance Futures - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWUmE0SGs3RE03Z3YtYnFuM09tT2ZvclRyMG5ENlVJWXZoRTUtMHdHcDZKVTV5aXUyNDlBYVp1cVppZzZPejdWYTBfWTB3Q3Y1eWo4?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 22 Mar 2023 07:00:00 GMT",
+      "snippet": "0.03095 | IDUSDT USDⓈ-Margined Perpetual Chart | Binance Futures&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "0.0276 | IDUSDT | Binance Spot - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81Zm1zbHhkdG54VVJpeUtLem1pd2poekxzMXpEeml1QWZTLUJRLVd1ZXBlRWp0Ui05dlVNSlQxbEtXNExHb254OWpsUkFLTmcxb1luTWx3?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 21 Dec 2023 05:46:04 GMT",
+      "snippet": "0.0276 | IDUSDT | Binance Spot&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
