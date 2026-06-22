@@ -1,0 +1,109 @@
+{
+  "token": "SPACEID",
+  "exchange": "binance",
+  "generatedAt": "2026-06-22T03:16:58.100Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SPACEID",
+    "name": "Space ID",
+    "generatedAt": "2026-06-22T03:16:53.049Z",
+    "summary": "数据获取受限，无法分析当前行情。历史新闻显示2023年有Launchpad和120%涨幅，但无近期数据。",
+    "rating": {
+      "score": 0,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "数据不足，无法判断"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Binance is preparing to receive its 30th project on Binance Launchpad (SPACEID)",
+        "impact": "利好",
+        "reason": "Launchpad项目通常带来短期关注和资金流入"
+      },
+      {
+        "title": "SpaceID (ID) Performs Whopping 120% Surge: Who May Be Behind Price Push?",
+        "impact": "利好",
+        "reason": "历史大涨显示市场兴趣，但无近期催化"
+      }
+    ],
+    "fundamentals": [
+      "Space ID是去中心化域名服务项目，类似ENS",
+      "曾获Binance Launchpad支持"
+    ],
+    "marketRead": [
+      "Binance API返回451错误，无法获取实时行情和成交量"
+    ],
+    "risks": [
+      "数据完全不可用，无法评估当前价格和风险",
+      "历史新闻距今超过3年，时效性极差"
+    ],
+    "watchlist": [
+      "需通过其他数据源获取当前价格和成交量",
+      "关注是否有新的项目进展或代币解锁"
+    ],
+    "sourceNotes": [
+      "所有Binance API请求均因地域限制失败",
+      "仅有的两条新闻来自2023年，无法反映当前情况"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "SPACEIDUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SPACEIDUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SPACEIDFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SPACEIDFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SPACEIDUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SPACEIDUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SPACEIDBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SPACEIDBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "NEWS: Binance is preparing to receive its 30th project on Binance Launchpad (SPACEID) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lOUxjQTd5NFZQVjZIclNXMkNsYnhZTThaeFE5NGkxRnlCWXdOb25UbmlpVUhYWTYtdW9SMFg1Sl8tNWVyVFJseTJsQXJWWmtJdUEtNmpTbF8?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 17 Mar 2023 07:00:00 GMT",
+      "snippet": "NEWS: Binance is preparing to receive its 30th project on Binance Launchpad (SPACEID)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "SpaceID (ID) Performs Whopping 120% Surge: Who May Be Behind Price Push? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3dnJjWUpmT0dRbG01eGVKR3pZLVp5bXllVlFhNktkYVBHT0tXNEtZZFFXeFNsdDkwZEpvdXBSS1R2WVN6TWV2WmRLLWtzM005SExPa1lmT24?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 18 Apr 2023 07:00:00 GMT",
+      "snippet": "SpaceID (ID) Performs Whopping 120% Surge: Who May Be Behind Price Push?&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "AI returned mismatched token ID; forced back to SPACEID."
+  ]
+}

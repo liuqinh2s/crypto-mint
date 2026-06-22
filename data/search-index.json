@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-22T03:15:10.726Z",
+  "updatedAt": "2026-06-22T03:16:58.102Z",
   "results": [
+    {
+      "token": "SPACEID",
+      "name": "Space ID",
+      "score": 0,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-22T03:16:58.100Z",
+      "latestPath": "data/results/SPACEID-latest.json"
+    },
     {
       "token": "IDUSDT",
       "name": "unknown",
@@ -891,15 +900,6 @@
       "action": "不买",
       "generatedAt": "2026-06-19T01:40:27.531Z",
       "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "BASED",
-      "name": "Based",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-19T01:18:27.731Z",
-      "latestPath": "data/results/BASED-latest.json"
     }
   ]
 }
