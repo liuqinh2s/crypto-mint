@@ -15,6 +15,8 @@ const SOURCES = {
   coingeckoCoins: "https://api.coingecko.com/api/v3/coins",
   binance24h: "https://api.binance.com/api/v3/ticker/24hr",
   binanceKlines: "https://api.binance.com/api/v3/klines",
+  bitgetSpotTicker: "https://api.bitget.com/api/v2/spot/market/tickers",
+  bitgetSpotCandles: "https://api.bitget.com/api/v2/spot/market/candles",
   googleNewsRss: "https://news.google.com/rss/search",
   deepseek: "https://api.deepseek.com/chat/completions"
 };
@@ -46,6 +48,19 @@ function slug(value) {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
+}
+
+function isShortAmbiguousSymbol(symbol) {
+  return symbol.length <= 3;
+}
+
+function scoreCoinCandidate(coin, symbol) {
+  const candidateSymbol = coin.symbol?.toUpperCase();
+  if (candidateSymbol !== symbol) return -1;
+
+  const rank = Number(coin.market_cap_rank);
+  const rankScore = Number.isFinite(rank) ? Math.max(0, 1000 - rank) : 0;
+  return 10_000 + rankScore;
 }
 
 function nowIso() {
@@ -121,7 +136,16 @@ function decodeXml(value) {
 async function getCoinGeckoProfile(symbol) {
   const searchUrl = `${SOURCES.coingeckoSearch}?query=${encodeURIComponent(symbol)}`;
   const search = await fetchJson(searchUrl);
-  const candidate = (search.coins || []).find((coin) => coin.symbol?.toUpperCase() === symbol) || search.coins?.[0];
+  const candidates = search.coins || [];
+  const exactMatches = candidates
+    .map((coin) => ({ coin, score: scoreCoinCandidate(coin, symbol) }))
+    .filter((item) => item.score >= 0)
+    .sort((a, b) => b.score - a.score)
+    .map((item) => item.coin);
+
+  // Very short symbols such as ID, IO, RE, OG are easy to confuse with words or
+  // unrelated coin ids. Only accept an exact symbol match for them.
+  const candidate = exactMatches[0] || (isShortAmbiguousSymbol(symbol) ? null : candidates[0]);
 
   if (!candidate?.id) {
     return { candidate: null, detail: null };
@@ -162,11 +186,90 @@ async function getBinanceMarket(symbol) {
   return { exchange: "binance", pair: null, ticker: null, dailyCandles: [], attempts };
 }
 
-async function getNews(symbol, coinName) {
-  const query = `${symbol} ${coinName || "crypto"} token price news OR listing OR partnership OR mainnet`;
-  const url = `${SOURCES.googleNewsRss}?q=${encodeURIComponent(query)}&hl=en-US&gl=US&ceid=US:en`;
-  const xml = await fetchText(url);
-  return extractRssItems(xml);
+async function getBitgetMarket(symbol) {
+  const pairs = [`${symbol}USDT`, `${symbol}USDC`, `${symbol}BTC`];
+  const attempts = [];
+
+  for (const pair of pairs) {
+    try {
+      const tickerData = await fetchJson(`${SOURCES.bitgetSpotTicker}?symbol=${pair}`);
+      const ticker = Array.isArray(tickerData.data) ? tickerData.data[0] : null;
+      if (!ticker?.symbol) throw new Error(`No Bitget ticker for ${pair}`);
+
+      const candleData = await fetchJson(`${SOURCES.bitgetSpotCandles}?symbol=${pair}&granularity=1day&limit=30`);
+      const rows = Array.isArray(candleData.data) ? candleData.data : [];
+      return {
+        exchange: "bitget",
+        pair,
+        ticker,
+        dailyCandles: rows.map((row) => ({
+          openTime: new Date(Number(row[0])).toISOString(),
+          open: row[1],
+          high: row[2],
+          low: row[3],
+          close: row[4],
+          volume: row[5],
+          quoteVolume: row[6]
+        }))
+      };
+    } catch (error) {
+      attempts.push({ pair, error: error.message });
+    }
+  }
+
+  return { exchange: "bitget", pair: null, ticker: null, dailyCandles: [], attempts };
+}
+
+async function getMarket(symbol, exchange) {
+  const normalizedExchange = String(exchange || "").toLowerCase();
+  if (normalizedExchange === "bitget") return getBitgetMarket(symbol);
+  return getBinanceMarket(symbol);
+}
+
+function newsKey(item) {
+  return slug(`${item.title}-${item.source}`) || item.link;
+}
+
+function hasTokenSignal(item, symbol, coinName) {
+  const text = `${item.title} ${item.snippet} ${item.source}`.toLowerCase();
+  const symbolRe = new RegExp(`(^|[^a-z0-9])\\$?${symbol.toLowerCase()}([^a-z0-9]|$)`);
+  if (symbolRe.test(text)) return true;
+  if (coinName && text.includes(String(coinName).toLowerCase())) return true;
+  return false;
+}
+
+async function getNews(symbol, coinName, exchange) {
+  const name = coinName || "";
+  const exchangeName = exchange && exchange !== "other" ? exchange : "";
+  const queries = [
+    `"${symbol}" ${name} crypto token price news`,
+    `"${symbol}" ${name} crypto listing partnership mainnet`,
+    exchangeName ? `"${symbol}" ${name} ${exchangeName} crypto` : "",
+    `"${symbol}" ${name} site:bitget.com/news`,
+    `"${symbol}" ${name} site:binance.com/en/support/announcement`
+  ].filter(Boolean);
+
+  const settled = await Promise.allSettled(queries.map(async (query) => {
+    const url = `${SOURCES.googleNewsRss}?q=${encodeURIComponent(query)}&hl=en-US&gl=US&ceid=US:en`;
+    const xml = await fetchText(url);
+    return extractRssItems(xml, 8);
+  }));
+
+  const items = [];
+  const seen = new Set();
+  for (const result of settled) {
+    if (result.status !== "fulfilled") continue;
+    for (const item of result.value) {
+      const key = newsKey(item);
+      if (seen.has(key)) continue;
+      seen.add(key);
+      items.push(item);
+    }
+  }
+
+  return items
+    .filter((item) => hasTokenSignal(item, symbol, coinName))
+    .slice(0, 16);
 }
 
 function compactCoinGecko(detail) {
@@ -221,6 +324,50 @@ function compactBinance(market) {
     volumeQuote24h: Number(market.ticker.quoteVolume),
     thirtyDayChangePct,
     dailyCandles: candles.slice(-14)
+  };
+}
+
+function compactBitget(market) {
+  if (!market?.ticker) return market;
+
+  const candles = market.dailyCandles || [];
+  const latest = candles.at(-1);
+  const first = candles[0];
+  const thirtyDayChangePct = latest && first
+    ? ((Number(latest.close) - Number(first.open)) / Number(first.open)) * 100
+    : null;
+
+  return {
+    exchange: market.exchange,
+    pair: market.pair,
+    lastPrice: Number(market.ticker.lastPr),
+    priceChange24hPct: Number(market.ticker.change24h ?? market.ticker.changeUtc24h) * 100,
+    highPrice24h: Number(market.ticker.high24h),
+    lowPrice24h: Number(market.ticker.low24h),
+    volumeBase24h: Number(market.ticker.baseVolume),
+    volumeQuote24h: Number(market.ticker.quoteVolume),
+    thirtyDayChangePct,
+    dailyCandles: candles.slice(-14)
+  };
+}
+
+function compactMarket(market) {
+  if (market?.exchange === "bitget") return compactBitget(market);
+  return compactBinance(market);
+}
+
+function normalizeAnalysis(analysis, symbol, profile, errors) {
+  if (!analysis || typeof analysis !== "object") return analysis;
+
+  const returnedToken = normalizeSymbol(analysis.token);
+  if (returnedToken && returnedToken !== symbol) {
+    errors.push(`AI returned mismatched token ${returnedToken}; forced back to ${symbol}.`);
+  }
+
+  return {
+    ...analysis,
+    token: symbol,
+    name: profile?.name || analysis.name || symbol
   };
 }
 
@@ -417,18 +564,22 @@ async function analyzeOne(symbol, exchange) {
   const errors = [];
   const [profileResult, marketResult] = await Promise.allSettled([
     getCoinGeckoProfile(symbol),
-    getBinanceMarket(symbol)
+    getMarket(symbol, exchange)
   ]);
 
   if (profileResult.status === "rejected") errors.push(`CoinGecko: ${profileResult.reason.message}`);
-  if (marketResult.status === "rejected") errors.push(`Binance: ${marketResult.reason.message}`);
+  if (marketResult.status === "rejected") errors.push(`${exchange}: ${marketResult.reason.message}`);
 
   const profile = compactCoinGecko(profileResult.value?.detail);
-  const market = compactBinance(marketResult.value);
+  if (profileResult.value?.candidate && profile?.symbol !== symbol) {
+    errors.push(`CoinGecko returned ${profile.symbol} for ${symbol}; profile ignored to avoid token mix-up.`);
+  }
+  const safeProfile = profile?.symbol === symbol ? profile : null;
+  const market = compactMarket(marketResult.value);
 
   let news = [];
   try {
-    news = await getNews(symbol, profile?.name);
+    news = await getNews(symbol, safeProfile?.name, exchange);
   } catch (error) {
     errors.push(`Google News RSS: ${error.message}`);
   }
@@ -436,11 +587,12 @@ async function analyzeOne(symbol, exchange) {
   let analysis;
   let analysisStatus = "deepseek";
   try {
-    analysis = await askDeepSeek({ symbol, exchange, profile, market, news });
+    analysis = await askDeepSeek({ symbol, exchange, profile: safeProfile, market, news });
+    analysis = normalizeAnalysis(analysis, symbol, safeProfile, errors);
   } catch (error) {
     analysisStatus = "fallback";
     errors.push(`DeepSeek: ${error.message}`);
-    analysis = fallbackAnalysis({ symbol, profile, market, news, error });
+    analysis = fallbackAnalysis({ symbol, profile: safeProfile, market, news, error });
   }
 
   const result = {
@@ -449,7 +601,7 @@ async function analyzeOne(symbol, exchange) {
     generatedAt: nowIso(),
     analysisStatus,
     analysis,
-    profile,
+    profile: safeProfile,
     market,
     news,
     sources: SOURCES,
