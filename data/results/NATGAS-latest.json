@@ -1,0 +1,195 @@
+{
+  "token": "NATGAS",
+  "exchange": "other",
+  "generatedAt": "2026-06-22T01:16:43.296Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "NATGAS",
+    "name": "Natural Gas (Derivatives)",
+    "generatedAt": "2026-06-22T01:16:34.836Z",
+    "summary": "NATGAS是代表天然气衍生品的代币，近期因天然气现货价格飙升及政策支持而受到关注。但缺乏实时交易数据，流动性不明，且新闻多为宏观天然气市场而非代币本身，风险较高。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsetPct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现明确代币基本面数据或流动性改善，可重新评估。"
+    },
+    "catalysts": [
+      "天然气现货价格近期上涨75%（2026年1月）",
+      "ING警告存储赤字，政策支持可能推高价格",
+      "Binance推出油气期货100倍杠杆（2026年4月）"
+    ],
+    "latestNews": [
+      {
+        "title": "Natural Gas (Derivatives) Price Today | NATGAS to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格页面，无实质信息"
+      },
+      {
+        "title": "Natural Gas Faces Storage Deficit Amid Policy Support, ING Warns - CryptoRank",
+        "impact": "利好",
+        "reason": "存储赤字和政策支持可能推高天然气价格，利好NATGAS"
+      },
+      {
+        "title": "Hyperliquid token surges 25% amid commodities trading frenzy - Yahoo Finance",
+        "impact": "中性",
+        "reason": "提及商品交易热潮，但非直接关联NATGAS"
+      },
+      {
+        "title": "Natural gas surges 75% and it’s triggering a macro trap that could suddenly tank Bitcoin prices - CryptoSlate",
+        "impact": "中性",
+        "reason": "天然气价格波动可能影响宏观市场，但非代币直接催化"
+      }
+    ],
+    "fundamentals": [
+      "NATGAS是天然气衍生品代币，但具体合约机制、发行量、团队信息缺失",
+      "无明确白皮书或项目官网",
+      "交易对仅存在于Binance等交易所，但数据获取受限"
+    ],
+    "marketRead": [
+      "由于API限制，无法获取实时行情和成交量数据",
+      "新闻提及天然气现货价格波动大，但代币价格相关性未知"
+    ],
+    "risks": [
+      "数据不可得：无法验证代币价格、流动性、市值",
+      "项目不透明：缺乏基本信息和团队背景",
+      "监管风险：Binance限制部分地区访问",
+      "宏观风险：天然气价格波动可能引发市场连锁反应"
+    ],
+    "watchlist": [
+      "获取NATGAS实时价格和交易量",
+      "关注项目官方公告或白皮书发布",
+      "跟踪天然气现货市场走势及政策变化"
+    ],
+    "sourceNotes": [
+      "所有数据来自公开新闻和API尝试，但API返回451错误，无法获取市场数据",
+      "新闻多为天然气宏观市场，非代币特有信息",
+      "建议使用其他数据源如CoinMarketCap或CoinGecko补充"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "NATGASUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=NATGASUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "NATGASFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=NATGASFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "NATGASUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=NATGASUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "NATGASBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=NATGASBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Natural Gas (Derivatives) Price Today | NATGAS to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJNXNLSFhXeHB0ZjJIYXRYaXFKc0twX2tUd0RibHNmTUJ1a3VncGpFZmRQQ0o4N2hrRjZYeGZCbDlmM1FtYWpGZENXalFvT09OcFJseTZkdW9YQ2FsdFo3RmctLWJNZ3NocGxn?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 18 Jun 2026 19:06:00 GMT",
+      "snippet": "Natural Gas (Derivatives) Price Today | NATGAS to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Natural gas price on June 16, 2026 at 5:00 PM EDT? - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxTWxwQXBpNW15TzRmTUpFd1hjUXFlMkFWM1dsT2VmR1FYUXE1N1FOVzFSdVdlanVyVVA1Mk5EN1o0NmFadnBqMXZNMnpydjE5cU1CS1RPWnpRdlZfMlVwdmlfY3FBekc4VWNqclY3bw?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Tue, 16 Jun 2026 18:18:48 GMT",
+      "snippet": "Natural gas price on June 16, 2026 at 5:00 PM EDT?&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Natural Gas (Derivatives) Price Today in India | NATGAS to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQdmw0bGdoRnFpcldaOFBtYVpNTWpBODhxcTlpb19PU3FDR2ZmQ2ExdjNfZ2NmLUtqZzZMTEI4WFYzdmhCY2hsMS1NeUdsOFlDWGxsazRHTTJCaGhkbXY0aUdQYVRZRVdwdFlZ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 18 Jun 2026 18:16:00 GMT",
+      "snippet": "Natural Gas (Derivatives) Price Today in India | NATGAS to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Natural Gas Faces Storage Deficit Amid Policy Support, ING Warns - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN0N2bEtfa2VLcFR3ZUxUcnJzZDlNQVV3NUNUN1M4RGV3a1pndTJ0Q0w3akU4NGpYM2FDLW1Rd0gzYUVZVDZNbk9ncVBKZ3YzeDdoY2phNjBSemQ3ck85SVY2cm55QUJGa25lTm1FaHlYWVdteERNUUtBQS1NQnhmWWdtTkNMajZnYkpsSg?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "Natural Gas Faces Storage Deficit Amid Policy Support, ING Warns&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Natural Gas (Derivatives) price today, NATGAS to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByVU04eXl6VXgxaVpxamhPbkF3ZU9wTzFvbEwweWU2ZENsQTFjU1IzQ0wyRWdRRVRlRXd1NXpmalg0a0d1cjJZZ0NKUHVCc1Fyc25adnBoZWlfTF83ejNlNzRLaUhJMzA2SXFUYjJR?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 28 Jan 2026 14:22:33 GMT",
+      "snippet": "Natural Gas (Derivatives) price today, NATGAS to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Hyperliquid token surges 25% amid commodities trading frenzy - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmw0Y2tUUkRwdEdJejY5WW45R3Z4U3ZMWkhsUTBKNExjVGhvU09ZQXR4NjZIYXpBeDA0cjhaRHhybW1ZRllvU05yd0RVOU9ja0tubmgtRkZwLTZ5ZmpNVW9rUmdzcFJiTnh4ZTR4UzhDYjdwbUo4RTdaS1lLb0lGbE1mRzk?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "snippet": "Hyperliquid token surges 25% amid commodities trading frenzy&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Crypto rally today: Why Bitcoin, Venice Token, Zcash, and altcoins are going up - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdFlXSk0xUktfS2dVbXpvUEZBNThFbWR4OTlWckFweVhqSDdKc1M3bU5va2VfNEVfMGowc2JRTG5PX1JlSmltUGNWSXhIS0tMRkJsb2dWSC1PSWJjazRZR201eDJTSF9BMk5zMml0YjVuOHpEWHJLQU5BYUhNYjhjZjU1V2FKdHlzclJuTnN4V05YOU5EYlU2dC04bW5WXzJpUUpiT1ZfSWF3VHF5b09PeWdOZnhQZHd0aE1DUk9sdjJ2WWdfbmhobzBLZDE?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "snippet": "Crypto rally today: Why Bitcoin, Venice Token, Zcash, and altcoins are going up&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Bitcoin drops below $70,000 as soaring energy prices rattle risk assets: Crypto Markets Today - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenBlV0dBT054OTVNYmc5VDhwOU4xM3JuNmM5VzdYTlBOS213aHlISnE5U2R3Q0J6T2podmxqbDBPXzdvcVlNWTV6SHJ5OHdTRng1RGhBM0xGS2VSY1NERDhYdlBlWUZnalRMa0RVRlZzQXZMVnUyMlFVTFlOMHJxWGdWRzFlZGFQUm5sbHZpYUVobTlZSTNyY01zRi1PNDB6djhkMDFPT3ZvazFYUnpKMmY0NVA?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "snippet": "Bitcoin drops below $70,000 as soaring energy prices rattle risk assets: Crypto Markets Today&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Natural gas surges 75% and it’s triggering a macro trap that could suddenly tank Bitcoin prices - CryptoSlate",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmgyei0zeDVCeWN5dWM1cDFPa1VfRGFEcFFMeDZJYThFd0xBZFRCMWUtc3NlVldZSS1EQ01kcDBGUmFWUGVNeGs4VWtCSV9yd3RuOWdFcUM1RmZkWk1xcmozWllMUm13d3VNNGNQeUpPNW93V0lPMWpFV0Z3OUJBM2JCNzduOEl3UEZQNm1vWFd4d054WTBqbHFfMkVNQWV4eFlZVmtxN0w2OFFtY0RYaUZEbklBZkRiaW9ZcUp6ekUwalI0eTJN?oc=5",
+      "source": "CryptoSlate",
+      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "snippet": "Natural gas surges 75% and it’s triggering a macro trap that could suddenly tank Bitcoin prices&nbsp;&nbsp;CryptoSlate"
+    },
+    {
+      "title": "What is Middle Eastern Gas Reserve (MEGR) Coin: Comprehensive Guide for Beginners - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObW9tcWhmQ3lXTTVsb1JqRTBRVF84YzhPa3FDMXo3NzJleDZoLVFXUHBwZzEzZ1BSajJfM2t0aGxObVRhSzF0ZFdLdmQ5SHZQcWRjb09FOG9ybXRoTW1hQmZXekU0UEg1U290RFdwYm0wOWNSODZJcGZGT0RHY1lWbVF4bmh6eWhKaG9MaktjUmlpRVF4UFItRTgtY0pBNnNoNEVzNTZFOGhJOUlzV1ZtSVE5WlpHTDFrNXpCMnJoQU5JaTZ2TVFrZmMxSFd2ZWpISXZN?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Thu, 21 May 2026 07:00:00 GMT",
+      "snippet": "What is Middle Eastern Gas Reserve (MEGR) Coin: Comprehensive Guide for Beginners&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Alps Blockchain Begins Bitcoin Mining at Decommissioned Bolivian Gas Plant - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRDBqaGdHN3ljamhNM0REZkxSWl9ScHBOcV90R0lBNjBzOWVrT0d0ZGxsa1ZXM3RnQm44VlYwaUVYTW9DNW5seFZKV3R1TlVIa1c3WmNVcHp0aENpc1RFeWlUWTBYOG10Z08tay13MktlX2pRVHJIbkRrRTVIdFhHZmpXOV9jRS1uanlacVY2cw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 26 May 2026 07:13:55 GMT",
+      "snippet": "Alps Blockchain Begins Bitcoin Mining at Decommissioned Bolivian Gas Plant&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Binance Oil and Gas Futures: 100x Leverage Launching April 1st - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk5PcE1wcnFNS29IOGgwWUllbTVMNkU0VExqazhBOElxRWtPTEFXc0YtMWRmdHctdUcxWXFaYlpJNkI0cFJZclZ0VmdfWjZFYTNuMlRnSVJSay1mWGxkb0pzdVc3WFJJcC1FMzZMWkhVZFRSWnRPNmZqeWtvRVpoUFNzczVzVl82R0lNVmdsaUxhcVMxWVhqUWY1S1Mtb18wUVdHOWdoVGt4bWxWRlBSTVQ5SmJLckxWM2dwaE5R?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "snippet": "Binance Oil and Gas Futures: 100x Leverage Launching April 1st&nbsp;&nbsp;TradingView"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-21T18:47:04.830Z",
+  "updatedAt": "2026-06-22T01:16:43.298Z",
   "results": [
+    {
+      "token": "NATGAS",
+      "name": "Natural Gas (Derivatives)",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-22T01:16:43.296Z",
+      "latestPath": "data/results/NATGAS-latest.json"
+    },
     {
       "token": "UAI",
       "name": "UnifAI Network",
