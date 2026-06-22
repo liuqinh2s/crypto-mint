@@ -1,14 +1,24 @@
 {
-  "updatedAt": "2026-06-22T20:02:14.617Z",
+  "updatedAt": "2026-06-22T20:17:13.374Z",
   "results": [
+    {
+      "token": "BASED",
+      "requestedInput": "BASED",
+      "name": "Based",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-22T20:17:10.999Z",
+      "latestPath": "data/results/BASED-latest.json"
+    },
     {
       "token": "MRVLON",
       "requestedInput": "MRVL",
       "name": "Marvell Technology (Ondo Tokenized Stock)",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-22T20:02:14.614Z",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-22T20:17:13.372Z",
       "latestPath": "data/results/MRVLON-latest.json"
     },
     {
@@ -902,15 +912,6 @@
       "action": "观察",
       "generatedAt": "2026-06-19T06:11:16.208Z",
       "latestPath": "data/results/PYTH-latest.json"
-    },
-    {
-      "token": "ZEN",
-      "name": "Horizen",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-19T06:09:59.781Z",
-      "latestPath": "data/results/ZEN-latest.json"
     }
   ]
 }
