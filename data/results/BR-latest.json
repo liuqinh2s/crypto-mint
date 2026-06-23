@@ -1,0 +1,306 @@
+{
+  "token": "BR",
+  "requestedInput": "BR",
+  "exchange": "other",
+  "generatedAt": "2026-06-23T07:32:27.153Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BR",
+    "name": "Bedrock",
+    "generatedAt": "2026-06-23T07:32:19.493Z",
+    "summary": "BR是Bedrock DAO的治理代币，近期因BTCFi叙事、交易所上线及高交易量而上涨，但链上存在同名仿盘风险，需区分。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "链上仿盘价格归零或主流CEX上线后流动性枯竭"
+    },
+    "catalysts": [
+      "BTCFi叙事热度（BTC liquid restaking）",
+      "MEXC、Binance等CEX上线BR现货及合约",
+      "BR/USDT交易量5天超132亿美元，市场关注度高",
+      "Bedrock推出PoSL机制及BR空投检查器"
+    ],
+    "latestNews": [
+      {
+        "title": "Bedrock's BR/USDT Pool Trading Volume Surpasses $13.2 Billion with Over 341,000 Traders in 5 Days",
+        "impact": "利好",
+        "reason": "高交易量表明市场活跃，吸引更多投资者"
+      },
+      {
+        "title": "MEXC Introduces Bedrock (BR) Listing with Spot & Futures",
+        "impact": "利好",
+        "reason": "交易所上线增加流动性和曝光"
+      },
+      {
+        "title": "Bedrock Introduces Proof of Staking Liquidity (PoSL) and Launches BR Airdrop Checker",
+        "impact": "利好",
+        "reason": "新机制和空投吸引用户参与"
+      }
+    ],
+    "fundamentals": [
+      "Bedrock是多链Liquid Staking协议，支持BTC、ETH等资产",
+      "BR是治理代币，通过锁定为veBR获得投票权",
+      "总供应量10亿，流通2.5125亿，流通市值约3981万美元",
+      "项目已上线Binance、MEXC等主流交易所",
+      "与Chainlink合作提供Proof of Reserve"
+    ],
+    "marketRead": [
+      "24h涨幅13.3%，7天涨幅22.5%，30天涨幅31%，处于上升趋势",
+      "链上pumpfun仿盘BR/SOL 24h跌77%，流动性极低，需警惕同名代币",
+      "主流CEX上BR交易量巨大，但价格波动可能受大户影响"
+    ],
+    "risks": [
+      "链上存在同名仿盘（pumpfun上的BR/SOL），极易混淆",
+      "全稀释估值1.58亿美元，流通市值仅3981万，未来解锁压力大",
+      "BTCFi叙事热度可能消退",
+      "治理代币价值捕获能力有限，主要依赖生态发展"
+    ],
+    "watchlist": [
+      "链上仿盘价格是否归零",
+      "主流CEX上BR的流动性变化",
+      "Bedrock生态TVL增长情况",
+      "BR解锁时间表"
+    ],
+    "sourceNotes": [
+      "链上数据来自pumpfun，与主流CEX的BR非同一资产",
+      "新闻来源包括FXLeaders、CoinMarketCap等，部分日期较早",
+      "市场数据截至2026-06-23"
+    ]
+  },
+  "profile": {
+    "id": "bedrock-token",
+    "symbol": "BR",
+    "name": "Bedrock",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "BNB Chain Ecosystem",
+      "Ethereum Ecosystem",
+      "Liquid Staking Governance Tokens",
+      "Base Ecosystem",
+      "Berachain Ecosystem",
+      "BTCfi Protocol",
+      "Binance Alpha Spotlight",
+      "Binance Wallet IDO"
+    ],
+    "homepage": [
+      "https://bedrockdao.com/"
+    ],
+    "description": "Bedrock DAO is a governance framework for managing decisions within the Bedrock ecosystem. It enables BR token holders to participate in governance by converting BR into veBR, a voting escrow token. Governance decisions include protocol parameters, incentive structures, and liquidity allocation. The governance system is based on veBR, which is obtained by locking BR tokens at a 1:1 ratio. The longer the lock duration, the greater the voting power. veBR holders vote on governance proposals, including gauge allocations that determine incentive distribution across liquidity pools.",
+    "marketCapRank": 520,
+    "currentPriceUsd": 0.158573,
+    "marketCapUsd": 39812970,
+    "fullyDilutedValuationUsd": 158459581,
+    "totalVolumeUsd": 7083443,
+    "priceChange24hPct": 13.3076,
+    "priceChange7dPct": 22.48362,
+    "priceChange14dPct": 39.37678,
+    "priceChange30dPct": 30.96252,
+    "athUsd": 0.257114,
+    "athChangePct": -38.17234,
+    "circulatingSupply": 251250000,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 50,
+    "watchlistUsers": 1420,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pumpfun",
+    "pair": "BR/SOL",
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "pairAddress": "HhUrb4nEMvnJVkWAHEKNaEeFyBvpLHbVqaWbKz3ezcqD",
+    "pairUrl": "https://dexscreener.com/solana/hhurb4nemvnjvkwaheknaeefybvplhbvqawbkz3ezcqd",
+    "lastPrice": 4.737e-7,
+    "priceChange24hPct": -77.36,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 1707.86,
+    "liquidityUsd": null,
+    "fullyDilutedValuationUsd": 473.78,
+    "marketCapUsd": 473.78,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "url": "https://dexscreener.com/solana/hhurb4nemvnjvkwaheknaeefybvplhbvqawbkz3ezcqd",
+    "pairAddress": "HhUrb4nEMvnJVkWAHEKNaEeFyBvpLHbVqaWbKz3ezcqD",
+    "baseToken": {
+      "address": "224gPgds1Pyd4g4C8PNYoQt1vh8eqmd379Fe99Mepump",
+      "name": "BR",
+      "symbol": "BR"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.000000006541",
+    "priceUsd": "0.0000004737",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 81,
+        "sells": 78
+      }
+    },
+    "volume": {
+      "h24": 1707.86,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -77.36
+    },
+    "fdv": 473.78,
+    "marketCap": 473.78,
+    "pairCreatedAt": 1782164568000
+  },
+  "news": [
+    {
+      "title": "Bedrock BR Token Price Today: Trading Near $0.175 — BTC Liquid Restaking Momentum - FXLeaders",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUdwbWphQmQyUThOR0QtaUJtUENBcTdhVmRuempWY18yLXY4ZUt3LVpwU3NrOFJKOUZ3TkhQNmtxY1VLWnA1a2VqeXJkOFN0cFN5aWxMNFEybFBrUEdFbHMyWEMxMnhDTHg2MndaWnR2VXB3VzBGYTlTX19naWlfLVFRZ01BRW4xSjBWMUF1UENhUHpmVzdNem8xU3JQQmdjTl9OaWhjZXVFR2dZTi1TZG1PMXphUkxiV0lqTw?oc=5",
+      "source": "FXLeaders",
+      "publishedAt": "Fri, 01 May 2026 07:00:00 GMT",
+      "snippet": "Bedrock BR Token Price Today: Trading Near $0.175 — BTC Liquid Restaking Momentum&nbsp;&nbsp;FXLeaders"
+    },
+    {
+      "title": "Bedrock price today, BR to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fTTJ5eFFuNklyYnRDbUtqTHRnUzdLQ29vRnVqWDBjdXF4RnpmUzJxSFBlYmxEV2dFWEFMTjNDOHc3TXpDdGxpRkxnWXdNYjBqRXJNcHI5SHNrbl9rc3c?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 20 Mar 2025 03:09:21 GMT",
+      "snippet": "Bedrock price today, BR to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Bedrock Price: BR/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjMldXSVRoSHdZSUd5UXVGNTZBYUhEMzVnZlZkVWZKQ0dUbTkzWEZNcmlBSVNNcHR3M0VZRW8tUnJzNk9RT3QtSExWLW1hWkxmSlhKdw?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 09 Nov 2021 02:09:07 GMT",
+      "snippet": "Bedrock Price: BR/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Bedrock Price, BR Price, Live Charts, and Marketcap - Coinbase Brazil - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HMGVUOGlJZlhBMEZNN3VHOV9IcnZIbUo0NnVsMGtTTWsxUS1SRlBXcGhXSmxrUDBSZXVhUHIzWjc1eTEyNUFJWW5GUGxnS1p4RXdHSWFBSU5xWjQ4?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Fri, 11 Apr 2025 10:52:12 GMT",
+      "snippet": "Bedrock Price, BR Price, Live Charts, and Marketcap - Coinbase Brazil&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Bedrock Price | BR Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fMDRFVUswUGNUVi1taEJPbmFwWnRiamtpOG9nTkVRMWtVaU91Um42LUdySG9RMjN2dGxiLVFPSnBybFF2MVRYQ2F6MVN4SGc1?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sun, 04 Feb 2024 03:11:44 GMT",
+      "snippet": "Bedrock Price | BR Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Bedrock Price USD, BR Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WTWl6QW5hVHMzM1NWNzd1LVMyQTdTQXhKa2Y4T3Q2Qm5jMDlzbHczUnNkQXB0OG15MG9YT25XMU8yLWZ2cXlhSlZwcUZUNVYyMjktaA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 15 Mar 2025 04:01:14 GMT",
+      "snippet": "Bedrock Price USD, BR Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bedrock's BR/USDT Pool Trading Volume Surpasses $13.2 Billion with Over 341,000 Traders in 5 Days - Macau Business",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2NpV0txRExPbllCQUN3Q1dzSDhpVWN5ZGZ4MTh1clF1WkxDWVQ0Q3RITmdOelBfd0NHVFQtQlQ5XzlJb3VlQkszdUFieG42SjM2RDM1eUJhSUVMV1FOZW1FclZmQUNEXzJvY1RJQ2psc25WNExqaHJKa0N5T09va0pkUF9QeWFaNFNtZlFnM2xwYW03ZzY3T0RWWlpKVEVOeVFvN1IxOW1GY3Y2TFVhRDlRT01jbmxSd1NOMUhn?oc=5",
+      "source": "Macau Business",
+      "publishedAt": "Mon, 23 Jun 2025 07:00:00 GMT",
+      "snippet": "Bedrock's BR/USDT Pool Trading Volume Surpasses $13.2 Billion with Over 341,000 Traders in 5 Days&nbsp;&nbsp;Macau Business"
+    },
+    {
+      "title": "Bedrock Price Today | BR to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEX2RHZ2Y3a2p0V3JaMExIM3I2VF9TM0VYYmFOUzRQMEdvQWJSMjlWZzB1dHJ4SlRocWtwU0d2dXJ3aVpYVndfTWVMOWtQMjFpMHJJTlFENA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 20 Mar 2025 12:42:14 GMT",
+      "snippet": "Bedrock Price Today | BR to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What is Bedrock (BR) Crypto? BR Token Price, Airdrop & Technology Explained - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWdWRHF3c2YyTk9Mby1lbU04eWFOTzJxMExBcjlKSTJvVk51bUU3emozSmpPMm1rSDgzamtiSVNXYXBkSDlwV0V4bnVvOEY5NnRGQ0ktS3AwNUdlSEtoTUVhWkpfSVNtODVDWVJxYjMyanV5M01Mb0FNZVFPaVhjMGNhWTZGcnRGTGtqcElQSWJPbFkwd21EdThRUnNocWpJa1gwRnZ0UWVoOEpL?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Fri, 21 Mar 2025 07:00:00 GMT",
+      "snippet": "What is Bedrock (BR) Crypto? BR Token Price, Airdrop & Technology Explained&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "MEXC Introduces Bedrock (BR) Listing with Spot & Futures - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcE5Jd2NhbVBHemNud0tadWRyVmtoWlFDRDJmWUxZb2lRYzVfLWJ3QjdXaFJ5RUtEeW1Qcjk4dUNOQU9VU3FyYTFJc1l6c0pFcXZwSnlTMzFoWUNpUGJLdzF2OUk5aVV5UUVtSHBxRHo1Y2dvS2t5MnhhMFV0S2NwZTBHeHhkLU02dk5mcjdoV0FvcnVKR2NnbTdQMVJxbVNzX2ZoMmpua3JUMTZjMklPQk96dktyWUZGRkp3UlBKeHMwQk9fMW9LenNYcF96Mk1lLUtza2R6RmprSlpCYXktUG1PNEFVMGplbXBEZDRpTzg2N3U5V2prdmE5Nlh2ME5MWUUyd25jREtkbE8xVTcyTUZyR01Mdw?oc=5",
+      "source": "GlobeNewswire",
+      "publishedAt": "Thu, 20 Mar 2025 07:00:00 GMT",
+      "snippet": "MEXC Introduces Bedrock (BR) Listing with Spot & Futures&nbsp;&nbsp;GlobeNewswire"
+    },
+    {
+      "title": "Bedrock Introduces Proof of Staking Liquidity (PoSL) and Launches BR Airdrop Checker - Macau Business",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlZGRTd4cTRiREd3dGE2T0llUDh4VVlwYy1NeWtTQUV3UXhvWWxkdnpBb1YxcWNQMzF1M3BuanN2ZllOdFMtU3FQWW11aEcxLXdYc1dKV1Q2ODFtVXdOcUE0YnFIbnE2THhSTXBGbUhlX1B6OGdkZERUNzVfM1dzd01hSDRQWmFSU1F3VElHTVFWdlk5RkFyVXpEYTQtbkw2M3NmMWRHZ3F6RDRVS3c?oc=5",
+      "source": "Macau Business",
+      "publishedAt": "Tue, 18 Mar 2025 07:00:00 GMT",
+      "snippet": "Bedrock Introduces Proof of Staking Liquidity (PoSL) and Launches BR Airdrop Checker&nbsp;&nbsp;Macau Business"
+    },
+    {
+      "title": "Research Report | Bedrock Project Detailed Analysis & BR Market Valuation - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kamtQQ0xGTFhsUVlCWjQwVWlvbE1Ca3FZeGVwTV9memJ0YWhkLTFOY2xTU01xUzVsemUtVkd4aTJ6OTQ4SWVjLVlPdXZ2M0dNTmFsZzdPWFlkT3hQSkHSAWNBVV95cUxOSmF4ckN0cmJHdV9veWZzODExQXI1Y3dyT1I4VVFVREc4MW5QNC04clhpQzZ3aUp3VmFGd2hTd3JzSnRVQ0taZXdSWWNvbGQtM041bnBWNVNXYmw3TmZzQ2ZKMEE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 21 Mar 2025 07:00:00 GMT",
+      "snippet": "Research Report | Bedrock Project Detailed Analysis & BR Market Valuation&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bedrock (BR): Next-level liquid staking across multiple cryptos - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50d1M2aTlwVTkwQXVjY3RIaVVTODhSN0tXQW9xYUthNW8xYnFla29jemN0cWFJaDVmMENVQjgtU2NuWkRHQTJHdmRNeGVFYVYzc2stODJldHk0LThadGlB?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Thu, 27 Mar 2025 07:00:00 GMT",
+      "snippet": "Bedrock (BR): Next-level liquid staking across multiple cryptos&nbsp;&nbsp;Bybit Learn"
+    },
+    {
+      "title": "Bedrock’s $BR Token is Live: How It Fuels Bitcoin Staking with PoSL - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EMy1ITXRtY3ZtM0RNS0xZMWJ2UXA1Q2psMTdDazduUURYdEVHbFNWVVZWVkNQeDJoeGs5MkpkUEM2QUJmODk2dDVITEY0c1U2aU1mOUJQM2hyR0tlX1HSAWNBVV95cUxPeXNTbnowcXVaMHpxWHNwYmNIUm1WaFc1R2syVEE5Rk1qTUsyZmhNMVAwTFNVTndQcGhYYldYS2dyTXZwZ0V2aFUtWDZxdlNaVFNFaFJ2bFM5TzdHUHFmdGY0M2M?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 20 Mar 2025 07:00:00 GMT",
+      "snippet": "Bedrock’s $BR Token is Live: How It Fuels Bitcoin Staking with PoSL&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Exploring Bedrock’s uniBTC and brBTC in the Base Ecosystem - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmMkduTjl1NU5KRzZNQXBzRjJBQ2pnMlp1R2ZlTElwbDltRjBpTFF5bm9GeEF2Y1drc1p3aWUybDc3TzBycnRiT0NPQzZqUDZrOHRSbUlhQ0RKWnB4LVHSAWNBVV95cUxPbW1WMjg1ZGdMWjFDanN6eFpGT3NETzVXSkVhWEpQMl9lN2pXX0U2dngxMkFfdDhaeHNEMmpKTVpYc2xQZ29ZRTMyVC0yYmozMENQUGIwMEtycWxSNThhaEZsU00?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "snippet": "Exploring Bedrock’s uniBTC and brBTC in the Base Ecosystem&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "How Bedrock Strengthens BTCFi Security With Chainlink Proof of Reserve and Secure Mint - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFZHM3MXBxVjhwNVVkaFhCd0YyZ013YzlfUGhFTEwwSEE4RWF4U3A0bG9hekZJWFN1OXN3aHZ2b01TMGpjX3FWcGp3b0tlSVVtYm1HT1dwTzdLMmtlVUHSAWNBVV95cUxQel9YVnRTU0lOOXlweGRtSV9kcmNFUkNWNDc4cktscnJjZS04QndmYXpvS0xtcUc0bVlxaGpIMEFVekRFV3FrbHNCQl9BcVFHUGhXNW53WU5hMW1HT1RGdDRIU2M?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 11 Nov 2025 08:00:00 GMT",
+      "snippet": "How Bedrock Strengthens BTCFi Security With Chainlink Proof of Reserve and Secure Mint&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

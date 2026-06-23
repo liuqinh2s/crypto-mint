@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-23T07:22:04.066Z",
+  "updatedAt": "2026-06-23T07:32:27.155Z",
   "results": [
+    {
+      "token": "BR",
+      "requestedInput": "BR",
+      "name": "Bedrock",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-23T07:32:27.153Z",
+      "latestPath": "data/results/BR-latest.json"
+    },
     {
       "token": "AWE",
       "requestedInput": "AWE",
@@ -908,15 +918,6 @@
       "action": "不买",
       "generatedAt": "2026-06-19T07:31:24.820Z",
       "latestPath": "data/results/ASR-latest.json"
-    },
-    {
-      "token": "AVAX",
-      "name": "Avalanche",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-19T06:14:14.418Z",
-      "latestPath": "data/results/AVAX-latest.json"
     }
   ]
 }
