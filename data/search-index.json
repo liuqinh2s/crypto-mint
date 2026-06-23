@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-06-23T08:02:21.874Z",
+  "updatedAt": "2026-06-23T16:02:49.878Z",
   "results": [
+    {
+      "token": "XAN",
+      "requestedInput": "XAN",
+      "name": "Anoma",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-23T16:02:49.876Z",
+      "latestPath": "data/results/XAN-latest.json"
+    },
+    {
+      "token": "DELLON",
+      "requestedInput": "DELL",
+      "name": "Dell Technologies (Ondo Tokenized)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-23T16:02:48.071Z",
+      "latestPath": "data/results/DELLON-latest.json"
+    },
     {
       "token": "FOLKS",
       "requestedInput": "FOLKS",
@@ -901,24 +921,6 @@
       "action": "观察",
       "generatedAt": "2026-06-19T07:44:05.265Z",
       "latestPath": "data/results/MET-latest.json"
-    },
-    {
-      "token": "SENT",
-      "name": "Sentient",
-      "score": 35,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-19T07:38:59.623Z",
-      "latestPath": "data/results/SENT-latest.json"
-    },
-    {
-      "token": "VRT",
-      "name": "Venus Reward",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-19T07:35:10.484Z",
-      "latestPath": "data/results/VRT-latest.json"
     }
   ]
 }

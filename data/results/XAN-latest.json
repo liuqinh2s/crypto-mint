@@ -1,0 +1,314 @@
+{
+  "token": "XAN",
+  "requestedInput": "XAN",
+  "exchange": "other",
+  "generatedAt": "2026-06-23T16:02:49.876Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "XAN",
+    "name": "Anoma",
+    "generatedAt": "2026-06-23T16:02:38.857Z",
+    "summary": "Anoma (XAN) 近期因上线Binance Alpha和Futures、空投预期及多交易所上市而大幅上涨，但随后出现60%回调，当前在Solana DEX上流动性极高但交易量极低，疑似价格异常。基本面为意图中心的基础设施项目，估值较高且全稀释市值超10亿美元，但流通市值仅约2760万美元，存在巨大解锁压力。短期上涨缺乏持续动力，风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现真实成交量放大且价格突破前高，但当前数据不支持"
+    },
+    "catalysts": [
+      "上线Binance Alpha和Binance Futures（2025年9月）",
+      "空投活动及多交易所（KuCoin、MEXC、Gate.io）上市",
+      "意图中心叙事和ZK技术概念"
+    ],
+    "latestNews": [
+      {
+        "title": "Anoma (XAN) risks bull trap after explosive 42% price surge",
+        "impact": "利空",
+        "reason": "TradingView警告可能为多头陷阱，暗示上涨不可持续"
+      },
+      {
+        "title": "Anoma token drops 60% after exchange listings as airdrop recipients sell",
+        "impact": "利空",
+        "reason": "空投接收者抛售导致价格暴跌，显示抛压巨大"
+      },
+      {
+        "title": "Binance Alpha Anoma GriffinAI Airdrop Listings This Week",
+        "impact": "利好",
+        "reason": "上线Binance Alpha带来短期关注和流动性"
+      }
+    ],
+    "fundamentals": [
+      "Anoma是去中心化操作系统，旨在统一Web3应用层，支持跨链应用开发",
+      "采用意图中心架构和零知识证明技术",
+      "获得Delphi Ventures、Polychain Capital等顶级机构投资",
+      "总供应量100亿枚，流通量25亿枚，全稀释市值约11亿美元，流通市值仅2760万美元，解锁压力巨大"
+    ],
+    "marketRead": [
+      "当前在Solana DEX（Orca）上价格0.1035美元，24小时仅微跌0.04%，但交易量仅约4美元，流动性高达10.3亿美元，价格与流动性严重不匹配，疑似价格异常或流动性池被操纵",
+      "CoinMarketCap数据显示24小时涨幅6.26%，7天涨幅18.92%，但DEX数据与CEX数据差异巨大，需警惕数据源可靠性",
+      "历史ATH为0.2728美元，当前价格较ATH跌95.95%，处于深度回调"
+    ],
+    "risks": [
+      "DEX流动性极高但交易量极低，价格可能被操纵或为错误定价",
+      "全稀释估值过高（11亿美元），大量未解锁代币构成巨大抛压",
+      "空投后抛售导致价格暴跌60%，市场信心不足",
+      "新闻多为2025年9-10月，时效性差，缺乏近期催化",
+      "项目仍处于早期，主网上线时间未知，存在开发延迟风险"
+    ],
+    "watchlist": [
+      "DEX交易量是否恢复正常，价格是否与CEX一致",
+      "代币解锁时间表及实际流通量变化",
+      "是否有新的交易所上市或生态合作公告",
+      "项目主网或重大产品进展"
+    ],
+    "sourceNotes": [
+      "DEX数据（Orca）显示价格0.1035美元，但CoinMarketCap显示0.011美元，差异巨大，可能因数据源不同或价格异常",
+      "新闻多为2025年9-10月，距今已9个月，缺乏近期更新",
+      "市场数据中DEX的流动性、交易量等字段部分为null，可靠性存疑"
+    ]
+  },
+  "profile": {
+    "id": "anoma",
+    "symbol": "XAN",
+    "name": "Anoma",
+    "categories": [
+      "Infrastructure",
+      "BNB Chain Ecosystem",
+      "Ethereum Ecosystem",
+      "Zero Knowledge (ZK)",
+      "Intent",
+      "Delphi Ventures Portfolio",
+      "Polychain Capital Portfolio",
+      "Binance Alpha Spotlight",
+      "Privacy Infrastructure",
+      "Privacy"
+    ],
+    "homepage": [
+      "https://anoma.net/"
+    ],
+    "description": "Anoma is the decentralized OS powering a unified app layer for all Web3. With Anoma, developers can write one app that works on any chain. Anoma frees developers from the complexity of infrastructure so they can focus on what matters: building apps and experiences that people love. Anoma introduces a next-gen intent-centric architecture optimized for app development and UX, enabling Web3 to support a rich ecosystem of apps that can finally compete with the functionality and experience of Web2.",
+    "marketCapRank": 671,
+    "currentPriceUsd": 0.01103967,
+    "marketCapUsd": 27599919,
+    "fullyDilutedValuationUsd": 110399677,
+    "totalVolumeUsd": 9431634,
+    "priceChange24hPct": 6.26118,
+    "priceChange7dPct": 18.92167,
+    "priceChange14dPct": 40.76317,
+    "priceChange30dPct": 21.04904,
+    "athUsd": 0.272752,
+    "athChangePct": -95.95237,
+    "circulatingSupply": 2500000000,
+    "totalSupply": 10000000000,
+    "maxSupply": 10000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 2229,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "XAN/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "9C9pju1RwTsnxeYvFETGw1ZT7q9D3Jif4JTwSZBBRN7w",
+    "pairUrl": "https://dexscreener.com/solana/9c9pju1rwtsnxeyvfetgw1zt7q9d3jif4jtwszbbrn7w",
+    "lastPrice": 0.1035,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 1034908457.82,
+    "fullyDilutedValuationUsd": 1035928599,
+    "marketCapUsd": 1035928599,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/9c9pju1rwtsnxeyvfetgw1zt7q9d3jif4jtwszbbrn7w",
+    "pairAddress": "9C9pju1RwTsnxeYvFETGw1ZT7q9D3Jif4JTwSZBBRN7w",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "EtLB16q5UWiLghKec7UELNnHdDHNT4skzXHC2BaMSxGi",
+      "name": "Anoma",
+      "symbol": "XAN"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.1035",
+    "priceUsd": "0.1035",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 1034908457.82,
+      "base": 9990152324,
+      "quote": 7.3736
+    },
+    "fdv": 1035928599,
+    "marketCap": 1035928599,
+    "pairCreatedAt": 1759801054000
+  },
+  "news": [
+    {
+      "title": "Anoma Price Today in India | XAN to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QQWVZYWlJWGJGeXhqeDU4eGtaYnVTQVZubFlQazlWRVh2UUg4TnVQdmVzellwTUItbFVBak9yamRBRFBJSmxXaTBXQThWeVJvNEkw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 19 Jun 2026 03:40:00 GMT",
+      "snippet": "Anoma Price Today in India | XAN to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Anoma price today, XAN to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uTVlWWVdqbloxd1FEMVNIZmk4cWF5NUd1OXBxZ2JpeGx1VWt5dDNyV3NGemQ0bkMxem1iR0pWNjBYZ0RBMDNFZXR0cWpvazVUS3NMN2x3?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 23 Sep 2025 06:11:42 GMT",
+      "snippet": "Anoma price today, XAN to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Anoma (XAN) risks bull trap after explosive 42% price surge - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlhxQkQ3V2ljaVgyODQtdzNmbUpRd2JoNzVIeEJiQUFqUkFaTHpUZFRkYjA2TDZ2NHY5aGZvUDFfdDdiWkFqdTJiLWU5a3Q4d1hmdEtoWGRybloxdHlzWnllV1hibFoxLXlBTjd3c1JnTl9OdERTYTZtUS1XeWpfUXNVZ1d4VG5uXzhjZUVFcTJ4T1F5Ty1mcVkxcHc4cWVWOVJ5WXV3ZUZyZ05GOG9KX3ZzMA?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Mon, 25 May 2026 07:00:00 GMT",
+      "snippet": "Anoma (XAN) risks bull trap after explosive 42% price surge&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Anoma XAN Price: Exploring Features, Technology, and Unique Engagement Strategies - OKX",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GQTZJX1psb3JqZkFOQ3YwUEYzOGt1Smhxelp2elJTYnZlcS1WOUV2cG9aRERBNk1EMzByY3Q3RGhYX21TUkNkQ2k0anhxTWpHM1VHVlBZcElOc3JOclhmY2tiblE4b290VmxWRkln?oc=5",
+      "source": "OKX",
+      "publishedAt": "Sat, 27 Sep 2025 07:00:00 GMT",
+      "snippet": "Anoma XAN Price: Exploring Features, Technology, and Unique Engagement Strategies&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Anoma(XAN) Coin Price Prediction & Forecasts: Will It Rally to $5 After 2025% Surge in 24 Hours? - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORUtJRDlDUjVBRjNmTEJxcVQwdURXM2tueDY5MklzQllWT09ZSzBLSlFrdDVSM0otd0lNN09VTExUN1oxSTRvZ2JXaU04cUdaRVk1VjE3TEIzRmRrMF9QQXZvNmczVDQ0SmdyRG13OHZRcmFvVWpQc1BodmMzaGxjaVh2c2QzZUpvOENxV0gzRFFmM3ZMb2dtTG5ZX21VbWJKRDJ2NkU2SXNMby1YaXNFNzh2X29MMVNCMU5lZjRmRnJvU3hhVURn?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "snippet": "Anoma(XAN) Coin Price Prediction & Forecasts: Will It Rally to $5 After 2025% Surge in 24 Hours?&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Anoma token drops 60% after exchange listings as airdrop recipients sell - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10azBNNklOUlp4dVZnWTdBLTR6d1RjN1hoM05RNG02SDFhaGZ2U0c1QjMydllJQTVFLTBNc04tM2tBbk5YU1Z4OHd0M2Y0ZG1LSjVfOXZYbmltNW8zWVHSAWNBVV95cUxQZXl0TzdXZGpQQ1p6ZE1EZHhnaEpCSmJfbDYwZlB4TnNBeUc0djFzUnFHYXBCSzhwSUh3SktnQTNUUGpSam90VlBWeG9FTFRldmxvTndkcl9VU1A4dkk0emJjek0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 01 Oct 2025 07:00:00 GMT",
+      "snippet": "Anoma token drops 60% after exchange listings as airdrop recipients sell&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Price of Anoma XAN today in EUR – Quotation and market trends - Bit2Me",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5VSlFiS0VkTWxmN1VFNEJxS3E5aE5iWWlFSjVIVmFmbnRtOG52UkpBdUxadGVRSFZqendlVXhDeVp5dHJF?oc=5",
+      "source": "Bit2Me",
+      "publishedAt": "Tue, 07 Oct 2025 11:28:23 GMT",
+      "snippet": "Price of Anoma XAN today in EUR – Quotation and market trends&nbsp;&nbsp;Bit2Me"
+    },
+    {
+      "title": "Anoma Price Today | XAN to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Dd3ZmLUZINjA2Nnh2MDFMcURsLW85cVlycTBlSXBULV9KX3Q2M0x6VXBDa283YzIwQTg5NUhCN3o3bHNwVkVWZElfSWtLLU0?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 29 Sep 2025 07:00:00 GMT",
+      "snippet": "Anoma Price Today | XAN to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "🔹 XAN currency drops 60% after being listed on major platforms: reasons and analysis - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rYXo2NV9VRFdGZGg2dWV0WTM2c2w5Ym1pNUd3d2N3dVJyNHlfR01uWjZDRzV5eVBnWC1fSnhWeVFUbDlPelRpOFpfX3pYUXU0djZuM3p3SzRDeVNUSTRkOU1kYw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 01 Oct 2025 07:00:00 GMT",
+      "snippet": "🔹 XAN currency drops 60% after being listed on major platforms: reasons and analysis&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Anoma vs Ethereum: How Intent-Centric Tokens Are Revolutionizing Blockchain - OKX",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ybWd1Q2hkaGkwUzVMaGFDcnNFenFSVnk4Q2Q4ZDlYZmRTYzZjRlI1VVNseHl0cXZEeWhtWXR4d0NsUHhQSTlRZGlmTE1lSGd0N1NROE44MjQ1Mnl4R2t4ZUhFZjc4OVRudndBREVsdndvUGp6ZEE?oc=5",
+      "source": "OKX",
+      "publishedAt": "Tue, 30 Sep 2025 07:00:00 GMT",
+      "snippet": "Anoma vs Ethereum: How Intent-Centric Tokens Are Revolutionizing Blockchain&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Anoma (XAN) ICO Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBOQTByZm9kaFhqVUhFeFp0VFZaMk80NEZYckNDTmZuTDUtLXJxRnlCWC13VGRvSklkcllIcThNUk9SR1NvZ2c?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 17 Nov 2022 14:48:53 GMT",
+      "snippet": "Anoma (XAN) ICO Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Anoma (XAN) - All information about Anoma ICO (Token Sale) - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDdzZxeWFfdFZyQWxtM2JCZ0w4cjhxVXJpcUtkQnFCN3pLcmtPdjhVcjgyampaOWlUb3NHNGdVcHQ?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Wed, 28 Apr 2021 11:06:09 GMT",
+      "snippet": "Anoma (XAN) - All information about Anoma ICO (Token Sale)&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Anoma Price | XAN Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LRmRDTmR0eDNlLVAyVHJkX3BHSnE3UWM5b2I2T0Y3UHp4U3RPTVZpRy1WcXJmQmppeWIwSnJkaDFTS3FuYVIxOA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 30 Jun 2023 20:05:18 GMT",
+      "snippet": "Anoma Price | XAN Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Binance Alpha Anoma GriffinAI Airdrop Listings This Week - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWRXVFpCZ1lrZzBJSldnRUh4OGk4UllkLXl6ZU1kLXZYV1lBTU8zaHBuMXdNTVotTHRjRlFCVzl0Sm8zQXdTZ0lsb3VDZ2YtVlBaYzJSdVlnM1RvNXdwVFhZUUNwMkZCQTFnbFZwd294VlJ5cnUxbHFHTmFLZkRnd2dNN21GczBQSUg2OUJVX1UtNHdhT0EwVWpGZUpLUQ?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Tue, 23 Sep 2025 07:00:00 GMT",
+      "snippet": "Binance Alpha Anoma GriffinAI Airdrop Listings This Week&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "Anoma Airdrop & Multi-Exchange Listings: XAN Token Debuts on Binance, KuCoin, MEXC, Gate.io - HOKANEWS.COM",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2xHN2R0TDZTWi1Rd3VybWtwWWM1d29EdWdXNmo4OVE4UF9TMzgzaTZFcnc2ZGEtQUd0ZDRkcTBPUnltd2d0X0ZPUGxJaGtfVzgyWHVZeUszdUw5b29YeTBISkhya1UzTVpMNkg3N3U3XzdEVVNkc0lFblNjRDd1Zw?oc=5",
+      "source": "HOKANEWS.COM",
+      "publishedAt": "Mon, 29 Sep 2025 07:00:00 GMT",
+      "snippet": "Anoma Airdrop & Multi-Exchange Listings: XAN Token Debuts on Binance, KuCoin, MEXC, Gate.io&nbsp;&nbsp;HOKANEWS.COM"
+    },
+    {
+      "title": "Anoma (XAN) Will Be Available on Binance Alpha and Binance Futures (2025-09-23) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZEFRUjFyaWhqbVc5SnlMQU5uTWJrRURqQmNHMGE4eTZkaTUwcTlZcHFLRURHSlJYRkVXaUxqNWcwS2l2ZlNPSTl0aTRnZTlfd3hKS2lZalZ2UE9OZHZFWDVSeTdGekxZUGttS1Q0QmVqVlI5NmxNRWpDNEhIOGI4M0VlRDAySDNoeVBWbVZwSEE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "snippet": "Anoma (XAN) Will Be Available on Binance Alpha and Binance Futures (2025-09-23)&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

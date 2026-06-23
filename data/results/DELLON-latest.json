@@ -1,0 +1,220 @@
+{
+  "token": "DELLON",
+  "requestedInput": "DELL",
+  "exchange": "other",
+  "generatedAt": "2026-06-23T16:02:48.071Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "DELLON",
+    "name": "Dell Technologies (Ondo Tokenized)",
+    "generatedAt": "2026-06-23T16:02:38.880Z",
+    "summary": "DELLON是Ondo发行的代币化Dell股票，当前在pumpfun上有一个同名Meme币，两者混淆。代币化股票本身市值极低（~1.7万美元），流动性差；而pumpfun上的Meme币24小时交易量仅5.76美元，几乎无流动性。近期无重大利好，上涨缺乏实质支撑，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无买入逻辑，无需失效条件"
+    },
+    "catalysts": [
+      "无明确上涨催化，可能为市场混淆或极小量交易导致价格波动"
+    ],
+    "latestNews": [
+      {
+        "title": "What is Dell Technologies(DELLON) Coin: everything you need to know, how to buy, and what to watch - WEEX",
+        "impact": "中性",
+        "reason": "仅为介绍性文章，无实质利好"
+      },
+      {
+        "title": "Dell Technologies (DELLON) Price Prediction (June 2026): Forecast, Technical Levels, and RWA Token Outlook - WEEX",
+        "impact": "中性",
+        "reason": "价格预测文章，无新信息"
+      },
+      {
+        "title": "Dell Technologies (Ondo Tokenized) Price: DELLON/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+        "impact": "中性",
+        "reason": "常规行情报道"
+      },
+      {
+        "title": "Dell Technologies Tokenized Stock (Ondo) price today, DELLon to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "常规行情报道"
+      }
+    ],
+    "fundamentals": [
+      "DELLON是Ondo Finance发行的代币化Dell股票，旨在让非美国用户获得DELL经济敞口",
+      "代币化股票受限于Ondo平台规则，仅限非美国零售和机构用户",
+      "总供应量仅40枚，市值约1.7万美元，流动性极低",
+      "pumpfun上存在同名Meme币，合约地址不同，市值约2160美元，24小时交易量5.76美元"
+    ],
+    "marketRead": [
+      "代币化股票DELLON在CoinGecko上24小时涨幅0.93%，但成交量仅15.9万美元，流动性差",
+      "pumpfun上的Meme币DELL/SOL几乎无交易，流动性为0，价格容易被极小资金操纵",
+      "两个资产均无7日、14日、30日价格变化数据，说明近期无持续交易"
+    ],
+    "risks": [
+      "名称混淆风险：DELLON同时指代Ondo代币化股票和pumpfun上的Meme币，投资者易误买",
+      "流动性风险：两个资产流动性均极低，买卖价差大，难以退出",
+      "合约风险：pumpfun上的Meme币为社区创建，无审计，存在貔貅或rug pull风险",
+      "监管风险：代币化股票可能面临监管不确定性",
+      "市场风险：无实质利好支撑，价格可能随时归零"
+    ],
+    "watchlist": [
+      "Ondo官方是否发布DELLON相关公告",
+      "pumpfun上DELL/SOL的流动性变化",
+      "DELL股票本身是否有重大新闻"
+    ],
+    "sourceNotes": [
+      "数据来源CoinGecko和DexScreener，pumpfun数据可能不完整",
+      "新闻均为聚合内容，无独家信息",
+      "代币化股票市值极低，可能为测试或未广泛发行"
+    ]
+  },
+  "profile": {
+    "id": "dell-technologies-ondo-tokenized",
+    "symbol": "DELLON",
+    "name": "Dell Technologies (Ondo Tokenized)",
+    "categories": [
+      "Tokenized Assets",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Ondo Tokenized Assets"
+    ],
+    "homepage": [
+      "https://app.ondo.finance/"
+    ],
+    "description": "DELLon is the Ondo Tokenized version of Dell Technologies Inc, giving tokenholders economic exposure similar to holding DELL and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
+    "marketCapRank": 8768,
+    "currentPriceUsd": 424.39,
+    "marketCapUsd": 16983.8,
+    "fullyDilutedValuationUsd": 16983.8,
+    "totalVolumeUsd": 159788,
+    "priceChange24hPct": 0.92612,
+    "priceChange7dPct": 0,
+    "priceChange14dPct": 0,
+    "priceChange30dPct": 0,
+    "athUsd": 440.75,
+    "athChangePct": -3.71343,
+    "circulatingSupply": 40.01965999314326,
+    "totalSupply": 40.01965999314326,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 3,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pumpfun",
+    "pair": "Dell/SOL",
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "pairAddress": "6iaNBxGARyNvBZbgiZrT1CCWKNwyDGsPoDbPEvYrNLfZ",
+    "pairUrl": "https://dexscreener.com/solana/6ianbxgarynvbzbgizrt1ccwknwydgspodbpevyrnlfz",
+    "lastPrice": 0.00000216,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 5.76,
+    "liquidityUsd": null,
+    "fullyDilutedValuationUsd": 2160.05,
+    "marketCapUsd": 2160.05,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "url": "https://dexscreener.com/solana/6ianbxgarynvbzbgizrt1ccwknwydgspodbpevyrnlfz",
+    "pairAddress": "6iaNBxGARyNvBZbgiZrT1CCWKNwyDGsPoDbPEvYrNLfZ",
+    "baseToken": {
+      "address": "Def1YiArPMyTwT1dAqEGvRMjpD4XZW3TN8rfvXechnrw",
+      "name": "Dell",
+      "symbol": "Dell"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.00000003137",
+    "priceUsd": "0.000002160",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 5.76,
+      "h6": 5.76,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "fdv": 2160.05,
+    "marketCap": 2160.05
+  },
+  "news": [
+    {
+      "title": "What is Dell Technologies(DELLON) Coin: everything you need to know, how to buy, and what to watch - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkcwOGFXb2F1bWpSamZ3UzZVN3NhNXBrUWQ4Vk5HeDR1Rk1vMEZyVkZyUW8weVlEX0Rya3Z4clJDR3lKSkNsbmVjVnhBVGZNUUZENE1tX0NMMWZ1WmpPdFEzNWxQZExYV215MjB2VXFuWDgzRFRWQXVnMVVIMWI4YW9La190cWZqQXg0d3BYVVF0UTJ2SEVMUTZEdjg4ZldHRlZoSFRjMmNzOXZoMVVoRkpPRE04NS1QU2xGb3AyOFoxSG9XVXp2dENLOHNneXMtSnY1Z1RWWVdkUllzWUZRTzdzSGJxWVE?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Tue, 23 Jun 2026 13:29:06 GMT",
+      "snippet": "What is Dell Technologies(DELLON) Coin: everything you need to know, how to buy, and what to watch&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Dell Technologies (DELLON) Price Prediction (June 2026): Forecast, Technical Levels, and RWA Token Outlook - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPM3QtLXQzU3liVnM5NVA0NjhKSXNEanNlS0tBbi1FVkg1YzMySzQ5Q3NNVXJxT3ZYcUF6ZXpjYWl4VGlLbG9jMnU5VHB0SXctRngwUy1jenZfV1haT0xNSWpHd29xbFdWdmxsa0hpLXdSZWFfd2NtcVA4SFlRVjgydll5MjctV0sxWXNjVEt4UWFkcEoxWFpVY0xQR2c2THFlcEd3SXBMd0pmNVQ1N3hYT0QybFlnMGowR19VUTJSeHVKRnAxcGxSaVU4dkdmRmJPd21MY1lqY19WMF80T3RQMzMxclduT19zclhIR3RxZw?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Tue, 23 Jun 2026 13:45:04 GMT",
+      "snippet": "Dell Technologies (DELLON) Price Prediction (June 2026): Forecast, Technical Levels, and RWA Token Outlook&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Dell Technologies (Ondo Tokenized) Price: DELLON/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SMDg4ZFRjaGptaHpZRGRkeHhqMUg4UVJSY2tZNHVzODFGOFhvYlJJOW5LSEZHYzlZdXlrU2Jfa2taamtFeE4xMUpTVFhLd0NDSmNwQk4xS1E0c2xKZ1g4d3doS1VJenRpRGhma0hQcWxnYkhFaFE?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 12 Jun 2026 15:37:37 GMT",
+      "snippet": "Dell Technologies (Ondo Tokenized) Price: DELLON/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Dell Technologies Tokenized Stock (Ondo) price today, DELLon to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclVMMFI1bkdLNDJoQ0I1LUl0bkJUOS16ZFAzOTRNRjRRdG5fM2w4UU4xcGg2akNHeUJCMmJWcTJQaVRSTE9SUHl4OXM0X2FpSDZFUFltbHBhMWNPcFdGLWpWblE4ejBla3RSYXF3WnliRjRBNEktMWJMSHZELXItTG9R?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 16 Jun 2026 12:13:33 GMT",
+      "snippet": "Dell Technologies Tokenized Stock (Ondo) price today, DELLon to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned DELL for DELLON; DEX profile ignored to avoid token mix-up."
+  ]
+}
