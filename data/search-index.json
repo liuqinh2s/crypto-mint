@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-06-22T21:02:07.334Z",
+  "updatedAt": "2026-06-23T00:17:03.304Z",
   "results": [
+    {
+      "token": "DEXE",
+      "requestedInput": "DEXE",
+      "name": "DeXe",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-23T00:17:03.302Z",
+      "latestPath": "data/results/DEXE-latest.json"
+    },
+    {
+      "token": "POWER",
+      "requestedInput": "POWER",
+      "name": "Power Protocol",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-23T00:17:02.138Z",
+      "latestPath": "data/results/POWER-latest.json"
+    },
     {
       "token": "MRVLON",
       "requestedInput": "MRVL",
@@ -894,24 +914,6 @@
       "action": "观察",
       "generatedAt": "2026-06-19T06:14:14.418Z",
       "latestPath": "data/results/AVAX-latest.json"
-    },
-    {
-      "token": "BEAT",
-      "name": "Audiera",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-19T06:12:36.657Z",
-      "latestPath": "data/results/BEAT-latest.json"
-    },
-    {
-      "token": "PYTH",
-      "name": "Pyth Network",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-19T06:11:16.208Z",
-      "latestPath": "data/results/PYTH-latest.json"
     }
   ]
 }

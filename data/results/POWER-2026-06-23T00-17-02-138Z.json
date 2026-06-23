@@ -1,0 +1,303 @@
+{
+  "token": "POWER",
+  "requestedInput": "POWER",
+  "exchange": "other",
+  "generatedAt": "2026-06-23T00:17:02.138Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "POWER",
+    "name": "Power Protocol",
+    "generatedAt": "2026-06-23T00:16:55.239Z",
+    "summary": "POWER 24小时涨幅约21%，但流动性极低（仅3.8万美元），市值约1900万美元，全稀释估值约9000万美元。项目曾多次暴跌（如90%跌幅），基本面薄弱，无明确新催化剂。当前上涨可能由少量资金推动，风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无买入逻辑，无需设置失效条件"
+    },
+    "catalysts": [
+      "无明确新催化剂，近期新闻多为旧闻或无关内容"
+    ],
+    "latestNews": [
+      {
+        "title": "Power Protocol Price Today in India | POWER to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格页面，无实质信息"
+      },
+      {
+        "title": "Power Protocol (Power) Token Faces Sharp 90% Drop: What Caused the Crash? - Yahoo Finance",
+        "impact": "利空",
+        "reason": "历史暴跌记录，反映项目高风险"
+      },
+      {
+        "title": "Power Protocol and $POWER Explained - games.gg",
+        "impact": "中性",
+        "reason": "项目介绍，无新进展"
+      }
+    ],
+    "fundamentals": [
+      "GameFi项目，涉及BNB Chain、Ethereum、Ronin等多链",
+      "总供应量10亿，流通量2.1亿（21%），全稀释估值约9000万美元",
+      "ATH 2.46美元，当前0.09美元，跌幅96%",
+      "曾多次出现90%以上暴跌，疑似存在抛售或rug pull风险"
+    ],
+    "marketRead": [
+      "24小时涨幅21%，但交易量仅2.78万美元（quote），流动性仅3.79万美元",
+      "低流动性下价格易被操纵，上涨不可持续",
+      "无K线数据，无法分析趋势"
+    ],
+    "risks": [
+      "流动性极低，滑点大，难以大额进出",
+      "历史多次暴跌，项目信誉差",
+      "全稀释估值高，未来解锁压力大",
+      "无明确基本面支撑，上涨缺乏逻辑",
+      "合约风险：DEX交易对可能存在漏洞或后门"
+    ],
+    "watchlist": [
+      "关注是否有新游戏上线或合作伙伴公告",
+      "观察流动性是否改善",
+      "注意大额解锁或抛售信号"
+    ],
+    "sourceNotes": [
+      "数据来源：CoinGecko API及DexScreener，流动性数据仅来自Uniswap V3",
+      "新闻多为2025-2026年初旧闻，近期无实质利好",
+      "项目官网可访问但描述为空，信息透明度低"
+    ]
+  },
+  "profile": {
+    "id": "power-protocol",
+    "symbol": "POWER",
+    "name": "Power Protocol",
+    "categories": [
+      "Gaming (GameFi)",
+      "BNB Chain Ecosystem",
+      "Ethereum Ecosystem",
+      "Ronin Ecosystem",
+      "Binance Alpha Spotlight",
+      "Game Studio"
+    ],
+    "homepage": [
+      "https://powerprotocol.xyz/en"
+    ],
+    "description": "",
+    "marketCapRank": 852,
+    "currentPriceUsd": 0.091927,
+    "marketCapUsd": 19094518,
+    "fullyDilutedValuationUsd": 90926276,
+    "totalVolumeUsd": 5276653,
+    "priceChange24hPct": 23.74869,
+    "priceChange7dPct": 17.48352,
+    "priceChange14dPct": 13.83871,
+    "priceChange30dPct": 17.9937,
+    "athUsd": 2.46,
+    "athChangePct": -96.30125,
+    "circulatingSupply": 210000000,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 3490,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "POWER/ETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x7418de766caaf03f971958d42d227509f1ffdbd0049f26bb697f209a31e6fe29",
+    "pairUrl": "https://dexscreener.com/ethereum/0x7418de766caaf03f971958d42d227509f1ffdbd0049f26bb697f209a31e6fe29",
+    "lastPrice": 0.09072,
+    "priceChange24hPct": 20.99,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 27812.29,
+    "liquidityUsd": 37915.84,
+    "fullyDilutedValuationUsd": 90724452,
+    "marketCapUsd": 19052135,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x7418de766caaf03f971958d42d227509f1ffdbd0049f26bb697f209a31e6fe29",
+    "pairAddress": "0x7418de766caaf03f971958d42d227509f1ffdbd0049f26bb697f209a31e6fe29",
+    "labels": [
+      "v4"
+    ],
+    "baseToken": {
+      "address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
+      "name": "Power",
+      "symbol": "POWER"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "priceNative": "0.00005257",
+    "priceUsd": "0.09072",
+    "txns": {
+      "m5": {
+        "buys": 5,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 11,
+        "sells": 5
+      },
+      "h6": {
+        "buys": 63,
+        "sells": 42
+      },
+      "h24": {
+        "buys": 306,
+        "sells": 204
+      }
+    },
+    "volume": {
+      "h24": 27812.29,
+      "h6": 4572.15,
+      "h1": 403.67,
+      "m5": 38.81
+    },
+    "priceChange": {
+      "m5": 0.23,
+      "h1": 0.67,
+      "h6": 4.65,
+      "h24": 20.99
+    },
+    "liquidity": {
+      "usd": 37915.84,
+      "base": 794.05395,
+      "quote": 21.9313
+    },
+    "fdv": 90724452,
+    "marketCap": 19052135,
+    "pairCreatedAt": 1765792703000
+  },
+  "news": [
+    {
+      "title": "Power Protocol Price Today in India | POWER to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WLWJubm9DN0kwaFVBRUdqN2JxajFMQm9zbWNLb2ZfdVBYOVRiWnFjaUxKdEpiTnBJUTRwb1hRVzY0Vjh5OXdzcUp5bGxWaFRmdDQtcUpxam1xZEp2WkE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 19 Jun 2026 18:23:00 GMT",
+      "snippet": "Power Protocol Price Today in India | POWER to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Power Protocol (Power) Token Faces Sharp 90% Drop: What Caused the Crash? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHQwRW15aldUdmxSZnF4TGQ4UG9wNzRaMXBwNnFaTXhoa291cGhxMHhrTEN4WDJlV3J1anppeVV5ckN1bThBLTZISW9ZWkdxUXVrZWpUbEk0Z1hqLWk0N1VJMk80NlFhb3QxVVdSd2pLemF4eWg3MFhoQ2lRNUZLQlN2cEU?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "snippet": "Power Protocol (Power) Token Faces Sharp 90% Drop: What Caused the Crash?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Power Protocol Price: POWER/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtMVVSV0E0cFVFU2hWMHhLOWg3N1ItN2Y0MldEZG5QZEM5SnVYZ2d3bzk5OTA3a3JQWFhqYldhRVlKRnpWaHFnNjBuRmJucHFjSm5UOW80WUl6VlBkdmc?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 05 Dec 2025 07:03:38 GMT",
+      "snippet": "Power Protocol Price: POWER/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Power Protocol price today, POWER to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Xel9UYUhxcUxKY3R4WC12aWh3VF9jdmp6QkZPWUNHM0s2TnZLVlpvNGlueV9nYlFwZHlhNkUtVjIzM1pGYnBJbTNoNG5NR2xZZ2Q0V0JIeWl1d0x5XzVkQg?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 02 Dec 2025 10:22:34 GMT",
+      "snippet": "Power Protocol price today, POWER to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Power Protocol (POWER) Price Explodes 45% Amid Market Weakness: Fresh ATH Signals Strong Momentum - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbjRaeFNlRXVMZkg5S0I1eUhteTY3SDRONktSZGJEVEwzeGNxY0dDZXRzeV9EeFZHeFpnQWRiYWtMSE1EY1ctYTFxc1IyaDVrSGlPX09uT0RnMWs5ekVZTXlIdmRfeHF5THFPV3RyUU9IdVdiSTkteHNGdVpuZGZfN25hRUlyVXlKM1hGMFhGeEkwcmVHcGhoMVhFVGlqMmszTHl1ekJCMG9yaHFTODExUXF4Y3hmcXZoSzc4Q2E0QUJZQzJfbFQ2c3VKcw?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "snippet": "Power Protocol (POWER) Price Explodes 45% Amid Market Weakness: Fresh ATH Signals Strong Momentum&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Power Protocol (POWER) Crashes 90% in 24 Hours: How It Happened and Why It Could Get Worse - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUlBiTi1HejhraU5UNzFrV0FEV0FldEJ6dERsSmhSSTU1Q0hMa2c2RnlmUlBpX1BwUlBhSXI5emZpSG1RZDBoS3Q0QTMxM2tRb050LVZvVDJQR0VFZXhDZHJJWHBQM1RWN1pWQXNObC1ucklORFZ2akZaZ0RSZ05aYXI3UjA4TVVs?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "snippet": "Power Protocol (POWER) Crashes 90% in 24 Hours: How It Happened and Why It Could Get Worse&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Power Protocol Price | POWER Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDS0xMY1Voei1IcFQyRjlnOFctRlVVdXZiWjhzTlJHSlJsTkdySENtQmhmY0pFcmZZeFVlTG41NDJOb0dNNXd0SXVJbmNTYUNmbENOUnVmNA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 05 Dec 2025 13:56:39 GMT",
+      "snippet": "Power Protocol Price | POWER Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Power Protocol Crashes 59% From ATH: On-Chain Data Reveals Dumping Pattern - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44dVhoZndRRC13eHlOSkZybmFYTWd4bEZpejVWRzZvVFZGVndnTkNTRnY2VG11azFwS3lUWFZ2c05qTjg4eUE?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "snippet": "Power Protocol Crashes 59% From ATH: On-Chain Data Reveals Dumping Pattern&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Power Protocol and $POWER Explained - games.gg",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yRmhNcVFqd3RhRU5VV3lSSjFfUnFyOGFTVFMydjFlclBlMXV1Q0o5UTNzcG1EaGV1cFY3WUxtcEhqSDhybTI3Y3Fzeldfb3FsQVgxSXozbTNWdkE?oc=5",
+      "source": "games.gg",
+      "publishedAt": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "snippet": "Power Protocol and $POWER Explained&nbsp;&nbsp;games.gg"
+    },
+    {
+      "title": "Power Protocol ($POWER) Price Prediction 2025–2030: Scenarios & Risks - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvM2NRQVFLZTByWmpoYnoyTEEwMkNjTmlrcF9uNmxzczZYU1VZNS1QXzZ1TkNMcDRwQnJEaFE3Nk1BUnhiX19wVW5RVnh5QXVQRlV4cVRINGdOU2VhblNFbFk3a1l2WTgyY1FpWGJRZWhHUDBrWlpwdXg4TDM?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "snippet": "Power Protocol ($POWER) Price Prediction 2025–2030: Scenarios & Risks&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "The core power of crypto exchanges is being handed over by OKX. - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uMnNCREJkZi1YSjZQcXMzY29OcjZJZlJaajZoOUFNaDZyQlBhbUdTWjI2OEhvZC1lS2VGWGNieWF2RmhFd1lOSUtwOW5rYUZJQlFlampDUHhwWmZ5a295X2hpU1Q?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
+      "snippet": "The core power of crypto exchanges is being handed over by OKX.&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Power Protocol (Power) Token Faces Sharp 90% Drop: What Caused the Crash? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IcXRBb0pEOFZESmNfclNtZ24tV1czWVJfZmozZEE3Y1U1TGd2d1d4QldJQkM0Q0pCN2RxTkRYVXZaeVRRaThSYVR0SjhUN2I1elhHRUd3V0ZKUjl2R2fSAWNBVV95cUxPWHI4NTROREJsODVhajYyM2RKNnRtb241anI4R0NTamZHVnZUWHdLa2hfYkhTUTlmYTQ4Tng5d0RBUmJUUG5GOG1lWnBDVWUtampqeURkSlB1Mi13OTdkdG1hUzg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "snippet": "Power Protocol (Power) Token Faces Sharp 90% Drop: What Caused the Crash?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Power Protocol (POWER) Price Explodes 45% Amid Market Weakness: Fresh ATH Signals Strong Momentum - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RQW5kcmYtbzlIZlI1OUQ0ZF94MDJsZGwzR2g4akNhUDd1WkVNVnk2dWNMb3NBMDI1b0ZPakxVaXNxcEU4dnFQY3h6N1JadEx0SUZmSEU5Nm5kcEtYQ2fSAWNBVV95cUxPbkFXU1IzbTAyVDl6dVphZFdqdjhFajNTeE9od01RMmd5cWxZbkt6TlFzTzdmUkpqRkZUQ1ZBUU5yLXotTWxjQnpfUmpzcEZ5MDUzTjBIT1F0VDdEYy05Y1RKakU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "snippet": "Power Protocol (POWER) Price Explodes 45% Amid Market Weakness: Fresh ATH Signals Strong Momentum&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Big questions: Would Bitcoin survive a 10-year power outage? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82aVM4ek9EQUtqdDR4aFNoTHBUU0dpaGlKdThtLUNsSTlxMEg4RWF2R1l5U0J4dU5Fcmd5TUViMXZCQ1hLMmlaWlNveThtZHlYTFN1T3ludEphTkwzOVHSAWNBVV95cUxQR0l0eWJvUDFFTXI2NUJwWENfRWZLVUJXbTFvQ0FxM2dtMWFkYTJUZnJ4YWhFUVZaeGxheGxlVUdjd0VyOU92QjVHNXpVUUo1T3ZmZHJyOGJxU1BiVi1QQ1ZJdXc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "snippet": "Big questions: Would Bitcoin survive a 10-year power outage?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "BNB Smart Chain Trading Competition: Trade IR, POWER, and STABLE to Share $600K Worth of Rewards - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMDF3WmluNHlKeXlCamg3MnpPdmFIQXNfM0lzek1GaDNJVFp1QjV0bnJYWDB6MjJYYmNJVFpiWmVBLV9xa2wwdmZmNU9qZ1ppWWlwc0E4YVlxUlR4UUt3QWtrWnFaMzl4aXRBWllVTXVGMmluUGFxdHAyUmtoS0p6LU5Jc0tfMlBzVXJFQjVqTTk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "snippet": "BNB Smart Chain Trading Competition: Trade IR, POWER, and STABLE to Share $600K Worth of Rewards&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
