@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-06-23T16:47:24.491Z",
+  "updatedAt": "2026-06-23T17:02:17.206Z",
   "results": [
+    {
+      "token": "MET",
+      "requestedInput": "MET",
+      "name": "Meteora",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-23T17:02:16.549Z",
+      "latestPath": "data/results/MET-latest.json"
+    },
+    {
+      "token": "DELLON",
+      "requestedInput": "DELL",
+      "name": "Dell Technologies (Ondo Tokenized)",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-23T17:02:17.204Z",
+      "latestPath": "data/results/DELLON-latest.json"
+    },
     {
       "token": "BAN",
       "requestedInput": "BAN",
@@ -10,16 +30,6 @@
       "action": "不买",
       "generatedAt": "2026-06-23T16:47:21.325Z",
       "latestPath": "data/results/BAN-latest.json"
-    },
-    {
-      "token": "DELLON",
-      "requestedInput": "DELL",
-      "name": "Dell Technologies (Ondo Tokenized)",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-23T16:47:24.489Z",
-      "latestPath": "data/results/DELLON-latest.json"
     },
     {
       "token": "XAN",
@@ -913,15 +923,6 @@
       "action": "观察",
       "generatedAt": "2026-06-19T12:33:36.253Z",
       "latestPath": "data/results/ATM-latest.json"
-    },
-    {
-      "token": "SOXL",
-      "name": "Direxion Daily Semi Bull 3X ETF (Ondo Tokenized)",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-19T11:36:47.688Z",
-      "latestPath": "data/results/SOXL-latest.json"
     }
   ]
 }
