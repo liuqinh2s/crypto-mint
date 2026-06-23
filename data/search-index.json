@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-23T00:17:03.304Z",
+  "updatedAt": "2026-06-23T02:13:57.614Z",
   "results": [
+    {
+      "token": "BLESS",
+      "requestedInput": "BLESS",
+      "name": "Bless",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-23T02:13:57.612Z",
+      "latestPath": "data/results/BLESS-latest.json"
+    },
     {
       "token": "DEXE",
       "requestedInput": "DEXE",
@@ -833,15 +843,6 @@
       "action": "观察",
       "generatedAt": "2026-06-20T01:15:36.876Z",
       "latestPath": "data/results/LUMIA-latest.json"
-    },
-    {
-      "token": "BLESS",
-      "name": "Bless",
-      "score": 35,
-      "label": "谨慎试仓",
-      "action": "观察",
-      "generatedAt": "2026-06-20T01:13:21.159Z",
-      "latestPath": "data/results/BLESS-latest.json"
     },
     {
       "token": "BICO",
