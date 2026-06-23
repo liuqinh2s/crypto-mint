@@ -1,0 +1,278 @@
+{
+  "token": "FOLKS",
+  "requestedInput": "FOLKS",
+  "exchange": "other",
+  "generatedAt": "2026-06-23T08:02:21.871Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "FOLKS",
+    "name": "FOLKS",
+    "generatedAt": "2026-06-23T08:02:11.421Z",
+    "summary": "FOLKS代币近期大幅上涨，但链上pumpfun上存在同名仿盘，价格极低且流动性差，风险极高。官方项目为跨链DeFi协议，基本面扎实，但当前市场关注点可能被仿盘误导。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若确认官方代币上线主流DEX或CEX，且流动性充足，可重新评估。"
+    },
+    "catalysts": [
+      "官方项目Folks Finance为跨链借贷协议，近期可能有利好发布",
+      "Binance Alpha上线FOLKS（官方）带来曝光",
+      "2026年路线图xChain V2可能吸引市场关注"
+    ],
+    "latestNews": [
+      {
+        "title": "Ambitious Folks Finance Roadmap for 2026: xChain V2 and a $15M Gamble to Dominate Cross-Chain Lending",
+        "impact": "利好",
+        "reason": "路线图展示项目发展雄心，可能吸引投资者"
+      },
+      {
+        "title": "Folks Finance (FOLKS) Will Be Available on Binance Alpha and Binance Futures (2025-11-06)",
+        "impact": "利好",
+        "reason": "上线Binance Alpha和期货增加流动性和曝光"
+      },
+      {
+        "title": "Alpha for Balkans - FOLKS Edition: Trade on Binance Alpha and Grab a Share of the 5,000 FOLKS Reward Pool!",
+        "impact": "利好",
+        "reason": "激励活动促进交易和用户增长"
+      }
+    ],
+    "fundamentals": [
+      "跨链DeFi协议，支持多链借贷，无需桥接",
+      "使用Chainlink CCIP、Circle CCTP、Wormhole等技术",
+      "总供应量5000万，流通约1668万，FDV约1.48亿美元",
+      "已上线Binance Alpha和Binance Futures",
+      "团队背景未详细披露，但项目已运营多年"
+    ],
+    "marketRead": [
+      "官方FOLKS代币在CEX交易，24h涨幅48.5%，7天涨幅52.5%，30天涨幅112.8%，显示强劲上升趋势",
+      "但pumpfun上存在同名仿盘，价格极低（5.486e-7美元），24h跌幅75.9%，流动性极低，疑似炒作或骗局",
+      "官方代币市值约4933万美元，FDV约1.48亿美元，估值中等"
+    ],
+    "risks": [
+      "pumpfun上的FOLK🤡/SOL为仿盘，与官方项目无关，存在归零风险",
+      "官方代币虽在CEX交易，但市场情绪可能受仿盘影响",
+      "DeFi赛道竞争激烈，项目TVL和用户增长不确定",
+      "代币解锁风险：总供应量5000万，流通仅1668万，未来解锁可能带来抛压"
+    ],
+    "watchlist": [
+      "确认官方代币合约地址和交易对",
+      "监控官方项目TVL和用户增长数据",
+      "关注Binance是否上线现货交易对",
+      "注意仿盘价格波动对官方代币情绪的传导"
+    ],
+    "sourceNotes": [
+      "pumpfun数据来自DexScreener，但流动性为null，价格极低，需谨慎",
+      "官方项目数据来自CoinMarketCap，但新闻时间较早（2025年），可能已过时",
+      "当前市场存在同名仿盘，需区分官方与仿盘"
+    ]
+  },
+  "profile": {
+    "id": "folks",
+    "symbol": "FOLKS",
+    "name": "FOLKS",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "BNB Chain Ecosystem",
+      "Lending/Borrowing Protocols",
+      "Avalanche Ecosystem",
+      "Polygon Ecosystem",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Algorand Ecosystem",
+      "Base Ecosystem",
+      "Sei Network Ecosystem",
+      "Binance Alpha Spotlight",
+      "Monad Ecosystem",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://folks.finance",
+      "https://xapp.folks.finance",
+      "https://app.folks.finance"
+    ],
+    "description": "Folks Finance is a crosschain decentralized finance (DeFi) protocol that enables users to supply, borrow, and manage digital assets across multiple blockchains from a single platform. By using interoperability technology like Chainlink CCIP, Circle CCTP, and Wormhole messaging, the protocol eliminates the need for wrapping, bridging, or splitting liquidity, allowing users to access unified pools and collateralize assets natively across ecosystems. Its design focuses on efficiency, security, and accessibility for both retail users and institutions.",
+    "marketCapRank": 457,
+    "currentPriceUsd": 2.96,
+    "marketCapUsd": 49331570,
+    "fullyDilutedValuationUsd": 147861008,
+    "totalVolumeUsd": 8052167,
+    "priceChange24hPct": 48.5473,
+    "priceChange7dPct": 52.4973,
+    "priceChange14dPct": 66.798,
+    "priceChange30dPct": 112.83305,
+    "athUsd": 48.86,
+    "athChangePct": -93.94818,
+    "circulatingSupply": 16681737.434404,
+    "totalSupply": 50000000,
+    "maxSupply": 50000000,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 2701,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pumpfun",
+    "pair": "FOLK🤡/SOL",
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "pairAddress": "FxzcuxemVnFS6iYVECSUKSRfjqH2JTqqrsXkzpz7Pcgh",
+    "pairUrl": "https://dexscreener.com/solana/fxzcuxemvnfs6iyvecsuksrfjqh2jtqqrsxkzpz7pcgh",
+    "lastPrice": 5.486e-7,
+    "priceChange24hPct": -75.92,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 8338.97,
+    "liquidityUsd": null,
+    "fullyDilutedValuationUsd": 548.66,
+    "marketCapUsd": 548.66,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "url": "https://dexscreener.com/solana/fxzcuxemvnfs6iyvecsuksrfjqh2jtqqrsxkzpz7pcgh",
+    "pairAddress": "FxzcuxemVnFS6iYVECSUKSRfjqH2JTqqrsXkzpz7Pcgh",
+    "baseToken": {
+      "address": "H18MYWXH4mWyKj4Sr2fYH3Kk9wkmRsQRTPmGRQgnpump",
+      "name": "FOLKS",
+      "symbol": "FOLK🤡"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.000000007471",
+    "priceUsd": "0.0000005486",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 96,
+        "sells": 87
+      }
+    },
+    "volume": {
+      "h24": 8338.97,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -75.92
+    },
+    "fdv": 548.66,
+    "marketCap": 548.66,
+    "pairCreatedAt": 1782151560000
+  },
+  "news": [
+    {
+      "title": "Folks Finance Price Today in Turkey | FOLKS to TRY Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLal9pcHdBU3NqN3RxRjAtUThLb1oybjlJTHdXcks2NWtmbFlMYXJqQVNOUk9QUkVfbHhiQzNFSVdGWUtWN1FVakNNX2JKS0E5MWFoYzQtaktSRGN0a0E?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 20 Jun 2026 03:19:00 GMT",
+      "snippet": "Folks Finance Price Today in Turkey | FOLKS to TRY Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Folks Finance price today, FOLKS to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rOGI2T0VYRkFKallEX0I0RklZLUt0SklubGZ4QzdOQjBJbVh3T2xYUm82bm14ZDRDYTRjVVlXQlZoLVZoN1lid3RoSkRjNm14bElTUFFxX0V5Q2JTb1d1cA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 03 Nov 2025 03:48:31 GMT",
+      "snippet": "Folks Finance price today, FOLKS to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Ambitious Folks Finance Roadmap for 2026: xChain V2 and a $15M Gamble to Dominate Cross-Chain Lending - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pWTk1dWxxY2F1aDBnSURDMTJNT3YxMTZocTJNYkowZlRuTDdJZW52VzZIU040Mnp5WGdnQy1raXQyaWFDMjU2VFNPME1BQ2ZZd0hqY0Vwc0RnbHJXbVhvZDd0NFJ0SE1jc20wR21zaWNLX3JmODh0Q1EwRQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "Ambitious Folks Finance Roadmap for 2026: xChain V2 and a $15M Gamble to Dominate Cross-Chain Lending&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Folks Finance (FOLKS) Coin Price Prediction & Forecasts for November 2025 – Eyes on DeFi Surge After Launch - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPazJzSVVnWm03SXlRbGhwaEw4UWpTdDdhUndLc1F2ejBrMG9SYXc0RS14VDNPbkxUX1hzTTFSZXcya1NqWm8wbTM5eVRZSmQtaTdRd1FpMmhKUDZtRHk5Vnd3a29wQ0ViMmVBX2pnaG56QWRMajU5VGN3b0xfY2xybVQ5SEgyVFBjdjFKWnRJb1dITEdEc00tQ0pfRHRMX2RHMm1KMURha1U0MTE2c1pRN2tpSExocHd6V0I1Y2FUbzBZNEd5d1VTWHplNlpwMHp4TG1FSWxTeUs?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Fri, 07 Nov 2025 08:00:00 GMT",
+      "snippet": "Folks Finance (FOLKS) Coin Price Prediction & Forecasts for November 2025 – Eyes on DeFi Surge After Launch&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "What Is Folks Finance (FOLKS)? Airdrop, Tokenomics & Price - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGVBb2h5eFlKRENMUDNHMkM2bXRqcWRPOTNValNnUnBjMlFQOHQ0N2NEeTdnbEc2bktQVkplVk11elJMTS1wdUtpb1RRdVVaT3M0Q2pJdldtd1AyajdXTmNyWU14STJleHlDRVVUNUlvMUxqSlRpemZpNkV2Z3RPVHh5dmhDblFvZ0k5a1RCZWNtTGs?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 06 Nov 2025 08:00:00 GMT",
+      "snippet": "What Is Folks Finance (FOLKS)? Airdrop, Tokenomics & Price&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Folks Finance Price Today | FOLKS to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0cmdKTmlwZW54Z0g5dlNZQ3dlNVQtNVhWVkhJX3FpQ3QtNTJXby1NalFGbUdQOFBSd19wcTBiUG5DS181QjFHcXIwWWVRU3Bic1RHdllSS1JWUQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 06 Nov 2025 16:58:04 GMT",
+      "snippet": "Folks Finance Price Today | FOLKS to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Folks Finance Team - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2UFZEYW9HbnR1MjdlNEgzMzJDeXM0c29UUl9jVVk3dmpjUHFVOURSb1FOZzFzLVBjWjdrZXRWNHB6WW5tOUpBN1JwZ1NqQ1p6cjlHTmFoaDZNQQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 21 Nov 2025 13:25:24 GMT",
+      "snippet": "Folks Finance Team&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Folks Finance (FOLKS) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUMDEwXzNNZHRyb2VYcTJQQXloOUsycExfTlN0eEVROGhlRkFPWVlKMURBdUxma0NDSmZ2eGlqblZzS19YM3d1OS1tYWQ2RG40?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sun, 27 Nov 2022 06:51:51 GMT",
+      "snippet": "Folks Finance (FOLKS) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Folks Finance (FOLKS) - All information about Folks Finance ICO (Token Sale) - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fUVNvdmNCRWZZM2ZkUmdFUF9IZDNEeFNVOTA3TEVTaXdDM2RYNGZxbEdwRy10a1JxdzJUUDJMTjR6VUFWcWZuUUV0bw?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Wed, 13 Apr 2022 21:52:15 GMT",
+      "snippet": "Folks Finance (FOLKS) - All information about Folks Finance ICO (Token Sale)&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Folks Finance (FOLKS) Will Be Available on Binance Alpha and Binance Futures (2025-11-06) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2RFX2dya2hpWXRpUVA5TFdLazFKaGFOQUNNbWxFM00za2ZMMG01TERENGV6SEJDOGU1VUlpUTJONW9GN1JxOVo3b21VMEFQVlV1WUF1YjNwZXU2d2VlaFZGXzdRU1pvZzZlTXNGcUJyOWEwYnY5V0dWbkl3TXFJOVlOT05PVFJzSVp4cTYwdWk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 06 Nov 2025 08:00:00 GMT",
+      "snippet": "Folks Finance (FOLKS) Will Be Available on Binance Alpha and Binance Futures (2025-11-06)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Alpha for Balkans - FOLKS Edition: Trade on Binance Alpha and Grab a Share of the 5,000 FOLKS Reward Pool! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0g3a3dPYmZnTGM2QktoTUNLdUowdkxJMU9FNVdMY25KN1BHdzRXNE03RmNPVENmM3RycXVWc2NLRjlSZGdIVmo5WmpXam02OHhpbGhUenlFOGtzQ2JCQ1pQTjFoTHlPLVRkZThMbldxQU9NLTBNNnJWbDVVV1dhbHlzcndiRmk2eGQ2dTZqWWM?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 26 Jan 2026 08:00:00 GMT",
+      "snippet": "Alpha for Balkans - FOLKS Edition: Trade on Binance Alpha and Grab a Share of the 5,000 FOLKS Reward Pool!&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned FOLK for FOLKS; DEX profile ignored to avoid token mix-up."
+  ]
+}

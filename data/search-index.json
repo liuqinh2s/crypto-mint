@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-23T07:32:27.155Z",
+  "updatedAt": "2026-06-23T08:02:21.874Z",
   "results": [
+    {
+      "token": "FOLKS",
+      "requestedInput": "FOLKS",
+      "name": "FOLKS",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-23T08:02:21.871Z",
+      "latestPath": "data/results/FOLKS-latest.json"
+    },
     {
       "token": "BR",
       "requestedInput": "BR",
@@ -909,15 +919,6 @@
       "action": "不买",
       "generatedAt": "2026-06-19T07:35:10.484Z",
       "latestPath": "data/results/VRT-latest.json"
-    },
-    {
-      "token": "ASR",
-      "name": "AS Roma Fan Token",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-19T07:31:24.820Z",
-      "latestPath": "data/results/ASR-latest.json"
     }
   ]
 }
