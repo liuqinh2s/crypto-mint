@@ -1,0 +1,335 @@
+{
+  "token": "DYDX",
+  "requestedInput": "DYDX",
+  "exchange": "binance",
+  "generatedAt": "2026-06-23T23:15:43.162Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "DYDX",
+    "name": "dYdX",
+    "generatedAt": "2026-06-23T23:15:35.254Z",
+    "summary": "DYDX 近期因交易量激增和 US 市场准入预期而上涨，但基本面存在代币桥关闭、竞争加剧等风险。短期情绪驱动，建议观望。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若价格跌破0.14美元或成交量萎缩，则上涨逻辑失效"
+    },
+    "catalysts": [
+      "交易量24小时飙升115%，市场关注度提升",
+      "dYdX计划2026年进入美国市场并推出现货交易",
+      "75%收入用于回购DYDX代币的提案通过"
+    ],
+    "latestNews": [
+      {
+        "title": "Here’s why DYDX traders are eyeing $0.20 after a 115% volume surge",
+        "impact": "利好",
+        "reason": "交易量激增表明短期资金流入，市场情绪积极"
+      },
+      {
+        "title": "dYdX Sets Sights on US Market Entry by Late 2025",
+        "impact": "利好",
+        "reason": "美国市场准入可带来大量新用户和流动性"
+      },
+      {
+        "title": "dYdX Pass Landmark Buyback Allocating 75% of Revenue to DYDX Token Repurchases",
+        "impact": "利好",
+        "reason": "回购减少流通供应，对价格有支撑作用"
+      },
+      {
+        "title": "dYdX Shuts Token Bridge Leaving 45,000 Holders Stuck With $25 Million",
+        "impact": "利空",
+        "reason": "代币桥关闭导致大量代币被锁定，损害用户信任"
+      },
+      {
+        "title": "Hyperliquid Market Cap Nears $10 Billion After Surpassing dYdX in Trading Volume",
+        "impact": "利空",
+        "reason": "竞争对手Hyperliquid在交易量上超越dYdX，市场份额流失"
+      }
+    ],
+    "fundamentals": [
+      "dYdX是基于Cosmos SDK的Layer-1区块链，专注于去中心化衍生品交易",
+      "DYDX代币用于治理和交易费用折扣",
+      "总供应量10亿，当前流通约8.44亿，FDV约1.42亿美元",
+      "项目曾获a16z、Polychain等顶级机构投资",
+      "2025年11月推出dYdX Unlimited，包含即时市场上市、MegaVault流动性引擎等"
+    ],
+    "marketRead": [
+      "24小时涨幅约15%，但价格仍处于历史低位（较ATH跌96.7%）",
+      "成交量放大但流动性集中在Solana上的Orca池（约6.1亿美元），Binance等CEX数据未提供",
+      "短期上涨由消息面驱动，需警惕获利回吐"
+    ],
+    "risks": [
+      "代币桥关闭导致约2500万美元DYDX被锁定，社区信任受损",
+      "Hyperliquid等竞争对手在交易量上超越dYdX，市场份额持续下滑",
+      "美国市场准入存在监管不确定性，落地时间可能推迟",
+      "代币供应量较大，解锁压力未知（总供应10亿，已流通84%）",
+      "价格仍处于长期下降趋势中，ATH跌幅巨大"
+    ],
+    "watchlist": [
+      "美国市场准入的官方公告和进展",
+      "DYDX交易量是否持续增长",
+      "代币桥问题的解决方案",
+      "竞争对手Hyperliquid的市场份额变化",
+      "DYDX回购计划的执行情况"
+    ],
+    "sourceNotes": [
+      "价格数据来自Solana上的Orca DEX，与Binance价格可能存在差异",
+      "新闻来源包括AMBCrypto、Coinpedia等，部分为预测性内容",
+      "市场数据中24小时最高价、最低价、成交量等字段为空，可能因数据抓取不完整"
+    ]
+  },
+  "profile": {
+    "id": "dydx-chain",
+    "symbol": "DYDX",
+    "name": "dYdX",
+    "categories": [
+      "Decentralized Exchange (DEX)",
+      "Smart Contract Platform",
+      "Exchange-based Tokens",
+      "Decentralized Finance (DeFi)",
+      "Cosmos Ecosystem",
+      "Perpetuals",
+      "Layer 1 (L1)",
+      "Osmosis Ecosystem",
+      "Appchains",
+      "DragonFly Capital Portfolio",
+      "DeFiance Capital Portfolio",
+      "Andreessen Horowitz (a16z) Portfolio",
+      "GMCI DeFi Index",
+      "Delphi Ventures Portfolio",
+      "GMCI Index",
+      "Polychain Capital Portfolio",
+      "Made in USA",
+      "Governance"
+    ],
+    "homepage": [
+      "https://dydx.trade",
+      "https://www.dydx.foundation/"
+    ],
+    "description": "dYdX is DeFi’s pro trading platform and a pioneer in decentralized finance, known for being the first to offer decentralized margin trading and derivatives, as well as inventing flash loans and DEX aggregators in 2018. Built on a custom Layer-1 blockchain using the Cosmos SDK, dYdX provides a professional-grade, decentralized trading experience with high leverage, deep liquidity, and low fees. Governed by the community through the DYDX token, dYdX is focused on delivering a transparent and user-driven financial system. This November, dYdX Unlimited launches, bringing instant market listings, the MegaVault liquidity engine, revamped trading rewards, and lifetime affiliate commissions, setting a new standard for decentralized trading ",
+    "marketCapRank": 229,
+    "currentPriceUsd": 0.148273,
+    "marketCapUsd": 125053913,
+    "fullyDilutedValuationUsd": 141981714,
+    "totalVolumeUsd": 23582174,
+    "priceChange24hPct": 14.99572,
+    "priceChange7dPct": 21.11052,
+    "priceChange14dPct": 17.76142,
+    "priceChange30dPct": 2.80776,
+    "athUsd": 4.52,
+    "athChangePct": -96.70652,
+    "circulatingSupply": 844084129.0970293,
+    "totalSupply": 958342751,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 29343,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "DYDX/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "E15vvjqVQeFPJfpnCMU5MsM67hvghX6XZfMmzarPWKLx",
+    "pairUrl": "https://dexscreener.com/solana/e15vvjqvqefpjfpncmu5msm67hvghx6xzfmmzarpwklx",
+    "lastPrice": 0.6108,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 609775799.03,
+    "fullyDilutedValuationUsd": 610806433,
+    "marketCapUsd": 610806433,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/e15vvjqvqefpjfpncmu5msm67hvghx6xzfmmzarpwklx",
+    "pairAddress": "E15vvjqVQeFPJfpnCMU5MsM67hvghX6XZfMmzarPWKLx",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "HpmGSANJfqRK7dVnFKnd7SGei8jxkLRHMucAvjcFLqNa",
+      "name": "dYdX",
+      "symbol": "DYDX"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.6108",
+    "priceUsd": "0.6108",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 609775799.03,
+      "base": 998312662,
+      "quote": 3.2032
+    },
+    "fdv": 610806433,
+    "marketCap": 610806433,
+    "pairCreatedAt": 1759916736000
+  },
+  "news": [
+    {
+      "title": "Here’s why DYDX traders are eyeing $0.20 after a 115% volume surge - AMBCrypto",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmVGRWQyeXlIR0hpbDNoQkpiOE9XSFVNLUVvTHVaY1pmUjVXc1A4T3lBQ2x4dnl2TEUyMDNvVlRGQjROTUo2eUFUWElXZHRWVWVuajJzSU9PZlBFdko0LTdfOS1JeHBZRFhDdHoxOGpqQXo4YUk5R3RyQjhBbFFQWEpDMHR2YjAxNHBOVE5OUdIBlAFBVV95cUxNbzh0RUR1dFV2bzd2bEs4VG1UME5WVUU1T3N5VUNhbUhsR1Uzc3FkakhEbTBTQjRvanI5MHlBQVBGZzAxQVItZlc4MkdwQVJfT0lYclZtc2NjdTgtcVd0V0dHU3lEYmI1RGtTRHJZYnAxX0xVZDFrZldsbHFvZEJTVzUxc3V5VVJDZXFjMnhVRWRkOXJr?oc=5",
+      "source": "AMBCrypto",
+      "publishedAt": "Tue, 23 Jun 2026 13:00:01 GMT",
+      "snippet": "Here’s why DYDX traders are eyeing $0.20 after a 115% volume surge&nbsp;&nbsp;AMBCrypto"
+    },
+    {
+      "title": "dYdX Price Prediction 2025, 2026 – 2030: Is DYDX Coin Worth A Buy? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XbzMydXJTbDdYSWJyX3VPTjVRRWxEVkZZSWQxOG5GamhQRW9UUmN6MmlrYVhVX3JxYzdWODFUekdJTXgzM3lqeFpJNEZQRDNRTmVqMC1fOFBIUVk2VDZZT0QtbC1qeW5KS3JjSHZ30gFzQVVfeXFMUE5fVVNHWEcwVVlhTE5SME9iRGh2NERsaFR0RVh1akN0YTBhYmhCUlJOR0s1a0VTb2R0ZzRTVVpYcFdWcUpJdGZoTkZMdVJsRHFER0o0VjZFSHRqVUN0VkdJdEw3SVVYQlpGMWRUdXRMTUgtYw?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Tue, 11 Nov 2025 08:00:00 GMT",
+      "snippet": "dYdX Price Prediction 2025, 2026 – 2030: Is DYDX Coin Worth A Buy?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "dYdX Sets Sights on US Market Entry by Late 2025: What This Means for Decentralized Exchanges and Crypto Traders - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUkxEcXFWZzRDMjlGbUV1YWlxa1FwRmh2Y0txc19ycG5tS29fZ1FpQ1ZMRFhwMWxER0MteGUxNnN2TnJES09XM0lwZTVOQlRGRW0wVkJldVIwUnQxTmlkVE0zclJacW83NEVHcjlIR1h4cktwT2hVQmtuR281dUM5TUVWSlgydkZQcUtSTjV0MEJtOE1PQXN4WTQwOXFMZDdvUEVBZVZwb1Badl9NWE1mWDUyWGJtTUxIMlpSeFhBUnBhRmdfd09wVTNuS2p5MTVQQ3J5ZE1lclZhSFd4eGhscHp1bXc0QQ?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Sat, 28 Mar 2026 07:00:00 GMT",
+      "snippet": "dYdX Sets Sights on US Market Entry by Late 2025: What This Means for Decentralized Exchanges and Crypto Traders&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "DYdX plans to enter US market by 2026, offer spot crypto trading: Report - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcmhLd2NJSDJYdzVaMS1rVHIyNFR0MEE5SUhINGs1b19YQnRBa0lNY2RwQnFtOVFQQ1diYkRpM0tpekxOanE4X0h5UTNMX0o5ZGNyQ2o1cVBTNmFjRGpNR2hlUHdoS0F1czdOZ0gydy1yTFNUUnhqaUZjQXo5aUhjdEVmaVhpWk5vMWRjOXU1QXhhLWRKZlNiSFd4Z2NhN09OSmZzY0E4QkFiV19aN3pscWkxUlhvT3JvdnlMd1hlaE5zc2RZU1VINWVOV19MZ3c?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "snippet": "DYdX plans to enter US market by 2026, offer spot crypto trading: Report&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "dYdX Plans U.S. Market Entry by Year-End With Spot Trading - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcktrdVlPdkZicVByTVRYOXlaUGdVWXhWdEZvYzNmZmU3b3lYY0FvcTQ3VXBhbWhJU2VRcUV2cFdXYk0tdFF3Y0ZuYXkwSTBWNDRWQXRTWXVuYzlSTEljTjVTbW1yVnduSnhTR0FNckUyVmk5STFicDJoekltbXpfX3NNVzd5ZC1sQnNEbE1oOGhRS0RCSHllc0paTUI2dUE?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 31 Oct 2025 16:45:45 GMT",
+      "snippet": "dYdX Plans U.S. Market Entry by Year-End With Spot Trading&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "dYdX Shuts Token Bridge Leaving 45,000 Holders Stuck With $25 Million - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUpnTzNxb0cwTndRZHFya0piZkJfWGhwbHEzS2NYTlNlVGw1MzBqYXRDak5ZYlVtd29QUFBqdkc1ejM1RnpqaTdHQ01NTFNCQ1RQMG5CSW9vbkE4by16N2VNamU0ekVDWDdxaUQtanQ1eEY4eC11bURqdXlnRTlXQWpDdll1bm1aT255SEVLalM4Wm8zcHd0UndFRGZidVk1YkRJWXE0ZmV1alYw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "snippet": "dYdX Shuts Token Bridge Leaving 45,000 Holders Stuck With $25 Million&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "dYdX Pass Landmark Buyback Allocating 75% of Revenue to DYDX Token Repurchases - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRUhPVHF4blpoTVRKWk5FcmpwaHlqQkFIVzBFRTBqTjFSUDRjU2Y1UE9DSi1UYlhEQ3hWRV9UTW8xN0JjRVk2RDdZcnJtakZ1TE9tM0VFLWxxc25OR0dZQkRicGx4VjRUcXlfekFaSFAwNHcwNF90SFY0cmhQNEx0Vnd3Y2hrMHRieUxBN1RaLUN1UjllOVZEYlRFTkpSREFLc2N4aDVVLUNUYjdsTHdEUDR5XzhoUQ?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "snippet": "dYdX Pass Landmark Buyback Allocating 75% of Revenue to DYDX Token Repurchases&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "DYDX tokens worth $26m stranded on Ethereum - ForkLog",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yc0R3RzJlV1ktd3BkaTA0bDVIY2hDZGxIb283ejIwLWlrUGZiLTJyaGdFcTZmTzZDR1V3TDJ6LTdUUmM3S1hlU2VQbXZyUnRvNmxnang3TktzZ2dQMXFiOGRqRGpHLXE5ekJqTThCbmc3U3Vr?oc=5",
+      "source": "ForkLog",
+      "publishedAt": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "snippet": "DYDX tokens worth $26m stranded on Ethereum&nbsp;&nbsp;ForkLog"
+    },
+    {
+      "title": "Buy Dydx: How can I Get Started in Minutes — Fast Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGpGc24xUkZMUlJDUDN0ZlZhaE5FM2NEWFNDWV9mdTQzeFpubS1RMndFQ2RtZXpNa05ESi1oQWFkRHMzRGpTemQ1dU9HNi1xYWZFdGZUb1F6Q1R4Z1FNbmU4N0l0Wl9LWlV6MjBfeVl0VHhUTmtrTUt1cXViLUNTdzFR?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Fri, 19 Jun 2026 02:39:04 GMT",
+      "snippet": "Buy Dydx: How can I Get Started in Minutes — Fast Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "How to buy Dydx with Crypto Wallet: Complete Manual - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT3U3UHBEZ1hDUDIwY0VVcEJyNHdBbXByMk1CSlllZF9fMEdEelVfTFF3NjBESXNrd3AxVWJwSm1NUUJMMDFCQUNWNDhvbEVWQ3BjS1J3cHNRdTY2b3hoWHBRV0VDaWtZdFhlQndvUDJFRndzOXpDc0p0djU3ZXBsdQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 17 Jun 2026 14:38:52 GMT",
+      "snippet": "How to buy Dydx with Crypto Wallet: Complete Manual&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Dydx Chain Manual: Value, Cheapest & How to Start - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKcjNSMXBRVVd1MF82clVIZUdnUVpiNFJaMU90Q1dEV0Y5akE5LWdLel9GVUxWVUZteW5keWtMbHVHOG1yVG9ENnhRWlpSbXFkWWN2b0RLcWZMcVJMZ05raEQwSlNmZWlVMWROVC14Q2NoNHVDd2c?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Thu, 11 Jun 2026 04:31:58 GMT",
+      "snippet": "Dydx Chain Manual: Value, Cheapest & How to Start&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Crucial Bithumb DYDX Suspension: What Users Urgently Need to Know - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vLWdWUmJmN2xYQ0o1d3RmODdrZk5FSzZqUlNURGY3Z1FzR2QxLTFpTkt4QWRWQmI5eEZVVmc5YW1zRVBETzNSRnJtNUF3UjY3eW93b1RVRVFzR3pwTWE1dnlZWQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "snippet": "Crucial Bithumb DYDX Suspension: What Users Urgently Need to Know&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "DYDX/USDC - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2S2dlVEthMnVvcjRmejNSTjdKb2YxZnN6U0Ixai12OXpHWWZGT1NFSHc4VndYa2c5bDZJRWJyY0xrZ0pCUTRhZ1BGWWFwTDNRcnBLcg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 30 Nov 2024 14:35:40 GMT",
+      "snippet": "DYDX/USDC&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "🚨Binance to Suspend DYDX ERC-20 Deposits and Withdrawals Starting February 12, 2025 – What’s Happen - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tUFRZTlFaZFNvaWFNa21CbzQ4UEhLWm5qVDk0ZnpfS1lyZXJTTEE4bk1ta2xBeThreVJOa0JoMjl6YWdFNkVKNFpVYXNFZUlfTEh2WHZFSEFZemIzM0NpM2VzSQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 11 Jan 2025 08:00:00 GMT",
+      "snippet": "🚨Binance to Suspend DYDX ERC-20 Deposits and Withdrawals Starting February 12, 2025 – What’s Happen&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Hyperliquid Market Cap Nears $10 Billion After Surpassing dYdX in Trading Volume - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xamRQTFF1SjlCN1JDcExMRnRmVnRYeXdZVlV4ckVZcmY5d0FWSko1ME45dUg4Zm9aWUdlam1Fd0RZZ21BUlNuQlBKaHptM3ZxdFlsNWV6RlRmVE93cUHSAWNBVV95cUxNSDVZOGVlZjkzNmM5eUJtckNOa2xmTEE1R0tUU0dCNDE3emRRVlBqbWJTbVNqeFhVQkhENzFpV0VRSVFUaUlBWFBXWjRlUlktb3pXWFp4bWpPaHdOT1FYMWs0YzA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 21 May 2025 07:00:00 GMT",
+      "snippet": "Hyperliquid Market Cap Nears $10 Billion After Surpassing dYdX in Trading Volume&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "DYDX Intensifies DEX Rivalry with Strategic Moves - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oR2VZVGJWc0dLa3FRWjNGVXNsUVlzQjBkc3V4THU4bUZmcnUybDlxNk1TUWhSTTNsYWtQRVNoemZ3dzNNN1NzOTc0OXk2UFdCa3lwakVObUpOb3F4SUHSAWNBVV95cUxOR1ZCSDYxcERzRDhralNTbEJHOFQtMmFpUHp2WXNUbHJQbGtWWU45V0V0UFg5MU1HZmpZT21wZEduQktseXdnV193MVRUbmxzQXJCdEZHUlhwbUlIQ1BUTDVod1k?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "snippet": "DYDX Intensifies DEX Rivalry with Strategic Moves&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
