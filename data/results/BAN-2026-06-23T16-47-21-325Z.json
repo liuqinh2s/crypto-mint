@@ -1,0 +1,255 @@
+{
+  "token": "BAN",
+  "requestedInput": "BAN",
+  "exchange": "other",
+  "generatedAt": "2026-06-23T16:47:21.325Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BAN",
+    "name": "Comedian",
+    "generatedAt": "2026-06-23T16:47:14.992Z",
+    "summary": "BAN是Solana上的Meme币，近期24小时涨幅约3.5%，但30日跌幅超21%，价格仍远低于历史高点。市值约7600万美元，流动性尚可。缺乏明确利好催化，新闻多为常规价格追踪，无重大更新。属于高波动Meme币，风险较高。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，不构成买入条件"
+    },
+    "catalysts": [
+      "Meme币社区情绪波动",
+      "Solana生态整体热度"
+    ],
+    "latestNews": [
+      {
+        "title": "Comedian Price Today in India | BAN to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格追踪，无新信息"
+      },
+      {
+        "title": "Kalshi, Hyperliquid Defy Dutch Ban as Polymarket Exit Raises Stakes - MEXC",
+        "impact": "中性",
+        "reason": "不直接相关"
+      },
+      {
+        "title": "Telegram Ban in India Hits Tap-to-Earn Crypto Games - MEXC",
+        "impact": "利空",
+        "reason": "可能影响Solana生态部分项目情绪，但间接"
+      }
+    ],
+    "fundamentals": [
+      "Solana上的Meme币，无实际用例",
+      "总供应量10亿，流通约9.9996亿，接近全流通",
+      "市值约7600万美元，排名323",
+      "上线Pump.fun生态，DEX流动性约245万美元"
+    ],
+    "marketRead": [
+      "24小时涨幅4.43%，但30日跌幅21.5%，处于下跌趋势",
+      "成交量约68万美元（quote），流动性尚可但深度一般",
+      "价格距ATH跌去80%，反弹动力不足"
+    ],
+    "risks": [
+      "Meme币高度投机，无基本面支撑",
+      "价格波动剧烈，30日跌幅大",
+      "新闻面平淡，缺乏新催化",
+      "DEX交易存在滑点和无常损失风险"
+    ],
+    "watchlist": [
+      "Solana生态整体走势",
+      "Meme币板块情绪",
+      "是否有新叙事或KOL提及"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener和CoinGecko，新闻多为聚合内容，可靠性一般",
+      "无官方团队或路线图信息"
+    ]
+  },
+  "profile": {
+    "id": "comedian",
+    "symbol": "BAN",
+    "name": "Comedian",
+    "categories": [
+      "Solana Ecosystem",
+      "Meme",
+      "Solana Meme",
+      "Pump.fun Ecosystem"
+    ],
+    "homepage": [
+      "https://comedian.meme/"
+    ],
+    "description": "",
+    "marketCapRank": 323,
+    "currentPriceUsd": 0.075523,
+    "marketCapUsd": 75800532,
+    "fullyDilutedValuationUsd": 75800532,
+    "totalVolumeUsd": 6842667,
+    "priceChange24hPct": 3.47004,
+    "priceChange7dPct": 4.98001,
+    "priceChange14dPct": 4.21431,
+    "priceChange30dPct": -21.50332,
+    "athUsd": 0.37799,
+    "athChangePct": -79.96285,
+    "circulatingSupply": 999961859.27,
+    "totalSupply": 999961859.27,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 3173,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "Ban/SOL",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "DmAsjXoceoL5vTKZbYpTpXPo7MKm16FMfNMm3PJFiUha",
+    "pairUrl": "https://dexscreener.com/solana/dmasjxoceol5vtkzbyptpxpo7mkm16fmfnmm3pjfiuha",
+    "lastPrice": 0.07638,
+    "priceChange24hPct": 4.43,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 480086.26,
+    "liquidityUsd": 2452169.08,
+    "fullyDilutedValuationUsd": 76376187,
+    "marketCapUsd": 76376187,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/dmasjxoceol5vtkzbyptpxpo7mkm16fmfnmm3pjfiuha",
+    "pairAddress": "DmAsjXoceoL5vTKZbYpTpXPo7MKm16FMfNMm3PJFiUha",
+    "baseToken": {
+      "address": "9PR7nCP9DpcUotnDPVLUBUZKu5WAYkwrCUx9wDnSpump",
+      "name": "Comedian",
+      "symbol": "Ban"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.001106",
+    "priceUsd": "0.07638",
+    "txns": {
+      "m5": {
+        "buys": 11,
+        "sells": 5
+      },
+      "h1": {
+        "buys": 244,
+        "sells": 340
+      },
+      "h6": {
+        "buys": 989,
+        "sells": 1183
+      },
+      "h24": {
+        "buys": 1769,
+        "sells": 1929
+      }
+    },
+    "volume": {
+      "h24": 480086.26,
+      "h6": 342617.34,
+      "h1": 46838.81,
+      "m5": 2289.38
+    },
+    "priceChange": {
+      "m5": 0.84,
+      "h1": 3.3,
+      "h6": 4.68,
+      "h24": 4.43
+    },
+    "liquidity": {
+      "usd": 2452169.08,
+      "base": 16070646,
+      "quote": 17737
+    },
+    "fdv": 76376187,
+    "marketCap": 76376187,
+    "pairCreatedAt": 1729868393000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/OR8mQueXtk06dMdG?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/tmgSxARndaEHZ6IA?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9PR7nCP9DpcUotnDPVLUBUZKu5WAYkwrCUx9wDnSpump?timestamp=1782233100000",
+      "websites": [],
+      "socials": []
+    }
+  },
+  "news": [
+    {
+      "title": "Comedian Price Today in India | BAN to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GamlDYk1hSUt0Mk9HY3VhRVduQ0hjT3k2R3VqWWNBUldtNHRzcTE1aEFEUWRSaXRqelZUaW9XRXZRUmZ2eTlXbmw0YkhGSTNVdmU1dWZINA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 18 Jun 2026 05:33:00 GMT",
+      "snippet": "Comedian Price Today in India | BAN to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Kalshi, Hyperliquid Defy Dutch Ban as Polymarket Exit Raises Stakes - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE50QktvV1RtUEk5SlhmMmU4OE9XYkdycjdNQkRZUk9xdTNLNGNhZTNiOUoyRGVFeFRobnEyVHdsYTdHb1ZSTDFV?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Tue, 05 May 2026 07:00:00 GMT",
+      "snippet": "Kalshi, Hyperliquid Defy Dutch Ban as Polymarket Exit Raises Stakes&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Comedian Price: BAN/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zYWpGSWNKTGhQb1RnTXRHcGZtVVBMQm45QnZub1F3ZV82bnFkZERld0sxejllZE5LeDFkdkdINGlPYmkzUnN6XzNtck56M2xhWUVONnJR?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 28 Oct 2024 03:22:45 GMT",
+      "snippet": "Comedian Price: BAN/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Comedian (BAN) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QSjRlRkFKdUZPQ0tRZjVYUGU1UFBBdnFOT1M5eHpCeVk2UEdYem94YnpIQVE2aUk4dkg1UFY4V2FJcmN2TmphZGZNLUdaVXpNcUxPQk1ZcHNYQ0dWQmR1cVUxRUZmVmVIUWc?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Tue, 29 Oct 2024 07:07:05 GMT",
+      "snippet": "Comedian (BAN) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Comedian price today, BAN to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TSU5RQUgzQUZ2NkJ0bXlnM2FYbjBweG1NbzhxbFBLSmJvVzJsZUdCeHVmVWxmSmtEUjIxaFFsZzlfSndEVm5YTnMwTVpLNEhtRXRyYU9ZNl9NQQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 11 Nov 2024 08:09:35 GMT",
+      "snippet": "Comedian price today, BAN to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Comedian Price Today - BAN Live Chart & Real-Time Market Data - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5IOWZTNHUtOW82Y3JmMHN2NVBMeTFoM1dQNW1CX09xeDNVaF9BQjBJc05wMlFzTVFqRnlHaFBZZDl2ZTVld2c?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Tue, 24 Dec 2024 16:53:56 GMT",
+      "snippet": "Comedian Price Today - BAN Live Chart & Real-Time Market Data&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "Telegram Ban in India Hits Tap-to-Earn Crypto Games - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zR1BDX0tpZEFiY0JfNElGdDZYTm5QTEpqU1B4d25LdmwxVjVlWHVzY0JVeW5McEwxS3h4THVFM041eFBaX2pPRg?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Tue, 16 Jun 2026 15:03:49 GMT",
+      "snippet": "Telegram Ban in India Hits Tap-to-Earn Crypto Games&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Is It 2022 Again? Comedian Adam DeVine Appears in Strange Ad for Crypto Exchange Bitget - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeldxemdRWDhKZzVrTjVTUG1nenI1TDV0dEhOZEJCbzdHN1BrNF9jNmRWSjJsMjBFTDM4cnJnamJlYWZYeWxLTDlza09IcGpycjFJZklndFFXNDdWeEExcnhSdXlvSjQ2RGI1LVBEVm41N2dpSWhQMGx1NVpMRDFCbXFYS0REbUpMUEZmakI5UDA4WU5wbVI1cU1SMlF3U0ZPNWtfV2pJNXpUNWpOelRZdGxlMFpkdGVwTzlsRVYzajFMdEZMeGc?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 04 Aug 2023 07:00:00 GMT",
+      "snippet": "Is It 2022 Again? Comedian Adam DeVine Appears in Strange Ad for Crypto Exchange Bitget&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
