@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-06-24T15:02:40.166Z",
+  "updatedAt": "2026-06-24T15:17:23.312Z",
   "results": [
     {
       "token": "FSX",
       "requestedInput": "FUTU",
       "name": "FUTURESYNCX",
-      "score": 10,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-24T15:02:36.896Z",
+      "generatedAt": "2026-06-24T15:17:23.310Z",
       "latestPath": "data/results/FSX-latest.json"
     },
     {
       "token": "DELLON",
       "requestedInput": "DELL",
       "name": "Dell Technologies (Ondo Tokenized)",
-      "score": 10,
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-24T15:02:40.163Z",
+      "generatedAt": "2026-06-24T15:17:22.286Z",
       "latestPath": "data/results/DELLON-latest.json"
     },
     {
