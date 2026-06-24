@@ -1,0 +1,174 @@
+{
+  "token": "FSX",
+  "requestedInput": "FUTU",
+  "exchange": "other",
+  "generatedAt": "2026-06-24T13:47:12.888Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "FSX",
+    "name": "FUTURESYNCX",
+    "generatedAt": "2026-06-24T13:47:06.450Z",
+    "summary": "FSX代币在Solana链Meteora DEX上交易，价格约0.05344美元，流动性高达5.33亿美元，但24小时交易量仅约4美元，成交量极低。项目尚未在主流CEX上线，基本面信息有限，无近期新闻。当前上涨动力不明，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "总供应量10亿枚，无流通量数据，可能未解锁或未分发",
+      "项目描述计划在MEXC、BitMart、Gate.io等CEX上市，但尚未实现",
+      "类别为DeFi和以太坊生态，但实际部署在Solana链上，存在矛盾",
+      "无团队、融资、审计等公开信息"
+    ],
+    "marketRead": [
+      "流动性极高（5.33亿美元）但交易量极低（24小时仅4美元），疑似人为做高流动性或LP池异常",
+      "价格24小时微跌0.04%，无历史K线数据，无法判断趋势",
+      "市值约5.34亿美元，但无实际交易支撑，估值严重虚高"
+    ],
+    "risks": [
+      "流动性陷阱：高流动性低交易量，可能无法顺利卖出",
+      "合约风险：未开源或未审计，可能存在后门",
+      "供应风险：总供应量10亿，但流通量为0，大量代币未解锁，未来抛压巨大",
+      "项目真实性存疑：描述与链上信息不符，无实际进展",
+      "市场操纵风险：价格可能被少数地址控制"
+    ],
+    "watchlist": [
+      "CEX上市公告（若实现可能短暂拉升）",
+      "代币解锁或分发事件",
+      "交易量是否显著放大"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener和CoinGecko，但CoinGecko无价格数据，DexScreener显示流动性异常",
+      "无新闻来源，项目社交媒体和社区活跃度未知"
+    ]
+  },
+  "profile": {
+    "id": "futuresyncx",
+    "symbol": "FSX",
+    "name": "FUTURESYNCX",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "Ethereum Ecosystem"
+    ],
+    "homepage": [
+      "https://futuresyncx.com/"
+    ],
+    "description": "We plan to list the FSX token on several reputable and growth-oriented trading platforms following its official launch. Our initial targets include MEXC Global, BitMart, and Gate.io. We are also considering listings on KuCoin, Bybit, and LBank, recognized for supporting innovative blockchain projects and strong global liquidity. Our mission is to make FSX widely available, secure, and accessible worldwide",
+    "marketCapRank": null,
+    "currentPriceUsd": null,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": null,
+    "priceChange24hPct": null,
+    "priceChange7dPct": 0,
+    "priceChange14dPct": 0,
+    "priceChange30dPct": 0,
+    "athUsd": null,
+    "athChangePct": 0,
+    "circulatingSupply": 0,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 23,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "F/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "21DJ33ijZxfL4fzfrq8Egizyf1R3TB6w7tNibeugEQWC",
+    "pairUrl": "https://dexscreener.com/solana/21dj33ijzxfl4fzfrq8egizyf1r3tb6w7tnibeugeqwc",
+    "lastPrice": 0.05344,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 533378349.52,
+    "fullyDilutedValuationUsd": 534447241,
+    "marketCapUsd": 534447241,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/21dj33ijzxfl4fzfrq8egizyf1r3tb6w7tnibeugeqwc",
+    "pairAddress": "21DJ33ijZxfL4fzfrq8Egizyf1R3TB6w7tNibeugEQWC",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "HMHsuWiykXtuh68XYNQ9451yq3MiJVqBVqebfGsasBr5",
+      "name": "SynFutures",
+      "symbol": "F"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.05344",
+    "priceUsd": "0.05344",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 3.99,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -0.04,
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 533378349.52,
+      "base": 9979999809,
+      "quote": 12.7557
+    },
+    "fdv": 534447241,
+    "marketCap": 534447241,
+    "pairCreatedAt": 1737706626000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned F for FSX; DEX profile ignored to avoid token mix-up."
+  ]
+}
