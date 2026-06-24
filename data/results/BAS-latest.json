@@ -1,0 +1,320 @@
+{
+  "token": "BAS",
+  "requestedInput": "BAS",
+  "exchange": "other",
+  "generatedAt": "2026-06-24T10:32:10.597Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BAS",
+    "name": "BNB Attestation Service",
+    "generatedAt": "2026-06-24T10:32:00.197Z",
+    "summary": "BAS是BNB链上的去中心化身份验证服务代币，近期因Binance Wallet IDO、合作伙伴Sumsub及OptiView等消息推动，价格24小时涨超20%。但代币流通仅25%，市值约9300万美元，FDV高达3.7亿美元，存在巨大解锁压力。短期资金博弈明显，建议观望。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若价格跌破0.03美元或成交量萎缩，则上涨逻辑失效。"
+    },
+    "catalysts": [
+      "Binance Wallet IDO及Booster Program吸引用户",
+      "与Sumsub合作推进Web3身份验证",
+      "OptiView合作提升跨链资产管理",
+      "代币流通开始（2025年8月19日）后市场关注度提升"
+    ],
+    "latestNews": [
+      {
+        "title": "BAS Crypto Surges +24% With Strange Wallet Movements",
+        "impact": "利空",
+        "reason": "异常钱包移动可能暗示大户出货或操纵，增加风险。"
+      },
+      {
+        "title": "Sumsub and Binance's BNB Attestation Service Partner to Streamline Web3 Identity Verification",
+        "impact": "利好",
+        "reason": "合作提升项目实用性和可信度。"
+      },
+      {
+        "title": "OptiView Collaborates with BASCAN’s BNB Attestation Service to Advance Crypto Asset Security and Cross-Chain Management",
+        "impact": "利好",
+        "reason": "扩展应用场景，增强跨链能力。"
+      },
+      {
+        "title": "Participate in the Exclusive BAS (BAS) Pre-Token Generation Event (Pre-TGE) and Booster Program on Binance Wallet",
+        "impact": "利好",
+        "reason": "Binance Wallet支持增加曝光和用户参与。"
+      }
+    ],
+    "fundamentals": [
+      "BNB链上的去中心化身份验证服务，属于DID赛道。",
+      "总供应量100亿，流通25亿（25%），剩余75亿待解锁。",
+      "FDV 3.74亿美元，当前市值0.93亿美元，估值偏高。",
+      "ATH 0.1665美元，当前0.0373美元，跌幅78%。",
+      "Binance Wallet IDO项目，有币安生态支持。"
+    ],
+    "marketRead": [
+      "24小时涨幅20%，成交量627万美元，流动性229万美元，交易活跃。",
+      "价格从0.03美元附近突破，短期动量较强。",
+      "但30日涨幅71%，已积累较大获利盘，回调风险增加。"
+    ],
+    "risks": [
+      "代币解锁压力：75%未流通，未来抛压巨大。",
+      "合约风险：DEX交易，需注意合约安全。",
+      "新闻时效性：大部分利好为2025年，近期催化不足。",
+      "异常钱包移动：可能预示大户出货。",
+      "高FDV：当前市值仅占FDV的25%，估值泡沫风险。"
+    ],
+    "watchlist": [
+      "解锁时间表及大额转账",
+      "Binance Wallet IDO进展",
+      "合作伙伴Sumsub、OptiView后续动态",
+      "价格是否站稳0.04美元",
+      "成交量是否持续放大"
+    ],
+    "sourceNotes": [
+      "数据来自CoinMarketCap和DexScreener，新闻来源包括99Bitcoins、Binance等。",
+      "部分新闻日期较早（2025年），可能已反映在价格中。",
+      "无链上持仓分布数据，无法评估筹码集中度。"
+    ]
+  },
+  "profile": {
+    "id": "bas",
+    "symbol": "BAS",
+    "name": "BNB Attestation Service",
+    "categories": [
+      "Analytics",
+      "BNB Chain Ecosystem",
+      "Decentralized Identifier (DID)",
+      "Binance Wallet IDO"
+    ],
+    "homepage": [
+      "https://www.bnbattest.io/"
+    ],
+    "description": "",
+    "marketCapRank": 273,
+    "currentPriceUsd": 0.03733107,
+    "marketCapUsd": 93359606,
+    "fullyDilutedValuationUsd": 373438423,
+    "totalVolumeUsd": 6275662,
+    "priceChange24hPct": 20.71007,
+    "priceChange7dPct": 21.35268,
+    "priceChange14dPct": 25.55195,
+    "priceChange30dPct": 71.05068,
+    "athUsd": 0.166539,
+    "athChangePct": -77.87931,
+    "circulatingSupply": 2500000000,
+    "totalSupply": 10000000000,
+    "maxSupply": 10000000000,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 2020,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "BAS/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xA341E8E8EE6BF97fA1d18c2d12F00555DC78207E",
+    "pairUrl": "https://dexscreener.com/bsc/0xa341e8e8ee6bf97fa1d18c2d12f00555dc78207e",
+    "lastPrice": 0.03733,
+    "priceChange24hPct": 20.37,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 4820014.18,
+    "liquidityUsd": 2292453.85,
+    "fullyDilutedValuationUsd": 93339345,
+    "marketCapUsd": 93348093,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0xa341e8e8ee6bf97fa1d18c2d12f00555dc78207e",
+    "pairAddress": "0xA341E8E8EE6BF97fA1d18c2d12F00555DC78207E",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0x0F0df6cB17ee5E883eddFEf9153fC6036BDB4e37",
+      "name": "BNB Attestation",
+      "symbol": "BAS"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.00006484",
+    "priceUsd": "0.03733",
+    "txns": {
+      "m5": {
+        "buys": 97,
+        "sells": 77
+      },
+      "h1": {
+        "buys": 1504,
+        "sells": 1551
+      },
+      "h6": {
+        "buys": 5416,
+        "sells": 5662
+      },
+      "h24": {
+        "buys": 10630,
+        "sells": 10985
+      }
+    },
+    "volume": {
+      "h24": 4820014.18,
+      "h6": 2637174.57,
+      "h1": 651056.54,
+      "m5": 34644.59
+    },
+    "priceChange": {
+      "m5": -0.07,
+      "h1": 1.42,
+      "h6": 19.29,
+      "h24": 20.37
+    },
+    "liquidity": {
+      "usd": 2292453.85,
+      "base": 31973248,
+      "quote": 1907.8166
+    },
+    "fdv": 93339345,
+    "marketCap": 93348093,
+    "pairCreatedAt": 1755262581000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/d95112505639b0915f9f003ab65e3dcc6259409f59cb38e95f46f1477e5fa6a8?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/f8aa170098702b7edf07bd18ce8e0727f112437946d54cf20dbec80750a70733?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x0f0df6cb17ee5e883eddfef9153fc6036bdb4e37?timestamp=1782297000000",
+      "websites": [
+        {
+          "url": "https://www.bnbattest.io/",
+          "label": "Website"
+        },
+        {
+          "url": "https://doc.bascan.io/",
+          "label": "Whitepaper"
+        },
+        {
+          "url": "https://x.com/i/communities/1894796952988197003",
+          "label": "X community"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://twitter.com/BASCAN_io",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/basbnbs",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "BNB Attestation Service price today, BAS to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vSlJrb0lhUjBWNllrOXdIa21QRFBmU3hpd2xmc2hvSjZVbVhnNmlvN3Jnay1MX3k5aVE0YS1hb2RJU2VCZllPQ2tsY0ZsekJlcVJpWmlrUkRVWk9scXpXZlJieVBrMDB5Mk1hajVn?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 17 Jul 2025 03:33:43 GMT",
+      "snippet": "BNB Attestation Service price today, BAS to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "BAS Crypto Surges +24% With Strange Wallet Movements - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX1pJQXJ2NXhOYzFxYmx1allIWHBHdnRYdjFkQXMyRXBRaDZRdHFyVXNTc0FyV2ZaaUJjLVNNVzYyc2NlM2VuR2RuVXdOYUNpczdOQ0d4c2RIT1R5WmRrdEF2MFRqU2hXcTFvQ0YtNXoyQ0pYZUVEa2NoYmJrUUtJWUt2bFNnMGlKcHBB?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "snippet": "BAS Crypto Surges +24% With Strange Wallet Movements&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "BNB Attestation Service Price | BAS Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPU1FveHlHbUc2bm9FV3A0WHFoeDAwVXpEVTVBbHJERkxMUnJ4UURLc0poZjBkMVNSOFZGRC0zTldNdFNEZk1ZcWlucG1RQVBxc0d6ZXZibF93R1UzcFdqcQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 21 Aug 2025 09:30:24 GMT",
+      "snippet": "BNB Attestation Service Price | BAS Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "BNB Attestation Service Price Today | BAS to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XaXlfbHR2ajVEUDJuYU9DQ2ItZ3VSNzFzSGd6QjdFdTNydWpMMlNVSUo2eFVlMGt6Q0QwelpsdVgwRlJBZENNcGFKRVNxekNVZE1SUGpFdENtM0hkVmRObHA3RFV4Tmc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 19 Aug 2025 21:46:01 GMT",
+      "snippet": "BNB Attestation Service Price Today | BAS to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "BNB Attestation Service Price Prediction April 2026: BAS Eyes $0.02 Breakout - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0x3cmNGUUdLTk5CNWY4b3pzb0p6SmJ6bXgxdGw4UWlvVFdvUUNjcWFMaXFxcy1SdTc1Y0duLVIxaVFFTk96Tk5CTmQyN0JRUlFTS29qZ2FwSXAtTHh6LUZCMlZKZjVBalZCUkxEY1NDTnFjVHhCMWJ6VjZDUURlbHhJVG4zaWFvdEhYNQ?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "snippet": "BNB Attestation Service Price Prediction April 2026: BAS Eyes $0.02 Breakout&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "BNB Attestation Service Price Today in India | BAS to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KQ18zeXByaS10TG0wM0lIcmU0emdsejdLdlQ3TDNUOUNZSWp6ZEVtQ1ZWTkRWdXkyYTNzcllhd1UyQ3hmVVpnNmJvU1dXTGo3VVR5eEF6Q20zazdyZ3pWV0d3QXdFRFJVQmpn?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 21 Aug 2025 02:17:57 GMT",
+      "snippet": "BNB Attestation Service Price Today in India | BAS to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "BNB Attestation Service Token Circulation Starts Aug 19 - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTkQ2UGc0d0ZHV2VCTm1hZEFHc0hzRWJaUkIwR1JVREExNDBZdk4zbHp0dE5JdVpTeWxEaGViaUxrM1NKa1FjaHJjZGo3NExibmdVczVEZWM0anNGZ1E0YlQ5dk9SV0lJNU92TkdvSkpkQ1BjX3ROMDBMOW1KM2RGaEFVS2hBUEdHTEZYa0oxVmR3UkVUOUNTODh1QVFxZkdHMVYyUG1mdXh4QQ?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Mon, 18 Aug 2025 07:00:00 GMT",
+      "snippet": "BNB Attestation Service Token Circulation Starts Aug 19&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "BNB Attestation Service (BAS) Price Prediction 2026, 2027-2030 - CoinCodex",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qYkNrNFhqeExSMExqWWxWS1JqZmRPOW45TjZtamVQTV9rVkpQWTktYlhDVS1Bc0VqVUlxME5UdnZFTi1JeVpPaERXZHJmSEJQWm9NZ2t6bVdFSVh6RXJqZ3dCczJvMHE5T20wNHNOMUFvMTNyNzZrcE93?oc=5",
+      "source": "CoinCodex",
+      "publishedAt": "Fri, 18 Jul 2025 10:44:54 GMT",
+      "snippet": "BNB Attestation Service (BAS) Price Prediction 2026, 2027-2030&nbsp;&nbsp;CoinCodex"
+    },
+    {
+      "title": "BNB Attestation Service - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52UGd6bTBlNldNSHdJb3RYeU05aDlNazY0RXRnZXNpOG9yTTlpc1lYUlFndjQ5Qy14VlN3Z2ZRS3FFOGJid29aTV9CbF94ZmVnYTBGR0IyNUE?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Wed, 06 Nov 2024 13:57:38 GMT",
+      "snippet": "BNB Attestation Service&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Sumsub and Binance's BNB Attestation Service Partner to Streamline Web3 Identity Verification - The Fintech Times",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeUVLa1VjYUJlSmZKdXNHTk5jOUt4SVdGQXZBcV9aSWdoZUx2N2V4M2dfUGlDcmZ2QmhYYWstX1lsbk1RcXdRUkZsQ3JKWnlPUDlaYUdOYTFNb0daZi10WmNvQUtUTjVheHIxZEVFRmFqQXlsMjEzS0xlSFd0bkg0c0RBWGVZUUFCUFZmdFQtaTd5S0hvdElqb3Njb25ENEhVcmtHamNIcFZyV0NJU2VIRWVFYWdXaXRzdjBsZ3VR?oc=5",
+      "source": "The Fintech Times",
+      "publishedAt": "Sat, 13 Sep 2025 07:00:00 GMT",
+      "snippet": "Sumsub and Binance's BNB Attestation Service Partner to Streamline Web3 Identity Verification&nbsp;&nbsp;The Fintech Times"
+    },
+    {
+      "title": "OptiView Collaborates with BASCAN’s BNB Attestation Service to Advance Crypto Asset Security and Cross-Chain Management - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nUDh4UkgtNkU3ZkJScFBBRFp4NjdJNHd5OFlZX09WUTlwQ1JFZVZLcF90bGxWd05nMHBkdFhyS01JMXByam9yTEVIeUJhYmllU2V2c1ZfQVI0YW5hWEHSAWNBVV95cUxOLWZSc3pBTnNybVRNZV9BTGE5RkNfeE9EdnJRVmdzdlFmUTNnY3F3aFUxR3Q1U1ozVXpZZDNuLTRsME9TQjBfa0owQWZlbEhwWW52TjU3TllydEFwclR5UzhnazA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "snippet": "OptiView Collaborates with BASCAN’s BNB Attestation Service to Advance Crypto Asset Security and Cross-Chain Management&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Participate in the Exclusive BAS (BAS) Pre-Token Generation Event (Pre-TGE) and Booster Program on Binance Wallet - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3ZPMEhKNWNMbV9QMkJsTkhPeXd2TS0wLVpKem1xLWhGYjJmcFEteFktUzBzU19DaHVxbHR6YlhlR01CZ1ZHUW93NVZPQVlMZUtiUm1LWU1BSDFUZmFreDh5VEtjRWNLNG9jbURuWHVZMjh4d294Z2hZSUtXNTJJWS1XNHIySDhqb190TWhMQkI?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 16 Jul 2025 07:00:00 GMT",
+      "snippet": "Participate in the Exclusive BAS (BAS) Pre-Token Generation Event (Pre-TGE) and Booster Program on Binance Wallet&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

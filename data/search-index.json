@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-06-24T10:17:02.471Z",
+  "updatedAt": "2026-06-24T10:32:10.604Z",
   "results": [
     {
       "token": "DELLON",
       "requestedInput": "DELL",
       "name": "Dell Technologies (Ondo Tokenized)",
-      "score": 10,
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-24T10:17:02.469Z",
+      "generatedAt": "2026-06-24T10:32:10.602Z",
       "latestPath": "data/results/DELLON-latest.json"
+    },
+    {
+      "token": "BAS",
+      "requestedInput": "BAS",
+      "name": "BNB Attestation Service",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-24T10:32:10.597Z",
+      "latestPath": "data/results/BAS-latest.json"
     },
     {
       "token": "LUMIA",
@@ -919,15 +929,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-20T02:01:23.921Z",
       "latestPath": "data/results/UNI-latest.json"
-    },
-    {
-      "token": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
-      "label": "谨慎试仓",
-      "action": "观察",
-      "generatedAt": "2026-06-20T02:01:24.353Z",
-      "latestPath": "data/results/VELODROME-latest.json"
     }
   ]
 }
