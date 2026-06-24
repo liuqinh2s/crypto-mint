@@ -1,0 +1,311 @@
+{
+  "token": "AT",
+  "requestedInput": "AT",
+  "exchange": "other",
+  "generatedAt": "2026-06-24T07:17:13.372Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AT",
+    "name": "Apro",
+    "generatedAt": "2026-06-24T07:17:05.805Z",
+    "summary": "AT近期上涨受Binance HODLer空投和AI Oracle叙事驱动，但ATH跌幅超80%，流通市值仅3400万美元，DEX流动性仅42万美元，风险极高。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若Binance不再支持或空投抛压持续，价格可能继续下跌。"
+    },
+    "catalysts": [
+      "Binance HODLer空投活动（2025年12月）",
+      "AI Oracle叙事热度",
+      "Binance Alpha Spotlight入选"
+    ],
+    "latestNews": [
+      {
+        "title": "Binance Launches APRO (AT) With 20M Token Airdrop as AT Trading Goes Live Nov. 27",
+        "impact": "利好",
+        "reason": "Binance上币和空投带来短期关注度和流动性"
+      },
+      {
+        "title": "APRO – the latest project to appear on Binance HODLer Airdrop",
+        "impact": "利好",
+        "reason": "HODLer空投激励用户持有BNB，间接利好AT"
+      },
+      {
+        "title": "Apro Token Price Crash 5 Reasons: What’s Next After $AT 35% Fall",
+        "impact": "利空",
+        "reason": "价格曾大幅下跌，显示抛压风险"
+      }
+    ],
+    "fundamentals": [
+      "项目定位：AI增强的去中心化预言机，支持161个价格喂价服务，覆盖15条区块链",
+      "投资背景：YZi Labs（前Binance Labs）投资组合，Binance Alpha Spotlight项目",
+      "代币经济：总供应量10亿，流通量2.3亿，流通市值约3400万美元，FDV约1.48亿美元",
+      "ATH 0.859美元，当前0.1485美元，跌幅82.7%"
+    ],
+    "marketRead": [
+      "24小时涨幅2.2%，7日涨幅12.7%，14日涨幅21.6%，30日涨幅24%，近期呈上升趋势",
+      "DEX流动性仅42万美元，交易量11.6万美元，深度极差，大额交易易滑点",
+      "DEX价格2.19美元与CEX价格0.1485美元差异巨大，需注意数据源一致性"
+    ],
+    "risks": [
+      "DEX流动性极低（42万美元），存在操纵和滑点风险",
+      "ATH跌幅超80%，上方套牢盘沉重",
+      "空投抛压可能持续",
+      "项目较新，基本面尚未验证",
+      "DEX与CEX价格不一致，可能存在数据问题"
+    ],
+    "watchlist": [
+      "Binance是否持续支持或推出新活动",
+      "空投解锁进度和抛售情况",
+      "DEX流动性变化",
+      "项目方合作或技术更新"
+    ],
+    "sourceNotes": [
+      "数据来源为CoinGecko、CoinMarketCap、DexScreener等公开信息",
+      "DEX价格与CEX价格差异较大，需核实数据准确性",
+      "新闻时间跨度较大（2024-2026），部分新闻可能过时"
+    ]
+  },
+  "profile": {
+    "id": "apro",
+    "symbol": "AT",
+    "name": "Apro",
+    "categories": [
+      "Infrastructure",
+      "Oracle",
+      "Ethereum Ecosystem",
+      "YZi Labs (Prev. Binance Labs) Portfolio",
+      "Binance Alpha Spotlight"
+    ],
+    "homepage": [
+      "https://www.apro.com/"
+    ],
+    "description": "APRO is building a secure platform by combining off-chain processing with on-chain verification, extending both data access and computational capabilities. This forms the foundation of APRO Data Service, improving data accuracy and efficiency while offering the flexibility to create custom solutions tailored to the specific needs of DApp businesses. APRO Data Service supports two data models—Data Push and Data Pull—that deliver real-time Price Feeds and other essential data services, ensuring comprehensive support for all DApp business scenarios. Currently, we support 161 Price Feed services across 15 major blockchain networks",
+    "marketCapRank": 575,
+    "currentPriceUsd": 0.148519,
+    "marketCapUsd": 34164792,
+    "fullyDilutedValuationUsd": 148542576,
+    "totalVolumeUsd": 4364655,
+    "priceChange24hPct": 2.20804,
+    "priceChange7dPct": 12.73215,
+    "priceChange14dPct": 21.56195,
+    "priceChange30dPct": 24.00924,
+    "athUsd": 0.85936,
+    "athChangePct": -82.73697,
+    "circulatingSupply": 230000000,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 1070,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "AT/USDT",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xa4570Dda483dd8C85a38aE8aBd0950E10483bB98",
+    "pairUrl": "https://dexscreener.com/bsc/0xa4570dda483dd8c85a38ae8abd0950e10483bb98",
+    "lastPrice": 2.19,
+    "priceChange24hPct": 0.59,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 116283.18,
+    "liquidityUsd": 422870.34,
+    "fullyDilutedValuationUsd": 434405,
+    "marketCapUsd": 434405,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0xa4570dda483dd8c85a38ae8abd0950e10483bb98",
+    "pairAddress": "0xa4570Dda483dd8C85a38aE8aBd0950E10483bB98",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0xffC066B300f51A6FbeeE81904C99b99157C9Bdeb",
+      "name": "AT",
+      "symbol": "AT"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceNative": "2.1939",
+    "priceUsd": "2.19",
+    "txns": {
+      "m5": {
+        "buys": 7,
+        "sells": 7
+      },
+      "h1": {
+        "buys": 57,
+        "sells": 52
+      },
+      "h6": {
+        "buys": 301,
+        "sells": 291
+      },
+      "h24": {
+        "buys": 1002,
+        "sells": 972
+      }
+    },
+    "volume": {
+      "h24": 116283.18,
+      "h6": 36537.35,
+      "h1": 4440.47,
+      "m5": 543.77
+    },
+    "priceChange": {
+      "h1": 0.11,
+      "h6": 0.32,
+      "h24": 0.59
+    },
+    "liquidity": {
+      "usd": 422870.34,
+      "base": 96371,
+      "quote": 211435
+    },
+    "fdv": 434405,
+    "marketCap": 434405,
+    "pairCreatedAt": 1774001018000
+  },
+  "news": [
+    {
+      "title": "Apro Price: AT/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ob3ktRU9vdHIxRnBfV1NONFNpMWxvakxwckxJRWtzTDRWeDBkLTE5NG9jb1VyMExyTnFPTlBYYjlBLVlBOEFvX01TblBNOGg3?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "snippet": "Apro Price: AT/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "APRO price today, AT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mU2FMdUV1TWo5V0lqdmRSVUt6cmcyZzc0V2ozTEltSG9Dd2N6Zjg1ZE1DU3lNOUdlYU5tb2RXMGN2amZXN1M2Q2lwdUhXLWVkOXppNQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 22 Oct 2025 08:30:16 GMT",
+      "snippet": "APRO price today, AT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "APRO Price Today | AT to ZAR Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hMjhFVFB5clRMdFRHbkhBMjBSLW5ub2licHpVRUg3VlVPNlFvZHdQZjh6eC1pRVV1U3Ixd2lfOHRRamx0UFZUM2EwZS1weS1UQ0E?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 14 Jun 2026 19:39:00 GMT",
+      "snippet": "APRO Price Today | AT to ZAR Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Unlock the Power of Apro AI Oracle—Transform Your Future Today! - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QT0JKRkIxSWplU2N0V2g4bGhVa2poZTFhN01JNUhMa2tzdFRCd0JwTUFGalJtSUExdTljaVJCOE9RZGlMdURxRldRc2tyenhsaC1tZmh6QzZKMXo0TDlRVFNR?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "snippet": "Unlock the Power of Apro AI Oracle—Transform Your Future Today!&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "APRO Price Today | AT to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyZGZ5TEM0bDNTa3RYeWo3TWJTN2c4d0wwZ2tXLU83cmRuWV9uNVJ2NnV6czRNcG1xRlU2VFduLXNBU1ZJd1U3dE5kSFVYZw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "snippet": "APRO Price Today | AT to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What is APRO (AT) Coin? Everything You Need to Know About This New AI-Powered Oracle Token - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU29IZlEwa3NFWVE1OGpJelQ5VDRsTmcyclVzbF9mei1TU1lpQzIwZkZaTjRjU05VdFhQQmxFeWFfMGtnZ082T0RUNmVYQ0ZKdGlEYlRlamM3amJsaGVlbmlSSjg5TWVvX0pzWkktTjQ0cDAwZGdOUlRUbGJaUmdBZ3VNTE1Vejh5d2lwNnk4enlhRkkwb3o0TzNqRE4zbU1yWkhhaDNWMDdhWU94MTU1NHFvR0dxZWRjSTg0OGhWTEhsREU3aEE?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Fri, 07 Nov 2025 08:00:00 GMT",
+      "snippet": "What is APRO (AT) Coin? Everything You Need to Know About This New AI-Powered Oracle Token&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "APRO Price | AT Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LcmVFR2FOa3JGdWJEUW9SOWlLdTBGMDJxVEpqY0I3XzJEeTcxWmkwZ1Q1M0c2eldtYmE1M3BNck9PTmFkUndJ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 08 Oct 2024 09:20:02 GMT",
+      "snippet": "APRO Price | AT Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "APRO: A Rising Star in AI-Enhanced Decentralized Oracles - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5weXBWZ3JHVFBzbWZFUWxmOXlraEZrWjk3OVUxMkhuLXd4b19VSWxwQWNwYUI0OURKMWtfNEhSUGNKQlQ4cDRxNEFNMmN2Qkk1WDFqQUxZUVhhczZjLXfSAWNBVV95cUxPWTEyYnZGdEZyX3BTYWZUMXVQNWNoUmo4WEpmOWROU2YwWEduM1U0eW5lNXZMUGlBTFU4SHEzRExJZ0JOanE1dzBSWXRyb05fTDRkYUp5MEphU3l0WkVsNkJIT0U?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "snippet": "APRO: A Rising Star in AI-Enhanced Decentralized Oracles&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "APRO – the latest project to appear on Binance HODLer Airdrop - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiekpKR3YtMVpiR0dYTlAxaDM1U0VKeXI5VnFGSWN0RlVFY1dwVzI0bDhTTXR1cmNudkF1N1haSFZaTTZLZjl2WWphWlZkVUp0VDhNZUt0clFxZ1FIb25VbnFzVQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "APRO – the latest project to appear on Binance HODLer Airdrop&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Launches APRO (AT) With 20M Token Airdrop as AT Trading Goes Live Nov. 27 - CryptoNinjas",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVhleklnSTI1UUVMLUd3SFMyb2VzbDNLd0xGRTZWdEtWRjVWVTVyRW1sWWY1c2EtZjhEeTQ1WkpkZFlMOTRrdmxiSnB2Z2NCUXQwS3JYYUVsZ2F6ZW9Gd1AxZ3hEZXNKSWpYSUN2UUdQRWxqWE9BVVdkRDZHVE51UG16WnRYdm5rNDJLZHd5bU01aUhHRWd0b3B6Tm8yRG1NaFJaTXl6OUxYOVBNQnJiaHlqd9IBuAFBVV95cUxQNGNuU3hmeUJER1Q1YXJIcDAtU2I0blZ3MmlLWjRqcHEyZ1FQOGtSWWtYaGNOUVhHVk9PNU9UY3dQNXNsSWdzS0JOa3VhWW1sX3J2OUZMZ2FvMlhpRjV4N2s0bjVPZDFxcmJlTVUyVENtY3ZVQ0gxZURmSVpXc0JwOGQ4T3ZlenhZMVVHQVotZktVOGhYN0NVZ2lRS1l1R3hsSnVGU3RQRXFvLURCb216RXlRTmx0Z1Jo?oc=5",
+      "source": "CryptoNinjas",
+      "publishedAt": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "snippet": "Binance Launches APRO (AT) With 20M Token Airdrop as AT Trading Goes Live Nov. 27&nbsp;&nbsp;CryptoNinjas"
+    },
+    {
+      "title": "APRO - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1qQnBITXFMWkFZQUhfUDVKenJWVFZHaEhmbTh0LVJ1T1FENUk4d0RkV0hSeDdYcHoyY0ZsaUxBZw?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Tue, 08 Oct 2024 11:21:36 GMT",
+      "snippet": "APRO&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "APRO Price Today in India | AT to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96Nmg4NUJLRklDeEo1OE4ycUhQUlJHOVM4ejNrX3htckl1MjRtaGhPaTlvVzJqNWwyRDlZcnpGLXhUMzNoQm55NVFMbFF1ZkpBQ2c?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "snippet": "APRO Price Today in India | AT to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Apro Token Price Crash 5 Reasons: What’s Next After $AT 35% Fall - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHczaGIzVG9YWjdCSkM1U1IzXzc4d1p3d1U2Y2VGSlIyemRLWlRUa0szQWZDT2hVU2VjV0lHUl8wVXZ4UTlDaXl5WmsyN1FiM0dhS1RPd25ld3pIbWprNXF5cXd0Q2FPN2ZUVmpjSW8zSEl2ZlRHTktEOVFxS003YWpuMUpDLW9ZbGVxRFBJRDFrU1ItUE0zYnREYjdGQzNabUdWTkpuek05SWdN?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "snippet": "Apro Token Price Crash 5 Reasons: What’s Next After $AT 35% Fall&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "Apro Airdrop Drops Today, $AT Predicted to Soar to $5 - HOKANEWS.COM",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSk1yWDB6UzBUcm14RDI4ZUVEa0xRWnZWTzA1LXJCLVdBNTYtNWYxY3ZDNFg0WUpWdzNZeXZJcFdGdzJJUzNRMGNJMTFweEFsMUlQSmppLXNVS05LamtpSGZ5aDAtQWllWEljX256WTZkcWRTSHRkSFJxYjJCVkthQg?oc=5",
+      "source": "HOKANEWS.COM",
+      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "snippet": "Apro Airdrop Drops Today, $AT Predicted to Soar to $5&nbsp;&nbsp;HOKANEWS.COM"
+    },
+    {
+      "title": "APRO Airdrop and Listing: Binance Alpha Launch - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSW9WQlFicWtKMzFaQTh5OXo3dnpWZFlPNXNpRkc1ZEtfdzBVMlpqcFRBQUNHS1QzZTg5WHgyZURrZGpFbXNpYWg3QVBNcUUzVGtKbWxCOTR1NzVETjhib1FxQUlxek1lRVZ0S1NFN0FGSVNmNmtUdE1hd1l6Tk0wY0xvdko0ZlFrTjBSeWJOUmp1blhEd2Zlb1VwSDgwT0xRdG5ibw?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "snippet": "APRO Airdrop and Listing: Binance Alpha Launch&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "Aster News Today: Aster’s DeFi with Privacy at Its Core: Addressing the Challenge of Trust and Transparency - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0eU9STFVJZ19hZDVWQmFaYzlBUUFRczBOTGFYMU5UZ1FJdHhvV0dRZDFVNlNaNEs0ZXQwWWNvU2N0M0pGME9FY2plMVRONTRNN19OSXA0X2NQcnhWSkE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "snippet": "Aster News Today: Aster’s DeFi with Privacy at Its Core: Addressing the Challenge of Trust and Transparency&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
