@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-06-24T07:17:14.058Z",
+  "updatedAt": "2026-06-24T07:32:17.016Z",
   "results": [
+    {
+      "token": "LUMIA",
+      "requestedInput": "LUMIA",
+      "name": "Lumia",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-24T07:32:16.841Z",
+      "latestPath": "data/results/LUMIA-latest.json"
+    },
+    {
+      "token": "DELLON",
+      "requestedInput": "DELL",
+      "name": "Dell Technologies (Ondo Tokenized)",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-24T07:32:17.014Z",
+      "latestPath": "data/results/DELLON-latest.json"
+    },
     {
       "token": "AT",
       "requestedInput": "AT",
@@ -10,16 +30,6 @@
       "action": "观察",
       "generatedAt": "2026-06-24T07:17:13.372Z",
       "latestPath": "data/results/AT-latest.json"
-    },
-    {
-      "token": "DELLON",
-      "requestedInput": "DELL",
-      "name": "Dell Technologies (Ondo Tokenized)",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-24T07:17:14.056Z",
-      "latestPath": "data/results/DELLON-latest.json"
     },
     {
       "token": "RIF",
@@ -918,15 +928,6 @@
       "action": "观察",
       "generatedAt": "2026-06-20T02:01:24.353Z",
       "latestPath": "data/results/VELODROME-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "name": "Hyperliquid",
-      "score": 65,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-20T02:01:25.465Z",
-      "latestPath": "data/results/HYPE-latest.json"
     }
   ]
 }
