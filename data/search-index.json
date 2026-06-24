@@ -1,14 +1,24 @@
 {
-  "updatedAt": "2026-06-24T16:32:09.274Z",
+  "updatedAt": "2026-06-24T16:47:33.329Z",
   "results": [
+    {
+      "token": "BRKB",
+      "requestedInput": "BRKB",
+      "name": "Berkshire Hathaway Class B",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-24T16:47:32.049Z",
+      "latestPath": "data/results/BRKB-latest.json"
+    },
     {
       "token": "DELLON",
       "requestedInput": "DELL",
       "name": "Dell Technologies (Ondo Tokenized)",
-      "score": 5,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-24T16:32:09.271Z",
+      "generatedAt": "2026-06-24T16:47:33.327Z",
       "latestPath": "data/results/DELLON-latest.json"
     },
     {
@@ -923,15 +933,6 @@
       "action": "观察",
       "generatedAt": "2026-06-20T03:03:05.216Z",
       "latestPath": "data/results/STXSTOCK-latest.json"
-    },
-    {
-      "token": "ETN",
-      "name": "Electroneum",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-20T03:03:09.658Z",
-      "latestPath": "data/results/ETN-latest.json"
     }
   ]
 }

@@ -1,0 +1,115 @@
+{
+  "token": "BRKB",
+  "requestedInput": "BRKB",
+  "exchange": "other",
+  "generatedAt": "2026-06-24T16:47:32.049Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BRKB",
+    "name": "Berkshire Hathaway Class B",
+    "generatedAt": "2026-06-24T16:47:27.137Z",
+    "summary": "BRKB是伯克希尔哈撒韦B类股，非加密货币，在传统股票市场交易。由于数据来源限制，无法获取实时行情和深度信息。近期无重大催化剂，股价波动主要受公司基本面及市场情绪影响。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "无明确逻辑，不适用"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "BRKB 260618 575.00P (BRKB260618P575000) Stock Options Chain | Quotes & News - Moomoo",
+        "impact": "中性",
+        "reason": "期权链信息，反映市场预期，但无明确方向性信号。"
+      },
+      {
+        "title": "Berkshire Hathaway - BRKB - Stock Price & News - The Motley Fool",
+        "impact": "中性",
+        "reason": "常规股价与新闻页面，无特殊催化。"
+      }
+    ],
+    "fundamentals": [
+      "伯克希尔哈撒韦是一家多元化投资控股公司，由沃伦·巴菲特管理。",
+      "B类股（BRKB）流动性好，适合普通投资者。",
+      "公司持有大量现金及股票投资组合，业绩与美股市场高度相关。"
+    ],
+    "marketRead": [
+      "由于数据限制，无法获取实时行情。",
+      "通常BRKB交易活跃，但近期无异常波动迹象。"
+    ],
+    "risks": [
+      "非加密货币，不适用链上分析。",
+      "依赖传统金融市场，受宏观经济和美股大盘影响。",
+      "数据来源受限，无法提供准确的技术分析。"
+    ],
+    "watchlist": [
+      "伯克希尔季度财报",
+      "巴菲特持仓变动",
+      "美股大盘走势"
+    ],
+    "sourceNotes": [
+      "数据来源为Binance API，但返回451错误（地区限制），无法获取行情。",
+      "新闻来自Google News，时效性一般。",
+      "本分析基于有限信息，不构成投资建议。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "BRKBUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BRKBUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BRKBFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BRKBFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BRKBUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BRKBUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BRKBBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BRKBBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "BRKB 260618 575.00P (BRKB260618P575000) Stock Options Chain | Quotes & News - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQU20yTVVramxDV1JXUm1fOTZMQlBVU1plMmhBYkxPdU1hekZCUWlNZ0NvcXY5LTZWWW9wOVJLZlpHNEdaclRkTlM5SjJMNHZwQXRpckw2Vy1NVGhVSWs0VjFsZG1mX1JmR2tNaXVvSmc0aWJldjV4SFhYTFpxUzJTVjdxWXl3ZmtHMW56OV9IQzFrTmtiZXdyc3c4c1ZXSkVfQWFBQTFjMXdjVUJsbUtERmt4UXBWSnFLV1dqZUZwUUNHbFU0SE53RV9GMlVqcFdCczdObjI1N0dpeHJ4Q3czYVBKdlNLTHF1WkxlVXY3OXpLRGJLbmRIeG1EUVpVTkE3QUdZTVJNeVFWZjdvdU5pTU1iYS1ROHVwU1A0cU9IUDNaZWRnZVp4RFA4UlAzcko0Y0U1bVhsR3g3STZBdGhKaXEwRW9YZzFTd09ZY2dZTjBJYnFGMlYwcDEwa3RmQzVCcmlxUmU4aw?oc=5",
+      "source": "Moomoo",
+      "publishedAt": "Fri, 19 Jun 2026 03:41:10 GMT",
+      "snippet": "BRKB 260618 575.00P (BRKB260618P575000) Stock Options Chain | Quotes & News&nbsp;&nbsp;Moomoo"
+    },
+    {
+      "title": "Berkshire Hathaway - BRKB - Stock Price & News - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45T1FkRHZNZzRsbGZuU09rcERZc3BPYmN0WGZveVEybVZ0R2J6empGaUN6clBiM1Qxd0gzT0tPZ0RTUVJwWWV2M0FCN2lPdw?oc=5",
+      "source": "The Motley Fool",
+      "publishedAt": "Tue, 10 Feb 2026 16:24:55 GMT",
+      "snippet": "Berkshire Hathaway - BRKB - Stock Price & News&nbsp;&nbsp;The Motley Fool"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
