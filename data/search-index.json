@@ -1,14 +1,24 @@
 {
-  "updatedAt": "2026-06-24T00:32:08.029Z",
+  "updatedAt": "2026-06-24T00:46:54.297Z",
   "results": [
+    {
+      "token": "OPG",
+      "requestedInput": "OPG",
+      "name": "OpenGradient",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-24T00:46:54.294Z",
+      "latestPath": "data/results/OPG-latest.json"
+    },
     {
       "token": "DELLON",
       "requestedInput": "DELL",
       "name": "Dell Technologies (Ondo Tokenized)",
-      "score": 15,
+      "score": 20,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-24T00:32:08.027Z",
+      "generatedAt": "2026-06-24T00:46:54.295Z",
       "latestPath": "data/results/DELLON-latest.json"
     },
     {
@@ -915,15 +925,6 @@
       "action": "观察",
       "generatedAt": "2026-06-20T01:15:36.876Z",
       "latestPath": "data/results/LUMIA-latest.json"
-    },
-    {
-      "token": "BICO",
-      "name": "Biconomy",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-19T23:23:56.294Z",
-      "latestPath": "data/results/BICO-latest.json"
     }
   ]
 }

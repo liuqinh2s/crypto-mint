@@ -1,0 +1,321 @@
+{
+  "token": "OPG",
+  "requestedInput": "OPG",
+  "exchange": "other",
+  "generatedAt": "2026-06-24T00:46:54.294Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "OPG",
+    "name": "OpenGradient",
+    "generatedAt": "2026-06-24T00:46:45.705Z",
+    "summary": "OPG近期因Upbit上线和AI叙事回暖而大涨，但当前链上流动性极低（仅约1万美元），价格发现不充分，风险极高。项目基本面尚可，但估值（FDV约1.8亿）偏高，且大量代币未解锁。建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性持续低迷或价格跌破近期低点"
+    },
+    "catalysts": [
+      "Upbit上线（6月15日）带来交易量和关注度",
+      "AI赛道整体回暖，OpenGradient作为AI基础设施概念受追捧",
+      "Binance HODLer空投预期（3.2M AI推理量）",
+      "空投注册门户开放，4%总供应量分配"
+    ],
+    "latestNews": [
+      {
+        "title": "Upbit Lists OpenGradient (OPG) Amid Renewed AI Token Demand",
+        "impact": "利好",
+        "reason": "韩国头部交易所上线带来流动性和新用户"
+      },
+      {
+        "title": "OpenGradient’s OPG Eyes Binance HODLer Airdrop as 3.2M AI Inferences Surge",
+        "impact": "利好",
+        "reason": "可能获得币安空投，提升代币价值"
+      },
+      {
+        "title": "OpenGradient Launches OPG Airdrop Portal with 4% Total Supply Allocation",
+        "impact": "利好",
+        "reason": "空投活动吸引用户参与，增加持有者"
+      },
+      {
+        "title": "VIRTUAL AI Linked OpenGradient Just Skyrocketed +500%: Is it AI Szn?",
+        "impact": "中性",
+        "reason": "媒体报道放大涨幅，但可能过度炒作"
+      }
+    ],
+    "fundamentals": [
+      "OpenGradient是去中心化AI推理网络，作为AI协处理器运行",
+      "支持TEE和zkML证明，验证节点共识确认",
+      "已部署在BNB Chain、Mantle、Base等生态",
+      "总供应量10亿，流通量1.9亿（19%），剩余未解锁",
+      "FDV约1.8亿美元，市值约3400万美元"
+    ],
+    "marketRead": [
+      "24小时涨幅10%，7日涨幅12.6%，但30日跌幅21.7%",
+      "链上（PancakeSwap）流动性仅1万美元，交易量极低，价格容易被操纵",
+      "Upbit上线后成交量激增，但链上数据反映的流动性不足",
+      "价格从ATH 0.4759美元下跌62%，目前0.1796美元"
+    ],
+    "risks": [
+      "链上流动性极低（1万美元），大额买卖可能导致滑点巨大",
+      "代币解锁压力：81%代币未流通，未来解锁可能稀释价格",
+      "AI赛道热度波动大，叙事退潮后价格可能快速回落",
+      "合约风险：PancakeSwap上的交易对可能存在假币或流动性陷阱",
+      "Upbit上线后短期涨幅已部分兑现，追高风险高"
+    ],
+    "watchlist": [
+      "Upbit交易量变化及是否上线更多CEX",
+      "Binance HODLer空投进展",
+      "链上流动性是否改善",
+      "代币解锁时间表",
+      "AI赛道整体情绪"
+    ],
+    "sourceNotes": [
+      "链上数据来自PancakeSwap，流动性极低，价格参考意义有限",
+      "新闻来源为Google News聚合，部分为自媒体，需甄别",
+      "项目基本面信息来自CoinGecko和项目官网"
+    ]
+  },
+  "profile": {
+    "id": "opengradient",
+    "symbol": "OPG",
+    "name": "OpenGradient",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "Infrastructure",
+      "BNB Chain Ecosystem",
+      "Mantle Ecosystem",
+      "Base Ecosystem",
+      "Binance Alpha Spotlight",
+      "Binance Wallet IDO"
+    ],
+    "homepage": [
+      "https://www.opengradient.ai/",
+      "https://opengradient.foundation/"
+    ],
+    "description": "OpenGradient is the Network for Open Intelligence — a decentralized infrastructure network designed to host, inference, and verify AI models at scale. Rather than functioning as a standalone blockchain, OpenGradient operates as a specialized AI coprocessor: it enables applications, blockchains, and autonomous agents to outsource computationally-heavy AI tasks to a dedicated network of GPU and Trusted Execution Environment (TEE) nodes. The validator set verifies every computational proof (TEE attestation or zkML proof) at the consensus level before it is committed on-chain, enabling trustless usage of AI from any network or application.",
+    "marketCapRank": 574,
+    "currentPriceUsd": 0.179631,
+    "marketCapUsd": 34126070,
+    "fullyDilutedValuationUsd": 179610896,
+    "totalVolumeUsd": 47600683,
+    "priceChange24hPct": 10.13227,
+    "priceChange7dPct": 12.66063,
+    "priceChange14dPct": 20.00874,
+    "priceChange30dPct": -21.66672,
+    "athUsd": 0.475875,
+    "athChangePct": -62.36533,
+    "circulatingSupply": 190000000,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 66.67,
+    "watchlistUsers": 1899,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "OPG/USDT",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x5bd2434844F927B2B61BEc675B68C54994B54821",
+    "pairUrl": "https://dexscreener.com/bsc/0x5bd2434844f927b2b61bec675b68c54994b54821",
+    "lastPrice": 0.0001072,
+    "priceChange24hPct": 0.22,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 33.81,
+    "liquidityUsd": 10535.97,
+    "fullyDilutedValuationUsd": 5364,
+    "marketCapUsd": 5364,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x5bd2434844f927b2b61bec675b68c54994b54821",
+    "pairAddress": "0x5bd2434844F927B2B61BEc675B68C54994B54821",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x99cC13Cd7C46272080D7d382F7D4f45fac05d7a6",
+      "name": "OPG",
+      "symbol": "OPG"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceNative": "0.0001072",
+    "priceUsd": "0.0001072",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 33.81,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": 0.22
+    },
+    "liquidity": {
+      "usd": 10535.97,
+      "base": 49106594,
+      "quote": 5267.9888
+    },
+    "fdv": 5364,
+    "marketCap": 5364,
+    "pairCreatedAt": 1781679347000
+  },
+  "news": [
+    {
+      "title": "OpenGradient Price: OPG/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VVE1NZ2NIcXRhT0xoNFRaSmR5dGhfak5QM1lNai16VEZKdkpBU2UzNzNpWXpHaXJtaEc4VGpUOFFzYzVFNUU0bEV3SDNrdHVHM2JMd1lQTlY5NWM?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 16 Apr 2026 15:47:55 GMT",
+      "snippet": "OpenGradient Price: OPG/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "OpenGradient Price Today | OPG to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LcXBWQkprcE04M0JjdHAwdk42VE5nREhhOHo5bzZWMVJULVI4OUh4b01uSXVSenViYXp3Tko1eWtXRTYySXV5TFBnLUtqLXFnMDgybzdRbFVwcU9J?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 19 Jun 2026 00:54:00 GMT",
+      "snippet": "OpenGradient Price Today | OPG to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "OpenGradient price today, OPG to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uOFRGaTgxelZPeFFlWVJKdmVSQXNYY1A5RXRlQkIzREJjSHdLTHVuTGhnb2JHWlhBSG1sODUzekc2SThuWFhJbnhjNUpQM3lDaG1jWktTZ3ZBNXdsaXJj?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 23 Mar 2026 17:07:57 GMT",
+      "snippet": "OpenGradient price today, OPG to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "OpenGradient price today, OPG to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jYUItbEI4U1RxZDRHMmRpeTdLMEw1c3lTcEhDM0E1TWFyZWxUOElSa3gwN2dLX0l4WlpPNjlXc2NyZ000cFVBTG03SWYtRTRjc0ZzMGhR?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sun, 26 Apr 2026 12:03:33 GMT",
+      "snippet": "OpenGradient price today, OPG to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "OpenGradient’s AI token to debut in Binance Wallet and PancakeSwap TGE - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM1dLYjhaenNmX2xPTmRtT3YzYVJiZEVXTU1WYmhxNzFGbjJpQUhjRmpLVXFmcVpTWjhJTm5HVjZST3B4b29fWmlhb0N3RHpyYlhVUlo0cmE2UnZHa3lUOUtwaTBTUUtENlVQYTdqWW1sUWJEcFhieWVYRjZDR2IwTUJjUmZlLUI3M3BRNVBPNFptWk9K?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "snippet": "OpenGradient’s AI token to debut in Binance Wallet and PancakeSwap TGE&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "OpenGradient Price, OPG Price, Live Charts, and Marketcap: opg crypto, 0xfbc2051ae2265686a469421b2c5a2d5462fbf5eb, opg cryptocurrency news articles - Coinbase Australia - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNU1YUEowNXlFZUZKUzctZF96UEJsaU04UXRVaVVLc0pFNFlvOHN0bFpLdGZMcHZLVXcxZk43b3NhdmdtZF9lTC1GdDJlaTQtMEM5akgyZzBOV2R4UjY1bkpZY2RhXzFKRWJhYldlS1RneWJDb0tvcWoxcHBieHQzS05GaUFqZlhHN0FrU3VyZnQtNEtRc3VZUWhkUEc5QQ?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Sat, 18 Apr 2026 11:21:06 GMT",
+      "snippet": "OpenGradient Price, OPG Price, Live Charts, and Marketcap: opg crypto, 0xfbc2051ae2265686a469421b2c5a2d5462fbf5eb, opg cryptocurrency news articles - Coinbase Australia&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "VIRTUAL AI Linked OpenGradient Just Skyrocketed +500%: Is it AI Szn? - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RMFZpQ3lYUEItR3JCNW5KY0ZqQzh5S19LQkJRbFVwWE0xZE83SG1BUm9YdmVlaUI5ZUd0UUREcXNrUXpvMEJHZGEyc0UyZ0UwODJLLVhScFZXQlBiT0VoMlU2S20xa1dzYUUxNEVEdFFHTl9fTE1OSUJ3WXFTdw?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "snippet": "VIRTUAL AI Linked OpenGradient Just Skyrocketed +500%: Is it AI Szn?&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "OpenGradient (OPG) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3eElZNEVKcUdjVVZtMXdVbnBXSWtkQ3NqQ0d0YWdUX05FTEFtbFVMNVA3aFhRaTUyb3J4cjdrVzlvS3REMVdNdnlaRnBlSnM?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 10 Oct 2024 09:56:43 GMT",
+      "snippet": "OpenGradient (OPG) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Upbit Lists OpenGradient (OPG) Amid Renewed AI Token Demand - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS2o4TnF2bjFDaW9iLTJCdWNrNkNlV3p1NnpRa3J3QWdxWnBEN3FwYklWTzlqdWxmaFRxMW9DdTQ1LVpMV1JDUEZOTDdpWC1QNjhmd2s2SElMT0NaZUlnbHU3X2RDQW9IbUwwbkhoaHp1RGotVDl6T2Rwb3pQNU43NmprYnJCb0JwTGJYN1JFZk9WeHZQa2c?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Mon, 15 Jun 2026 07:00:00 GMT",
+      "snippet": "Upbit Lists OpenGradient (OPG) Amid Renewed AI Token Demand&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "OpenGradient Launch Date Live on Upbit Exchange Today - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYm9IMTlLQUkzTFhvSjdfczZRbGx6VklkY2JsUDNacW9sMlRXVl9RWVM2YzJfaDFhSnVLRTNaSWNwVDMwcVF0WnNXT0dRaEpnM3FYNDJ4aFNPcFJ1OUxKLW5Sa2VXb2c5MnA4VFhyMENDTDhFZUpEWEhsSUw5V19LOWx3cDd5ZjZ5aVpwUVFXWmdvb2llN0pwVXg0aFBoUERkNkVXelJoMHUwaFBDcmFz?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Mon, 15 Jun 2026 12:00:00 GMT",
+      "snippet": "OpenGradient Launch Date Live on Upbit Exchange Today&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "OpenGradient Airdrop Claim, $OPG Launch and Aster Perp Listing Deatils - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQamFxSWdHZEFjVG1sSVphcExoeUJSckxCZVk4NGxyRzJLNWN0S2NyVVY5Umstb3dTZDQ5X3lmTGlQa054bUk5NjNGU3NNSk1lOEZfMUZiV1ZObnlCU0wyR2hiZUFfb3kyWEtBQlM4R2lGdkRSWnl4cWx4YlF5NmJLUlhqRjZaTUtmOVAwSS1BV00yR3RmcUZvMm93TS1mZ19TTDZnd19taVY?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "snippet": "OpenGradient Airdrop Claim, $OPG Launch and Aster Perp Listing Deatils&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "OpenGradient Upbit Listing Shock: OPG Volume Explodes 600% in Liquidity Frenzy - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yT3l6OFB5UktRQ1V6TUhBWUdEYTNybU1tLWg0Wi1Ic3dPR19BR2hYZE9wWmpuVlNjRTZXTHpQclJRV1NhT0RqWA?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Mon, 15 Jun 2026 07:00:00 GMT",
+      "snippet": "OpenGradient Upbit Listing Shock: OPG Volume Explodes 600% in Liquidity Frenzy&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "OpenGradient’s OPG Eyes Binance HODLer Airdrop as 3.2M AI Inferences Surge - CryptoNinjas",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2J1a1FhWVhWVm1Wa2xYbW1jRlE0ekptUlgwMC01bU8zTnZtVE1OaVoxWkNScC1DYmlfeEFmcFZ1SlVuaVc2LUc4aDhzOGVmRnlDeFNWWjliOGh4MGJYMm9VMzY1NWVTaWNNSm05ck85RmJSUmtDbzRHMl93enZWenI1cFA3VUE3SnAtZGdLU0NKcXAtQk9RVk9vVUZaMU9LcjRVVTNNOWdxSHhW0gGyAUFVX3lxTFBLNm92QnJNakllbHhreWFFcmpKUzdESTNSR0JpWm1nUUp5bHBmeW5vU1JCaUwyeGcxSGwyUUhOeWVVcVA5MXdleXRaVlFOU2QwRHNmaWs3WTFXY0tnckZoQ05MS1dXOEFNc3ppOUY5NUJ5bzU5WVR3YnJLQWxYaXFPazZQdXd2MjBva24ybndtY2RNbndUQVQzMGZGUS1LRFZ1QXdLcWpWZE9pdFBtcGpzZkE?oc=5",
+      "source": "CryptoNinjas",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "OpenGradient’s OPG Eyes Binance HODLer Airdrop as 3.2M AI Inferences Surge&nbsp;&nbsp;CryptoNinjas"
+    },
+    {
+      "title": "OpenGradient Launches OPG Airdrop Portal with 4% Total Supply Allocation - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVGpObkxvWG9UWktTMnd0WjRKdzZQTnllV3VhbXZ3NEJQUDgtOVlnRUNQVU1hdFB5NUtZalRGMC1DU0YxWGVXRWd4RlRTZC1DdzFHREx1aENKUkhNMC1DbTVuYmpPMEkySnNkNnR2WGF0QlZsT2JpWEtub3cyZ2ZQSDl5bjZWaERGUzZwMGZ0VkFwLVdIbjE3R09HQ3dZNDNOUldsb21IX3U?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "OpenGradient Launches OPG Airdrop Portal with 4% Total Supply Allocation&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "OpenGradient launches OPG token airdrop registration portal, with 4% of the total supply allocated for the airdrop - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DOU1nbGxMdm5RT0VRU3ExcWZqMmxDakJkSDdvU083TndxaDlZSl9Mc1kyMVl4UkhuYnFMRUpVdk14UUxLODVFYnVLSlZqZEdvT1A5TWpTN0hnWmE2OWRFcE9VaF_SAWpBVV95cUxPRjlydUhRdVZ5YWd0eExtaUNPVzhVc2czM0hNMDFpTG5Hc2Q5cy1zT216ZnNQZjBBOVBJRTRPdUhJQUpIWExzeG4tcjJrWlA0elNSRC1Tbm1sVzA2TllfUG5CeVFsX0d3Y1N3?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "OpenGradient launches OPG token airdrop registration portal, with 4% of the total supply allocated for the airdrop&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Upbit lists OpenGradient token for trading on June 15 - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjUmZFTlpCYndJOWZfSHY0eXRHem5GVWVlUS1uREpTQl9JVjNGZHJ1VG9rclZ2dGhiSHludDRlUm1Rb3JISUV3Qml4TC1Xb1RHWFRQOFdrTDRJenFBVFNwMWg1eklPVkxCdDM2ZHl6TQ?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Mon, 15 Jun 2026 10:28:44 GMT",
+      "snippet": "Upbit lists OpenGradient token for trading on June 15&nbsp;&nbsp;Crypto Briefing"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
