@@ -1,0 +1,230 @@
+{
+  "token": "G",
+  "requestedInput": "G",
+  "exchange": "other",
+  "generatedAt": "2026-06-24T16:02:40.704Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "G",
+    "name": "Gravity (原Galxe)",
+    "generatedAt": "2026-06-24T16:02:30.820Z",
+    "summary": "G代币是Galxe品牌升级为Gravity Chain后的原生代币，已于2024年7月完成从GAL的迁移。近期新闻多与Playnance的G Coin混淆，但实际Gravity项目基本面稳定，有Binance支持，但市场数据缺失，无法判断短期涨跌。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3个月",
+      "invalidation": "若出现重大安全事件或团队变动，或市场数据持续不可得"
+    },
+    "catalysts": [
+      "Galxe品牌升级为Gravity Chain，生态扩展预期",
+      "Binance支持G代币交易、理财、杠杆等产品",
+      "Playnance的G Coin新闻可能带来混淆性关注"
+    ],
+    "latestNews": [
+      {
+        "title": "Bitcoin price action retests $75k as G Coin by Playnance enters the utility-token conversation",
+        "impact": "中性",
+        "reason": "新闻提及的G Coin是Playnance项目，与Gravity无关，但可能造成市场混淆"
+      },
+      {
+        "title": "Playnance introduces G Coin as token economy for its blockchain gaming ecosystem",
+        "impact": "中性",
+        "reason": "Playnance的G Coin与Gravity无关，但同名可能吸引误认的买盘"
+      },
+      {
+        "title": "Binance Will Support the Galxe (GAL) Token swap, Redenomination, and Rebranding to Gravity (G)",
+        "impact": "利好",
+        "reason": "Binance官方支持迁移，增加流动性和可信度"
+      },
+      {
+        "title": "Binance Alpha Will Remove WIZARD, SHOGGOTH, G, FWOG, UFD, BRIC, UPTOP, PORT3, XNAP, MORE, BOMB, BOOST (2026-01-29)",
+        "impact": "利空",
+        "reason": "G代币从Binance Alpha下架，可能减少曝光和交易量"
+      }
+    ],
+    "fundamentals": [
+      "Gravity是Galxe品牌升级后的L1区块链，G为原生代币",
+      "2024年7月完成从GAL到G的1:1迁移，Binance支持兑换",
+      "Binance上线G交易对及理财、杠杆产品",
+      "Playnance的G Coin是独立项目，与Gravity无关"
+    ],
+    "marketRead": [
+      "由于API限制，无法获取实时行情数据",
+      "历史新闻显示G代币曾在Binance有交易，但近期市场数据缺失"
+    ],
+    "risks": [
+      "同名代币混淆风险：Playnance的G Coin可能分散注意力",
+      "市场数据不可得，无法评估当前价格和流动性",
+      "从Binance Alpha下架可能暗示关注度下降"
+    ],
+    "watchlist": [
+      "确认Gravity生态发展进度",
+      "监控Binance上G的交易量和价格",
+      "区分Gravity与Playnance G Coin的新闻"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取市场数据",
+      "新闻中部分提及G Coin实为Playnance项目，需仔细甄别",
+      "Gravity项目基本面信息来自2024年Binance公告"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "GUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "GFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "GUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "GBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "Bitcoin price action retests $75k as G Coin by Playnance enters the utility-token conversation - CryptoSlate",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDJEOGFHOXAwb3NjMkV3Ukl2V2tyT0FuVlRwMDZHSVA2dUM1eDIxQ2FJUWw0QnVwRGdQNGhyRGx1QWJ2UTZ0Q0l2SXlpenI1eDl6TEJzYnA3eGhPQXVBMHJHQW1CUndBakJJOEdxZzBjaGNwdk0tSUVhUzBxN2IxMnlrY1JPd0RSZ2QwbkwtRThlaUN6bnpXV01sR0dJWGtlYTlZVEdJLWt3ampWY2x1d2todFFEMDNtV3c?oc=5",
+      "source": "CryptoSlate",
+      "publishedAt": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "snippet": "Bitcoin price action retests $75k as G Coin by Playnance enters the utility-token conversation&nbsp;&nbsp;CryptoSlate"
+    },
+    {
+      "title": "Playnance introduces G Coin as token economy for its blockchain gaming ecosystem - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaHBrQVE4N2dEaHFFazJFdnhlUkppaXI0bVF0eFJtZHZmR0w0amYzekRTTGVKem4wQXgzTXVxWDhVQVZja3l2aDNzaXI5UHFIRFJ2b0Z3VU55RTEtd3BrUU44aXNyYjBnd3dwUmgzaU11SnphcFF2bVo1NjM2QXJTUHFJeF9tcWExTHNLMTBlTnlNdExaXzNKd01GZEhNMWhTa1Br?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "snippet": "Playnance introduces G Coin as token economy for its blockchain gaming ecosystem&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Litecoin Price Surges 6.5% This Week, playnance gears up for G Coin TGE on March 18 - DailyCoin",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcTg5aFVDTlZobW1jOTM2aXFUT3ZqbnN2WGNuZGVJODlIRXJ6R1JVeVlRUUQzWERoU0VGZVAzV2xES3pzdjgxY2V2VXhIaGZ3LWNRb1p2anlfa1hIMFZjV1Q5OWx4Y0lQbVBMbEI5OVJEOTlnUHhOSUE5NTFXV3NFUnZKZE96Wkxrd0txZUZQRlFXeFphTi1UeWIwVlJVRmdSbnpCajJuQQ?oc=5",
+      "source": "DailyCoin",
+      "publishedAt": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "snippet": "Litecoin Price Surges 6.5% This Week, playnance gears up for G Coin TGE on March 18&nbsp;&nbsp;DailyCoin"
+    },
+    {
+      "title": "G Coin Price | GCOIN Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JNE5rS3Y0TWNCcTVUSlk0ZXF3Ulg3MUZCQ01aVzZpMVBqRExsSXM3SDQtTGxUYldQdTNSSUhuZTZHMUNDV2tDTXVB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 18 Mar 2026 16:11:09 GMT",
+      "snippet": "G Coin Price | GCOIN Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Playnance’s G Coin turns launch week into a real-time growth test - CryptoSlate",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHRTbm5VaWdfNkpTbEpZdzl4UzU5c0l6U0lYMGpVbmtaaEt6WDV1b0xfTnd5RDJreXFYdDhPVFR2a2lSSGRHUnFKNWNqQWoyVjJGX0ZpcWFMMERRWU9EclhlVDBMWUVtU1hNV1o3aXR6ZE54R3dPTDNjMHZRNmJtQk83aDN5ZWFSdUwzcy1kTTNmYkU?oc=5",
+      "source": "CryptoSlate",
+      "publishedAt": "Sat, 21 Mar 2026 07:00:00 GMT",
+      "snippet": "Playnance’s G Coin turns launch week into a real-time growth test&nbsp;&nbsp;CryptoSlate"
+    },
+    {
+      "title": "Gravity price today, G to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtUHdlaUxBRF9RNUVjNmFkTzdoZS1qVDZRYXFiNmpIYzQtbm84anY0UEk5MXYyUDBLSlFnaVRxa3B6QW9DSEQ2eDF6MGVNcWhoZjFrb2ZuMS1YTXh2MWdteg?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 05 Jul 2024 18:28:40 GMT",
+      "snippet": "Gravity price today, G to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "BTC Price Retracts Below $70K but Resistance Holds as playnance’s G Coin Enters a New Phase Post-TGE - DailyCoin",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeS1iVmpiTFg1VkhkbDNLTTlmS0pPVnkzV2hFRTBhYmNpR3d4dWFKbmp3TFFKZlNCZENfT1JndDJrdkhGcGpGZzR2bGcwbTA5WVd1ekZVd2JWdS0xT2NRUGZBUlg2ZHhzc3JxQV82S1B1SGxWbTBwTFozb1plcnRla0I5RXVnSXRNR0dpMEZ1NEVnbm1sRHVEY2gxTHIyLWttSkdHY21kZEl1cEYwYTV5TGFOTWhmYkhtTjgwRURn?oc=5",
+      "source": "DailyCoin",
+      "publishedAt": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "snippet": "BTC Price Retracts Below $70K but Resistance Holds as playnance’s G Coin Enters a New Phase Post-TGE&nbsp;&nbsp;DailyCoin"
+    },
+    {
+      "title": "Gravity Price | G Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wMDVYRFBIMDlrZ2RCY0luNkRZQWZNR1M3M2ZEX2oxVTA3UThJVU1FYWwweWxzSXh2d0VRTm03X3g5Z1pYaEU0SDY2ODcxM1pveUE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 06 Jul 2024 11:58:36 GMT",
+      "snippet": "Gravity Price | G Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Galxe (GAL) Migrates to GravityChain (G): What It Means for Crypto Traders and GAL Holders - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rY0w3b0xLdE5nNEhMYU5hX0tOSV9xQVNWVU9DUUFrYnVvdXhEZWRUcF9sMS00ekV1aml0THk5OHUxOHFGRzBrUVBlT3VGWk9ITUp5NHpxeDZPT25ZeWfSAWNBVV95cUxQZW1BZUMtREtLYmJIZDJrMWR3T2NBM3JOTkV2V3R3ZzVOUFo5N3BJY25kaFFWUU1JOTNBdHNacmFxQUxObWV6TG5FejJINUdFYmxVdUVub2NGRUJNNWFxN1RDb1k?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 16 Feb 2026 08:00:00 GMT",
+      "snippet": "Galxe (GAL) Migrates to GravityChain (G): What It Means for Crypto Traders and GAL Holders&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "A Token With 180,000 Holders Before Listing: Inside Playnance’s G Coin Economy - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91TWVJTHpnOGt1NE40czNmanV5RVJma2RtX3ZWY3hxTmkxaFA2cVVycmV0OE4ycFpLNFZoemp1WnEtNnhIdXFpdW1IcG1fRmhuM3ZOeDBEWjJIejhTLVHSAWNBVV95cUxORnE3RTFrTDNFaS13Y0FYVGdNbUx6a215RlJVODZtbFRMRExVYzZEMFpGelg4c1VqZS1lajltYUUzTURsS3pCd1dmdXloUGNiajFkMFBOZUFQUm9GTzBzMFRQRjA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "snippet": "A Token With 180,000 Holders Before Listing: Inside Playnance’s G Coin Economy&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "G Mining to buy G2 Goldfields for $2.2B in Guyana play - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2MHcxWnVmdWFYakFNY2VkeVhLNXhpaFVkQXJ5Y2xiZVVzQWNmdGtUUUNYUy1pWDdILXdvQ3ZYU3FGSm9KcXFsM1MyU2dHb09jTE9iRlBnUm0wUEhxSHfSAWNBVV95cUxPTmRNRWdIRWJKQVkyY0hNamNuSXAwRVNDWDdzZmZUN3lJNl9pOU9pU0lKblhScHdiRGpfOG1LTkFxSGtvOVRib3ZIMkVRTEVtVVphS3VfV205allvUEFMLW16R00?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 09 Apr 2026 07:00:00 GMT",
+      "snippet": "G Mining to buy G2 Goldfields for $2.2B in Guyana play&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Will Support the Galxe (GAL) Token swap, Redenomination, and Rebranding to Gravity (G) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSHZmaTJNSXgwMTV5YlpmRGNWWTVsSWFWUkgtSFNqZHhDaG43WGJFWkwtZ1hycVZWc1AwalpwRllXTzdXcGhsZ19rY3g2MTJKRzl6WEc3Q0NDbkEzWDVPeEhUcDEwZHN5dm5rVmZSSVNHYzRueTIwdXpSdWNKR2tac3NhUTBWcy16U2NjLUprSWM?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 04 Jul 2024 07:00:00 GMT",
+      "snippet": "Binance Will Support the Galxe (GAL) Token swap, Redenomination, and Rebranding to Gravity (G)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Has Completed the Galxe (GAL) Token Swap, Redenomination, and Rebranding to Gravity (G) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmRBX3h4OC1ma3dtZ0VwbTBIRllNNTBscm03bHNsZndJTWUwd3F5TmRuRUd2b29pMTZhbHdZZ19sWHFvUUxUZXdaUWpHWXRXd1lwNUtuci1UUi1vckhZeGQzc1QyNTA5eVR1a1U4enF2SmJSeGxGcVN1NTBLbUtWNjZDSFFFbGFha3ZXV1hnSUs?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 19 Jul 2024 07:00:00 GMT",
+      "snippet": "Binance Has Completed the Galxe (GAL) Token Swap, Redenomination, and Rebranding to Gravity (G)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Adds Gravity (G) on Earn, Buy Crypto, Convert, & Margin - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObGVuc2U4TDJpTUF1ZXV3ZVdfcFNJOF9JX2VkUUw1X1VPWVFvTzhjcDZoanBHMFozS20zbFNwWWtoeE93TlpVRERLX3Fab2l0S05ubDZSak13cW9rMzNOZEYzWFY0a2FWNW1Obk1PSlVTSE0zU1pmYWd6eXFFa2tzSVl6Y2F0aXdxNnV4VjJOSEY?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 19 Jul 2024 07:00:00 GMT",
+      "snippet": "Binance Adds Gravity (G) on Earn, Buy Crypto, Convert, & Margin&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Alpha Will Remove WIZARD, SHOGGOTH, G, FWOG, UFD, BRIC, UPTOP, PORT3, XNAP, MORE, BOMB, BOOST (2026-01-29) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVYweG8wSTBlLVEtSGRreVU4QkZmVGlPa2dhRnduNnpXZzVXVlZ5T1RNSVF3aG1laFNFZEJrSWFXdklVMnRkREprSmNtZHRFX1FMc295M29TZGxQc1lDdjdhY0VVTERvMlhtSjFwUkR3T2hSZDlvUW1jNFB1UW01UXB4WFBhMGdoZVI5azNxVjI?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "snippet": "Binance Alpha Will Remove WIZARD, SHOGGOTH, G, FWOG, UFD, BRIC, UPTOP, PORT3, XNAP, MORE, BOMB, BOOST (2026-01-29)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Casio Dropping Free NFTs to 'Co-Create' Virtual G-Shock Watches - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU0duejMzLWFrQ2QwVXJDaHpVTWJOQnc4WTU3UWxIQ3l2T1dGNm5kNURmWGpyNXpWMXRHWVNTU3Jvelc5Ri0xaDhPWVpmMWxTejhBRVpXOGpUUG9vWVM4MFN0Z29ua0luUGZZSUdPX1Fhb3Y5eEN6cXFkVFZJTDFXNTZMR2ljSDFIOV94aNIBlAFBVV95cUxOODZlNU5iSHhlU3JlLWc1QW1INnBKak1iNzJEeVpqZ05PNTZhbm9BZ3ZZbVBzelR3c04wVUZPVUNLQ0E0VUstTFlHeFM5UmNPbUpRa0dDeHRURlZjNWtnWjZqR2ZaV2pzWENzVUxsQXhXNGU3NkxfV2JCc1Z1X2VYYy1Iak03YVBBVW0tS1lHRFQtOGNm?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Mon, 04 Sep 2023 07:00:00 GMT",
+      "snippet": "Casio Dropping Free NFTs to 'Co-Create' Virtual G-Shock Watches&nbsp;&nbsp;Decrypt"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener: 400 Bad Request from https://api.dexscreener.com/latest/dex/search?q=G: \"<html>\\n          <head>\\n            <title>400 Bad Request</title>\\n          </head>\\n          <body>\\n            <h1>400</h1>\\n            <p>Bad request.</p>\\n          </body>\\n        </html>\""
+  ]
+}

@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-06-24T15:47:21.265Z",
+  "updatedAt": "2026-06-24T16:02:43.951Z",
   "results": [
+    {
+      "token": "G",
+      "requestedInput": "G",
+      "name": "Gravity (原Galxe)",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-24T16:02:40.704Z",
+      "latestPath": "data/results/G-latest.json"
+    },
+    {
+      "token": "POPCAT",
+      "requestedInput": "POPCAT",
+      "name": "Popcat",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-24T16:02:43.949Z",
+      "latestPath": "data/results/POPCAT-latest.json"
+    },
+    {
+      "token": "DELLON",
+      "requestedInput": "DELL",
+      "name": "Dell Technologies (Ondo Tokenized)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-24T16:02:39.558Z",
+      "latestPath": "data/results/DELLON-latest.json"
+    },
     {
       "token": "FSX",
       "requestedInput": "FUTU",
@@ -10,16 +40,6 @@
       "action": "不买",
       "generatedAt": "2026-06-24T15:47:19.328Z",
       "latestPath": "data/results/FSX-latest.json"
-    },
-    {
-      "token": "DELLON",
-      "requestedInput": "DELL",
-      "name": "Dell Technologies (Ondo Tokenized)",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-24T15:47:21.263Z",
-      "latestPath": "data/results/DELLON-latest.json"
     },
     {
       "token": "BAS",
@@ -912,24 +932,6 @@
       "action": "不买",
       "generatedAt": "2026-06-20T03:03:09.658Z",
       "latestPath": "data/results/ETN-latest.json"
-    },
-    {
-      "token": "MU",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-20T03:03:07.077Z",
-      "latestPath": "data/results/MU-latest.json"
-    },
-    {
-      "token": "NMR",
-      "name": "Numeraire",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-20T03:03:13.719Z",
-      "latestPath": "data/results/NMR-latest.json"
     }
   ]
 }
