@@ -1,0 +1,348 @@
+{
+  "token": "USDC",
+  "requestedInput": "USDC",
+  "exchange": "other",
+  "generatedAt": "2026-06-24T18:32:22.039Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "USDC",
+    "name": "USDC",
+    "generatedAt": "2026-06-24T18:32:13.994Z",
+    "summary": "USDC是Circle发行的合规美元稳定币，近期在Hyperliquid生态中因Coinbase激活USDC金库部署而受到关注，但作为稳定币，其价格锚定1美元，波动极小。当前无显著上涨动力，不适合投机。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "USDC脱锚或出现重大负面事件"
+    },
+    "catalysts": [
+      "Coinbase在Hyperliquid上激活USDC金库部署，提升流动性",
+      "USDC合规优势持续吸引机构采用",
+      "稳定币市场整体增长，USDC市占率提升"
+    ],
+    "latestNews": [
+      {
+        "title": "HYPE price jumps 12% as Coinbase activates USDC treasury deployment on Hyperliquid.",
+        "impact": "利好",
+        "reason": "USDC在Hyperliquid生态中的使用场景扩大，但主要利好HYPE而非USDC本身"
+      },
+      {
+        "title": "Stablecoin News: Circle's USDC outpaces Tether's USDT growth for second year running",
+        "impact": "利好",
+        "reason": "USDC增长势头强劲，反映市场对合规稳定币的偏好"
+      },
+      {
+        "title": "USDC Minted: 250 Million Dollar Stablecoin Injection Sparks Crucial Market Liquidity Debate",
+        "impact": "中性",
+        "reason": "增发USDC增加流动性，但属常规操作"
+      },
+      {
+        "title": "Polymarket Migrates to Native $USDC From Bridged Token",
+        "impact": "利好",
+        "reason": "USDC在预测市场中的应用增加，提升实用性"
+      },
+      {
+        "title": "The CFTC just authorized Bitcoin, ETH, USDC only for US leverage, leaving XRP, SOL stranded in risky limbo",
+        "impact": "利好",
+        "reason": "监管认可USDC，增强其合规优势"
+      }
+    ],
+    "fundamentals": [
+      "USDC由Circle发行，受美国监管，储备资产定期审计",
+      "市值约739亿美元，为第二大稳定币",
+      "支持多链（以太坊、Solana、Avalanche等），生态广泛",
+      "近期在Hyperliquid上部署，提升DEX流动性"
+    ],
+    "marketRead": [
+      "USDC价格稳定在1美元附近，24小时波动-0.03%，几乎无波动",
+      "Hyperliquid上USDC/WHYPE交易对流动性约1330万美元，24小时交易量约7188万美元，流动性充足",
+      "作为稳定币，交易量主要反映生态活跃度，而非价格投机"
+    ],
+    "risks": [
+      "稳定币无价格波动，不适合投机获利",
+      "监管风险：若Circle储备问题或监管政策变化可能导致脱锚",
+      "智能合约风险：Hyperliquid上的USDC合约可能存在漏洞"
+    ],
+    "watchlist": [
+      "USDC脱锚事件（如低于0.99或高于1.01）",
+      "Circle储备审计报告",
+      "监管政策变化（如美国稳定币法案）"
+    ],
+    "sourceNotes": [
+      "数据来源：CoinGecko API及DexScreener，新闻来自Google News聚合",
+      "USDC作为稳定币，价格波动极小，分析重点在于生态采用和合规性"
+    ]
+  },
+  "profile": {
+    "id": "usd-coin",
+    "symbol": "USDC",
+    "name": "USDC",
+    "categories": [
+      "Stablecoins",
+      "USD Stablecoin",
+      "Solana Ecosystem",
+      "Avalanche Ecosystem",
+      "Polygon Ecosystem",
+      "Near Protocol Ecosystem",
+      "Arbitrum Ecosystem",
+      "Celo Ecosystem",
+      "Moonriver Ecosystem",
+      "Ethereum Ecosystem",
+      "XDC Ecosystem",
+      "Algorand Ecosystem",
+      "Optimism Ecosystem",
+      "Aptos Ecosystem",
+      "ZkSync Ecosystem",
+      "Sui Ecosystem",
+      "Base Ecosystem",
+      "Tron Ecosystem",
+      "Injective Ecosystem",
+      "Starknet Ecosystem",
+      "Hedera Ecosystem",
+      "Stellar Ecosystem",
+      "XRP Ledger Ecosystem",
+      "Sonic Ecosystem",
+      "Fiat-backed Stablecoin",
+      "Sei Network Ecosystem",
+      "World Chain Ecosystem",
+      "Morph L2 Ecosystem",
+      "World Liberty Financial Portfolio",
+      "Ink Ecosystem",
+      "Made in USA",
+      "Unichain Ecosystem",
+      "HyperEVM Ecosystem",
+      "Plume Network Ecosystem",
+      "Monad Ecosystem",
+      "Base Native",
+      "MiCA-Compliant Stablecoin",
+      "GENIUS Act Compliant Stablecoin"
+    ],
+    "homepage": [
+      "https://www.circle.com/en/usdc"
+    ],
+    "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy.",
+    "marketCapRank": 5,
+    "currentPriceUsd": 0.999729,
+    "marketCapUsd": 73897550758,
+    "fullyDilutedValuationUsd": 73938495140,
+    "totalVolumeUsd": 13103629029,
+    "priceChange24hPct": -0.00553,
+    "priceChange7dPct": 0.00315,
+    "priceChange14dPct": -0.00001,
+    "priceChange30dPct": -0.00314,
+    "athUsd": 1.043,
+    "athChangePct": -4.18887,
+    "circulatingSupply": 73919355592.14613,
+    "totalSupply": 73960312055.26645,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 50,
+    "watchlistUsers": 248767,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "prjx",
+    "pair": "USDC/WHYPE",
+    "chainId": "hyperevm",
+    "dexId": "prjx",
+    "pairAddress": "0x6c9A33E3b592C0d65B3Ba59355d5Be0d38259285",
+    "pairUrl": "https://dexscreener.com/hyperevm/0x6c9a33e3b592c0d65b3ba59355d5be0d38259285",
+    "lastPrice": 1.0011,
+    "priceChange24hPct": -0.03,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 71880921.93,
+    "liquidityUsd": 13307618.53,
+    "fullyDilutedValuationUsd": 5543215600,
+    "marketCapUsd": 74200438691,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "hyperevm",
+    "dexId": "prjx",
+    "url": "https://dexscreener.com/hyperevm/0x6c9a33e3b592c0d65b3ba59355d5be0d38259285",
+    "pairAddress": "0x6c9A33E3b592C0d65B3Ba59355d5Be0d38259285",
+    "baseToken": {
+      "address": "0xb88339CB7199b77E23DB6E890353E22632Ba630f",
+      "name": "USDC",
+      "symbol": "USDC"
+    },
+    "quoteToken": {
+      "address": "0x5555555555555555555555555555555555555555",
+      "name": "Wrapped HYPE",
+      "symbol": "WHYPE"
+    },
+    "priceNative": "0.01653",
+    "priceUsd": "1.0011",
+    "txns": {
+      "m5": {
+        "buys": 73,
+        "sells": 24
+      },
+      "h1": {
+        "buys": 774,
+        "sells": 617
+      },
+      "h6": {
+        "buys": 4189,
+        "sells": 4254
+      },
+      "h24": {
+        "buys": 10970,
+        "sells": 10392
+      }
+    },
+    "volume": {
+      "h24": 71880921.93,
+      "h6": 31851119.19,
+      "h1": 5064338.3,
+      "m5": 363228.68
+    },
+    "priceChange": {
+      "m5": 0.28,
+      "h1": -0.07,
+      "h6": 0.01,
+      "h24": -0.03
+    },
+    "liquidity": {
+      "usd": 13307618.53,
+      "base": 3806878,
+      "quote": 156854
+    },
+    "fdv": 5543215600,
+    "marketCap": 74200438691,
+    "pairCreatedAt": 1758026880000
+  },
+  "news": [
+    {
+      "title": "USD Coin (USDC) Price Today: USDC Live Price, Charts, News - Crypto.com US - Crypto.com",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmQTJkWUNEMmpDT1IwMVlSbmE5bGxQdFAyYzRzbXlIQ0hWeVlVTUYxcDVzZEwyN2NiQ2w5WUl1Q1BsWl9KQXRfZGR1R00?oc=5",
+      "source": "Crypto.com",
+      "publishedAt": "Mon, 20 Oct 2025 07:25:41 GMT",
+      "snippet": "USD Coin (USDC) Price Today: USDC Live Price, Charts, News - Crypto.com US&nbsp;&nbsp;Crypto.com"
+    },
+    {
+      "title": "HYPE price jumps 12% as Coinbase activates USDC treasury deployment on Hyperliquid. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0VmNDlyNGF1OEdUcjNBU1FBc3BPbm00ekJyUUo4ZGJEVXhQVHhubjlDM2tzLVUxV3hYcTJXYm1MX0dKSTNYYmNUUUdwU0JLcGxlbkNmU25fWlR3RDNNZ0d4cjRNVm1XUHZQNWFLSUxrZUpNWllhRnF6c1VUaGpRR3R0RnV4bHBBSHoxcDZCWkdOYUxtU090aC1kQldzQkxXY0dQelVtUEw?oc=5",
+      "source": "Pluang",
+      "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "snippet": "HYPE price jumps 12% as Coinbase activates USDC treasury deployment on Hyperliquid.&nbsp;&nbsp;Pluang"
+    },
+    {
+      "title": "Stablecoin News: Circle's USDC outpaces Tether's USDT growth for second year running - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTlhZmhndkhoVmJMOEwzcEtvNmhtNHI4enhtX1F6cFBvWC11MG9QU0dhcjFmQTVhMlNxTkhHODJkM2xTMGFTVjliX1JTQkRjMTY0ZGVjU2dqWXRJb0d6VDh3Yk1FY0owdjl3TTQ5TXF5Qk5LanVoUnJ1dUpUc3pIX2RzLVNyYWEzbFgyTUVMazRfUWppd2E1QWxjLWRSNGkyRmRHNUVWcFM1ZnpsZm1tc0VuVFg?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "snippet": "Stablecoin News: Circle's USDC outpaces Tether's USDT growth for second year running&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "USDC Minted: 250 Million Dollar Stablecoin Injection Sparks Crucial Market Liquidity Debate - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcHZwc2puTXhaX3ZsUmgxdXFpM0V6ZkpsOWRUWjU0Yk9FZ2dnbmI4ZWxwdTd2QUMyd0N2Nk0tTmlfZTFWUUxqckJ0bG9LYzlRMUwxYi1hZjFPeEtXT25NZU1ERUZoMnd6Q2F3bmNEcVhVYmh5Q3lmMko5bDBHQmt3cE1keDBDa0U?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 02 Jan 2026 08:00:00 GMT",
+      "snippet": "USDC Minted: 250 Million Dollar Stablecoin Injection Sparks Crucial Market Liquidity Debate&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Polymarket Migrates to Native $USDC From Bridged Token - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORkI1aVZHRmRFTWlrRFpIYmh3Ui1UM2xrNmNDLU5LYmw0b1JyZVh6ZXJ1UGdRUzl0ZG5fcFJuV20zZHdMeWUyMHU0RDRhdUluZl9NWUxyUjZWM0U0dTBpSlo4TUhaOEVUZHBjZzg2YWprVXVkVl9XdERSMVZHUzZYSmY5b2pyZVdaSjliRmN0RjFqMS1IbHN5YXhzbzNFa2d4RDBJ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 05 Feb 2026 22:35:15 GMT",
+      "snippet": "Polymarket Migrates to Native $USDC From Bridged Token&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Coinbase stock surges after JPMorgan upgrade on Base, USDC potential - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZVZYbHdoc29QVGJEWThyLWRGcnpDb0VGTHo3dExwNTFZS1RLd2NMZUVMTkpxZFp4SGNYMTY0NFdoeVppdEctQUYwRm8wNkxXYnBZcno0MjRkOGk0SGUyR1pEYl9VQnkzdGZkbVBwdm9ETjhXMDNCVWxIajB2Q2k1cXpmM2I0NE1IYl90b05sekMtYVpxN1djcUJOSkIyZS1Fbi1ESjhHS0pSOV9INzVueU5aZGNVSVZTOGJCa3JGSzdfTXhONUxVUm91UQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "snippet": "Coinbase stock surges after JPMorgan upgrade on Base, USDC potential&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Capital is rotating into USDT, USDC stablecoins as BTC price wilts: Crypto Daybook Americas - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWVEMjNtQlFXVFFIZmxGdUxNejQ5d2d4WXJhVlZKdTBUMTZKRXRoNGh4ZnFnOHZud1htOUFZMU5kYnBrX25lTTN4N1E1cDY0NE1mWnBGQ0NFa3JUOGVPcFdJSXhuTVRvYTNyZlJNQTlSSHpVbkRqT1ktdzVnR0MwbzlsNVlfQlBKWFJKa3c2OVE1YWtSdGhxRkNRdHlCcDN1M2VmYmRwbw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "snippet": "Capital is rotating into USDT, USDC stablecoins as BTC price wilts: Crypto Daybook Americas&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "USDC and CCTP are coming soon to Pharos: What you need to know - Circle Internet Financial",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnNBUVVaMWNTb2lnSGt1VVlyRHJUa2lKYmo2cHJrVTZ0ZENaV1pITHJRaTd4eVdNMm1pSC00eWF5QVNEN29QSXY2VTdYOHRPUWUwbjY0T0pKWER1Z2hfeXhEUF9CZG5NMG9QYzZ4UWd3LVJpV3dmd0JUcmdqaG5WVVlMWnczc2tjWFFIZG1B?oc=5",
+      "source": "Circle Internet Financial",
+      "publishedAt": "Fri, 27 Mar 2026 07:00:00 GMT",
+      "snippet": "USDC and CCTP are coming soon to Pharos: What you need to know&nbsp;&nbsp;Circle Internet Financial"
+    },
+    {
+      "title": "The CFTC just authorized Bitcoin, ETH, USDC only for US leverage, leaving XRP, SOL stranded in risky limbo - CryptoSlate",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdlRfdVlVdXotMmRVYTBEVWk5SDlNWGx5Ylhsck1EbzVfVGQ1cUdKSnlHWHNaMXFIRV9aV3piVFFnNEpUempOMkx6MVJlcGtKX1o1T3JtdmxSWnlTQzhCNGlJM0lZQ3NxRFZWenpsaERMVS11T2FlLVR1ZThTeDdLWEZnU2J2al9uUzYzM1NtUkU5cXo2MzZoYlI0RWU3dEg1Zi12OV9Pd2F6RWxqdVBOS0Z3N0FrYUhZN2FOZ1JGLWpvaDVRZmZPcHVHSkE4OE0?oc=5",
+      "source": "CryptoSlate",
+      "publishedAt": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "snippet": "The CFTC just authorized Bitcoin, ETH, USDC only for US leverage, leaving XRP, SOL stranded in risky limbo&nbsp;&nbsp;CryptoSlate"
+    },
+    {
+      "title": "USDC Growth Rate Surges Past USDT in 2025, Signaling Major Stablecoin Shift - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51Q1FYeGVzRUplQ3RHcWdONDd4OERJT1BqUXQ3SXpQLWpFajB4UHhPcC1pTm45emp2RXZ0a0pLeHF1WldWSmJOMmxSUUJrM2t5NmxHWVFvRGtmUVpURC1xZV9YZkYtSzhsclJZZmtoa1lGMmVnT0RtVWhRbUxFZw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "snippet": "USDC Growth Rate Surges Past USDT in 2025, Signaling Major Stablecoin Shift&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What Is Arc? The Stablechain Built by USDC Issuer Circle - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtdXY3TUFySTFnallHeHM4cjhqU2hKQ0dkM0RScG1hODFfR2Q5S2hYcmpTZm5xU2VrYlFLR05DQ2c3cVU2MUJ0aGdQanI3T19Lc3dKUTZDV3lpaDdBNFM2WVU2Ukcxdw?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "snippet": "What Is Arc? The Stablechain Built by USDC Issuer Circle&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "USDC On Monad Unlocks Fast DeFi And Cross-Chain Payments - The Cryptonomist",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VdjNSSUpvcjByNkpvSExKUG05Ukhsd3JzS0tpVENGd3VlM2NjWmtaTGhmNzdsdHN5aHo2a2dsN1ltaGhBZlBtcnJXdFVTRzNyWDRDMFVtdUZ4Z0tEaHlIdUY1d1F6dWYyWXVN?oc=5",
+      "source": "The Cryptonomist",
+      "publishedAt": "Mon, 24 Nov 2025 08:00:00 GMT",
+      "snippet": "USDC On Monad Unlocks Fast DeFi And Cross-Chain Payments&nbsp;&nbsp;The Cryptonomist"
+    },
+    {
+      "title": "How to buy USDC: Detailed Crypto Overview Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WV0t2eTk2QVhzT0dpbTB5eFVGR1g0WmNWeEZTXzFsSHFPNDF0TmRNdlgwVHRtSHkwZmlmSjRLZVhfQlhSb3Y4VU1sX0wweXRPeHp2UThzYTJPNzZzQlNJOTRNekxOY3BxYm40X3dLQzBhd0NuMHJpSUR1ZzNWQQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Tue, 16 Jun 2026 17:46:35 GMT",
+      "snippet": "How to buy USDC: Detailed Crypto Overview Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "How do I purchase USDC with Amazon Pay: Full Primer - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdW1RX3k5NHhlQWlmTGdpQUJSOWF5OUhEaHhxUEx5V1pTaDdHTEptdzhYUVJScWVaZ2VNZWYwSkdYZjNfMmlFV3lOaHV5aEZlTmtaMnBGejRQejlUWHlsUVJKc2c2cWtHOVBEUkYtcnByTDg2LTBIZ1VKRlM1N3c3Uw?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Thu, 11 Jun 2026 00:58:06 GMT",
+      "snippet": "How do I purchase USDC with Amazon Pay: Full Primer&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Buy USDC with ACH Transfer: Pricing, Instructions & Tips - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmZEbDVZaDV2UEpPaWZLYXZ5OGJVaDJYdmhLdkp2NWFMT19WaDdPR3BEWU1Hb244NjhHRDhoTjU3UDBvSGw2ZVJBQ2prSHJsdTJNYkRXMGNPVlRITDFqRVpDTnktN0Q5X3Y1QUgxeWdvM2FFQlZvTzB6T0xrLXIwTw?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 10 Jun 2026 10:41:48 GMT",
+      "snippet": "Buy USDC with ACH Transfer: Pricing, Instructions & Tips&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Ethereum scales for stablecoin usage on USDC expansion - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44Tm15TlJ6U0ZNckNKYjhTU2FhbURTaDd6ZktxRVZ6dDJfb2VqQmxEY3ZTOF9qZTlXSXNnNWhSaEdFUlBSZ3B1a1cxUkxObGtUdXBaTkNUUEdCampZV1HSAWNBVV95cUxOck5BWXM3NWJkWFp3Yjd5WjUtVnVkZGhmZDY3R1BDaVpRMTJiWkNhd3lLMThyNHhqVjk2QnFPY1ZGSzhJSk53Vm5tVlNMQkhBNjdGSlh3WmJFWkkxOUZMOHc3OXM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "snippet": "Ethereum scales for stablecoin usage on USDC expansion&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

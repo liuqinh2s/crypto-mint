@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T18:17:21.257Z",
+  "updatedAt": "2026-06-24T18:32:22.041Z",
   "results": [
     {
       "token": "DELLON",
@@ -8,8 +8,18 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-24T18:17:21.255Z",
+      "generatedAt": "2026-06-24T18:32:21.463Z",
       "latestPath": "data/results/DELLON-latest.json"
+    },
+    {
+      "token": "USDC",
+      "requestedInput": "USDC",
+      "name": "USDC",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-24T18:32:22.039Z",
+      "latestPath": "data/results/USDC-latest.json"
     },
     {
       "token": "BRKB",
@@ -924,15 +934,6 @@
       "action": "观察",
       "generatedAt": "2026-06-20T03:03:04.653Z",
       "latestPath": "data/results/HOOD-latest.json"
-    },
-    {
-      "token": "STXSTOCK",
-      "name": "Seagate Technology (股票代碼STX) 相關代幣或合約",
-      "score": 20,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-20T03:03:05.216Z",
-      "latestPath": "data/results/STXSTOCK-latest.json"
     }
   ]
 }
