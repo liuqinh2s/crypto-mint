@@ -1,14 +1,24 @@
 {
-  "updatedAt": "2026-06-24T20:46:56.310Z",
+  "updatedAt": "2026-06-24T21:02:25.271Z",
   "results": [
+    {
+      "token": "TAC",
+      "requestedInput": "TAC",
+      "name": "TAC",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-24T21:02:25.269Z",
+      "latestPath": "data/results/TAC-latest.json"
+    },
     {
       "token": "DELLON",
       "requestedInput": "DELL",
       "name": "Dell Technologies (Ondo Tokenized)",
-      "score": 10,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-24T20:46:56.308Z",
+      "generatedAt": "2026-06-24T21:02:23.893Z",
       "latestPath": "data/results/DELLON-latest.json"
     },
     {
@@ -925,15 +935,6 @@
       "action": "观察",
       "generatedAt": "2026-06-20T03:03:03.457Z",
       "latestPath": "data/results/SNDK-latest.json"
-    },
-    {
-      "token": "HOOD",
-      "name": "Robinhood Markets",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-20T03:03:04.653Z",
-      "latestPath": "data/results/HOOD-latest.json"
     }
   ]
 }
