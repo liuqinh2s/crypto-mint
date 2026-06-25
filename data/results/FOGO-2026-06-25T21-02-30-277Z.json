@@ -1,0 +1,312 @@
+{
+  "token": "FOGO",
+  "requestedInput": "FOGO",
+  "exchange": "other",
+  "generatedAt": "2026-06-25T21:02:30.277Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "FOGO",
+    "name": "Fogo",
+    "generatedAt": "2026-06-25T21:02:22.113Z",
+    "summary": "FOGO 是 Solana 生态的 SVM Layer1 项目，近期因 Binance 上线现货交易对及主网上线催化，24小时涨幅超35%。但链上流动性仅6.7万美元，FDV 约1.57亿美元，估值偏高，且代币解锁风险未明。短期追高风险极大，建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若流动性持续低于10万美元或出现大额解锁公告，则逻辑失效。"
+    },
+    "catalysts": [
+      "Binance 现货上线（2026年1月）",
+      "主网上线（2026年1月）",
+      "Firedancer 实现带来的高性能叙事"
+    ],
+    "latestNews": [
+      {
+        "title": "Binance has Announced New FOGO Trading Pairs, BNB Price Reacts",
+        "impact": "利好",
+        "reason": "Binance 上线交易对提升流动性和曝光度。"
+      },
+      {
+        "title": "Fogo Launches Public Mainnet After Binance Token Sale",
+        "impact": "利好",
+        "reason": "主网上线是项目重要里程碑，增强可信度。"
+      },
+      {
+        "title": "Fogo Tokenomics Hit Before 17 Dec Presale: See FOGO Listing Date",
+        "impact": "中性",
+        "reason": "代币经济细节公布，但未明确解锁计划。"
+      }
+    ],
+    "fundamentals": [
+      "SVM Layer1 区块链，专注交易体验，低延迟、高吞吐。",
+      "采用 Firedancer 实现，原生集成 DEX、价格预言机等。",
+      "团队由交易和工程专家组成。",
+      "总供应量约100亿枚，流通量约38.45亿枚。",
+      "Binance 种子标签项目，风险较高。"
+    ],
+    "marketRead": [
+      "24小时涨幅35.53%，但链上流动性仅6.78万美元，深度极差。",
+      "DEX 交易量约3.2万美元，与市值不匹配，存在操纵风险。",
+      "价格自ATH下跌77%，当前处于低位反弹。"
+    ],
+    "risks": [
+      "链上流动性极低，大额买卖易造成滑点。",
+      "FDV 高达1.57亿美元，但市值仅6025万美元，解锁压力大。",
+      "代币解锁计划不透明，存在抛售风险。",
+      "项目处于早期，主网刚上线，技术风险。",
+      "Binance 种子标签提示高风险。"
+    ],
+    "watchlist": [
+      "Binance 现货交易量及流动性变化。",
+      "代币解锁/释放公告。",
+      "主网运行稳定性及生态进展。",
+      "团队背景及融资信息更新。"
+    ],
+    "sourceNotes": [
+      "链上数据来自 Raydium 交易对，流动性数据可能不完整。",
+      "新闻来源为 Google News 聚合，部分为预测类文章，可靠性一般。",
+      "项目信息主要来自 CoinMarketCap 和官方描述，未独立验证。"
+    ]
+  },
+  "profile": {
+    "id": "fogo",
+    "symbol": "FOGO",
+    "name": "Fogo",
+    "categories": [
+      "Smart Contract Platform",
+      "Decentralized Finance (DeFi)",
+      "Layer 1 (L1)",
+      "Binance Alpha Spotlight"
+    ],
+    "homepage": [
+      "https://www.fogo.io/"
+    ],
+    "description": "Fogo is a next-generation Layer 1 blockchain designed to deliver the best on-chain trading experience ever. With its unique architecture and Firedancer implementation, the chain offers low latency, near-instant finality, and unparalleled scalability. As a purpose-built blockchain, Fogo will incorporate a carefully constructed, vertically integrated tech stack. This includes a curated validator set, native price feeds, an enshrined DEX, and colocated liquidity providers to create a truly differentiated trading environment. Backed by a team of trading and engineering experts and driven by a vision to redefine what’s possible, Fogo is setting the standard for high-performance blockchain infrastructure.",
+    "marketCapRank": 376,
+    "currentPriceUsd": 0.01566774,
+    "marketCapUsd": 60254784,
+    "fullyDilutedValuationUsd": 156997770,
+    "totalVolumeUsd": 21205504,
+    "priceChange24hPct": 40.24597,
+    "priceChange7dPct": 22.59048,
+    "priceChange14dPct": 30.0952,
+    "priceChange30dPct": 8.33835,
+    "athUsd": 0.062549,
+    "athChangePct": -77.63127,
+    "circulatingSupply": 3845374780.430951,
+    "totalSupply": 10019374781.94867,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 1736,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "FOGO/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "BMhbJpKihPsrQwWTNrzYLFwh2LbuDwWYbHKzEZrV9f6V",
+    "pairUrl": "https://dexscreener.com/solana/bmhbjpkihpsrqwwtnrzylfwh2lbudwwybhkzezrv9f6v",
+    "lastPrice": 0.01512,
+    "priceChange24hPct": 35.53,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 32318.29,
+    "liquidityUsd": 67822.5,
+    "fullyDilutedValuationUsd": 724838,
+    "marketCapUsd": 724838,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/bmhbjpkihpsrqwwtnrzylfwh2lbudwwybhkzezrv9f6v",
+    "pairAddress": "BMhbJpKihPsrQwWTNrzYLFwh2LbuDwWYbHKzEZrV9f6V",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "FogoWVkKbu7K5TE23B7VvpuSNbjV2HKpBm8hNaVY6Rkg",
+      "name": "Fogo",
+      "symbol": "FOGO"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.01512",
+    "priceUsd": "0.01512",
+    "txns": {
+      "m5": {
+        "buys": 38,
+        "sells": 39
+      },
+      "h1": {
+        "buys": 377,
+        "sells": 381
+      },
+      "h6": {
+        "buys": 608,
+        "sells": 581
+      },
+      "h24": {
+        "buys": 894,
+        "sells": 784
+      }
+    },
+    "volume": {
+      "h24": 32318.29,
+      "h6": 24988.34,
+      "h1": 18438.17,
+      "m5": 1640.29
+    },
+    "priceChange": {
+      "m5": 0.65,
+      "h1": 17.74,
+      "h6": 21.97,
+      "h24": 35.53
+    },
+    "liquidity": {
+      "usd": 67822.5,
+      "base": 2219424,
+      "quote": 34250
+    },
+    "fdv": 724838,
+    "marketCap": 724838,
+    "pairCreatedAt": 1768480777000
+  },
+  "news": [
+    {
+      "title": "FOGO Price Prediction 2026–2031: Scenarios, Risks, and Long-Term Outlook - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PTmJoSktReFN2d1hpUGc1Rm1WbzdueGt2UkJ0OWpxMVIxTFVXbTN1RjFKTFRhdnp3QXlqYlVUekRRUjI3QlRNMExFM2ttT1BuaXozSHNxcTRkb3RfMkJuZVB4NFdCUGs?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "snippet": "FOGO Price Prediction 2026–2031: Scenarios, Risks, and Long-Term Outlook&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Fogo Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vVV9Dd0tVVmYtYVdNdFN5aTVDemJ3TzBfT1VMaGVnVkVsS0JvSElWLTJxalZyVElwc1ZMbVlITnVPSlBjdk80SGx1Um1yZ3pDdHJaLUdVQnVLNE1MRHlrLQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 18 Jun 2026 13:14:00 GMT",
+      "snippet": "Fogo Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Fogo price today, FOGO to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXdDNxRTFvdWR4LVY0cHBzOHdieDhSeVNySV9Jazk3U2Y3cXRhZ2I3Q2hyLWZqbXU2T0l5a2lPcVNaYVd4dldIUUZlcFdNd1d4S0Q1eA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 11 Sep 2025 05:57:20 GMT",
+      "snippet": "Fogo price today, FOGO to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Fogo Launches Public Mainnet After Binance Token Sale - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU2s0cmIxSU5IeVJZTmxNb01wbUhuQnlEWU51d1M4ZUZvbFlOSGRhY2pGcmYxLURpWEZhNk52QmZ6LWVMdDhNR3lSc29QZllFcVp0NFJTSGlLeXBpMU9XVExUTkR6dnRhM1RySGhqYWZ3OUdyVE80X0JnVXhCOUMwX2RtUk1oZ0tqUEtncVVXRFE2ZURaNXpz?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "snippet": "Fogo Launches Public Mainnet After Binance Token Sale&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Binance has Announced New FOGO Trading Pairs, BNB Price Reacts - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2VrVVh4LU42Xy00R3ZDbTRvSlBmNFRsbE0yWDY4X1V1LW43ZW9ubmIyX3pJNWpRdUdZUXlHekVJOVNXdEc2WEMtbXFIbFY1aVU4MlU5SHY4bW5WNDZxa1lTU3kwYjNTd1VYRWRUUzZUOE4zaXNVTDFUR1ZaSUpLQzBHMk9MNU9DVC1hZ3g2blQ3VU9wLWw2SnlVdTNRNXJR?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "snippet": "Binance has Announced New FOGO Trading Pairs, BNB Price Reacts&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Introduction to Fogo (FOGO) Coin: Is Fogo (FOGO) Coin a Good Investment? - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnVFWHZwUS01cHdlZkM5dEItN3YwNkE3SDBYbWR6X1FmVm9UQnppaVJJd2hXVnNRUlVkUjN6QzlJam1UWWYyeG80S0FlSkZkUE9QRFp5LTBVeTF0OGZ0enJMdzZqdDRqVHktU3dFM3pQZUtJblJuWTdXYmVZUmt1Tlppcw?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Introduction to Fogo (FOGO) Coin: Is Fogo (FOGO) Coin a Good Investment?&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Fogo price today, FOGO to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hT0NidHk5anRhckhzZFR6UEQzVkVzeldVMHBxVE9Qd0RYaHpVVlYxdmI5S2U3WldORUd6SnFGc1FmNmNZVXdTZEhZbw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 16 Jan 2026 05:34:29 GMT",
+      "snippet": "Fogo price today, FOGO to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Fogo Price USD, FOGO Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ITTFIZldBd0l4MF94TWRBSTBjZVNaT0JqTDF3TkM5QThNZmUzLXd4R0FmUThGOW1pcVZ6WnFHM01WZHVPT3ppRg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 11 Jan 2026 15:36:14 GMT",
+      "snippet": "Fogo Price USD, FOGO Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Fogo Listing on Binance Spot Countdown – Can FDV Reach $300 Million? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12Q2pEUTJRcnNMMkJFRjd3SU81NUplNUJjaEFhTEE3NkFsZ1JQRFJCNF9CaFU3NWpTeXNTTEZXRFR4OTIyWDRqeXlleWV5cDhxQW04WkNuOEFhWFFJMlZBQUVOdw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "snippet": "Fogo Listing on Binance Spot Countdown – Can FDV Reach $300 Million?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Lists Fogo Token with Seed Tag January 2026 - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4zRzRWNW91a2h2aXA5LUlHaWQwdlpMaDF0Y1VCbWNFOGJOdWE4V3dPdFdhaW16UUFNUENrLVd4RWtlLW44LWhR?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "snippet": "Binance Lists Fogo Token with Seed Tag January 2026&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Fogo Tokenomics Hit Before 17 Dec Presale: See FOGO Listing Date - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUtOVkdKTmpiUmNsTjNQSUw5RVFSZ01wdk9LaS1xalo2YmVrTERkUlMyMHBQNlVYQkJlNVNQU0ktX1BDZXRBSGpKTGJQM2tkdWdPQzFRTzVBRGtTaFBJMS1HeHFpeFBNZG9IUGdMVVgwa0l0VXNUOEpUVk1qVDE3TlBLVWEtQVZIVkZBMUJsOXJ3dHY2M0hZeXVvbWtsZ0wtNE9QWkVYcTVMQW15R2tR?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "Fogo Tokenomics Hit Before 17 Dec Presale: See FOGO Listing Date&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "FOGO Token Presale Cancelled Ahead of Mainnet Launch - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlF1ZThTX3lMdkhtdW02amdoV3dGZm1nQ3dxajJMZEQtdFFJd2JWVGNQbU9OV0ZlSFpBWTB5c2E0SzVjc1NvN0xQcVBLTjhJXy1DY0xIUUVIMmw2dnVnZ3ZhZmROTGlLb3lSOEh0aWhjZFREVHdWSFpqT3g3THFpYUE2dEctZ3FnSnlEcnJ6WHdja1R3SFFrUzNsbkJuTHFZM0Z0cElkSWFnemJFVFNDNWZhWQ?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "snippet": "FOGO Token Presale Cancelled Ahead of Mainnet Launch&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "Research Report｜In-Depth Analysis and Market Cap of Fogo (FOGO) - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11TTlCNzkweHBmRmZkQk1IaldPbktLaDNCM21FUFl6amUzT0xMUU9MVTNKemFCOGFPUzc1VmZLNThVRnVKcThmb2dDZ0JIbkVZc1hOS2VpeDZCWXhrX3fSAWNBVV95cUxPWFBGeG9JOURjOFJTcWJuZWxseFhzMmpIVENrbXJKTVZqcjVhYzZFNUV5M0NlRHp4SDhNck5fTGZOSFNBNzV0RFMyT1d5V056aTFzRXlfMVRjWThiZmp4V1hNS2M?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "snippet": "Research Report｜In-Depth Analysis and Market Cap of Fogo (FOGO)&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Fogo: The Fastest SVM Layer 1? - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkbXBpMC1zNVBBRGNoYTlfNlkzem0yc0g3cEtLWWVGT2NUWEJzUUdyVGdpVVdJcF9pR1NrNHpmeDdHckI3LVoyeUhCNzNNdXp0amlwM2N3OA?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "snippet": "Fogo: The Fastest SVM Layer 1?&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "What is Fogo (FOGO)? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54RFEtVk96VjJ0d2VfSmtlVkttellXbHkxcHdEYWNPR05FanVqdXRPWWxhSXdwNEhGdGo5VWdKY2RvMXBjYTZUa2JnNnROV2Zpb2hUQUx4SkdIUWZUd0Q2RDUyeU1RY3l5TUt3WFN5dnFid9IBd0FVX3lxTE1rOHBXVVhUVF9hTGE1R3pOS0oxOUZOeXBNSHlOZ2pHWjd0QWQxQ0lITm5rNXZ1QjhpOE5GTFktNFh3dEk5NEFNYkV6ckxUSHBpYWxSRFdBbU9VMDBYWnU4UG8tWTBRcVVRU0VHSk5BTnVkNGxsZVc4?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "snippet": "What is Fogo (FOGO)?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Fogo Chain: The Complete Practical Guide - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YZWJaekxwX19NT1htQ2xUTkVmM1VROHU4MHZjQWt0b2tuTlJlWENVMXVRVkFET0JXcDVmYlI0WFNGU0FoU194cTlWOTU5MU8wQks2UDZWaEROYmprLUNsRVE5d00?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 16 Feb 2026 08:00:00 GMT",
+      "snippet": "Fogo Chain: The Complete Practical Guide&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
