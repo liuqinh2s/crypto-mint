@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-25T04:32:13.523Z",
+  "updatedAt": "2026-06-25T04:43:10.685Z",
   "results": [
+    {
+      "token": "MUSDT",
+      "requestedInput": "MUSDT",
+      "name": "Mezo Bridged USDT (Mezo)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-25T04:43:10.682Z",
+      "latestPath": "data/results/MUSDT-latest.json"
+    },
     {
       "token": "DELLON",
       "requestedInput": "DELL",
@@ -928,15 +938,6 @@
       "action": "不买",
       "generatedAt": "2026-06-20T03:02:56.056Z",
       "latestPath": "data/results/XVS-latest.json"
-    },
-    {
-      "token": "IO",
-      "name": "unknown",
-      "score": 0,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-20T03:02:54.448Z",
-      "latestPath": "data/results/IO-latest.json"
     }
   ]
 }

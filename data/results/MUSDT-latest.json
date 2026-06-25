@@ -1,0 +1,185 @@
+{
+  "token": "MUSDT",
+  "requestedInput": "MUSDT",
+  "exchange": "binance",
+  "generatedAt": "2026-06-25T04:43:10.682Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MUSDT",
+    "name": "Mezo Bridged USDT (Mezo)",
+    "generatedAt": "2026-06-25T04:43:04.553Z",
+    "summary": "MUSDT是Mezo生态的桥接USDT，流动性极低（仅10美元），交易量几乎为零，价格偏离1美元。无实际交易活动，上涨可能由少数交易或数据错误导致。风险极高，不建议参与。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性恢复至合理水平（如>10万美元）且交易量活跃，否则逻辑持续失效。"
+    },
+    "catalysts": [
+      "无明确催化剂，价格波动可能源于极低流动性的偶然交易或数据异常。"
+    ],
+    "latestNews": [
+      {
+        "title": "Mezo Bridged USDT (Mezo) Price: MUSDT/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+        "impact": "中性",
+        "reason": "仅为价格追踪页面，无实质新闻内容。"
+      }
+    ],
+    "fundamentals": [
+      "桥接稳定币，锚定USDT，但实际交易价格1.0068美元，存在轻微脱锚。",
+      "总供应量仅24,015枚，市值约2.4万美元，完全稀释市值虚高（基于极低流动性计算）。",
+      "项目官网mezo.org，但缺乏详细文档或社区信息。"
+    ],
+    "marketRead": [
+      "PancakeSwap上mUSDT/USDT交易对流动性仅10.03美元，24小时交易量为0，无实际交易。",
+      "价格24小时上涨0.19%，但无成交量支撑，不可靠。",
+      "持有地址数42个，关注度极低。"
+    ],
+    "risks": [
+      "流动性枯竭：10美元流动性无法支持任何实际交易，滑点极高。",
+      "合约风险：桥接代币可能存在智能合约漏洞或桥接安全问题。",
+      "价格操纵：极低流动性下，少量资金即可大幅拉盘或砸盘。",
+      "项目风险：Mezo生态不明，缺乏透明度，可能为低质量项目。"
+    ],
+    "watchlist": [
+      "流动性是否增加至至少1万美元以上。",
+      "是否有实际交易量出现。",
+      "项目方是否发布更新或路线图。"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko和DexScreener，但流动性极低，价格和市值数据参考意义有限。",
+      "无可靠新闻或社区信息，分析基于有限数据。"
+    ]
+  },
+  "profile": {
+    "id": "mezo-bridged-usdt-mezo",
+    "symbol": "MUSDT",
+    "name": "Mezo Bridged USDT (Mezo)",
+    "categories": [
+      "Bridged USDT",
+      "Bridged-Tokens",
+      "Bridged Stablecoin",
+      "Mezo Ecosystem"
+    ],
+    "homepage": [
+      "https://mezo.org/"
+    ],
+    "description": "",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.991393,
+    "marketCapUsd": 23809,
+    "fullyDilutedValuationUsd": 23809,
+    "totalVolumeUsd": 109.43,
+    "priceChange24hPct": 0.18699,
+    "priceChange7dPct": 0.16857,
+    "priceChange14dPct": -0.04335,
+    "priceChange30dPct": -0.73755,
+    "athUsd": 1.23,
+    "athChangePct": -19.49834,
+    "circulatingSupply": 24015.438179,
+    "totalSupply": 24015.438179,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 42,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "mUSDT/USDT",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xa6fDA70DC05d8B92959981Cbb151317e2cB93a44",
+    "pairUrl": "https://dexscreener.com/bsc/0xa6fda70dc05d8b92959981cbb151317e2cb93a44",
+    "lastPrice": 1.0068,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 10.03,
+    "fullyDilutedValuationUsd": 1006871817,
+    "marketCapUsd": 1006871817,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0xa6fda70dc05d8b92959981cbb151317e2cb93a44",
+    "pairAddress": "0xa6fDA70DC05d8B92959981Cbb151317e2cB93a44",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x4cC8619840B4248B30AB7a091B178010fd360B18",
+      "name": "Mock USDT",
+      "symbol": "mUSDT"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceNative": "1.006871",
+    "priceUsd": "1.0068",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 10.03,
+      "base": 4.9829,
+      "quote": 5.01717
+    },
+    "fdv": 1006871817,
+    "marketCap": 1006871817,
+    "pairCreatedAt": 1781338592000
+  },
+  "news": [
+    {
+      "title": "Mezo Bridged USDT (Mezo) Price: MUSDT/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90SWFSVDJ6SVQzRjFUY21ua2tvWFpYeTlDaUxTYjhFUVVIMVc1WHMwcERiMXlHTHExQ2FxWm1FRDRZVFhuMW8zRW1UYkpFWHNvd1VlWXBjVmhiSkllVW11bjNQbmZzLTZw?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 14 Aug 2025 08:58:08 GMT",
+      "snippet": "Mezo Bridged USDT (Mezo) Price: MUSDT/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
