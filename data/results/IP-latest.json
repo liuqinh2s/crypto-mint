@@ -1,0 +1,318 @@
+{
+  "token": "IP",
+  "requestedInput": "IP",
+  "exchange": "other",
+  "generatedAt": "2026-06-25T16:02:33.562Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "IP",
+    "name": "Story",
+    "generatedAt": "2026-06-25T16:02:25.998Z",
+    "summary": "IP代币近期因亚洲需求激增和延迟解锁消息出现反弹，但链上数据显示交易量极低，流动性高度集中，基本面薄弱，风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [
+      "亚洲需求激增推动短期反弹",
+      "代币解锁延迟6个月缓解供应压力",
+      "与Crypto.com、Seoul Exchange等合作消息"
+    ],
+    "latestNews": [
+      {
+        "title": "Story (IP) Price Rebounds 100%, but On-Chain Data Tells a Different Story",
+        "impact": "利空",
+        "reason": "反弹缺乏链上交易量支撑，可能不可持续"
+      },
+      {
+        "title": "Story delays $IP token unlock by 6 months as supply overhang fears mount and usage remains thin",
+        "impact": "中性",
+        "reason": "延迟解锁短期利好，但使用率低表明基本面问题未解决"
+      },
+      {
+        "title": "Story Protocol (IP) Rallies 26% Over 24 Hours As Asian Demand Surges",
+        "impact": "利好",
+        "reason": "亚洲需求是短期上涨动力，但持续性存疑"
+      }
+    ],
+    "fundamentals": [
+      "Story Protocol 是一个基于区块链的知识产权（IP）管理协议",
+      "代币IP用于治理、质押和IP资产交易",
+      "主网于2025年2月13日上线",
+      "与Crypto.com、Seoul Exchange等有合作",
+      "代币解锁延迟6个月，但使用率仍然很低"
+    ],
+    "marketRead": [
+      "24小时价格下跌0.04%，交易量仅3.99美元，流动性高达28.7亿美元，但交易量极低，表明价格被少数持有者操纵",
+      "无历史价格数据（ATH、7d/14d/30d变化均为null），市场深度不足",
+      "市值约28.75亿美元，但流通供应量未知，估值存疑"
+    ],
+    "risks": [
+      "交易量极低，流动性高度集中，存在操纵风险",
+      "代币解锁延迟只是短期缓解，长期供应压力仍存",
+      "基本面薄弱，使用率低，缺乏实际应用支撑",
+      "缺乏历史价格数据，无法评估波动性",
+      "新闻多为预测和炒作，实际进展有限"
+    ],
+    "watchlist": [
+      "链上交易量是否回升",
+      "代币解锁实际时间表",
+      "协议使用率（如IP资产注册数量）",
+      "是否有新的重大合作或主网升级"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener和Google News，未验证其他交易所或链上数据",
+      "部分新闻日期较早（2025年），可能已过时",
+      "市值和FDV相同，可能为全稀释估值，流通供应量未知"
+    ]
+  },
+  "profile": {
+    "id": "7m6e9vxSZFCFtqP6TF2gNzec5fhq3zRgo1qgFBtzxGRS",
+    "symbol": "IP",
+    "name": "Story",
+    "categories": [
+      "solana",
+      "orca"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / orca. Pair URL: https://dexscreener.com/solana/j2op895jtmyqr2f1abpthd8mnfd3szkswj9kaduvpmzh",
+    "marketCapRank": null,
+    "currentPriceUsd": 9.17,
+    "marketCapUsd": 2875211922,
+    "fullyDilutedValuationUsd": 2875211922,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.04,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-10-02",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "J2op895JtMYqR2F1abPTHd8MNFd3SzKsWj9kAdUvpmzH",
+    "baseTokenAddress": "7m6e9vxSZFCFtqP6TF2gNzec5fhq3zRgo1qgFBtzxGRS",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 2874202219.8,
+    "pairUrl": "https://dexscreener.com/solana/j2op895jtmyqr2f1abpthd8mnfd3szkswj9kaduvpmzh",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "IP/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "J2op895JtMYqR2F1abPTHd8MNFd3SzKsWj9kAdUvpmzH",
+    "pairUrl": "https://dexscreener.com/solana/j2op895jtmyqr2f1abpthd8mnfd3szkswj9kaduvpmzh",
+    "lastPrice": 9.17,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 2874202219.8,
+    "fullyDilutedValuationUsd": 2875211922,
+    "marketCapUsd": 2875211922,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/j2op895jtmyqr2f1abpthd8mnfd3szkswj9kaduvpmzh",
+    "pairAddress": "J2op895JtMYqR2F1abPTHd8MNFd3SzKsWj9kAdUvpmzH",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "7m6e9vxSZFCFtqP6TF2gNzec5fhq3zRgo1qgFBtzxGRS",
+      "name": "Story",
+      "symbol": "IP"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "9.1732",
+    "priceUsd": "9.17",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 3.99,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -0.04,
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 2874202219.8,
+      "base": 313324996,
+      "quote": 19.1663
+    },
+    "fdv": 2875211922,
+    "marketCap": 2875211922,
+    "pairCreatedAt": 1759400783000
+  },
+  "news": [
+    {
+      "title": "Story (IP) Price Rebounds 100%, but On-Chain Data Tells a Different Story - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIdF83SDl6S1BqVUNJYVRxc0J0bXRPcmlDLTliR1hYTXp4MGhqODlCTlhKa3hPMFVEMm1YQXZVaDFPS2lMQ3lZNmRWLXhHZEZ3YW1nMjNESG85Y0VBckcyVg?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "snippet": "Story (IP) Price Rebounds 100%, but On-Chain Data Tells a Different Story&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Story delays $IP token unlock by 6 months as supply overhang fears mount and usage remains thin - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWWdtbVJpUzJ4QU1EWkh2cDVVd0JPNXhFQkxlMWRJeUNlY2JFV1I3S2VyZ0NiOGFfQWZUZE9pM1A5Q0RGR1p0NFpxWVA4bmZzS1lVems1dnA3ckVFX2t1RlFDTGFyZlZ3N2hvYUIwa0ZJcEVueE42Q2xCSjh1Ql81Vl9nSDdTalA2STF1VWtXVVlTSjcxczFHdWozS2JDYlNpaGJ0N3pKS2dHdDVYeVg4ZmJMTTNDN3VFQmFkVGVMTlhxYWNvLUt3YXBQdzlETUJDa2xaRGFhQ3U?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sun, 01 Feb 2026 08:00:00 GMT",
+      "snippet": "Story delays $IP token unlock by 6 months as supply overhang fears mount and usage remains thin&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Story Protocol (IP) Rallies 26% Over 24 Hours As Asian Demand Surges - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44Mlh3TDNtc0NfbjI1VzhmR1dLWUdXdHFxbXluaVhaajhfV1JtS3IzRTA0dlYyM25Qb1pQMkx6QlJkVzJkZl9saDlqZE1zSm5mS3lBanJjTlV4NnVrWnI1b2xUTWllUkhnbk03NDJUTDRsVW42bmxsUDBocjBQeWs?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "snippet": "Story Protocol (IP) Rallies 26% Over 24 Hours As Asian Demand Surges&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "DASH and Story (IP) Soar as Altcoins Lead Market Rally - DailyCoin",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XcmJYa0pBVlNDMXhCSVRWR09FUk5ZeXU1dDU0YjhlellGaHBjck5qTXBERXk5ODFSVHplUUlKaFFMRXFxZW5ZcW9PVmxvSXMxMFE2bHJpcjJYVkI1OElkV05LRU5RdmVNQVl3?oc=5",
+      "source": "DailyCoin",
+      "publishedAt": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "snippet": "DASH and Story (IP) Soar as Altcoins Lead Market Rally&nbsp;&nbsp;DailyCoin"
+    },
+    {
+      "title": "Story Protocol (IP) Price Prediction 2025, 2026, 2027, 2028, 2029, 2030 - Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mbGlUS29oQ0FuaW8zNGl3aEJqZVJiclAtbUlCQlRuX0hYZmpKdjB6T2dIeEhIRlB6a01yWXZJZWpTQi1CaHdsLUx5Y2dDTjV6QXVocmVTd9IBV0FVX3lxTE1mbGlUS29oQ0FuaW8zNGl3aEJqZVJiclAtbUlCQlRuX0hYZmpKdjB6T2dIeEhIRlB6a01yWXZJZWpTQi1CaHdsLUx5Y2dDTjV6QXVocmVTdw?oc=5",
+      "source": "Ventureburn",
+      "publishedAt": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "snippet": "Story Protocol (IP) Price Prediction 2025, 2026, 2027, 2028, 2029, 2030&nbsp;&nbsp;Ventureburn"
+    },
+    {
+      "title": "Story 2025–2030 Forecast: Can IP Hit New Highs? - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yN0QzN1ZmeTFRTndYSnlRSHRScDJodDFYR3R6U3N2TnBfb01MSi0yRzhMUmJDSDNVYWxQQW1TRkhka0FJRGlIREN4aFJFMTA2Tm1QalRCLWlLdnFZMk50ZUgxcWlyZUZzYzVRdVdTSQ?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Tue, 23 Sep 2025 07:00:00 GMT",
+      "snippet": "Story 2025–2030 Forecast: Can IP Hit New Highs?&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Story Protocol’s IP token surges 22%, outpacing top altcoins: check forecast - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pbE5qWDB2MXcteHR4eHh6UFZsUEZTYWFpRkZGY0ZqS05DU0xxRS1JQ0tKRjVWZFFmOGd4YW50czc1ci16cENfdXQ1UUtqS2pIbjhoa0RCRHRWVWNjVHfSAWNBVV95cUxOZG1RR0I4YzJQRnlXRVpSUEY3dFZvWEFpVm03NWI3TnpoazBhZFA3bjE4UDZJYUZoZGVfcUdiWkR2b0xWMS1aajFORmEtZDM3M1RWVWVrVHNQZGEzV0J2bW5pb0U?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "snippet": "Story Protocol’s IP token surges 22%, outpacing top altcoins: check forecast&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "3 Reasons to Buy Story Protocol (IP) Before It Takes Off in 2025 - InvestingHaven",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkxYR3ZNdVpfQUhLSmVEcVRxWi13eFpGRlY2bkRXczVEdFRUUTdUeVQtQTZIczJjRFZNUDhZd0JUUmg3MTduYWFxOWZPcnJzNTd6c1o5X1F4OWJCclRWTmgyWFpjWDQ4ZmJSVExuN2hrakYyQmZ2NVpoblc2Z3Uzd3VPSXdIU18xTTFteGd5VExDdmM?oc=5",
+      "source": "InvestingHaven",
+      "publishedAt": "Wed, 17 Sep 2025 15:45:35 GMT",
+      "snippet": "3 Reasons to Buy Story Protocol (IP) Before It Takes Off in 2025&nbsp;&nbsp;InvestingHaven"
+    },
+    {
+      "title": "House of Doge, IP Strategy Holdings, and Brag House Announce Strategic Partnership to Advance On-Chain Intellectual Property Monetization - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaFd5dGs4b0hiYWR4WndCRFAwT2hSd0tLWDRrSzk0SFZiYjlLMUVKZXJ0dEQ0cHE2azBlWmJyeVJSWDFYcGpHeEVDS3V6eklnRzhiRy1kTUVIMFJPQmpfbkdOOHZVVnA0UDNXWE1TX3ZydXltdlBUVFJfTlcwWU8yYVZVSDFYXzAtZ2ZxUmNtMHVwWmd3aTZMVXlxZlQ5aXh5aUlrQlVLd3NBMjZPNFM1NXJsYncxZUc5OE5VcUNlZEFHelljd0lLQlNNLWI2OUV4SGp0ZnBZYS1JTmY3U0ROX1czYWxOYWE5VFE1MHJwdnk5dFdEak9QcHJUTTNEc3l6d2loUw?oc=5",
+      "source": "Quiver Quantitative",
+      "publishedAt": "Thu, 21 May 2026 07:00:00 GMT",
+      "snippet": "House of Doge, IP Strategy Holdings, and Brag House Announce Strategic Partnership to Advance On-Chain Intellectual Property Monetization&nbsp;&nbsp;Quiver Quantitative"
+    },
+    {
+      "title": "Crypto.com Partners with IP Strategy to Support Digital Asset Treasury Strategy - Crypto.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0txSm1qZzRyZ2RxQ2JhRGZ4b21seVp6Slo0ZlN1OXlmWlFVREpKU0l3dWU3NXkwVHVxNTdmWTVzbkp4OERFemFLTVh3eTNLa1pLcHdzbUprd05ieTlodUpJdGNMMC16VVFzdU1PNEluZ0ZnemZTS3RVQkR4UWdSMndLakdDVlNxWGFKMkRJZ0h3SlFPaF92NkpURWRWYUxQRF9OZ2hCSmhEODU3dmFhUnJBcw?oc=5",
+      "source": "Crypto.com",
+      "publishedAt": "Tue, 11 Nov 2025 08:00:00 GMT",
+      "snippet": "Crypto.com Partners with IP Strategy to Support Digital Asset Treasury Strategy&nbsp;&nbsp;Crypto.com"
+    },
+    {
+      "title": "Seoul Exchange, One of Only Two Licensed Platforms For Unlisted Securities, Will Exclusively Use Story To Settle Tokenized RWAs - Chainwire",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU3VrQ2NKd3pWNTZ2RHJQNkFjdWs1VFVCSmFqWW5xYU9haUF1cnZ3VG94dEw4eDBtVlZHUWJSUWVCWkNYSnQ3d24yLS02Q01DblBwT2R5SmY4dXdweXo1VFFXekZXNTdFMEZ5VFoyUGdPalMwZFlNMWF2dDFqa3pING0xQ0dvUlJxQjlvT0VkcFQ5TjhXOEF4bXNXa1dCZ3ZIY05oeGxjV1dsdXpvRkJoTUNOVFU3U25XSEFJc3lNMEhOenFkc21TUnZOSXRVLVYzdlVjMW96SDNjSjNVZzBaVnExV0ktVUMxbHRnTDVEUDI?oc=5",
+      "source": "Chainwire",
+      "publishedAt": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "snippet": "Seoul Exchange, One of Only Two Licensed Platforms For Unlisted Securities, Will Exclusively Use Story To Settle Tokenized RWAs&nbsp;&nbsp;Chainwire"
+    },
+    {
+      "title": "Story Price Prediction – Why Is IP Coin Pumping? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yUkVuZTVobHNQQ0M4cF9PTmQyNEJaZUpmN08wRHJRTjVhdmNfdXpISTRHb2w1dkg1TTRIOXJzVEJ6MU9sSldESHMzVU1uU3BoUmtiMll1Y0JXdkVYODR4UkZGZw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 26 Feb 2025 08:00:00 GMT",
+      "snippet": "Story Price Prediction – Why Is IP Coin Pumping?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Story Protocol confirms public mainnet to launch on Feb. 13 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMXZaV2xqUkhxbkFfUUVsemJzOUFZZVpUYW9BV2djVllzcEpPZEhqTlEzdHM3ZVJhRzk5T2d6OENlV1NlVUhsZVA2UzN4ZXlZanlWbkRTZ0F0c0FqVXc2aHo3Q3FPSzFkekdCX2VpUUVZSnNpQ0Zfcy1Yc3JUcm9mdUtFNVo3X2JvSXJtd0RCaGQyTzR1V1AzVENvNVBGbU1GWk9zZ1I4eV9mWmt0bzQyTTBXWFFTU1BCTzMySHNKZw?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Mon, 10 Feb 2025 08:00:00 GMT",
+      "snippet": "Story Protocol confirms public mainnet to launch on Feb. 13&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Story Price: IP/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCVURKT0JpdnZaemNTSGRaUVN0aF8yV2JIVm9KeXBycFhhWFB5SldCV3VnUFJfdFhCNFEySXFNVXRJZjM0TlNuQkFWTmc5QV9mNFE?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 02 Sep 2021 22:54:18 GMT",
+      "snippet": "Story Price: IP/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "IP tokens doubled in 3 days. Why did Story Protocol set off the market? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JVVJUX3JhQnROLVBYWm5kY2FpeWJZa1dJam5mSEE2Q2FsdTQwRzZfUDB6Ym9XMnIxSmUxYkJtTVFTYzlTZFl1UnV1QmxidHFyRzBEZFlCN25sdlFiMG5KYUhrbw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 20 Feb 2025 08:00:00 GMT",
+      "snippet": "IP tokens doubled in 3 days. Why did Story Protocol set off the market?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What Is Aria Protocol (ARIAIP)? A Guide to IP RWA Tokenization - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HS2tIRXAtQ0hwWDJGQmlzNDdVOENjeU5oUkhiMmkxUkVQWHFGYzY0MXRlWUtfSmpOZnA4a2VzWGMxWGN0ZElaTnE1eHNMU2ZkQ3EzbDJXVGs5cWdJcDZrYVhyXzdDUQ?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "snippet": "What Is Aria Protocol (ARIAIP)? A Guide to IP RWA Tokenization&nbsp;&nbsp;Phemex"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
