@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-25T04:43:10.685Z",
+  "updatedAt": "2026-06-25T04:44:37.835Z",
   "results": [
+    {
+      "token": "M",
+      "requestedInput": "Memecore",
+      "name": "MemeCore",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-25T04:44:37.833Z",
+      "latestPath": "data/results/M-latest.json"
+    },
     {
       "token": "MUSDT",
       "requestedInput": "MUSDT",
@@ -929,15 +939,6 @@
       "action": "不买",
       "generatedAt": "2026-06-20T03:02:56.617Z",
       "latestPath": "data/results/KAITO-latest.json"
-    },
-    {
-      "token": "XVS",
-      "name": "Venus Protocol",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-20T03:02:56.056Z",
-      "latestPath": "data/results/XVS-latest.json"
     }
   ]
 }

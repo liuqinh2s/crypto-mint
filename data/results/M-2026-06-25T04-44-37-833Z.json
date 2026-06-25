@@ -1,0 +1,309 @@
+{
+  "token": "M",
+  "requestedInput": "Memecore",
+  "exchange": "binance",
+  "generatedAt": "2026-06-25T04:44:37.833Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "M",
+    "name": "MemeCore",
+    "generatedAt": "2026-06-25T04:44:29.886Z",
+    "summary": "MemeCore 是 BNB Chain 上的 L1 区块链，专注于 Meme 币经济。近期价格暴跌超 74%，此前因 ZachXBT 指控 90% 供应由内部人士控制而大幅下跌。当前市值约 9.4 亿美元，流动性极高（69 亿美元），但价格处于历史低位。新闻面混杂，有反弹预期但风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现新的基本面改善或团队公开透明化，可重新评估，但当前不参与。"
+    },
+    "catalysts": [
+      "Meme 币板块整体回暖可能带动反弹",
+      "项目为 L1 公链，有实际生态叙事",
+      "部分新闻提及价格可能突破前高"
+    ],
+    "latestNews": [
+      {
+        "title": "Meme Coins Price Prediction: Can MemeCore Outperform as DOGE and SHIB Fight Bearish Trends?",
+        "impact": "中性",
+        "reason": "仅为预测性文章，无实质利好"
+      },
+      {
+        "title": "Memecore (M) Ignores ZachXBT's ‘Red Flag’ Warning, Rallies 50% After RAVE Token Collapse — ATH Could Be Next",
+        "impact": "利好",
+        "reason": "显示价格有反弹动力，但基于高风险事件"
+      },
+      {
+        "title": "ZachXBT Allegations Expose Memecore’s Shocking 90% Insider Supply, Triggering Market Plunge",
+        "impact": "利空",
+        "reason": "指控导致市场恐慌，价格暴跌，信任受损"
+      }
+    ],
+    "fundamentals": [
+      "MemeCore 是专为 Meme 2.0 设计的 L1 区块链，旨在将 Meme 币从投机转变为文化、价值和社区协调的引擎。",
+      "主网已于 2025 年 2 月启动。",
+      "代币 M 总供应量 100 亿，当前流通约 13.17 亿，流通率低。",
+      "ZachXBT 指控 90% 供应由内部人士控制，团队未明确否认。",
+      "市值约 9.4 亿美元，FDV 约 38.6 亿美元，估值偏高。"
+    ],
+    "marketRead": [
+      "24 小时价格暴跌 74.79%，7 日跌幅 75.27%，处于历史低位。",
+      "DEX 流动性极高（69 亿美元），但交易量仅 3.99 美元，表明流动性主要由做市商提供，真实交易稀少。",
+      "价格从 ATH 4.82 美元下跌 84.88%，市场情绪极度悲观。"
+    ],
+    "risks": [
+      "内部人供应占比过高，存在抛售风险。",
+      "项目声誉受损，ZachXBT 指控影响深远。",
+      "价格处于下跌趋势，动量极差。",
+      "流通量低，未来解锁可能带来抛压。",
+      "Meme 币板块整体疲软。"
+    ],
+    "watchlist": [
+      "团队是否对内部人供应指控做出回应或公布透明度报告。",
+      "Meme 币板块整体走势。",
+      "价格是否在 0.7 美元附近形成支撑。",
+      "是否有新的生态应用或合作伙伴。"
+    ],
+    "sourceNotes": [
+      "数据来自 CoinMarketCap 和 DexScreener，价格和市值可能存在延迟。",
+      "新闻来源包括 CryptoRank、CCN 等，部分为预测性内容。",
+      "DEX 流动性数据异常高，需谨慎解读。"
+    ]
+  },
+  "profile": {
+    "id": "memecore",
+    "symbol": "M",
+    "name": "MemeCore",
+    "categories": [
+      "Smart Contract Platform",
+      "BNB Chain Ecosystem",
+      "Layer 1 (L1)",
+      "Meme",
+      "Binance Alpha Spotlight",
+      "MemeCore Ecosystem"
+    ],
+    "homepage": [
+      "https://memecore.com/"
+    ],
+    "description": "MemeCore is the first Layer 1 blockchain, built for Meme 2.0 — a new paradigm where meme coins transcend speculation to become engines of culture, value, and community coordination. In this new era, memes are not just content — they are currency, governance, and creative expression. Mission To structure and sustain the meme viral economy, empowering anyone to launch tokens, earn from cultural contributions, and build openly in a decentralized, meme-native environment. Vision MemeCore envisions a world where meme coins are vehicles of shared ownership and viral innovation. Every social post, meme remix, and on-chain action becomes a part of an economic feedback loop — fueling a participatory ecosystem where culture is capital.",
+    "marketCapRank": 68,
+    "currentPriceUsd": 0.716328,
+    "marketCapUsd": 943140949,
+    "fullyDilutedValuationUsd": 3856684269,
+    "totalVolumeUsd": 20794713,
+    "priceChange24hPct": -74.7908,
+    "priceChange7dPct": -75.27288,
+    "priceChange14dPct": -75.40424,
+    "priceChange30dPct": -76.04014,
+    "athUsd": 4.82,
+    "athChangePct": -84.88411,
+    "circulatingSupply": 1316633100.216457,
+    "totalSupply": 5383965322.577259,
+    "maxSupply": 10000000000,
+    "sentimentVotesUpPct": 50,
+    "watchlistUsers": 10154,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "M/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "98XAG3fv3pBcQfBdR6MMDDHSwDMs8rZYtxTidAgcrCpd",
+    "pairUrl": "https://dexscreener.com/solana/98xag3fv3pbcqfbdr6mmddhswdms8rzytxtidagcrcpd",
+    "lastPrice": 0.6993,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 6992652864.89,
+    "fullyDilutedValuationUsd": 6993652639,
+    "marketCapUsd": 6993652639,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/98xag3fv3pbcqfbdr6mmddhswdms8rzytxtidagcrcpd",
+    "pairAddress": "98XAG3fv3pBcQfBdR6MMDDHSwDMs8rZYtxTidAgcrCpd",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "AfUFPnHgedJR6dVoiBy4nrM4jN6MvCU2oR6Xd7EfDRZ5",
+      "name": "MemeCore",
+      "symbol": "M"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.6993",
+    "priceUsd": "0.6993",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 3.99,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 6992652864.89,
+      "base": 9998570450,
+      "quote": 3.3454
+    },
+    "fdv": 6993652639,
+    "marketCap": 6993652639,
+    "pairCreatedAt": 1752241367000
+  },
+  "news": [
+    {
+      "title": "Meme Coins Price Prediction: Can MemeCore Outperform as DOGE and SHIB Fight Bearish Trends? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYWhRMzBtRzIyeFdQM0dmekc3cl83TC1OaHhWWFA5MUVibzdmZkFCQXRGazc5VUpkMWx3RGcyT1NtNnp0QWdsdW5kZW5SNDNrN01JSnpJT3Q5aVdWeHlPX3RJcEN5UmlsODBwUzBHOVdvaXczZzFSSzNPRTFUb1kzMkNseHZxSEhVVTVOangxbW9leHlhZ1MzbTFTS1lzejhQblVfYXBRR19HQW5WS0tBWUxicGx2R21BVmx1bDduckVZYkZBVEE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 22 Jun 2026 15:10:51 GMT",
+      "snippet": "Meme Coins Price Prediction: Can MemeCore Outperform as DOGE and SHIB Fight Bearish Trends?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "MemeCore Price Prediction 2026, 2027-2030 - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd1lMZWRGdlRrYTJ4SDFwSmhRZDhwTVVGdDZJS0VHeU9xaHVuWm1qSXdNTnlpbUdIYnZyZXItYVFMbGI2aTQ5U3FXMmhwOVctc0htMWVuTXVveVVBX0tUbVA5Wk5aS1JPNXZQYWZlUUJpYU00YWxLc1oycWlmSHdkOE1wMFlOQms?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "snippet": "MemeCore Price Prediction 2026, 2027-2030&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Memecore (M) Ignores ZachXBT's ‘Red Flag’ Warning, Rallies 50% After RAVE Token Collapse — ATH Could Be Next - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV0xaUDRVRGo3VnhzS0g3TkQ3ekQzVXhiWmFnSnNVWW0yNGFYQkZmUHA0cGo3RTN2V3ZtSU9mdEtWTi00ZUE1eG9ZRFlWQTJqcGVIdnN6MGdiRFZKSjMwSDBpUWliWE4tNGRHWlpPZ3o2dUFjaXdGQ09lYjVUNFhLa0hTZHVlaGRZZVZWbHhkSmV5QQ?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "snippet": "Memecore (M) Ignores ZachXBT's ‘Red Flag’ Warning, Rallies 50% After RAVE Token Collapse — ATH Could Be Next&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "MemeCore price jumps 40% as leverage and whale flows fuel memecoin comeback - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xR1RFNWxCYmVXSzhvYlN6S0lqOEVhSjhraWlaVUhidmNMZmtRRVd2MXpHbFBNUkFJcnoxbzlsRDluajBrSGxia01sR2xIMmJ1aXRvZjJIajA0UQ?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Fri, 27 Mar 2026 07:00:00 GMT",
+      "snippet": "MemeCore price jumps 40% as leverage and whale flows fuel memecoin comeback&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Why Is MemeCore Up 20% Today? - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFWEMySnZURGdtc0QwYXpjZzl1b3RIejZBUHUxeldSeWgxdng5NHg4dXo1dGxWX1A1TDhKZDYyalBmX3NMeFo3Z0ZUVW9COVBNRWdLc1RWcTQ0WmtsNGJZMzlwZkp0cGI2QkR1ODZlYkc?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Tue, 05 May 2026 07:00:00 GMT",
+      "snippet": "Why Is MemeCore Up 20% Today?&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "MemeCore (M) fluctuated 36.7% in 24 hours: driven by active meme coin sector and supply scarcity - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03UWtwTnBRSlg5ZnZRNU4zNXBISWtlQk1pdXh5RGpjb3Vhd253b0Vxa1Rab24tWl9wY3o3VkRBMnlOUndXSjNxSDduVkFCdElqa0dNbjdpTHV1cktyMnfSAWNBVV95cUxPeGhlZXUxUTRwSzhVLU1WOVhXMFJ5bmFkdVZ4UEFYYzdGT3F0emhucU5NOF94Y09FU3hPSXNYZ0FIZExQWHhqTWRkNjM1WFV0WUk0c2F6TEo3VTdsbElFY09fMTA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "MemeCore (M) fluctuated 36.7% in 24 hours: driven by active meme coin sector and supply scarcity&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Memecore Price News: M Crypto Needs To Break $3 Resistance To Keep Rallying - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlI3UWNoY1FVRnFrZEdjN1luclU4TDBkMHFWZ0tueFNucG5STVRjUU5LNnl3STB2QVFlaVRrbGpLWFVtYkZ5RlRjLWVmdGJzSF9PU0tPck1qckxKeDdjY1JNY0xiQ2xieVVYLWE3enJ3c0p0SENTUEZMV3pJMV9VRmVuVmRjenNBVEdQc1hscTR1QQ?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "snippet": "Memecore Price News: M Crypto Needs To Break $3 Resistance To Keep Rallying&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "ZachXBT Allegations Expose Memecore’s Shocking 90% Insider Supply, Triggering Market Plunge - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWE1jLWs0Wk1GU2hSLXBDU3I4UXVRV0FKTGE4VnFGMDNuanJJaVJwVHlmQmR3d0p5RFlJLWdyUklKUXBaQWt1SWpIWFRuNlFGUlRkUHhicU9HenZieXdfT1NGay0tVUNWSnlUM0dqcFkzMTE1NWhNYkVITGZnQ3BhdmFkVjZfOUZI?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "snippet": "ZachXBT Allegations Expose Memecore’s Shocking 90% Insider Supply, Triggering Market Plunge&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "MemeCore $M Token Analysis - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3Z3JwWmVpRkNjems5R0I0b1pCRUsyQURsU0t1N2pDenNYczJTN1JDclZoeEcydTBtYkJXVWE3MEp6dFdXRlBVU1FudE94bGRNdXQxTS1xdzBxQ3IyaVNsdjNPNA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 23 Jul 2025 07:00:00 GMT",
+      "snippet": "MemeCore $M Token Analysis&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "MemeCore Launches Layer 1 Blockchain to Structure the Meme Coin Economy - Chainwire",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkVRbUF2NTRRVnNFMmNfZmxEcjh5eGQydjluZmdkc1ZiQnNlTjc3RHlnOERBMm5fTWFmTzlYYUdvN1BOaU9MTVczRnRabWFCTEg0TWpBUmNwWmgzTm90TjhBOE1UNzBfeUtUcXI2N3ZlM3dBMVlUS19Bb2daMUJzVzFreE1HOVFZSGFEaklmRkIzd2M2cVIwRzdpV1Q0R3oyNjlTa0FyNkY?oc=5",
+      "source": "Chainwire",
+      "publishedAt": "Tue, 09 Sep 2025 07:00:00 GMT",
+      "snippet": "MemeCore Launches Layer 1 Blockchain to Structure the Meme Coin Economy&nbsp;&nbsp;Chainwire"
+    },
+    {
+      "title": "What Is MemeCore (M)? How Does It Work? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83LThTRXFoaF81R25kbk5vZ1U0a0NEbmNCdnZWR2NHLWY5bjAyQ3poT0wzZkNKeWtzWFB3Q1hTcVpZSTVlNW95aWFvTEZzcGVCWEZVZjRqM1ljdlB2V092YUV0ZmQzWHB4V1lEM2xubVlhemtyeTRJSHp30gF_QVVfeXFMTUh0dkUtZUpPVlMybHBKc3ctQjVjUzF0bEIteVEwcDFBWTBZeWNkbHY4ZlVwNXJBWnMxc21jM2F2VHJGOUFlQlNDTV9kNVpwV21tdkJGMjlBVGlCU1hDQ19LeTVUMWxNVzFTU2ViRzFKWXNRUFhyWnMya1BiOWM4QQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 30 Jun 2025 07:00:00 GMT",
+      "snippet": "What Is MemeCore (M)? How Does It Work?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "MemeCore price today, M to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uUGhOMXV1VVFpNFFaY1dRTTdkWUZ5Snhodzd5WWRTYllYM21JZnh2aVVoOHVtQmN5WWlDRU9TWlhoaFBKdjBnWDJRNVJzY3pqUmRIV0Vyci1Ndw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 27 Jan 2025 08:07:48 GMT",
+      "snippet": "MemeCore price today, M to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "MemeCore (M) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Tcjh3aWsxVUUweURlZUVBeGlOeDNySHIyZnVIMzd6bzB5QWFUVzh4Ql8taXpnbS1iQnlfSkJnYjFpV3QyMExkY3dB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 14 Mar 2025 15:10:12 GMT",
+      "snippet": "MemeCore (M) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "MemeCore Officially Announces Mainnet Launch, Revolutionizing the Meme Coin Ecosystem - Macau Business",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlZ5aXowZFBiTkIzeXE5V3NKa2ZRTTc3QWZ5TmJFaTNNTDdBbXZIczFqZ0U5TEt5ZV9PSzlfXzBRUVRGVnMtSlhjNERZOV9zR0YzaXpnM0M3N0dfeGprd3dQaUlLRGpXVDRWa0xIQlVSZW56WmtCRXNjUmI5aVZWeXRTbzc3NmR0OUNZYzh3LTZkR3dWWGlIN2hYRThUazBQRXd5TjUyeGdVVG5XRFJNNA?oc=5",
+      "source": "Macau Business",
+      "publishedAt": "Thu, 13 Feb 2025 08:00:00 GMT",
+      "snippet": "MemeCore Officially Announces Mainnet Launch, Revolutionizing the Meme Coin Ecosystem&nbsp;&nbsp;Macau Business"
+    },
+    {
+      "title": "MemeCore (M): L1 blockchain with innovative meme coin mechanics - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96dklPblFSQ19OS1U5LV82Rk1VeDZPTlRDdWpJRFE4ZHlsOFVuX2ItZUVjM0dNMW0yU042bmhySTJqXzBrYkk5M0xhTmpuVVZCZmR5aXg3NXRxUTREcHplbw?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Fri, 18 Jul 2025 07:00:00 GMT",
+      "snippet": "MemeCore (M): L1 blockchain with innovative meme coin mechanics&nbsp;&nbsp;Bybit Learn"
+    },
+    {
+      "title": "MemeCore Crypto Tops Charts with 90-Day Price Surge - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wcmZGcEQ3NUVGU0VoNGJXRnNlTVpYdnVPNnVlX2QwS1FWWll1bW0tN0ZBRjR6VXBIZVRXNjd1T3h5TVd5YXJ4TEE1LXFBaXVpSzZfWmxoZnpIY004S2FnZmdxaw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 04 Sep 2025 07:00:00 GMT",
+      "snippet": "MemeCore Crypto Tops Charts with 90-Day Price Surge&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
