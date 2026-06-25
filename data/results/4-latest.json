@@ -1,0 +1,253 @@
+{
+  "token": "4",
+  "requestedInput": "4",
+  "exchange": "other",
+  "generatedAt": "2026-06-25T09:32:04.719Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "4",
+    "name": "4",
+    "generatedAt": "2026-06-25T09:31:58.308Z",
+    "summary": "代币'4'是BNB Chain上的Meme币，市值约889万美元，24小时涨幅3.7%，但距离历史高点下跌97%。新闻多为无关内容，仅一条提及空投收益，缺乏实质性利好。流动性低，社区热度一般，风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，不适用"
+    },
+    "catalysts": [
+      "空投收益相关新闻（BeInCrypto）可能短期吸引注意力",
+      "BNB Chain Meme生态偶尔有资金轮动"
+    ],
+    "latestNews": [
+      {
+        "title": "4 Airdropped Tokens Won Big in Q2 Despite Market Volatility - BeInCrypto",
+        "impact": "利好",
+        "reason": "提及空投收益，可能吸引投机者"
+      },
+      {
+        "title": "Notice of delisting 4 spot trading pairs on February 6, 2026 - Bitget",
+        "impact": "利空",
+        "reason": "交易所下架交易对，流动性进一步恶化"
+      }
+    ],
+    "fundamentals": [
+      "Meme币，无实际应用或路线图",
+      "总供应量10亿枚，全流通，无锁仓",
+      "社区为X平台群组，无明确开发团队",
+      "市值仅889万美元，流动性差"
+    ],
+    "marketRead": [
+      "24小时涨幅3.7%，但成交量181万美元，换手率约20%，可能为短期炒作",
+      "价格距ATH跌97%，处于深度回调区域",
+      "无CEX交易对，仅DEX交易，数据不透明"
+    ],
+    "risks": [
+      "Meme币高度投机，无基本面支撑",
+      "流动性极低，大额卖出易导致价格暴跌",
+      "新闻中提及交易所下架，负面信号",
+      "社区热度低（仅3286人关注），缺乏持续动力",
+      "价格长期横盘，无明显上涨趋势"
+    ],
+    "watchlist": [
+      "是否有新CEX上线或社区活动",
+      "链上大额买入/卖出动向",
+      "BNB Chain Meme整体情绪"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取CEX数据",
+      "新闻多为无关内容，仅两条与代币直接相关",
+      "数据来源CoinMarketCap，可靠性中等"
+    ]
+  },
+  "profile": {
+    "id": "4-2",
+    "symbol": "4",
+    "name": "4",
+    "categories": [
+      "BNB Chain Ecosystem",
+      "Meme",
+      "Binance Alpha Spotlight",
+      "Four.meme Ecosystem (BNB Memes)"
+    ],
+    "homepage": [
+      "https://x.com/i/communities/1973250438989246558"
+    ],
+    "description": "",
+    "marketCapRank": 1210,
+    "currentPriceUsd": 0.00891657,
+    "marketCapUsd": 8890651,
+    "fullyDilutedValuationUsd": 8890651,
+    "totalVolumeUsd": 1818867,
+    "priceChange24hPct": 3.7234,
+    "priceChange7dPct": 5.41558,
+    "priceChange14dPct": 3.98224,
+    "priceChange30dPct": 4.39785,
+    "athUsd": 0.292094,
+    "athChangePct": -96.96885,
+    "circulatingSupply": 1000000000,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 3286,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "4USDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=4USDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "4FDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=4FDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "4USDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=4USDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "4BTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=4BTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "4 Airdropped Tokens Won Big in Q2 Despite Market Volatility - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4MHRFOHFidE5uT2RYQWUxVnZ4QlN6TzBsVjI5VDMzVWtSNHRmU1hmS0NuVF9GVnJNMEdoNkl2SzhBUWZXd2Y2WkJSRnd6bDJnRzUzSmR5VUUwalhOMVFGREhVOFE5MXVuTS1pRm9lSQ?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Wed, 24 Jun 2026 09:35:00 GMT",
+      "snippet": "4 Airdropped Tokens Won Big in Q2 Despite Market Volatility&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "XRP price analysis: Ripple-linked token falls 4% on bitcoin-led market weakness - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkZrNUpUakdGTm04OWlJdEp1OXd2cGFkd1Y2UDVpVGlzcmlqMFIzTE9qYVU3bUYxdkM3STBLNXJ6d3ZYVXdRd0ptaWwyQ1pqM0dwV1pTTnZKclVQNFU5RW5aaE5iU0VYMzRkX1IwRW9KeVJjSC00dXAteW96NnRZeENRQU45b2s4NWNVRTNpN1hsTm80ZVZBN2VLYUtwNjU0VkY3LWk0NUhVa3d4dXhMa1lRcThWT0hWS3c?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "snippet": "XRP price analysis: Ripple-linked token falls 4% on bitcoin-led market weakness&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.21 Million Tokens, and Total Crypto and Total Cash Holdings of $13.4 Billion - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZGdfY3NsZFFzcllycm5BR0c0bldTNkZNZDk3U1NlRU9seklPVHJRVXo3Qk5lRGtNSXpMMy1EVHpoZ3Z5WlZ2Vk9SaWd3R0RncWg0RVVYSU9DV3lQSmJ0eExZcHpfOHFvdk15NDZCN0NSMVV5OGY1WDNzYXNjWWRwZUNLcjJRMUlSeDA4eFlqRjdaemFUQkJIVHZsdzhfOFBXNm5wNlRLWUZReTVvOUdpSVU0U1Y5eGJMVWdxMjM1OGJodFRXSjExLWNpeEVvS2lsWVA1dG1nRVpkVDFNeXBZa0FITFlIQnpWVzZiR0g5VlVSek52Y3RZNXN1RUlHR1NPeFl1bi00Y2p4ai1xZ3otVVg2UExuOWxZaXBwRDA2ZzJDbWc?oc=5",
+      "source": "PR Newswire",
+      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
+      "snippet": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.21 Million Tokens, and Total Crypto and Total Cash Holdings of $13.4 Billion&nbsp;&nbsp;PR Newswire"
+    },
+    {
+      "title": "Bitcoin price under pressure, drops below $92,000 as 'self-fulfilling prophecy' puts 4-year cycle in focus - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVGlyNkVnVlNNa2pteTk3T0VOY0xDNk9sTlk5Y1J5T0xfNHFDdFZQUzhzYk5JckxjdVVIUGFfNGdHcjIyRS1HZEZoVHBuN3N3LWRfWDhsRE45UXJLcGZNZXl3clhuejVVQjVXUlhrTU5TczZmSzI0Zkl3UWw0Mmdtd191dEVtcGY0b3ozSUpVVkVQQUFIMGVlNFZwd3UxaEZESHRTQWtzeC1scUFVNldfeVJBQ1ZmenQ5UlpqM0N6Z2ZsUGVnbVRzMWl4VEVON3k5a1FSWVluLXhFaWtheHBXTA?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 19 Nov 2025 08:00:00 GMT",
+      "snippet": "Bitcoin price under pressure, drops below $92,000 as 'self-fulfilling prophecy' puts 4-year cycle in focus&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "What Happens to Crypto If the CLARITY Act Becomes Law in July? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMlQ4azJkdzlEMDBNSEtKOHRqSTdaN2FWZkxhc1VHelVWWDlhSUdYeWFFa3dWU3J0UUZSUE5aVUlKaG1ReDJSLWNla1BrZkNMaXllOXBpVmsxLS1STVZNcXRLVlNTVWJVQjhUWGkxVW1fNHI2LThBbkItRkctT2R4T1pNQUJ3bndFVUdpMmFrU2VYOU5WbGZqVnpxalFid0w3Yk5IdkxJdS0?oc=5",
+      "source": "24/7 Wall St.",
+      "publishedAt": "Sat, 30 May 2026 07:00:00 GMT",
+      "snippet": "What Happens to Crypto If the CLARITY Act Becomes Law in July?&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "4 price today, 4 to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02c08yWnpKRC1pLUxZRnZwOFVTb0FlYW9xdGhrellEMGhUTWJwVTh1MlZwR0JKNF9POVU0YVJHZHBRSDRsRXJzcE9wUF84bTJjV0JSeXFR?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 02 Oct 2025 10:19:34 GMT",
+      "snippet": "4 price today, 4 to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.371 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOSUZCWmJteThsSHRUVS1wOTh0NkNTWExjSWdtZWFFOHZXUWhCZ2NqdDV5dG5oMHZqZGxyS1FLVUZSRFZWQlFYS3pOaW1sc3VCSDNYRlJKOWVxV2tyR2FucGJBTGlsY09VSjFFQV9BRUxGS3R5MkRSTHhlbUZ0OXZLRE81RHJIaWw4OHA2RWEwbGZINUFaaWVsNGxISktYYWlkRjdfNmpyUUJXYlkyVmJfT0FUMGZsYzZfX0JDNEd5aDd6ZXNqYUd6WllXeHBNTGl3ZGhLWG5iMFVTQlNXN1dwMURfSVJMOTc1TWFQOFQ1SWtKbUxzcWdjUkhDeGlpVUg5cnlrNFB0TUtIRkQ0YTNyVHIxblhFN2k1UWxkNjZOTUtuXzA?oc=5",
+      "source": "PR Newswire",
+      "publishedAt": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "snippet": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.371 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion&nbsp;&nbsp;PR Newswire"
+    },
+    {
+      "title": "CHIP Token Skyrockets 122.54% in Dramatic Short-Term Crypto Rally - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OMWdVSFJkbnViOUFXcHlFODNVMDFOT2VBQVY2NDFjOUZFUHZMYTlucTJqY2tfdVFnYnhwZEVRWHBPT1JyZTBjdlQ3QzJqSnFKWG5KX3ZjNENWQmNEcTlGakxJWU5uUHN4V1BtUl9OOGFhWXJjdERn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "snippet": "CHIP Token Skyrockets 122.54% in Dramatic Short-Term Crypto Rally&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "TEA Goes Live June 4: tea Launches Mainnet With Trading on Aerodrome, MEXC, Gate, and KuCoin - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYSWE1ZXhrV0lZRFFvMzJmMkZRY1ozNlFWU19VSnAwRUhJcEN5LWRQNm5yeFpFZGVJbjJjNTVVV2pHV2t5dUFFLThYdHlKTk5uejd1cy1YbTlMNUVGMVRLekZtdlc0TXFFZ05wRzVac3RxN3phcmpYNg?oc=5",
+      "source": "Yellow.com",
+      "publishedAt": "Wed, 03 Jun 2026 16:23:08 GMT",
+      "snippet": "TEA Goes Live June 4: tea Launches Mainnet With Trading on Aerodrome, MEXC, Gate, and KuCoin&nbsp;&nbsp;Yellow.com"
+    },
+    {
+      "title": "Pi Network Phase 4 Release Date: What to Expect - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WYV9Pbm9McjFoT0x0M0NrajNiVzE2TDJCbTFSQmtwSDNqV2RfUnFQVWVEN09LNTRpTEwtbFNkUUZMRjFqUlVuSDRXNFdSbmNIQ2ZzaFZ2Nm9lNzMzMlluQW54T3U4Z0dLQmJ3?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 08 Aug 2025 07:00:00 GMT",
+      "snippet": "Pi Network Phase 4 Release Date: What to Expect&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "KuMining Elevates Cloud Mining Ecosystem with Affiliate Program , Airdrop Integration, and Top 4 Dogecoin Hashrate Dominance - Chainwire",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeWhFTExJNldsa1MzdmJxa0t6UGk4WGRwX0VCS0xqU2prSFY4NHIxY181YWQxSDBSQTRYRjcwOXBFOWdCWEdUMlNKTXV4WC1wWUdOd2FCbHQxU1ZWRDBIT2VUMGp0RmVsbU9nRFpwMC12a3FsSmlYUlM1RXJ1VVlGMnRJSk8zY3FqVm5MdjhaWDRCb1dXQWdKM1BtT3BLLWJkNnpMV0VuZWxLVEwwb3hKOWJrc0tpU3Y5NzNlQWtPekR4VkdoMU1VR1plS3BjSUdFc182RHZ0a2tyQjVqVUozT0sxN1dRTUpyamZr?oc=5",
+      "source": "Chainwire",
+      "publishedAt": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "snippet": "KuMining Elevates Cloud Mining Ecosystem with Affiliate Program , Airdrop Integration, and Top 4 Dogecoin Hashrate Dominance&nbsp;&nbsp;Chainwire"
+    },
+    {
+      "title": "Essential Guide: Aster’s Phase 4 Airdrop Concludes December 21 – Claim Your Tokens - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zdXpHV0lXMUk1Q2tOaWhyWFIyUEdObmF3czFLbUxOejRoeGc1ZWphOF9mWG9PSmJnQXBPNWk4TVp1NWNxNHRDSjRzRTh5MUpBNkt2eXZHVDhRSjVtTV9sazN6MjB5Rk9PaGZZcGRjM1RvYmFYUmszcw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "snippet": "Essential Guide: Aster’s Phase 4 Airdrop Concludes December 21 – Claim Your Tokens&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Notice of delisting 4 spot trading pairs on February 6, 2026 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YaVZuNHgyZXhaM2c1Umtmcm5JZXMyWDVPN09RaS1oVlhUbHpxUFNNYmNUSkVlcmZlTzB2X1ZuTk10M05DSWlKc3hmOFUxWnJzSVhncVByeFIxUU84VUE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "snippet": "Notice of delisting 4 spot trading pairs on February 6, 2026&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Zcash Drops 17% After 4-Year High, Shorts Pile In—Squeeze Setup? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qN3g1eTBRLXFfdkZ6U1h4TnBfd0RyQVdCeFFlUDZrV3JlRElxMFVNUm5lTHlMbHM2Tmo5Wlp3X1NieDVKUEp4RVFaQUtQYXFIaXhRTzV1MV84QkVUSlHSAWNBVV95cUxNYy03a0NzM2hRVlhiMUtvNmx3WXpHVlFKNkdCVHJ5VmxGN3p0eElPaG9aNnVhSzBwbzZGamtPSXI4WjY3V3ltY1Vna1k4a3hNelc0cWlsMWRnYmU4QS1rTy1TU2M?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "snippet": "Zcash Drops 17% After 4-Year High, Shorts Pile In—Squeeze Setup?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "On Monday (May 4), at the close of trading in New York, the ICE US Dollar Index rose 0.25% to 98.401 points, with an intraday trading range of 97.970-98.536 points. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zTER4QktxcHpXa1FCNEY1cXpmb1YtQmM1WDFDdXIzLXJheXlSdVhzU2tUaFpjejZORFhNOWwxaVRnUjc0TEhwakZkV2N1LU9jSDhKWFZPaklaNHFYUWfSAWNBVV95cUxQeWtsMWhPN3RDZlR5QXFPMTJIYUZhSkoxQ1dBQW5tWkhMSjV1a0lJYWQwQ0NaWGs2RU5FcGFwdlZoNFBNaUp6TU1wamFtTTFSNGJtRWxrdHpuX2M4WjkxMVZZX2c?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
+      "snippet": "On Monday (May 4), at the close of trading in New York, the ICE US Dollar Index rose 0.25% to 98.401 points, with an intraday trading range of 97.970-98.536 points.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bitcoin’s 4-Year Cycle Still Intact as On-Chain Signals Realign - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmRjFXSS1OYUdnRGpnQWxnMnlHYWhqdUt0dkhQSjdFa0ExOHBlbll5Wk44eHZtdzJBWWFmZGlwd252YlYyNlJpdHJ6MEJHd1l2em0wQURlZ0lmVkNqLXc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "snippet": "Bitcoin’s 4-Year Cycle Still Intact as On-Chain Signals Realign&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener: 400 Bad Request from https://api.dexscreener.com/latest/dex/search?q=4: \"<html>\\n          <head>\\n            <title>400 Bad Request</title>\\n          </head>\\n          <body>\\n            <h1>400</h1>\\n            <p>Bad request.</p>\\n          </body>\\n        </html>\""
+  ]
+}
