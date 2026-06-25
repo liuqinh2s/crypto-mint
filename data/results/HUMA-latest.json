@@ -1,0 +1,310 @@
+{
+  "token": "HUMA",
+  "requestedInput": "HUMA",
+  "exchange": "other",
+  "generatedAt": "2026-06-25T19:32:08.282Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "HUMA",
+    "name": "Huma Finance",
+    "generatedAt": "2026-06-25T19:31:58.320Z",
+    "summary": "HUMA近期因PayFi概念和Binance Launchpool上线而上涨，但24小时内价格下跌0.04%，且存在V1合约被利用事件和大量代币解锁风险。当前流动性极高但交易量极低，市场情绪中性。建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现新的重大利好或解锁压力消化后价格企稳，可重新评估。"
+    },
+    "catalysts": [
+      "Binance Launchpool上线HUMA，带来短期关注度",
+      "PayFi概念（支付金融）叙事新颖",
+      "与稳定币结算、跨境支付等实际用例结合"
+    ],
+    "latestNews": [
+      {
+        "title": "Huma Finance legacy V1 contract on Polygon exploited for $101,400 USDC",
+        "impact": "利空",
+        "reason": "合约漏洞导致资金损失，损害项目信任度"
+      },
+      {
+        "title": "Over $35 Million in Token Unlocks Scheduled This Week: HUMA, XPL, and Others Lead Supply Events",
+        "impact": "利空",
+        "reason": "大量代币解锁增加抛压，对价格形成下行压力"
+      },
+      {
+        "title": "Introducing Huma Finance (HUMA) on Binance Launchpool!",
+        "impact": "利好",
+        "reason": "头部交易所支持，提升流动性和曝光度"
+      }
+    ],
+    "fundamentals": [
+      "Huma Finance是首个PayFi网络，专注于全球支付融资，使用稳定币和链上流动性实现24/7结算",
+      "总供应量100亿，流通量17.3亿，流通率17.3%",
+      "市值约4300万美元（CoinMarketCap），FDV约2.49亿美元",
+      "项目类别包括DeFi、BNB Chain生态、支付解决方案、Binance Alpha Spotlight"
+    ],
+    "marketRead": [
+      "DEX（Orca）上价格0.03144美元，24小时变化-0.04%，交易量仅3.99美元，流动性高达3.13亿美元，说明流动性池深但实际交易极不活跃",
+      "CoinMarketCap数据显示24小时涨幅15.99%，但DEX数据相反，可能存在数据差异或不同交易对",
+      "30日跌幅2.78%，ATH跌幅78.59%，整体处于低位震荡"
+    ],
+    "risks": [
+      "V1合约被利用事件表明智能合约安全风险",
+      "大量代币解锁（本周超3500万美元）带来抛压",
+      "流通供应量仅17.3%，未来解锁压力巨大",
+      "DEX交易量极低，流动性可能为虚假深度",
+      "市场情绪中性（看好比例50%），缺乏明确上涨动力"
+    ],
+    "watchlist": [
+      "代币解锁进度及市场反应",
+      "V1合约漏洞后续处理及赔偿方案",
+      "Binance Launchpool结束后价格走势",
+      "是否有新的合作伙伴或实际应用落地"
+    ],
+    "sourceNotes": [
+      "数据来源包括CoinMarketCap、DexScreener、新闻聚合，部分数据存在不一致（如价格变化），需谨慎参考",
+      "DEX交易量极低，可能无法反映真实市场情况"
+    ]
+  },
+  "profile": {
+    "id": "huma-finance",
+    "symbol": "HUMA",
+    "name": "Huma Finance",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "BNB Chain Ecosystem",
+      "Payment Solutions",
+      "Binance Alpha Spotlight"
+    ],
+    "homepage": [
+      "https://huma.finance/",
+      "https://app.huma.finance/",
+      "https://linktr.ee/humafinance"
+    ],
+    "description": "Huma Finance is the first PayFi network, powering the financing of global payments with instant access to liquidity - anywhere, anytime. Huma Finance enables global payment institutions to settle their payments 24/7 using stablecoins and liquidity on-chain. It powers settlements for a range of PayFi use cases such as cross-border payments, credit cards, trade finance, and enables novel solutions like DePiN financing. ",
+    "marketCapRank": 480,
+    "currentPriceUsd": 0.02488695,
+    "marketCapUsd": 43124188,
+    "fullyDilutedValuationUsd": 248793390,
+    "totalVolumeUsd": 11748342,
+    "priceChange24hPct": 15.9852,
+    "priceChange7dPct": 7.28094,
+    "priceChange14dPct": 13.5311,
+    "priceChange30dPct": -2.78486,
+    "athUsd": 0.115647,
+    "athChangePct": -78.589,
+    "circulatingSupply": 1733333333,
+    "totalSupply": 10000000000,
+    "maxSupply": 10000000000,
+    "sentimentVotesUpPct": 50,
+    "watchlistUsers": 3942,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "HUMA/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "DBQaoKDiCAGNz418LS6XT7Xo8ZqiPygFsLabo2NLzrsH",
+    "pairUrl": "https://dexscreener.com/solana/dbqaokdicagnz418ls6xt7xo8zqipygfslabo2nlzrsh",
+    "lastPrice": 0.03144,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 313405088.12,
+    "fullyDilutedValuationUsd": 314414844,
+    "marketCapUsd": 314414844,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/dbqaokdicagnz418ls6xt7xo8zqipygfslabo2nlzrsh",
+    "pairAddress": "DBQaoKDiCAGNz418LS6XT7Xo8ZqiPygFsLabo2NLzrsH",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "CnLSbJtZmfuqa7m1dFHJ1U4odNJzYCmccmQVpe1maudH",
+      "name": "Huma Finance",
+      "symbol": "HUMA"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.03144",
+    "priceUsd": "0.03144",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 3.99,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -0.04,
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 313405088.12,
+      "base": 9967695364,
+      "quote": 5950.04243
+    },
+    "fdv": 314414844,
+    "marketCap": 314414844,
+    "pairCreatedAt": 1760407505000
+  },
+  "news": [
+    {
+      "title": "Huma Finance legacy V1 contract on Polygon exploited for $101,400 USDC - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaFI3TzFBS19FSTJlbkdxTHlEZnNvYnlhMWRoelBsLW1oci16RGpLQmhGUEZxaFBjdTZYZVN4S25MUzVMQVp3WEY0TUJfM2hrQU9nOHFPeGNhdEtoQmxVUmNTbUNYLWdMUUdhenRheUJ1SU5hUVQ5VTBxVDk3SEc0elpUb0w1dkdvUWtDOXRyMzZISm8?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
+      "snippet": "Huma Finance legacy V1 contract on Polygon exploited for $101,400 USDC&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Over $35 Million in Token Unlocks Scheduled This Week: HUMA, XPL, and Others Lead Supply Events - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQ0RrcEE0VV9vTm84N2g5ZTdEVzl1R3hEMlpzZnpCbUphNVpoQmdBVWE2eERBbVZsc0tnNGlhTTVpUEpoMnJPRFYwWGVKSWNfUnVlQ2ZSeXJYQ0pYSkVGR2tQOUxJWXZKZDlGYlhNWFphTDZsX0VBYnV3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 25 May 2026 06:04:09 GMT",
+      "snippet": "Over $35 Million in Token Unlocks Scheduled This Week: HUMA, XPL, and Others Lead Supply Events&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Huma Finance price today, HUMA to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ENXJwRWR2S0FBb2VReUk3d2NnZEhENzBJbks0dF93S2pZSG1PRUNDckNwNGdva1E0X25RX1h3Z3hYWTV0NWtabDVvWF83TGdVbWJwNFcwWDlZc3Z3MGJJ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 22 May 2025 07:39:22 GMT",
+      "snippet": "Huma Finance price today, HUMA to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Top Crypto News this Week: Nvidia Earnings, $10 Million HUMA Unlocks, THORChain Upgrade, and More - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zdF94endIbGxrZjBIeXFZRFlRalpWMFRUR3FWUVZLYjluYUVwcFJkdkpPMFcxOVNsZDBaTUt0NDBXNUpVVjdDYzFiTWlOelFSUk1DZ2xHMXZ0WXNVRWfSAWNBVV95cUxPZjBYUlNfMDRSNWt5c24wMzdXMFhnUExkRkRyVVpqa0ZFM1d4aEZudzVqLWRvT2doYWg2TTJMdElIVEVQUFhfVlZCbFM5LXAtLXJFd0dhNjBvaEVTWXRYajhJbjQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 24 Aug 2025 07:00:00 GMT",
+      "snippet": "Top Crypto News this Week: Nvidia Earnings, $10 Million HUMA Unlocks, THORChain Upgrade, and More&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Huma Finance Price, HUMA to USD, Research, News & Fundraising - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42MkFnSVhIOG15MVRwLW81ZW5HQ18wMUdvSWQ5ejBVNnVUZkg3NU0tMXJRUTBNVkpLTFFFN0tCRE5tY0xhbzVVT0lrMmJycDVT?oc=5",
+      "source": "Messari",
+      "publishedAt": "Mon, 25 Sep 2023 23:35:35 GMT",
+      "snippet": "Huma Finance Price, HUMA to USD, Research, News & Fundraising&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "Huma Finance price today, HUMA to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tOXBoTXJGOVVBY3Q0MEJZWkZBY1pQUnNRZ0R6VU5Kd0FZbk1rN1B0MGdMdmJ0Y21KYktqX1BLTWpONnVKSWRKeF9OSEx5d21QdGo5dHpB?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 06 Jun 2025 20:58:43 GMT",
+      "snippet": "Huma Finance price today, HUMA to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Introducing Huma Finance (HUMA) on Binance Launchpool! Farm HUMA by Locking BNB, FDUSD, and USDC - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUJLMU9fSXhpVjJjZENUMXc2TGF2bnJVb19FN1ZtVUdzY1NkYk1XT21nWEs3MmtqbFIydk1XcjR2N1Z2dWJnRHkzeC1paVZkZC0tcXEwbHFQTkxNMDg0Wko4MWFLdmdGNWd5NlZjQnEyV3QzVEJLeTQtM1Q0NFYzV1pWTHNRZGxmOVZiYXo0SlQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 22 May 2025 07:00:00 GMT",
+      "snippet": "Introducing Huma Finance (HUMA) on Binance Launchpool! Farm HUMA by Locking BNB, FDUSD, and USDC&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Huma Finance (HUMA) Price Prediction 2025, 2026–2030 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVdCc1RKTlhJY3lKcGFhNzlaX2k0SUhncUVIYm5FcklrZ2VZTUVYUld1OE1LQTNtcFo3ZjZNYV9adWZaWjU4cEJGaFJfM3JNWGxSUi1ab1ZGaXh0SEN6RTFoS2RJUjFRMmk5Z281aF9neWh6WXl1NVJFRkJJdkxuWtIBhgFBVV95cUxPd3NaR2dGOGhpMUpuLU53c1JpY1RoR05TTEhiWFlpUjlOTkVPVTBPRWo3QVlvQWNvZVUtWUJvdFlvZXdFdHBFU1l2ckNmejJldEtCemJuWG05cDhZTDREcjFPYmQ4UWlfQ1pYdjhzVlRyZDMzcmJGeFBPZ2c5aTI4Rzg4VWx3UQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 27 May 2025 07:00:00 GMT",
+      "snippet": "Huma Finance (HUMA) Price Prediction 2025, 2026–2030&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Huma Finance (HUMA): Revolutionizing Payments with PayFi - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONkw4bzVJczhJNGpoUDJQYjh6M3IxeHZYcnZFVDJyLVNEbTcybl9qdW44U2tvTnBQZXZSOXFwa3ZjbXBhTzRwRXNDZWRMZE1iNi1qV3VLc1AwbmV5cWl6MS1id2szZG1iVTJXOU9hZUM5VGExLURNOXFfQVVzNlJCLUQtTQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 26 May 2025 07:00:00 GMT",
+      "snippet": "Huma Finance (HUMA): Revolutionizing Payments with PayFi&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Huma Finance Airdrop Listing Date Today: Will It Reach $1? - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3FLTGVMNndzSmpzZVJyMGFZamZCQ05ZaEZoaUt0SGctYVRjNmRhZk9lUmJ0QXN1NHdqUjhOMWxnd0ZwVGZING9VRlZTZV93WEpLeHplQ0pPMzRyYUljSjVXa3NvVjhER1pzNFlfc3JnWXl5U2tmVjJiLUFrMTNtYWJHUDYxaFhnMXhpeFQxaDN3S005XzM3LTEyaS1OYUpjc2kyb3BNVUJkaWIxQnc?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Mon, 26 May 2025 07:00:00 GMT",
+      "snippet": "Huma Finance Airdrop Listing Date Today: Will It Reach $1?&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "Huma Finance Airdrop: How to Maximize Rewards and Understand the PayFi Revolution - OKX",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmdqTEgwci1oamxfZEpiSHlQd2Y2R3NDV3NRcGtEZ2hBeGJJV2pMaE5rWHc1eDZNMkdmdlcxY0wtaXBEZDB2SkxWeURCZ0I2UnVDNXlyT291dnR5V1JFXy1fUUQ4VGZiS3JBTEtKa21WS2VRdUg3RG92cFY1dHFlVg?oc=5",
+      "source": "OKX",
+      "publishedAt": "Tue, 26 Aug 2025 07:00:00 GMT",
+      "snippet": "Huma Finance Airdrop: How to Maximize Rewards and Understand the PayFi Revolution&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "What Is Huma Finance (HUMA)? Token, Airdrop & PayFi Guide - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QZklZYzlmRVZFc2lSQ2RobVpDMmRYSThqTjRsR2haNGRqM00wc0k3SUkybzB5RGtJNVg0Mk4wNllhMWo5NjZGUVBoZUZ1OWpCQWFPX1l1bzFVNi1MdUw3Yw?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Mon, 26 May 2025 07:00:00 GMT",
+      "snippet": "What Is Huma Finance (HUMA)? Token, Airdrop & PayFi Guide&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Understanding Huma Finance: A Comprehensive Overview - Messari",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpMc3VrTzNLNmNGc3pWVHJBcU1EZ3FEOEtOdHZTNXV6OWctS0I2aEhXUm00R2lZNGdjZmpqaV8xbjdIQkszbTV0cGxlY2dBQmJ4NEFTUFdLRnBXZW5pYzlfNFBUY0xoV25tblBlSXM4SFFQUG1yU2FBaHFNTGxIWHpBSQ?oc=5",
+      "source": "Messari",
+      "publishedAt": "Mon, 26 May 2025 07:00:00 GMT",
+      "snippet": "Understanding Huma Finance: A Comprehensive Overview&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "Huma Finance (HUMA) Listed on CoinDCX: Airdrop Details, 2025 Price Outlook - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81bVFiYkR5Ul9iTHBacDhYVUFCY1dJaVUtVVlvQkNOdjV5X1FiZzVhYnFSME9mYW1vOUNfb3Zwc185NFNSZkpUOUNMUGlCNXdxMlNoOFBSVlRuZS1RRWVXNGVvWVozTTVK?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Fri, 06 Jun 2025 07:00:00 GMT",
+      "snippet": "Huma Finance (HUMA) Listed on CoinDCX: Airdrop Details, 2025 Price Outlook&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "How to Stake $HUMA with Huma Finance (Without Losing Sleep Over It) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGZzlHLXdvbHF4YlB4amxaOWQ4VDJYa1M1Wk1TU2czUFdwM1JzRHg1b1IyblgwbXVWc0NHUjctcHZ0NC11YzlKY2xMT1ViS1hpZ19JeWhjM3RiaFVNNHFDR1dFbw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 15 Jul 2025 07:00:00 GMT",
+      "snippet": "How to Stake $HUMA with Huma Finance (Without Losing Sleep Over It)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Huma Finance (HUMA) Airdrop, Listing & Investor Guide 2025 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmIyUTl0bDNUTXpVQWVvaTltalpRelVWUVlRNDJzWXJmTkVEZTNTOFhfbzhrZ1hXbnFNbWFHcTZzN1VSTnpvelJ3V0Y4UklFN1hobnJfa0MyVXNFOVhvbDBVcEUxUllxdmQzZ0M1a1F3VjdFYmo5UEtTc3hWYWxINzVVNkxJVFRhZWxWeElR?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 27 May 2025 07:00:00 GMT",
+      "snippet": "Huma Finance (HUMA) Airdrop, Listing & Investor Guide 2025&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

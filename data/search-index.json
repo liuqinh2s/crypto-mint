@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-25T18:47:14.590Z",
+  "updatedAt": "2026-06-25T19:32:08.284Z",
   "results": [
+    {
+      "token": "HUMA",
+      "requestedInput": "HUMA",
+      "name": "Huma Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-25T19:32:08.282Z",
+      "latestPath": "data/results/HUMA-latest.json"
+    },
     {
       "token": "TUT",
       "requestedInput": "TUT",
@@ -935,15 +945,6 @@
       "action": "不买",
       "generatedAt": "2026-06-20T03:02:42.805Z",
       "latestPath": "data/results/EWJ-latest.json"
-    },
-    {
-      "token": "INTC",
-      "name": "Intel Corporation (Derivatives)",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-20T03:02:46.718Z",
-      "latestPath": "data/results/INTC-latest.json"
     }
   ]
 }
