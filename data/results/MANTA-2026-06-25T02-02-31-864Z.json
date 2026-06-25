@@ -1,0 +1,299 @@
+{
+  "token": "MANTA",
+  "requestedInput": "MANTA",
+  "exchange": "other",
+  "generatedAt": "2026-06-25T02:02:31.864Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MANTA",
+    "name": "Manta Network",
+    "generatedAt": "2026-06-25T02:02:24.817Z",
+    "summary": "MANTA 24小时涨幅7%，但链上流动性极低（仅9.4万美元），成交量极小，价格异动可能由少数交易驱动。基本面缺乏近期利好，新闻多为旧闻或教程。估值FDV约8500万美元，流通市值约4000万美元，但ATH跌幅达97.9%，风险极高。建议观望。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [
+      "无明确近期催化剂"
+    ],
+    "latestNews": [
+      {
+        "title": "What is Manta Network (MANTA) - KuCoin",
+        "impact": "中性",
+        "reason": "教程类内容，无新信息"
+      },
+      {
+        "title": "Manta Labs Incubator Unleashes a New Era for Web3 Innovation - CryptoRank",
+        "impact": "利好",
+        "reason": "孵化器新闻，但发布于2025年10月，已过时"
+      }
+    ],
+    "fundamentals": [
+      "Manta Pacific是首个EVM等效ZK应用平台，使用Celestia DA和Polygon zkEVM",
+      "属于Polkadot生态、Binance Launchpool项目",
+      "总供应量10亿，流通约4.75亿，FDV约8500万美元",
+      "ATH 4.05美元，当前0.0848美元，跌幅97.9%"
+    ],
+    "marketRead": [
+      "24小时涨幅7%，但链上交易对（MANTA/vMANTA）流动性仅9.4万美元，24小时成交量仅26美元，价格变动缺乏实际成交支撑",
+      "整体市场数据来自CoinGecko，显示24小时成交量约1598万美元，但链上数据极低，可能存在CEX交易量"
+    ],
+    "risks": [
+      "链上流动性极低，易被操纵",
+      "ATH跌幅巨大，市场信心不足",
+      "近期无实质性利好，新闻多为旧闻或教程",
+      "项目处于早期，竞争激烈"
+    ],
+    "watchlist": [
+      "关注是否有新合作或主网升级",
+      "观察CEX交易量是否放大",
+      "注意解锁事件（总供应量未完全流通）"
+    ],
+    "sourceNotes": [
+      "链上数据来自DexScreener，流动性极低，价格参考意义有限",
+      "新闻多为2024年旧闻，缺乏近期催化",
+      "CoinGecko数据可能包含CEX交易量，但链上数据更反映真实DEX情况"
+    ]
+  },
+  "profile": {
+    "id": "manta-network",
+    "symbol": "MANTA",
+    "name": "Manta Network",
+    "categories": [
+      "Smart Contract Platform",
+      "Polkadot Ecosystem",
+      "Binance Launchpool",
+      "Layer 2 (L2)",
+      "Manta Network Ecosystem",
+      "Multicoin Capital Portfolio",
+      "Alameda Research Portfolio",
+      "DeFiance Capital Portfolio",
+      "YZi Labs (Prev. Binance Labs) Portfolio"
+    ],
+    "homepage": [
+      "https://manta.network/",
+      "https://pacific-bridge.manta.network/"
+    ],
+    "description": "Manta Pacific is the first EVM-equivalent ZK-application platform that is scalable and secure through Celestia DA and Polygon zkEVM.",
+    "marketCapRank": 508,
+    "currentPriceUsd": 0.08483,
+    "marketCapUsd": 40305078,
+    "fullyDilutedValuationUsd": 84880045,
+    "totalVolumeUsd": 15985745,
+    "priceChange24hPct": 7.04101,
+    "priceChange7dPct": 3.21898,
+    "priceChange14dPct": 2.46221,
+    "priceChange30dPct": 11.34944,
+    "athUsd": 4.05,
+    "athChangePct": -97.90611,
+    "circulatingSupply": 474847512.5925673,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 60171,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "firefly",
+    "pair": "MANTA/vMANTA",
+    "chainId": "manta",
+    "dexId": "firefly",
+    "pairAddress": "0x38060c598aF2dE576B950fAA846e83e2fa7b19E9",
+    "pairUrl": "https://dexscreener.com/manta/0x38060c598af2de576b950faa846e83e2fa7b19e9",
+    "lastPrice": 0.07842,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 26.06,
+    "liquidityUsd": 94398.88,
+    "fullyDilutedValuationUsd": 81595027,
+    "marketCapUsd": 37240678,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "manta",
+    "dexId": "firefly",
+    "url": "https://dexscreener.com/manta/0x38060c598af2de576b950faa846e83e2fa7b19e9",
+    "pairAddress": "0x38060c598aF2dE576B950fAA846e83e2fa7b19E9",
+    "baseToken": {
+      "address": "0x95CeF13441Be50d20cA4558CC0a27B601aC544E5",
+      "name": "Manta",
+      "symbol": "MANTA"
+    },
+    "quoteToken": {
+      "address": "0x7746ef546d562b443AE4B4145541a3b1a3D75717",
+      "name": "Bifrost Voucher MANTA",
+      "symbol": "vMANTA"
+    },
+    "priceNative": "0.7147",
+    "priceUsd": "0.07842",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 26.06,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 94398.88,
+      "base": 751246,
+      "quote": 323343
+    },
+    "fdv": 81595027,
+    "marketCap": 37240678,
+    "pairCreatedAt": 1716441289000
+  },
+  "news": [
+    {
+      "title": "How do I buy Manta Network with DAI: In-Depth Tutorial - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdXpFY2NQaUd1Ny04NEZQOC04SWpoVkE3WURFTVNkd0hHWklmd29keGJKSmpXeVR0OE1GTWwtQ2thaFRkekpwd3Eya0YwbGt3NzU1eTctcE5pMXZtUHFKSW11Tld4RkpERFA1V2xrTW4xX1dzb1hQbGZMUTVZS2p0Z3JaWk81SFk?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sat, 20 Jun 2026 20:46:18 GMT",
+      "snippet": "How do I buy Manta Network with DAI: In-Depth Tutorial&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Buy Manta with Prepaid Card: Charges, Procedure & Guidance - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3ZqNGJ6aGRZZEg0M0dETThZVDJlUXdHM0JFQW4weWRiR0trRm5pLTRaZ1NBamY2UDJOa0RXQmxhWlBfbDJER1llTUpNS0dnME1wQ2JvczB3cFg5c0VIWmdMa1AteWFhUTUtZkdQb2JicFh2bkhTM0cwS09ob2pMN3FIcWJHdw?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sun, 21 Jun 2026 11:58:01 GMT",
+      "snippet": "Buy Manta with Prepaid Card: Charges, Procedure & Guidance&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Manta Labs Incubator Unleashes a New Era for Web3 Innovation - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HeWMwYzZhdlJ2UHhhVTlLaXhnVUVFWkVCa1dLcmNiV2lVOHdDRGpQcm5tRzJneHJGY0J3M01oSjJGcEpPNUZpLVE3Vk5jZFdDdWswQ3JEbUc2OGZpSzB3eVN0RXFqWU9EdExXaEMwSk4?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "snippet": "Manta Labs Incubator Unleashes a New Era for Web3 Innovation&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Manta Network (MANTA) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DUWNvTmF0cjBrR21IR0VucU5hVHZLT3dNX3FScjk5c2RLalVmdXJ6YXBKSUxxVlhrSy1VcFIxOWg5M3pHUXBseWVfeXZrVWJ1UkFBdllhTy1RWU5WRldHcDRHNmotZ2VoLU41MkZTRWtKb00?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Tue, 30 Jan 2024 14:02:03 GMT",
+      "snippet": "Manta Network (MANTA) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Manta Network (MANTA) Price Prediction 2026 2027 2028 - 2040 - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ENUI5UzJEUTVFV3JVQmhENHV6REY5OUZyUjNVVG9VTUpWWmJoOVhGREF4eFF4M1JLT2pFOTg2ZmZlR25iekhSSzlxbzl6ajZmZTJYX1U1SGY5YjZ6dmE1LUd4aFJUeEpfVlpYVkthX3NUUQ?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Fri, 19 Jan 2024 16:05:48 GMT",
+      "snippet": "Manta Network (MANTA) Price Prediction 2026 2027 2028 - 2040&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "MANTA price prediction 2025-2031: Will Manta Network survive or crash? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43b1UwTl85Q2doWWtLSDZNNlYwVkFJczJfWV9rRGFSTlBzR3p5cWpnU0VibVJnRHhCeHQ0M3ZrZjVDMGxXZGtienM3YWkyNWtUaVFjMG5pRVRPTnV2cnfSAWNBVV95cUxORG03eEVsS2QyTXRwbEowNmFBbGh4T2U0M1djX1F1TWV6Y2phdVVXcmRhMHBWLS1yOElDUm5iaER3VkhXNFVNNkVyWWE3R3pmczBhd1RhX19rWkg0Q0tEMTVaejQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 31 May 2025 07:00:00 GMT",
+      "snippet": "MANTA price prediction 2025-2031: Will Manta Network survive or crash?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Manta Network Price Prediction 2024: Can MANTA Build on Recent Run? - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jbUNSZFJQcWxVaE5BUklDQXFaVmJkRDNEeG1LRm4zeU43VmlHd2pGZ2xyc1RGZFZCSTVEcjcxZHJSWGFqS0R1TUIzbGpmUV80a0VPUkVqcWJXa3hQNmZuTUZyU3dpclFtRmJfaXhDaXhFc0dk?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Mon, 22 Jan 2024 08:00:00 GMT",
+      "snippet": "Manta Network Price Prediction 2024: Can MANTA Build on Recent Run?&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Manta Network Price Prediction: MANTA could fall 10% - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEpFa2tTY1U3WWZkSGlfc24yeVBzTTR0YzhGaG5Fc1B1ZUVGTHRWWWZhYXdWSnZCR25HZTRJLTRGbFJhVndCeGhkZUFvUVMzcVVjS2plaGR6ZUI5VGxmSWZsRW5PNzhHbURyQVN2TllCeWFMcHYxQWo1c1BPVVcxNXVGM3BCa0F2SzlpQm93X3FxYl8wV29xMVc1WVV4OVNrbDg0MGhDUmRIQnBpOUZZ0gG0AUFVX3lxTE51SlpfcVBTaXM0U0d6dkVqTUpxTlJqOFEybFE5ZDNva2ZlMzRMZWxMNjJNcGNZSE5mdXNKbzNQSEN2NUZBem5fcURrVE1BcU4yeUxRejVpbTJVcHk4MHNyRFJ3T0hfNWJoeERwYUVnS1FNSktST2dzX1ZLZEg0b0c1QXRtV2I4NWRsaWJqVzV4cUhPVU03LWlHZUJxMVJkb2NPZzI2MTVfLWxYUmhLZldyRnd4OA?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "Wed, 14 Feb 2024 08:00:00 GMT",
+      "snippet": "Manta Network Price Prediction: MANTA could fall 10%&nbsp;&nbsp;FXStreet"
+    },
+    {
+      "title": "What is Manta Network (MANTA)? 44th Project on Binance Launchpool - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11Z2c3VE03anFoTGZ5YVlxTlV0SDRkX3lDMXhGZ1RlRHAtY29Ta21BdGtpZlMyaFlVWDdRUTJuWmxrSk9oa1BSRXFUREV2dTN5SDBzNlVJQXNVQzJKcmlRV3R3?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 16 Jan 2024 08:00:00 GMT",
+      "snippet": "What is Manta Network (MANTA)? 44th Project on Binance Launchpool&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "How to Add Manta Pacific to MetaMask - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rb21xUlRVZzJ1VlFuN0pSaUw5NmVMMDAyRXpJcno4OWpOdDBmY3BiNUtqSVlnUGdDT182X0ZyTmU4U09pcUhJYjRjTHk4SjFEN0lVNE1TNVI4bzh2b0hqYndERQ?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 08 Mar 2024 08:00:00 GMT",
+      "snippet": "How to Add Manta Pacific to MetaMask&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Manta Network Suffers DDoS Attack After Token Launch - CoinGape",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRnh1Zm4xMG9VSFl4Y1hjdnFPSW9mWGQ0M2l0MmE2LUlHTWxuWHNHa0g1MHpJcmNTUS0teTZDZzRMU0hONDR6RXNzSUduWm54T0lJaFZCckE3VXBBbXFQMGFGZzdaeENQN21DQ0JzeU10VnA3ZlR2c0F4Z0Fydndrbw?oc=5",
+      "source": "CoinGape",
+      "publishedAt": "Fri, 19 Jan 2024 08:00:00 GMT",
+      "snippet": "Manta Network Suffers DDoS Attack After Token Launch&nbsp;&nbsp;CoinGape"
+    },
+    {
+      "title": "What is Manta Network (MANTA) - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oclJFQU9fR0VKWXRxeHhkZE1oVFVES2RoeHl3R2RwbzFGQTRZRHV3OF82WGxfb3RPQTdBUk84LVNRNFpjNVI3Rk8xZmZHYU1JXzZ6MWxyNm5nU1hTT21UZEQxRHNSUVZyMUppdWVHVEczc1VzMXViT2ltUUppX1U?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Wed, 24 Jun 2026 05:33:30 GMT",
+      "snippet": "What is Manta Network (MANTA)&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "How to easily buy Manta Network on App: Mobile Tutorial - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbTV1SmNkZTVRYkoxTDVSWmU0VGU0NzRueUlCUExFSllWeVVuaGo1UnNFYlgyb01Fd0d2dXpZSElZMWwyMnc3bi04NEdteVV0eE9rVGRLWWQxRWV6S1podmJreFFkREpJSjd5MVcxcHJidGstbHBWd0R2eWZzdTlrQ3RLaXRIdw?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sat, 20 Jun 2026 06:38:37 GMT",
+      "snippet": "How to easily buy Manta Network on App: Mobile Tutorial&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Best App to buy Manta: Pros, Pricing & Method - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZUWhpSDNYa3FrcnZkakN6Y0RJQzlaUk84cEFIcUFhb0JldE53b19YSDlETUlOdlhJRzNXTVQzMFRzTGlmSkxLa1dlWEtXakstRFdJYnhfelE5LXZpRk0tazhPbXJHQ2VVTmhSQnllTnQxWjAz?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 17 Jun 2026 00:22:55 GMT",
+      "snippet": "Best App to buy Manta: Pros, Pricing & Method&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Manta airdrop faces backlash after rare NFTs fall by 87% - dlnews.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT2o0T0xWVEZYX3RRbkp0VTVFVFdHVElobHVaMzZGYmR0b1dTZ0tOY0hWdFV4a01yVXFLY1BNRDhnbFU3S2s4Yy1zaHhiX0R3RHBMLVpSVmJjRGZ3RG4xdnpsaWFYQ0laZFNPa1Z4RHd3WmtzWHJjNVB6Q3FwWGVTc1ZFVDN6MkZYTFFKSFY1TmdhQQ?oc=5",
+      "source": "dlnews.com",
+      "publishedAt": "Fri, 19 Jan 2024 08:00:00 GMT",
+      "snippet": "Manta airdrop faces backlash after rare NFTs fall by 87%&nbsp;&nbsp;dlnews.com"
+    },
+    {
+      "title": "How To Get Started With the Manta Network Airdrop - NFT Now",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54YzRabmNCN0VNYzRzSmJtT2czLW0tQ0tzcFlhTThma3JReEV1c1pqSnVoYmxRVk9ZN0NySFBreVYtWVRTZlZsT25WUVhLU0ExRlhhYVRzU3dxMUZ1WndOSFRBZ25HbkZRZVNYWllLd2p0Y2xac25VR1hERHByeDg?oc=5",
+      "source": "NFT Now",
+      "publishedAt": "Tue, 26 Dec 2023 08:00:00 GMT",
+      "snippet": "How To Get Started With the Manta Network Airdrop&nbsp;&nbsp;NFT Now"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
