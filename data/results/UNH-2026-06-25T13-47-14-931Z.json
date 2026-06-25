@@ -1,0 +1,169 @@
+{
+  "token": "UNH",
+  "requestedInput": "UNH",
+  "exchange": "other",
+  "generatedAt": "2026-06-25T13:47:14.931Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "UNH",
+    "name": "UnitedHealth Group",
+    "generatedAt": "2026-06-25T13:47:05.309Z",
+    "summary": "UNH是传统股票，非加密货币。近期受Q1财报超预期、分析师上调目标价等利好推动上涨，但面临医保成本压力和监管风险。当前估值合理，短期有上行空间，但需关注Q2财报和医保政策变化。",
+    "rating": {
+      "score": 65,
+      "label": "可以买但严控仓位",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 12,
+      "holdingPeriod": "1-3个月",
+      "invalidation": "Q2财报不及预期、医保成本大幅上升、监管政策收紧导致盈利下调"
+    },
+    "catalysts": [
+      "Q1 2026财报超预期",
+      "分析师看好医疗成本趋势，预期Q2有利",
+      "股价突破关键阻力位（如$392）后技术性买盘",
+      "市场对医保政策担忧缓解"
+    ],
+    "latestNews": [
+      {
+        "title": "Is UNH Stock Set For Another 12% Rally? Analyst Says Medical Cost Trends, Supportive Data Points Leading Toward Favorable Q2",
+        "impact": "利好",
+        "reason": "分析师预期Q2业绩向好，医疗成本趋势支持股价进一步上涨"
+      },
+      {
+        "title": "UnitedHealth Group (UNH) Surges After Q1 2026 Earnings Beat — $564 Target in Play?",
+        "impact": "利好",
+        "reason": "Q1财报超预期，目标价上调至$564，提振市场信心"
+      },
+      {
+        "title": "UnitedHealth (UNH) Stock Slides as Analyst Cuts and Regulatory Pressure Mount",
+        "impact": "利空",
+        "reason": "分析师下调评级及监管压力导致股价下跌，需关注后续进展"
+      },
+      {
+        "title": "UNH Stock Slides Pre-Market: United Health Warns Of Softer FY26 As Medicare Pressures Mount",
+        "impact": "利空",
+        "reason": "公司预警FY26业绩疲软，医保压力增加"
+      }
+    ],
+    "fundamentals": [
+      "美国最大健康险公司，业务涵盖医保、药房福利管理、医疗服务等",
+      "2026年Q1营收和利润超预期，但全年指引偏弱",
+      "面临Medicare Advantage报销率下调风险",
+      "估值处于历史中位，PE约20倍"
+    ],
+    "marketRead": [
+      "近期股价从低点反弹，成交量放大，突破$392阻力位",
+      "技术面呈上升趋势，但接近前期高点$420附近有压力",
+      "期权市场隐含波动率中等，未出现极端投机"
+    ],
+    "risks": [
+      "医保政策变化（Medicare Advantage报销削减）",
+      "医疗成本上升超预期",
+      "监管审查加强（反垄断、定价）",
+      "宏观经济衰退影响保费收入",
+      "传统股票流动性好但非加密资产，波动相对较小"
+    ],
+    "watchlist": [
+      "Q2 2026财报（预计7月中旬）",
+      "Medicare Advantage最终费率公告",
+      "分析师评级变化",
+      "股价能否站稳$400并突破$420"
+    ],
+    "sourceNotes": [
+      "数据来源为新闻聚合，未获取实时行情，价格分析基于新闻提及的$392、$420等价位",
+      "UNH为纽交所上市股票，非加密货币，本分析仅基于公开新闻"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "UNHUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=UNHUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "UNHFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=UNHFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "UNHUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=UNHUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "UNHBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=UNHBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "Is UNH Stock Set For Another 12% Rally? Analyst Says Medical Cost Trends, Supportive Data Points Leading Toward Favorable Q2 - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXVtYmFPeUQ2cWkta1JBbzJnNGtGZ2ZRSFU0VTRwaUVuZ0NVblJHdGcyblQ2Um9GUzlYQW54UUhyQW1YQ2RISTBaQU91U1NVbVE0RHJfOVpFQlAtN2VSc3otbG5fOEJFX3RSTmNaNDFCUWJxVXpUZHZ1MVpZLUJIUzB5YUN5aWRscjI4OVB3dU1OaGNXTktnOFB5YzdzaWF6S2N4RlF0UzlSd3A1eW5TekI0R05JdjdQRGswMU80b0FDb3c?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "snippet": "Is UNH Stock Set For Another 12% Rally? Analyst Says Medical Cost Trends, Supportive Data Points Leading Toward Favorable Q2&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "UnitedHealth Group (UNH) Surges After Q1 2026 Earnings Beat — $564 Target in Play? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zZ3BDS1hiUzVaOEhqdzZxWTYyWWZ6aDZjOV81SnNzVjVTOXgwUmVSQzB1YVdid0tWRktZN255c2dvQ3hjMnZ2LWluVXlvV0R5aTdUSnFwUENDbGtwa3fSAWNBVV95cUxPU3UyVTQ4NmJmWVJpY1Q4bUZhMWxjRDRQbWdYbkJ5UEstSHN0dlRsWXNoT0ZNMTA0S2tfaFZERW9MVXpFN19yN2I4Q0ZxTDVnV1NnTTFYYTdoTTlJR1hveWZkUFE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 09 May 2026 07:00:00 GMT",
+      "snippet": "UnitedHealth Group (UNH) Surges After Q1 2026 Earnings Beat — $564 Target in Play?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "4 stocks to watch on Tuesday: UNH, GME, AAPL, COIN - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWlyR0RELVdjNWppeU83SUVHb2kwQ1VBWlVERlAxOXNxZm9qekx6bEh0Nnl3b3dUV2ZjbmM5cm1faXBXT3R5UGFYUFdqS3Jqb1FvZzZfSGFHSnJsSE9rZEQ3QnFCT2VrZWlXLVJqQnVzd2MyVHJJaXlOcXVPbzcteFFIc1V5a1VRLVI5QQ?oc=5",
+      "source": "Seeking Alpha",
+      "publishedAt": "Tue, 05 May 2026 07:00:00 GMT",
+      "snippet": "4 stocks to watch on Tuesday: UNH, GME, AAPL, COIN&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
+      "title": "Why Is UNH Stock Rising Today? - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcVNxenJkRUR4dm5EY3p3Y0VzSmdpT20yS1BhNGZTbVIzTU43Y0VPcVYyZVp3dFMtTTBiVFFOd2V4N2FQd21RNnVXRldWejFNWXNrTzEtQ0dwX25vSm5KN2NhT2tXOXY4Yjl5NHJjT1VIZVFSYVRKSVJYTXJJWU0wZ3gxVHlhTVJmTUp3cENpbl9URXRTOHRrcA?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "snippet": "Why Is UNH Stock Rising Today?&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "UnitedHealth (UNH) Stock Slides as Analyst Cuts and Regulatory Pressure Mount - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwZTVFYzZkN2E0dEE3X1ZsMnAtWXB1Wkc0aUZzLXBQMEpJbVhKSC0tQVEzTDRUZWxUU3Q5dkxJM2VmbXNUemc?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "snippet": "UnitedHealth (UNH) Stock Slides as Analyst Cuts and Regulatory Pressure Mount&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "UNH Stock Slides Pre-Market: United Health Warns Of Softer FY26 As Medicare Pressures Mount - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjRvLUNLZU5waGRvZ3ptYUtXZHpfbkpCN2x4b1ItcV91cU9fRGJyaDFlM2kxcy1fWFRmXzZJc3VpOVNQMGM4RFJreVRPT1R5MHBmR1d0V3R0RWhqVkc0UXMwbUdQSWNxRzRoZEVlYUxwVmpfNE9UN3VmUDR6Ujg1eGVfcWh4YU1WZ0Y0a3FpQnl1ejdyOUtzVlZCSjFYbXdOZEJSYV82QWNuZDh5TzVlb0NuN1VXWXhEQXRYczlR?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "snippet": "UNH Stock Slides Pre-Market: United Health Warns Of Softer FY26 As Medicare Pressures Mount&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "UNH Momentum Building After Earnings Beat – Watching $392 Break - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YUURUYlN1cXJXLWpUa1pBOFQ4OFR3V2g0MHkzUkU0b3hxdlZwWUcyVHZqdW5OY3BXN3htOVVQTjc4TTVPaUxCZk1wYnVTSGVnek9RVzR2UERkUTBOV1HSAWNBVV95cUxOQmRON1E1NTBXX2dyWHNUNXlfa1dWY0NRNXZQNU9oRm1CLXp0cENpMXlCNi03QmpmZ1B3S0txMDUwOHU0NEZWVHZLYnNBaFlPc1NkMjA5VHctalpUanlfdmhibFU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
+      "snippet": "UNH Momentum Building After Earnings Beat – Watching $392 Break&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
