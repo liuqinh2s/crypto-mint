@@ -1,0 +1,275 @@
+{
+  "token": "TUT",
+  "requestedInput": "TUT",
+  "exchange": "other",
+  "generatedAt": "2026-06-25T18:32:26.705Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TUT",
+    "name": "Tutorial",
+    "generatedAt": "2026-06-25T18:32:17.049Z",
+    "summary": "TUT是一个基于BNB Chain的Meme代币，由一位开发者因10个月前发布代币创建教程而诞生。近期因币安上线及社区热度推动价格上涨，但当前链上数据与项目描述存在矛盾（显示为Solana链），且24小时交易量极低，流动性数据异常。需警惕数据不一致和流动性风险。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "数据矛盾无法解决，或流动性骤降"
+    },
+    "catalysts": [
+      "币安上线TUT并添加至Earn、Convert及Margin产品",
+      "币安Vote to List结果公布，TUT入选首批上线代币",
+      "Meme概念热度，尤其是AI Meme和BNB Chain生态"
+    ],
+    "latestNews": [
+      {
+        "title": "Binance Adds Mubarak, CZ'S Dog, Tutorial, and Banana For Scale on Earn, Buy Crypto, Convert & Margin",
+        "impact": "利好",
+        "reason": "币安上线为代币提供流动性和曝光度，通常推动价格上涨"
+      },
+      {
+        "title": "Binance Announced the First Batch of Vote to List Results and Will List Tutorial (TUT) With Seed Tags Applied",
+        "impact": "利好",
+        "reason": "币安投票上币结果公布，TUT被列入，显示社区支持和交易所认可"
+      },
+      {
+        "title": "What is TUT Crypto? TUT Price Analysis as Tutorial Token Blasts 120%",
+        "impact": "中性",
+        "reason": "价格分析文章，反映过去涨幅，但无新催化"
+      }
+    ],
+    "fundamentals": [
+      "项目起源于一个代币创建教程，旨在推广BNB Chain开发",
+      "最初在four.meme上创建，流动性转移至PancakeSwap",
+      "总供应量10亿，当前流通约8.34亿",
+      "市值约922万美元（根据profile数据），但market数据中市值8585万美元，差异巨大",
+      "合约地址和链信息矛盾：profile描述为BNB Chain，但market数据为Solana链"
+    ],
+    "marketRead": [
+      "profile显示24小时涨幅10.18%，但market数据24小时跌幅0.04%，数据不一致",
+      "market数据中24小时交易量仅3.99美元，流动性8484万美元，极不匹配，疑似数据错误或流动性陷阱",
+      "价格自ATH 0.1697美元下跌93.7%，当前0.011美元，处于低位"
+    ],
+    "risks": [
+      "数据严重不一致：profile与market的链、市值、价格变化矛盾，可能为不同代币或数据错误",
+      "流动性异常：高流动性但极低交易量，可能存在操纵或无法真实成交",
+      "Meme币高风险：无实际价值支撑，价格波动剧烈",
+      "合约风险：若为Solana链，与项目描述不符，需验证合约安全性",
+      "解锁风险：总供应量10亿，流通8.34亿，剩余约1.66亿可能解锁"
+    ],
+    "watchlist": [
+      "确认TUT正确的合约地址和链信息",
+      "观察币安上线后的实际交易量和价格走势",
+      "关注项目方是否更新官方信息或进行流动性迁移",
+      "监控大额持仓变动和链上活动"
+    ],
+    "sourceNotes": [
+      "profile数据与market数据存在根本性矛盾，可能为两个不同代币或数据抓取错误",
+      "news均为2025年3月左右，无近期新闻，时效性不足",
+      "market数据中交易量极低，流动性数据不可信"
+    ]
+  },
+  "profile": {
+    "id": "tutorial",
+    "symbol": "TUT",
+    "name": "Tutorial",
+    "categories": [
+      "BNB Chain Ecosystem",
+      "Meme",
+      "AI Meme",
+      "AI Agents",
+      "Four.meme Ecosystem (BNB Memes)"
+    ],
+    "homepage": [
+      "https://tutorialtoken.com"
+    ],
+    "description": "Tutorial is a token from a dev who made a tutorial on how to launch token on BNB chain 10 month ago, the OG Tutorial token was on testnet, so he decided to launch it on mainnet as a meme. The purpose of the project is to promote building on bsc and making useful education content. The project was originally created on four.meme and liquidity was transferred to pancakeswap as bonding curve criteria was met. ",
+    "marketCapRank": 1185,
+    "currentPriceUsd": 0.01106762,
+    "marketCapUsd": 9227891,
+    "fullyDilutedValuationUsd": 9227891,
+    "totalVolumeUsd": 4647199,
+    "priceChange24hPct": 10.18148,
+    "priceChange7dPct": 9.73875,
+    "priceChange14dPct": 9.83507,
+    "priceChange30dPct": 5.82569,
+    "athUsd": 0.16971,
+    "athChangePct": -93.69554,
+    "circulatingSupply": 834345748.2719251,
+    "totalSupply": 834345748.2719251,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 2166,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "TUT/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "6DHVoWPPcJEbdscy5TmcnvBmc3dotR8Tmbmow9jGton8",
+    "pairUrl": "https://dexscreener.com/solana/6dhvowppcjebdscy5tmcnvbmc3dotr8tmbmow9jgton8",
+    "lastPrice": 0.08585,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 84846861.14,
+    "fullyDilutedValuationUsd": 85856578,
+    "marketCapUsd": 85856578,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/6dhvowppcjebdscy5tmcnvbmc3dotr8tmbmow9jgton8",
+    "pairAddress": "6DHVoWPPcJEbdscy5TmcnvBmc3dotR8Tmbmow9jGton8",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "AghszmWS8pGktWtTB56GBzV2HXZNBCCnbCx6fZhLkyLd",
+      "name": "Tutorial",
+      "symbol": "TUT"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.08585",
+    "priceUsd": "0.08585",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 84846861.14,
+      "base": 988239411,
+      "quote": 7.3717
+    },
+    "fdv": 85856578,
+    "marketCap": 85856578,
+    "pairCreatedAt": 1759801134000
+  },
+  "news": [
+    {
+      "title": "Tutorial price today, TUT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QMjBnVndnbF92bTJGWFJmMjEyZG5SVE80a3JzVWg5OGlZdW9Zbk5yT0pmMUhQUl9ZbUc2Nlk1UGxqR1pUZWFzdWMzSVZuRTZwckdrTnhoSFJoZw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 26 Feb 2025 20:41:15 GMT",
+      "snippet": "Tutorial price today, TUT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Tutorial Price: TUT/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YVDZ2NUtOcng0U28yZC04b2REZTFhNmlVRkFmMWlRcll6d0FxdXJJSy1rVW9xTzAtcXE0UUtEWVVRbndRWjFhcG81NlR0SDBrRHI4bi13?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 10 Feb 2025 05:42:34 GMT",
+      "snippet": "Tutorial Price: TUT/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Tutorial Price Prediction: Will TUT Coin Reach $1? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RcldCTFZOakpvME11NTkwVnFvNU5RXzJJa2ZFWlVIdFhrbFNoOEhNXzBBMFFiLUwxdHhlQzBBWjJUcEpJTm96LUtmbV9LMEdDNlFrYXBqOV9YOExra2xNd0FsSzU1NlprSkpoZFMyTmhZLTd0UGdoSHptQllJZkk?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Fri, 27 Jun 2025 07:00:00 GMT",
+      "snippet": "Tutorial Price Prediction: Will TUT Coin Reach $1?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Tutorial Price Today | TUT to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wcWZIaGZwYUc4M2hXUnJMTTNmYUFETFpUTHRFMUJPZktDZ0QzVVlGYm9FVXJhOWhBbTE3TDRzcTlZR2NPUU5MXzZGMm9LeVhsaFdJ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 26 Feb 2025 11:33:57 GMT",
+      "snippet": "Tutorial Price Today | TUT to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What is TUT Crypto? TUT Price Analysis as Tutorial Token Blasts 120% - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuaXFFR1hub1VfOVc2akhiOFdnTmNCT0hGVjcybl9kemhhSU5LeTdIUzROeUd1LUV5clR6ZWdwdm9heFhxR21vQnpyWGxiYWFwa3NoSGRuajRheEphTVHSAWNBVV95cUxQYUNBS3BsdXRJekJaNlY0M05mMGF6X29NSXB6YXVxbVJCM2ZzZllCS2pjbVFwSVVzRDUwZG5PSmdXb1ZJbEozYVl5TGFET2lfZzlTMjVFeHYtRDQ3MzRQdWR3Rmc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 28 Mar 2025 07:00:00 GMT",
+      "snippet": "What is TUT Crypto? TUT Price Analysis as Tutorial Token Blasts 120%&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What is the future of TUT Coin? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9faU1ad19XMEJFTUc4b1JOTzgtOHprNURCUTM4OWpCTGdiWjM2Rkd5ZVVCaTBNV1ZWMk40UlRJbUgzMHZMdURxSkdma09pcXYxNUhEcF9KeW1DUjNHLWpydVdyNA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 30 Mar 2025 07:00:00 GMT",
+      "snippet": "What is the future of TUT Coin?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Bitget Lists Tutorial (TUT) in the Innovation and Meme Zone - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CSnltNUs4cnhYbm5mLWVEYU5RMVREbVVzeG9wSzU4djRrOTEwejlMUF92akxHQWhwalhuT3BGR1dtcXZCeEg5QXhBQTAtZjQ0RXJrLWFiRVY5dGtGY0hYRjFkLXhBQQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 19 Mar 2025 07:00:00 GMT",
+      "snippet": "Bitget Lists Tutorial (TUT) in the Innovation and Meme Zone&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Tutorial (TUT): The Meme Coin About AI-Powered Blockchain Education - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXc1BHUFRWbmlfYVRFUFVyei1fR2NwWmVvN04zNmlGU3ZVSVZiTU1faVM2Z0dNUHhWX1ZJYjFocnhQVllxZnhyaUhpTXhnblZ1NG1YeXRxc0RaZEJxOE5PREZxU3FCd3BseGVaNWtUV1RnZWxTVWI4blRYUkrSAYIBQVVfeXFMTkJ2eWlFUWJUbFFhV1NwdmdxZjJMa2ZlQjRsRW1FOWNUelVwY0ZDWldnTE5tZ05Cbjc1UVJycXhIaXduYkd6TkFZTi0yMFNxWlRhU3N6cVl1VndlcWpJWWM0QkdGVk10N2t6cDYxUGYyNU13VHIzVHNDNk1RbGxnN0o2Zw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 19 Mar 2025 07:00:00 GMT",
+      "snippet": "Tutorial (TUT): The Meme Coin About AI-Powered Blockchain Education&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Adds Mubarak (MUBARAK), CZ'S Dog (BROCCOLI714), Tutorial (TUT), and Banana For Scale (BANANAS31) on Earn, Buy Crypto, Convert & Margin | Binance News - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeEVzT1RwOFE4R0RvdzVGeVNzQlBKMnlGUUIwcmQyR0Z6cEZJZjNlWWtyMlh4dC1IZGRJbmdkb2pqc2NPQVFGcDV1aHU1VVZ0M0JRNWhQN2RKQ21jZTMzVzQ3eFRNZ2hQUjctdGpJS2dTUEZaTlNOTlJyLUxDb1Z2NTRnNHNvMVMyUHgzZURyMHU?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 27 Mar 2025 07:00:00 GMT",
+      "snippet": "Binance Adds Mubarak (MUBARAK), CZ'S Dog (BROCCOLI714), Tutorial (TUT), and Banana For Scale (BANANAS31) on Earn, Buy Crypto, Convert & Margin | Binance News&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Announced the First Batch of Vote to List Results and Will List Mubarak (MUBARAK), CZ'S Dog (BROCCOLI714), Tutorial (TUT), and Banana For Scale (BANANAS31) With Seed Tags Applied - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHBHa2Y3V1h2Yl8zT1k3ZnZBZ2g3dUR5eGhaOEFXaDhfRUVwSW1PQjJSMHloMnJYVEkyWllheFp2UWcwb3U2NGhsbkpFQ0s3ZTZNWlpZdUtMOGktdk9PaWlPTjBRbWhQVzhwcXlmTDh6MDVaMTRsU2w0blN0bEVUSkVkZW9LWEJYV0oxTTZaTWg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 27 Mar 2025 07:00:00 GMT",
+      "snippet": "Binance Announced the First Batch of Vote to List Results and Will List Mubarak (MUBARAK), CZ'S Dog (BROCCOLI714), Tutorial (TUT), and Banana For Scale (BANANAS31) With Seed Tags Applied&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Tutorial price today, TUT to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVZHFVV1ZuWnZJLTAxRm5YTHFXa1lGc1VCR2FpUjl6UWF3d0RtSnlmTVN5VjdnUWZkbHNGV0g2MnM3UDNUenN3ZmJVLUx3X1Fo?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 09 Jun 2025 02:05:46 GMT",
+      "snippet": "Tutorial price today, TUT to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
