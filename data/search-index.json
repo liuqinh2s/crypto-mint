@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T23:49:20.644Z",
+  "updatedAt": "2026-06-25T00:02:19.183Z",
   "results": [
     {
       "token": "DELLON",
@@ -8,8 +8,18 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-24T23:49:20.642Z",
+      "generatedAt": "2026-06-25T00:02:17.289Z",
       "latestPath": "data/results/DELLON-latest.json"
+    },
+    {
+      "token": "MU",
+      "requestedInput": "MU",
+      "name": "Micron Technology (Backpack Securities)",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-25T00:02:19.180Z",
+      "latestPath": "data/results/MU-latest.json"
     },
     {
       "token": "TAC",
@@ -926,15 +936,6 @@
       "action": "观察",
       "generatedAt": "2026-06-20T03:03:01.532Z",
       "latestPath": "data/results/KMNO-latest.json"
-    },
-    {
-      "token": "SNDK",
-      "name": "SanDisk Tokenized Stock",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-20T03:03:03.457Z",
-      "latestPath": "data/results/SNDK-latest.json"
     }
   ]
 }
