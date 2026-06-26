@@ -1,0 +1,207 @@
+{
+  "token": "INFQ",
+  "requestedInput": "INFQ",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T14:17:16.886Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "INFQ",
+    "name": "Infleqtion Inc (Derivatives)",
+    "generatedAt": "2026-06-26T14:17:09.687Z",
+    "summary": "INFQ是Base链上Uniswap的一个极低流动性代币，价格近乎归零，24小时跌幅100%，流动性仅0.12美元。无基本面支撑，无交易量，存在极高风险。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性恢复至安全水平且出现真实交易量前，任何上涨均为陷阱。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Infleqtion Inc (Derivatives) price today, INFQ to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "仅为价格数据聚合，无实质内容。"
+      },
+      {
+        "title": "Infleqtion Inc (Derivatives) Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD - CryptoRank",
+        "impact": "中性",
+        "reason": "仅为分析页面，无新增信息。"
+      }
+    ],
+    "fundamentals": [
+      "代币名称Infleqtion Inc (Derivatives)，但无官方项目信息。",
+      "合约地址0x704a16F6795D2F2DECE472C6e0437b7B99Cd0cD1，无审计信息。",
+      "总供应量和流通量未知。",
+      "创建日期为2026-06-26，仅一天历史。"
+    ],
+    "marketRead": [
+      "当前价格3.531e-14美元，24小时跌幅100%。",
+      "流动性仅0.12美元，几乎无法交易。",
+      "24小时交易量8265美元，但流动性极低，可能为机器人刷量或操纵。",
+      "无K线数据，无历史价格参考。"
+    ],
+    "risks": [
+      "流动性极低（0.12美元），存在滑点极高和无法卖出风险。",
+      "价格近乎归零，可能为蜜罐或貔貅盘。",
+      "无任何基本面信息，项目方匿名。",
+      "合约未审计，存在后门风险。",
+      "24小时跌幅100%，表明已发生崩盘或撤池。"
+    ],
+    "watchlist": [
+      "流动性是否增加至安全水平（如>10万美元）。",
+      "是否有官方公告或项目更新。",
+      "合约是否经过审计。"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他来源验证。",
+      "新闻链接为RSS聚合，无实质内容。",
+      "所有指标均显示该代币为高风险垃圾币，建议完全回避。"
+    ]
+  },
+  "profile": {
+    "id": "0x704a16F6795D2F2DECE472C6e0437b7B99Cd0cD1",
+    "symbol": "INFQ",
+    "name": "Infleqtion Inc (Derivatives)",
+    "categories": [
+      "base",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on base / uniswap. Pair URL: https://dexscreener.com/base/0x7efb720bb0a63866e94026a053ba55b779de3647",
+    "marketCapRank": null,
+    "currentPriceUsd": 3.531e-14,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": 8265.03,
+    "priceChange24hPct": -100,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-26",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x7EFB720BB0A63866E94026A053ba55b779dE3647",
+    "baseTokenAddress": "0x704a16F6795D2F2DECE472C6e0437b7B99Cd0cD1",
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "liquidityUsd": 0.12,
+    "pairUrl": "https://dexscreener.com/base/0x7efb720bb0a63866e94026a053ba55b779de3647",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "INFQ/WETH",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x7EFB720BB0A63866E94026A053ba55b779dE3647",
+    "pairUrl": "https://dexscreener.com/base/0x7efb720bb0a63866e94026a053ba55b779de3647",
+    "lastPrice": 3.531e-14,
+    "priceChange24hPct": -100,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 8265.03,
+    "liquidityUsd": 0.12,
+    "fullyDilutedValuationUsd": null,
+    "marketCapUsd": null,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "base",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/base/0x7efb720bb0a63866e94026a053ba55b779de3647",
+    "pairAddress": "0x7EFB720BB0A63866E94026A053ba55b779dE3647",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x704a16F6795D2F2DECE472C6e0437b7B99Cd0cD1",
+      "name": "Infleqtion Inc (Derivatives)",
+      "symbol": "INFQ"
+    },
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.00000000000000002240",
+    "priceUsd": "0.00000000000003531",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 27,
+        "sells": 4
+      }
+    },
+    "volume": {
+      "h24": 8265.03,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -100
+    },
+    "liquidity": {
+      "usd": 0.12,
+      "base": 1834600833188,
+      "quote": 0.0000411
+    },
+    "pairCreatedAt": 1782458077000
+  },
+  "news": [
+    {
+      "title": "Infleqtion Inc (Derivatives) price today, INFQ to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBReldYejE3enFXS1JQSlRpTmNwcENtX0dYd0NlRXBuTVR6NF9kZjZqd3pQMmpGWTM4alRYYnp6RGw3WG1aeUNLUVROVXFiVUo4OFNhWXdYWk15aTJGc0JaRGNtVjJtdnBWMDdfZmFtQWJWZw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 26 May 2026 10:28:40 GMT",
+      "snippet": "Infleqtion Inc (Derivatives) price today, INFQ to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Infleqtion Inc (Derivatives) Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iUi1TWVJKWG56Vk1vc2YxMEZWektYbWNWZkhuMDZzR2I2ek9TZTl2czEyTFJZeEthenpDeGlkVjJmUkt4OE1nZzJvZG1mQ3hGdWJrZVhsTnRhcjg0UzFNRmZSWUxvOXNiamlJNFNQY2FWZw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 27 May 2026 23:14:56 GMT",
+      "snippet": "Infleqtion Inc (Derivatives) Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

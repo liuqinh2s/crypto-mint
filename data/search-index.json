@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-26T14:02:26.409Z",
+  "updatedAt": "2026-06-26T14:17:25.328Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "VelodromeV2",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:17:17.151Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "INFQ",
+      "requestedInput": "INFQ",
+      "name": "Infleqtion Inc (Derivatives)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:17:16.886Z",
+      "latestPath": "data/results/INFQ-latest.json"
+    },
+    {
+      "token": "DFEN",
+      "requestedInput": "DFEN",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:17:12.565Z",
+      "latestPath": "data/results/DFEN-latest.json"
+    },
+    {
+      "token": "KMNO",
+      "requestedInput": "KMNO",
+      "name": "Kamino",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:17:18.057Z",
+      "latestPath": "data/results/KMNO-latest.json"
+    },
+    {
+      "token": "SNDK",
+      "requestedInput": "SNDK",
+      "name": "SanDisk",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:17:22.698Z",
+      "latestPath": "data/results/SNDK-latest.json"
+    },
+    {
+      "token": "LLY",
+      "requestedInput": "LLY",
+      "name": "Eli Lily",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:17:25.325Z",
+      "latestPath": "data/results/LLY-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:17:23.143Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "1000RATS",
+      "requestedInput": "1000RATS",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:17:21.336Z",
+      "latestPath": "data/results/1000RATS-latest.json"
+    },
     {
       "token": "JASMY",
       "requestedInput": "JASMY",
@@ -10,16 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T14:02:11.026Z",
       "latestPath": "data/results/JASMY-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T14:02:08.235Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "ACX",
@@ -40,16 +110,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-26T14:02:13.733Z",
       "latestPath": "data/results/ASTER-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T14:02:15.057Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "ETN",
@@ -940,66 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T08:47:39.662Z",
       "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "KAITO",
-      "requestedInput": "KAITO",
-      "name": "KAITO",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T08:47:45.180Z",
-      "latestPath": "data/results/KAITO-latest.json"
-    },
-    {
-      "token": "TRX",
-      "requestedInput": "TRX",
-      "name": "TRX",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:45.335Z",
-      "latestPath": "data/results/TRX-latest.json"
-    },
-    {
-      "token": "AIO",
-      "requestedInput": "AIO",
-      "name": "OLAXBT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:49.226Z",
-      "latestPath": "data/results/AIO-latest.json"
-    },
-    {
-      "token": "BNT",
-      "requestedInput": "BNT",
-      "name": "Bancor",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:53.024Z",
-      "latestPath": "data/results/BNT-latest.json"
-    },
-    {
-      "token": "INX",
-      "requestedInput": "INX",
-      "name": "INX",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:56.306Z",
-      "latestPath": "data/results/INX-latest.json"
-    },
-    {
-      "token": "ETHFI",
-      "requestedInput": "ETHFI",
-      "name": "ether.fi",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:59.571Z",
-      "latestPath": "data/results/ETHFI-latest.json"
     }
   ]
 }
