@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-06-26T12:35:04.222Z",
+  "updatedAt": "2026-06-26T12:47:22.541Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 35,
+      "score": 40,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T12:35:02.842Z",
+      "generatedAt": "2026-06-26T12:47:20.368Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "UNH",
+      "requestedInput": "UNH",
+      "name": "UnitedHealth Group",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T12:47:19.690Z",
+      "latestPath": "data/results/UNH-latest.json"
+    },
+    {
+      "token": "VELVET",
+      "requestedInput": "VELVET",
+      "name": "Velvet",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T12:47:22.539Z",
+      "latestPath": "data/results/VELVET-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T12:47:19.484Z",
+      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "FIL",
@@ -50,16 +80,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T12:32:22.939Z",
       "latestPath": "data/results/JST-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T12:32:21.287Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "MU",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-25T19:32:08.282Z",
       "latestPath": "data/results/HUMA-latest.json"
-    },
-    {
-      "token": "TUT",
-      "requestedInput": "TUT",
-      "name": "Tutorial",
-      "score": 35,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-25T18:47:14.588Z",
-      "latestPath": "data/results/TUT-latest.json"
-    },
-    {
-      "token": "IP",
-      "requestedInput": "IP",
-      "name": "Story",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-25T16:02:33.562Z",
-      "latestPath": "data/results/IP-latest.json"
     }
   ]
 }
