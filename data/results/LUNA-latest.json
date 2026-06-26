@@ -1,0 +1,385 @@
+{
+  "token": "LUNA",
+  "requestedInput": "LUNA",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T17:17:27.608Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "LUNA",
+    "name": "LUNA",
+    "generatedAt": "2026-06-26T17:17:15.184Z",
+    "summary": "LUNA（Terra 2.0）在BSC链PancakeSwap上交易，24小时涨幅4.64%，市值约3.49亿美元，但流动性仅7.5万美元，极低。近期新闻多围绕Do Kwon审判、LUNC诉讼等，但LUNA本身缺乏实质利好。估值虚高（FDV仅370万），合约风险高，建议回避。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性改善至百万美元级别或出现明确生态进展"
+    },
+    "catalysts": [
+      "Do Kwon审判相关新闻可能引发短期情绪波动",
+      "LUNC相关诉讼可能间接影响LUNA"
+    ],
+    "latestNews": [
+      {
+        "title": "Luna, Luna Classic prices jump after prosecutors seek 12-year jail term for Terra’s Do Kwon",
+        "impact": "利好",
+        "reason": "短期情绪驱动，但无实质基本面改善"
+      },
+      {
+        "title": "Terra Luna Classic Surges 24% Today, Amid Jane Street Lawsuit",
+        "impact": "利好",
+        "reason": "LUNC上涨可能带动LUNA情绪，但关联性弱"
+      },
+      {
+        "title": "Terra Luna Classic Price Prediction: Breakout Attempt Faces Critical Resistance",
+        "impact": "中性",
+        "reason": "技术分析，无新信息"
+      },
+      {
+        "title": "Terra Luna Classic (LUNC) Price Soared 30%: Why a Reversal May Follow",
+        "impact": "利空",
+        "reason": "提示回调风险"
+      },
+      {
+        "title": "Terra Luna Classic News: Is LUNC Still a Good Investment? Why Investing in Remittix May Be a Superior Option",
+        "impact": "利空",
+        "reason": "对比推荐其他项目，暗示LUNC/LUNA投资价值低"
+      },
+      {
+        "title": "Terra Luna Classic Shakes the Crypto Market with Surprising Developments",
+        "impact": "中性",
+        "reason": "标题党，内容不详"
+      },
+      {
+        "title": "Why Are Terra LUNA and LUNC Pumping Today?",
+        "impact": "中性",
+        "reason": "解释性文章，无新催化"
+      },
+      {
+        "title": "LUNA 2.0 airdrop, mainnet delayed until May 28",
+        "impact": "利空",
+        "reason": "历史新闻，但显示项目曾延期"
+      },
+      {
+        "title": "Luna Buying Guide: How to buy Luna Remotely",
+        "impact": "中性",
+        "reason": "教程类，无影响"
+      },
+      {
+        "title": "What is Terra Luna 2.0? Everything you need to know about Terra’s fork",
+        "impact": "中性",
+        "reason": "科普文章"
+      },
+      {
+        "title": "LUNA 2.0 listing and Terra airdrop distribution schedule",
+        "impact": "中性",
+        "reason": "历史信息"
+      },
+      {
+        "title": "Claim Your Terra $LUNA Airdrop — Complete Tutorial",
+        "impact": "中性",
+        "reason": "空投教程，已过时"
+      },
+      {
+        "title": "What Is Terra Luna: A Deep Dive into the Ecosystem",
+        "impact": "中性",
+        "reason": "科普"
+      },
+      {
+        "title": "Luna token relaunch kicks crypto hype machine back into gear",
+        "impact": "中性",
+        "reason": "历史报道"
+      },
+      {
+        "title": "Terra Luna Classic (LUNC) Price Soared 30%: Why a Reversal May Follow",
+        "impact": "利空",
+        "reason": "重复，提示反转"
+      },
+      {
+        "title": "Terra (LUNA) Price Prediction: Terra Struggles to Reverse Downtrend as Leverage Spikes",
+        "impact": "利空",
+        "reason": "杠杆上升，下行风险"
+      }
+    ],
+    "fundamentals": [
+      "Terra 2.0是Terra生态崩溃后的分叉链，LUNA为其原生代币",
+      "项目活跃度低，生态发展缓慢",
+      "市值3.49亿美元但FDV仅370万美元，存在巨大稀释风险（流通量极低）",
+      "BSC链PancakeSwap上交易，非原生链，流动性极差（7.5万美元）"
+    ],
+    "marketRead": [
+      "24小时涨幅4.64%，成交量2.1万美元，流动性7.5万美元，极易被操纵",
+      "无K线数据，无法判断趋势",
+      "市值与流动性严重不匹配，实际交易深度极浅"
+    ],
+    "risks": [
+      "流动性极低，滑点巨大，大额交易可能导致价格剧烈波动",
+      "合约风险：BSC链上非官方代币，可能存在蜜罐或貔貅风险",
+      "估值虚高：FDV仅370万，但市值3.49亿，说明流通量极少，解锁后抛压巨大",
+      "项目基本面薄弱，缺乏实际应用和社区支持",
+      "新闻多为LUNC相关，LUNA自身缺乏独立催化"
+    ],
+    "watchlist": [
+      "流动性是否增加至百万美元级别",
+      "Do Kwon审判最终结果",
+      "Terra生态是否有新进展",
+      "LUNA在中心化交易所的上市情况"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，仅包含BSC链PancakeSwap交易对",
+      "新闻来源Google News，部分为历史新闻",
+      "无链上持仓分布数据，无法评估大户行为"
+    ]
+  },
+  "profile": {
+    "id": "0x156ab3346823B651294766e23e6Cf87254d68962",
+    "symbol": "LUNA",
+    "name": "LUNA",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x34c422989df98e8369f28eb9799eac1be2df70d0",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00006392,
+    "marketCapUsd": 349168441,
+    "fullyDilutedValuationUsd": 3696086,
+    "totalVolumeUsd": 21257.75,
+    "priceChange24hPct": 4.64,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2022-05-11",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x34C422989Df98e8369f28eb9799EaC1BE2df70D0",
+    "baseTokenAddress": "0x156ab3346823B651294766e23e6Cf87254d68962",
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "liquidityUsd": 74890.76,
+    "pairUrl": "https://dexscreener.com/bsc/0x34c422989df98e8369f28eb9799eac1be2df70d0",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "LUNA/USDT",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x34C422989Df98e8369f28eb9799EaC1BE2df70D0",
+    "pairUrl": "https://dexscreener.com/bsc/0x34c422989df98e8369f28eb9799eac1be2df70d0",
+    "lastPrice": 0.00006392,
+    "priceChange24hPct": 4.64,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 21257.75,
+    "liquidityUsd": 74890.76,
+    "fullyDilutedValuationUsd": 3696086,
+    "marketCapUsd": 349168441,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x34c422989df98e8369f28eb9799eac1be2df70d0",
+    "pairAddress": "0x34C422989Df98e8369f28eb9799EaC1BE2df70D0",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x156ab3346823B651294766e23e6Cf87254d68962",
+      "name": "LUNA",
+      "symbol": "LUNA"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceNative": "0.00006392",
+    "priceUsd": "0.00006392",
+    "txns": {
+      "m5": {
+        "buys": 8,
+        "sells": 15
+      },
+      "h1": {
+        "buys": 24,
+        "sells": 30
+      },
+      "h6": {
+        "buys": 134,
+        "sells": 209
+      },
+      "h24": {
+        "buys": 584,
+        "sells": 771
+      }
+    },
+    "volume": {
+      "h24": 21257.75,
+      "h6": 8173.86,
+      "h1": 2157.94,
+      "m5": 447.01
+    },
+    "priceChange": {
+      "m5": 0.8,
+      "h1": 0.09,
+      "h6": 1.17,
+      "h24": 4.64
+    },
+    "liquidity": {
+      "usd": 74890.76,
+      "base": 585802993,
+      "quote": 37445
+    },
+    "fdv": 3696086,
+    "marketCap": 349168441,
+    "pairCreatedAt": 1652276345000
+  },
+  "news": [
+    {
+      "title": "Luna, Luna Classic prices jump after prosecutors seek 12-year jail term for Terra’s Do Kwon - dlnews.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPanVqZXlvMXAwQjVjVWdDUS12YzJOSTZmWU15ZXZSeHF3RE9vMWlQZ1dSMHpOZEt4U1RwZ2ZYTVY1N20tejYzeWtrRlZadnE3SEZMRC1hLTc4c1JqQ1VSVFA0bVExc2FTNHNqZzlPR29MTjRwMzYzWXdRemxib2JudFZveFo1eUd0aTd5cU9wMWcxa29uY3BsMw?oc=5",
+      "source": "dlnews.com",
+      "publishedAt": "Sun, 07 Dec 2025 08:00:00 GMT",
+      "snippet": "Luna, Luna Classic prices jump after prosecutors seek 12-year jail term for Terra’s Do Kwon&nbsp;&nbsp;dlnews.com"
+    },
+    {
+      "title": "Terra Luna Classic Surges 24% Today, Amid Jane Street Lawsuit - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGlGeWs3US1XTURGd2VXZDJUNE1YX1M1REotWWdqQmFzYWdsYm1acDk2M2NnbHd5WnZ3em5XMnVkZUdCRDlfd1ZxY0VDU0s1X3RXaThqVVllaHRuWjk3NVdhRHF1TE12bHVzdlE2TjR4dXZXWGYtZS1lUVZ3RUJRYTVRSklJWEhjM2k5WVFULVhIbFFPcVIzQVpvc2JCaVZuZFpla1NMNDRTRlJ3b2YzMl9BY2sxbm5DZzk0?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "snippet": "Terra Luna Classic Surges 24% Today, Amid Jane Street Lawsuit&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Terra Luna Classic Price Prediction: Breakout Attempt Faces Critical Resistance - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXdHMGpLSmx1QWhMZTMzb2NQZkNBQVJpSzRKdTMzb1NuOUZNWFBvY3RFaW5PR3pTYzNaaTFhbVVWbmRoMzMyWFhJWVlmMnIzYU5DMXN6Y2xKRlV2ZDRGcklBRTlhUjNEZGI4djRzRnRnbjVERE5HcDhjemwtMldQcFBZdHA2RzlQWXY3WFBQODU5d3R0QUhoNVdkWHJ5eXNkeko4WFdRWjBxWk1HYmdwQVFrSHhaLTQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "snippet": "Terra Luna Classic Price Prediction: Breakout Attempt Faces Critical Resistance&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Terra Luna Classic (LUNC) Price Soared 30%: Why a Reversal May Follow - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iTjZwRkFUNE1DYUFIYy1KYnplZWUwRDkzOXd6eEtZODJwd05KSWNHcWxFT0cwM01HQmxMaDVraFVJdkJGdk5sMXh1eTZFblVLWEJRV29vU2lZeElOVXFFTWFjN0wxcjV2Vklv?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "snippet": "Terra Luna Classic (LUNC) Price Soared 30%: Why a Reversal May Follow&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Terra Luna Classic News: Is LUNC Still a Good Investment? Why Investing in Remittix May Be a Superior Option - DailyCoin",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQnVMWFRpaHZ2VzRCS3lZTXp1bXZjd0lvNmVqdFdJMHB1cXJ5TFVPbDdHNXN4SW9DZm5nNU5rcE9iWGVfN0NqYjQwQmtrNDhPMjVxV3ZvMU9XMDl5eTNsRjE0aWJoU2h4d2ZkdEd0YkdZWW9idTB0NXA0SVh5cWVKRlhQeFBEd28wLVNKVzFvb1J3VDcxYVhkckQxWkJXRjN5N2NXWGRDM0lSMm1vcGFpeElIcEJ4aFAxYlM2TEUyLWdSTlNmQkI0LQ?oc=5",
+      "source": "DailyCoin",
+      "publishedAt": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "snippet": "Terra Luna Classic News: Is LUNC Still a Good Investment? Why Investing in Remittix May Be a Superior Option&nbsp;&nbsp;DailyCoin"
+    },
+    {
+      "title": "Terra Luna Classic Shakes the Crypto Market with Surprising Developments - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pUHZPRmM0ZzNOOUROZEFDc1cxTEQ4SkZ6MlpIUEhha1BialRNRW9SeFc1TTd2WmJuZy0wUEVzX2tUbzlQUmFTeVJjYVNIMlZzc2c3S3JPWENCSnlRTUHSAWNBVV95cUxNT1B4c1BTNC1Sc09WS3J0Y2otVTNidlNnX3JxcUFkV0JSaTFBZW1BRE9lVEc2ckdIYVhucDhRdENQanpiaVg3NGJnWnZLazRmbF9GcEVmQ01pT2p0WkgzVXR5SGM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 13 Dec 2025 08:00:00 GMT",
+      "snippet": "Terra Luna Classic Shakes the Crypto Market with Surprising Developments&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Why Are Terra LUNA and LUNC Pumping Today? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNWEzMDU2dDlMd1lDdzh2bEZ5YjB3dG1VSjE1cjRCQ3AxWjhDY1RFdk9mUldUMjdPUEFDZWlvX0tfZFR2eUFSMkxBcXh3WUpzQXRfZFRzSmhULXl3NXJaako0cjFPU3phV1NlZnVMcmtCaGpwUGo5dmRMMTBCNGY4cWN0SGcxNmUxT3RTdTE0UVA0RVM5VjdyYms1SkN6VmxWZktR?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 05 Dec 2025 08:00:00 GMT",
+      "snippet": "Why Are Terra LUNA and LUNC Pumping Today?&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "LUNA 2.0 airdrop, mainnet delayed until May 28 - CryptoSlate",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rRXZoQThSYnVVM1RqRkc3ODJiYml6bzZzMS03WlIxdkhHZTRzdVBEc2hrR1ZlZXNfLWxlSWVTVktJbVpHSnVEbm95S05nLWVlX2xHTVRWWWJHR0pxY0lGQXRzY2preUh2d05fWTJFcWdhQVF4VjlsTjdR?oc=5",
+      "source": "CryptoSlate",
+      "publishedAt": "Fri, 27 May 2022 07:00:00 GMT",
+      "snippet": "LUNA 2.0 airdrop, mainnet delayed until May 28&nbsp;&nbsp;CryptoSlate"
+    },
+    {
+      "title": "Luna Buying Guide: How to buy Luna Remotely - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aS2tkS29zRVdQbVVJelNEc3VXbDhJZmZSTTdEal9ackczUnNuQlp0U3hBSXNrck9VQmQxeE1zclExNHhKeEptdDdxYVdKTGtBWjQwN2pWVWdlRXFqZnFvNEc2N25LbXVqUVNYd0V4VUVPcS1HRnc?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 10 Jun 2026 15:47:18 GMT",
+      "snippet": "Luna Buying Guide: How to buy Luna Remotely&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "What is Terra Luna 2.0? Everything you need to know about Terra’s fork - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oTFdzUExZUGI2a0ZndU5QSXFUZ2RRQ2FiWHhqbkNvcWR0bnM5aWlObTVVa29hbDFZSGZCYmlGdThhVEh6TWpYSlJHWVI4cFBuYnVEMzNzWEszcVlVS3c?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Wed, 12 Nov 2025 08:00:00 GMT",
+      "snippet": "What is Terra Luna 2.0? Everything you need to know about Terra’s fork&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "LUNA 2.0 listing and Terra airdrop distribution schedule - Bitvavo",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBseld1dWVwcXYtTUpEX1JjYm1KR2RDOUdyMFdSLTVJeDMzbjlQMk5vb0ZOWWpWZVhvdWw0VkhoU0htUUNJazJqSzIybXFrLW1LVmJ6S2N5VlNwZy1vcG9r?oc=5",
+      "source": "Bitvavo",
+      "publishedAt": "Mon, 03 Nov 2025 23:49:05 GMT",
+      "snippet": "LUNA 2.0 listing and Terra airdrop distribution schedule&nbsp;&nbsp;Bitvavo"
+    },
+    {
+      "title": "Claim Your Terra $LUNA Airdrop — Complete Tutorial - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iNmlwazhuOEJOWHdoanJJQkxvM3RPaG1uekZFVUdhQjltd3Rnc3pHeHR0LUVGZ0c1eF9CUjhmcXBYdWJRX1puX3lJUURSMmttZG91dGVFYTU5eUw4eWZKV0d3?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 24 Feb 2024 08:00:00 GMT",
+      "snippet": "Claim Your Terra $LUNA Airdrop — Complete Tutorial&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What Is Terra Luna: A Deep Dive into the Ecosystem - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jS3RFNll6em9VQnhFVFRjOVktYkVKajI0SGVkV25Oc2FVWUFaeFh1LUNDU2syR2d2UW9hX2ZIbnVsdENsdUNOSVMtdTNjOEpmc3F0M1Rsb2dNUQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 21 Jan 2025 11:41:03 GMT",
+      "snippet": "What Is Terra Luna: A Deep Dive into the Ecosystem&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Luna token relaunch kicks crypto hype machine back into gear - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0x3aERNWFhiTGdaeFJvOUdFU0FIZG55aWUwZFZlcTEwVmdFOE5NbXNzZ1g0WWVBc1RFZEo4RlpFMkwzRjQ3T0VQWGVHZFcyMGhLcURqdlk5aFJNckpUTzdDVWlTQXM4Q3JYeWdyNmpIeFBidWdjVDM5VUlVc0NyVkJHVXhjdmJCV1BNWWh6ckc0eWZncEh6dmZHYXNvbUVYVC1zN1dzbkNFbGtMeVE?oc=5",
+      "source": "The Boston Globe",
+      "publishedAt": "Wed, 25 May 2022 07:00:00 GMT",
+      "snippet": "Luna token relaunch kicks crypto hype machine back into gear&nbsp;&nbsp;The Boston Globe"
+    },
+    {
+      "title": "Terra Luna Classic (LUNC) Price Soared 30%: Why a Reversal May Follow - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YbzNITGZKSUdmaFZoOEc0c1JIUV9CRWRhWklXcWJkOHExSWpQWGNCLWR2TlNnOWZZNEYxWWhxbFVpcmtONkxJdkZ2bEozeEdWVTd6ZU5Rblhrek9CWmfSAWNBVV95cUxQcVNMSDlfM3lGS0hXeDh4TTlXYS0xenQzQUFLM3lGR3ZBdk0waGY0QTBWaW05Y0ZVeEhHYWJBQmNWSExmMER4cWtqNFg2V0lCWUwtNWVuczBHRnRhUlMwSnlOTEU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "snippet": "Terra Luna Classic (LUNC) Price Soared 30%: Why a Reversal May Follow&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Terra (LUNA) Price Prediction: Terra Struggles to Reverse Downtrend as Leverage Spikes - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuODBELTVvRk4xZW82QmtPdjg2enBiWGJCa182N09TN0NHZVFRRzhRc3ZXME56bjlBMFNKSVFGaDZ6X0QzQXJiYlFyZFVnYWVOWFlpaGJsdnJpQmFseGfSAWNBVV95cUxQVVNxSVJfOHVGazB3emp6UHFzWUVVWl9xNmFhM1pXeDRlRURQdGI2TlZYSjZhWG8yT1dWdnVULUJWb2dkLWR1aXlhTWExZ0p2MUo1eUFNcmxGT3ZOcTlTUDJpcjA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "snippet": "Terra (LUNA) Price Prediction: Terra Struggles to Reverse Downtrend as Leverage Spikes&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=LUNA: Throttled\n"
+  ]
+}
