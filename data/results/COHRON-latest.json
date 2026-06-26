@@ -1,0 +1,139 @@
+{
+  "token": "COHRON",
+  "requestedInput": "COHR",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T18:32:23.114Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "COHRON",
+    "name": "Coherent (Ondo Tokenized)",
+    "generatedAt": "2026-06-26T18:32:17.607Z",
+    "summary": "COHRON是Ondo平台代币化的Coherent股票，提供类似持有COHR并获得股息再投资的经济敞口。当前价格383.12美元，24小时下跌4.59%，市值约200万美元，流动性极低。缺乏近期催化剂和新闻，交易量小，风险较高。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，不适用"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Coherent (Ondo Tokenized) Price: COHRON/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+        "impact": "中性",
+        "reason": "仅为价格页面，无实质信息"
+      }
+    ],
+    "fundamentals": [
+      "代币化股票，代表Coherent (COHR)的经济敞口",
+      "由Ondo Finance发行，支持非美国用户24/5交易",
+      "总供应量约5202枚，流通量约5208枚（几乎全流通）",
+      "市值仅200万美元，流动性极差"
+    ],
+    "marketRead": [
+      "24小时交易量77万美元，相对市值较大，但绝对量仍低",
+      "价格自ATH 461.3美元下跌16.5%，近期横盘震荡",
+      "无交易所交易对数据（Binance受限），可能仅在DEX或小众CEX交易"
+    ],
+    "risks": [
+      "流动性极低，滑点大，难以大额进出",
+      "代币化股票受限于Ondo平台规则和合规风险",
+      "缺乏新闻和催化剂，市场关注度极低（仅23人关注）",
+      "价格波动可能脱离底层股票价值"
+    ],
+    "watchlist": [
+      "Ondo Finance平台更新或合规变化",
+      "Coherent (COHR) 股票本身的表现",
+      "交易量是否显著放大"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko，Binance API返回451错误（地区限制），无法获取CEX数据",
+      "新闻仅一条，为CoinGecko价格页面，无实质内容"
+    ]
+  },
+  "profile": {
+    "id": "coherent-ondo-tokenized",
+    "symbol": "COHRON",
+    "name": "Coherent (Ondo Tokenized)",
+    "categories": [
+      "Tokenized Assets",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Ondo Tokenized Assets"
+    ],
+    "homepage": [
+      "https://app.ondo.finance/"
+    ],
+    "description": "COHRon is the Ondo Tokenized version of Coherent, giving tokenholders economic exposure similar to holding COHR and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
+    "marketCapRank": 2218,
+    "currentPriceUsd": 383.12,
+    "marketCapUsd": 1995245,
+    "fullyDilutedValuationUsd": 1993076,
+    "totalVolumeUsd": 772904,
+    "priceChange24hPct": -4.58721,
+    "priceChange7dPct": -1.55361,
+    "priceChange14dPct": -0.96393,
+    "priceChange30dPct": -0.17297,
+    "athUsd": 461.3,
+    "athChangePct": -16.5333,
+    "circulatingSupply": 5207.817796385739,
+    "totalSupply": 5202.157474585739,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 23,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "COHRONUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COHRONUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "COHRONFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COHRONFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "COHRONUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COHRONUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "COHRONBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COHRONBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "Coherent (Ondo Tokenized) Price: COHRON/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XZGpKS3Z4MjZGOTZQVEdzRkxjOUlGWEU0Y1lYdnNUbzByR3g1M3BoSWxxbTEtbXVTLXZHZ1Z3Wnc2OTlVWDNDR3VqMVd0dHYxRzlROUxLdW9zSEgxZXVIX1hnOXlZM0dnRHc?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Sat, 14 Mar 2026 19:54:20 GMT",
+      "snippet": "Coherent (Ondo Tokenized) Price: COHRON/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
