@@ -1,0 +1,330 @@
+{
+  "token": "SOL",
+  "requestedInput": "SOL",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T16:02:28.800Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SOL",
+    "name": "Solana",
+    "generatedAt": "2026-06-26T16:02:20.893Z",
+    "summary": "SOL 近期反弹，24小时涨9.26%，但距历史高点仍跌75%。链上活动因Meme币活跃，但价格受宏观和竞争压力。基本面强劲但短期催化不足，建议观望。",
+    "rating": {
+      "score": 45,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "跌破前低60美元或反弹无力突破75美元"
+    },
+    "catalysts": [
+      "Alpenglow升级提升网络性能",
+      "机构资金回流（RWAs创新高）",
+      "Meme币热潮带动链上活跃度"
+    ],
+    "latestNews": [
+      {
+        "title": "SOL Price is Down 20% But Solana Network Activity is Climbing on Meme Coins",
+        "impact": "利好",
+        "reason": "链上活跃度上升，但价格下跌显示背离，需观察持续性"
+      },
+      {
+        "title": "Solana Price Nears Key Breakout Zone: Can Bulls Push SOL Above $70 Toward $75?",
+        "impact": "中性",
+        "reason": "技术面关键阻力位，突破与否决定短期方向"
+      },
+      {
+        "title": "Solana News: SOL Sell-Off Eases as Institutional Inflows Return, RWAs Hit Records",
+        "impact": "利好",
+        "reason": "机构资金回流和RWA增长是基本面支撑"
+      },
+      {
+        "title": "Hyperliquid's HYPE overtakes Solana in price as SOL falls to lowest levels since 2023",
+        "impact": "利空",
+        "reason": "竞争公链HYPE市值超越SOL，显示资金分流"
+      },
+      {
+        "title": "Solana price rebounds after hitting 3-year low, is a return to May highs possible?",
+        "impact": "中性",
+        "reason": "反弹但尚未确认反转，需更多信号"
+      }
+    ],
+    "fundamentals": [
+      "高性能L1，采用PoH+PoS共识，TPS数千，费用低",
+      "生态丰富，包括DeFi、NFT、Meme币等",
+      "机构支持强（a16z、Multicoin等），Solana基金会运营",
+      "总供应量约6.29亿，当前流通5.81亿，无最大供应上限",
+      "市值约417亿美元，排名第7"
+    ],
+    "marketRead": [
+      "24小时涨幅9.26%，但30日跌幅14.23%，仍处下行趋势",
+      "DEX上SOL/USDC对价格91.1美元，高于CEX的72.3美元，存在价差",
+      "成交量40.7亿美元，流动性充足",
+      "市场情绪偏多（看涨比例80.49%），但需警惕FOMO"
+    ],
+    "risks": [
+      "宏观风险：BTC跌破67000美元，市场整体承压",
+      "竞争风险：HYPE等新公链分流资金",
+      "技术面：未能突破90美元后回落，有30%下行风险",
+      "供应通胀：无最大供应上限，持续解锁可能稀释价值",
+      "新闻时效性：部分新闻已过时（如5月升级），催化减弱"
+    ],
+    "watchlist": [
+      "能否站稳70美元并突破75美元阻力",
+      "机构资金流入是否持续",
+      "Meme币热度是否消退",
+      "BTC走势及宏观事件"
+    ],
+    "sourceNotes": [
+      "数据来源：CoinGecko、DexScreener、Google News",
+      "DEX价格与CEX存在差异，需注意套利风险",
+      "部分新闻日期较早，可能已反映在价格中"
+    ]
+  },
+  "profile": {
+    "id": "solana",
+    "symbol": "SOL",
+    "name": "Solana",
+    "categories": [
+      "Smart Contract Platform",
+      "Solana Ecosystem",
+      "Layer 1 (L1)",
+      "FTX Holdings",
+      "Multicoin Capital Portfolio",
+      "Proof of Stake (PoS)",
+      "Alameda Research Portfolio",
+      "Andreessen Horowitz (a16z) Portfolio",
+      "GMCI Layer 1 Index",
+      "GMCI 30 Index",
+      "Delphi Ventures Portfolio",
+      "GMCI Index",
+      "Polychain Capital Portfolio",
+      "Made in USA",
+      "Coinbase 50 Index",
+      "CoinList Launchpad"
+    ],
+    "homepage": [
+      "https://solana.com/"
+    ],
+    "description": "Solana is a high-performance Layer 1 blockchain designed for mass adoption by providing a fast, secure, and low-cost environment for decentralized applications. It distinguishes itself by scaling globally without the use of complex sharding or multiple layers, instead maintaining a single, unified ledger to avoid liquidity fragmentation. This architecture allows it to process thousands of transactions per second with sub-second finality, often at a cost of less than a penny per transaction. The network operates on a unique hybrid model that combines Proof of Stake with an innovation called Proof of History, which functions as a decentralized clock to timestamp transactions. This system reduces the need for constant node communication, allowing the Sealevel engine to run non-conflicting smart contracts in parallel across multiple CPU cores. Further efficiency is gained through the Gulf Stream protocol, which reduces confirmation times by forwarding transactions to validators before the current block is finished. Founded in 2017 by Anatoly Yakovenko, Solana is now supported by the Switzerland-based Solana Foundation and significant institutional investors like Andreessen Horowitz and",
+    "marketCapRank": 7,
+    "currentPriceUsd": 72.3,
+    "marketCapUsd": 41747527568,
+    "fullyDilutedValuationUsd": 45239720393,
+    "totalVolumeUsd": 4072532023,
+    "priceChange24hPct": 9.26459,
+    "priceChange7dPct": 4.41341,
+    "priceChange14dPct": 6.79096,
+    "priceChange30dPct": -14.22861,
+    "athUsd": 293.31,
+    "athChangePct": -75.35005,
+    "circulatingSupply": 580636066.8891819,
+    "totalSupply": 629206442.7827661,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 80.49,
+    "watchlistUsers": 1314644,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "SOL/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "CfZyzHSpSuGFDYTFy5H9DxGajW6UWvBpkPVCrMTtLpey",
+    "pairUrl": "https://dexscreener.com/solana/cfzyzhspsugfdytfy5h9dxgajw6uwvbpkpvcrmttlpey",
+    "lastPrice": 91.1,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 71865.4,
+    "liquidityUsd": 1912926631.4,
+    "fullyDilutedValuationUsd": 1913131761,
+    "marketCapUsd": 1913131761,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/cfzyzhspsugfdytfy5h9dxgajw6uwvbpkpvcrmttlpey",
+    "pairAddress": "CfZyzHSpSuGFDYTFy5H9DxGajW6UWvBpkPVCrMTtLpey",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "SoxJYUPFUiwnNb6GyaBx8weEGVoB1RwtmiNzHNLz7u4",
+      "name": "SOL",
+      "symbol": "SOL"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "91.1015",
+    "priceUsd": "91.10",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 7,
+        "sells": 7
+      }
+    },
+    "volume": {
+      "h24": 71865.4,
+      "h6": 10086.49,
+      "h1": 5042.99,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 1912926631.4,
+      "base": 20997748,
+      "quote": 21.1981
+    },
+    "fdv": 1913131761,
+    "marketCap": 1913131761,
+    "pairCreatedAt": 1778841257000
+  },
+  "news": [
+    {
+      "title": "SOL Price is Down 20% But Solana Network Activity is Climbing on Meme Coins - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEZBdkhMblJ0dFc2M2kwSXhQWnFaVjV0OFozUUJqSm1jem0xOXZLV0pCSHlrQWxZbnh6WFhlRWdsLW5mVlJiQXQ4NXNXaV9zdlRjb1dKMXN2NHR0NHkyVE9YMVVQazk5SXFVRTloUkRuUnpLSUF0NWd6R2VBSGZvemhBdWxQVExvRU5j?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Thu, 25 Jun 2026 20:54:00 GMT",
+      "snippet": "SOL Price is Down 20% But Solana Network Activity is Climbing on Meme Coins&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Solana Price Nears Key Breakout Zone: Can Bulls Push SOL Above $70 Toward $75? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFBUWGhVTEZUbk1ib1JmcVloMlVfWUJscGppX003OFFENEJaRk43MkVyd2FIRnFiQVlYOElfd0I5Q1BfZS1qdDUxYTNPX24wMnM3eVpQNDhHb21vVVZlOUdLOGRLdVpuZk4tLVBBQVVCTVhmY29kOUpXcXRSd2t4c0NReXN1bDNZejhSVktsSjByZUhHZjgwVVN1RVdvcjBFY1dwcjVZLXBDZ1ltRlRhdmV3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 24 Jun 2026 19:06:37 GMT",
+      "snippet": "Solana Price Nears Key Breakout Zone: Can Bulls Push SOL Above $70 Toward $75?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Solana News: SOL Sell-Off Eases as Institutional Inflows Return, RWAs Hit Records - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdjkxenptZTc1eGtvdXFUcmdreVZ1bkFfZHZzY3IwX2hMbEowbWN6Tl9HS1otMkMzWDc2ZnYxMGlSc2RhMzV0Z3FOTnJqU3NhX0RqcGprV09nc3hNR09yZmNhVFJNYkpSTTJYM2xSYkVkRHFxeGh1NEJXOVg2SnJNbU1PUGFRbW5US0NwazR5TmFYbGhhMkFuY0JubnhSeUxCaEpvMUxvVFk1UGswcnJLMGJVWFJtQm5KZVVZSlRn?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sun, 21 Jun 2026 19:59:31 GMT",
+      "snippet": "Solana News: SOL Sell-Off Eases as Institutional Inflows Return, RWAs Hit Records&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Hyperliquid's HYPE overtakes Solana in price as SOL falls to lowest levels since 2023 - The Block",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnVzbmNyNExOTFpOS0JvZi11UG9tS09vQUtDSGJ3ZmhCOVdfNmxjN3ppSGlfZ1BwenduVVpVQ2Y5UUdHNUpEcUQzbTd6M2oyR3pxMFQwMXozVjFWRU8wWVhPUmxZd0ItN0laNFZjQkhSRGdobXhhcVRKRVJGY0FUNTc4YmU1Q1N2VEJOMFlhc0FPX0kyTGd5TXBCcUxENEhPQmNNaWhR?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "Hyperliquid's HYPE overtakes Solana in price as SOL falls to lowest levels since 2023&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "How High Could Solana (SOL) Realistically Go This Cycle? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXB6QzhUVU4xRU5DSHNUYWowT2NuOGhsVENMOVFDVUxLVlZMSFVFbE1sc0drVUlONUZVeE53WTNRYUFLV0o0cWlFTW5VcDZMUmJUWEIwRU40cWR2Z0VqTkl2dTNidVlTX01PMEdZMVl5aEVJVy1qWXZrSVA0U2o4emQ5Z0N0a25yZnRuamdYcWRQRXN1bVBUWEZXNnlCUQ?oc=5",
+      "source": "24/7 Wall St.",
+      "publishedAt": "Fri, 29 May 2026 07:00:00 GMT",
+      "snippet": "How High Could Solana (SOL) Realistically Go This Cycle?&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "Solana price rebounds after hitting 3-year low, is a return to May highs possible? - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0VTJpZXNQU0FXb2sxcDk0UGhNX2pQTmFNWnN1dnBHSWhjUktUQUtwSDlNa2ZFMS1NT2d1Z1FGTjhjek03cGNTM1dzMWlDbHc2REhkTUFCb0lZTzg?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "snippet": "Solana price rebounds after hitting 3-year low, is a return to May highs possible?&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "BTC, ETH, SOL price news: Bitcoin back under $67,000 as traders warn of Trump reversal - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFltdWQwUG1CNE4yWExWNmtFSk9MMy1rVG4xYmdvdUp1ZWNLWlVQaGZheDhlU1FlcmVNTVBCalRlVElKYlBjQnJReVJ6SFRabHF6TGM4aG8teVplaVZpMndRYS1aRUE3b1ZxX3RUZXFtZHlLVXlpYmZSSWRRUC1PRXBfVHVrMmpha3Z1R3JCc1psUTQtMkdwZjVTVkE1YTdtdTA3cnVGNVVNY1BvQ2M2TlE2aGJ3N2N5N056Zm5R?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "snippet": "BTC, ETH, SOL price news: Bitcoin back under $67,000 as traders warn of Trump reversal&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Solana Price News: SOL Faces 30% Downside Risk After Failing to Break Past $90 - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRnNuYUFWYmd0TkowZUJjX0RCb0JycjMyZ1dGYTB2QlBjWTZZbndzdHduLXZNOExubDdvbTZxTXlGSVI5Mm5yVVctSjJtTnFOUlhhbWxaTTFwa01UZFkyUkxwb3NtNzJRTnl0Ylk2R21EWVNha0FPUFdTV2RfakVsdkRqUWVHVkh4SXV6VmdSSTdnTXNFWldOZ0YxSFYwU3I5NzM0Mlh3WXU5X0F2YV9iVGFUOTlsSEVsTmhQZElhdWZYdTBw?oc=5",
+      "source": "FXEmpire",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "Solana Price News: SOL Faces 30% Downside Risk After Failing to Break Past $90&nbsp;&nbsp;FXEmpire"
+    },
+    {
+      "title": "What Is Solana (SOL)? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JcUowSERMNFZaQmtobGY0UEt1SHJlUUdGUDZON2pZU2dNM2wyZ2lNQ3M3SE1PZlczWnVIM0NXdkwyTzR6TmJwSnp4Ums?oc=5",
+      "source": "The Motley Fool",
+      "publishedAt": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "snippet": "What Is Solana (SOL)?&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "title": "What Is Solana (SOL)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxb2RCY3k1czlfU0FGOWhkdE5sSUowRUVDMUdjek5uZHU4cnlWSElrQ0lOSnMyZXF0OGFwQWZoZGRLbG54X1JqeF9xOENDN0VOQmxwa3RKNVdGdGtWRGJTV09ZTlZ2TE9ESjBQNWhQMA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "snippet": "What Is Solana (SOL)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Solana Activates Alpenglow Upgrade: What It Means for SOL - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTVdUbzZ6Q3BZWWdKQ0pHekFKWWlnQ1V0SUhaa3pnYXAwSk5VVG84NFZkM2d3aUprVlRaRTRJc1ZLb1lxZUxwT0pIU3pSRGRubkh0UU9RWk9YdFRreHV1TVhyRUx3VFZiMEdmcEFNR1pGdmlhZ3dVSDF0Y3ZfWGtHNjBfdENPMS1WSVppamVsX1Z1bWJfLXc2ajg4emtjVEh1UVA5WF9OVERHN0d0WlpTUTF4U1k0SmxF?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
+      "snippet": "Solana Activates Alpenglow Upgrade: What It Means for SOL&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "When Was Solana Launched? Complete History & Timeline - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb1pFdmU1OFBKZDFEWnhMR1R2eEtWV0draUNBSlVTdkdPQWJaLTJxQzlVQkhjWTBtaHNuMkgzeHhrOFhob0ZzNWtkM2t3Q3VEd3NMWGl1c0psTm5OaGltZVUwaXBpTHNJUWg2ZzA1N0NFLU1ncXhBUmtPOEtkVTJuZGdNU2wzYmZZNnNfaFpiOA?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "snippet": "When Was Solana Launched? Complete History & Timeline&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Top Solana Ecosystem Coins by Market Cap - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZbFdSU2Z4eDg2MHlUYlo3ZGIzUjhGa2NzVUp3ZlYyUEVUMDd1aUVpZkJkTnlVOVpTd2ZIQ1N5aGJyMlpMSUFReFI1UFFQYmlRcTNaelpKaTUybzNGdmIydUtZaER2S1E?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 22 Feb 2021 10:42:21 GMT",
+      "snippet": "Top Solana Ecosystem Coins by Market Cap&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Solana (SOL) Price Journey: From Launch to Present - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLMmFHWnU0X2U2YUJvMWEyY3ZneGQ1NVZsNkVpY3IxRGh2QlBTVUpweDZ4N2R3SzFFQ1dpY3ZPalM5b1JiTlpmOWRCd2lBU08yWFRnQU03WHJIMWw0X0l2OEgxbw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 23 May 2025 07:00:00 GMT",
+      "snippet": "Solana (SOL) Price Journey: From Launch to Present&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Solana Mobile begins SKR token airdrop to Seeker phone users - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZGVHR1hBamtjZ09nb1V2elp2MS1xV3RZeE1iTmI3bE8yMjVHc2w3MWl4TWJCbEJRSDRuVWxmd0tEQ2F0c3h6d2V5Vm8zWklqY1MwcER1RXl5T0dPMXZ2Q3ZzcWo0Z1JvRG56dkJ1VnlGSXdrLTNpbnlOWWNiWEpBUTc2bUx3RDJ6Q3E5ZDQtRnpYY080eUFwekNVSFVhOFNUVFBmWGxDblA?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "snippet": "Solana Mobile begins SKR token airdrop to Seeker phone users&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Big Upcoming Solana Airdrops in 2026 & How to Claim Them - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGNU9SS0FzUzJvbVZYTzZCakhjQ0kxdzlVSkxNUG5ET1BHa1pQRkI0ZzJYRjdQSjl1N1U5enp2VU1ITnFNZkJyMmV3T2hqeUJUNi1jcy02Znh2V0tLRVFabjhBN1Q?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "snippet": "Big Upcoming Solana Airdrops in 2026 & How to Claim Them&nbsp;&nbsp;Cryptonews"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

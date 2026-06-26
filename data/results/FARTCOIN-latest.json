@@ -1,0 +1,312 @@
+{
+  "token": "FARTCOIN",
+  "requestedInput": "FARTCOIN",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T16:02:23.945Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "FARTCOIN",
+    "name": "Fartcoin",
+    "generatedAt": "2026-06-26T16:02:14.142Z",
+    "summary": "FARTCOIN 近期因市场情绪回暖及 meme 板块轮动出现反弹，但基本面薄弱，历史波动极大，曾多次因杠杆爆仓暴跌超50%。当前价格较历史高点跌超94%，流动性集中在 Meteora 池，市值约2.34亿美元，24小时涨幅11.4%。缺乏实质性催化，风险极高，仅适合高风险偏好者极小仓位短线博弈。",
+    "rating": {
+      "score": 20,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大利好（如上线主流交易所、知名机构背书）或市场整体情绪极度狂热，可重新评估，但当前无任何信号。"
+    },
+    "catalysts": [
+      "meme 板块轮动资金流入",
+      "近期价格从低点反弹形成短期技术性买盘",
+      "社区情绪偏多（75%看涨投票）"
+    ],
+    "latestNews": [
+      {
+        "title": "Meme News: Meme Coins Log Volatile Week as TRUMP, FARTCOIN Pump, PIPPIN Plunges",
+        "impact": "利好",
+        "reason": "显示 FARTCOIN 在 meme 板块中表现突出，吸引短期投机资金。"
+      },
+      {
+        "title": "Fartcoin Falls 28% as Altcoin Liquidations Hit $84M on Hyperliquid",
+        "impact": "利空",
+        "reason": "近期仍出现大幅下跌，高杠杆持仓风险暴露，价格脆弱。"
+      },
+      {
+        "title": "Fartcoin’s Price Crashes 50% As Leveraged Bet Implodes",
+        "impact": "利空",
+        "reason": "历史表明杠杆爆仓可导致价格腰斩，风险极高。"
+      }
+    ],
+    "fundamentals": [
+      "纯 meme 币，无实际用例，仅靠社区文化和叙事驱动。",
+      "总供应量约10亿枚，已全部流通，无解锁抛压。",
+      "项目起源于 Terminal of Truths 的 AI 对话，属于 AI Meme 概念。",
+      "上线 Binance Alpha 观察名单，但未正式上币。"
+    ],
+    "marketRead": [
+      "24小时涨幅11.4%，但7日涨幅仅5.5%，30日跌幅25.9%，反弹力度有限。",
+      "当前价格0.128美元，较历史高点2.48美元跌94.8%，处于深度熊市。",
+      "Meteora 池流动性约23.4亿美元（疑似虚高或包含 LP 代币），实际交易量仅2612万美元，流动性深度存疑。",
+      "价格波动剧烈，曾多次单日暴跌超20%，不适合稳健投资者。"
+    ],
+    "risks": [
+      "纯 meme 币，无基本面支撑，价值完全依赖市场情绪。",
+      "历史价格波动极大，曾因杠杆爆仓单日跌50%。",
+      "流动性数据可能失真，Metora 池流动性高达23亿美元但交易量仅2600万，可能存在虚假深度。",
+      "未上线主流中心化交易所，交易渠道有限。",
+      "社区情绪易变，一旦热度消退可能归零。"
+    ],
+    "watchlist": [
+      "是否上线 Binance、Coinbase 等主流交易所。",
+      "meme 板块整体资金流向和市场情绪。",
+      "链上大户持仓变化及杠杆率。",
+      "项目方或社区是否有新叙事或活动。"
+    ],
+    "sourceNotes": [
+      "价格数据来自 CoinMarketCap 和 DexScreener，流动性数据可能因 AMM 机制被放大。",
+      "新闻来源包括 CoinMarketCap、Yahoo Finance 等，但部分新闻日期较早。",
+      "无官方团队或路线图，信息透明度低。"
+    ]
+  },
+  "profile": {
+    "id": "fartcoin",
+    "symbol": "FARTCOIN",
+    "name": "Fartcoin",
+    "categories": [
+      "Solana Ecosystem",
+      "Meme",
+      "Solana Meme",
+      "AI Meme",
+      "Pump.fun Ecosystem",
+      "Terminal of Truths",
+      "Binance Alpha Spotlight"
+    ],
+    "homepage": [
+      "https://www.infinitebackrooms.com/dreams/conversation-1721540624-scenario-terminal-of-truths-txt"
+    ],
+    "description": "Fartcoin is a meme-driven cryptocurrency where users can submit their best fart jokes or memes to earn initial tokens. Each transaction triggers a hilarious 'Gas Fee' effect, complete with a digital fart sound for maximum comedic impact.",
+    "marketCapRank": 219,
+    "currentPriceUsd": 0.12796,
+    "marketCapUsd": 127756581,
+    "fullyDilutedValuationUsd": 127756581,
+    "totalVolumeUsd": 26122852,
+    "priceChange24hPct": 11.44136,
+    "priceChange7dPct": 5.51563,
+    "priceChange14dPct": 7.5194,
+    "priceChange30dPct": -25.8682,
+    "athUsd": 2.48,
+    "athChangePct": -94.84598,
+    "circulatingSupply": 999975167.678068,
+    "totalSupply": 999975167.678068,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 75,
+    "watchlistUsers": 56561,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "FARTCOIN/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "9MirigiSsDrbiKUt4C23XXTQLemcCDTwqjQzZe98Wn6n",
+    "pairUrl": "https://dexscreener.com/solana/9mirigissdrbikut4c23xxtqlemccdtwqjqzze98wn6n",
+    "lastPrice": 2.34,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 2339284848.89,
+    "fullyDilutedValuationUsd": 2340455073,
+    "marketCapUsd": 2340455073,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/9mirigissdrbikut4c23xxtqlemccdtwqjqzze98wn6n",
+    "pairAddress": "9MirigiSsDrbiKUt4C23XXTQLemcCDTwqjQzZe98Wn6n",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "BGqBuTQiTkaQJSc97g8vq4s7yzJ6afUemLTKtzVgcR6h",
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "2.3404",
+    "priceUsd": "2.34",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 2339284848.89,
+      "base": 999499996,
+      "quote": 12.6257
+    },
+    "fdv": 2340455073,
+    "marketCap": 2340455073,
+    "pairCreatedAt": 1737318148000
+  },
+  "news": [
+    {
+      "title": "Meme News: Meme Coins Log Volatile Week as TRUMP, FARTCOIN Pump, PIPPIN Plunges - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOam91MjBKcmpZYjdZcVVPQzQ1YUNOalVuMnNsVHk0UjhVN0wwSWkzZ3ljdnRpOGlUQTZLVXllZnhrYXlPWnJaelNTTXlteFdnYl9zdm05SUU2R0pGZjFjSURYLWVrMXcxSXV3bTlYRjNfSThDaTFFeDZNcXhIS0dDQjFjU0FhZHpXd0JaYjhxdjFUYVN4YXVkREtJQmpReC1OOTA1c05DYUc2eGJwOXUtMFVJNjJYcGQ4eFE?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 22 Jun 2026 23:14:23 GMT",
+      "snippet": "Meme News: Meme Coins Log Volatile Week as TRUMP, FARTCOIN Pump, PIPPIN Plunges&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Fartcoin’s Price Crashes 50% As Leveraged Bet Implodes - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHd0Y3pBRFRIUXU3dnRiUkFzXzJwSnZvNzUybTBsbWFVeml3aEhuMFZMLXV6aFhXTHpSTW5zcXU4YVYwWV9xN0NVREg1emtsU1I4S2FOcGpSaUdYaGhETjV1cWtZV2FRLXc5MHlqQmMteGFsa0hjTzJNdFh6NUV1a0RsTmRoclVnSTV0RmdTeHRGYU9YVk5wNUNHSVNXVUNmekE?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 09 Apr 2026 07:00:00 GMT",
+      "snippet": "Fartcoin’s Price Crashes 50% As Leveraged Bet Implodes&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Here’s why Fartcoin (FART) price is rallying - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOFJKNzNGUEg0SDBOM0tuLVhSS3ozdmpHVDhqWU5qZ0dkdVNTSVZmVFpfWDBVajRsdFFyRFRlUFROWk9VMk5vcjZWWUkwSUpKUHpCUGItWXRGQU5rOUpVa0pCOERubmNkU2wta2V6aXFQTThKY0dXNHI3dS1EVC0xeXM5VVdpQ3U0ZEIzRGdVc0xId0RIemNZeFpXTWN3VVBG?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 25 Nov 2025 08:00:00 GMT",
+      "snippet": "Here’s why Fartcoin (FART) price is rallying&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "A $145 million FARTCOIN bet triggered $51 million in liquidations and a 50% token crash - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcVZEZG9oS2MzOUNmZXZEUFh3ai1neGlzbWczaDg0SENrTkFfUklmbzVtNTl3VFpudUd6UG1VR2gzaVk4T1Y4TzM5bmlsS2MwMmkwSnJxNzJMd2hqS0xaVXUydXphSlFjbnNrR3BRZWZpOXZnekRxel9BV3c5amV2WnBFM1NnQWJtejFmY1NGbjRINmRqRGY4M0tTSmpfMUswT25ocFRFOUZ5Rm9qYk5aeGhxcHRzNllOZjZpY2VabzAxV19FN2l2Vw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 09 Apr 2026 07:00:00 GMT",
+      "snippet": "A $145 million FARTCOIN bet triggered $51 million in liquidations and a 50% token crash&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Fartcoin (FARTCOIN) Price Prediction 2026, 2027 – 2030 - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81czhtRDc4NkR1VkVMNDQ3M21XeUNZTGV0c1BTdm4wQTREakFydnlWbnQtOFVUay1CcS11OVRDcVZLNW0zS1p1aC1nRHFoSzNwZnUxd3hwd3NTLTdac3VjMWJsOU9xbFBBZ0JnbnY0bm9UR3dKWEE?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "snippet": "Fartcoin (FARTCOIN) Price Prediction 2026, 2027 – 2030&nbsp;&nbsp;Cryptonews"
+    },
+    {
+      "title": "Fartcoin Falls 28% as Altcoin Liquidations Hit $84M on Hyperliquid - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDZPWDlSQ1JJV19PeXNKZU5hTFJnMFVUZkFISlhVbVgzOXRRSE5La09YMUVKSWdWem9kRHYxTEpZNGdDelRYeGtFd3g3dEhYMGVUZG9pRFdtODRkU1lIRzBIM1VkSnk2NDkteHJqSUdoZDlqMXVOczNWWTZnTkhIUVVjMm52b2RYVnVnUWUzNlEyUFFLanBsemU4Y19SRGJnNzl2elVvNHpVMVpLTm9SenhiYmZrNzZFYXBV?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 24 Jun 2026 17:01:46 GMT",
+      "snippet": "Fartcoin Falls 28% as Altcoin Liquidations Hit $84M on Hyperliquid&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Fartcoin Price Today | FARTCOIN to ZAR Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SkVQblNtQ1NTYmVvWm5YNnVTaGRBMGdESHFwNnVzSkpqSHVzRGJWejFtUmJXYWZEWXpuVjI2R2FGTHFOeDMwNHg0eFpsd3BESkpRREpnWQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 19 Jun 2026 04:01:00 GMT",
+      "snippet": "Fartcoin Price Today | FARTCOIN to ZAR Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Fartcoin price prediction | Targets and market moves - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0YXNIazF4Z05vY2lORTJjUlZtQTJmNXJpRGRZWTRSaXBxRktlSS1wYzNYc1hNTXJ4UUlHUDRVZmwxS3JtdTFKTWIxbi0yY2E4RkRoay14aEVTYzBkUlFSM3dURFJZYTJ1a1lIN1hVMA?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "snippet": "Fartcoin price prediction | Targets and market moves&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Learn to buy Fartcoin: Thorough Crypto Step Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IeGgwRmdVUUl1Y1lUV2V6S2o5ZFQwR2c5Um40UGpaa0hkcFZwR0tOSW03NUg0UThtdXM0LURoR1FPLWY2MzVXOWtoTXh5YURvWlZGVnlsa3pWR1lUUVRaTUxyVTZMVGlpV3IwdHlSMG0xT0hRZkJNX0lOcThxd3M?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sat, 20 Jun 2026 04:25:57 GMT",
+      "snippet": "Learn to buy Fartcoin: Thorough Crypto Step Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Best App to buy Fartcoin: Pros, Charges and Steps - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RZ3h5R1B5MmIwYW1NYllKSl9mLVQyMy1JMHlyMUI5SU1GQU9VbHpPVkVyZm1zWTBKRlA4aEU0U0V3NHRxMWxmNF9HTFIyY1lQeWpDMlEtTFRYSzRaQkg3YWJPWWRrQWdnRWxvQTdtbUZKUVUtUGlyWEFCOG8?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sat, 13 Jun 2026 20:28:40 GMT",
+      "snippet": "Best App to buy Fartcoin: Pros, Charges and Steps&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Meme coin news: BONK’s $115M deal, LEASH supply twist, FARTCOIN plunges - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45VGJaYmwxZVljZ3NOdl8zRTNOTmtBRlJkU0w5WTU1X2lpQ3BReS1ONENCVl91OUIyYnRKYnJlSEppSl8zZWNiSFFpZlFIQlQ0ck5rM1VzdlMybjlqRUE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 12 Aug 2025 07:00:00 GMT",
+      "snippet": "Meme coin news: BONK’s $115M deal, LEASH supply twist, FARTCOIN plunges&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What is Fartcoin? Transparent, Audacious & Decentralized Meme Coin - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mWjFoX05XdWVUV29MOWJOb2ZZdzJDSTNQR1dJZHdaQnBtNkhmRzVqVHlKZjlxclNOZTRYR25waGZqTmdKdVVDQ1RkUjYtdlkwdThxTTVJaGRXOFZOc3B5Y2hodkdFUQ?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Fri, 22 Aug 2025 07:00:00 GMT",
+      "snippet": "What is Fartcoin? Transparent, Audacious & Decentralized Meme Coin&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Best App to buy Fartcoin: Perks, Charges and Process - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxd0ZkaEJuMDh1UzhWdHR6Y0JoZlQ5Zy1Zc2FncndkeEp2bzJmbGRZRFVfVHY4UVNTdlg1aWtnM2ZoSVhONjZja3VDLVhyd3JLdmtneFhuUnJyXzJ1aDJkM29raXN1OTZyRWpQSEhwc0xfRUQ5VGdweTd1amk?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Fri, 12 Jun 2026 08:36:30 GMT",
+      "snippet": "Best App to buy Fartcoin: Perks, Charges and Process&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Fartcoin price prediction: Momentum builds, but breakout pending - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLMmVWUVlHc1lxWmFUQnZ4UkQwLWRydUNZenpmSGk3aXZmUVJoWFRGUHhkV1J3LUhac0lTaldZejZ4dUpWRFZPWWVBaXRvbThMc3lJMXMwV3YzTDhXSkHSAWNBVV95cUxQLXZiN3NuSXRYVmZDUDdubHBmQ3UzVFE2V1pURDVzVkRqVjRnS3hIRGY5dW51MW5xcmxlX0xfbGowTWpJN3lnSHl4YTRpZzNrTV8zME1iY2sxaTB1cERta2c2dW8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "snippet": "Fartcoin price prediction: Momentum builds, but breakout pending&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bitcoin price today above US$ 88 thousand; FARTCOIN soars and surpasses US$ 1 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10MU5ldmFSb1dEQ1Q0cmxMU05oLWRyNU5POEhCUXBDSzFiem95M1VTU1BoN1B2ZWxJQktpb1RNQk5GNjRwandZcV9fZHZRclRmMUxHQ0g1a1ZhcklVdVHSAWNBVV95cUxOa1R0QmRGOGFWeHU2Zk5KbnVic0IzeUd0Y3JHTkVwNjJMdzJ4QzBveUpvUGZmNmRDME9sWFdZc1I4SUE3cm82aDdjMFdqTkc0ZUxLUmJWZS1JMGhxVVp2aWFLenc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 22 Apr 2025 07:00:00 GMT",
+      "snippet": "Bitcoin price today above US$ 88 thousand; FARTCOIN soars and surpasses US$ 1&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Fartcoin (FARTCOIN) To Rebound? This Key Emerging Harmonic Pattern Suggest Yes! - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfdlYxWGRhaEg0RVdya2NfNjNwbGRuOXQtY29Ydnp2RVY4ZTgyNVNDWmZtTzRwVlY4b1N4SDRUMF96cVBPZHBLWnNOSFRXcVoyY0RfREYzVlRDSWxvWUHSAWNBVV95cUxQSXZvNzlaYmxKR2JhVWVxRmZjREk1TXlTblItSXFEeUlQU19DanI3M0FpS2ZjWFVKQlN1U2ZHQ2FjcmptY2tDcWpvaUVmTkNtdWd6dkdhYVJvZU5QLW1SM0Q0SjA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "snippet": "Fartcoin (FARTCOIN) To Rebound? This Key Emerging Harmonic Pattern Suggest Yes!&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

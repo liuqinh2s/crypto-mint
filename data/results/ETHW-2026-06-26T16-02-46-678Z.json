@@ -1,0 +1,381 @@
+{
+  "token": "ETHW",
+  "requestedInput": "ETHW",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T16:02:46.678Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ETHW",
+    "name": "EthereumPoW",
+    "generatedAt": "2026-06-26T16:02:35.865Z",
+    "summary": "ETHW是EthereumPoW分叉代币，当前在Solana链Meteora DEX上交易，流动性极高（约1.79亿美元），但24小时成交量仅3.99美元，价格几乎无波动。新闻多为过时内容，缺乏近期催化。市值约1.8亿美元，但无供应数据，存在合约风险。不建议买入。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "EthereumPoW Price Today in Turkey | ETHW to TRY Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格展示，无实质信息"
+      },
+      {
+        "title": "EthereumPoW Price Today in Australia | ETHW to AUD Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格展示，无实质信息"
+      },
+      {
+        "title": "EthereumPoW price today, ETHW to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "过时新闻，2022年"
+      },
+      {
+        "title": "EthereumPoW price today, ETHW to USD live price, marketcap and chart - CoinDesk",
+        "impact": "中性",
+        "reason": "过时新闻，2023年"
+      },
+      {
+        "title": "EthereumPoW Price, ETHW Price, Live Charts, and Marketcap - Coinbase Netherlands - Coinbase",
+        "impact": "中性",
+        "reason": "过时新闻，2024年"
+      },
+      {
+        "title": "Ethereum PoW (ETHW): A New Ether Derivative - StealthEX",
+        "impact": "中性",
+        "reason": "过时新闻，2022年"
+      },
+      {
+        "title": "EthereumPoW Price USD, ETHW Price Live Charts, Market Cap & News - Bitget",
+        "impact": "中性",
+        "reason": "过时新闻，2023年"
+      },
+      {
+        "title": "EthereumPoW Price, ETHW Price, Live Charts, and Marketcap: ethereum pow, ethw, ethw price - Coinbase",
+        "impact": "中性",
+        "reason": "过时新闻，2025年"
+      },
+      {
+        "title": "What is ETHW (EthereumPoW) and How Does It Work - CoinGecko",
+        "impact": "中性",
+        "reason": "过时新闻，2022年"
+      },
+      {
+        "title": "🤯What is EthereumPoW (ETHW)❓ Token 🚨 - Binance",
+        "impact": "中性",
+        "reason": "过时新闻，2024年"
+      },
+      {
+        "title": "ETHW Stock: A Complete Guide to the Bitwise Ethereum ETF - Bitget",
+        "impact": "中性",
+        "reason": "关于ETF，非ETHW代币本身"
+      },
+      {
+        "title": "What Is ETHW: Should You Invest in Ethereum's PoW Hard Fork? - Bybit Learn",
+        "impact": "中性",
+        "reason": "过时新闻，2022年"
+      },
+      {
+        "title": "Convert 1 ETHW to 2.7 USDT | Ethereum PoW Converter - Binance",
+        "impact": "中性",
+        "reason": "过时新闻，2023年"
+      },
+      {
+        "title": "Binance Convert Adds ETHW - Binance",
+        "impact": "中性",
+        "reason": "过时新闻，2022年"
+      },
+      {
+        "title": "EthereumPoW Price: ETHW Price Index and Live Chart - The Block",
+        "impact": "中性",
+        "reason": "过时新闻，2025年"
+      },
+      {
+        "title": "Binance-Peg EthereumPoW (Binance Bridge) price today, BPETHW to USD live price, marketcap and chart - CoinDesk",
+        "impact": "中性",
+        "reason": "关于桥接代币，非原生ETHW"
+      }
+    ],
+    "fundamentals": [
+      "ETHW是Ethereum PoW分叉代币，原链已合并转POS，ETHW社区维护",
+      "当前在Solana链Meteora DEX上交易，非原生ETHW主网",
+      "市值约1.8亿美元，但无流通/总供应量数据",
+      "流动性极高（1.79亿美元），但24小时成交量仅3.99美元，表明流动性可能为虚假或无人交易",
+      "无近期开发进展或社区活动信息"
+    ],
+    "marketRead": [
+      "价格1.66美元，24小时跌幅0.02%，几乎无波动",
+      "24小时成交量仅3.99美元，交易极度冷清",
+      "流动性高达1.79亿美元，与成交量严重不匹配，可能存在虚假流动性或LP被操控",
+      "无K线数据，无法分析趋势"
+    ],
+    "risks": [
+      "合约风险：该代币为Solana链上的Meteora池，非原生ETHW，合约可能有问题",
+      "流动性风险：高流动性但零交易量，可能为虚假流动性或无法退出",
+      "供应不透明：无流通量/总供应量数据，存在增发或砸盘风险",
+      "新闻过时：所有新闻均为2022-2025年，无近期催化",
+      "分叉代币价值存疑：ETHW已无实际用途，社区冷清"
+    ],
+    "watchlist": [
+      "观察成交量是否恢复",
+      "关注是否有新项目或交易所上线",
+      "检查流动性是否真实（如能否大额卖出）"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，无CEX数据",
+      "新闻均为聚合器抓取，多为过时内容",
+      "无链上持仓分布或交易者分析"
+    ]
+  },
+  "profile": {
+    "id": "9BQZs1aGH2pQDGMpX2FSFh4fMQDYHt5mnyiFysij5WTK",
+    "symbol": "ETHW",
+    "name": "EthereumPoW",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/6vyyweqrhaee5xkz8xcp5aqljn5ejq6eejpzrdk2puka",
+    "marketCapRank": null,
+    "currentPriceUsd": 1.66,
+    "marketCapUsd": 179995745,
+    "fullyDilutedValuationUsd": 179995745,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-08-17",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "6VYYWeQrHAee5xkZ8xcp5AQLJn5EJq6eeJpZRDk2pUKa",
+    "baseTokenAddress": "9BQZs1aGH2pQDGMpX2FSFh4fMQDYHt5mnyiFysij5WTK",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 178995690.87,
+    "pairUrl": "https://dexscreener.com/solana/6vyyweqrhaee5xkz8xcp5aqljn5ejq6eejpzrdk2puka",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "ETHW/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "6VYYWeQrHAee5xkZ8xcp5AQLJn5EJq6eeJpZRDk2pUKa",
+    "pairUrl": "https://dexscreener.com/solana/6vyyweqrhaee5xkz8xcp5aqljn5ejq6eejpzrdk2puka",
+    "lastPrice": 1.66,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 178995690.87,
+    "fullyDilutedValuationUsd": 179995745,
+    "marketCapUsd": 179995745,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/6vyyweqrhaee5xkz8xcp5aqljn5ejq6eejpzrdk2puka",
+    "pairAddress": "6VYYWeQrHAee5xkZ8xcp5AQLJn5EJq6eeJpZRDk2pUKa",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "9BQZs1aGH2pQDGMpX2FSFh4fMQDYHt5mnyiFysij5WTK",
+      "name": "EthereumPoW",
+      "symbol": "ETHW"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "1.6694",
+    "priceUsd": "1.66",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 3.99,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -0.02,
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 178995690.87,
+      "base": 107219949,
+      "quote": 14.5364
+    },
+    "fdv": 179995745,
+    "marketCap": 179995745,
+    "pairCreatedAt": 1755421168000
+  },
+  "news": [
+    {
+      "title": "EthereumPoW Price Today in Turkey | ETHW to TRY Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0Q01HZl9XQXNPOUhWOHZFaTdXNzJKQnRTdGVnMVRmTndyeDhKRFhSOVJwZ1k4RVBNbHR0Y0xVLV9UMGN4My1vRTVCLUVGYlAtRkE4cVRMZi1fckY4?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 21 Jun 2026 19:49:00 GMT",
+      "snippet": "EthereumPoW Price Today in Turkey | ETHW to TRY Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "EthereumPoW Price Today in Australia | ETHW to AUD Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fOXhLaEVoLTQ4MGxLMlZ3V19RUUJyRkNFcnhXZlVqVGxYTVU5Tmp2TV9vaWNLNS14bU9zdENpN2M0emw2Q0JtalU0WHhZb2ZZUEFQZ3hjUHNzYjlI?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 18 Jun 2026 16:49:00 GMT",
+      "snippet": "EthereumPoW Price Today in Australia | ETHW to AUD Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "EthereumPoW price today, ETHW to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByVk9TMGYzZy1EdUU1b0tRSWxXZjVobG9LUENiYjBRbEc5VDEtQ0U3TFA0dlBvZGZOUnJubnBWV0thc3N1RXJpaXYwQlA2V3ZPQmR4WUFweVc5R29MMWpr?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 08 Aug 2022 05:35:21 GMT",
+      "snippet": "EthereumPoW price today, ETHW to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "EthereumPoW price today, ETHW to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjNUtrczgycE1YOC1WRU5HRWdCa0ZhNTh2SFRNT0swZTdnRVRxLTdCeTFNTEt5aDduVG96cXdvUzJkd1NGOVVCQWlvLXJoc1ZIcDBnNEt3?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 24 Apr 2023 22:08:12 GMT",
+      "snippet": "EthereumPoW price today, ETHW to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "EthereumPoW Price, ETHW Price, Live Charts, and Marketcap - Coinbase Netherlands - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4U2YyYzhtX1FjS08xR1gzYXYtdlFSOHNXYWxoRm9TWjB3alRkOEVTXzlhejBVVlZDR2Ftd0VrUG82Q1ZwWFhBbGdGcWpOMXZLZ3JDOVJBSHVCVXZXUFE?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Mon, 24 Jun 2024 23:44:08 GMT",
+      "snippet": "EthereumPoW Price, ETHW Price, Live Charts, and Marketcap - Coinbase Netherlands&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Ethereum PoW (ETHW): A New Ether Derivative - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyVUJhQS15T2RmbEtRMEJoNW9RdWlXU0kyN21taUVYTGRvWjVMY3R6MlE1bnZnaS1xdlNxeFRKQU9vWTBfUDNaMGExLVlyNjNTWWZfZ0JkbS0zVndseU5oczQ1X3dtY1RuNk4zZmdNWTZHdjRIZHc?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Fri, 30 Sep 2022 07:00:00 GMT",
+      "snippet": "Ethereum PoW (ETHW): A New Ether Derivative&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "EthereumPoW Price USD, ETHW Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sQWFDWEZfTEk1ak9RUkFEV3pZRVEyb0pKbDlHMWJBVk1XMmNqQzlFU1VSdkY4WmJPcWZBbWtTNjJjXzVYcFNmN3daTDdhZVdnNWc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 03 Jun 2023 11:10:57 GMT",
+      "snippet": "EthereumPoW Price USD, ETHW Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "EthereumPoW Price, ETHW Price, Live Charts, and Marketcap: ethereum pow, ethw, ethw price - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UQ245VjNhaXhnQ0FPLTdVcEVqYUZJRVdmQ2VmYkpkeFRqM2R3elZObnpiVnZkWkN6cGdyNS1Iek1ZcEk3SEtPV2paSnJ4aHJ5LU4tYTlVTjNoV0w1U3c?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Mon, 21 Apr 2025 07:46:57 GMT",
+      "snippet": "EthereumPoW Price, ETHW Price, Live Charts, and Marketcap: ethereum pow, ethw, ethw price&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "What is ETHW (EthereumPoW) and How Does It Work - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1selZiT21hb2NkTnE2bVBDV2g4UTA3VDh2cml2LVRrbUdNNm1BVG1fLUJLVWxXVEZUTDEwanhwRVdKaDBKZ3lOZExUMXpPUUgzTDVjdDI0RVJIc1hDWHFCNy1aelhPb1U?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 26 Sep 2022 09:43:09 GMT",
+      "snippet": "What is ETHW (EthereumPoW) and How Does It Work&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "🤯What is EthereumPoW (ETHW)❓ Token 🚨 - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hb01ncFZlZUk2Q3ZtUWxaTXQtbnpXb2lZRlNRS3p4TVlaY1hNT3BXZ09lUEFhQnl4cnB1UjZ3cHdtTlpLVmhpZDZaZFFXSC1iQVkzY0FHNDQ0Y0NLZ3VWb2lGNA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 30 Sep 2024 07:00:00 GMT",
+      "snippet": "🤯What is EthereumPoW (ETHW)❓ Token 🚨&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "ETHW Stock: A Complete Guide to the Bitwise Ethereum ETF - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jenBZX25XN2ZEeU1tVFNadDVobWJUakYxT05Wb1dKZ0VzV05kcHdGb213d1VNVl83SXJwZ1JKdlo3RGhvVHpTaFR5a1hGUVU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 12 Feb 2026 15:52:41 GMT",
+      "snippet": "ETHW Stock: A Complete Guide to the Bitwise Ethereum ETF&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What Is ETHW: Should You Invest in Ethereum's PoW Hard Fork? - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KMHNzRmtYemRwdEpMZ1phdXFSb2VybXd6X3NwY1lNY2o3ckcwcWFhOG1jaG1wbm11V0JGeHRYalBscG9CQ0F4ZTdreElvT05OQ21TdWJXdTVabnE3YTVqdThRNDM4c2xIamdrSkpR?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Fri, 14 Oct 2022 07:00:00 GMT",
+      "snippet": "What Is ETHW: Should You Invest in Ethereum's PoW Hard Fork?&nbsp;&nbsp;Bybit Learn"
+    },
+    {
+      "title": "Convert 1 ETHW to 2.7 USDT | Ethereum PoW Converter - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxTnRabFR3TTdlcnAyS2szVTVpTGhqN2FDU08xREFqa09aODJ1eUt1QWltM2F6ZGNPVktEaGNneWJGSXF6TUlrTnc5c3c0MUxpU0pobm0wYlhNUUE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 09 May 2023 13:21:25 GMT",
+      "snippet": "Convert 1 ETHW to 2.7 USDT | Ethereum PoW Converter&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Convert Adds ETHW - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU1I1QTRzV3B0QkNiNTFCVkFQTUZidGhMZThJT2QyRWk2eW5kT3h3UEZyVUpRN19ZMTlnX0FnVHRtVDBvSUNtOTdWR3hndmVnOXhzUThOZEJKRkRmWVVLRnF0ZGxwcTdGbXBocG54cnVfS1A2TUxNbHNrbVlONXJfcGNXTFhsR1VEckNHSVBlS1k?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 21 Sep 2022 07:00:00 GMT",
+      "snippet": "Binance Convert Adds ETHW&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "EthereumPoW Price: ETHW Price Index and Live Chart - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5paUNEM0ZnRFJEM2tBSzRMcUNoTEdVeXBCYXZfeGQ3WnNhTnVRTkROMWdISlZORV9tOXRQQU9IUlozQlZOVWNfM3pFN3Nfanlab25pUy1EbFc5eGR5NGtCLWxJamFGRG5C?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 29 Jul 2025 05:21:49 GMT",
+      "snippet": "EthereumPoW Price: ETHW Price Index and Live Chart&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Binance-Peg EthereumPoW (Binance Bridge) price today, BPETHW to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LcVI4cFNXeTl0VGV0cjBKSnZkQlBVcDIwemFMVGhjTHlQOXYtZzNadWtibGFORDZUdzl2M1Y5RjMwS0NJcEZHTmtJaFVUdw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 23 Feb 2026 21:58:51 GMT",
+      "snippet": "Binance-Peg EthereumPoW (Binance Bridge) price today, BPETHW to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=ETHW: Throttled\n"
+  ]
+}

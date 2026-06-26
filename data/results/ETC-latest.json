@@ -1,0 +1,295 @@
+{
+  "token": "ETC",
+  "requestedInput": "ETC",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T16:02:44.400Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ETC",
+    "name": "ETC",
+    "generatedAt": "2026-06-26T16:02:34.827Z",
+    "summary": "ETC是Solana链上的一个meme代币，与以太坊经典（Ethereum Classic）无关。当前价格14.48美元，市值约16亿美元，流动性约1449万美元。24小时交易量仅4.85美元，表明几乎没有实际交易活动。新闻多为2026年初的旧闻，缺乏近期催化剂。鉴于极低的交易量和缺乏新消息，该代币可能已被遗忘或存在操纵风险。不建议买入。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现大量新交易量和积极新闻，可重新评估，但目前无任何信号。"
+    },
+    "catalysts": [
+      "无近期明显催化剂"
+    ],
+    "latestNews": [
+      {
+        "title": "Ethereum Classic (ETC) Price Prediction 2026, 2027-2030: Forecast, Targets & Future Outlook - Coinpedia",
+        "impact": "中性",
+        "reason": "新闻是关于以太坊经典（ETC）的预测，与本代币无关，但可能造成混淆。"
+      },
+      {
+        "title": "Ethereum Classic (ETC) Price Prediction 2026–2030: Forecast, Key Targets, and Market Outlook - CryptoRank",
+        "impact": "中性",
+        "reason": "同样关于以太坊经典，非本代币。"
+      },
+      {
+        "title": "Ethereum Classic (ETC) Price Today: ETC Live Price, Charts, News - Crypto.com US",
+        "impact": "中性",
+        "reason": "价格页面，非本代币。"
+      },
+      {
+        "title": "Ethereum Classic Volatility: Market Move, Not Coin-Specific Event | Top Stories - CoinMarketCap",
+        "impact": "中性",
+        "reason": "讨论以太坊经典波动，非本代币。"
+      },
+      {
+        "title": "Ethereum Classic (ETC) Price Prediction 2026–2030: Realistic Targets and Market Outlook - CryptoRank",
+        "impact": "中性",
+        "reason": "预测文章，非本代币。"
+      },
+      {
+        "title": "What do current market trends and on-chain data show for BTC, ETC, and ADA? Toobit weighs in",
+        "impact": "中性",
+        "reason": "提及ETC但可能指以太坊经典，非本代币。"
+      },
+      {
+        "title": "Is BTC leading the 2026 market revival as BONK parties and ETC plays catch up? Toobit weighs in",
+        "impact": "中性",
+        "reason": "提及ETC但可能指以太坊经典。"
+      },
+      {
+        "title": "X Platform Paid Partnership Policy Update: Cryptocurrency, Investment Services, etc. Not in Compliance with Promotion Criteria",
+        "impact": "中性",
+        "reason": "政策更新，不相关。"
+      },
+      {
+        "title": "Market Pressure Mounts as XRP, DOGE, ETC, XLM and HBAR Crack Weekly Charts",
+        "impact": "中性",
+        "reason": "提及ETC但可能指以太坊经典。"
+      }
+    ],
+    "fundamentals": [
+      "Solana链上的meme代币，与以太坊经典无关。",
+      "创建于2025年9月30日。",
+      "总供应量和流通量未知。",
+      "市值约16亿美元，但流动性仅1449万美元，流动性/市值比极低。",
+      "24小时交易量仅4.85美元，几乎无交易。"
+    ],
+    "marketRead": [
+      "价格14.48美元，但24小时交易量仅4.85美元，表明市场深度极差，可能为人为定价。",
+      "无近期价格变动数据，无法判断趋势。",
+      "流动性池较大（1449万美元），但交易量极低，可能存在虚假流动性或机器人对倒。"
+    ],
+    "risks": [
+      "极低的交易量意味着难以买卖，存在流动性风险。",
+      "市值与交易量严重不匹配，可能为操纵或死盘。",
+      "新闻均为旧闻且指向以太坊经典，本代币缺乏独立关注。",
+      "合约风险：未开源或未审计（未知）。",
+      "meme代币通常无实际价值，价格可能随时归零。"
+    ],
+    "watchlist": [
+      "观察是否有新的交易量出现。",
+      "关注项目方是否发布任何公告或更新。",
+      "检查流动性池是否被移除。"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener，仅包含链上信息。",
+      "新闻搜索结果可能混淆了以太坊经典（ETC）与本代币。",
+      "24小时价格变动数据缺失，无法评估近期表现。"
+    ]
+  },
+  "profile": {
+    "id": "3mGZM1ma1YsZX6tauWp8poxcT2wtfecQHcSSYdUznygp",
+    "symbol": "ETC",
+    "name": "ETC",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/j9ujcvdyaogce2114wpaznfvmtty8qb77ih6cdgl1t3z",
+    "marketCapRank": null,
+    "currentPriceUsd": 14.48,
+    "marketCapUsd": 1603735127,
+    "fullyDilutedValuationUsd": 1603735127,
+    "totalVolumeUsd": 4.85,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-09-30",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "J9uJCvdYaogCe2114wPAZNFvMTTY8QB77iH6CDGL1t3Z",
+    "baseTokenAddress": "3mGZM1ma1YsZX6tauWp8poxcT2wtfecQHcSSYdUznygp",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 14491008.25,
+    "pairUrl": "https://dexscreener.com/solana/j9ujcvdyaogce2114wpaznfvmtty8qb77ih6cdgl1t3z",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "ETC/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "J9uJCvdYaogCe2114wPAZNFvMTTY8QB77iH6CDGL1t3Z",
+    "pairUrl": "https://dexscreener.com/solana/j9ujcvdyaogce2114wpaznfvmtty8qb77ih6cdgl1t3z",
+    "lastPrice": 14.48,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 4.85,
+    "liquidityUsd": 14491008.25,
+    "fullyDilutedValuationUsd": 1603735127,
+    "marketCapUsd": 1603735127,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/j9ujcvdyaogce2114wpaznfvmtty8qb77ih6cdgl1t3z",
+    "pairAddress": "J9uJCvdYaogCe2114wPAZNFvMTTY8QB77iH6CDGL1t3Z",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "3mGZM1ma1YsZX6tauWp8poxcT2wtfecQHcSSYdUznygp",
+      "name": "ETC",
+      "symbol": "ETC"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "14.4872",
+    "priceUsd": "14.48",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 4.85,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 14491008.25,
+      "base": 1000260,
+      "quote": 13.2243
+    },
+    "fdv": 1603735127,
+    "marketCap": 1603735127,
+    "pairCreatedAt": 1759222014000
+  },
+  "news": [
+    {
+      "title": "Ethereum Classic (ETC) Price Prediction 2026, 2027-2030: Forecast, Targets & Future Outlook - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYXZKcDlXRGVvTkdLMzktWjJiamlQZkJhWkt4NWhmOG9tb21HMnB3U1RiMGE1a05xbUNudG14aUhYUlNOT3FIcHdha1g0MlFSR1o0MTM3eFh6dThiNDlpSGp1X2N4aGxiQkswelI1SGJvelZKWEdrQkdpdlAwTnhhbXZIONIBiAFBVV95cUxOSmlZQmN2S25qMVRSTU1BbHhNN0p2a0ZIQ2tRMTFIWkZxdHg4d2V0eFBsMENvQVFZU0tLTGxMeHF6OHpOZ1h0dkxqOExEMXJYRTh1WW90UTcycUdEMXIybnBqN0JhQmE0bHV2Z0dOM2NEY1BwamZzcmNiWkVwc0I3NmRrZlRQUWtF?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Sat, 20 Jun 2026 11:42:00 GMT",
+      "snippet": "Ethereum Classic (ETC) Price Prediction 2026, 2027-2030: Forecast, Targets & Future Outlook&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Ethereum Classic (ETC) Price Prediction 2026–2030: Forecast, Key Targets, and Market Outlook - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb1ppeVZIM3lycVlOQmZUODdTTlRCRFRtV2VxcnQxd1ZsMlRBc1M3aGF0WkUtaDd3aVpDYnpUSGRZTlBLaFZhaF9wQnl0Q1VPNHN4cXNHOVZkc29fRnYwMmFiWTh2NEFtNHNWUnc5N3dOVFJ6MmFEeENFTjJIcHZEbkVtVUxjeUY2WGtn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 06 Jun 2026 14:43:13 GMT",
+      "snippet": "Ethereum Classic (ETC) Price Prediction 2026–2030: Forecast, Key Targets, and Market Outlook&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Ethereum Classic (ETC) Price Today: ETC Live Price, Charts, News - Crypto.com US - Crypto.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KdU9Cdld6ZW4yX2Z0Ymp3Qjd6eFpZcG9udzlzTTRwR1Q4dktNdUJqMEp3czlpQ21vVlZ0VHY5WWU2QXpuc2NlUU5WZHA4YS1NbGdGY2VMaw?oc=5",
+      "source": "Crypto.com",
+      "publishedAt": "Fri, 21 Nov 2025 22:49:33 GMT",
+      "snippet": "Ethereum Classic (ETC) Price Today: ETC Live Price, Charts, News - Crypto.com US&nbsp;&nbsp;Crypto.com"
+    },
+    {
+      "title": "Ethereum Classic Volatility: Market Move, Not Coin-Specific Event | Top Stories - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NVHVoQ1JaY25zOGx5WnhNMTd2TG5GUS15NGtIbzBJMnVhYjVGNGxrOEZRQk04VVY5SXp3T2hMbkVXVUIzNFAyWlVGVjRGTWFlc1dHRmtTMHNyWVozQm9INzhnX3JXQzlYTmtVRkM5Z3k?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "snippet": "Ethereum Classic Volatility: Market Move, Not Coin-Specific Event | Top Stories&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Ethereum Classic (ETC) Price Prediction 2026–2030: Realistic Targets and Market Outlook - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZndmSURZa2liaGhfRzA0R0JTeS1fREQ5OVlZTGRRUVYtWE1yNWdieUhDR196ZXhVR2RaT0F6WUlmTEVDSkNWMjk5NmZJVWp1cGM2RWNidlNDU05mbWU2Vlhkemhpbkk0QUUxVjVnTW9pVHcwOWhGTWFxdG9DVWRITENkOFNvTUdh?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 26 May 2026 18:08:53 GMT",
+      "snippet": "Ethereum Classic (ETC) Price Prediction 2026–2030: Realistic Targets and Market Outlook&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What do current market trends and on-chain data show for BTC, ETC, and ADA? Toobit weighs in - Digital Journal",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLUtfUDNHa3FpTFhBNGZlanEyNk51WWo0VE9yRWliVlk0TUwteWdwLVdEaFB0MXp3VE9pcmFsZVVUQlpsaHJfSG5lSnQtSmJfaDBXaTlRRzVRV243cVUzNHlPUGpuUmphU3RrT0NuMkh2bl9xT3Rya2h3THhsNXJaQWw3cjdFeGpXQ05ZMWotVVhBcFJzOXhqZVVOWW5YMVpERHFpRjlEOTYyS3hl?oc=5",
+      "source": "Digital Journal",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "What do current market trends and on-chain data show for BTC, ETC, and ADA? Toobit weighs in&nbsp;&nbsp;Digital Journal"
+    },
+    {
+      "title": "Is BTC leading the 2026 market revival as BONK parties and ETC plays catch up? Toobit weighs in - ipsnews.net",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb0tTOU1fcWM2Qi1YSHRHd2Zhc05EeE8tTi1lblZmQ3JnYjZIYVZKTzRPRTBPTHRXSEdYeVUzVFVqTjR3RVdXcElaSUlqQlN0QV94M2kwXzRSdTFtRWVCUkRid0p4MElqVmtJRzY1Q1d1TWFXTUdPTnNYa2d2QlNxcy1VbEQxUG5IVjFDaU9aRmxnUjVzdTFQQ3M1LVlNOUt0ZGF6d2Zfa01Pc0Rtb2c3RU5uaHYxd1BscUZ4UTh0b1dKSDFqM2tWYV9xeTdIUW1w?oc=5",
+      "source": "ipsnews.net",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Is BTC leading the 2026 market revival as BONK parties and ETC plays catch up? Toobit weighs in&nbsp;&nbsp;ipsnews.net"
+    },
+    {
+      "title": "X Platform Paid Partnership Policy Update: Cryptocurrency, Investment Services, etc. Not in Compliance with Promotion Criteria - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fRU04bHp3WUZFcFlzbWFlUnMyR0NfZjFQRlBXSU1EMTg1bWxTcHFZT25ubkZ1UVRTTEdMVXNXcDRhWHIyWlJYY240aTkycTZ1T2pmT3lGd3RLaWpULXfSAWNBVV95cUxOV290NFJqc29DWmE3b2lwbllIUmFjbERNVkFzY21qeEJMdDFuVkw3Ty14ZmVaekNTRnRscmhPZndETExmVkRZSmtYX2I0ajRrWVo2VFJpUGdxWWE2bmtiSXRJY0U?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 01 Mar 2026 08:00:00 GMT",
+      "snippet": "X Platform Paid Partnership Policy Update: Cryptocurrency, Investment Services, etc. Not in Compliance with Promotion Criteria&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Market Pressure Mounts as XRP, DOGE, ETC, XLM and HBAR Crack Weekly Charts - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VX3BtNkpacEJyemRCRUVZNjVYcXRQTE9vUnZod0pFRkF2MFhybUo4X3FHRDVSR2VpcVAtWi14ekJBd1pxaVN4QlFSNXNnbWFUNDJTR0prRVlTazBLbGfSAWNBVV95cUxNSGNkZE5XYVB2TEYtQnJ5b3U0a0RZOW5KS3NuNFdFeW94MlAydncwdUtDc0tpbzZJMTJjT3BEdmU1cmllRFBrY0hWcnRuZzZKUDltZ3BNb3FIelVCZzFjVDd0OUU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 31 Jan 2026 08:00:00 GMT",
+      "snippet": "Market Pressure Mounts as XRP, DOGE, ETC, XLM and HBAR Crack Weekly Charts&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=ETC: Throttled\n"
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "token": "MOODENG",
+  "requestedInput": "MOODENG",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T16:02:21.349Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MOODENG",
+    "name": "Moo Deng",
+    "generatedAt": "2026-06-26T16:02:13.895Z",
+    "summary": "MOODENG是Solana上的动物园主题Meme币，近期因虚假新闻炒作后暴跌，目前价格处于低位，流动性极低，风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [
+      "虚假新闻炒作（如动物园事件）曾引发短期暴涨，但已被证伪",
+      "Vitalik Buterin捐赠泰国动物园的旧闻",
+      "社交媒体话题性"
+    ],
+    "latestNews": [
+      {
+        "title": "MOODENG Sees Brutal Freefall After Market Learns 250% Pump Was Based on Fake News",
+        "impact": "利空",
+        "reason": "虚假新闻导致价格暴涨后暴跌，市场信任受损"
+      },
+      {
+        "title": "Moo Deng Meme Coin Rises After Man Fined for Entering Viral Pygmy Hippo's Den",
+        "impact": "中性",
+        "reason": "短期新闻驱动，但无实质基本面支撑"
+      },
+      {
+        "title": "Moo Deng Price Prediction 2026–2031: Can MOODENG Hit $0.072 in April '26?",
+        "impact": "中性",
+        "reason": "预测类文章，无实际影响"
+      }
+    ],
+    "fundamentals": [
+      "Meme币，无实际应用或收入",
+      "总供应量约10亿枚，流通量约9.9亿枚",
+      "ATH为0.68美元，当前价格较ATH跌94%",
+      "市值约3892万美元（CoinMarketCap数据），但DEX上流动性仅1.3万美元",
+      "社区情绪中性（看涨比例50%）"
+    ],
+    "marketRead": [
+      "24小时价格上涨7.46%，但7日、30日均为下跌趋势",
+      "DEX上（PancakeSwap BSC）流动性极低（1.3万美元），价格容易被操纵",
+      "成交量（1299万美元）与流动性不匹配，可能存在虚假交易",
+      "链上数据与CEX数据不一致，需警惕"
+    ],
+    "risks": [
+      "Meme币高度投机，无内在价值",
+      "虚假新闻炒作历史，市场信任度低",
+      "流动性极低，滑点大，难以大额进出",
+      "合约风险：未开源或审计不明",
+      "供应接近上限，无通缩机制",
+      "价格已从高点暴跌94%，反弹空间有限"
+    ],
+    "watchlist": [
+      "是否有新的真实催化剂（如动物园合作）",
+      "流动性是否改善",
+      "社交媒体热度变化",
+      "大额持仓变动"
+    ],
+    "sourceNotes": [
+      "数据来源为CoinMarketCap和DexScreener，但两者市值差异巨大（3892万 vs 1.2万），可能数据有误或存在不同链上的同名代币",
+      "新闻多为2024-2025年旧闻，近期无重大利好",
+      "本分析基于公开数据，不构成投资建议"
+    ]
+  },
+  "profile": {
+    "id": "moo-deng",
+    "symbol": "MOODENG",
+    "name": "Moo Deng",
+    "categories": [
+      "Solana Ecosystem",
+      "Meme",
+      "Solana Meme",
+      "Pump.fun Ecosystem",
+      "Zoo-Themed",
+      "Binance Alpha Spotlight",
+      "TikTok Meme"
+    ],
+    "homepage": [],
+    "description": "",
+    "marketCapRank": 519,
+    "currentPriceUsd": 0.03932497,
+    "marketCapUsd": 38928261,
+    "fullyDilutedValuationUsd": 38928261,
+    "totalVolumeUsd": 12990870,
+    "priceChange24hPct": 7.45579,
+    "priceChange7dPct": -1.48091,
+    "priceChange14dPct": -2.06655,
+    "priceChange30dPct": -20.89226,
+    "athUsd": 0.680378,
+    "athChangePct": -94.22619,
+    "circulatingSupply": 989937557.197228,
+    "totalSupply": 989937557.197228,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 50,
+    "watchlistUsers": 25156,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "MOODENG/USDT",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x5D7EcC8cff0E2D268B20D3023AEDd8C5421d1ABA",
+    "pairUrl": "https://dexscreener.com/bsc/0x5d7ecc8cff0e2d268b20d3023aedd8c5421d1aba",
+    "lastPrice": 0.00001203,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 12989.08,
+    "fullyDilutedValuationUsd": 12031,
+    "marketCapUsd": 12031,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x5d7ecc8cff0e2d268b20d3023aedd8c5421d1aba",
+    "pairAddress": "0x5D7EcC8cff0E2D268B20D3023AEDd8C5421d1ABA",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0xa5B999a477b919998Ed0E455E22dae1327224625",
+      "name": "moodeng",
+      "symbol": "MOODENG"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceNative": "0.00001203",
+    "priceUsd": "0.00001203",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 3
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 12989.08,
+      "base": 539819493,
+      "quote": 6494.542
+    },
+    "fdv": 12031,
+    "marketCap": 12031,
+    "pairCreatedAt": 1726591613000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/3725ee2b2742cb8fabf4b0e2a74226e7156b7355a265cf37d3db16a4d9657f6a?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/5697a1d6c9d5c5a4278a7827e65e5e9710aaed8feb1e117e5f7d2ffb102a4f87?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0xa5b999a477b919998ed0e455e22dae1327224625?timestamp=1782489600000",
+      "websites": [],
+      "socials": [
+        {
+          "url": "https://x.com/i/communities/1833493731305263473",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/moodengCTObnb",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Moo Deng Price Prediction 2026–2031: Can MOODENG Hit $0.072 in April '26? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZMDFSSC1wSnNGdi1nOXo5ZVUxLXdOQVBVRzk5UnU5VFFmd0lmQThpTGQwWXF3dWd0ZFlMZjhIdmJYNGZXZXlBXzZSUE1ZU0FwRGtXSUZSVmRyb0JScG9YTTBqNU1lYVZKOTRUeGhRdldWeWpmVURZSw?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Sun, 12 Apr 2026 07:00:00 GMT",
+      "snippet": "Moo Deng Price Prediction 2026–2031: Can MOODENG Hit $0.072 in April '26?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Moo Deng Meme Coin Rises After Man Fined for Entering Viral Pygmy Hippo's Den - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaTgzTmxvaXVkR3JqeEprYVdZLTd1d3M3OERLREdDQkRITDJGSFNfNHVPMlltb3Roby15bFNRdWJRTGVlUzRUU1g0MUNfRFQ3a3AtWFVaNm1kaDMyN1RUNFc5eDVIUmszaVJuOXl0Z0ZPOXlMX0kzZnlHRzRaN2p2aUdZSFJaR1lnUEtsUElR0gGWAUFVX3lxTE9aOFoyM0xFZGMyNVdfalpxQmdNSHBPMTV6SlY1SG1YSjNreWdWaFhXdU41V3pjWXZfUFJHQUh1OTVoRzdFVlFIYmI3cmx0aVdiUHFZZlJHTmZFWENtRDB3bnA2ODgzbFE4R3hQVlpMbHZIeWxDNHJ4OXpoN2NOTWZIcW5mUklZUHVSZlMyUWJZTjFjOElrUQ?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "snippet": "Moo Deng Meme Coin Rises After Man Fined for Entering Viral Pygmy Hippo's Den&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "Moo Deng (moodengsol.com) Price Today in India | MOODENG to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51dDFvSHhsSGdqcHBObFlBemFSdU9LTF85emJHOUpfOVdnT2l6aV9JWnYzcTFDNlRHd1hXWktSRkVGdkVOQjA1ZldYc1lDWWcxam16YnlZWVhrTDRyRWFETg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 20 Jun 2026 14:23:00 GMT",
+      "snippet": "Moo Deng (moodengsol.com) Price Today in India | MOODENG to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "MOODENG Sees Brutal Freefall After Market Learns 250% Pump Was Based on Fake News - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS2FzUEtpNXFwbE93QVl5LWNCaHp2dGRBVzlrbzJEVzhqV1FtWS1hRi10aHZRQ25IVVNJQ2ZsMlFka2RPMFRPRVZLWEZFLXNnUndUUDZFVDFoLXJXXzFrQy05OGpOaUZZMlRtYW5LdS1jS3NEVWdwdkpnTmNuVjJYQWtlWVNvM1Y5?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "snippet": "MOODENG Sees Brutal Freefall After Market Learns 250% Pump Was Based on Fake News&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "MOODENG Surges 250% After Hippo Hoax, Then Tumbles: What Lies Ahead? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTVlzT1F0WHNuVWV4Z3A3QmhHMkRLTGZrLUxyNER0Y2FNR29rNVFRWDVLMnNsQ1VsVVBfWDkyeC1VaU5nVGxNZnc3YjBNTVpRQmZuS2JEREFETlVwREHSAWNBVV95cUxPT1lVbG5MTlM4em93YnNVOFFKckgxazFZdUpBNk51X3g3OXA1b2tncDVpQjhRbk45a3lva3J3bzVVMXBQVHlIcWZhZGpKY0t0QWxHMkQxVGl2dXF4a3F0dGctQkU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "snippet": "MOODENG Surges 250% After Hippo Hoax, Then Tumbles: What Lies Ahead?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Moo Deng Meme Coin After the Zoo Kidnapping Scare - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLU0zZzRhaVJzLUJCbld5V0lCeEJPbFRKWGxyQW5Qb2RoX2RQQlA0ZWdBMjhfNEgwSVk3V0pVb0QwWUhWbkhMZnRsbGRLUUctSnhiUFA2cjdXMWRJYmxBYnoyZmMxQjREZmx5d25vX3FlSmM5eUN3MTdrOWRjeDZfRXloQzlWYTg?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "snippet": "Moo Deng Meme Coin After the Zoo Kidnapping Scare&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "MOODENG memecoin jumps 17% as beloved pygmy hippo celebrates first birthday - The Block",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTNtZ2h1clRoSFQxUE43UUpkMVhaWnY0b0JNUDFMNDNaQUtTX0VnYUJQNDRvVlhNNktjVUc2dS02S1RiQU13a1M4blhtRTZKYmJXNVZFR2I4bVBFcW1xM1BzN0tsSERCMXVSbG9XYVFYc2ZxTWE5MVRxb0N3UkJ5dnZBd2FFMWNHVVRKR0ZMVWFFMUhQN3ZwbkF2V0RIRjJhUGpXYlM1X0o5N2U4NlBR?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 10 Jul 2025 07:00:00 GMT",
+      "snippet": "MOODENG memecoin jumps 17% as beloved pygmy hippo celebrates first birthday&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Moo Deng (moodengsol.com) price today, MOODENG to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00X1dsUTBCU0pJVEJLeXdQQ1lYUTZsNlVKVF9WSk5ZWDVEUi01N21YNWVSZGZwYndSb0dSbldXSjBQdUlFLUJqN1J1SHZJV1NGUjlKZUJLdEYtc2I0YzFCX2NTMA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sat, 21 Sep 2024 02:39:32 GMT",
+      "snippet": "Moo Deng (moodengsol.com) price today, MOODENG to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Ethereum chain MOODENG, the new king of MEME coins? Billions in the bull market? Hundred-fold coins? Can it create a myth of getting rich quickly? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwOEp5eTJtR2dkVlVvQ2RLV0tXaXpKbklWSGpoLUJ1RFNnZmpXRFJaMExGUkE5Qnltb0dqdzM0aUhKNURwVVJLdUtYRmZJN1VtMkF5dEo0a3NnWEFRbFdDRmZSaw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 10 Oct 2024 07:00:00 GMT",
+      "snippet": "Ethereum chain MOODENG, the new king of MEME coins? Billions in the bull market? Hundred-fold coins? Can it create a myth of getting rich quickly?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Moo Deng Price Prediction 2025-35: Will It Hit $30 by 2035? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wUlFqbWpXc21xNXhndGE2Rkg2V3ZGQ3ZNeS1lX1luQ0NVbHdiNWdhbXA5MmxuRlR0R0ZQSUU1LUZKbEtyYlZ5TkRtanRGMGV5QnRNdGQ3U3liSFNtWXfSAWNBVV95cUxOYzBHR1kteXp3RmowOHdBbm1pX3NBeDE5QkIzdnNQYTJPX3R3aXpNWGxTNHhDVEo1OVFLS2hxUndJcG1XZGN6V2FNYnJFOS1oOXc3VExpUEVabC1mMUtodWMzSE0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 16 May 2025 07:00:00 GMT",
+      "snippet": "Moo Deng Price Prediction 2025-35: Will It Hit $30 by 2035?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "MOO DENG Price | MOODENG Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pbjdWb2dlanNfeGE0SFBid1hqbjF0b3pGRVp1RjhnMU9weE5sTk40Y195bG9MM3FEQXRoX2ttUnVOWjV0Tk5uLWo1Q1NLNzdranc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 07 Oct 2024 18:08:15 GMT",
+      "snippet": "MOO DENG Price | MOODENG Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What Is Moo Deng Crypto? The Viral Solana Meme Coin - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxT1BTcU10SVFNSEx5MUhUbnliUFdUczJ2ZkhPYTE2bTN6dS1Id0ZiX2Njd0tYRzExOXZBY1hLQVlPWHRJYkw2N0l2eUZzRkFNZ2YyUWNia2I1QXp3eE9zNEh0d2JhOVp0THR2WmpLZ0hTYjRGWHl1NkM3dw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 12 May 2025 07:00:00 GMT",
+      "snippet": "What Is Moo Deng Crypto? The Viral Solana Meme Coin&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "3 Major Causes of Moo Deng’s (MOODENG) Price Jumping 728% in 30 Days! - Pintu",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTXhqSXlxWk9PUDQ0S2luSTl2emszN09vYkZhX2Z6d2twX3AyN0o3cVE3UjVFODJTanp5OTcyVDVSdVJEZ3dwemE4N2xSLVlVZHA1bFc3SEtDOVFnN0R0QTdIcDBoUVJoMlJjLTBBVEdCUFBRUWdqREpWdkh0MGUwdFZvNXM2TTJvaXV2X3lwSXhZRThEZTFJR3hWQ1ZVdnhZ0gGmAUFVX3lxTE91LXNYNFBYalg0RF9ucTNsblVkdExRMXVzbFZjT0JFazVGRjNwQjd3dHg1UTRIX0hhOGZWeVFoc0FyNmNHNTd2NVlkbGRFSHpTSG1BU1dxaHA1dll5TkRGWElIXzhzdGo1UnV4VnRxLVZKM0pzV3FrN3I0ZUZGV0JTSTdKX0I5eFhIbkZBbGlKc2hPNjUzNURCOXhBRTUyZHctMFlEYWc?oc=5",
+      "source": "Pintu",
+      "publishedAt": "Tue, 13 May 2025 07:00:00 GMT",
+      "snippet": "3 Major Causes of Moo Deng’s (MOODENG) Price Jumping 728% in 30 Days!&nbsp;&nbsp;Pintu"
+    },
+    {
+      "title": "Moo Deng Price Prediction 2025: Will This Viral Solana Meme Coin Hit $1? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBabWVReFM2VFVBQmwyLVJsMVhZUlpsN3lEclo0aVJ1d19fM3Y3Vm1ZRFhxSkx5UXUwNFVsUWVfYkJxZHNJVzlaRnFDakt0RzdRZFZoTnNzY1RkWVhVOEI3cS1EeWdETmhsaldYZFZaUHMyT2wzUmZWRzcwTDhBQQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 19 May 2025 07:00:00 GMT",
+      "snippet": "Moo Deng Price Prediction 2025: Will This Viral Solana Meme Coin Hit $1?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "$401 to $1.6 Million? Here’s the Wild Story of a Trader Who Hit Big with Moo Deng - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3QURkYTMxUUI1R0JQaHIxS29oY3VqbktsN1M1M2QzTTFtOURnRHBRdHpFTnVlN2RLY0tTMVJ2VFJtTTJubUl0N3pFbTJPV01HUjREVmNXVlByMjMtYXfSAWNBVV95cUxPMGwtWXNzcnlhUmJ0X3lZWTNfLVdVc0g1TnFzUzI0dUk5WGNpOVRPakZiX0lXeHhhUi0ydkhtQjBudnhGdVV6dEd4djRyUmg3OHlRUWpMVDBNQnlfQ0RjdHpxc0k?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 01 Oct 2024 07:00:00 GMT",
+      "snippet": "$401 to $1.6 Million? Here’s the Wild Story of a Trader Who Hit Big with Moo Deng&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Ethereum co-founder Vitalik Buterin 'adopts' viral pygmy hippo Moo Deng with $293,000 donation to Thai zoo - The Block",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLTdrMHFDQ25wV0NXalZGaVhvMzh6R1dLdzBHQmg5MlJPSF85aldiT3dGWkdjOFhiNThVenNHdGc3M3pmQU1NSlU1czdLc01mV291bFJRaXBNMEozNmIwY0VxTHRDeWtsbzVZdkFndHJIMUVqMDQ4amhja0NCN2l4NmU1d0NzbXhGVlR1bW1iRVgwVjVnbmRTR2NQTDNnd2pnTW80d0QtTjBDQ2xFajc1WFRFbzJaZ3ZKUnh5UjVhVzFWZHB6RFRaZHpVTlNFUnY5RFI4cA?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 26 Dec 2024 08:00:00 GMT",
+      "snippet": "Ethereum co-founder Vitalik Buterin 'adopts' viral pygmy hippo Moo Deng with $293,000 donation to Thai zoo&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
