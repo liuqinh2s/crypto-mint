@@ -1,0 +1,326 @@
+{
+  "token": "EUL",
+  "requestedInput": "EUL",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T12:16:57.862Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "EUL",
+    "name": "Euler",
+    "generatedAt": "2026-06-26T12:16:45.102Z",
+    "summary": "Euler是一个多链借贷协议，近期因Upbit上线、Binance HODLer空投以及BlackRock sBUIDL集成等利好催化，价格大幅上涨。但当前链上数据与CEX数据存在严重矛盾（CEX价格约1美元，DEX价格15美元且流动性异常高），需警惕数据错误或市场操纵。基本面扎实但估值已高，短期追高风险极大。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若DEX价格与CEX价格回归一致，或流动性骤降，则逻辑失效。"
+    },
+    "catalysts": [
+      "Upbit上线EUL交易对（2025-09-16）",
+      "Binance HODLer空投活动（2025-10-13）",
+      "BlackRock sBUIDL首次直接集成DeFi协议，与Euler合作（2025-05-15）",
+      "EUL创历史新高（2025-07-10）"
+    ],
+    "latestNews": [
+      {
+        "title": "EUL Hits New All-Time High Led by Protocol Growth",
+        "impact": "利好",
+        "reason": "表明市场对Euler协议增长认可，价格创新高吸引更多关注。"
+      },
+      {
+        "title": "Upbit Listings: Exciting New Tokens Euler (EUL) and Plume (PLUME) Arrive!",
+        "impact": "利好",
+        "reason": "Upbit上线带来韩国资金流入，提升流动性和曝光度。"
+      },
+      {
+        "title": "BlackRock’s sBUIDL launches 'first direct DeFi protocol integration' with Euler on Avalanche",
+        "impact": "利好",
+        "reason": "传统金融巨头BlackRock的集成验证了Euler的技术实力，增强机构信心。"
+      },
+      {
+        "title": "Introducing Euler (EUL) on Binance HODLer Airdrops!",
+        "impact": "利好",
+        "reason": "Binance空投活动刺激用户持有BNB并获取EUL，增加需求。"
+      }
+    ],
+    "fundamentals": [
+      "Euler是去中心化借贷协议，支持多链（Ethereum、Arbitrum、Base等），允许用户存入资产赚取收益或借出资产。",
+      "项目获得Paradigm、Coinbase Ventures等顶级机构投资，2022年完成3200万美元融资。",
+      "2023年曾遭黑客攻击损失约2亿美元，但后续追回大部分资金并恢复运营。",
+      "代币EUL主要用于治理，最大供应量2718万枚，当前流通约2414万枚，流通率约89%。",
+      "协议集成BlackRock的sBUIDL，成为首个直接接入传统金融资产的DeFi协议。"
+    ],
+    "marketRead": [
+      "CEX数据（CoinGecko）显示EUL价格约1.02美元，24h涨幅95%，7日涨幅241%，14日涨幅1313%，但30日跌幅20%，表明近期暴涨。",
+      "DEX数据（Raydium）显示EUL/USDC价格15.27美元，流动性高达41.5亿美元，但24h交易量仅3.99美元，严重异常，疑似数据错误或虚假流动性。",
+      "CEX与DEX价格差异巨大（1美元 vs 15美元），需核实数据来源。若DEX数据为真，则存在巨大套利空间；若为假，则市场数据混乱。",
+      "总市值约2465万美元（CEX），FDV约2775万美元，估值相对合理，但近期涨幅已透支利好。"
+    ],
+    "risks": [
+      "数据不一致风险：CEX与DEX价格、流动性数据严重矛盾，可能影响判断。",
+      "短期涨幅过大：7日涨241%，14日涨1313%，存在回调风险。",
+      "新闻时效性：大部分利好新闻发生在2025年，当前（2026年6月）可能已充分定价。",
+      "历史黑客事件：2023年2亿美元被盗，虽已追回，但协议安全性仍受质疑。",
+      "竞争激烈：借贷赛道有Aave、Compound等成熟协议，Euler差异化优势有限。"
+    ],
+    "watchlist": [
+      "CEX与DEX价格是否收敛",
+      "Binance HODLer空投结束后EUL抛压情况",
+      "BlackRock sBUIDL集成后续进展",
+      "Euler协议TVL变化",
+      "Upbit上线后韩国交易量持续性"
+    ],
+    "sourceNotes": [
+      "CEX数据来自CoinGecko，DEX数据来自DexScreener，两者存在严重不一致，需谨慎参考。",
+      "新闻时间跨度大（2022-2025），部分新闻已过时，但近期Upbit和Binance空投仍为有效催化。",
+      "DEX流动性41.5亿美元但24h交易量仅3.99美元，极不合理，可能为数据错误。"
+    ]
+  },
+  "profile": {
+    "id": "euler",
+    "symbol": "EUL",
+    "name": "Euler",
+    "categories": [
+      "BNB Chain Ecosystem",
+      "Lending/Borrowing Protocols",
+      "Avalanche Ecosystem",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Base Ecosystem",
+      "Berachain Ecosystem",
+      "Paradigm Portfolio",
+      "Coinbase Ventures Portfolio",
+      "Sonic Ecosystem",
+      "Swellchain Ecosystem",
+      "Unichain Ecosystem",
+      "TAC Ecosystem",
+      "Plasma Ecosystem",
+      "BOB Network Ecosystem"
+    ],
+    "homepage": [
+      "https://www.euler.finance/"
+    ],
+    "description": "The ability to lend and borrow assets efficiently is a crucial feature of any financial system. In the world of traditional finance, this process is typically facilitated by trusted and permissioned third-parties such as banks, who connect people with a surplus of money to those who need access to it in the short term. In the world of decentralised finance (DeFi), trusted and permissioned third-parties are no longer needed; banks have been replaced by trustless and permissionless lending protocols running on the blockchain (1). Among the first-generation of DeFi lending protocols are Compound (2) and Aave (3). These protocols provide users with access to lending and borrowing capabilities for a handful of the most liquid ERC20 tokens. However, these protocols were not designed to handle the risks associated with lending and borrowing illiquid or volatile assets and have therefore relied on a permissioned listing system to protect their users from the risks associated with such assets. Consequently, there remains significant unmet demand for lending and borrowing the long tail of crypto assets. On the lending side, users want to deposit tokens to earn yield and take leveraged long p",
+    "marketCapRank": 714,
+    "currentPriceUsd": 1.021,
+    "marketCapUsd": 24649366,
+    "fullyDilutedValuationUsd": 27749127,
+    "totalVolumeUsd": 3178498,
+    "priceChange24hPct": 0.95298,
+    "priceChange7dPct": 2.41132,
+    "priceChange14dPct": 13.13709,
+    "priceChange30dPct": -19.80291,
+    "athUsd": 15.81,
+    "athChangePct": -93.58312,
+    "circulatingSupply": 24146317.188470602,
+    "totalSupply": 27182818.28459,
+    "maxSupply": 27182818,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 6170,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "EUL/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "AGjsMgNj7Y11XZ2y2WaZBbqJUq89Rz9Cz5TBhPccAuKZ",
+    "pairUrl": "https://dexscreener.com/solana/agjsmgnj7y11xz2y2wazbbqjuq89rz9cz5tbhpccaukz",
+    "lastPrice": 15.27,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 4150123787.06,
+    "fullyDilutedValuationUsd": 4151123601,
+    "marketCapUsd": 4151123601,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/agjsmgnj7y11xz2y2wazbbqjuq89rz9cz5tbhpccaukz",
+    "pairAddress": "AGjsMgNj7Y11XZ2y2WaZBbqJUq89Rz9Cz5TBhPccAuKZ",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "8Gkw2nGoy24DR57Mx4q8iZofh7q3CqpXNU6yZHTnjZ4t",
+      "name": "Euler",
+      "symbol": "EUL"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "15.2711",
+    "priceUsd": "15.27",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 4150123787.06,
+      "base": 271762709,
+      "quote": 2.3576
+    },
+    "fdv": 4151123601,
+    "marketCap": 4151123601,
+    "pairCreatedAt": 1752199345000
+  },
+  "news": [
+    {
+      "title": "EUL Hits New All-Time High Led by Protocol Growth - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnU4Um85LWRwLUdLQkljTlJqWEpIcDVfdmJnczdHa3F6U1hoOU5KTE5QbHhsZ1JsSEkzZGJyc0gteW9fNjhLbzFfa2pZam9LWEFwMWNlREp1b0NheW5fRklnR0E2azBEek5ySmJ1VnVRNW5LVktuNG56RnYyS2NDdTlmeHlfRTMwSWItQQ?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Thu, 10 Jul 2025 07:00:00 GMT",
+      "snippet": "EUL Hits New All-Time High Led by Protocol Growth&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Upbit Listings: Exciting New Tokens Euler (EUL) and Plume (PLUME) Arrive! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nMDZ2Vk5BRWNUb2dVcXFrNUJjeVpjN1B3S1ZGVGx0cXlWanpGc0NVMEVmMVU4TlNkc3p1aVhQSkZZS1BtTlBtdFlvWjJfR3pzTGdCTG9rWHVtUGpFUnFZc0w1OA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "snippet": "Upbit Listings: Exciting New Tokens Euler (EUL) and Plume (PLUME) Arrive!&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Euler (EUL) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94Q08yVFpscGVOUjVFT0xsX0FHNFhyXzFjakFOUFlIdWVpeXV2VHJubVI4bFFuV0NuS2szSVV0NFNLVmo3SkZZS3BTeEhUeTFBTWpwQm5vR19fWEdhTkl4UGRBb0hXUQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 15 Sep 2022 20:44:35 GMT",
+      "snippet": "Euler (EUL) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Euler price today, EUL to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByOGdPSnAzbk5pSGxiQkJEaVBxTmk3TzVjbENOdEJDb2txMnZUM1lKcDVraHZla19uU3lOMU0wd2Fzam1JclBtOUZ3?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 25 Nov 2024 02:10:50 GMT",
+      "snippet": "Euler price today, EUL to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Euler price today, EUL to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93bzBNY0tXTTQtOWNPWVg0bjN5eUNrSDdkcG9vZWl5QVhKRHBucHlnemlMMFU0ZjVxcVMycE54Vmp5bmMtOTJ1bnRfYmxKZUdsZENWMWhjUy1YbTFvN3JWWA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sun, 09 Jan 2022 23:48:31 GMT",
+      "snippet": "Euler price today, EUL to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Euler Finance Price, EUL to USD, Research, News & Fundraising - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zUktmV0I1eUUyLTVweXIxWWhpMVVGLTQ2QUV6V3RtMWFOR3NsYlhOZFNPejNxTzI4c1I3c3JCaDNwb3c5V01EY081WkR4ZjU2NEE?oc=5",
+      "source": "Messari",
+      "publishedAt": "Fri, 15 Sep 2023 12:56:36 GMT",
+      "snippet": "Euler Finance Price, EUL to USD, Research, News & Fundraising&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "Euler Price, EUL Price, Live Charts, and Marketcap - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44bGpmd25rWGh2bW5taW9tWXJieHZqLXVOcHhyb1NJWVJ2UFFybTJtLTY0anpaUFFLRlFrbFh5bVdacVNmN2F2SkNmSUNGQ1pwWGY4WjEwRWhWS0p1NXJ3?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Mon, 21 Apr 2025 08:50:00 GMT",
+      "snippet": "Euler Price, EUL Price, Live Charts, and Marketcap&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Euler Price Today | EUL to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FQ29rVnA1aFBDWTR0ZXNtRjI2ekJseHF4VU4xdzYtcjZReWxLS0ZXOFBvX3pTbVgwQmRCQ3NVRjNyRVk1YTRlZ0d1alpDd0p1WWx0Z3lLMlpVdw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 26 May 2022 10:08:37 GMT",
+      "snippet": "Euler Price Today | EUL to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Euler (EUL) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5mQ0VOSzJueXVxbTMzdElFNnl0MFZuRnBhVTVWQ0FZamdreGxnWk9KcmdleVBLdlh2bXhtTjdkRDVpbUNRblE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 28 Jun 2022 09:01:10 GMT",
+      "snippet": "Euler (EUL) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Euler (EUL) - All information about Euler ICO (Token Sale) - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9hTElHSGVMeFIwa09SNFJLcnp5STh0SXBjellFeGplNlBsVG9mbi1XcXVkS0ZGV0JpaHA1MUl3QWI?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Thu, 26 Aug 2021 17:51:39 GMT",
+      "snippet": "Euler (EUL) - All information about Euler ICO (Token Sale)&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Euler Finance – A Review - Altcoin Buzz",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYcXhTOVJNdVdrR2sxUlZibUhNc1hXX3lmYlhqSFcyN3p5cG8wR3djMjZYcTNFUmxPdjlpdFM4YUJRTjdOWXZiZmNEZ3E5dnRtTFN0dUJjSFVIZmlkay1tQlgwWTZwam1mWVE?oc=5",
+      "source": "Altcoin Buzz",
+      "publishedAt": "Thu, 30 Jun 2022 07:00:00 GMT",
+      "snippet": "Euler Finance – A Review&nbsp;&nbsp;Altcoin Buzz"
+    },
+    {
+      "title": "Introducing Euler (EUL) on Binance HODLer Airdrops! Earn EUL With Retroactive BNB Simple Earn Subscriptions - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZUlib3dpVXRlakxJOEp4NHA0YVZ5Q2huLWxzRXRoMUpTLVdVNFFYb3hNRVFocmJZTEstNElCSlpaeTNGenFNakxXYXZwQ1NCeFdEeEFJQWRRY083azhjR1k0T1kxcVdxWENuRlZDc200TmxMUDBSQ3ZoX3o0SFdSWnJaOFh4d0RqQUNhSVJuX1M?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 13 Oct 2025 07:00:00 GMT",
+      "snippet": "Introducing Euler (EUL) on Binance HODLer Airdrops! Earn EUL With Retroactive BNB Simple Earn Subscriptions&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Will Add Euler (EUL) on Earn, Buy Crypto, Convert, Margin & Futures - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTROdXZRcTNlc0syM25vTkg5eXBYYjY0emVlUkY1Zmg3UG9LbkRRbkQzMHNUR3ZQdWtILW1YOVNLUE9Ta3BMaF85bl85c0VyVE45T2JDV0xIWnA5VTN5YjlSbFdFWE5vSGc5WHo0TFZIZExvaF9Da2Y1WmdtOVdxSk5iSHFsYm8zTmNnRW5Ra2o?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 13 Oct 2025 07:00:00 GMT",
+      "snippet": "Binance Will Add Euler (EUL) on Earn, Buy Crypto, Convert, Margin & Futures&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Katie Haun's New Fund Leads $32M Round in Lending Protocol Euler - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUM5Q1VweEZzVmpyUWNNZnVkSjFiWnppZnRZTDhEZmlBZUZxZ25mdTQxLWpQUVdreVRLRWlaNnZZUVlaQk9JSGlUc3JxcDlaZTlldm5ERlREbmJVa05OUElhSmR2cWZuVmNZelhpV0trQmt4V1dUT2dyejR4UWJwSi1GRU1uakZsNW5qTVN1WTRxa3RGQWJXT2Zfam83RTd0Y25PdjdtYlNaOVU?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 07 Jun 2022 07:00:00 GMT",
+      "snippet": "Katie Haun's New Fund Leads $32M Round in Lending Protocol Euler&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Euler Finance Lets Users Redeem Recovered Funds Following $200M Theft - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVpWRTF0U09IOG9ubHlVZlVwTGZaNFp3Q1pGWWJiLXpKODJJc0FZdXZzSFg0LVNtZ1hXVi1ZTzVUOFdJRHh1SmRQR0ZDZl9IbVJ4RDQ1ZVN5NEo5czRPOUJUdWpNSzZadkZTYnJjQmhoTmtkT0E5RHd2UjVidmhPM2FoT21XZlBLUEk1WW9EVUhUSWtVRVFqUHJQUWh6dHZmUS1LLWp6eXVuczhET19XOVVjRQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 12 Apr 2023 07:00:00 GMT",
+      "snippet": "Euler Finance Lets Users Redeem Recovered Funds Following $200M Theft&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "BlackRock’s sBUIDL launches 'first direct DeFi protocol integration' with Euler on Avalanche - The Block",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzNwVk96NTZ0eU5TVDFEeUhsdkxubDdqbi10UlctTEJ4UUh1UHk5YVVsQjNUTnR5WnhRVmp1ZTN0N1NMbXk0VjhnV25RTVdWU1I0UkVSMUZlX1FxN0V6TDVXbm91UkNnbXBpLXptcVIyT293Q1ZHQ3VkQlN4MUhnVXh1aGI4UGxXdlFkZ1QxdS1na2Njam52Y1ZuMW0xSnRiXzhUd2xn?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 15 May 2025 07:00:00 GMT",
+      "snippet": "BlackRock’s sBUIDL launches 'first direct DeFi protocol integration' with Euler on Avalanche&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
