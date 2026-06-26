@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-06-26T11:02:11.462Z",
+  "updatedAt": "2026-06-26T11:17:21.836Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
+      "name": "VelodromeV2",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T11:17:16.214Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "LUMIA",
+      "requestedInput": "LUMIA",
+      "name": "Lumia",
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T11:02:07.916Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-26T11:17:18.430Z",
+      "latestPath": "data/results/LUMIA-latest.json"
+    },
+    {
+      "token": "ACU",
+      "requestedInput": "ACU",
+      "name": "ACU",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T11:17:18.401Z",
+      "latestPath": "data/results/ACU-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T11:17:15.092Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "NMR",
+      "requestedInput": "NMR",
+      "name": "Numeraire",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T11:17:21.834Z",
+      "latestPath": "data/results/NMR-latest.json"
     },
     {
       "token": "AT",
@@ -20,16 +60,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T11:02:11.460Z",
       "latestPath": "data/results/AT-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T11:02:07.902Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "DYDX",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-24T16:02:40.704Z",
       "latestPath": "data/results/G-latest.json"
-    },
-    {
-      "token": "POPCAT",
-      "requestedInput": "POPCAT",
-      "name": "Popcat",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-24T16:02:43.949Z",
-      "latestPath": "data/results/POPCAT-latest.json"
-    },
-    {
-      "token": "FSX",
-      "requestedInput": "FUTU",
-      "name": "FUTURESYNCX",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-24T15:47:19.328Z",
-      "latestPath": "data/results/FSX-latest.json"
-    },
-    {
-      "token": "BAS",
-      "requestedInput": "BAS",
-      "name": "BNB Attestation Service",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-24T10:32:10.597Z",
-      "latestPath": "data/results/BAS-latest.json"
     }
   ]
 }
