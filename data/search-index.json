@@ -1,6 +1,176 @@
 {
-  "updatedAt": "2026-06-26T17:32:33.646Z",
+  "updatedAt": "2026-06-26T17:47:34.649Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T17:47:06.886Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "FARTCOIN",
+      "requestedInput": "FARTCOIN",
+      "name": "Fartcoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T17:47:06.306Z",
+      "latestPath": "data/results/FARTCOIN-latest.json"
+    },
+    {
+      "token": "MOODENG",
+      "requestedInput": "MOODENG",
+      "name": "Moo Deng",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T17:47:08.218Z",
+      "latestPath": "data/results/MOODENG-latest.json"
+    },
+    {
+      "token": "GPS",
+      "requestedInput": "GPS",
+      "name": "GoPlus Security",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T17:47:07.097Z",
+      "latestPath": "data/results/GPS-latest.json"
+    },
+    {
+      "token": "SOL",
+      "requestedInput": "SOL",
+      "name": "Solana",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T17:47:15.384Z",
+      "latestPath": "data/results/SOL-latest.json"
+    },
+    {
+      "token": "B2",
+      "requestedInput": "B2",
+      "name": "BSquared Network",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T17:47:16.189Z",
+      "latestPath": "data/results/B2-latest.json"
+    },
+    {
+      "token": "ARQQ",
+      "requestedInput": "ARQQ",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T17:47:10.143Z",
+      "latestPath": "data/results/ARQQ-latest.json"
+    },
+    {
+      "token": "JUP",
+      "requestedInput": "JUP",
+      "name": "JUP",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T17:47:17.307Z",
+      "latestPath": "data/results/JUP-latest.json"
+    },
+    {
+      "token": "GE",
+      "requestedInput": "GE",
+      "name": "GE Aerospace / GE Vernova (tokenized)",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T17:47:20.921Z",
+      "latestPath": "data/results/GE-latest.json"
+    },
+    {
+      "token": "1000000MOG",
+      "requestedInput": "1000000MOG",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T17:47:18.793Z",
+      "latestPath": "data/results/1000000MOG-latest.json"
+    },
+    {
+      "token": "PANW",
+      "requestedInput": "PANW",
+      "name": "Palo Alto Networks Inc (Derivatives)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T17:47:22.435Z",
+      "latestPath": "data/results/PANW-latest.json"
+    },
+    {
+      "token": "LAYER",
+      "requestedInput": "TRUST",
+      "name": "TRUST",
+      "score": 2,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T17:47:26.271Z",
+      "latestPath": "data/results/LAYER-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T17:47:26.558Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "PREOPENAI",
+      "requestedInput": "OPENAI",
+      "name": "OpenAI",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T17:47:27.297Z",
+      "latestPath": "data/results/PREOPENAI-latest.json"
+    },
+    {
+      "token": "MAGM",
+      "requestedInput": "MAGMA",
+      "name": "MAGMA",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T17:47:28.113Z",
+      "latestPath": "data/results/MAGM-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T17:47:32.089Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "W",
+      "requestedInput": "W",
+      "name": "Wormhole",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T17:47:34.647Z",
+      "latestPath": "data/results/W-latest.json"
+    },
     {
       "token": "AXS",
       "requestedInput": "AXS",
@@ -12,16 +182,6 @@
       "latestPath": "data/results/AXS-latest.json"
     },
     {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T17:32:04.264Z",
-      "latestPath": "data/results/VELO-latest.json"
-    },
-    {
       "token": "AERO",
       "requestedInput": "AERO",
       "name": "Aerodrome Finance",
@@ -30,16 +190,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T17:32:05.310Z",
       "latestPath": "data/results/AERO-latest.json"
-    },
-    {
-      "token": "LAYER",
-      "requestedInput": "TRUST",
-      "name": "TRUST",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T17:32:07.560Z",
-      "latestPath": "data/results/LAYER-latest.json"
     },
     {
       "token": "ALCH",
@@ -92,16 +242,6 @@
       "latestPath": "data/results/ALICE-latest.json"
     },
     {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T17:32:21.229Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
       "token": "RESOLV",
       "requestedInput": "RESOLV",
       "name": "Resolv",
@@ -120,36 +260,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T17:32:26.657Z",
       "latestPath": "data/results/BNT-latest.json"
-    },
-    {
-      "token": "PREOPENAI",
-      "requestedInput": "OPENAI",
-      "name": "OpenAI",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T17:32:26.318Z",
-      "latestPath": "data/results/PREOPENAI-latest.json"
-    },
-    {
-      "token": "MAGM",
-      "requestedInput": "MAGMA",
-      "name": "MAGMA",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T17:32:26.417Z",
-      "latestPath": "data/results/MAGM-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T17:32:31.612Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "UAI",
@@ -890,116 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T16:17:03.091Z",
       "latestPath": "data/results/XPIN-latest.json"
-    },
-    {
-      "token": "AWE",
-      "requestedInput": "AWE",
-      "name": "AWE Network",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T16:17:10.420Z",
-      "latestPath": "data/results/AWE-latest.json"
-    },
-    {
-      "token": "DEXE",
-      "requestedInput": "DEXE",
-      "name": "DeXe",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T16:17:10.141Z",
-      "latestPath": "data/results/DEXE-latest.json"
-    },
-    {
-      "token": "ID",
-      "requestedInput": "ID",
-      "name": "ID",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T16:17:11.005Z",
-      "latestPath": "data/results/ID-latest.json"
-    },
-    {
-      "token": "US",
-      "requestedInput": "US",
-      "name": "Talus Token",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-26T16:17:18.320Z",
-      "latestPath": "data/results/US-latest.json"
-    },
-    {
-      "token": "BAN",
-      "requestedInput": "BAN",
-      "name": "Ban",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T16:17:20.628Z",
-      "latestPath": "data/results/BAN-latest.json"
-    },
-    {
-      "token": "PNUT",
-      "requestedInput": "PNUT",
-      "name": "Peanut the Squirrel",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T16:17:19.953Z",
-      "latestPath": "data/results/PNUT-latest.json"
-    },
-    {
-      "token": "SYN",
-      "requestedInput": "SYN",
-      "name": "Synapse",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T16:17:19.044Z",
-      "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "MMT",
-      "requestedInput": "MMT",
-      "name": "MMT",
-      "score": 35,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-26T16:17:26.545Z",
-      "latestPath": "data/results/MMT-latest.json"
-    },
-    {
-      "token": "AAVE",
-      "requestedInput": "AAVE",
-      "name": "Aave",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T16:17:27.111Z",
-      "latestPath": "data/results/AAVE-latest.json"
-    },
-    {
-      "token": "NATGAS",
-      "requestedInput": "NATGAS",
-      "name": "Natural Gas (Derivatives)",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T16:17:27.426Z",
-      "latestPath": "data/results/NATGAS-latest.json"
-    },
-    {
-      "token": "BLESS",
-      "requestedInput": "BLESS",
-      "name": "Bless",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T16:17:36.124Z",
-      "latestPath": "data/results/BLESS-latest.json"
     }
   ]
 }
