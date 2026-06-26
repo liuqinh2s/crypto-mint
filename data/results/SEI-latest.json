@@ -1,0 +1,321 @@
+{
+  "token": "SEI",
+  "requestedInput": "SEI",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T23:02:19.120Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SEI",
+    "name": "Sei",
+    "generatedAt": "2026-06-26T23:02:10.662Z",
+    "summary": "SEI近期上涨缺乏明确催化剂，主要跟随大盘反弹，但基本面有Giga升级、Mastercard合作等利好。当前价格较ATH跌95%，估值较低，但市场情绪偏弱，成交量一般。建议观望，等待更明确的信号。",
+    "rating": {
+      "score": 40,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若跌破0.05美元支撑或大盘继续下跌，则逻辑失效"
+    },
+    "catalysts": [
+      "Giga升级预期（50倍EVM吞吐量提升）",
+      "Mastercard合作（稳定币与RWA增长）",
+      "生态发展（moBackpack、Yei Finance等）",
+      "低市值+高FDV，但流通供应已解锁大部分"
+    ],
+    "latestNews": [
+      {
+        "title": "Sei (SEI) Rises 5% Amid Broader Crypto Market Decline",
+        "impact": "利好",
+        "reason": "逆势上涨显示一定强势，但幅度有限"
+      },
+      {
+        "title": "Why Traders Are Bullish On SEI - Stablecoin & RWA Growth, Mastercard Tie-Up, 5.6B TXNS & EVM Pivot",
+        "impact": "利好",
+        "reason": "基本面催化剂明确，但新闻来源权威性一般"
+      },
+      {
+        "title": "SEI Price Rebounds, but the Long-Term Trend Remains Bearish — What’s Next for SEI?",
+        "impact": "中性",
+        "reason": "短期反弹但长期趋势仍偏空"
+      }
+    ],
+    "fundamentals": [
+      "高性能Layer1，并行化EVM，兼容以太坊",
+      "Giga升级将提升50倍吞吐量",
+      "总供应100亿，流通67.3亿，FDV约5.35亿美元",
+      "ATH 1.14美元，当前0.0535美元，跌幅95%",
+      "生态包括DeFi、游戏等，但TVL和用户数一般"
+    ],
+    "marketRead": [
+      "24小时价格下跌5.12%，但7日上涨0.49%，14日上涨4.47%",
+      "成交量约5380万美元，流动性尚可",
+      "价格在0.05美元附近震荡，无明显突破信号"
+    ],
+    "risks": [
+      "大盘整体下跌风险",
+      "Giga升级可能不及预期",
+      "竞争激烈（Solana、Avalanche等）",
+      "代币解锁压力（总供应未完全流通）",
+      "新闻多为预测性，缺乏实质性利好"
+    ],
+    "watchlist": [
+      "Giga升级具体时间线",
+      "Mastercard合作落地进展",
+      "SEI价格能否站稳0.06美元",
+      "大盘走势（BTC、ETH）"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko和DexScreener，新闻来自Google News聚合",
+      "DEX数据为Solana上的SEI/USDC对，与CEX价格差异较大（0.3039 vs 0.0535），可能为不同代币或流动性问题，需核实",
+      "建议以CEX价格为准"
+    ]
+  },
+  "profile": {
+    "id": "sei-network",
+    "symbol": "SEI",
+    "name": "Sei",
+    "categories": [
+      "Smart Contract Platform",
+      "Decentralized Finance (DeFi)",
+      "Layer 1 (L1)",
+      "Parallelized EVM",
+      "Coinbase Ventures Portfolio",
+      "Multicoin Capital Portfolio",
+      "GMCI Layer 1 Index",
+      "Delphi Ventures Portfolio",
+      "Circle Ventures Portfolio",
+      "OKX Ventures Portfolio",
+      "GMCI Index",
+      "Sei Network Ecosystem",
+      "World Liberty Financial Portfolio",
+      "Made in USA"
+    ],
+    "homepage": [
+      "https://www.sei.io",
+      "https://blog.seinetwork.io/"
+    ],
+    "description": "Sei is a high-performance Layer 1 blockchain that scales the EVM with parallelized execution, enabling faster transactions, low fees, and seamless smart contract deployment. Sei removes traditional blockchain bottlenecks while maintaining full Ethereum compatibility. The upcoming Giga upgrade will deliver 50x improvements in EVM throughput, optimizing execution, consensus, and storage to push blockchain performance to web2 levels.",
+    "marketCapRank": 122,
+    "currentPriceUsd": 0.05351,
+    "marketCapUsd": 360282845,
+    "fullyDilutedValuationUsd": 535073533,
+    "totalVolumeUsd": 53784930,
+    "priceChange24hPct": -5.12147,
+    "priceChange7dPct": 0.48787,
+    "priceChange14dPct": 4.46921,
+    "priceChange30dPct": -20.23521,
+    "athUsd": 1.14,
+    "athChangePct": -95.30551,
+    "circulatingSupply": 6733333333,
+    "totalSupply": 10000000000,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 62.5,
+    "watchlistUsers": 181799,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "SEI/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "HsxtV2ch456jVcodJTp8fskQWUar7ufyUh9x74mDk2YV",
+    "pairUrl": "https://dexscreener.com/solana/hsxtv2ch456jvcodjtp8fskqwuar7ufyuh9x74mdk2yv",
+    "lastPrice": 0.3039,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 1861426710.6,
+    "fullyDilutedValuationUsd": 1862446866,
+    "marketCapUsd": 1862446866,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/hsxtv2ch456jvcodjtp8fskqwuar7ufyuh9x74mdk2yv",
+    "pairAddress": "HsxtV2ch456jVcodJTp8fskQWUar7ufyUh9x74mDk2YV",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "HX9vRbnFBdSS3ksdVqNRkYZB2HbwV6VWK2gjd1WNeUUE",
+      "name": "Sei",
+      "symbol": "SEI"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.3039",
+    "priceUsd": "0.3039",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 1861426710.6,
+      "base": 6124421223,
+      "quote": 19.1669
+    },
+    "fdv": 1862446866,
+    "marketCap": 1862446866,
+    "pairCreatedAt": 1759414302000
+  },
+  "news": [
+    {
+      "title": "Sei (SEI) Price Prediction 2026, 2027-2030: Will the Sei Giga Upgrade Trigger a Bullish Breakout? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaYjl0LWdHMTJpajVhU1d1ZEwzWHl5a1lsYUFKbTM1U29NcFF4cWZNRHktcVNnaVQyWEFka1Vld1BiUjQtVWRCeTJPN3JHc25RS3pFQlVaZlQ4Y0lmX1dkM241U0ljSmRJUWNuZdIBckFVX3lxTE9fZ0s4WlNrZVZwanc4aHhpQ2JqNERJVUFIdElscW94MVVUNF9QM3NNN21NN3FUb293SHNIOG1vNmNDckNuVG5ONlRRWDA0MzNZUzhZQXZUWS1TeHZXM0lJbGlyalZRNF80NkVFdzNFYjZKQQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Wed, 24 Jun 2026 08:55:00 GMT",
+      "snippet": "Sei (SEI) Price Prediction 2026, 2027-2030: Will the Sei Giga Upgrade Trigger a Bullish Breakout?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "SEI Price Prediction: Can This Layer-1 Altcoin Explode 35%? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWdpaU9zZ2ItOE5GNEVzMXo4Ylhjb1RwbklBUVNia0dobHJDZVRrS21XVWRzaUdWdUE4Z3VXdXhyLXRZazZkRWZZcnZDZUpqOVVmTWVYS3A2ZXRxbDJsN3MxNVhCM0VhckZZa2pfUmJRQWtQY1lnel9pRUF5V01hOUM1Sl8zNkhXbWdIeDJjcXU3d3lISWl2RFRn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 25 Jun 2026 19:57:20 GMT",
+      "snippet": "SEI Price Prediction: Can This Layer-1 Altcoin Explode 35%?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Sei (SEI) Rises 5% Amid Broader Crypto Market Decline - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10WGNxMTF5T010ay1yUWZ2d1Q4THROVG56NG5fR25McWNCb0FPMzdnRWtRWjdnZEV0UWIzMEVJTU9GQ1lyaFAzQ0ExQzJvNC1IQzJJUWJoMjF6X1J1eUw3MGNVcWZIV3hHeHNoa3ZjYTg?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 24 Jun 2026 22:14:00 GMT",
+      "snippet": "Sei (SEI) Rises 5% Amid Broader Crypto Market Decline&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Why Traders Are Bullish On SEI - Stablecoin & RWA Growth, Mastercard Tie-Up, 5.6B TXNS & EVM Pivot Valerio Agnoli (tI2JoKBcuo) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zeW01MDU5Z0thaFNxM1BsOUY2N0RuZk5KZS1INmxjNEtOSi1HSDJrWXlKWFcydTJTMHBzSXdTeEZDZFRDMUdHMWVnS0ZaQnNOSVVBaXFtOTBiN1k?oc=5",
+      "source": "Mshale",
+      "publishedAt": "Tue, 23 Jun 2026 19:35:10 GMT",
+      "snippet": "Why Traders Are Bullish On SEI - Stablecoin & RWA Growth, Mastercard Tie-Up, 5.6B TXNS & EVM Pivot Valerio Agnoli (tI2JoKBcuo)&nbsp;&nbsp;Mshale"
+    },
+    {
+      "title": "SEI Price Prediction: Can This Layer-1 Altcoin Explode 35%? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXeHlwTUp0N3ZQdkJJdUNDWjVyYnA2bjNBeEZSUEFDZ2kwc0k0V09PS0dsUFl0aDVRUXdFa0twczJ3akdyT0FwRW9obUtXVjdXNVY1WElvZUNNUEpRZ094M1BwSdIBY0FVX3lxTFBXeHlwTUp0N3ZQdkJJdUNDWjVyYnA2bjNBeEZSUEFDZ2kwc0k0V09PS0dsUFl0aDVRUXdFa0twczJ3akdyT0FwRW9obUtXVjdXNVY1WElvZUNNUEpRZ094M1BwSQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 25 Jun 2026 21:41:54 GMT",
+      "snippet": "SEI Price Prediction: Can This Layer-1 Altcoin Explode 35%?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Sei Price Today in India | SEI to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0OUQ0S2FtMVNSeGtwNjFydmtWTkFmVFEycTNtbGNTN0NFNGYxVzJqNHhCZkdRbl9QQm51TTJfN0dXTWNoNEctWWNhUWpRNkNO?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 23 Jun 2026 13:10:00 GMT",
+      "snippet": "Sei Price Today in India | SEI to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "SEI Price Rebounds, but the Long-Term Trend Remains Bearish — What’s Next for SEI? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlBwTGtIbFh1R1B5QkVDUHpLZ1k0cEZBY3lOamJQQVdqNldNQmFQYmFtaHl4T2otWXFYXzRxTVl0N3lYSkZ4emZfNEMzZ2tXTEs1NkRweEROOUh6eEw0R2ptLW15dVFSa05nQ1dZUkg2Zmk3LWgtd2Z3Tnp4aVZvWXo4d1o0cklEMS1BRTBEU05UYUI2VWVlLVF5Q2FZUnpYWlI3R0R0dTFRX25lLXpuNkMtWHFId9IBuwFBVV95cUxNLUR4UDliLTJwbU9pX2hNd3U1R1NvMUxZd0RUZkd1YmZYeDdrRXNSWVYwc1ZUNWtXRWpBYndLVG9td3lRN3VvNUpuckFqRlRweENkam5EZmpNeld2QnBxMkpacTgwX093RDkxNE4zWDctc2thTXF5bkEwbk1XSnFvYnZhbWFnT29HNlZ0R19WeTlXbEduckxNYmhTU3BYbDU4LVp5RllyNW1uUHpNTUtPVVF2NmNjQUlFZGJn?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Fri, 26 Jun 2026 01:18:08 GMT",
+      "snippet": "SEI Price Rebounds, but the Long-Term Trend Remains Bearish — What’s Next for SEI?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Sei (SEI) Price Outlook 2026–2030: Can the Giga Upgrade Fuel a Sustained Rally? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHdyb3l1SUJIZ2FSQUFRSkVsODN1THZxT241UXFvajBaVjlkbzg3cE1EQ01HUEVoSE5nYi1zRDRtdUdNRFVXcGFRSkMtZEhSdnB3WE5RMzk0M3d2WEhnRTBKZFFaMTk0TVlJU0g4Y0FJeHR3U0R3Z2d4ZFQzd0hsM1BOMVlObnZfLS1Z?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 24 Jun 2026 12:42:45 GMT",
+      "snippet": "Sei (SEI) Price Outlook 2026–2030: Can the Giga Upgrade Fuel a Sustained Rally?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Sei's 3.49% Move Lacks Clear Catalyst, Follows Macro Trend - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XTjQ3ekdLMC1MeWhmbmY5QzFCOFFlVGIxTVFDaE5NZlhUaFRGdGRXX192WDFjR3U5OTVZM2RVZV8wNlJvdC1UYkw5YTZ4SlFibUpuMWc0c1hZWlVHYlBkSEdSTS1MbFhTV2lubW0taHo?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 15 Jun 2026 07:00:00 GMT",
+      "snippet": "Sei's 3.49% Move Lacks Clear Catalyst, Follows Macro Trend&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Sei (SEI) Price Prediction: 2026–2030 - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBX1cwZ1l1dWY3UGhGZ09MQVd2WUxPalBEOGpqWVBIdHRnWC1VbXluYWNGYVVMOGFxWkdkQmVNRnBJVkRkYk1yZlNyVGI5Z3R4N1lfVGJTNko?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "Sei (SEI) Price Prediction: 2026–2030&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "moBackpack Trading Platform and Wallet Launched on Sei Mainnet - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWl2OU9HU3hMd1ZBRzZMUEpES3BXYmIyTHVMcDdXbEpZZmFwcmVGaUJfNjZQMzJQOUlicjVhZFFndzkxWlZVVmFvUTlzLVIxVGN4T05iZUMwaVFORlowZklnbVo1Y3RjOGNvaU1WcVB2eTJHNm14azNWVmU2N0k4OFV0dy12MEUwU0REZEZOak5NVVNETnA3X1NzM0lHVHBpUjd6aA?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Fri, 01 Aug 2025 07:00:00 GMT",
+      "snippet": "moBackpack Trading Platform and Wallet Launched on Sei Mainnet&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Is It Safe to buy Sei? Advice and Risk Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85T2w3MVFtMExFYVNhSlZrd3dCSDhZbm5Od3RCRUVqVlB2dXZ3aEl3cUxYQW53ZjVvNDFubE1tSTFtV29yOGd1X2xidUkwYjdDSWhoVkFVUjNRU284ZktoWEdfZ1g5ZkwyWkdHRk9FQ21ac1R6V3NTMWZFVmU?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 17 Jun 2026 17:37:02 GMT",
+      "snippet": "Is It Safe to buy Sei? Advice and Risk Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Where is purchase Sei: Best Platforms and Guide - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VQUJ0blhveUd2TE5kN25FeDRUQ0p5YzN1Z1VwMG4tdURNWHVaM203MHMzNzZ1bGhlMENiOVdVektLWUZJam1WampxaE1zNkZxeU9Ubi0wMHlPRmd3WEhJRUFNcmQxblRMelpueEU4ZDB4RzVyWFNoQ3A4ZG4tQQ?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Sun, 07 Jun 2026 03:57:53 GMT",
+      "snippet": "Where is purchase Sei: Best Platforms and Guide&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Purchase Sei: Latest Price, Method & Market Introduction - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LOERmYUVXTlJfVnBqc3V4dGV5UUU4b0IweDYtMmhOZWRjbjVuZkxmR3NUODFKR2NlSm15LU9mZTRuWTRkTGpfZk1kMl9wUGlLQjIzaWVaT0FGeWU5VjEzQVcwM0ZCMVJLRTR1aE1pMlNKdlpBcS1EN0NUQjJTZVU?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Thu, 11 Jun 2026 19:22:36 GMT",
+      "snippet": "Purchase Sei: Latest Price, Method & Market Introduction&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "How to purchase Sei: Thorough Crypto Primer - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uZFBNM2NQTGtFVThJYUplOFRQcE5lQ0JPWDZVeGd3RHk4UmNOT3AyQVVUcDdZaVpKUDhhSGdBR3l4UWR0OV9pWDhxcFpZaHNFWHdicXNMRC16eFlyaFJSQmZJS3RZanVaVkJWQVpsbHV6WGg4?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Thu, 11 Jun 2026 16:23:38 GMT",
+      "snippet": "How to purchase Sei: Thorough Crypto Primer&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Yei Finance Launches DeFi App Clovis on the Sei Network - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43M0ppNDBpY0NSRkNOM2RuZGZOV1F6OHV6RXVEeTRfaUtoNk5CVkxQeTlWNFVULTkyalU5bmg5c2FfNC1OVnBpSjNtYkJ2UE9DUS05c3IyOVRzdTgzRTFidHlkMA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 08 Sep 2025 07:00:00 GMT",
+      "snippet": "Yei Finance Launches DeFi App Clovis on the Sei Network&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
