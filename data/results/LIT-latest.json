@@ -1,0 +1,381 @@
+{
+  "token": "LIT",
+  "requestedInput": "LIT",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T09:32:28.236Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "LIT",
+    "name": "Lighter",
+    "generatedAt": "2026-06-26T09:32:16.591Z",
+    "summary": "LIT近期因Vitalik背书、协议回购及鲸鱼买入等催化上涨，但当前链上流动性极低（仅1.15万美元），价格发现不充分，风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "链上流动性恢复至百万美元级别或上线主流CEX"
+    },
+    "catalysts": [
+      "Vitalik Buterin公开背书",
+      "协议启动代币回购",
+      "鲸鱼地址买入",
+      "社交媒体热度上升"
+    ],
+    "latestNews": [
+      {
+        "title": "Lighter (LIT) Price Prediction 2025–2026: Will It Rise? - Bitget",
+        "impact": "中性",
+        "reason": "预测类文章，无实质催化"
+      },
+      {
+        "title": "Lighter price prediction – How close is LIT’s $2 breakout? - AMBCrypto",
+        "impact": "中性",
+        "reason": "预测分析，无新增信息"
+      },
+      {
+        "title": "Lighter (LIT) Surges 5.18% in 1 Hour on Strong Tokenomics - CoinMarketCap",
+        "impact": "利好",
+        "reason": "强调代币经济强劲，短期上涨"
+      },
+      {
+        "title": "3 Catalysts Powering Lighter’s 20% Rally Today - Yahoo Finance",
+        "impact": "利好",
+        "reason": "指出Vitalik背书、回购、鲸鱼买入三大催化"
+      },
+      {
+        "title": "Lighter price outlook: Can LIT push toward $1 after Vitalik endorsement? - TradingView",
+        "impact": "利好",
+        "reason": "Vitalik背书被视为重要利好"
+      },
+      {
+        "title": "Why is the Lighter crypto price rising as the broader market falls? - CryptoRank",
+        "impact": "利好",
+        "reason": "逆势上涨，显示独立行情"
+      },
+      {
+        "title": "Lighter Price Prediction 2026-2031: LIT $1.40 Next? - CoinDCX",
+        "impact": "中性",
+        "reason": "长期预测，短期参考价值低"
+      },
+      {
+        "title": "Lighter token bounces 37% as protocol begins buybacks and whales buy in - dlnews.com",
+        "impact": "利好",
+        "reason": "回购和鲸鱼买入是直接买盘"
+      },
+      {
+        "title": "Lighter (LIT) Gains 3.2% Amid Social Media Momentum - CoinMarketCap",
+        "impact": "利好",
+        "reason": "社交媒体热度推动"
+      },
+      {
+        "title": "What is Lighter (LIT)? - Bitget",
+        "impact": "中性",
+        "reason": "科普文章"
+      },
+      {
+        "title": "Lighter Rolls Out LIT Token with $68M Funding and Mainnet Momentum - TradingView",
+        "impact": "利好",
+        "reason": "融资和主网上线是基本面支撑"
+      },
+      {
+        "title": "Polymarket bets surge on Lighter airdrop as Hyperliquid lists LIT - TradingView",
+        "impact": "利好",
+        "reason": "空投预期和CEX上线"
+      },
+      {
+        "title": "What Is Lighter (LIT)? Complete Guide For 2025 - Bitcoin World",
+        "impact": "中性",
+        "reason": "指南类内容"
+      },
+      {
+        "title": "Lighter TGE Date & Points Farming Guide | How to Maximize Airdrop Rewards - Bitget",
+        "impact": "中性",
+        "reason": "空投指南，非价格催化"
+      },
+      {
+        "title": "Lighter DEX Launches LIT Token With 25% Airdrop - CoinDesk",
+        "impact": "利好",
+        "reason": "空投分配比例高，吸引用户"
+      },
+      {
+        "title": "Lighter Launches LIT Token, Allocates 50% to Ecosystem and Airdrop - CoinMarketCap",
+        "impact": "利好",
+        "reason": "生态和空投占比大"
+      }
+    ],
+    "fundamentals": [
+      "Lighter是去中心化交易平台，主打可验证订单匹配和清算，性能媲美传统交易所",
+      "获得6800万美元融资",
+      "总供应量10亿，流通量2.5亿，流通市值约4.18亿美元",
+      "代币分配：50%用于生态和空投",
+      "已上线Hyperliquid等CEX"
+    ],
+    "marketRead": [
+      "链上PancakeSwap交易对流动性仅1.15万美元，24小时交易量不足100美元，价格极易被操纵",
+      "CoinMarketCap数据显示24小时涨幅约105%，但链上数据仅1.16%，存在数据不一致",
+      "30日涨幅38%，但ATH跌幅78.8%，仍处于深度回调"
+    ],
+    "risks": [
+      "链上流动性极低，存在拉高出货和价格操纵风险",
+      "总供应量10亿，流通仅2.5亿，未来解锁压力大",
+      "项目较新（2025年底TGE），合约和DEX风险高",
+      "新闻催化多为旧闻，缺乏新实质利好",
+      "市场情绪可能快速反转"
+    ],
+    "watchlist": [
+      "链上流动性是否增加",
+      "是否上线更多主流CEX",
+      "回购计划执行情况",
+      "Vitalik后续言论",
+      "代币解锁时间表"
+    ],
+    "sourceNotes": [
+      "链上数据来自PancakeSwap，流动性极低，价格参考价值有限",
+      "新闻来源多为预测和旧闻，需谨慎对待",
+      "CoinMarketCap数据与链上数据存在差异，可能因不同交易对"
+    ]
+  },
+  "profile": {
+    "id": "lighter",
+    "symbol": "LIT",
+    "name": "Lighter",
+    "categories": [
+      "Decentralized Exchange (DEX)",
+      "Decentralized Finance (DeFi)",
+      "Derivatives",
+      "Perpetuals",
+      "Ethereum Ecosystem",
+      "Made in USA"
+    ],
+    "homepage": [
+      "https://lighter.xyz/"
+    ],
+    "description": "Lighter is a decentralized trading platform built for unmatched security and scale. It’s the first exchange to offer verifiable order matching and liquidations while delivering best-in-class performance on par with traditional exchanges. ",
+    "marketCapRank": 113,
+    "currentPriceUsd": 1.67,
+    "marketCapUsd": 418351527,
+    "fullyDilutedValuationUsd": 1673406110,
+    "totalVolumeUsd": 48669688,
+    "priceChange24hPct": 1.04997,
+    "priceChange7dPct": 7.42851,
+    "priceChange14dPct": 7.44906,
+    "priceChange30dPct": 38.00268,
+    "athUsd": 7.86,
+    "athChangePct": -78.79793,
+    "circulatingSupply": 250000000,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 13400,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "Lira/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x3F3DF92Daf63D6F65ccDa39eE2Cfa2CA214E882f",
+    "pairUrl": "https://dexscreener.com/bsc/0x3f3df92daf63d6f65ccda39ee2cfa2ca214e882f",
+    "lastPrice": 0.00001628,
+    "priceChange24hPct": 1.16,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 93.48,
+    "liquidityUsd": 11514.01,
+    "fullyDilutedValuationUsd": 16199,
+    "marketCapUsd": 16199,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x3f3df92daf63d6f65ccda39ee2cfa2ca214e882f",
+    "pairAddress": "0x3F3DF92Daf63D6F65ccDa39eE2Cfa2CA214E882f",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x195c7b9b4279174d5CEB462790D8709957eF4444",
+      "name": "LIT",
+      "symbol": "Lira"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.00000002902",
+    "priceUsd": "0.00001628",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 3,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 93.48,
+      "h6": 17.9,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": 1.53,
+      "h24": 1.16
+    },
+    "liquidity": {
+      "usd": 11514.01,
+      "base": 353609161,
+      "quote": 10.2633
+    },
+    "fdv": 16199,
+    "marketCap": 16199,
+    "pairCreatedAt": 1769674200000
+  },
+  "news": [
+    {
+      "title": "Lighter (LIT) Price Prediction 2025–2026: Will It Rise? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qeENJTkZwMTVqQV8xSTFxWjJNUmtVZTN6Zl9FREs4ZnduU3p0T1ZaS25MV2xTSlBDNVBGV2ZQSWJiZ1MwcjhHa0RyYXJUSy1uWXE0LWFkck9Pd1UybVBkVHJZSdIBY0FVX3lxTE5qeENJTkZwMTVqQV8xSTFxWjJNUmtVZTN6Zl9FREs4ZnduU3p0T1ZaS25MV2xTSlBDNVBGV2ZQSWJiZ1MwcjhHa0RyYXJUSy1uWXE0LWFkck9Pd1UybVBkVHJZSQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 26 Jun 2026 01:48:59 GMT",
+      "snippet": "Lighter (LIT) Price Prediction 2025–2026: Will It Rise?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Lighter price prediction – How close is LIT’s $2 breakout? - AMBCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbG1CQkl1UDVkZW9HZEtURHdEUFd0Y3RfVG4tQUsxQldEWko1VkxOWG9GeVpzam0zV1F4WmtveFQzaWc1Q3JSNHpJZktJLVRuazhmSEtnRW1mQ3VINWt6ajZXUTRhSTAzOS0wbkFQREtidVA5WTRrbmd1QjFjMEEzb3Vn0gGHAUFVX3lxTE5kR3dHbmlPWi0weDJUSFZHczA5d1JlbmhyYkdRaFhqblJkRzhhc2RxSWlXb3JLZTdNaHRvTWpxQmF4V0JzMklIYlpLNmhyb0l0RmpNZ3NXeGtOQ1JIZ2g1TWVJVUtRcGt2N2s3MTN3dVZEeWpNakUwU3VzeTUwcTcxWkxsZk5Kbw?oc=5",
+      "source": "AMBCrypto",
+      "publishedAt": "Thu, 25 Jun 2026 19:00:31 GMT",
+      "snippet": "Lighter price prediction – How close is LIT’s $2 breakout?&nbsp;&nbsp;AMBCrypto"
+    },
+    {
+      "title": "Lighter (LIT) Surges 5.18% in 1 Hour on Strong Tokenomics - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51SlFFd2NrT0g0TlFHMWc5alMxYkZBOUdrWUJxU3IxdDk4ei1iWDdJd24tSHJhbUYzN1FjM0ZOWTBQRmptVjFVc3ZDNWkyZ1lCa0ZEUEZaSlZGeGxCTkR3Vndac0hXN2NmSkgyQ0xQVi0?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 24 Jun 2026 22:33:00 GMT",
+      "snippet": "Lighter (LIT) Surges 5.18% in 1 Hour on Strong Tokenomics&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "3 Catalysts Powering Lighter’s 20% Rally Today - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdERGVUxtTnhDRGNuaTFHbWtidFJad2xSS0hqb2E4Z0hPS09IWTlvS3NOWUF2cEVsbXBOMHg0Nl9sdFhZQXJ1NTJDRmtmODJCVE5CZEJtdFJTWHFVc0szWkJySUZDc3FDUGJ2ZENWYkN3OVZqZHFybFVScXQ1eHhsNUUyMVZpcFhrd0RPaDhnZVotZTRwWjBtUTIwamY?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
+      "snippet": "3 Catalysts Powering Lighter’s 20% Rally Today&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Lighter price outlook: Can LIT push toward $1 after Vitalik endorsement? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNmdWRzZNMHhRbGZyM3ZQRjR2bWhWY2l3TnlUWEQzTHFlNkk2R0Y3T21kLTUzel9icUpQM1dVbHgweEhtR18zcDgzNG9SbzlrQjkwM2xyQjRjNWRnb0tzY3Bhd2lnVms1cFc4aFhyUUZ5Tkx1OF8zaWhuSFoyWWZGcjFKQUZpVHdaVnA3QTNCdEw3YzNreF9IaFVpQlFrX3RodGphd2VMblNkRkx1a3EtdFByMS1odkx5aFlQZzVZVllqUzNH?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 19 May 2026 07:00:00 GMT",
+      "snippet": "Lighter price outlook: Can LIT push toward $1 after Vitalik endorsement?&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Why is the Lighter crypto price rising as the broader market falls? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPekRMVmRWalNCbEJPZURGcEZfR3NrWmNDeFFaT0lRd3o5Q2lvb3haTWVZVmhYc0J5VDA2bFpOWmdua3dMSTZiSm5kQkwwdEVwTTBRUlFvUXdQN1A3eElRbkNxaGJnREZtUHltYlFBbWR1ZVAyTUN0S2ItaHpvQW4tc2RxeG5fR2FSNmcxSzhQVzJvQUo0VXN3WVdvbzZObWpzbndkM3JWQQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "snippet": "Why is the Lighter crypto price rising as the broader market falls?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Lighter Price Prediction 2026-2031: LIT $1.40 Next? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SYUdlNWg5eFREQjlETzluMjBQTjRQZU9qTVZ3R0VIUkpOV2MxSlB2UmEtc3k2anRCLUNvMkFxWUp0ZE1vM19OamlyS0I2a1hoWEhOV2lWX25ZRFQ4WjVwa0dkSnFmcHpldC15bUh5alNWZ3VsbV9n?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
+      "snippet": "Lighter Price Prediction 2026-2031: LIT $1.40 Next?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Lighter token bounces 37% as protocol begins buybacks and whales buy in - dlnews.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFJxSHAxclBMWlA4WDloMlg1NkpDZ0F0S3ZwdzQxWkFpRGt3M2thZWFiV2dGOEFST0loNDNlemZNXzk3aU9XM1lDbkxoWDltdGJudVhkemxlYUNYN1lQR3NjNGIwb2otZFA1Q3R2UlNLR3dobmprVGtpS1BkYm9sSWFZNGM2RUdrWkVrbkFUMERUVXFwTWhHbHVZYXlkcnpPRk5NVG0yVTc0dkFVekE?oc=5",
+      "source": "dlnews.com",
+      "publishedAt": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "snippet": "Lighter token bounces 37% as protocol begins buybacks and whales buy in&nbsp;&nbsp;dlnews.com"
+    },
+    {
+      "title": "Lighter (LIT) Gains 3.2% Amid Social Media Momentum - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XM1NoVW9XaHZMVk5EbUxyVFliMFpYZjdERE9jWlB0UTltdEFOVFJQOGVuTWpvSVB5bDllQVNoR21OaUZ2NGJ3OUNtZElSZVhxVF82RTg5SU40NUdDWXk1OWdiZk9PSE92RFQ3NUItVHg?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 22 Jun 2026 11:05:00 GMT",
+      "snippet": "Lighter (LIT) Gains 3.2% Amid Social Media Momentum&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "What is Lighter (LIT)? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xV24ydlczaF91WExCMzE0elNEMHJZTFRQemZveFRmTnhQcmZvdzBZRlJwdzRFeU92Z3JrSHVMbnZtcHdMdUxsRjgzQUFsaWhSZ1FoVDI0bk43RkZONXdwMVhWYnVkZkRXRy16VzctZ1Y1N1NVUC1zdnl4ONIBgAFBVV95cUxORmVzUkJQZFZTVTRUY0pOMW1BV0hQN0N0bW5Tb0tQLWdQYzlkMURwbVZqMmpaQjhsanVCb2dHZWhDWDg0czRDNFhYRUt3eVFCWU1SSXh3Q2UwWHJ4SDZwdXRXM19kQnk1NzR3WHl3U1BrbGt5RFNYd1Q0Z0xTZFBaRg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "snippet": "What is Lighter (LIT)?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Lighter Rolls Out LIT Token with $68M Funding and Mainnet Momentum - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHZxTGdEd09STnlhSDJXQVFaeUs0UDRkcXkzb0gwQlVDVFpYZUNrNThHRHMxcXdjVWQxeWNvYjlmX21xTkp4cFlDNnQ1V041SXY2SF9UNm9fM2NjRHpBa3hWbzYyY0RVV2hFSGNJeGJmN1hZRHZJZ1NiLW9vQU5KazlmRV9uU3RaV1gwTVJJSG5ZRTN3eEN5d01qZ0h2cWhHdGU4RTF2QXFJbFlzbHBJQ29BTzkxMEtTblRaZ25hQ1lGTVk?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "snippet": "Lighter Rolls Out LIT Token with $68M Funding and Mainnet Momentum&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Polymarket bets surge on Lighter airdrop as Hyperliquid lists LIT - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOFRLSzgxdW1ubllKTWJpUUdwTVJzRVY0UUhPYzNzck91MU5LTlZWZ1VTUlBMeUdjdUl1eklCcldYVzIxM1BmejdZREJyUF9XazJ4ZkFjcGh1MDM2UVhma0w3bnAwMC0xOWdWYzJ4d2EzMXN2Qk9zVjVuYUtQZUlTa1pRT0FuWlEtY3k4eHZRN3VRTlZLRnpoa18tS01wLVh2VHY3b0ZrRFZPMjBtMzVvdzNvWWhJNExNYW1Kc2NVbGhEUHE2X1ZFSQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "snippet": "Polymarket bets surge on Lighter airdrop as Hyperliquid lists LIT&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "What Is Lighter (LIT)? Complete Guide For 2025 - Bitcoin World",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BemsxX3llSGNsemNrTWkyeEhSZlQ1bkFDNE1fNWtIWTF0MlFRQkxyVzBaaUZXalEtQTg0M2o2bU1YeXhxUHpaazJsZXR3LXdORnJWNTFJdDFJWUYyWDN2UWo1WWNIa0VGSEtQdTdIRXpaSjRpalhqMVVsQQ?oc=5",
+      "source": "Bitcoin World",
+      "publishedAt": "Fri, 26 Jun 2026 00:33:35 GMT",
+      "snippet": "What Is Lighter (LIT)? Complete Guide For 2025&nbsp;&nbsp;Bitcoin World"
+    },
+    {
+      "title": "Lighter TGE Date & Points Farming Guide | How to Maximize Airdrop Rewards - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOUZ5TzZnUDVUTV9VREctdjJQOUJ6RFEwNUtrSUtGanktekx4SnU5RzJTcEJGUWFRc01rLWRraE1mbE9RZDlCWFpLampEUnpNakd2cmtSMFk5Z3ppWDhMUjdqaERFaTU1SVR0YTVLXzV5YkdIR09yRFN2ZllDQ0VlQnlaMXM1WlNFSlHSAY8BQVVfeXFMTzIyd3lWMW9sajZablVVaHBfQjZrbGl3MGpOTHFqMnNNQmowVllIbVp6UjNvMlhoZ2s3a3FqR2szbElnRU9fN0E1NlU2Z0VyMEJyN3VHenJGbHBiNVZFMFpSa1lYdVZrcUlycmFQTUxOUi0wbnhtQnEtWkpmTzEzbjU5MUZvOXV3aE1wXy12T2M?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "snippet": "Lighter TGE Date & Points Farming Guide | How to Maximize Airdrop Rewards&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Lighter DEX Launches LIT Token With 25% Airdrop - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEtHMmc1akRsb1ZzRldmZjRiWEppdzRWd1JEb1BTd2J1Vi1WRGhCT3EyT3FQWlRGaXg2RU1vS05xWTBObDk5cTQ1U0J4YThaY1dnemJ6X3RvQW5UQTRzeUR5UEVPb2xWb1B4eFRvVHNiUHlRT3d4UDhJaFd1LUNGWVRDVUgzd3ZkTkg0V0Ryc2MxNUJX?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 29 Dec 2025 08:00:00 GMT",
+      "snippet": "Lighter DEX Launches LIT Token With 25% Airdrop&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Lighter Launches LIT Token, Allocates 50% to Ecosystem and Airdrop - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORjhtV1Q1UVF1cUkwWEJ6QldtTlNxak5Pak5FMXNHNnk1eGtZQl92MlFMSnlxZHRaUDhRZldQeHhRV1p1V0E2YUtRaU81MnVDZW9LZVZnYXhlUTVlNXBXOGZyMFBjU1ZfNmxQMTFDWUs2dFFXLW4xc2s1ZFA1S1VLaE10ZzV6ZXd0YnRYQlNJeFRlTVFNelU4Y0JLLUQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 30 Dec 2025 22:48:04 GMT",
+      "snippet": "Lighter Launches LIT Token, Allocates 50% to Ecosystem and Airdrop&nbsp;&nbsp;CoinMarketCap"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned LIRA for LIT; DEX profile ignored to avoid token mix-up."
+  ]
+}

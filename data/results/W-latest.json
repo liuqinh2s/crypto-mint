@@ -1,0 +1,226 @@
+{
+  "token": "W",
+  "requestedInput": "W",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T09:32:32.711Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "W",
+    "name": "Wormhole",
+    "generatedAt": "2026-06-26T09:32:24.970Z",
+    "summary": "Wormhole（W）是跨链桥协议，近期因代币经济改革和W储备库启动而上涨。但当前缺乏实时行情数据，新闻多为2024-2025年旧闻，市场热度不明。代币解锁和空投抛压风险较大，建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若出现新的重大利好或价格放量突破关键阻力位，可重新评估。"
+    },
+    "catalysts": [
+      "代币经济改革（Tokenomics Overhaul）",
+      "W储备库启动（W Reserve Launch）",
+      "Binance移除种子标签（2025-07-09）"
+    ],
+    "latestNews": [
+      {
+        "title": "Wormhole token soars following tokenomics overhaul, W reserve launch",
+        "impact": "利好",
+        "reason": "代币经济改革和储备库启动是基本面改善信号，但新闻日期为2025年9月，时效性不足。"
+      },
+      {
+        "title": "Binance Will Remove the Monitoring Tag for ZEC and the Seed Tag for ENA, PYTH, TAO & W on 2025-07-09",
+        "impact": "利好",
+        "reason": "移除种子标签意味着风险降低，可能吸引更多投资者，但已是2025年7月事件。"
+      },
+      {
+        "title": "617.3 Million Wormhole (W) Token Airdrop Slated for April 3",
+        "impact": "利空",
+        "reason": "大量空投代币解锁带来抛压，但已是2024年4月事件，影响已消化。"
+      }
+    ],
+    "fundamentals": [
+      "Wormhole是跨链通信协议，支持多链资产转移。",
+      "代币W用于治理和跨链费用支付。",
+      "2024年4月上线Binance，初始流通量约18亿枚，总供应量100亿枚。",
+      "代币解锁计划持续至2028年，早期投资者和团队份额逐步释放。"
+    ],
+    "marketRead": [
+      "无法获取实时行情数据（Binance API返回451错误），无法分析价格走势和成交量。",
+      "历史新闻显示2025年9月曾因代币经济改革上涨，但后续走势未知。"
+    ],
+    "risks": [
+      "代币解锁压力：大量未流通代币将在未来几年解锁，可能持续压制价格。",
+      "数据缺失：无法获取当前市场数据，分析基础薄弱。",
+      "新闻时效性差：多数新闻为2024-2025年，缺乏近期催化。",
+      "竞争风险：跨链桥赛道竞争激烈（如LayerZero、Axelar）。"
+    ],
+    "watchlist": [
+      "实时价格和成交量恢复后重新评估。",
+      "关注代币解锁时间表及实际抛售情况。",
+      "是否有新的合作伙伴或生态进展。"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取行情数据。",
+      "新闻来源为Google News RSS，部分链接可能已失效。",
+      "数据收集时间2026-06-26，但新闻多为2024-2025年，时效性不足。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "WUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=WUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "WFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=WFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "WUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=WUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "WBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=WBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "W Coin Price Today | WCO to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SUDg5dkxBcld5c1NtSTN3SFd2OFRYN19UTWVUb3hvNG55Qy03MWhuMzhMTWNUREg5ejRHanVMZGdOcmdDalV4S2RXWVFlRmxhZlJFbXJ5U1RtNkl3bV80?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 20 Jun 2026 20:34:00 GMT",
+      "snippet": "W Coin Price Today | WCO to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Wormhole token soars following tokenomics overhaul, W reserve launch - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNEZTVXZBRHNaaHNPVC0wdVhCZVp4Tmt2OUJGbEJuVm50NkpIYU1EWk1nU0JSS0ZRTzB6ak5ac1laTUFWOExrbVA4STluVVpyTzRaN2Q4N2FVcWtjS09LWlo2cFR2MGtBZ3VxUlVhS01mM3Y4OHUwSzdjdjZxRWstSHY5OUVVRVhKMDVfSXNTZkFYeVhHd1RHNHpEc2x1b19fMWVHMXprbTAwd25ZdjQ5bjV5cjctaVBzZXM1RTZBY00yODR2bkNvWWFPUQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "snippet": "Wormhole token soars following tokenomics overhaul, W reserve launch&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "What Is Wormhole (W)? News, Updates & Price Forecast - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WLVRQd1JMY3hyQl9yYXVHMng2aUNjQ2Vzb1FDaF9fVUwybVNnZU1TY2FKSmt0bGItb0JvdTd2OUFlM2IzMU4zZ2NkM1VDbGZ1NEhRVnlqTV8yOVVaRUxGRG54c2duUVdIc0pHWlFKVC1YVHRWZnJtM3JKMnhlN1U?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 03 Jul 2025 07:00:00 GMT",
+      "snippet": "What Is Wormhole (W)? News, Updates & Price Forecast&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Wormhole Price: W/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Yb2RWa0M1QzNxanV5QjFDSU1jVExxZGU3aG52Q1NjMndWSF82bm9oUFRNQ0o4em4wbERoem5JT0ZQWHBFX1FSdUZyOVRhWEJrNXVieUN3?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Wed, 07 Feb 2024 21:24:47 GMT",
+      "snippet": "Wormhole Price: W/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Wormhole (W) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50eEt2S2dNMXEybjRINXdidTlyLWFDUGctSzFMNjRWMGJYeVE1WlJ5MnBTbHAtMXRJQzhhQm13LUJXMXU0ekVGZVZJbzlwenlncjlTZ1NOZFNDaDR4LXJXY0JLaC1NTjQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Wed, 03 Apr 2024 11:43:34 GMT",
+      "snippet": "Wormhole (W) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Wormhole Price, W Price, Live Charts, and Marketcap: wormhole crypto - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UY2M2dEd2OWNoWEUwNXp3NVFudEhEWGdJMXpiSnlqcWtmcThrdFNhSmYwZ25zUDF2akNpalBHNV9mYUU2VXdzTGNBOFZHNGZmRFV0MWtXTjk?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Mon, 21 Apr 2025 11:42:24 GMT",
+      "snippet": "Wormhole Price, W Price, Live Charts, and Marketcap: wormhole crypto&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Wormhole (W) Price Prediction 2024-2030: Will W Price Hit $5 Soon? By Coin Edition - Investing.com South Africa",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXJtYUxLeV9IeEhEbzNFZjNIQkM5anZyclRkWldheldUMUZnekFOWFpYZXQyNERBTE1TcXY3RW1DSDZhYTNZTWNMV1JHMGt6MVZ4RG5YTzhzeWFOWTZXZVJXTnROc2lkY0RkVEwyU3NsVlV3UFdFOUQ0T0htT2V6U2NDQWNlUHVrWm5KeTZONXV0bFlOVlZVUXBjX1RqSDQ?oc=5",
+      "source": "Investing.com South Africa",
+      "publishedAt": "Fri, 05 Apr 2024 07:00:00 GMT",
+      "snippet": "Wormhole (W) Price Prediction 2024-2030: Will W Price Hit $5 Soon? By Coin Edition&nbsp;&nbsp;Investing.com South Africa"
+    },
+    {
+      "title": "Wormhole Price | W Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mNDVUYi1XOWdtNTEydzBQZWNZNmM1UjU0ZjdHQzJXSFFtdFVkbXVnY0t4YU9JeXZlNWlORThSTU5PS3YwOF9ROGJmamU?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 03 Apr 2024 07:00:00 GMT",
+      "snippet": "Wormhole Price | W Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What Is W-Coin? WCOIN Price Prediction & Airdrop Guide - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRUktX2twOVpYd2duWFRhVmJiV1ozc2N3LW9xVEc5RXhtRzkwNlU2SV9nVDVSOXZVcDRuMXR3MTVNV1ZZbnZGUUNJNF9MbWZsUEkxU2ExQUUyYW5EMHRnc3N5X1pEZHhUalRGeTZCSGNsdUZRZHZKOHRSbmtPQm9kbFNyQXM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 30 Jul 2025 07:00:00 GMT",
+      "snippet": "What Is W-Coin? WCOIN Price Prediction & Airdrop Guide&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Is Wormhole ($W) About To Start A Bull Run? - Disruption Banking",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkVXaklOeExUS2phS09LTzJrUWp4Q2pRNjlobGJwZUZicDhfQ1A5Um5kT3pLUUYyUHpzYnZFbTVaTklhR1BBVEQ2UnpmVWk4X1NpQnY4VXJZV3VVVDludV9DQXc2amppVDFLclJHaHlnYWE0bmxaZUtOQUJIaFNMUlZZWG9RbXhCNi1mYnNn?oc=5",
+      "source": "Disruption Banking",
+      "publishedAt": "Mon, 13 May 2024 07:00:00 GMT",
+      "snippet": "Is Wormhole ($W) About To Start A Bull Run?&nbsp;&nbsp;Disruption Banking"
+    },
+    {
+      "title": "617.3 Million Wormhole (W) Token Airdrop Slated for April 3 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41X0RBeFF2dTNoMWZ0QmRxNVZaaWUzTTVhVGR0ZmZ3dDI2SUkxRWhBdmFBNEVfOVpOS25yREZSbkRQRGwzVEp1cld0LVZPeG5jbDZESUhrWHB5R3huUUlYRDhiMWk?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Tue, 02 Apr 2024 07:00:00 GMT",
+      "snippet": "617.3 Million Wormhole (W) Token Airdrop Slated for April 3&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Bitget Wallet Lite, in collaboration with Yescoin and W-Coin, launches a double reward event - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTWhLaGlJUWVjT29pb29XdDVVSEFnMkZaWVVLS0c0ZFlfNTZyT1VoajlZNC1TY1FEc21jenByNFZfbjBOWWlsTDZranc4OGUxUVZsTngwZTBNNjJvN2c?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 03 Dec 2024 08:00:00 GMT",
+      "snippet": "Bitget Wallet Lite, in collaboration with Yescoin and W-Coin, launches a double reward event&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Ethereum Price Defends $1,800 As Traders Brace For Kevin W - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoUHBZTWl4eG5BQlY0U0tzV251S0VlczlXQ2p1cnVKVlJlOHAtUElpT1c5eDVfRm1nNjZwV3NEaklYcUNKN05WSHNyNTlCQmVVQkd5LUhDWS1HeVNqR2fSAWNBVV95cUxNWW1qaDRGaER4RFpoNUxSZ01IUkFQNDhCMGt1MDc3cml5SldwdGRqaDBCbWRrVkV5a0hWckltUkNwUEE0cEJiLW15azNudHZudVJwVmhBUzZVcVBaajE1ZmVIS2s?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 17 Jun 2026 12:01:00 GMT",
+      "snippet": "Ethereum Price Defends $1,800 As Traders Brace For Kevin W&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Learn & Earn: Complete Courses & Quizzes to Earn W Rewards! (2024-07-04) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNk1ncnhkR001UUhhU0xHRDRMd1pxUDFnR3pZZjIxLWl5SmJ6SmhHcG02WmR0UUI5LUxsZGlIYUF0cm9wWi1Fa1NFQ213bUlqR1lfa1FwbVFsUmg5NWJLQnZaVmQ2Ny1jNWJCckhVckVlclVvOENYS1hNRlUwT1RWbXRBN1Y3VnFhQ0xqWjJCdlg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 04 Jul 2024 07:00:00 GMT",
+      "snippet": "Learn & Earn: Complete Courses & Quizzes to Earn W Rewards! (2024-07-04)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Will Remove the Monitoring Tag for ZEC and the Seed Tag for ENA, PYTH, TAO & W on 2025-07-09 - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVnhOVmR2YnJrX2xMOTc2aDg0UC12cDJZQUVYZGhSc2R5djdxSDRlQVp4MzBHZFZEbzFLQWpQbXdJczlLNG14czl3d0VkWmE5OTVnWUhOUzMwMnBPdlNSYXNMZUUwX2REaHRLNWNQWUxpaWRFY3REbWpmajVwSGFJanZiQ2ZpRXpGS1BwQ0xEbGc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 08 Jul 2025 07:00:00 GMT",
+      "snippet": "Binance Will Remove the Monitoring Tag for ZEC and the Seed Tag for ENA, PYTH, TAO & W on 2025-07-09&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Will List Wormhole (W) with Seed Tag Applied - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTEltRktyZy15QjlnenhLVko0aGpMcDNKcDVxU1ZXamFJZURMQmtjX3dvWjJxRmVMa3Q4UmQ0N3hBZzM3RUV3WEZJbE1tclU0TE5zM3J1RFR4eFEtemZHYURNWm5OOGZKQVdjM3VWVVpMZmlpQy1XRS1XTUo0V0N3cEQ5UTBJSVBwd2dMV1lTMWM?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 02 Apr 2024 07:00:00 GMT",
+      "snippet": "Binance Will List Wormhole (W) with Seed Tag Applied&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener: 400 Bad Request from https://api.dexscreener.com/latest/dex/search?q=W: \"<html>\\n          <head>\\n            <title>400 Bad Request</title>\\n          </head>\\n          <body>\\n            <h1>400</h1>\\n            <p>Bad request.</p>\\n          </body>\\n        </html>\""
+  ]
+}

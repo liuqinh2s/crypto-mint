@@ -1,15 +1,65 @@
 {
-  "updatedAt": "2026-06-26T09:17:17.499Z",
+  "updatedAt": "2026-06-26T09:32:32.713Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 40,
+      "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T09:16:59.362Z",
+      "generatedAt": "2026-06-26T09:32:24.396Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "DEXE",
+      "requestedInput": "DEXE",
+      "name": "DeXe",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T09:32:27.104Z",
+      "latestPath": "data/results/DEXE-latest.json"
+    },
+    {
+      "token": "LIT",
+      "requestedInput": "LIT",
+      "name": "Lighter",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T09:32:28.236Z",
+      "latestPath": "data/results/LIT-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T09:32:21.890Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "BLESS",
+      "requestedInput": "BLESS",
+      "name": "Bless",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T09:32:30.317Z",
+      "latestPath": "data/results/BLESS-latest.json"
+    },
+    {
+      "token": "W",
+      "requestedInput": "W",
+      "name": "Wormhole",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T09:32:32.711Z",
+      "latestPath": "data/results/W-latest.json"
     },
     {
       "token": "CYBER",
@@ -100,16 +150,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T09:17:17.497Z",
       "latestPath": "data/results/MAGMA-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T09:17:14.130Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "TNSR",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-23T16:02:49.876Z",
       "latestPath": "data/results/XAN-latest.json"
-    },
-    {
-      "token": "FOLKS",
-      "requestedInput": "FOLKS",
-      "name": "FOLKS",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-23T08:02:21.871Z",
-      "latestPath": "data/results/FOLKS-latest.json"
-    },
-    {
-      "token": "BR",
-      "requestedInput": "BR",
-      "name": "Bedrock",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-23T07:32:27.153Z",
-      "latestPath": "data/results/BR-latest.json"
-    },
-    {
-      "token": "AWE",
-      "requestedInput": "AWE",
-      "name": "AWE Network",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-23T07:22:04.063Z",
-      "latestPath": "data/results/AWE-latest.json"
-    },
-    {
-      "token": "MMT",
-      "requestedInput": "MMT",
-      "name": "Momentum",
-      "score": 35,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-23T06:33:02.781Z",
-      "latestPath": "data/results/MMT-latest.json"
     }
   ]
 }
