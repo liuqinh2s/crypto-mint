@@ -1,0 +1,302 @@
+{
+  "token": "OPENAI",
+  "requestedInput": "OPENAI",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T09:17:15.403Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "OPENAI",
+    "name": "OpenAI PreStocks",
+    "generatedAt": "2026-06-26T09:17:06.168Z",
+    "summary": "OPENAI是Solana上代币化的OpenAI Pre-IPO股票，近期因OpenAI和Anthropic官方警告代币化股权无效、Hyperliquid市场关闭等利空消息，价格从ATH 2000美元暴跌至819美元，24小时跌4%，7日跌11%，30日跌46%。流动性仅2.4万美元，成交量低，基本面存在根本性法律风险，不推荐买入。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非OpenAI官方承认代币化股权合法，否则逻辑持续失效。"
+    },
+    "catalysts": [
+      "OpenAI IPO预期（2026年9月）可能短期炒作，但官方已否认代币关联",
+      "AI行业热度"
+    ],
+    "latestNews": [
+      {
+        "title": "Anthropic, OpenAI tokenized PreStocks on Solana plunge after unauthorized equity transfer warnings",
+        "impact": "利空",
+        "reason": "官方警告代币化股权无效，导致价格暴跌。"
+      },
+      {
+        "title": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project",
+        "impact": "利空",
+        "reason": "主要交易市场关闭，流动性进一步枯竭。"
+      },
+      {
+        "title": "OpenAI Set to File for IPO Within Days, Targeting September Listing: WSJ",
+        "impact": "中性",
+        "reason": "IPO利好但代币与官方无关，可能被短期炒作但无实质支撑。"
+      }
+    ],
+    "fundamentals": [
+      "代币化Pre-IPO股票，但OpenAI官方声明未授权任何代币化股权转让",
+      "总供应量2002.85枚，流通量相同，无通胀",
+      "市值仅10.1万美元，流动性极低（2.4万美元）",
+      "ATH 2000美元，当前跌幅59%",
+      "项目方PreStocks.com，但缺乏审计和透明度"
+    ],
+    "marketRead": [
+      "24小时交易量3.4万美元，流动性2.4万美元，滑点风险极高",
+      "价格持续下跌，30日跌幅46%，无反弹迹象",
+      "市场深度差，大额卖出可能引发闪崩"
+    ],
+    "risks": [
+      "法律风险：OpenAI官方警告代币无效，可能归零",
+      "流动性风险：交易量低，难以退出",
+      "合约风险：Solana Token-2022标准，未经审计",
+      "项目方风险：PreStocks平台可能随时关闭",
+      "情绪风险：负面新闻持续，抛压沉重"
+    ],
+    "watchlist": [
+      "OpenAI IPO进展及官方对代币的态度",
+      "PreStocks平台是否继续运营",
+      "DEX流动性变化",
+      "是否有新的法律监管行动"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko、DexScreener、Google News",
+      "新闻时间跨度2025年7月至2026年6月，部分较旧",
+      "市场数据仅限pumpswap DEX，可能不反映全貌"
+    ]
+  },
+  "profile": {
+    "id": "openai-prestocks-2",
+    "symbol": "OPENAI",
+    "name": "OpenAI PreStocks",
+    "categories": [
+      "Real World Assets (RWA)",
+      "Solana Token-2022",
+      "PreStocks Ecosystem",
+      "Tokenized Pre-IPO Stocks"
+    ],
+    "homepage": [
+      "https://prestocks.com/openai"
+    ],
+    "description": "OpenAI pioneers large-language models like GPT and DALL·E, enabling advanced AI applications. Their research emphasizes both cutting-edge capability and responsible deployment strategies.",
+    "marketCapRank": 2384,
+    "currentPriceUsd": 819.03,
+    "marketCapUsd": 1640393,
+    "fullyDilutedValuationUsd": 1640393,
+    "totalVolumeUsd": 26139,
+    "priceChange24hPct": -4.1036,
+    "priceChange7dPct": -10.95017,
+    "priceChange14dPct": -32.27037,
+    "priceChange30dPct": -45.72918,
+    "athUsd": 2000.28,
+    "athChangePct": -59.05433,
+    "circulatingSupply": 2002.850819979,
+    "totalSupply": 2002.850819979,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 245,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pumpswap",
+    "pair": "OAI/SOL",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "5k6VXNyLSR3eG3D3puLpeRhZackPiAJt3LM4oeGvNmEi",
+    "pairUrl": "https://dexscreener.com/solana/5k6vxnylsr3eg3d3pulperhzackpiajt3lm4oegvnmei",
+    "lastPrice": 0.0001011,
+    "priceChange24hPct": -23.91,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 33755.34,
+    "liquidityUsd": 23896.72,
+    "fullyDilutedValuationUsd": 101151,
+    "marketCapUsd": 101151,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/5k6vxnylsr3eg3d3pulperhzackpiajt3lm4oegvnmei",
+    "pairAddress": "5k6VXNyLSR3eG3D3puLpeRhZackPiAJt3LM4oeGvNmEi",
+    "baseToken": {
+      "address": "56DeqXiADWY2Y3iD8pdbpTi9jhXXneofTY5dp4Xjpump",
+      "name": "OpenAI",
+      "symbol": "OAI"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.000001451",
+    "priceUsd": "0.0001011",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 86,
+        "sells": 40
+      },
+      "h6": {
+        "buys": 95,
+        "sells": 61
+      },
+      "h24": {
+        "buys": 285,
+        "sells": 223
+      }
+    },
+    "volume": {
+      "h24": 33755.34,
+      "h6": 9932.96,
+      "h1": 7594.52,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -11.59,
+      "h6": -5.24,
+      "h24": -23.91
+    },
+    "liquidity": {
+      "usd": 23896.72,
+      "base": 118111043,
+      "quote": 171.4899
+    },
+    "fdv": 101151,
+    "marketCap": 101151,
+    "pairCreatedAt": 1779296214000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/wL-KBZZIB9vcrnpq?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/9Ru82ne5ozmNlzem?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/56DeqXiADWY2Y3iD8pdbpTi9jhXXneofTY5dp4Xjpump?timestamp=1782465300000",
+      "websites": [
+        {
+          "url": "https://x.com/OAIonSol",
+          "label": "Website"
+        },
+        {
+          "url": "https://x.com/Saebeskii",
+          "label": "Extra"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/i/communities/1958895424120431040",
+          "type": "twitter"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "OpenAI (Pre-IPO) Stock Price: OPENAI Stock Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qYlZGVV9BWi1rRHJTZlNaWnhCSTZHUjdBd0hfam5RdnFEZ2ZWdGQwaHV5ZzhoS0U3a2JGUWRQeUx1UTBvR0xqZ0ZKYTdRQUpfYjE4aVVXRkI4aS1GZDdV?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 22 Jun 2026 11:19:29 GMT",
+      "snippet": "OpenAI (Pre-IPO) Stock Price: OPENAI Stock Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Anthropic, OpenAI tokenized PreStocks on Solana plunge after unauthorized equity transfer warnings - The Block",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXVnWTlLb3VjVGNxa1hEbGZjZkpiMHpFRnJtNGNhbUxWZUozcGVQb0FlTHBfZHM0cGRaTkhESWg2VzdCOFl5QU9rT3FoaVROTVBheEt3MDNCdEJtaHV4a2RyQTM2WDdmTXNKSkxiOUU0cS1tcEd6d1QzVS11Z2JDREFEdlQzdw?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
+      "snippet": "Anthropic, OpenAI tokenized PreStocks on Solana plunge after unauthorized equity transfer warnings&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Solana AI PreStocks crash after OpenAI and Anthropic stock transfer warnings - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUTlIUHhUUHp2SDRzbk1SWUJVaUlNTFVRT1RMZUtEdGxuZTRITEpDbUF0WUxnVUtGTlRUSjA3b0R0UWZfUERJWEhsaENoclJBdGJEZUw3U0ZKLTVmX1pkR3lSeXlCR3VJMG9fSzB3UUI5OUlidGo3MW1HdWN6czFYNml4bl9QUTNEbFd6Ujd5RHZHNnVZdzg1WG1wZ1hzOHhuTzlWQkFmUWFibGZDR3BBTE5SSjU?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 13 May 2026 13:59:47 GMT",
+      "snippet": "Solana AI PreStocks crash after OpenAI and Anthropic stock transfer warnings&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Anthropic and OpenAI Warn Pre-IPO Token Structures Are Invalid - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPajdFZ2ZtM0FWVGMxY3laZWhORHRhRWVYU1lqUkFtVkgtV0paN2F3XzBwRTF4LUJ6SjFuU2RXNGZtaGE3aXk5Nm9EQXdydUtSVFBXSXBib2lRQWtwSjlOZVJ5NWJjR1ZWQ094UnhhcXdIcjZKUmE0MHcwMnpfUDNCUDUwMklMVkFOTEE?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 13 May 2026 18:49:57 GMT",
+      "snippet": "Anthropic and OpenAI Warn Pre-IPO Token Structures Are Invalid&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "OpenAI Stock Today: Valuation, IPO Hype, Tokenized Shares and Investor Risks (Updated December 7, 2025) - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMU9aS2ZNa1JzMUtUMEdtVWlSQVcxNkk1QWRYN003cHVmUGlmeEdhT1puaFgzR2hzZVU5WGJEcngwS3RlZkY0MnR0eVUwTjFVSEFDWWd3UWVjQ0p2clU1MWVSRklsVVVhNGx5dWs0SEhEZzBuR3dYdEdUaUlrSDF4a0JOY1daMDhORkxhcjdESWJHSEYxd2dIMTdWRFJ0RHEtRnk4bWRsd3hrNzdaMlRlM1V4T211SHBsemc?oc=5",
+      "source": "TechStock²",
+      "publishedAt": "Sun, 07 Dec 2025 08:00:00 GMT",
+      "snippet": "OpenAI Stock Today: Valuation, IPO Hype, Tokenized Shares and Investor Risks (Updated December 7, 2025)&nbsp;&nbsp;TechStock²"
+    },
+    {
+      "title": "OpenAI tokenized stock (PreStocks) Price Today | OPENAI to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12YkM2TVBwTnZJOUFINTFqTU5RcXNuVnM5YXk3RkRsZ2lmUUpVMWc1NjdoM0pxcS0xTmdwNlZCMFVZTW82Y25iV1doZHBBLVRUZGNfbEd4UGlacTUyT2lvT1c4akpXbEpyNmh4TzNheWQ3S1k?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 09 Aug 2025 20:42:54 GMT",
+      "snippet": "OpenAI tokenized stock (PreStocks) Price Today | OPENAI to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Anthropic raise would top OpenAI at $900bn - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04Wl92MndQa0gzZE9wQ1ZyYXVXQ0Z3S19kc3VwX2V3MHRkSDBPY2FZU3I1NnZOX2FPTXlqS2F4MlBVZEtNc0V5MGZKYzkzQlpybWlFdUVZTklDbElETFHSAWNBVV95cUxNa0MyaU02UURMcEFob0V4aU5BU2dDb1VRS0NtNmFsVWo2bk1Ca2RRa0JQNzg2Ql9YVlotYzhob3o5UDFwbndpaTJZWXNmOFdnRTVSTndBRnh1NjU3amc1ODJNZTg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 09 May 2026 07:00:00 GMT",
+      "snippet": "Anthropic raise would top OpenAI at $900bn&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UOUprYnVnaE5VMVFyQl9NLVlsSlFkVW5xSUJxaGVSMExmRDJ4N2ZleGhkd3pYcHI2VzdfVHo3Q3AxelNCM0hfeE9abmM1ZVgyaEhMbUZ6c3h3bHpBMVHSAWNBVV95cUxNVGo5ZkN4ZEZjQ0JNNlpMSG1vTzNlU1liZFpZMkdKeE5vWHVac1R5b3hXUE8xLVNRTFVNUjAycFNpNHVMcDRtalJycHhMYmVOUmpNUjFmY0I1UERadHVXYmdFcHM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
+      "snippet": "Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSVJ3bkpiVXFWNUN1ZnNfSFplVDJ4VTVoSncxOVJIb0Q3OUI4TkQ5N2gwb0NfZmtkR0VSN0RNSTBqOUdHTXdIN3I1cFpfdWhHTzFXa1FGNWtSTWFOM2pnQnEyQXhxQ0Y5cm1lR2J1RENObHU1eUY1T1l2ZFByY29kUWUxdUF3QV82LTlDanBBSTd0ZWpTamhESE4xRHluMV9sYU9EY2lYZ0thQXVSb3RGczk4dFBaS09qcnZfRzRjWG9xWVNKaVE?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
+      "snippet": "Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYUJGVVY2bjhkckZTM1NyWnVMS0tIeHhDeERqYzN0cTNEYkotSTBMZEU4T3MxME1jMHZYbkN2UzNnOTVpVXFrem1sbzY2VG5YWEZ0Sy1EQjhXQlNuaVduUkR3a1B6cGVNbTN1MjZDbmkwNXZmbzFwTXM2Q2V1QUU5b2hON1p4OV9UVVZSRnBnNTctSGJ6bzQxbkJhTWtBb01ITFZRWHhHWDdpQ09EaFk2NklwQlg0Y2Ns?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 15 Jun 2026 07:00:00 GMT",
+      "snippet": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "OpenAI Set to File for IPO Within Days, Targeting September Listing: WSJ - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11VE5CVjVWUW9iNTF4aHVNdi1EOHZIWGNxdk1oS0FHREJjVTkxUGExNEdaTEZrQXhTNkRqVkFhd044MmtqTFB4UXdoMUJXb0ZHU0JOcC04S3lUUXpxa3RrUHVrU0o3dXVtZHVTUmlyZWlPWVZiOWhXLU4xYWJKd9IBhgFBVV95cUxNenZrekZxaTZoTU5icnpfOXc5WFhqcTZoMlpuTEF3UUIwV3NTZzlzNXJCVGU0aFA2TkZEWE1mTUJZZFZmUGJLaXcwYkpTekpFM25OQkl2UFBWaTloT0tmeHpJdUp1Y09VRThnYzkwWTFLYzN1clpXMnBCcHBNTDNQZkpWaDF1QQ?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
+      "snippet": "OpenAI Set to File for IPO Within Days, Targeting September Listing: WSJ&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "OpenAI does not 'endorse' Robinhood tokenizing its private shares, AI studio says - The Block",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnhacndzdVlVdmhpZ2Z5R2VFd1NXeHQ1Y0RteGJVc2l5dFhmT1VtQVU4WHVkaktmMHByM2Zqem5OWktWRnhHaTFKR0RPV0tjcl91X0VXUnNoanFCdnRlR3NtSG1taWNRblZQQXhpeDVUc3NmOC1aVkZfeUpNOEl2YmxvVlNYbHNOblZDU2ktV3Z4QjNyQ0tDdkxZajEyR082NzV5RnFYMUVVSFFfUlNWNzVlUU0?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 02 Jul 2025 07:00:00 GMT",
+      "snippet": "OpenAI does not 'endorse' Robinhood tokenizing its private shares, AI studio says&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned OAI for OPENAI; DEX profile ignored to avoid token mix-up."
+  ]
+}

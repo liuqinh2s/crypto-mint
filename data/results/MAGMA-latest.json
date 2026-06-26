@@ -1,0 +1,308 @@
+{
+  "token": "MAGMA",
+  "requestedInput": "MAGMA",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T09:17:17.497Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MAGMA",
+    "name": "Magma Finance",
+    "generatedAt": "2026-06-26T09:17:07.745Z",
+    "summary": "MAGMA 近期大幅上涨，受 Sui 生态 DeFi 叙事、Binance Alpha 关注及 Kraken 合作消息推动。但链上流动性极低（仅 0.01 美元），存在严重操纵风险，且总供应量 10 亿，流通仅 1.9 亿，未来解锁压力大。当前价格接近历史高点，追高风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性改善至百万美元级别、项目方公布实际 TVL 和用户数据前，任何上涨均视为操纵"
+    },
+    "catalysts": [
+      "Sui 生态 DeFi 热度",
+      "Binance Alpha Spotlight 入选",
+      "Kraken 合作消息（2026年2月）",
+      "ALMM 产品发布（2025年9月）"
+    ],
+    "latestNews": [
+      {
+        "title": "Magma Finance Price Today | MAGMA to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格跟踪页面，无新增信息"
+      },
+      {
+        "title": "Kraken partners with Magma Devs to leverage Lava Network's technology for global trading operations - CoinDesk",
+        "impact": "利好",
+        "reason": "Kraken 合作提升项目知名度，但合作方为 Magma Devs 而非 Magma Finance 代币本身"
+      },
+      {
+        "title": "Magma Finance officially launches ALMM: Sui's first Adaptive & Dynamic DEX - Bitget",
+        "impact": "利好",
+        "reason": "产品创新可能吸引用户，但发布时间较早（2025年9月），近期催化作用有限"
+      }
+    ],
+    "fundamentals": [
+      "Sui 生态 DeFi 项目，主打自适应动态 AMM（ALMM）",
+      "总供应量 10 亿，流通量 1.9 亿（19%），未来解锁压力大",
+      "完全稀释估值 5.58 亿美元，当前市值 1.06 亿美元",
+      "链上流动性极低（0.01 美元），实际交易量几乎为零",
+      "Binance Alpha Spotlight 入选，但尚未上线主流 CEX"
+    ],
+    "marketRead": [
+      "过去 24 小时涨幅 35.75%，7 日涨幅 37.21%，30 日涨幅 115.61%",
+      "当前价格 0.5586 美元，接近历史高点 0.5683 美元",
+      "链上流动性仅 0.01 美元，价格极易被操纵",
+      "成交量 648 万美元，但链上交易对流动性为 0，说明大部分交易发生在其他场所或为虚假交易"
+    ],
+    "risks": [
+      "链上流动性极低，存在拉盘砸盘风险",
+      "总供应量 10 亿，未来解锁可能带来抛压",
+      "项目基本面薄弱，TVL 和用户数据未知",
+      "新闻多为旧闻或无关内容，近期缺乏实质性利好",
+      "价格已接近历史高点，追高风险大"
+    ],
+    "watchlist": [
+      "链上流动性是否增加",
+      "是否上线主流 CEX（如 Binance、Coinbase）",
+      "项目方公布 TVL 和用户数据",
+      "代币解锁时间表及实际解锁量"
+    ],
+    "sourceNotes": [
+      "链上数据来自 Tinyman（Algorand），流动性极低，价格不可靠",
+      "新闻来源多为聚合网站，部分内容重复或过时",
+      "CoinMarketCap 排名 250，但实际交易量可能失真"
+    ]
+  },
+  "profile": {
+    "id": "magma-finance",
+    "symbol": "MAGMA",
+    "name": "Magma Finance",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "Automated Market Maker (AMM)",
+      "Sui Ecosystem",
+      "Binance Alpha Spotlight"
+    ],
+    "homepage": [
+      "https://magmafinance.io/"
+    ],
+    "description": "",
+    "marketCapRank": 250,
+    "currentPriceUsd": 0.5586,
+    "marketCapUsd": 106134061,
+    "fullyDilutedValuationUsd": 558600319,
+    "totalVolumeUsd": 6485567,
+    "priceChange24hPct": 35.75275,
+    "priceChange7dPct": 37.21171,
+    "priceChange14dPct": 60.3244,
+    "priceChange30dPct": 115.60936,
+    "athUsd": 0.568263,
+    "athChangePct": -0.94274,
+    "circulatingSupply": 190000000,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 941,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "tinyman",
+    "pair": "MAGM/PEPE",
+    "chainId": "algorand",
+    "dexId": "tinyman",
+    "pairAddress": "GMIUDF3J6KNQCRMWZVYJGTNTTHENDUM5B27T4SJCPBULW6W4SPULX2XY5I",
+    "pairUrl": "https://dexscreener.com/algorand/gmiudf3j6knqcrmwzvyjgtntthendum5b27t4sjcpbulw6w4spulx2xy5i",
+    "lastPrice": 0.000002178,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 0.01,
+    "fullyDilutedValuationUsd": 1693,
+    "marketCapUsd": 1693,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "algorand",
+    "dexId": "tinyman",
+    "url": "https://dexscreener.com/algorand/gmiudf3j6knqcrmwzvyjgtntthendum5b27t4sjcpbulw6w4spulx2xy5i",
+    "pairAddress": "GMIUDF3J6KNQCRMWZVYJGTNTTHENDUM5B27T4SJCPBULW6W4SPULX2XY5I",
+    "baseToken": {
+      "address": "445362421",
+      "name": "MAGMA",
+      "symbol": "MAGM"
+    },
+    "quoteToken": {
+      "address": "1096015467",
+      "name": "Pepe",
+      "symbol": "PEPE"
+    },
+    "priceNative": "1.6691",
+    "priceUsd": "0.000002178",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 0.01,
+      "base": 2892.4753,
+      "quote": 4827.8764
+    },
+    "fdv": 1693,
+    "marketCap": 1693,
+    "pairCreatedAt": 1684995621000
+  },
+  "news": [
+    {
+      "title": "Magma Finance Price Today | MAGMA to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFRk5XSDhHcjNfSENoRmF1WWxodmduZE9ab2RjcVJVY1BGWk9jbUc4c3dMY3BGTVFaaURYUmFack5JeWpqN0M1anZ5OFA3UHUyTjJmbFFJRk94QQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 24 Jun 2026 12:14:00 GMT",
+      "snippet": "Magma Finance Price Today | MAGMA to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What Is Magma Finance (MAGMA)? Sui DeFi Token Guide & Use Cases 2026 - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nYWEtMGlNWkVOcEs1a0prRW9tNFRGenVVcGlYdnYtWGhqcEd0ZlVfRXo2SWNpTmZsc0ZQTWZyOXhVcHI4VTJtaGx2eHJZWlViTWR2alZoVWdTUQ?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Sun, 04 Jan 2026 08:00:00 GMT",
+      "snippet": "What Is Magma Finance (MAGMA)? Sui DeFi Token Guide & Use Cases 2026&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Magma Finance price today, MAGMA to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QeWU2QVJvLVhLR1gtR1paLWVZbF9EMmZ6WkxNLTlrYV9oSXY1UVIwbHZnVGJaT2lIOWtZVmEwRE9QWWF0Mjd6U2RtX2lUN3FhM3g0TXZYTGZNOVd5WVV3Qg?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 12 Dec 2025 09:49:25 GMT",
+      "snippet": "Magma Finance price today, MAGMA to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Magma Finance (MAGMA) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41dHB5aFJVdGdqMnZXZ2tFcklULWRiTVllcEFtSjhQTk1wNlNnRHJDVXhpa0JPa2RYQ2ZqNHBKa0w0c2Myb21IWHZfWXUyQ3Fv?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 08 Dec 2025 21:26:56 GMT",
+      "snippet": "Magma Finance (MAGMA) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Magma Finance Price Today in India | MAGMA to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qc0U1NVpsRmRkTUZLX09ZR1dKOGlXckVZTzY0T3NrY3IzQmQtWkRFUFFIb2Mwdk1LTjdwbldnMFhzd3I5Qm9qMW8tZExwbGE2R3dtSXZMb3BvMUVVUEE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 21 Jun 2026 04:33:00 GMT",
+      "snippet": "Magma Finance Price Today in India | MAGMA to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Magma Finance Price, magma to USD, Research, News & Fundraising - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jQVhaa1JTbGRVMG9wdmhGRUpiSGwtTW9iblJySDRlXzZ2NDNhRDhUUDlFcW1iNkpUVzhIV3lpTmpuVU85X2lSZEtkeGlzNl9MUWc?oc=5",
+      "source": "Messari",
+      "publishedAt": "Sat, 30 Aug 2025 19:50:26 GMT",
+      "snippet": "Magma Finance Price, magma to USD, Research, News & Fundraising&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "Why is Magma Finance up today? Will it reach $1? Price prediction - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GSG5mVVRmVVNZcmd2U3BTUnc4Tjl0aGJSNEc4TGVqSzg4eGlxa3JtdlpXSkRNX2tEZWRONjFNWE1jdHZ6cjhBRXltS19tNl9zdlpGeE5OTkNaZXBKaGfSAWNBVV95cUxNbGYtamo5YUhOdnQtcnZUMUF3ekpPdHNSNi1oSDM2SmpHbWJoY3oxR3duUlNtRWRnZU5oa2FRTzM5OXFQaDJyVE56UUFzcTd1U0FUc25DVVdza2xhOUFHYVg3SWc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "snippet": "Why is Magma Finance up today? Will it reach $1? Price prediction&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Magma Finance (MAGMA) Token Unlocks and Vesting: Schedule and Tokenomics - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93SU1mYVIzdDRKalQzMTdzeHJob1BvYmVLUHNKWF83cWt4a1o1SzRSUmM4Z3Bzb01URS1YcDRtN3NsdXdFYThYWDA5OGxGeElDaW1HYkxsYnpKN1p1MFE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 16 Dec 2025 10:04:10 GMT",
+      "snippet": "Magma Finance (MAGMA) Token Unlocks and Vesting: Schedule and Tokenomics&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Why Is Magma Finance Pumping Today — Can MAGMA Really Hit $1 Next? - HOKANEWS.COM",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGdIaGJ3VkJzRmZ1VVJmc0RmbTk1cnpBWkN3N3A3X25vT09PQTBxYmZRQ0RBRWt2OVZvempDc3dfVW82RGppRDhFODFCY1FrdEluRzU2NXEtTlNJV2VzdzduVWRHaXN4MWl6Zm9hQ1VLOGRTZm9tWDkyNGdqUUVnbWh3?oc=5",
+      "source": "HOKANEWS.COM",
+      "publishedAt": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "snippet": "Why Is Magma Finance Pumping Today — Can MAGMA Really Hit $1 Next?&nbsp;&nbsp;HOKANEWS.COM"
+    },
+    {
+      "title": "What Is Magma Finance (MAGMA)? Airdrop, Tokenomics & Price - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU0RSX2duREZhLXVkaS1sd2NINnp6c2Ytbi1tcmh3U2hTUGw3YkViSVZNa0xQMTI1eU1zb19JQ2xOS0lRT3NCSXVBYnQxcEhVb0VqM1h2bGZDa25Ob3MzUDJRb0gxazhQQmxHMXFiQmtVNGkwTExveWZBYVVMT3JpOXQ5YnE2bHM4eUEyM0RvRGtIWXJEb2lOTmJoUTlJMDg5WUE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "snippet": "What Is Magma Finance (MAGMA)? Airdrop, Tokenomics & Price&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Magma Finance Price | MAGMA Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DeHgxYm93RkE5dFRmRzN2Z0FSVmNodVZJTC1PTElhdFNpYzNOZzI5dXhIMl8tQ1VmUUZrLUoxZFJOY1hPMDlKbFQyaEstalhDQ0g0?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 03 Jul 2025 05:06:54 GMT",
+      "snippet": "Magma Finance Price | MAGMA Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Magma Finance Officially Launches ALMM: Sui's First Adaptive & Dynamic DEX, Pioneering a New Liquidity Management Paradigm - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NZDIwaEZhVUpoNm5sZXlvVGVfWWhUXzF6TXE1MzBsRlBlbVRhUWVlREJUWmJBWXpQQjNSVXFmeURfSHE5OVVFUDZZSi1VQkpLdS1XOU5DX2wxZ25UeEHSAWNBVV95cUxNeW1qMHhlaVZUVTNhdHlzcnBUVC1JdnppTjRGZTVrRWw2RVJKV2dzNG1hLXpZcDdmb05jdHZ6TElMWVVCbHFHcERVX1hzNFZSdjMtd3JQaGRvMjVla3lwaTIxbGs?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 11 Sep 2025 07:00:00 GMT",
+      "snippet": "Magma Finance Officially Launches ALMM: Sui's First Adaptive & Dynamic DEX, Pioneering a New Liquidity Management Paradigm&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Magma Finance officially launches ALMM: Sui's first Adaptive & Dynamic DEX, leading a new paradigm in liquidity management - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uWV9sZlVxRmNCOFlSc05KUmZndkcwa1o1VnpmMmQ4UDMyeU8yMnU2SlMzNEJBZWdmVEdmNmplQTZieDhJOExzbDlFdjVIcXdQYTI4LUdETlFDT2xvRnfSAWNBVV95cUxQVllCWWdfejVOQVJSaVljQW1IWU52Yi0zNWxlVm01bkpJYXMwYW51VHBnamdlUVNydlFmSEh4SG9oNUQxaEVIU2JrQzVpSkpTYm1kV0M1Q21MTG5qcUxxams1MXc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "snippet": "Magma Finance officially launches ALMM: Sui's first Adaptive & Dynamic DEX, leading a new paradigm in liquidity management&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "[Initial listing] Bitget to list Magma Finance (MAGMA) in the Innovation and DeFi zone - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91MUVxbWZzTVVwbHFHYzFZemhyNnEySndkOWtPbGNwM09BSUYwZzh4bFlmenlleHVZVENTRDVwSkJmY2c2bG52VG5Ya2RDeDRIZGFGUHFGNmJDeFlyQUE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "snippet": "[Initial listing] Bitget to list Magma Finance (MAGMA) in the Innovation and DeFi zone&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Kraken partners with Magma Devs to leverage Lava Network's technology for global trading operations - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWjBfa1hnSjk2Z0RjZXluN1JPck5xcEtkc09PVjdwYy14cC04TmhGbVZCb1RtZ3g2M19mZWY5UWRzWjFtTVBKY1llZ3FwS0p3TGZja2VISDczTDVNR0RCeW1CaHk0dFQ5ZW9JMTNDVkRJaUR6Z1V1LW4zR0tCUVI4MlZfSXZxT3E1b2FnRkhfRUVUalI3QnlRcmpBME8tTV9MVkYwQTBCYk9MQzlYd1RNS29sX0hsVWdlek85SW14b2Y3ZXdFZm9IbEZUZHFOQ2pZWlU0RHlxdUpsMGhkMFpTWG4wYw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "snippet": "Kraken partners with Magma Devs to leverage Lava Network's technology for global trading operations&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Modular blockchain developer Lava raises $15 million, offering reward points called Magma - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVcxMkZhWGJKc2h4RG0xY2IxRnBQQ0p3a0xuQjdmdE5oQTVZZjEwZ2pXQjFia3h2U0pNOVJxUFNpS3NBNzhKOFFDS3BDcERWaDVoYUxCTG5FTEZCck9SUEtReUxCSkhSSXI2QmRIS0pPd3dXbTJqQ1RnaHpJWE9lbVcxTmlQUVRxQnhF?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 15 Feb 2024 08:00:00 GMT",
+      "snippet": "Modular blockchain developer Lava raises $15 million, offering reward points called Magma&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned MAGM for MAGMA; DEX profile ignored to avoid token mix-up."
+  ]
+}

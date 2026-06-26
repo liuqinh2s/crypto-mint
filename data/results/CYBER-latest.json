@@ -1,0 +1,285 @@
+{
+  "token": "CYBER",
+  "requestedInput": "CYBER",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T09:16:59.198Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CYBER",
+    "name": "CYBER",
+    "generatedAt": "2026-06-26T09:16:49.570Z",
+    "summary": "CYBER近期在Solana链上出现异常高流动性池，价格与市值远高于主网，疑似同名代币或流动性误导。基本面为社交L2项目，但新闻多为无关或旧闻，缺乏近期实质利好。24小时涨幅4%，但30日跌幅超23%，动量偏弱。建议观望，不参与。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若确认Solana池为官方跨链且流动性真实，需重新评估；但当前数据矛盾，逻辑已失效。"
+    },
+    "catalysts": [
+      "无明确近期催化剂"
+    ],
+    "latestNews": [
+      {
+        "title": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down",
+        "impact": "中性",
+        "reason": "新闻标题含'Cyber'但实际指AI模型，与CYBER代币无关。"
+      },
+      {
+        "title": "Cyber Capital Founder Calls for Cardano’s Hoskinson to Step Down Over Governance and Scalability Dispute",
+        "impact": "中性",
+        "reason": "涉及'Cyber Capital'，非CYBER项目本身。"
+      },
+      {
+        "title": "Brazil targets crypto loot in amendment of cyber fraud laws",
+        "impact": "利空",
+        "reason": "监管趋严可能影响市场情绪，但非直接针对CYBER。"
+      }
+    ],
+    "fundamentals": [
+      "CYBER是社交L2项目，支持SocialFi、DID等，有Binance Launchpool背景。",
+      "总供应量1亿，流通约6724万，FDV约3530万美元（主网数据）。",
+      "Solana链上池流动性高达1.08亿美元，但24小时交易量仅约4美元，极不匹配，疑似虚假流动性或同名代币。",
+      "主网市值约2374万美元，而Solana池市值显示1.09亿美元，差异巨大。"
+    ],
+    "marketRead": [
+      "24小时涨幅4%，但30日跌幅23%，趋势偏空。",
+      "Solana链上池价格1.089美元，远高于主网0.353美元，存在严重价差。",
+      "成交量极低（3.99美元），流动性虚高，实际交易不活跃。"
+    ],
+    "risks": [
+      "Solana池与主网数据严重不一致，可能为同名代币或流动性操纵。",
+      "项目缺乏近期实质性利好，新闻多为无关内容。",
+      "代币价格从ATH下跌97.8%，市场信心不足。",
+      "解锁风险：总供应量仍有约3276万未流通，未来可能抛压。"
+    ],
+    "watchlist": [
+      "确认Solana池是否为官方部署或跨链桥资产。",
+      "关注CYBER主网是否有新合作、产品更新或交易所公告。",
+      "监测链上大额转账或解锁事件。"
+    ],
+    "sourceNotes": [
+      "Solana池数据来自DexScreener，但流动性、市值与主网数据矛盾，需谨慎对待。",
+      "新闻来源多为聚合，部分标题含'Cyber'但非指本项目。",
+      "缺乏官方渠道近期动态，分析基于有限公开信息。"
+    ]
+  },
+  "profile": {
+    "id": "cyberconnect",
+    "symbol": "CYBER",
+    "name": "CYBER",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "Smart Contract Platform",
+      "SocialFi",
+      "NFT",
+      "BNB Chain Ecosystem",
+      "Binance Launchpool",
+      "Ethereum Ecosystem",
+      "Decentralized Identifier (DID)",
+      "Optimism Ecosystem",
+      "Layer 2 (L2)",
+      "Animoca Brands Portfolio",
+      "Multicoin Capital Portfolio",
+      "YZi Labs (Prev. Binance Labs) Portfolio",
+      "Delphi Ventures Portfolio",
+      "Cyber Ecosystem",
+      "Optimism Superchain Ecosystem",
+      "AI Applications",
+      "Governance",
+      "CoinList Launchpad"
+    ],
+    "homepage": [
+      "https://cyber.co/",
+      "https://docs.cyber.co/build-on-cyber/contract-deployment"
+    ],
+    "description": "Cyber, the L2 for social, enables developers to create apps that transform how people connect, create, monetize, and share the value they generate. By simplifying workflows and accelerating time to market, Cyber streamlines development through an all-in-one platform that integrates high-performance infrastructure—with ultra-low fees and high TPS—and purpose-built tools for social applications, such as the CyberConnect protocol and CyberDB. To meet the demand for a seamless UX in social applications, Cyber offers a familiar, web2-like experience enriched with web3 benefits, through features like native Account Abstraction and seedless wallets. With 3 years of experience in building decentralized social networks, Cyber leverages its resources and knowledge to nurture a synergistic ecosystem with strong support systems atop its L2.",
+    "marketCapRank": 732,
+    "currentPriceUsd": 0.353266,
+    "marketCapUsd": 23743001,
+    "fullyDilutedValuationUsd": 35308571,
+    "totalVolumeUsd": 11347675,
+    "priceChange24hPct": 4.06297,
+    "priceChange7dPct": 0.32583,
+    "priceChange14dPct": 1.8245,
+    "priceChange30dPct": -23.33826,
+    "athUsd": 15.79,
+    "athChangePct": -97.78597,
+    "circulatingSupply": 67244300.43333334,
+    "totalSupply": 100000000,
+    "maxSupply": 100000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 18083,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "CYBER/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "HZNGhVrwfMuUZ8G1kK5RfvujfMPwoUK8gjN2pyTaDSZ6",
+    "pairUrl": "https://dexscreener.com/solana/hznghvrwfmuuz8g1kk5rfvujfmpwouk8gjn2pytadsz6",
+    "lastPrice": 1.089,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 107970453.12,
+    "fullyDilutedValuationUsd": 108980184,
+    "marketCapUsd": 108980184,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/hznghvrwfmuuz8g1kk5rfvujfmpwouk8gjn2pytadsz6",
+    "pairAddress": "HZNGhVrwfMuUZ8G1kK5RfvujfMPwoUK8gjN2pyTaDSZ6",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "7iwhf8vXrxLmUdxfYs1AfZyKCbNXnkuoproXAAJR7uAA",
+      "name": "Cyber",
+      "symbol": "CYBER"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "1.08980",
+    "priceUsd": "1.089",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 107970453.12,
+      "base": 99073455,
+      "quote": 19.5433
+    },
+    "fdv": 108980184,
+    "marketCap": 108980184,
+    "pairCreatedAt": 1761055300000
+  },
+  "news": [
+    {
+      "title": "Cyber Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast - Binance",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoNjhuSXNXWU9jbmtoUjJjMnFiSlJHakQ1dEVQbTZMbFpObjVLV3pZOVctQk1pNkluY1RWQlVfUGJpM2RRaUhBOEwwRTF3UUNjaTZtQ1hrRVl0T2w5VjlDNzZoNmJkQmlvVVZN?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 21 Jun 2026 17:17:00 GMT",
+      "snippet": "Cyber Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "North Korea Spent 6 Months to Drain $285M from Drift Protocol in 12 Mins - The Cyber Express",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95aHBmM0ZmbW9NdC1EdVVEX3BWRkpUemZyOHk4QWRBemN3elNZR3pZWnJTd3NIS0hfZGY4SGRrc08xY3lVTGV1cWh2cmFjX045MHdEMndXN2tZYUtlaVgzdXpNLXVfWUplUVpESDFsR2ZCb3FmM0dN0gF3QVVfeXFMT3locGYzRmZtb010LUR1VURfcFZGSlR6ZnI4eThBZEF6Y3d6U1lHellaclN3c0hLSF9kZjhIZGtzTzFjeVVMZXVxaHZyYWNfTjkwd0Qyd1c3a1lhS2VpWDN1ek0tdV9ZSmVRWkRIMWxHZkJvcWYzR00?oc=5",
+      "source": "The Cyber Express",
+      "publishedAt": "Mon, 22 Jun 2026 10:42:34 GMT",
+      "snippet": "North Korea Spent 6 Months to Drain $285M from Drift Protocol in 12 Mins&nbsp;&nbsp;The Cyber Express"
+    },
+    {
+      "title": "Cyber Capital Founder Calls for Cardano’s Hoskinson to Step Down Over Governance and Scalability Dispute - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNlBGNjA2bVJYWFpkMjF4Q1YzQnZmOHdMcGQzbXl5N04yME41R0RJU0tvanNQSlFUQUtxYXo5VWZOSS1vaGRRQ0Vya1dtNTFISHVDZlJId280TEY5ODhucjlSSDItMDBCaDBjMmtVMXliMERwQ2xyZ01HdXFQMlBSbkNFeVcyb2RFTDUtMmZ1Qk5xVTRsblE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 17 Jun 2026 09:56:15 GMT",
+      "snippet": "Cyber Capital Founder Calls for Cardano’s Hoskinson to Step Down Over Governance and Scalability Dispute&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Bitcoin Faces Possible Collapse in 7 to 11 Years, Warns Cyber Capital Founder - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBTFBmc3ZJM00zSDl2TGNrMUUwSkJDclJ2U2FvOVVoU1FqNTF5VkF1Rnhfd1JBaHU5S2ZDM1RnWGNjMmJ6ejFiMVFZMk1KWVp2ZUc5bzhWeEdETFp6T2FpcVcwUDA5TUhsemMtbjNzS2E?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "snippet": "Bitcoin Faces Possible Collapse in 7 to 11 Years, Warns Cyber Capital Founder&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Top Crypto to Buy Now? APEMARS 350% Bonus Ignites Final Countdown Hype Across Community Driven Meme Coins as Dogecoin and CYBER Climb - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BcE9pMVFQTVhwNXJQZXVBWF9nUmREUE04UVZKVE1HMk55M28tU0p3a2FubzBKSElyYWE4bW1Mc2ZNZG9EdEx4dnRlQ0pkcGNDZjdoOHZ3VmstNmFwbWfSAWNBVV95cUxOTHRVYVYyLXlXd1FCTUJOUWl2eTVJbFhhRlhHOHVxWUROWEhGZzhhbDZpQUVNLUQ3dkF4bG1zS2dMbnRteHJCT3B5Q3diYloza3ZjaVc3VW1TYWgwYWdYTEZvVW8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 22 May 2026 07:00:00 GMT",
+      "snippet": "Top Crypto to Buy Now? APEMARS 350% Bonus Ignites Final Countdown Hype Across Community Driven Meme Coins as Dogecoin and CYBER Climb&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bitget Research: Crypto Market Gets Support After Downturn, CYBER Price Plummets After Short Squeeze Rally Ends - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2NV9kWEROYko2S0MtRHBRRDktQndZWVZFUUVjTGdWckRmUmI1dG1wTVdrSzRGcnlMVWVCbmJkYkRzaVM5U2NCUlFNYmloV0c5NkRJWUxLNmNDQ25ZLV9LYjZPUlZrdGpRM1pPS0R2ZXg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 04 Sep 2023 07:00:00 GMT",
+      "snippet": "Bitget Research: Crypto Market Gets Support After Downturn, CYBER Price Plummets After Short Squeeze Rally Ends&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Cyber (CYBER) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wQnZfQUxLa0dVTnpRUm8wbVZKelNLWXhZbEVfLWV3Q3czZjJMOVoxZjdVNExiV0lrb0l1aXZIWmJCYmU0QlE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 29 May 2024 12:42:22 GMT",
+      "snippet": "Cyber (CYBER) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Cyber Hornet submits S&P Crypto 10 ETF application - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0T1NGSmZERFhIVTFacXVlMmoya0NhSHhsTGMxeFZOd2tFbHB1N01BWk9USG94YnJ6ZFZ0eHFaaGFIWHZQMThKOGlFMDUzT2lyNExXZFNhTnZMa09UMXfSAWNBVV95cUxNbzNvbVU3RmhEUUFlSS05THh5Vlc1WHY3cWtTUVljaFhTVEJkVm0wZEsxQnJuVEEzUUpoeFAwN0l4VnNvdVlETGpvdGgySVhrSFZnMWF1d0t2dTRlUnpqaFRRakU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 23 Jan 2026 08:00:00 GMT",
+      "snippet": "Cyber Hornet submits S&P Crypto 10 ETF application&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Brazil targets crypto loot in amendment of cyber fraud laws - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13bVhxcUxJUW1YMGlqZE5DeXNpNml4eG8tcGp0ZkJrczZ2OGlFbkRIS2FsMEE5TTZTUzIteXVNcGdrdllIWkZXMmd5bGZwLXA4NnRFZkJ5NC1lWEVLNUHSAWNBVV95cUxNTkQ1Vmk5UTRIM1Q0b1JxamRfX3hwV3hMWE10VlBaLVAxdVgtVUdPMGtfZElPSGJpbEdCMUhHUUZoLUtFazRiQmpWYVNLaWVsc3hkUElMUC1PU2JwREU0YjE2SVk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 13 Jun 2026 07:00:00 GMT",
+      "snippet": "Brazil targets crypto loot in amendment of cyber fraud laws&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3dkVEptNXcxNFVtMGYtb3ZDSGgxTk1pWk90bDRfcDAzQXRLUnYwQWgyczlvaFplVUZscTZZbmpqNGJWbExfRWpPODhKaFNzRmhMeEhOamJnLXR4SEpmcGhNd25ONE1JOTJOMXFZaDFEd09tb1U1TzdhM3JBQ3RQdkIwVUktcGlhLUNwanhfONIBlwFBVV95cUxQLTI1ZnJLZHpBSm54R2xxYU1qeE5BY19XeS1jY3ctd1BTX29tLURsRmxxQldjVTNGWmJ1dmJfSG1kMGxxS1JMLWtOSHZCdzBQOEhOd0RoMzVQVjI5SDFIT2ZXcXhCaXRaWGdBQ29GVkZCOEdxMFBwSnNtRWRJVlM3azJxdWxzM2VTbDUwS1NnT1o5TG1JS1g0?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Tue, 23 Jun 2026 18:59:26 GMT",
+      "snippet": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "Metaverse startup Cyber has raised $6.7 million from a bevy of big-name NFT investors - The Block",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jQ0gwbDFrMzdNRUdnX3RsSnpvTlllemdEUnBuc3lMTHZoZmVleHhWdFBWaTZPS2hWejluOThkeXM5dkhiSl9nNUdNeDIxNURUTlBTZnJQYzIwLXdJajBYTl84NWJ0TkNhRV9EZmRlMTlEMmNmcXdtdA?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 20 Jan 2022 08:00:00 GMT",
+      "snippet": "Metaverse startup Cyber has raised $6.7 million from a bevy of big-name NFT investors&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
