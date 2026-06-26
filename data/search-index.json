@@ -1,25 +1,35 @@
 {
-  "updatedAt": "2026-06-26T10:32:24.030Z",
+  "updatedAt": "2026-06-26T10:39:46.859Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 35,
+      "score": 25,
       "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T10:32:21.024Z",
+      "action": "不买",
+      "generatedAt": "2026-06-26T10:39:44.540Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "XAN",
       "requestedInput": "XAN",
       "name": "Anoma",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T10:32:24.027Z",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T10:39:46.343Z",
       "latestPath": "data/results/XAN-latest.json"
+    },
+    {
+      "token": "VD",
+      "requestedInput": "INDA",
+      "name": "VinDax Coin",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T10:39:46.857Z",
+      "latestPath": "data/results/VD-latest.json"
     },
     {
       "token": "MEMES",
@@ -990,16 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-24T00:46:54.294Z",
       "latestPath": "data/results/OPG-latest.json"
-    },
-    {
-      "token": "DYDX",
-      "requestedInput": "DYDX",
-      "name": "dYdX",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-23T23:15:43.162Z",
-      "latestPath": "data/results/DYDX-latest.json"
     }
   ]
 }
