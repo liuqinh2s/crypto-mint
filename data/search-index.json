@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-06-26T12:16:59.220Z",
+  "updatedAt": "2026-06-26T12:32:29.224Z",
   "results": [
+    {
+      "token": "JST",
+      "requestedInput": "JST",
+      "name": "JUST",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T12:32:22.939Z",
+      "latestPath": "data/results/JST-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T12:32:23.305Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T12:32:21.287Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "MU",
+      "requestedInput": "MU",
+      "name": "Micron Technology (Backpack Securities)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T12:32:23.384Z",
+      "latestPath": "data/results/MU-latest.json"
+    },
+    {
+      "token": "MANTA",
+      "requestedInput": "MANTA",
+      "name": "Manta",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T12:32:29.222Z",
+      "latestPath": "data/results/MANTA-latest.json"
+    },
     {
       "token": "TAC",
       "requestedInput": "TAC",
@@ -12,16 +62,6 @@
       "latestPath": "data/results/TAC-latest.json"
     },
     {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T12:16:52.548Z",
-      "latestPath": "data/results/VELO-latest.json"
-    },
-    {
       "token": "EUL",
       "requestedInput": "EUL",
       "name": "Euler",
@@ -30,16 +70,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T12:16:57.862Z",
       "latestPath": "data/results/EUL-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T12:16:50.857Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "USDC",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-25T13:16:55.525Z",
       "latestPath": "data/results/DELLON-latest.json"
-    },
-    {
-      "token": "VRT",
-      "requestedInput": "VRT",
-      "name": "Venus Reward",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-25T13:02:20.112Z",
-      "latestPath": "data/results/VRT-latest.json"
-    },
-    {
-      "token": "4",
-      "requestedInput": "4",
-      "name": "4",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-25T09:32:04.719Z",
-      "latestPath": "data/results/4-latest.json"
-    },
-    {
-      "token": "M",
-      "requestedInput": "Memecore",
-      "name": "MemeCore",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-25T04:44:37.833Z",
-      "latestPath": "data/results/M-latest.json"
     }
   ]
 }

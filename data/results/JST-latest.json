@@ -1,0 +1,307 @@
+{
+  "token": "JST",
+  "requestedInput": "JST",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T12:32:22.939Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "JST",
+    "name": "JUST",
+    "generatedAt": "2026-06-26T12:32:15.936Z",
+    "summary": "JST近期上涨主要受Tron DeFi叙事推动及代币销毁进入通缩阶段影响，但链上流动性极低（仅4美元），存在严重交易风险。基本面尚可，但当前价格缺乏实际支撑，建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若链上流动性恢复至正常水平且价格突破前高0.19美元，可重新评估。"
+    },
+    "catalysts": [
+      "Tron DeFi叙事推动（JustLend DAO等）",
+      "Q4 2025销毁10.8亿代币，进入长期通缩阶段",
+      "Justin Sun公开看好JST 100倍潜力"
+    ],
+    "latestNews": [
+      {
+        "title": "JST Price Surges 5% Amid Tron DeFi Narrative Push",
+        "impact": "利好",
+        "reason": "直接推动近期价格上涨"
+      },
+      {
+        "title": "JST Completes Over 1.08 Billion Token Burn in Q4 2025, Entering Long-Term Deflation Phase",
+        "impact": "利好",
+        "reason": "减少供应，长期通缩预期"
+      },
+      {
+        "title": "Justin Sun Bets Big On JUST Token – Here’s Why He Sees 100x Potential",
+        "impact": "利好",
+        "reason": "创始人背书提升市场情绪"
+      }
+    ],
+    "fundamentals": [
+      "JST是Tron生态DeFi平台JUST的治理代币",
+      "总供应量99亿，流通85.4亿，已销毁部分",
+      "主要应用在JustLend DAO借贷协议中",
+      "市值约7.1亿美元，排名86"
+    ],
+    "marketRead": [
+      "CoinMarketCap数据显示24h涨幅1.95%，7天涨7.88%，14天涨13.4%",
+      "但链上（Solana Meteora）流动性仅42.7万美元，24h交易量仅4美元，价格失真",
+      "实际交易应参考中心化交易所，但数据未提供"
+    ],
+    "risks": [
+      "链上流动性极低，存在操纵和滑点风险",
+      "价格已从ATH下跌57%，反弹可能缺乏持续性",
+      "新闻多为预测或旧闻，缺乏近期实质性利好",
+      "Justin Sun个人声誉风险"
+    ],
+    "watchlist": [
+      "中心化交易所（如Binance）JST交易量和价格走势",
+      "JustLend DAO TVL变化",
+      "Tron DeFi整体叙事热度",
+      "代币销毁计划后续执行"
+    ],
+    "sourceNotes": [
+      "链上数据来自Solana Meteora，流动性极低，价格不可靠",
+      "新闻来源多为聚合站，部分为预测文章，需谨慎",
+      "未提供中心化交易所数据，分析受限"
+    ]
+  },
+  "profile": {
+    "id": "just",
+    "symbol": "JST",
+    "name": "JUST",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "Tron Ecosystem"
+    ],
+    "homepage": [
+      "https://www.just.network/",
+      "https://just.tronscan.org/"
+    ],
+    "description": "",
+    "marketCapRank": 86,
+    "currentPriceUsd": 0.083061,
+    "marketCapUsd": 709622404,
+    "fullyDilutedValuationUsd": 709622404,
+    "totalVolumeUsd": 23909312,
+    "priceChange24hPct": 1.9457,
+    "priceChange7dPct": 7.88351,
+    "priceChange14dPct": 13.40439,
+    "priceChange30dPct": -12.35027,
+    "athUsd": 0.193254,
+    "athChangePct": -57.07934,
+    "circulatingSupply": 8543764567.312736,
+    "totalSupply": 8543764567.312736,
+    "maxSupply": 9900000000,
+    "sentimentVotesUpPct": 33.33,
+    "watchlistUsers": 15524,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "JST/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "494HNqePN2abZ6TKHi3iXijA8scZbFJFeViwj1Y9EbD5",
+    "pairUrl": "https://dexscreener.com/solana/494hnqepn2abz6tkhi3ixija8sczbfjfeviwj1y9ebd5",
+    "lastPrice": 0.04324,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 427163036.16,
+    "fullyDilutedValuationUsd": 428163007,
+    "marketCapUsd": 428163007,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/494hnqepn2abz6tkhi3ixija8sczbfjfeviwj1y9ebd5",
+    "pairAddress": "494HNqePN2abZ6TKHi3iXijA8scZbFJFeViwj1Y9EbD5",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "Asne5xD8eFW8SxHz8p296WPj9eTLQDtxdk32LcqRrYeo",
+      "name": "JUST",
+      "symbol": "JST"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.04324",
+    "priceUsd": "0.04324",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 3.99,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -0.02,
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 427163036.16,
+      "base": 9876878469,
+      "quote": 7.7277
+    },
+    "fdv": 428163007,
+    "marketCap": 428163007,
+    "pairCreatedAt": 1745778270000
+  },
+  "news": [
+    {
+      "title": "JUST (JST) Movements Align with Broader Crypto Market Trends - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBteXA1OGVyNUE2dFliY3V4RmQtUVE0NmxHaWMyLTJJVkZaa1VMWndIYXJXYV9BY3hMWUg3bEVzSDl5YWMtN0Y2S3VEYm03R1l6d2lCWGhqbkp1UUlmcHFRSWxULTJaU0UwOHdnOEJ5UTM?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 24 Jun 2026 17:48:00 GMT",
+      "snippet": "JUST (JST) Movements Align with Broader Crypto Market Trends&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "JUST Price Prediction 2026, 2027-2030 - JST Long Forecast - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RanBrbEVPQjFoX0RYOE1YUUNoaE5UbGFwSU5MbXE0dGZmTTRJZkRxVUktcmlkV01EcWdaT2xtbnFwNWFoSnRUUEI5NjBkb2dFQ05mUVRiM25KX3Y2WVhDNTBR?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "snippet": "JUST Price Prediction 2026, 2027-2030 - JST Long Forecast&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "JUST (JST) Volatility Explained: Broad Crypto Crash Impact - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XV1FDT2UtU2VRWWp5WkRvdDV3T2YxbVJOVi14ZkxXZEY1RllJWnlIZkIxSE9mYUQ0UWs0Umc2UWlsMXoya1pDdjhycmszSjlwRm9Oc1Y5U0J2MlN0bS1CNVJxaElITHZPZVlXUEM3T20?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "JUST (JST) Volatility Explained: Broad Crypto Crash Impact&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "JUST Price Prediction 2025, 2026 – 2030: Will JST Price Go Up? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tODVWOVhla054d1RhY0F4MVROY3hKMnU0UEJYMjNNcGpob08tUmR5OHY1TzNORDRuN3pnZ2lncFhPc2NhNmNJeEVDRWd5Vk9QZE9LMTk0WU9nRl9KNzIzU1MzejF2M1hqTzRidF9rZWMzbmvSAXhBVV95cUxNalN1OUFKeGFvaWg5bHRCU0p5ZFR4Y1JNVEJZX2VxbjhJZU5TNUhWYVV6ZDBWaHh5MGVGMUtObzEtYTdhTXNueUVNMXVzLUJPbU56U3Q4YTF3bEtkbnNIbnpjT0prTjRiUXVQXzFJODhEcERqXy1xalU?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Thu, 24 Jul 2025 07:00:00 GMT",
+      "snippet": "JUST Price Prediction 2025, 2026 – 2030: Will JST Price Go Up?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "JST Completes Over 1.08 Billion Token Burn in Q4 2025, Entering Long-Term Deflation Phase - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEUwTl9hUmFLekljV2RIeUNfSUgzRmZJTnRaOWx0cWZBN2kzSmIwM2FIZ1BfMnFZU252ckNhN2V4Y1ZaU0lGeC1ZWXZ5Ql9wbVcxdDR1YW44aGduVUMtRF94cklOVkNiNmpqQkJGSWdsYW81cFBwZDJ0RHkyUm1OTFFhdWNZalVYb2x0VUw2OVQ5d0tTMm9WWDlZbTAwQ1FfZVZRd3JpVEpkT0lkek55dDNtWm5YY3hlOXg5azF4VQ?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "snippet": "JST Completes Over 1.08 Billion Token Burn in Q4 2025, Entering Long-Term Deflation Phase&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "JUST Price Today in Australia | JST to AUD Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VOXdvb29lWHJVOFNpeG1WYVBSdTZLZGQ1dzRKMlRFUkJzSEhiTlN6TjZ2QjdfRF80MEI3aVpXaVRyX1JhbjBEcUZ4U1pqRlF3OXc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 16 Jun 2026 16:56:00 GMT",
+      "snippet": "JUST Price Today in Australia | JST to AUD Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "JST Price Surges 5% Amid Tron DeFi Narrative Push - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lOUdnMGRXb2daZ3RCVG5SbGd5XzJOajU4R0pCVjc1VDBqMWlfTDN2S0phWjB5SE1BVkVKZXhZbWs0XzBhUlY4WkZGVjNndkJIbDlpdmZMVzZNeWswVzl0VWZFd3VVS29YWXBWOU5XSGU?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sat, 20 Jun 2026 05:05:00 GMT",
+      "snippet": "JST Price Surges 5% Amid Tron DeFi Narrative Push&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Justin Sun Bets Big On JUST Token – Here’s Why He Sees 100x Potential - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmJtRmsyMVh1dTZDNXpFbFVwd1lfbk1OaXRzMVVMUTJOZUlOTVFaUVRRd0VkdndvTG1pTGxCWnBqZTB6TXpndm5NZnV4UXVMODlEV09zSVFXZ2piSXZSOW1WQlBRN0xDSUVTdnRpM1Vpc3pRLXhpYnk3MnY0YzE4dFBScWJtek5hVTc0T0xkajMwRnNJeEQ0VHBnTzlFenJVa3Zsb01HMWczWHZDeW4yeUdvazZacklsaWZOV2RaTEJEakE?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Mon, 28 Apr 2025 07:00:00 GMT",
+      "snippet": "Justin Sun Bets Big On JUST Token – Here’s Why He Sees 100x Potential&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "JUST price today, JST to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nelExVGhTckJGYlVQZTVaLWNZS2dFZW5FbGotVE5YdlJRUzMybzlqeFJaZ01Ibm5Va1hJVDVScVh0NnZJRndjUzRxal9FMTNBUHVMVQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 22 Apr 2020 09:34:22 GMT",
+      "snippet": "JUST price today, JST to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "JustLend DAO and JST: Unlocking TRON's DeFi Potential with Governance and Innovation - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBNjFvYzBQYmtBbk16MDI4UHBKQS1wVFdvc1lKTlpiTWNvVWFLTTV2bVFXYWt2d2lTNkpZODN5Q0FGLTZIRlhaZnRNcHYzck1DRVQwalVvMkY0NjI5WFM2Z0RR?oc=5",
+      "source": "OKX",
+      "publishedAt": "Sun, 19 Oct 2025 07:00:00 GMT",
+      "snippet": "JustLend DAO and JST: Unlocking TRON's DeFi Potential with Governance and Innovation&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "JustLend Review: Remarkable Lending Platform With Large Ecosystem - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mNkFPTnYzZ0NCWXlfSE5RVWdob18zcUlvMkZ4aUtzWTlDaWJpSUoweDVIdzY2WGRYcmRhWlVMaktfWlo4NUxGOHZuYTJRVGMwU3FLazlEdXU?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 02 Jul 2023 07:00:00 GMT",
+      "snippet": "JustLend Review: Remarkable Lending Platform With Large Ecosystem&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "JustLend Review: Remarkable Lending Platform With Large Ecosystem - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94bUk1dlNTa0t1QURzd1hyRWRNS3NuYTRDMHpUN09VT0pVMjJ6aHVlV3RjNk03TnZwMlh3Zy01R2JPVUN0aW84MFc5NVN6MldPLXBFNE1SZ0xxc1ppZ3RORGpBT2M2dzRVa2FSaA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sun, 02 Jul 2023 07:00:00 GMT",
+      "snippet": "JustLend Review: Remarkable Lending Platform With Large Ecosystem&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "JUST Price USD, JST Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PT0tISHNtOGZRWmxmZ3d5QXlYZ1ZibngzSnBQN3lwNFZEX0RzLVQxeWxRV2NsWEtXSjFtUUZYU0JSVmhEYm4weg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 02 Jun 2023 15:30:41 GMT",
+      "snippet": "JUST Price USD, JST Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Just Price | JST Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YRDV3NlF2TmNCR2d0TElXazB0VnIwNzFuUy1meV9rQTFVanM4c1o3dkw5ZU9kTm5VaEFOSzJoUTRNWWxJQklj?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 06 Aug 2020 01:26:13 GMT",
+      "snippet": "Just Price | JST Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Next Cryptocurrency to Explode, 8 February — JUST, IOTA, Safe, Ronin - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jZFZnd1ItMEF6ZzNrRE9Gbno3Q0FaVElYc3Bxa2FxYk5KWGh5OFNBTWFsQVF6WklDZ1YyUm5peHFqeldpMDBMb0FUUmIwRXBlSUxLVTVCQ3EtRGZ4Unc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 08 Feb 2025 08:00:00 GMT",
+      "snippet": "Next Cryptocurrency to Explode, 8 February — JUST, IOTA, Safe, Ronin&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Justin Sun Net Worth (Updated) - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WVlo1ZFhKX29mM1hyQ1V5YXhRWE4xdGRZaEVyQ1htTUluWE11c2x3cXo1TUJGdEFSY0hlS3ZuX0NKelRNX2sxTFFoS3NON2xiWkllQ0c5Z1FCUUptUlHSAWNBVV95cUxPWVBscGJPQy1VVzhMYTFTaVFLYU0xcnJPb2VoelVoU1dNaHg0b1VQNVphNXl5S3ZEblFhaGs0eVJodWZKaUw4SGhUdHNONmt3Xzh5RzJIb2NZRjdwS2tOVWQ3bms?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 11 Jun 2024 07:00:00 GMT",
+      "snippet": "Justin Sun Net Worth (Updated)&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
