@@ -1,0 +1,179 @@
+{
+  "token": "WEEDFEIN",
+  "requestedInput": "DFEN",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T21:02:24.307Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "WEEDFEIN",
+    "name": "Justice for weedfenix",
+    "generatedAt": "2026-06-26T21:02:16.323Z",
+    "summary": "WEEDFEIN是Solana链上MeteoraDBC的极低市值Meme币，上线仅一天，流动性极低，无新闻或社区热度支撑，价格波动剧烈，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现明确的社区增长、流动性注入或知名KOL背书，否则逻辑始终失效。"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "代币名称：Justice for weedfenix，符号WEEDFEIN",
+      "链：Solana，DEX：MeteoraDBC",
+      "创建日期：2026-06-26（仅1天）",
+      "市值：约2263美元，完全稀释估值相同",
+      "总供应量未披露，但市值极低",
+      "流动性数据缺失（可能极低或未提供）",
+      "无官网、无社交媒体、无社区信息"
+    ],
+    "marketRead": [
+      "24小时价格变化无数据，可能无交易或波动极大",
+      "24小时交易量仅143.55美元（以SOL计价），流动性极差",
+      "无K线数据，无法分析趋势",
+      "市值仅2263美元，属于极微型代币"
+    ],
+    "risks": [
+      "流动性风险：流动性未知，可能极低，容易滑点或无法卖出",
+      "合约风险：未开源或未审计，可能存在后门或貔貅盘",
+      "市场风险：无任何基本面支撑，纯Meme币，价格可能归零",
+      "信息风险：无新闻、无社区、无开发团队信息，透明度极低",
+      "时间风险：上线仅1天，无历史表现参考"
+    ],
+    "watchlist": [
+      "流动性是否增加",
+      "是否有社区或KOL提及",
+      "价格是否出现异常拉升（可能为拉高出货）",
+      "合约是否被审计或开源"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，流动性、供应量等关键数据缺失",
+      "无新闻或社交媒体数据，无法评估市场情绪",
+      "建议避免参与此类极低市值、无信息的代币"
+    ]
+  },
+  "profile": {
+    "id": "EHrBQCjFCXAocTarRsqMvpGZ3HkMsGvQHjhLqzmmdoge",
+    "symbol": "WEEDFEIN",
+    "name": "Justice for weedfenix",
+    "categories": [
+      "solana",
+      "meteoradbc"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteoradbc. Pair URL: https://dexscreener.com/solana/257x81cpatxt27c3qz6sqy61astmmzjtcskbxp3fuzjd",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.000002263,
+    "marketCapUsd": 2263.85,
+    "fullyDilutedValuationUsd": 2263.85,
+    "totalVolumeUsd": 143.55,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-26",
+    "chainId": "solana",
+    "dexId": "meteoradbc",
+    "pairAddress": "257x81cPAtXt27C3qz6sQy61asTmMZJTcSKbXP3FUZjd",
+    "baseTokenAddress": "EHrBQCjFCXAocTarRsqMvpGZ3HkMsGvQHjhLqzmmdoge",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": null,
+    "pairUrl": "https://dexscreener.com/solana/257x81cpatxt27c3qz6sqy61astmmzjtcskbxp3fuzjd",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteoradbc",
+    "pair": "WEEDFEIN/SOL",
+    "chainId": "solana",
+    "dexId": "meteoradbc",
+    "pairAddress": "257x81cPAtXt27C3qz6sQy61asTmMZJTcSKbXP3FUZjd",
+    "pairUrl": "https://dexscreener.com/solana/257x81cpatxt27c3qz6sqy61astmmzjtcskbxp3fuzjd",
+    "lastPrice": 0.000002263,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 143.55,
+    "liquidityUsd": null,
+    "fullyDilutedValuationUsd": 2263.85,
+    "marketCapUsd": 2263.85,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteoradbc",
+    "url": "https://dexscreener.com/solana/257x81cpatxt27c3qz6sqy61astmmzjtcskbxp3fuzjd",
+    "pairAddress": "257x81cPAtXt27C3qz6sQy61asTmMZJTcSKbXP3FUZjd",
+    "baseToken": {
+      "address": "EHrBQCjFCXAocTarRsqMvpGZ3HkMsGvQHjhLqzmmdoge",
+      "name": "Justice for weedfenix",
+      "symbol": "WEEDFEIN"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.00000003091",
+    "priceUsd": "0.000002263",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 143.55,
+      "h6": 143.55,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "fdv": 2263.85,
+    "marketCap": 2263.85,
+    "pairCreatedAt": 1782501622000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=DFEN: Throttled\n"
+  ]
+}
