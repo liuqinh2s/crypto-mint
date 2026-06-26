@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-26T22:32:25.670Z",
+  "updatedAt": "2026-06-26T22:47:16.479Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "VelodromeV2",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:47:02.444Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "GMX",
+      "requestedInput": "GMX",
+      "name": "GMX",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:47:04.755Z",
+      "latestPath": "data/results/GMX-latest.json"
+    },
+    {
+      "token": "IN",
+      "requestedInput": "IN",
+      "name": "INFINIT",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T22:47:06.556Z",
+      "latestPath": "data/results/IN-latest.json"
+    },
+    {
+      "token": "GRASS",
+      "requestedInput": "GRASS",
+      "name": "Grass",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T22:47:06.370Z",
+      "latestPath": "data/results/GRASS-latest.json"
+    },
+    {
+      "token": "SOON",
+      "requestedInput": "SOON",
+      "name": "SOON",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-26T22:47:11.204Z",
+      "latestPath": "data/results/SOON-latest.json"
+    },
+    {
+      "token": "MEW",
+      "requestedInput": "MEW",
+      "name": "cat in a dogs world",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:47:12.469Z",
+      "latestPath": "data/results/MEW-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:47:15.990Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "INX",
+      "requestedInput": "INX",
+      "name": "Infinex",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:47:16.476Z",
+      "latestPath": "data/results/INX-latest.json"
+    },
     {
       "token": "RAY",
       "requestedInput": "RAY",
@@ -62,16 +142,6 @@
       "latestPath": "data/results/WET-latest.json"
     },
     {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:32:17.172Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
       "token": "AGLD",
       "requestedInput": "AGLD",
       "name": "Adventure Gold",
@@ -100,16 +170,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T22:17:00.262Z",
       "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T22:16:57.380Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "SKYAI",
@@ -940,66 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T20:02:03.266Z",
       "latestPath": "data/results/QNTSTOCK-latest.json"
-    },
-    {
-      "token": "RTXSTOCK",
-      "requestedInput": "RTXSTOCK",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:02:03.317Z",
-      "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "USELESS",
-      "requestedInput": "USELESS",
-      "name": "Useless Coin",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:02:12.824Z",
-      "latestPath": "data/results/USELESS-latest.json"
-    },
-    {
-      "token": "OP",
-      "requestedInput": "OP",
-      "name": "Optimism",
-      "score": 25,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-26T20:02:15.490Z",
-      "latestPath": "data/results/OP-latest.json"
-    },
-    {
-      "token": "MASK",
-      "requestedInput": "MASK",
-      "name": "Mask Network",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:02:17.342Z",
-      "latestPath": "data/results/MASK-latest.json"
-    },
-    {
-      "token": "GRIFFAIN",
-      "requestedInput": "GRIFFAIN",
-      "name": "GRIFFAIN",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:02:16.178Z",
-      "latestPath": "data/results/GRIFFAIN-latest.json"
-    },
-    {
-      "token": "UNI",
-      "requestedInput": "UNI",
-      "name": "UNI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:02:24.273Z",
-      "latestPath": "data/results/UNI-latest.json"
     }
   ]
 }

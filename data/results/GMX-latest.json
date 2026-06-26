@@ -1,0 +1,301 @@
+{
+  "token": "GMX",
+  "requestedInput": "GMX",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T22:47:04.755Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "GMX",
+    "name": "GMX",
+    "generatedAt": "2026-06-26T22:46:57.175Z",
+    "summary": "GMX近期上涨6.2%，但24小时DEX交易量仅3.99美元，流动性极高但实际交易极低，价格异常。基本面有治理投票和激励计划，但无实质利好。建议观望。",
+    "rating": {
+      "score": 20,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现真实成交量放大或明确协议收入增长，可重新评估。"
+    },
+    "catalysts": [
+      "GMX DAO将长期激励计划提交治理投票（2026-06-23）",
+      "GMX质押奖励暂停以推高价格的策略（2026-03-04）"
+    ],
+    "latestNews": [
+      {
+        "title": "GMX DAO moves long-term incentive program to governance vote",
+        "impact": "利好",
+        "reason": "激励计划可能吸引流动性，但尚在投票阶段，不确定性高。"
+      },
+      {
+        "title": "GMX Staking Rewards Paused in Bold Strategy to Propel Token Price to $90 Milestone",
+        "impact": "中性",
+        "reason": "暂停质押奖励减少抛压，但策略效果存疑，且为旧闻（2026-03-04）。"
+      }
+    ],
+    "fundamentals": [
+      "GMX是去中心化永续合约交易所，支持Arbitrum、Avalanche、Solana。",
+      "流通供应量1042万，最大供应1325万，已接近全流通。",
+      "当前市值5866万美元（CoinGecko），但DEX上显示市值2.7亿美元，数据矛盾。",
+      "历史最高价91.07美元，当前5.63美元，跌幅93.8%。"
+    ],
+    "marketRead": [
+      "24小时价格涨6.2%，但DEX交易量仅3.99美元，流动性2.7亿美元，价格异常。",
+      "可能为流动性池深度大但实际交易稀少，价格容易被操纵。",
+      "30日跌幅11.2%，长期趋势仍弱。"
+    ],
+    "risks": [
+      "DEX交易量极低，价格发现失真。",
+      "市值数据矛盾（CoinGecko vs DEX），需核实。",
+      "历史黑客事件（2025年7月被盗4000万美元）影响声誉。",
+      "DeFi衍生品赛道竞争激烈（Hyperliquid、dYdX等）。"
+    ],
+    "watchlist": [
+      "治理投票结果及激励计划细节。",
+      "真实交易量是否回升。",
+      "协议收入及TVL变化。"
+    ],
+    "sourceNotes": [
+      "DEX数据来自Meteora，流动性极高但交易量极低，可能为LP池深度大但无实际交易。",
+      "CoinGecko与DEX市值数据不一致，需谨慎。",
+      "新闻中部分为旧闻或教程，无重大新催化。"
+    ]
+  },
+  "profile": {
+    "id": "gmx",
+    "symbol": "GMX",
+    "name": "GMX",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "Derivatives",
+      "Perpetuals",
+      "Avalanche Ecosystem",
+      "Arbitrum Ecosystem"
+    ],
+    "homepage": [
+      "https://gmx.io/"
+    ],
+    "description": "GMX is a leading permissionless onchain exchange, enabling you to trade 70+ assets with up to 100x leverage from your self-custody wallet. The DEX is live on Arbitrum, Avalanche, and Solana, and in the process of enabling multichain access from all popular EVM blockchains. Trading on GMX is facilitated by isolated GM pools and capital-efficient GLV vaults, enabling anyone to provide liquidity and earn fees. ",
+    "marketCapRank": 383,
+    "currentPriceUsd": 5.63,
+    "marketCapUsd": 58656339,
+    "fullyDilutedValuationUsd": 58656339,
+    "totalVolumeUsd": 3070444,
+    "priceChange24hPct": 6.20652,
+    "priceChange7dPct": -0.88852,
+    "priceChange14dPct": 2.13387,
+    "priceChange30dPct": -11.22463,
+    "athUsd": 91.07,
+    "athChangePct": -93.84024,
+    "circulatingSupply": 10423270.86582047,
+    "totalSupply": 10423270.86582047,
+    "maxSupply": 13250000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 62642,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "GMX/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "2LzNVzRtTCoJBeDU326Z5MY6VMWuSngqS25jRZSM3epi",
+    "pairUrl": "https://dexscreener.com/solana/2lznvzrttcojbedu326z5my6vmwusngqs25jrzsm3epi",
+    "lastPrice": 20.44,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 269920771.1,
+    "fullyDilutedValuationUsd": 270920763,
+    "marketCapUsd": 270920763,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/2lznvzrttcojbedu326z5my6vmwusngqs25jrzsm3epi",
+    "pairAddress": "2LzNVzRtTCoJBeDU326Z5MY6VMWuSngqS25jRZSM3epi",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "E4tbLBFNofXxjBhzwDJun9iZjuwG3cL7Av1BEi6mUmzx",
+      "name": "GMX",
+      "symbol": "GMX"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "20.4468",
+    "priceUsd": "20.44",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 269920771.1,
+      "base": 13201093,
+      "quote": 1.6264
+    },
+    "fdv": 270920763,
+    "marketCap": 270920763,
+    "pairCreatedAt": 1739066584000
+  },
+  "news": [
+    {
+      "title": "GMX DAO moves long-term incentive program to governance vote - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RczNQRl9uUnI0R2N4am9LY08yTEF2X2ZaZFJTQjZjOWxEME01WlNHRGtTOFhjWHM3NTlJdVdiOEVrbjN1R3RJdDkxdkJBc2V4S0d0VDlRdFdQSXl6eGtLdEV2OGsxRXdTaHlKZExwZWdpMG83V3pCQVRWaw?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Tue, 23 Jun 2026 15:24:09 GMT",
+      "snippet": "GMX DAO moves long-term incentive program to governance vote&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "Convert GMX to SZL | GMX/SZL Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50dHFIV0diRklBb2h1bkZxaENxb2lZWkxPQXNudWRSaHRVN3hjYllBdHVtSW9KUm1LVkhDeUE3a3VlZ0ZKZ1lUT3k4UkFiNFkzaXc?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Thu, 25 Jun 2026 22:02:23 GMT",
+      "snippet": "Convert GMX to SZL | GMX/SZL Conversion Calculator&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "GMX DAO moves long-term incentive program to governance vote - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1admQ1S1F5YjlTMEo5bGFpWENpTGgxX2NTVDI1YmNBV2RWOHV1dE92Q0FjMmVZTkFXb0hyZGQwc1hCUm1fdjFUTHRUajRXbnQ1Z3V2RUswdjFSeTFkcUVOc2VLNNIBY0FVX3lxTE1admQ1S1F5YjlTMEo5bGFpWENpTGgxX2NTVDI1YmNBV2RWOHV1dE92Q0FjMmVZTkFXb0hyZGQwc1hCUm1fdjFUTHRUajRXbnQ1Z3V2RUswdjFSeTFkcUVOc2VLNA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "snippet": "GMX DAO moves long-term incentive program to governance vote&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "GMX Staking Rewards Paused in Bold Strategy to Propel Token Price to $90 Milestone - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa1RTUmFuNFhtbExDaFZpeGRCMzA0OWZyV21mbU9MYkZRWERfTTJqQkR3NENtaFpVb0pKQU0yR0l2WlhqQkpxSDNjODktTnRFZTFUT2t2NVlZcVBiVmxoeUdGa0g4X21USF92ZTdmY1ZhaXZqbmRiaVJTR2hIQUJJV2R6WQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "snippet": "GMX Staking Rewards Paused in Bold Strategy to Propel Token Price to $90 Milestone&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "GMX (GMX) Token Price Prediction | What is GMX? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjV0oxWGZGSERRN0JtcWZlcEZRYVE0MVFkaEE1R1pmYW1QNjRrOExyTkJQblZJS3hTMTNxMW54bU9zNHVJMTl2dW05YUp2bWZjRjhSa01vSVlOcGFHN0wyZzQ0OFZEQjA?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Tue, 06 May 2025 10:40:46 GMT",
+      "snippet": "GMX (GMX) Token Price Prediction | What is GMX?&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "Hacker returns cryptocurrency stolen from GMX exchange after $5 million bounty payment - The Record from Recorded Future News",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YVnpTSlhPRWRWMXlWQ19BWkkxWTNhWXpmcUEzQVJlOFU4cjRBMmRaMDAwRlF6Z01pbWx1VFlOajlFWDNNX21Bei15bHR2UTJRMk5BNEdlUjNKbVlvT3JzNXhpSWlPZU0?oc=5",
+      "source": "The Record from Recorded Future News",
+      "publishedAt": "Fri, 11 Jul 2025 07:00:00 GMT",
+      "snippet": "Hacker returns cryptocurrency stolen from GMX exchange after $5 million bounty payment&nbsp;&nbsp;The Record from Recorded Future News"
+    },
+    {
+      "title": "What is GMX? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55VW1mVDZBckE0ZzdjWE5lR1Z6UVI0M0tqM2VRMS1fWWUwREZJTmh0X1lnSERMYzY2WS10OGk1bk1rcDJSN3FGZ014OTF1RjJwR2VNN2p0WWNHRVdTSFEzdHdaVExMdw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
+      "snippet": "What is GMX?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Where do I purchase GMX with Stripe: Ways and Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMTZ6clFEcGIwak80SHVORnY3YUJZNEJBQ1dXOV9iR3lMb1JBaTU2RFNTMUFUcUVvTnpiOGFXWjN2cG5JM0pEWk9EUTFFU0oxSi1sR085Y3dsMW1FbzBCWXZIYUFzMGo4aF93UXdwdjFhT01NN2hDTVphX0Y2Z1pvXw?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 17 Jun 2026 19:56:13 GMT",
+      "snippet": "Where do I purchase GMX with Stripe: Ways and Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Learn to purchase GMX with Card: Fast Crypto Guide - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14ZmYzOGJyRndXS3plMmpodDR5ME9PbWo3UEJrY3BMNTAyWTEtVF9BLU9zVDVlVXE2OWs3RE9HcnpSX1dONUhJRzF4YkM3OGdmcDE2X3Z2Rkk5YzZ4TWQxTU9LYUJwTERUbXZpUGZPTmNHOGdpbEhXM1VTeGNSdW8?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Wed, 10 Jun 2026 19:19:30 GMT",
+      "snippet": "Learn to purchase GMX with Card: Fast Crypto Guide&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Where to buy GMX: Best Platforms & Tutorial - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tV1FkTnY3Y3dLRS1WQUROM2oyTDFFcHRCYlZyWmU1Tl8tenZGT05CcUdNRFpZUTFFcWE4bWFwdjBhVDlXTEFNbGdFNkE1b0UtR0xDd0FRQmZJZzVVRmMyejY1TXIxUkVQZWd6dmFQZjBZTFE?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Tue, 09 Jun 2026 01:40:50 GMT",
+      "snippet": "Where to buy GMX: Best Platforms & Tutorial&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Is It Legitimate to buy GMX? Tips and Risk Guide - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBWUdkN3A5dmpFMWMyeWJTY0RJc2ZOUEJvaE1za1NvSEFMSURHQTh2Y0lIRDBtUkxKeTRwVi1Pc3AtUXlMRjNlby02ZHhndm5PTEdVYTB0SEp4RW85NWxHV3VIalA4Rm15UExIY1VEdy1hY2YwRm12RG1rTQ?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Mon, 08 Jun 2026 07:10:36 GMT",
+      "snippet": "Is It Legitimate to buy GMX? Tips and Risk Guide&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "The Daily: Pump.fun confirms PUMP token sale plans, hacker drains over $40 million from GMX, and more - The Block",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnVkanRzR0ZzNUFGRnVFUkJraGJEQlRqVnpjQzQ0b3pfaVJzY0tic1ZwZmpQTHVJalAzNjNWVjRPZnhQdE1waUdfd0pSblNEWGdhYmxqTHN4cDBPMXlHR09pRGE4bDBfdU9pV2NiT21TOVowMUNTZEk5TVlFX2JoejhYY0RJUEJSTUFsX0FOQkRHcG50MTcxOGNJWHJVeGl2c2tjTFFFUDVvQ1ZISW15d0FUS2tNbXlLaFAzNHF3NHlxMmd0azF5a3ZXVVpvdw?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 09 Jul 2025 07:00:00 GMT",
+      "snippet": "The Daily: Pump.fun confirms PUMP token sale plans, hacker drains over $40 million from GMX, and more&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "ON–307: Derivatives 📊Hyperliquid 🌊dYdX 🔮Drift 🏎️GMX 🫐Orderly 🔀 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92VUVGZF9JX01vSkhINDQ3NHlRSU1DcjgzLVpmUzB0emd5X1lLZ1BETF92NUV1Xy1hbTVVQ05nV205b0tWeDNab3YyWUdrRE9hMGJLX18yQXBUYUFPNlHSAWNBVV95cUxNZnY0LWVMU3lnSlluS043X2pCVG5zMHI5MWgtQTZMVXdoTnVRN2l2U19veGRGdFJvSng0VU51cVBuQ2NXMElwMkFEVndNOXktOHd4bzNtcnV6S285Vk9jN3JBVHM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 27 Jan 2025 08:00:00 GMT",
+      "snippet": "ON–307: Derivatives 📊Hyperliquid 🌊dYdX 🔮Drift 🏎️GMX 🫐Orderly 🔀&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "GMX traders incurred the largest liquidation loss in history yesterday - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nVXUzSldaNnFrbGZ0V2hHMW9naXEtelFVcUdFVFdmNXcwZ0VVVmMzbTE5SUYwSTVaTU1TWG5pTFM5UkE0d1V3MnpkXzFRS1JTRG9oVVNhazl3RFZaZ2c?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 15 Jun 2023 07:00:00 GMT",
+      "snippet": "GMX traders incurred the largest liquidation loss in history yesterday&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Avalanche Foundation unveils $4 million incentive program for trading platform GMX - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcEdXdWFZNzI3REhYOTlKeVQzbkxZRUtxVUhQN0g3RjRXOEtyeGlkS3ZZdnN5dVUxZkc5VnM0bzFITmxkR01ZWXVmU2NRQ2pPX1hmVkd0amN2cFNiVEdnakZRaGtVZHNqcmJ0NHYtODBTR2x1a1l0VjNuTURXaUxocFh1aG1yc2tuSERxX0E0TTlyemFjaENzZ3lwQkt5bk50MUdEUXVza19lYXhQSEpVRVJud3R4U1ot?oc=5",
+      "source": "The Block",
+      "publishedAt": "Mon, 07 Nov 2022 08:00:00 GMT",
+      "snippet": "Avalanche Foundation unveils $4 million incentive program for trading platform GMX&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "GMX price today, GMX to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UN0JadUdwU2l5UXFVRUFkelIzMTIwSkU5MC1xUG1QSHhIWDZGemlvaHN5ZGVQWnJOVGJscGd1QmF1eUd1cmlZZFZR?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 13 Sep 2023 05:11:05 GMT",
+      "snippet": "GMX price today, GMX to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
