@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-06-26T10:17:14.385Z",
+  "updatedAt": "2026-06-26T10:32:24.030Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T10:32:21.024Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "XAN",
+      "requestedInput": "XAN",
+      "name": "Anoma",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T10:32:24.027Z",
+      "latestPath": "data/results/XAN-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T10:32:19.452Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
     {
       "token": "AWE",
       "requestedInput": "AWE",
@@ -12,16 +42,6 @@
       "latestPath": "data/results/AWE-latest.json"
     },
     {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T10:17:13.745Z",
-      "latestPath": "data/results/VELO-latest.json"
-    },
-    {
       "token": "MMT",
       "requestedInput": "MMT",
       "name": "MMT",
@@ -30,16 +50,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T10:17:13.690Z",
       "latestPath": "data/results/MMT-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T10:17:11.179Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "DEXE",
@@ -990,16 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-23T23:15:43.162Z",
       "latestPath": "data/results/DYDX-latest.json"
-    },
-    {
-      "token": "MET",
-      "requestedInput": "MET",
-      "name": "Meteora",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-23T17:02:16.549Z",
-      "latestPath": "data/results/MET-latest.json"
     }
   ]
 }
