@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-06-26T12:47:22.541Z",
+  "updatedAt": "2026-06-26T13:02:27.020Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 40,
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T13:02:23.142Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "IP",
+      "requestedInput": "IP",
+      "name": "Story",
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T12:47:20.368Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-26T13:02:27.018Z",
+      "latestPath": "data/results/IP-latest.json"
+    },
+    {
+      "token": "TUT",
+      "requestedInput": "TUT",
+      "name": "Tutorial",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T13:02:26.489Z",
+      "latestPath": "data/results/TUT-latest.json"
+    },
+    {
+      "token": "VD",
+      "requestedInput": "INDA",
+      "name": "VinDax Coin",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T13:02:25.834Z",
+      "latestPath": "data/results/VD-latest.json"
     },
     {
       "token": "UNH",
@@ -60,16 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T12:35:02.449Z",
       "latestPath": "data/results/4-latest.json"
-    },
-    {
-      "token": "VD",
-      "requestedInput": "INDA",
-      "name": "VinDax Coin",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T12:35:04.220Z",
-      "latestPath": "data/results/VD-latest.json"
     },
     {
       "token": "JST",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T01:32:02.444Z",
       "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "FOGO",
-      "requestedInput": "FOGO",
-      "name": "Fogo",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-25T21:02:30.277Z",
-      "latestPath": "data/results/FOGO-latest.json"
-    },
-    {
-      "token": "HUMA",
-      "requestedInput": "HUMA",
-      "name": "Huma Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-25T19:32:08.282Z",
-      "latestPath": "data/results/HUMA-latest.json"
     }
   ]
 }
