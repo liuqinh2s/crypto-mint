@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-06-26T09:47:16.357Z",
+  "updatedAt": "2026-06-26T10:02:23.734Z",
   "results": [
+    {
+      "token": "AWE",
+      "requestedInput": "AWE",
+      "name": "AWE",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T10:02:23.732Z",
+      "latestPath": "data/results/AWE-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 20,
+      "name": "Velodrome Finance",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T10:02:19.958Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "MMT",
+      "requestedInput": "MMT",
+      "name": "Momentum",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T10:02:23.073Z",
+      "latestPath": "data/results/MMT-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-26T09:47:09.773Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-26T10:02:19.018Z",
+      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "DEXE",
@@ -30,16 +60,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T09:47:10.428Z",
       "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T09:47:08.748Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "BLESS",
@@ -980,26 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-23T17:02:16.549Z",
       "latestPath": "data/results/MET-latest.json"
-    },
-    {
-      "token": "BAN",
-      "requestedInput": "BAN",
-      "name": "Comedian",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-23T16:47:21.325Z",
-      "latestPath": "data/results/BAN-latest.json"
-    },
-    {
-      "token": "XAN",
-      "requestedInput": "XAN",
-      "name": "Anoma",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-23T16:02:49.876Z",
-      "latestPath": "data/results/XAN-latest.json"
     }
   ]
 }
