@@ -1,0 +1,377 @@
+{
+  "token": "GME",
+  "requestedInput": "GME",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T21:32:07.438Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "GME",
+    "name": "GME",
+    "generatedAt": "2026-06-26T21:31:56.021Z",
+    "summary": "该代币为Avalanche链上TraderJoe的meme币，市值仅614美元，流动性极低，24小时无交易量，近期无价格变动。新闻多为GameStop股票相关，与链上代币无关。存在极高风险，不建议买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无买入逻辑，无需设置失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "GAMESTOP IS ABOUT TO SQUEEZE AGAIN... AMC & GME STOCK MOASS INCOMING!!",
+        "impact": "中性",
+        "reason": "新闻针对GameStop股票，与链上GME代币无关"
+      },
+      {
+        "title": "GameStop Stock Price: GME Stock Chart, Market Cap & News Today",
+        "impact": "中性",
+        "reason": "CoinGecko报道GameStop股票，非链上代币"
+      },
+      {
+        "title": "GameStop Coin Price Today | GME to USD Live Price, Market Cap & Chart",
+        "impact": "中性",
+        "reason": "Binance报道GameStop股票价格，非链上代币"
+      },
+      {
+        "title": "GameStop (GME) news: Bitcoin (BTC) covered call strategy used to generate income",
+        "impact": "中性",
+        "reason": "CoinDesk报道GameStop公司策略，与链上代币无关"
+      },
+      {
+        "title": "GME news: GameStop's $420 million bitcoin (BTC) move sparks speculation of selling",
+        "impact": "中性",
+        "reason": "CoinDesk报道GameStop公司动态，非链上代币"
+      },
+      {
+        "title": "GME Memecoin Collapses 98% as Korean Exchange Forces GameStop Liquidation",
+        "impact": "利空",
+        "reason": "历史新闻，显示meme币曾暴跌98%，风险极高"
+      },
+      {
+        "title": "GameStop Announces 100% ‘At-Risk’ Performance Award For CEO Ryan Cohen: GME Stock Gains Pre-Market",
+        "impact": "中性",
+        "reason": "GameStop公司新闻，与链上代币无关"
+      },
+      {
+        "title": "GameStop ($GME) Analysis: Key Support Levels and Potential Price Moves",
+        "impact": "中性",
+        "reason": "Bitget分析GameStop股票，非链上代币"
+      },
+      {
+        "title": "$GME , Idea",
+        "impact": "中性",
+        "reason": "Bitget上关于GameStop股票的观点，非链上代币"
+      },
+      {
+        "title": "GameStop (GME) intraday price drops further to 10%, now trading at $23.9",
+        "impact": "中性",
+        "reason": "Bitget报道GameStop股票价格，非链上代币"
+      },
+      {
+        "title": "GME | DUMB MONEY Is Back | LONG",
+        "impact": "中性",
+        "reason": "Bitget上关于GameStop股票的交易观点，非链上代币"
+      },
+      {
+        "title": "Game on for GME? (Potential Breakout)",
+        "impact": "中性",
+        "reason": "Bitget上关于GameStop股票的分析，非链上代币"
+      },
+      {
+        "title": "GameStop (GME) Raising $1.3B for Bitcoin (BTC) Purchases",
+        "impact": "中性",
+        "reason": "CoinDesk报道GameStop公司融资，非链上代币"
+      },
+      {
+        "title": "Solana memecoin GME pumps 460% in a day as 'Roaring Kitty' reappears",
+        "impact": "中性",
+        "reason": "历史新闻，涉及Solana链上meme币，非当前Avalanche代币"
+      },
+      {
+        "title": "After GameStop (GME) Embraces Bitcoin (BTC), Strive’s Matt Cole Turns His Eye to Intuit (INTU)",
+        "impact": "中性",
+        "reason": "CoinDesk报道GameStop公司动态，非链上代币"
+      },
+      {
+        "title": "GameStop (GME) Urged to Convert Its $5B Cash Into Bitcoin by Strive's CEO Matt Cole",
+        "impact": "中性",
+        "reason": "CoinDesk报道GameStop公司建议，非链上代币"
+      }
+    ],
+    "fundamentals": [
+      "Avalanche链上TraderJoe的meme币，无官网，无项目介绍",
+      "市值仅614美元，流动性614美元，24小时交易量0.11美元",
+      "创建于2026-06-21，仅5天历史",
+      "无流通量、总供应量、最大供应量数据",
+      "无ATH数据，无价格变动百分比"
+    ],
+    "marketRead": [
+      "24小时无价格变动，无成交量，流动性极低（614美元）",
+      "市场深度极差，大额交易极易滑点或无法成交",
+      "无任何交易活动，代币实际处于死亡状态"
+    ],
+    "risks": [
+      "流动性极低，存在无法卖出或归零风险",
+      "无交易量，代币可能已被遗弃",
+      "新闻均为GameStop股票相关，与链上代币无关，无实际催化",
+      "合约风险：未开源或未审计，可能存在后门",
+      "meme币生命周期极短，已无热度"
+    ],
+    "watchlist": [
+      "观察是否有新交易量或流动性注入",
+      "关注GameStop股票相关新闻是否带动链上同名代币",
+      "监控合约是否有异常操作"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，仅提供链上数据",
+      "新闻来源Google News，多数为GameStop股票相关，与链上代币无关",
+      "无可靠项目方信息，代币真实性存疑"
+    ]
+  },
+  "profile": {
+    "id": "0x10ed9ca394386FF9632182e3979Fb8f01a72A09E",
+    "symbol": "GME",
+    "name": "GME",
+    "categories": [
+      "avalanche",
+      "traderjoe"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on avalanche / traderjoe. Pair URL: https://dexscreener.com/avalanche/0xec433767e8bc496c32ee854f84d444e537c7a65c",
+    "marketCapRank": null,
+    "currentPriceUsd": 6.14e-9,
+    "marketCapUsd": 614,
+    "fullyDilutedValuationUsd": 614,
+    "totalVolumeUsd": 0.11,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-21",
+    "chainId": "avalanche",
+    "dexId": "traderjoe",
+    "pairAddress": "0xEc433767E8bC496c32ee854f84d444e537c7A65c",
+    "baseTokenAddress": "0x10ed9ca394386FF9632182e3979Fb8f01a72A09E",
+    "quoteToken": {
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX"
+    },
+    "liquidityUsd": 614.11,
+    "pairUrl": "https://dexscreener.com/avalanche/0xec433767e8bc496c32ee854f84d444e537c7a65c",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "traderjoe",
+    "pair": "GME/WAVAX",
+    "chainId": "avalanche",
+    "dexId": "traderjoe",
+    "pairAddress": "0xEc433767E8bC496c32ee854f84d444e537c7A65c",
+    "pairUrl": "https://dexscreener.com/avalanche/0xec433767e8bc496c32ee854f84d444e537c7a65c",
+    "lastPrice": 6.14e-9,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.11,
+    "liquidityUsd": 614.11,
+    "fullyDilutedValuationUsd": 614,
+    "marketCapUsd": 614,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "avalanche",
+    "dexId": "traderjoe",
+    "url": "https://dexscreener.com/avalanche/0xec433767e8bc496c32ee854f84d444e537c7a65c",
+    "pairAddress": "0xEc433767E8bC496c32ee854f84d444e537c7A65c",
+    "labels": [
+      "v2.2"
+    ],
+    "baseToken": {
+      "address": "0x10ed9ca394386FF9632182e3979Fb8f01a72A09E",
+      "name": "GME",
+      "symbol": "GME"
+    },
+    "quoteToken": {
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX"
+    },
+    "priceNative": "0.000000001000",
+    "priceUsd": "0.000000006140",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 0.11,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 614.11,
+      "base": 100013744319,
+      "quote": 0.00001077
+    },
+    "fdv": 614,
+    "marketCap": 614,
+    "pairCreatedAt": 1782054998000
+  },
+  "news": [
+    {
+      "title": "GAMESTOP IS ABOUT TO SQUEEZE AGAIN... AMC & GME STOCK MOASS INCOMING!! Mackenzie Blackwood (VUsqyAGTRK) - Fathom Journal",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qU0t4OVZndmVxb0tWWjg2Q2syZUVrLXJsSkRNNzFSQnJFbGhTejkxbjdtNGYxX01UYi1SMVY0RkhJVDZ0RXhPRDJpbGNFR1JwYzNtYi1qZGhBeWZ4ZGtqYTU3V3k?oc=5",
+      "source": "Fathom Journal",
+      "publishedAt": "Sat, 20 Jun 2026 17:29:02 GMT",
+      "snippet": "GAMESTOP IS ABOUT TO SQUEEZE AGAIN... AMC & GME STOCK MOASS INCOMING!! Mackenzie Blackwood (VUsqyAGTRK)&nbsp;&nbsp;Fathom Journal"
+    },
+    {
+      "title": "GameStop Stock Price: GME Stock Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DeW9IUWd2WVpVdnNTbmlEVmxkOVFxTmd3LW5UdjhGNVdlSWIwdkdvckY5d0k0YWRKQnYtZUJhWkpTbTJPRlFsZFo3d2tNQk45b21RLTBpNA?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 04 Jun 2026 09:25:43 GMT",
+      "snippet": "GameStop Stock Price: GME Stock Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "GameStop Coin Price Today | GME to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11OXhuSlU1TjJnQzVrVjRHWnBpWU9CVHpqRTZUTnhnSHFHLWJCR09JY3JMMFBXN1NaRE00dDF4V2xSanZtajFUN2RuTVpMeEhsN1JUUEo5V1hrLWdQWVE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "snippet": "GameStop Coin Price Today | GME to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "GameStop (GME) news: Bitcoin (BTC) covered call strategy used to generate income - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS2tNMjlIWVVMdV9sRWN0akQxTGNwUTNjYi1URzFPSDBWakhDV0M0MTBhdGFURzljd1ZkUm1vZTlwdDlVWjdPLW5PeU95cVUwd19sYlB4cFp4SXU4YmNSTmVweFh0ZmhwN0xld1dwNmlZNTd1cF9WeS1EV1NFSGJ0Q0t3TlJEWXROX3NaVjU5Ym15YXBvQXlhNXlZZXd6MkZVYjVBY2ZCSzRCZ0Ntb1M0YndlV1Z3Nzd1Nk5QWjhn?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "snippet": "GameStop (GME) news: Bitcoin (BTC) covered call strategy used to generate income&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "GME news: GameStop's $420 million bitcoin (BTC) move sparks speculation of selling - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMnd4U0V6aUd0Z29jN3IyYjZ4UExFWjJEbmNMWHN6OGVSSkJBdUhqa0ZkU2ZmUXlnRFFhNG5rdlQ5NmxrY0xVVmR4VkhiamNsMmNSS0FhaThKTUxiVmJkRlI2MWc2dHNsamlwaEZWSHNEcDJ4SEh5QWl3c0g4ZHZnRjV2LS1VS2g2d3BpdXFsWGFnS1F1Wms3RnVCdElEYm5sTDJnWEJqcjh5cm11STR3Xy1sYw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sat, 24 Jan 2026 08:00:00 GMT",
+      "snippet": "GME news: GameStop's $420 million bitcoin (BTC) move sparks speculation of selling&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "GME Memecoin Collapses 98% as Korean Exchange Forces GameStop Liquidation - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazRJT3R6NUlvNk82Z2ppVTFjaWN3bzJGclM1Z3Nkd2NRTkRyX2NWeHBjOVBEN0lDVVNDaC13ci1TVm5MUmo3REtSMUpWX1owU21QWmRCdHBHalU3NmJsMDVvQzllZ25MWm53bjFSbEVGbTBDeDJWSEdvMkpwVlhReHV6SGxjQ2Jxb2V1U3dJclhITDhHQmJqdmpqVF8?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "snippet": "GME Memecoin Collapses 98% as Korean Exchange Forces GameStop Liquidation&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "GameStop Announces 100% ‘At-Risk’ Performance Award For CEO Ryan Cohen: GME Stock Gains Pre-Market - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkJIN05scU1tZHg0M2paTWlZSDBIR2JMdWYzSGdaOG51VU5GWS0xaFRrM1RoZUt5ZWItR1RmQzdXZjk0TC0xSVFmUVoyWjVrQ1Z1d19zMGRqWEJlSDNpMDJEYWhHOXBBWTRJcjlRMmJfY05zcVlRYWY0TTRHQVV4Q3VDRm5tUlZKRk9CS3dsczM0VnJDSnJPTEc5VkpZNjAzUmM4WWhORm0?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "snippet": "GameStop Announces 100% ‘At-Risk’ Performance Award For CEO Ryan Cohen: GME Stock Gains Pre-Market&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "GameStop ($GME) Analysis: Key Support Levels and Potential Price Moves - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GN2xNN3BaWW45ZS1STldycEpYc1V2M0ZuZFZkdmJIQzEzM3pkWmVrMlRnYUxWdGFBVk9lQjVCS1N0eDA0MXhRaHM5X2V5MFB2VWVkQm5XOFFVNHNjVVHSAWNBVV95cUxOOTBxRkxCbjN4X3cwZ1NzM19fMFJSWWdxSXN1OGtUUlQ3T2hxSTJ2YnN5MXA5a1RQZmZSVkdrQTJsN2wtS0dmbXhuWHh0T2dTdXk3TzZYQkU2MmpQSFgyTEJfUjA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 09 Feb 2025 08:00:00 GMT",
+      "snippet": "GameStop ($GME) Analysis: Key Support Levels and Potential Price Moves&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "$GME , Idea - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpZTk2RXN4Q21RRlpqRmhlU1RNa1RBb25jNnZPTXZHNHNvOG9qaW1lS3E5QVhxRTllemxIdXVDMFB4SEVRRE5hbGt2VDVuRGllbWl4MnlDQ0dOU1B3alHSAWNBVV95cUxQZGItMDkzMGJfaWt3X3lpemd4Tk5lWlY5bUVnOHJscVdyQk1fYlgzRHBvZWhMS3ZDQjcyM0Fud3VCbXBWOXJYYndtV25zNkJpbWlWVDFyMGVPVjE2YTAtTmJ4czA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 02 May 2026 07:00:00 GMT",
+      "snippet": "$GME , Idea&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "GameStop (GME) intraday price drops further to 10%, now trading at $23.9 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nWktoSkFzZHk3amVFVE9jVnR3QTlPZC1hNXJuR3NHTE1kMkUtQVprdFRaVGNjUXRIWmdQLUgxZndMc2JJelFpbUFwX3p2SWRsUjQyc21xSFVBaFZsMmfSAWNBVV95cUxNS0htTmdvaXMzem9iOU9mSzB5alZPaG0ybjd1cHg1RDloSERLSDFReTZDQXY1d2thMHFDMkNtd19GZFNZX0RDbkMwdFluX0VITkt0NkNJV3lkM09pQjNEMVhDUm8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
+      "snippet": "GameStop (GME) intraday price drops further to 10%, now trading at $23.9&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "GME | DUMB MONEY Is Back | LONG - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vM0pkUHZVOHVERGhlV29OZHAxWGJOZHVJSFN3VmpNVkRIUVhlUkhrSkpxbVpkNnNxTFJoUm43M1NlLUwwLXUwc0xxVlFhZkhKY0g3bHp4ZkdSLUppLWfSAWNBVV95cUxQVnZqX0FVUFlzTXFxQXBCTnNHUTNGRm5PLWxObVJ2TUJvMjloQUFlSjh4MTRFTkRCWmlEUzMwQzRhdVRiRzY0bHVfNDdYN01zcll6bHVjNEk1dlBRYWVKSkhjaHc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "snippet": "GME | DUMB MONEY Is Back | LONG&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Game on for GME? (Potential Breakout) - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uVk1Zel80X0ltVnNGTmlkOHRtWWcyLV9YbmZpbko2aEdNZ2FfZFZROVZBaWtZazctNFFLY1p1MWxMcWhRRTlFeXY4ODlJM3BpQklEdHYwMFN1QnZMSGfSAWNBVV95cUxOVTlYV2toamthaWRHSWVoYTUybURtbTZfMFlVWDI3UmV0eEcxTUdSaGpYV2NrN1JjSGJxbUc4YU9WR2RkdVBKQmdoQ0lIbGJvaUM4M3ljX2hseEdEMklRUnl3SlE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "snippet": "Game on for GME? (Potential Breakout)&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "GameStop (GME) Raising $1.3B for Bitcoin (BTC) Purchases - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3dYZU5LOHJhbnMtOUQteUpNMlpRc2JjUFhNNXBsVWdLNU5WbVA3dk96dWlDTlJUd1RWdnc0Z3AyT3NYOU12aGx3RzVEMS1menVJNDFIOGtuNTRkbjZjOTVHeEpxX3E4SXFWNWdsZTlXZ2VCb2dMNGZ0RF9MbUtubm04VElmQmVTcWJ4b2Y5WGY4RjB3YkpiSzRPdzNMd1A3TlBWTmRyTW5tZDJJU2lv?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 26 Mar 2025 07:00:00 GMT",
+      "snippet": "GameStop (GME) Raising $1.3B for Bitcoin (BTC) Purchases&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Solana memecoin GME pumps 460% in a day as 'Roaring Kitty' reappears - The Block",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2azhPVW82U0xYMEpuaEJUSXB2NEZBbHBnbC1MWnFlNnI1WEhLVlZ6Yl9yUV92bVZIUkUtQTZpajBJLWZpZktELVpDRjJZSThQUTNGZDRDTHNUakZHdV90ZjB4QlQzeElJenBRTE94eTRnQQ?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 14 May 2024 07:00:00 GMT",
+      "snippet": "Solana memecoin GME pumps 460% in a day as 'Roaring Kitty' reappears&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "After GameStop (GME) Embraces Bitcoin (BTC), Strive’s Matt Cole Turns His Eye to Intuit (INTU) - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ2tWMm1BVjVMYVJPVkZyZ1ByR3BSUWN5QnZNR2NVc21EWDdwMU95NTJWTlgzVEppV1NBUjljY1pRVnJEYmRRdXlRZEhBYnhYSEY5QWNBcW5WdWVQcW9TN183emxLcmVKN3lhUU1hZUFiUXhSSjRJQUVkY1BFalFYYkdtelBzMDFkUERDcFNJdU1KR3h0Si01LWxyWWlveEkwNUt4TEhtUlcta0MyWHZvRDhqWmFhVzVheFJwbmFR?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 15 Apr 2025 07:00:00 GMT",
+      "snippet": "After GameStop (GME) Embraces Bitcoin (BTC), Strive’s Matt Cole Turns His Eye to Intuit (INTU)&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "GameStop (GME) Urged to Convert Its $5B Cash Into Bitcoin by Strive's CEO Matt Cole - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWldmMGFuUEZqOS1pa2NrN19QYjl0d05qbWVTQmFQRXlKWVJMc0pjOENjY0dNX24tZU44bWFhdzc5NFZBNG81UWd6NGhuNVhrcGtoaExOMkFZRS1la2gxNkUwSGQydWV4U1phUWhka1ZwU3k2LXVFcXA1ZENWckVoNGNIRTVJbFFxVDZoUVJhdWxxVW9rLTQ1WFZ2UnZxTHhZeXF2QXU5ajlTMFl4b04xdUVHWmV1RG90elh0Mk5SeG5GY3Nwa1BTOTZPTG1LZzNiNGxhUQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 25 Feb 2025 08:00:00 GMT",
+      "snippet": "GameStop (GME) Urged to Convert Its $5B Cash Into Bitcoin by Strive's CEO Matt Cole&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/gme?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}
