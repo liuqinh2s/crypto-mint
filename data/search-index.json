@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-06-26T11:47:15.253Z",
+  "updatedAt": "2026-06-26T12:02:32.051Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
+      "name": "VelodromeV2",
+      "score": 25,
       "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T11:47:13.133Z",
+      "action": "不买",
+      "generatedAt": "2026-06-26T12:02:27.465Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "POPCAT",
+      "requestedInput": "POPCAT",
+      "name": "Popcat",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T12:02:28.485Z",
+      "latestPath": "data/results/POPCAT-latest.json"
+    },
+    {
+      "token": "ICNT",
+      "requestedInput": "ICNT",
+      "name": "Impossible Cloud Network Token",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T12:02:32.049Z",
+      "latestPath": "data/results/ICNT-latest.json"
+    },
+    {
+      "token": "VD",
+      "requestedInput": "INDA",
+      "name": "VinDax Coin",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T12:02:29.099Z",
+      "latestPath": "data/results/VD-latest.json"
     },
     {
       "token": "G",
@@ -20,16 +50,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T11:47:14.975Z",
       "latestPath": "data/results/G-latest.json"
-    },
-    {
-      "token": "VD",
-      "requestedInput": "INDA",
-      "name": "VinDax Coin",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T11:47:15.251Z",
-      "latestPath": "data/results/VD-latest.json"
     },
     {
       "token": "BAS",
@@ -980,26 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-25T00:02:19.180Z",
       "latestPath": "data/results/MU-latest.json"
-    },
-    {
-      "token": "TAC",
-      "requestedInput": "TAC",
-      "name": "TAC",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-24T21:02:25.269Z",
-      "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "USDC",
-      "requestedInput": "USDC",
-      "name": "USDC",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-24T18:32:22.039Z",
-      "latestPath": "data/results/USDC-latest.json"
     }
   ]
 }
