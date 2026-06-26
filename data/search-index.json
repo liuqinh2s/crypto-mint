@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-06-26T13:02:27.020Z",
+  "updatedAt": "2026-06-26T13:16:55.817Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 25,
+      "score": 30,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T13:02:23.142Z",
+      "action": "观察",
+      "generatedAt": "2026-06-26T13:16:54.214Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "HUMA",
+      "requestedInput": "HUMA",
+      "name": "Huma Finance",
+      "score": 20,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T13:16:55.815Z",
+      "latestPath": "data/results/HUMA-latest.json"
+    },
+    {
+      "token": "VD",
+      "requestedInput": "INDA",
+      "name": "VinDax Coin",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T13:16:55.455Z",
+      "latestPath": "data/results/VD-latest.json"
     },
     {
       "token": "IP",
@@ -30,16 +50,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T13:02:26.489Z",
       "latestPath": "data/results/TUT-latest.json"
-    },
-    {
-      "token": "VD",
-      "requestedInput": "INDA",
-      "name": "VinDax Coin",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T13:02:25.834Z",
-      "latestPath": "data/results/VD-latest.json"
     },
     {
       "token": "UNH",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T03:47:02.531Z",
       "latestPath": "data/results/AIN-latest.json"
-    },
-    {
-      "token": "APE",
-      "requestedInput": "APE",
-      "name": "ApeCoin",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T01:32:02.444Z",
-      "latestPath": "data/results/APE-latest.json"
     }
   ]
 }
