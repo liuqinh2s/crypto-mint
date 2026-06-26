@@ -1,0 +1,170 @@
+{
+  "token": "RDDT.D",
+  "requestedInput": "RDDT",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T14:47:13.421Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "RDDT.D",
+    "name": "Dinari RDDT",
+    "generatedAt": "2026-06-26T14:47:07.119Z",
+    "summary": "RDDT.D是Reddit股票的代币化版本，在Solana的pumpfun上交易，流动性极低，24小时交易量仅14美元，市值约2257美元。无新闻催化，价格波动极小。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现重大流动性注入或官方背书，否则逻辑持续失效。"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "RDDT.d是Dinari发行的代币化股票，1:1由Reddit股票支持。",
+      "总供应量仅80枚，流通量为0，实际交易量极低。",
+      "项目属于RWA赛道，但当前链上流动性几乎为零。"
+    ],
+    "marketRead": [
+      "24小时价格变化-1.21%，交易量仅14.13美元，流动性为null，市场深度极差。",
+      "市值仅2257美元，属于微型代币，极易被操纵或无人问津。",
+      "无历史K线数据，价格发现机制缺失。"
+    ],
+    "risks": [
+      "流动性风险：几乎无交易量，买卖价差极大，难以成交。",
+      "合约风险：pumpfun上的代币可能存在蜜罐或rug pull风险。",
+      "估值风险：市值极低，且无实际交易支撑。",
+      "监管风险：代币化股票可能面临合规不确定性。"
+    ],
+    "watchlist": [
+      "观察是否有大额流动性注入或官方公告。",
+      "关注Dinari平台是否增加做市商。",
+      "监控Reddit股票本身的价格走势。"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko和DexScreener，但流动性数据缺失，交易量极低。",
+      "新闻数据为空，无近期催化。"
+    ]
+  },
+  "profile": {
+    "id": "dinari-rddt",
+    "symbol": "RDDT.D",
+    "name": "Dinari RDDT",
+    "categories": [
+      "Tokenized Assets",
+      "Arbitrum Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Base Ecosystem",
+      "Blast Ecosystem"
+    ],
+    "homepage": [
+      "https://www.dinari.com/",
+      "https://sbt.dinari.com/",
+      "https://solidviolet.com/"
+    ],
+    "description": "### What is the project about? The Dinari dShare token for Reddit stock (RDDT.d) is a 1:1 backed token representing shares of Reddit, Inc. RDDT.d enables users to gain exposure to Reddit's equity through a tokenized format, harnessing the advantages of blockchain technology. Each RDDT.d token is fully backed by a corresponding share of Reddit stock, held securely in a transparent treasury vault. This tokenization offers investors enhanced transferability, instant settlement, 24/7 trading, and fractional ownership, increasing the accessibility and liquidity of Reddit stock for a broader range of investors.",
+    "marketCapRank": null,
+    "currentPriceUsd": null,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": null,
+    "priceChange24hPct": null,
+    "priceChange7dPct": 0,
+    "priceChange14dPct": 0,
+    "priceChange30dPct": 0,
+    "athUsd": null,
+    "athChangePct": 0,
+    "circulatingSupply": 0,
+    "totalSupply": 80,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 35,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pumpfun",
+    "pair": "RDDT/SOL",
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "pairAddress": "8Z5xGWqPV4LUxdScy9cvYLDywgqPGxZbLaNa3sHaTtEo",
+    "pairUrl": "https://dexscreener.com/solana/8z5xgwqpv4luxdscy9cvyldywgqpgxzblana3shatteo",
+    "lastPrice": 0.000002257,
+    "priceChange24hPct": -1.21,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 14.13,
+    "liquidityUsd": null,
+    "fullyDilutedValuationUsd": 2257.46,
+    "marketCapUsd": 2257.46,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "url": "https://dexscreener.com/solana/8z5xgwqpv4luxdscy9cvyldywgqpgxzblana3shatteo",
+    "pairAddress": "8Z5xGWqPV4LUxdScy9cvYLDywgqPGxZbLaNa3sHaTtEo",
+    "baseToken": {
+      "address": "79Aded2rWWvqj7zx6RTFffqABVhpUw6e7Um9S2iXfwGo",
+      "name": "Reddit, Inc.",
+      "symbol": "RDDT"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.00000003376",
+    "priceUsd": "0.000002257",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 14.13,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -1.21
+    },
+    "fdv": 2257.46,
+    "marketCap": 2257.46
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned RDDT for RDDT.D; DEX profile ignored to avoid token mix-up.",
+    "AI returned mismatched token RDDTD; forced back to RDDT.D."
+  ]
+}

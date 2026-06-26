@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-06-26T14:32:38.961Z",
+  "updatedAt": "2026-06-26T14:47:24.641Z",
   "results": [
+    {
+      "token": "RDDT.D",
+      "requestedInput": "RDDT",
+      "name": "Dinari RDDT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:47:13.421Z",
+      "latestPath": "data/results/RDDT.D-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
+      "name": "VelodromeV2",
       "score": 25,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-26T14:32:23.891Z",
+      "generatedAt": "2026-06-26T14:47:15.178Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "RPL",
+      "requestedInput": "RPL",
+      "name": "Rocket Pool",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:47:16.722Z",
+      "latestPath": "data/results/RPL-latest.json"
+    },
+    {
+      "token": "XPL",
+      "requestedInput": "XPL",
+      "name": "XPL",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:47:15.199Z",
+      "latestPath": "data/results/XPL-latest.json"
+    },
+    {
+      "token": "GWEI",
+      "requestedInput": "GWEI",
+      "name": "ETHGas",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:47:22.933Z",
+      "latestPath": "data/results/GWEI-latest.json"
+    },
+    {
+      "token": "NAORIS",
+      "requestedInput": "NAORIS",
+      "name": "Naoris Protocol",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:47:24.639Z",
+      "latestPath": "data/results/NAORIS-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:47:21.414Z",
+      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "RAY",
@@ -70,16 +130,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T14:32:38.959Z",
       "latestPath": "data/results/ETHFI-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T14:32:33.068Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "INFQ",
@@ -950,56 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-26T08:47:19.125Z",
       "latestPath": "data/results/SOON-latest.json"
-    },
-    {
-      "token": "STABLE",
-      "requestedInput": "STABLE",
-      "name": "Stable",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:19.447Z",
-      "latestPath": "data/results/STABLE-latest.json"
-    },
-    {
-      "token": "TRUST",
-      "requestedInput": "TRUST",
-      "name": "Trust",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:22.860Z",
-      "latestPath": "data/results/TRUST-latest.json"
-    },
-    {
-      "token": "AMAT",
-      "requestedInput": "AMAT",
-      "name": "Applied Materials Inc (Derivatives)",
-      "score": 2,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:25.717Z",
-      "latestPath": "data/results/AMAT-latest.json"
-    },
-    {
-      "token": "SKYAI",
-      "requestedInput": "SKYAI",
-      "name": "SKYAI",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:30.537Z",
-      "latestPath": "data/results/SKYAI-latest.json"
-    },
-    {
-      "token": "Q",
-      "requestedInput": "Q",
-      "name": "Quack AI",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T08:47:26.593Z",
-      "latestPath": "data/results/Q-latest.json"
     }
   ]
 }
