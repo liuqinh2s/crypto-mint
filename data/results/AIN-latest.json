@@ -1,0 +1,260 @@
+{
+  "token": "AIN",
+  "requestedInput": "AIN",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T03:47:02.531Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AIN",
+    "name": "Infinity Ground",
+    "generatedAt": "2026-06-26T03:46:51.027Z",
+    "summary": "AIN是Solana链上Meteora DEX的流动性池代币，市值约5366万美元，流动性充足（5266万美元），但24小时交易量仅3.99美元，价格几乎无波动（-0.02%），缺乏交易活跃度和新闻催化。基本面信息有限，无明确上涨逻辑。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现重大利好（如上线主流交易所、项目方公布实质性进展）且成交量显著放大，否则逻辑持续失效。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Infinity Ground Price Today | AIN to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格追踪页面，无实质内容。"
+      },
+      {
+        "title": "Infinity Ground Price USD, AIN Price Live Charts, Market Cap & News - Bitget",
+        "impact": "中性",
+        "reason": "同样为价格页面，无新增信息。"
+      },
+      {
+        "title": "InfinityGround Price | AIN Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+        "impact": "中性",
+        "reason": "价格数据聚合页面。"
+      },
+      {
+        "title": "InfinityGround (AIN) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+        "impact": "中性",
+        "reason": "融资和代币经济分析，但未提供具体数据。"
+      },
+      {
+        "title": "Infinity Ground Price Today in India | AIN to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "印度市场价格页面。"
+      },
+      {
+        "title": "BNB Smart Chain Trading Competition: Trade M, IDOL, AIN, CROSS and ECHO to Share $3M Worth of Rewards - Binance",
+        "impact": "利好",
+        "reason": "Binance上的交易竞赛，可能短期吸引交易量，但竞赛已结束（2025年7月），对当前无影响。"
+      }
+    ],
+    "fundamentals": [
+      "项目名称Infinity Ground，但无官网或白皮书链接。",
+      "代币部署于Solana链，Meteora DEX池。",
+      "市值约5366万美元，FDV相同，但总供应量未知。",
+      "流动性池规模5266万美元，但24小时交易量仅3.99美元，流动性利用率极低。",
+      "无历史价格数据（ATH、7d/14d/30d变化均为null）。",
+      "无社区情绪或关注度数据。"
+    ],
+    "marketRead": [
+      "价格24小时变化-0.02%，几乎无波动。",
+      "24小时交易量仅3.99美元，表明市场深度极差，实际成交稀少。",
+      "流动性池虽大，但可能为项目方或做市商提供，并非真实交易需求。",
+      "无K线数据，无法分析趋势。"
+    ],
+    "risks": [
+      "流动性陷阱：高流动性但无交易量，可能为虚假深度，实际卖出时滑点极大。",
+      "信息不透明：无官网、白皮书、团队信息，项目背景不明。",
+      "合约风险：未开源或未审计，存在恶意代码可能。",
+      "市场操纵风险：低交易量下价格易被操控。",
+      "无新闻催化：近期无实质性利好，交易竞赛已过期。"
+    ],
+    "watchlist": [
+      "关注是否有主流交易所上线公告。",
+      "观察交易量是否突然放大（如日交易量超过10万美元）。",
+      "项目方是否发布官方渠道或更新。",
+      "链上大额转账或流动性池变化。"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，缺乏项目方一手资料。",
+      "新闻来源均为价格聚合页面，无深度报道。",
+      "交易竞赛新闻已过时，对当前价格无影响。"
+    ]
+  },
+  "profile": {
+    "id": "3qmsQYh2YuJEA5zdeGQVL5UipXYBb3zeaMLb2aeJh887",
+    "symbol": "AIN",
+    "name": "Infinity Ground",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/9nwvs9tssxmlk3qmd8dh3krvwtvgvmj4b6warnepjd9e",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.05366,
+    "marketCapUsd": 53665929,
+    "fullyDilutedValuationUsd": 53665929,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-03-10",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "9nWVS9tsSXmLK3qmD8dh3krVWTvgVmj4B6wARnePjD9e",
+    "baseTokenAddress": "3qmsQYh2YuJEA5zdeGQVL5UipXYBb3zeaMLb2aeJh887",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 52665968.69,
+    "pairUrl": "https://dexscreener.com/solana/9nwvs9tssxmlk3qmd8dh3krvwtvgvmj4b6warnepjd9e",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "AIN/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "9nWVS9tsSXmLK3qmD8dh3krVWTvgVmj4B6wARnePjD9e",
+    "pairUrl": "https://dexscreener.com/solana/9nwvs9tssxmlk3qmd8dh3krvwtvgvmj4b6warnepjd9e",
+    "lastPrice": 0.05366,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 52665968.69,
+    "fullyDilutedValuationUsd": 53665929,
+    "marketCapUsd": 53665929,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/9nwvs9tssxmlk3qmd8dh3krvwtvgvmj4b6warnepjd9e",
+    "pairAddress": "9nWVS9tsSXmLK3qmD8dh3krVWTvgVmj4B6wARnePjD9e",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "3qmsQYh2YuJEA5zdeGQVL5UipXYBb3zeaMLb2aeJh887",
+      "name": "Infinity Ground",
+      "symbol": "AIN"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.05366",
+    "priceUsd": "0.05366",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 52665968.69,
+      "base": 981255141,
+      "quote": 6000.0028
+    },
+    "fdv": 53665929,
+    "marketCap": 53665929,
+    "pairCreatedAt": 1773133922000
+  },
+  "news": [
+    {
+      "title": "Infinity Ground Price Today | AIN to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OUWdNRGpyVUd2ZkxiaWMzTzE5RnRXS0hjMFc1VjNrV2F5VWs3dVVSN09aU1dEUnpEX3NldF9JQkIxV1dXU21kTG9ORkV1VnE4ZlN5UU9TakdhZVds?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 10 Jul 2025 07:00:00 GMT",
+      "snippet": "Infinity Ground Price Today | AIN to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Infinity Ground Price USD, AIN Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Nc0JXY05PTVllaG9CR0pLa01QeFR5RHBJLW1OeXAxMEY4dFpfOE5ESDlMUVdIUGZUOG1QOFdFMXFRYVlITTdiR21sQzZTbWRjQktMRlpOOA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 04 Jul 2025 04:11:56 GMT",
+      "snippet": "Infinity Ground Price USD, AIN Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "InfinityGround Price | AIN Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IWDJQUXNvd3h5U25UbzZBV0VUX1JYN1ozSXE5YUtuMS1ieW9BYTNMb2FRdGgyUFQxNkJsaExGdklaTFhNdUtSQV9IcHFqdlZJTEVWS0N3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 26 Dec 2024 15:47:09 GMT",
+      "snippet": "InfinityGround Price | AIN Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "InfinityGround (AIN) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NNVhTQmlSYTlFV0JlYWMyMUFrMmd4Q0M2SHFKOGpyMlVucnQ0TFRmRUNqeF9yd0ppSng2aFFHTm5EbV9uQjdIOFpZZ1J6UHA3dUNF?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 21 Feb 2025 09:27:43 GMT",
+      "snippet": "InfinityGround (AIN) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Infinity Ground Price Today in India | AIN to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wdjdLalpFa3B1ZHJXeHRRcEVUYm1NclVYOXh5NUJ5N3NadlBvLS1ZWXhSem5fYlcwdjZTREk4ekhxOFBXU2hHX3lUZzMtclpldGNWNW56dVppNkZKQ212NQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 19 Jun 2026 03:36:00 GMT",
+      "snippet": "Infinity Ground Price Today in India | AIN to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "BNB Smart Chain Trading Competition: Trade M, IDOL, AIN, CROSS and ECHO to Share $3M Worth of Rewards - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2JMVGtUNk54b3k1MElsYU8xRTAtdTE1d1h4TUxGMERuMEdWZkZXSnMzMm5yNHZWTjhweG1WemtzYVV4Rnh0SVBpd1JWR2Z2bDZxZDFKVUJBWWtCek5pb0JhMHpxcVRDNGpQMy1JQ2cxU0JKSHY5NEttUTJTNVlmakt5RTZWWkFrdGNTeTVoREw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 10 Jul 2025 07:00:00 GMT",
+      "snippet": "BNB Smart Chain Trading Competition: Trade M, IDOL, AIN, CROSS and ECHO to Share $3M Worth of Rewards&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
