@@ -1,15 +1,115 @@
 {
-  "updatedAt": "2026-06-26T20:32:38.988Z",
+  "updatedAt": "2026-06-26T20:47:40.374Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "VelodromeV2",
+      "score": 35,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T20:47:14.116Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "FARTCOIN",
+      "requestedInput": "FARTCOIN",
+      "name": "Fartcoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T20:47:13.496Z",
+      "latestPath": "data/results/FARTCOIN-latest.json"
+    },
+    {
+      "token": "ZK",
+      "requestedInput": "ZK",
+      "name": "ZKsync",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T20:47:15.153Z",
+      "latestPath": "data/results/ZK-latest.json"
+    },
+    {
+      "token": "BAN",
+      "requestedInput": "BAN",
+      "name": "Ban",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T20:47:14.494Z",
+      "latestPath": "data/results/BAN-latest.json"
+    },
+    {
+      "token": "SYN",
+      "requestedInput": "SYN",
+      "name": "Synapse",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T20:47:24.660Z",
+      "latestPath": "data/results/SYN-latest.json"
+    },
+    {
+      "token": "MMT",
+      "requestedInput": "MMT",
+      "name": "MMT",
       "score": 30,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-26T20:32:22.624Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-26T20:47:30.078Z",
+      "latestPath": "data/results/MMT-latest.json"
+    },
+    {
+      "token": "AAVE",
+      "requestedInput": "AAVE",
+      "name": "Aave",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T20:47:29.867Z",
+      "latestPath": "data/results/AAVE-latest.json"
+    },
+    {
+      "token": "NATGAS",
+      "requestedInput": "NATGAS",
+      "name": "Natural Gas (Derivatives)",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T20:47:24.305Z",
+      "latestPath": "data/results/NATGAS-latest.json"
+    },
+    {
+      "token": "MAGM",
+      "requestedInput": "MAGMA",
+      "name": "MAGMA",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T20:47:31.338Z",
+      "latestPath": "data/results/MAGM-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T20:47:30.587Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "BLESS",
+      "requestedInput": "BLESS",
+      "name": "Bless",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T20:47:40.371Z",
+      "latestPath": "data/results/BLESS-latest.json"
     },
     {
       "token": "MOODENG",
@@ -100,26 +200,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T20:32:38.986Z",
       "latestPath": "data/results/XAN-latest.json"
-    },
-    {
-      "token": "MAGM",
-      "requestedInput": "MAGMA",
-      "name": "MAGMA",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:32:38.716Z",
-      "latestPath": "data/results/MAGM-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:32:38.828Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "AXS",
@@ -920,86 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T18:17:35.863Z",
       "latestPath": "data/results/MU-latest.json"
-    },
-    {
-      "token": "NMR",
-      "requestedInput": "NMR",
-      "name": "Numeraire",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T18:17:36.742Z",
-      "latestPath": "data/results/NMR-latest.json"
-    },
-    {
-      "token": "MANTA",
-      "requestedInput": "MANTA",
-      "name": "Manta",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T18:17:38.992Z",
-      "latestPath": "data/results/MANTA-latest.json"
-    },
-    {
-      "token": "AWE",
-      "requestedInput": "AWE",
-      "name": "AWE",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T18:02:07.738Z",
-      "latestPath": "data/results/AWE-latest.json"
-    },
-    {
-      "token": "DEXE",
-      "requestedInput": "DEXE",
-      "name": "DeXe",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T18:02:06.543Z",
-      "latestPath": "data/results/DEXE-latest.json"
-    },
-    {
-      "token": "ASTER",
-      "requestedInput": "ASTER",
-      "name": "Aster",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T18:02:07.760Z",
-      "latestPath": "data/results/ASTER-latest.json"
-    },
-    {
-      "token": "ID",
-      "requestedInput": "ID",
-      "name": "ID",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T18:02:14.382Z",
-      "latestPath": "data/results/ID-latest.json"
-    },
-    {
-      "token": "US",
-      "requestedInput": "US",
-      "name": "Talus Token",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T18:02:19.306Z",
-      "latestPath": "data/results/US-latest.json"
-    },
-    {
-      "token": "TRUST",
-      "requestedInput": "TRUST",
-      "name": "Intuition",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T18:02:19.426Z",
-      "latestPath": "data/results/TRUST-latest.json"
     }
   ]
 }

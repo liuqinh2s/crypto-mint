@@ -1,0 +1,314 @@
+{
+  "token": "ZK",
+  "requestedInput": "ZK",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T20:47:15.153Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ZK",
+    "name": "ZKsync",
+    "generatedAt": "2026-06-26T20:47:04.440Z",
+    "summary": "ZKsync代币近期因空投开启和Vitalik Buterin的正面评论而受到关注，但价格从高点大幅回落，且ZKsync Lite即将关闭带来利空。当前链上流动性极低，交易量仅约4美元，存在严重操纵风险。基本面尚可但估值偏高，建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性恢复正常且出现实质性利好（如生态增长、回购落地）"
+    },
+    "catalysts": [
+      "空投开启可能带来短期交易热度",
+      "Vitalik Buterin对ZK技术的正面评论",
+      "创始人提议代币回购计划"
+    ],
+    "latestNews": [
+      {
+        "title": "ZKSync Opens Airdrop Claims",
+        "impact": "利好",
+        "reason": "空投开启吸引用户关注，可能带来短期买盘"
+      },
+      {
+        "title": "ZK token under pressure as ZKsync announces closure of ZKsync Lite",
+        "impact": "利空",
+        "reason": "ZKsync Lite关闭表明项目方向调整，可能削弱生态信心"
+      },
+      {
+        "title": "ZKsync (ZK) Price Rockets 70% on Vitalik Buterin’s Praise: Why It Gave Back the Gains",
+        "impact": "中性",
+        "reason": "消息面刺激短暂，价格已回落，说明缺乏持续动力"
+      }
+    ],
+    "fundamentals": [
+      "ZKsync是以太坊Layer 2扩容方案，采用零知识证明技术",
+      "代币总供应量210亿，流通约99.8亿，流通率47.5%",
+      "完全稀释估值约2.18亿美元，当前市值1.04亿美元",
+      "项目获得Consensys、Blockchain Capital、OKX Ventures等投资"
+    ],
+    "marketRead": [
+      "链上交易对ZK/USDC在Meteora上流动性高达15亿美元，但24小时交易量仅约4美元，极不活跃",
+      "价格24小时下跌0.02%，7天下跌7%，30天下跌30%，处于下行趋势",
+      "ATH跌幅达96.76%，市场情绪偏空"
+    ],
+    "risks": [
+      "链上流动性虚高但实际交易量极低，存在价格操纵风险",
+      "空投抛压可能持续，代币解锁进度未知",
+      "ZKsync Lite关闭可能影响生态发展",
+      "市场整体情绪低迷，代币缺乏新叙事"
+    ],
+    "watchlist": [
+      "空投领取后的抛售情况",
+      "ZKsync Lite关闭的具体时间及影响",
+      "回购计划是否落地",
+      "链上交易量是否回升"
+    ],
+    "sourceNotes": [
+      "链上数据来自Meteora DEX，流动性数据可能包含LP代币，实际可交易深度存疑",
+      "新闻时间跨度较大，部分为旧闻，需注意时效性",
+      "空投开启新闻为2026年6月24日，相对最新"
+    ]
+  },
+  "profile": {
+    "id": "zksync",
+    "symbol": "ZK",
+    "name": "ZKsync",
+    "categories": [
+      "Smart Contract Platform",
+      "Ethereum Ecosystem",
+      "Layer 2 (L2)",
+      "Zero Knowledge (ZK)",
+      "ZkSync Ecosystem",
+      "Consensys Portfolio",
+      "Blockchain Capital Portfolio",
+      "OKX Ventures Portfolio",
+      "Privacy Blockchain",
+      "Privacy Infrastructure",
+      "Privacy"
+    ],
+    "homepage": [
+      "https://zksync.io/"
+    ],
+    "description": "",
+    "marketCapRank": 257,
+    "currentPriceUsd": 0.01038714,
+    "marketCapUsd": 103708209,
+    "fullyDilutedValuationUsd": 218140839,
+    "totalVolumeUsd": 12489160,
+    "priceChange24hPct": 2.49555,
+    "priceChange7dPct": -7.02884,
+    "priceChange14dPct": -9.29987,
+    "priceChange30dPct": -29.92943,
+    "athUsd": 0.320983,
+    "athChangePct": -96.76065,
+    "circulatingSupply": 9983790276,
+    "totalSupply": 21000000000,
+    "maxSupply": 21000000000,
+    "sentimentVotesUpPct": 60,
+    "watchlistUsers": 45335,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "ZK/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "HaNXksErj7Cd5ChN1kYt7cfZohwYJn9yqn2195m4NvAR",
+    "pairUrl": "https://dexscreener.com/solana/hanxkserj7cd5chn1kyt7cfzohwyjn9yqn2195m4nvar",
+    "lastPrice": 0.07157,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 1502034521.07,
+    "fullyDilutedValuationUsd": 1503034457,
+    "marketCapUsd": 1503034457,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/hanxkserj7cd5chn1kyt7cfzohwyjn9yqn2195m4nvar",
+    "pairAddress": "HaNXksErj7Cd5ChN1kYt7cfZohwYJn9yqn2195m4NvAR",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "7D5DWsqh9nHxKqDuBgNiHRtdhoaA4pMFTCf2KRsTeKUh",
+      "name": "ZKsync",
+      "symbol": "ZK"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.07157",
+    "priceUsd": "0.07157",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 1502034521.07,
+      "base": 20986029028,
+      "quote": 9.7315
+    },
+    "fdv": 1503034457,
+    "marketCap": 1503034457,
+    "pairCreatedAt": 1746769251000
+  },
+  "news": [
+    {
+      "title": "ZK token under pressure as ZKsync announces closure of ZKsync Lite - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGUyVmM3bmZ6MVFRMXRKUDRTWlFuVF96SWp6LTlWVmZhUDRlT0t4eTZKT1RKNFU1U1g4R2thaXA2dUdxZjhqMy15WXh2TU1jQVFNTkNJcG92YTRNZGN4SHJpeGZEQW5MMWpNSXduVWZnMFBkd1NuTE5ZbnhpTnFXejRoNWNKZ21VU0tnRU90UXRia0lfTWQ2ZUZRaVNQQzhDM2llWmRJQ0ZDd2lrN2lMMUtQLWRXR1pJOW1ZcmJNUXo?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "snippet": "ZK token under pressure as ZKsync announces closure of ZKsync Lite&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "ZKsync (ZK) Price Rockets 70% on Vitalik Buterin’s Praise: Why It Gave Back the Gains - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRk9tOXNiS0MxQ0Y2bS1fbEpuZndGSUZHLUZaQWkzbk1wNVVFaHR2OTlwMDZoOHd5Q1FIS3QzSmlES05KUHhYYW1UeFJwWWZKU2ZpMDdmaU92UVd2Mm95d2ZRc1JxaFBmMFlMemdvd1B4OG11X0otaWNySTNHNzA2d2lKUmdzUkFhTHRtRndLLTYzZ0tMeGc?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "snippet": "ZKsync (ZK) Price Rockets 70% on Vitalik Buterin’s Praise: Why It Gave Back the Gains&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "ZKsync Price Outlook: ChatGPT, Claude, and Grok Predict Short-Term Trend - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnlJRThjT2FESGJsX2tmRXRya0puLTYtLVU1bXRBbURmeEF5N0piYW1Zejc2QnVlQTltNjVFWDlnMUF6cUYyY09POVp5Z21QYkdjYXlzNzFtVUZkR1dWTHZGSTJ3TnFMRzdTbFpaZjRoeEotWTdGSEZZejVFV0NRZTI1RktNM0NYZGlLYUlDQllOY0tiaUZOWXhPRWVLZFhEWHJsaWpfYVVQcUU?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "snippet": "ZKsync Price Outlook: ChatGPT, Claude, and Grok Predict Short-Term Trend&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "ZKsync Lite to Shut Down in 2026 as Matter Labs Moves On - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbFAzWDBINzdiRW13MWJnVTY2U2JJTzhaMXEtNXlDV3ZLX1lmUjQ2NVd3TWNvU3ppcWU5Ukx4UzZaOTBnQjVMdm9IVWN3Z00xN29kcmM4Vi1nWkRrX2FaeGlqTERvSkhLc0pKeFJaM3J0Qm1oUXZwZWVUSUpKUUFGZ241RmZjTTl1UGw0WV9YMVRZUVlFbjdRN0JScFhvdw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "snippet": "ZKsync Lite to Shut Down in 2026 as Matter Labs Moves On&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "What Is ZKsync? The Zero-Knowledge Elastic Network - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qSkp0QUNTOTlORndUOHdqb2hrellIZWFPbjRmYVhVRU84UWFVbVRxZC02dHozVW9tX3VDdWMzOXpaenNWLWhVOW9nLWIwZ0NsbVJ0Y2ExRXViZw?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "snippet": "What Is ZKsync? The Zero-Knowledge Elastic Network&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "ZKsync Price Rises During the Crypto Crash: Here’s Why - BanklessTimes",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbXRhTzFoVExZNWxxUF9naWEzVnAtRUJHeVZvV2plZEhlUE5QZkszM28wZ3JJN1k0WGxyVERNb3otRzRVQ3VjRmZRVkt2UW9nQzJQYjRiUGhEc09ibG14R2wzMkoyX0V4N0NMbVdtVHZWVVJUQzBpNXV4WkcxeHkwcXAzcUlXRkYtd2h1TlFvQUh1Yml6R18wY1kyQ2ZnWmZYNU96RU9R?oc=5",
+      "source": "BanklessTimes",
+      "publishedAt": "Wed, 05 Nov 2025 08:00:00 GMT",
+      "snippet": "ZKsync Price Rises During the Crypto Crash: Here’s Why&nbsp;&nbsp;BanklessTimes"
+    },
+    {
+      "title": "Vitalik Buterin's Latest ZK-Focused Statement and What It Means for Layer 2 Scaling - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nVTVnUGJlTkFMQ3ljY19OenRoa0JJdUw4aHpMZnJVRzZrT0N2WjZ6U01RT1JNbURxbHJQRjBhMGNpNjVXYjZFdTQxQ2VnUTNTNm44ZFBDV0pTYVJMSHfSAWNBVV95cUxOSV9mZ1VCUGhtckxXOUlLT2l3VVdla05aQngyRGM2Z0hrYWx6MW9nbjlUcEI5QVVEWEdOTlFGMGV4VHJVME1COG1WZHQwVDN3M2s2WUc0S3JWM2FaSzNvdXplNXM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "Vitalik Buterin's Latest ZK-Focused Statement and What It Means for Layer 2 Scaling&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "ZK Token Buybacks: zkSync Founder Proposes a Strategic Move to Boost Value - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OYXdGT3YwUS1aUHQybFM2SVBHbnhmcE9MRlAxb0VWbmxDZnFCbThpY191b09EWXZqRXowZzdNdHd1MWhQc1NMRUVEMWloeDYwT1BVN0xSVzlBZmNKLVl3U0RaVENVMmUzQ0ZKNzlB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 05 Nov 2025 08:00:00 GMT",
+      "snippet": "ZK Token Buybacks: zkSync Founder Proposes a Strategic Move to Boost Value&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What Is ZKsync and How Does It Work? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa1g2Q3dJZ0RQdWZRLW52bUZQYW4xc3Q1ajBybVNjMGlFaFlaNm1ma1B5UzgwZGxkelpMeUk4SWhhR3R2ZzJyLU9seFNhXzI3NlVKcGd6Qk5WbVZjSXRnODJXMnE4MUtheVpyMUtwZUpjaV9uNWVTTXl3Y09Jd0tsNU1hUzFqQQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "snippet": "What Is ZKsync and How Does It Work?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "ZKsync price today, ZK to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RZTU0a1lLa20xTzlvQXVtMldDUkpGN0Ftbk1ZbWhTMWhJc0pHaVZ6MlNZOTBPcDVRMklYMzFqZzl1c3hfZHJKVFhWQThseEZhaERuMXJZMA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 27 Mar 2023 05:03:41 GMT",
+      "snippet": "ZKsync price today, ZK to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Understanding ZKsync: A Comprehensive Overview - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pVDhPbm1pTHhUZ3NHVlRjNXpfWXBTV1hVMENKSXBHTnlPRjBnU1B1Ty1EOVl5YkhfTm0xRldDYktKWGVveE9IZWJ4TjZKaTVyczhWeWxuVlRPZw?oc=5",
+      "source": "Messari",
+      "publishedAt": "Tue, 20 Aug 2024 07:00:00 GMT",
+      "snippet": "Understanding ZKsync: A Comprehensive Overview&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "ZKSync Opens Airdrop Claims | Cryptocurrency Trends - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EVHZEeEdXS3NyMUNJbEZkcDAyQ1BlQmdWWEFIMlRuQUJqWUFMYjQ3bEgxNjJ2ZEV2VGE0cUpjOUFiV3RmRzFjYVphSUxvUWtkbkZwUjNuVWNmS1lhaUVNVDdLcV82XzRONnJzMzI5OVU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 24 Jun 2026 00:36:08 GMT",
+      "snippet": "ZKSync Opens Airdrop Claims | Cryptocurrency Trends&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What Is ZKSync? The Ultimate Guide to the ZKSync Ecosystem - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1VieTZvWEFYaVBQeVdDQVAtQm5admt6S09qLWZveC1LVGw5THBtbjIwR1FyeU14cTRLTkhzYW1SRl9mWDZrTWtmeHFmbEt2eDhodThsZ3hxbkdWSm4telZmSnBBVDJUbENZOEdSaTRaRktHQjQwSW56UXFnMDM1SmwzdG9NRjBhaEMxNGlvREJWcFBuTlVUd0phTXV0WDMy?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 19 Sep 2023 22:24:08 GMT",
+      "snippet": "What Is ZKSync? The Ultimate Guide to the ZKSync Ecosystem&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "What ZKsync Is and How to Buy the ZK Token - Crypto.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDcHZleWlxQVE3dGU5VmpvS25lbnEtV2txS2JwczZ1cXVLOU4wZFQxTC1mSnA3ZkNIbkZlU0pUQzJnb19mRFFpMC02OWVmbkdqYnY2bW4tWWVVSHJER05nT1JSMDktNFJ0R3YtSXU5U3NGckU0WmZWamZqdw?oc=5",
+      "source": "Crypto.com",
+      "publishedAt": "Thu, 05 Sep 2024 07:00:00 GMT",
+      "snippet": "What ZKsync Is and How to Buy the ZK Token&nbsp;&nbsp;Crypto.com"
+    },
+    {
+      "title": "Everyone ready for the zkSync ($ZKS) crypto airdrop and for the incentives of its ecosystem - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiS3hMZVFaWElZTUk2dFVzTnc3QlBQaFJSX1RBTm82MjF0QjB5RWdYWXhtUDJ5UzhsMTg0WVVvR3BycGRST2tNaWt5VExTNkFoYnRsMkFjYXc1T2o4NlRYNzBn?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 01 Mar 2024 08:00:00 GMT",
+      "snippet": "Everyone ready for the zkSync ($ZKS) crypto airdrop and for the incentives of its ecosystem&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "From PENGU to zkSync: Pudgy Penguins’ Massive Airdrop Windfall Explained - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV09TLXNOQXRTTlZNc0lxZzZtUE1kNlNNeHE2TkVLaEtJVC1sWVh4cEpDdGZFS18zRHJiWFR0R2JvY2JPWkNycDQxWHZCUTNIMTJpcEx2RDRMQlRublpPWVBoczNqOEQ1OEhjd1k1UlFyb1JmRXpYM3owN2JwQXFqbEFXTlZtR2J4S3psTEEtVVhFWE5TaWRvVEc4NHc1MGlreDVmREtXcFN1LTJv?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sun, 16 Feb 2025 08:00:00 GMT",
+      "snippet": "From PENGU to zkSync: Pudgy Penguins’ Massive Airdrop Windfall Explained&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
