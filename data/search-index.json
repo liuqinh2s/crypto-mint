@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-06-26T22:17:14.803Z",
+  "updatedAt": "2026-06-26T22:32:25.670Z",
   "results": [
+    {
+      "token": "RAY",
+      "requestedInput": "RAY",
+      "name": "Raydium",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T22:32:10.472Z",
+      "latestPath": "data/results/RAY-latest.json"
+    },
+    {
+      "token": "ORCA",
+      "requestedInput": "ORCA",
+      "name": "Orca",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T22:32:11.025Z",
+      "latestPath": "data/results/ORCA-latest.json"
+    },
+    {
+      "token": "STABLE",
+      "requestedInput": "STABLE",
+      "name": "Stable",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:32:10.913Z",
+      "latestPath": "data/results/STABLE-latest.json"
+    },
+    {
+      "token": "Q",
+      "requestedInput": "Q",
+      "name": "Quack AI",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T22:32:08.992Z",
+      "latestPath": "data/results/Q-latest.json"
+    },
+    {
+      "token": "SNOW",
+      "requestedInput": "SNOW",
+      "name": "SNOW",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:32:16.513Z",
+      "latestPath": "data/results/SNOW-latest.json"
+    },
+    {
+      "token": "WET",
+      "requestedInput": "WET",
+      "name": "WET",
+      "score": 2,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:32:18.112Z",
+      "latestPath": "data/results/WET-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:32:17.172Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "AGLD",
+      "requestedInput": "AGLD",
+      "name": "Adventure Gold",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:32:16.235Z",
+      "latestPath": "data/results/AGLD-latest.json"
+    },
+    {
+      "token": "CLANKER",
+      "requestedInput": "CLANKER",
+      "name": "Clanker",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:32:25.667Z",
+      "latestPath": "data/results/CLANKER-latest.json"
+    },
     {
       "token": "ESP",
       "requestedInput": "ESP",
@@ -80,16 +170,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T22:17:12.716Z",
       "latestPath": "data/results/KAITO-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:17:08.889Z",
-      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "FOLKS",
@@ -920,86 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T20:02:24.273Z",
       "latestPath": "data/results/UNI-latest.json"
-    },
-    {
-      "token": "MEW",
-      "requestedInput": "MEW",
-      "name": "Mew",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:02:24.774Z",
-      "latestPath": "data/results/MEW-latest.json"
-    },
-    {
-      "token": "INX",
-      "requestedInput": "INX",
-      "name": "Infinex",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:02:23.759Z",
-      "latestPath": "data/results/INX-latest.json"
-    },
-    {
-      "token": "TIAN",
-      "requestedInput": "TIA",
-      "name": "TIA",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:46:57.973Z",
-      "latestPath": "data/results/TIAN-latest.json"
-    },
-    {
-      "token": "ARC",
-      "requestedInput": "ARC",
-      "name": "ARC",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:47:00.792Z",
-      "latestPath": "data/results/ARC-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "HYPE",
-      "name": "Hyperliquid",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-26T19:47:06.884Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "IN",
-      "requestedInput": "IN",
-      "name": "INFINIT",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:47:08.516Z",
-      "latestPath": "data/results/IN-latest.json"
-    },
-    {
-      "token": "GRASS",
-      "requestedInput": "GRASS",
-      "name": "Grass",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:47:05.752Z",
-      "latestPath": "data/results/GRASS-latest.json"
-    },
-    {
-      "token": "SOON",
-      "requestedInput": "SOON",
-      "name": "SOON",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T19:47:13.027Z",
-      "latestPath": "data/results/SOON-latest.json"
     }
   ]
 }
