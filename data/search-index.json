@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-06-26T11:32:22.378Z",
+  "updatedAt": "2026-06-26T11:47:15.253Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T11:47:13.133Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "G",
+      "requestedInput": "G",
+      "name": "Gravity (原Galxe) / G Coin (Playnance)",
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T11:32:18.712Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-26T11:47:14.975Z",
+      "latestPath": "data/results/G-latest.json"
+    },
+    {
+      "token": "VD",
+      "requestedInput": "INDA",
+      "name": "VinDax Coin",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T11:47:15.251Z",
+      "latestPath": "data/results/VD-latest.json"
     },
     {
       "token": "BAS",
@@ -20,16 +40,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T11:32:20.423Z",
       "latestPath": "data/results/BAS-latest.json"
-    },
-    {
-      "token": "VD",
-      "requestedInput": "INDA",
-      "name": "VinDax Coin",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T11:32:22.376Z",
-      "latestPath": "data/results/VD-latest.json"
     },
     {
       "token": "LUMIA",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-24T18:32:22.039Z",
       "latestPath": "data/results/USDC-latest.json"
-    },
-    {
-      "token": "BRKB",
-      "requestedInput": "BRKB",
-      "name": "Berkshire Hathaway Class B",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-24T16:47:32.049Z",
-      "latestPath": "data/results/BRKB-latest.json"
     }
   ]
 }
