@@ -1,0 +1,179 @@
+{
+  "token": "TIAN",
+  "requestedInput": "TIA",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T19:46:57.973Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TIAN",
+    "name": "TIA",
+    "generatedAt": "2026-06-26T19:46:51.478Z",
+    "summary": "TIAN是Arbitrum链上TraderJoe的MEME币，24小时涨幅13.31%，但流动性仅5567美元，成交量极低，无新闻催化，基本面薄弱，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性极低，任何买入都可能被操纵，无逻辑支撑"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "代币名TIA，但实际符号TIAN，易混淆",
+      "创建于2023-11-04，无官网或社交媒体",
+      "总供应量与市值相同，约4.9万美元，无锁仓信息",
+      "仅TraderJoe一个交易对，流动性极低"
+    ],
+    "marketRead": [
+      "24小时涨幅13.31%，但成交量仅186美元，流动性5567美元",
+      "价格容易被少量资金操纵，无实际买盘支撑",
+      "无历史价格数据，无法判断趋势"
+    ],
+    "risks": [
+      "流动性极低，滑点巨大，卖出可能无法成交",
+      "无项目方信息，合约未开源或未审计，存在Rug Pull风险",
+      "无新闻或社区热度，上涨无逻辑支撑",
+      "MEME币生命周期短，随时归零"
+    ],
+    "watchlist": [
+      "关注流动性是否增加",
+      "关注是否有官方公告或社交媒体出现"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他来源验证",
+      "新闻为空，无法获取外部信息"
+    ]
+  },
+  "profile": {
+    "id": "0xD56734d7f9979dD94FAE3d67C7e928234e71cD4C",
+    "symbol": "TIAN",
+    "name": "TIA",
+    "categories": [
+      "arbitrum",
+      "traderjoe"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on arbitrum / traderjoe. Pair URL: https://dexscreener.com/arbitrum/0x371ddfc191daaa45336f19cd4c5edf2c659074c4",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.3852,
+    "marketCapUsd": 49093,
+    "fullyDilutedValuationUsd": 49093,
+    "totalVolumeUsd": 186.74,
+    "priceChange24hPct": 13.31,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2023-11-04",
+    "chainId": "arbitrum",
+    "dexId": "traderjoe",
+    "pairAddress": "0x371DdfC191DAAA45336f19Cd4c5Edf2C659074c4",
+    "baseTokenAddress": "0xD56734d7f9979dD94FAE3d67C7e928234e71cD4C",
+    "quoteToken": {
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "liquidityUsd": 5567.11,
+    "pairUrl": "https://dexscreener.com/arbitrum/0x371ddfc191daaa45336f19cd4c5edf2c659074c4",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "traderjoe",
+    "pair": "TIA.n/WETH",
+    "chainId": "arbitrum",
+    "dexId": "traderjoe",
+    "pairAddress": "0x371DdfC191DAAA45336f19Cd4c5Edf2C659074c4",
+    "pairUrl": "https://dexscreener.com/arbitrum/0x371ddfc191daaa45336f19cd4c5edf2c659074c4",
+    "lastPrice": 0.3852,
+    "priceChange24hPct": 13.31,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 186.74,
+    "liquidityUsd": 5567.11,
+    "fullyDilutedValuationUsd": 49093,
+    "marketCapUsd": 49093,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "arbitrum",
+    "dexId": "traderjoe",
+    "url": "https://dexscreener.com/arbitrum/0x371ddfc191daaa45336f19cd4c5edf2c659074c4",
+    "pairAddress": "0x371DdfC191DAAA45336f19Cd4c5Edf2C659074c4",
+    "baseToken": {
+      "address": "0xD56734d7f9979dD94FAE3d67C7e928234e71cD4C",
+      "name": "TIA",
+      "symbol": "TIA.n"
+    },
+    "quoteToken": {
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.0002431",
+    "priceUsd": "0.3852",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 5,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 7,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 186.74,
+      "h6": 96.37,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": 7.65,
+      "h24": 13.31
+    },
+    "liquidity": {
+      "usd": 5567.11,
+      "base": 7225.5321,
+      "quote": 1.7569
+    },
+    "fdv": 49093,
+    "marketCap": 49093,
+    "pairCreatedAt": 1699077128000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/tia?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

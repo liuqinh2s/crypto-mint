@@ -1,0 +1,332 @@
+{
+  "token": "GOAT",
+  "requestedInput": "GOAT",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T19:47:17.208Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "GOAT",
+    "name": "GOAT",
+    "generatedAt": "2026-06-26T19:47:09.058Z",
+    "summary": "GOAT是XRP链上的低市值Meme币，24小时交易量仅1.79美元，流动性约5.8万美元，价格极低且无显著上涨动力。新闻多为过时或无关内容，Bithumb曾下架同类代币。基本面薄弱，风险极高，不建议买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Bithumb Delists Goatseus Maximus (GOAT): A Critical Blow to the Memecoin’s Exchange Future",
+        "impact": "利空",
+        "reason": "Bithumb下架同类代币，显示交易所对GOAT生态缺乏信心，可能影响市场情绪。"
+      },
+      {
+        "title": "Goatseus Maximus (GOAT) Price Prediction 2026, 2027-2030 - Coinpedia",
+        "impact": "中性",
+        "reason": "仅为价格预测文章，无实质利好。"
+      },
+      {
+        "title": "Goatcoin Price Today in India | GOAT to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "Binance上的是不同代币（Goatcoin），与当前GOAT无关。"
+      }
+    ],
+    "fundamentals": [
+      "XRP链上的Meme币，无实际用例。",
+      "市值约38.4万美元，流动性5.8万美元，深度极差。",
+      "24小时交易量仅1.79美元，几乎无交易活动。",
+      "代币供应量未知，存在增发风险。",
+      "项目官网简单，社交媒体关注度低。"
+    ],
+    "marketRead": [
+      "24小时价格下跌2.58%，无上涨迹象。",
+      "交易量极低，流动性差，大额交易易导致滑点。",
+      "无历史价格数据，无法判断趋势。"
+    ],
+    "risks": [
+      "流动性极低，卖出困难。",
+      "交易量近乎为零，市场无人问津。",
+      "Meme币无基本面支撑，价格易归零。",
+      "XRP链上代币，合约风险未知。",
+      "新闻中Bithumb下架同类代币，负面情绪。"
+    ],
+    "watchlist": [
+      "关注是否有新资金入场或交易量显著提升。",
+      "项目方是否发布实质性更新或合作。"
+    ],
+    "sourceNotes": [
+      "数据来源仅DexScreener，新闻多为其他同名代币或过时信息。",
+      "无CEX上市，仅DEX交易，信息透明度低。"
+    ]
+  },
+  "profile": {
+    "id": "474F415400000000000000000000000000000000.r96Ny5BTU3z4Aw4BfiMJ7RTgDa5iE17u9t",
+    "symbol": "GOAT",
+    "name": "GOAT",
+    "categories": [
+      "xrpl",
+      "xrpl"
+    ],
+    "homepage": [
+      "https://goatxrp.io/"
+    ],
+    "description": "DexScreener pair on xrpl / xrpl. Pair URL: https://dexscreener.com/xrpl/474f415400000000000000000000000000000000.r96ny5btu3z4aw4bfimj7rtgda5ie17u9t_xrp Socials: twitter: https://x.com/Goat_CoinXRP; telegram: https://t.me/Goat_CoinXRP",
+    "marketCapRank": null,
+    "currentPriceUsd": 3.84e-7,
+    "marketCapUsd": 384022,
+    "fullyDilutedValuationUsd": 384022,
+    "totalVolumeUsd": 1.79,
+    "priceChange24hPct": -2.58,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2023-05-24",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "474F415400000000000000000000000000000000.r96Ny5BTU3z4Aw4BfiMJ7RTgDa5iE17u9t_XRP",
+    "baseTokenAddress": "474F415400000000000000000000000000000000.r96Ny5BTU3z4Aw4BfiMJ7RTgDa5iE17u9t",
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "liquidityUsd": 58685.46,
+    "pairUrl": "https://dexscreener.com/xrpl/474f415400000000000000000000000000000000.r96ny5btu3z4aw4bfimj7rtgda5ie17u9t_xrp",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "xrpl",
+    "pair": "GOAT/XRP",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "474F415400000000000000000000000000000000.r96Ny5BTU3z4Aw4BfiMJ7RTgDa5iE17u9t_XRP",
+    "pairUrl": "https://dexscreener.com/xrpl/474f415400000000000000000000000000000000.r96ny5btu3z4aw4bfimj7rtgda5ie17u9t_xrp",
+    "lastPrice": 3.84e-7,
+    "priceChange24hPct": -2.58,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 1.79,
+    "liquidityUsd": 58685.46,
+    "fullyDilutedValuationUsd": 384022,
+    "marketCapUsd": 384022,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "url": "https://dexscreener.com/xrpl/474f415400000000000000000000000000000000.r96ny5btu3z4aw4bfimj7rtgda5ie17u9t_xrp",
+    "pairAddress": "474F415400000000000000000000000000000000.r96Ny5BTU3z4Aw4BfiMJ7RTgDa5iE17u9t_XRP",
+    "baseToken": {
+      "address": "474F415400000000000000000000000000000000.r96Ny5BTU3z4Aw4BfiMJ7RTgDa5iE17u9t",
+      "name": "GOAT",
+      "symbol": "GOAT"
+    },
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "priceNative": "0.0000003772",
+    "priceUsd": "0.0000003840",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 8,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 1.79,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -2.58
+    },
+    "liquidity": {
+      "usd": 58685.46,
+      "base": 76408759293,
+      "quote": 28826
+    },
+    "fdv": 384022,
+    "marketCap": 384022,
+    "pairCreatedAt": 1684953531000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/86db2add041f94699931d7d0a845da3c7f154f5ef8e55027c475c0beaa459731?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/e081a28fde1957e1148ff82b2d587eb0fafd6c178697b6f38eacae828b6c352b?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/xrpl/474f415400000000000000000000000000000000.r96ny5btu3z4aw4bfimj7rtgda5ie17u9t?timestamp=1782503100000",
+      "websites": [
+        {
+          "url": "https://goatxrp.io/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/Goat_CoinXRP",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/Goat_CoinXRP",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Goatseus Maximus (GOAT) Price Prediction 2026, 2027-2030 - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY3lqbHVGTzJZeGZ2dThySlpfN0QzTmkzV085ZFhzSVdDbEd2R3pwVk1UcWx5Nm1hUE5QdnI1TUxkWXM5R28xcld6VlE5OHZvM3JpV1JucHFHUmhjN2VJampOR2V4WU9rOEs5WGpHS0JaVHNuMW56akRKRlRRalhsSVI5TmfSAYoBQVVfeXFMTlVOT2FZUHl1dURLT3pwZEZxWEwzRE5tbEc0dXU3YXdaTWt5c05CQXZITklNbXBaZlVaa2RVQzBlQ28td2FMVDBZakFfWjlPc2FlRzBZT1hNVi1FaUhqT0FnR3dpdWNaa2E3VE8wcHhsMm5YMEVCN1RTSU4yZ3VBamRqR1VCSkQ5VWlR?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "Goatseus Maximus (GOAT) Price Prediction 2026, 2027-2030&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Bithumb Delists Goatseus Maximus (GOAT): A Critical Blow to the Memecoin’s Exchange Future - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFFYRUpWZjNxNm5oVFFMYUV3QTVWSGlnbnpQaEJjWDRCT0hnbnBaNjkwZ3l6RzFydkxKOFhmQkZyYTV0UWh2YVVZYWxvejVXcXRORXg0Y1RJRXdfWDdCWGVCS1o5WXZqTGxPbEttQUwtcWw5cEp1a0g1QkxERFU5eg?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 13 Mar 2026 08:46:25 GMT",
+      "snippet": "Bithumb Delists Goatseus Maximus (GOAT): A Critical Blow to the Memecoin’s Exchange Future&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "BNB GOAT Price: BGOAT/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xckJGMmxDbmVKMzV4SHdjSWxYS2NWLV9hTG5fa1dWR24tUGdyM284RGY1dUd1S09XRmUtYmR2cEl2Zjdsd3JlR0ZJNlVLNVJFX2dpemlR?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 15 Sep 2025 15:20:11 GMT",
+      "snippet": "BNB GOAT Price: BGOAT/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Goatcoin Price Today in India | GOAT to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EbTdMa245VlJfb2VCQUpEV2otZ3NOUHJ0TGJfR1RQN2oxVnZGdUplLTd0cEk1dFdEdFZmbzZ6NnIyUlkwOUw3ZjRiSHc5RVF4cXhNNllIaw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 20 Jun 2026 10:54:00 GMT",
+      "snippet": "Goatcoin Price Today in India | GOAT to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "GOAT Network Price: GOATED/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BamZrbk5JSnVKNThNVzZoTnplNURYLVBsODhGdHdhakpjV1NDcGJBMVlIbERQRVNVdkpua1oxTDdfRTdfMm1HYWJobkUwcDlOcC1OOFJvV2ZSTFU?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Sat, 27 Sep 2025 07:00:00 GMT",
+      "snippet": "GOAT Network Price: GOATED/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Goatseus Maximus price today, GOAT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnSTBYNno5ZmFzYi0wSlU5WFotVFRYdlJLazlXOUpQdURrOXozMW93enhNakVUYVVPTGVqNG1Lel9JWmVpZ2ttTnhhM1l1R1ltM3F2VEVCMk9CMGFJYzJXUko5Z04?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 14 Oct 2024 10:35:25 GMT",
+      "snippet": "Goatseus Maximus price today, GOAT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Goatseus Maximus Price Prediction 2025: Memecoin Mania to Drive GOAT Higher - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMEo5ZDEzc2NXbFZmYU9UVDM3aTI2U0MtOFd2dHFERVlNNzRINWdyNEdPTmVDMWw5d3A3VkctWmd2QzNlaEh3ZkROajI1a1lKN2VTb1pRTTBXUnFsd25XdnAzYUJiam1faXVlcnJEXy1hRHBReFR6d0JJbVlCa1J5Qg?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Mon, 12 May 2025 07:00:00 GMT",
+      "snippet": "Goatseus Maximus Price Prediction 2025: Memecoin Mania to Drive GOAT Higher&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Sonic Goat (SGOAT) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YS3NHaG9sTkN0cmFJbm9LaW8xcXZpbU1aUHdMaFlQT1I4c09QaTZSaXRHMURlaFVuWGhLZDhUaW9SQzNwRUl3cEJkMGZkMWhKa2syWDdqOC1DYjRlWnpZSG90ZktYUkRHZExLZXJWOA?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Tue, 26 Nov 2024 11:11:17 GMT",
+      "snippet": "Sonic Goat (SGOAT) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "How do I purchase GOAT in Palau: Step-by-Step Step Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnBBcGNNRFpmQ1NiQVFqVUREb1BTcWdPX3RzemVVd3VjVHNqbTNsUGRhVmdmS3M3UGwweGUzUUctM1l6QV80c2VCVFBxMzhvNHZQVFBzSHlBOEdJRmtwNUdVaklrTFhwbE9rV2JFbGYtNXRvQURqZkpuenQweEdkdWpmb004RGs?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sat, 20 Jun 2026 08:22:01 GMT",
+      "snippet": "How do I purchase GOAT in Palau: Step-by-Step Step Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Beginner's Guide to purchaseing GOAT: Everything You Need to Know in 2026 — Vital Guidance - اداره آمادگی مبارزه با حوادث",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXhwR2NHa1plWThlQkM4cm1kNzJiM1hOU0ZFekREMGd6QWplSEswQ3p5cFg2MnZUWERNSkNkX2ZxaEFDX01hSGhxSUVCWWE5WGhaXzY4M1l0d0xFTURZNTNUOVBZZ3p4R3NnMGtNaWxxV1NJMjVMcVZPdXVUc1NsZ0N2OEFuR1BCN3NxY3BDckFSN0RTcU0tTkJLNDEtVlVXX0k3ejJPN1ZGLWYwLTE2bzAwaHYtdw?oc=5",
+      "source": "اداره آمادگی مبارزه با حوادث",
+      "publishedAt": "Tue, 09 Jun 2026 16:58:47 GMT",
+      "snippet": "Beginner's Guide to purchaseing GOAT: Everything You Need to Know in 2026 — Vital Guidance&nbsp;&nbsp;اداره آمادگی مبارزه با حوادث"
+    },
+    {
+      "title": "How to buy GOAT Without Verification: What to Know First - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0RZdTRRRTkxVE5xaDNVaWpNR2VxYzEtLVRfRFBZNTNSSXdGR0xCR0pqM1dPeXdIaUh4SFNVdl9aVUhOTE5CUkRtNklnT2tRdDFqbXF6clNYdF9BUTQxaU56em9xeWllVHlNSGRTNEc4cU9Mam9lU2dZUi1sOFZydWl1MlpNd00?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Thu, 18 Jun 2026 12:09:46 GMT",
+      "snippet": "How to buy GOAT Without Verification: What to Know First&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "How to easily buy GOAT on App: Mobile Manual - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80VmhpdGRHMnZVZnNQZFRMVUdfSGFmSV82MFJ6azl1dDJiSXd0d0JPb0ZoTGxta0ZFY1ZpNmdpeXVCdXJlRHlYQ1ZianBQN0hZakl6WUo5Z0QwczlNV011d3VaRnV4aVRXNXBqRWJEZnh3TTR4Q3kw?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Thu, 11 Jun 2026 07:09:40 GMT",
+      "snippet": "How to easily buy GOAT on App: Mobile Manual&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Exploring GOAT Network - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BOFlpVXpjQ1FOUkZ0N29wVHYwOFQxNlIyX3RMN2FRSDMxbWZLRkROTGhFbEdSSU5FclJNTUQ2Q01RcjJIZTJCbnk2cTRkeUxGY0pTclZBN0FfUHFQcjZDdFc5eUxiSlpQamRV?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Wed, 09 Apr 2025 07:00:00 GMT",
+      "snippet": "Exploring GOAT Network&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "How to buy GOAT Reliable: A Novice Primer - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YOWZRU0Uyek9YamFlUXNSR3FmOVRFanpnTkNDSFFVRERUMVdoNlBRVGNjcENVdHRBZXloa2pYWWREcHNQdUR3UVNnaWxybGV0MVNCOEs0MFYyWkhBRnNaYmhHcmdzZTBFcTBkZmo5TXpCb2M5RXJMak5scw?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Wed, 10 Jun 2026 05:06:13 GMT",
+      "snippet": "How to buy GOAT Reliable: A Novice Primer&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Metis co-founder's ZKM plans to launch Bitcoin Layer 2 GOAT Network - The Block",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3AxbUlBSkt2OEUzdlU4eC1CV3pIdk91M0UtaHlJTHpTTXJLUnFkNWFVdlZFRUpSdUh2N3plN2dNaGFvV1VueDBKcjNJRGpSNHZsZVZpTlF6M011QXFuc3Vpb1dsdVpKUVhrYXdoNmxTdGY5NW12eUh5WFBlM1B6TjBIeWd1bXJxUlpoc253?oc=5",
+      "source": "The Block",
+      "publishedAt": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "snippet": "Metis co-founder's ZKM plans to launch Bitcoin Layer 2 GOAT Network&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Binance Celebrates ‘The GOAT’ with New Cristiano Ronaldo NFT Collection - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnowUFY3Vkd2dHpZbHprNE9pX2lxdjFsVkNWVjhVeFVVdVV5NTRuOE9aamhaTERRd1V1Wi1UNmpXdmZic0Q5VzFPQ0l1d0l3d1BCOEQ1Y0FZREdoaVVtVUUtMXlhUU80Uk9zMmU3Ri1UUkUtV1JxeS01NXlCdlR1OXZ3UlpuR1RkZzdHTzhrQk02R2hYR3R6a0dOUdIBowFBVV95cUxNYXJSTHdiR1Q0YkR6aHNlLWtfdVY4MWoyWFJhZTBTTk4tUDJKc2t3ZjNRV1JnNEdjMG9KcFhRY1RwbUdOUFRjLUNCdHkwT1pLNS1iTU1neDltUnM3Q0xWQmdlUnA1cXRTaXpLODVPbHhmVElLRU90V2QwalpEbXlxcmNfS0cwVWJLN29oZ21VeU93LWJ2dFVqQjBtZllEVTBjYzFJ?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Thu, 22 Jun 2023 07:00:00 GMT",
+      "snippet": "Binance Celebrates ‘The GOAT’ with New Cristiano Ronaldo NFT Collection&nbsp;&nbsp;Decrypt"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/goatseus-maximus?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}
