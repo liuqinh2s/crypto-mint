@@ -1,0 +1,329 @@
+{
+  "token": "SYRUP",
+  "requestedInput": "SYRUP",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T18:47:36.364Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SYRUP",
+    "name": "SYRUP",
+    "generatedAt": "2026-06-26T18:47:29.058Z",
+    "summary": "SYRUP是Maple Finance的治理代币，近期因Robinhood上线、代币回购等利好上涨，但当前链上交易对流动性极低（30美元），市值仅236美元，存在极高风险。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性提升至安全水平（如>10万美元）且基本面改善"
+    },
+    "catalysts": [
+      "Robinhood上线SYRUP现货交易（2025年12月）",
+      "Maple Finance宣布200万枚SYRUP回购（2025年12月）",
+      "SyrupUSDC扩展至更多链（2026年2月）"
+    ],
+    "latestNews": [
+      {
+        "title": "Top crypto price predictions: Maple (SYRUP), Tezoz (XTZ), Pepe Coin",
+        "impact": "中性",
+        "reason": "仅为价格预测，无实质利好"
+      },
+      {
+        "title": "SYRUP Jumps 16% After Maple Reveals 2M Token Buyback",
+        "impact": "利好",
+        "reason": "回购减少流通供应，短期提振价格"
+      },
+      {
+        "title": "Unlock New Opportunities: Robinhood Spot Trading Now Features XCN and SYRUP Tokens",
+        "impact": "利好",
+        "reason": "中心化交易所上线增加流动性和曝光"
+      },
+      {
+        "title": "Maple Finance Price Prediction: Will SYRUP Coin Reach $1?",
+        "impact": "中性",
+        "reason": "预测性内容，无实际影响"
+      },
+      {
+        "title": "Maple’s SYRUP Stakers Vote to End Staking Rewards, Launch DAO Treasury",
+        "impact": "中性",
+        "reason": "治理变更，长期影响待观察"
+      },
+      {
+        "title": "Urgent Alert: Coinbase Ends MPL Support – Migrate to SYRUP Now to Avoid Asset Loss!",
+        "impact": "利好",
+        "reason": "代币迁移可能增加SYRUP需求"
+      }
+    ],
+    "fundamentals": [
+      "Maple Finance是去中心化信贷市场，SYRUP为治理代币",
+      "代币总供应量1亿枚，当前流通量未知",
+      "项目已从MPL迁移至SYRUP",
+      "市值仅236美元，FDV相同，极低"
+    ],
+    "marketRead": [
+      "当前价格0.000002361美元，24小时无交易量数据",
+      "流动性仅30.28美元，极易被操纵",
+      "24小时交易量2.07美元，几乎无真实交易",
+      "无历史K线，无法判断趋势"
+    ],
+    "risks": [
+      "流动性极低（30美元），滑点巨大，无法正常交易",
+      "市值仅236美元，高度投机，可能归零",
+      "链为XRPL，非主流链，生态较小",
+      "无可靠价格数据，24小时涨跌幅缺失",
+      "新闻利好多为旧闻（2025年），当前无新催化"
+    ],
+    "watchlist": [
+      "流动性是否增加至安全水平",
+      "是否有新的中心化交易所上线",
+      "Maple Finance协议实际使用数据",
+      "代币迁移完成后的供应变化"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，流动性极低，价格不可靠",
+      "新闻时间跨度大（2024-2026），最新新闻为2026年2月",
+      "无CoinMarketCap或CoinGecko等主流数据源验证"
+    ]
+  },
+  "profile": {
+    "id": "5359525550000000000000000000000000000000.rhJJSHA5jpARLqLfbapC38HBYx82Q1fTPu",
+    "symbol": "SYRUP",
+    "name": "SYRUP",
+    "categories": [
+      "xrpl",
+      "xrpl"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on xrpl / xrpl. Pair URL: https://dexscreener.com/xrpl/5359525550000000000000000000000000000000.rhjjsha5jparlqlfbapc38hbyx82q1ftpu_xrp",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.000002361,
+    "marketCapUsd": 236,
+    "fullyDilutedValuationUsd": 236,
+    "totalVolumeUsd": 2.07,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-08-23",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "5359525550000000000000000000000000000000.rhJJSHA5jpARLqLfbapC38HBYx82Q1fTPu_XRP",
+    "baseTokenAddress": "5359525550000000000000000000000000000000.rhJJSHA5jpARLqLfbapC38HBYx82Q1fTPu",
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "liquidityUsd": 30.28,
+    "pairUrl": "https://dexscreener.com/xrpl/5359525550000000000000000000000000000000.rhjjsha5jparlqlfbapc38hbyx82q1ftpu_xrp",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "xrpl",
+    "pair": "SYRUP/XRP",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "5359525550000000000000000000000000000000.rhJJSHA5jpARLqLfbapC38HBYx82Q1fTPu_XRP",
+    "pairUrl": "https://dexscreener.com/xrpl/5359525550000000000000000000000000000000.rhjjsha5jparlqlfbapc38hbyx82q1ftpu_xrp",
+    "lastPrice": 0.000002361,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 2.07,
+    "liquidityUsd": 30.28,
+    "fullyDilutedValuationUsd": 236,
+    "marketCapUsd": 236,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "url": "https://dexscreener.com/xrpl/5359525550000000000000000000000000000000.rhjjsha5jparlqlfbapc38hbyx82q1ftpu_xrp",
+    "pairAddress": "5359525550000000000000000000000000000000.rhJJSHA5jpARLqLfbapC38HBYx82Q1fTPu_XRP",
+    "baseToken": {
+      "address": "5359525550000000000000000000000000000000.rhJJSHA5jpARLqLfbapC38HBYx82Q1fTPu",
+      "name": "SYRUP",
+      "symbol": "SYRUP"
+    },
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "priceNative": "0.000002278",
+    "priceUsd": "0.000002361",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 2.07,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 30.28,
+      "base": 6412732,
+      "quote": 14.6136
+    },
+    "fdv": 236,
+    "marketCap": 236,
+    "pairCreatedAt": 1755910750000
+  },
+  "news": [
+    {
+      "title": "Top crypto price predictions: Maple (SYRUP), Tezoz (XTZ), Pepe Coin - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlZLX0JjakUtLWVxYnE2Q0dmT210UVU0cWJXWUJGcFBxYWpTYUZfdDZwZDNxbjhzcmlnNGVTTi1jdzZuMXVJS0JWYjNKMnRDLU5tUzFHVmdVZmp2WEdvYkp3WERNc1E0aUM2UzgyMGtURnZTWHRwNU9IY2lPZUZnX2hGdTRxa010YktTaEczVXoxX2xoTF96dndCeHdSR0doVG4tbHhUZzVTY01YRWVORzVmTHllUzk5?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 09 Jan 2026 08:00:00 GMT",
+      "snippet": "Top crypto price predictions: Maple (SYRUP), Tezoz (XTZ), Pepe Coin&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "SYRUP Jumps 16% After Maple Reveals 2M Token Buyback - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EdTMwYU8tcUs3UDItOEd4VUJHV3lQLS1LVl9xTnpxTHNyMElDMkpQdjNTVk0yMHRyYTRTdjFXNlBSdUR2MlVSbzN4QVJjdXZCbEVYemtvS0lVUlQwMWo2ZUI0QXZxRWxkZnYxelhYRWZYWjl0UHpWUmV3?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Fri, 05 Dec 2025 08:00:00 GMT",
+      "snippet": "SYRUP Jumps 16% After Maple Reveals 2M Token Buyback&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Unlock New Opportunities: Robinhood Spot Trading Now Features XCN and SYRUP Tokens - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yOWJKYVNzMURDRlVta053SXpabXlSWlJEOVlNTFpaV2hZeEt5Qm43ZUZIa096WW5iUE9MOGRRdE0zcFhNUkl4MHBxRXFVQ1dvT3BUVlBnTk1rUnpvRkwzV1lzSWpKZy1aazRkUkJuU1ZOdG05MXVkV2xn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "snippet": "Unlock New Opportunities: Robinhood Spot Trading Now Features XCN and SYRUP Tokens&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Maple Finance Price Prediction: Will SYRUP Coin Reach $1? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkV6d1R3aXJiLW9xZ21Xclk2UWx1Wk1iX3Ria1Fud2Y1Z3cyVEJmNmRReWtJT3c3cTl6TzlsYVE5dl9UWW5xWlV4NVptMWhGN0RFSm5hM2Y3dVpsNDhWeGtwZTZheEkxd2dmcjVzNWNQUmNZUHBOMUxxRjNweE9XbU9RMDM2T2tz?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Mon, 07 Jul 2025 07:00:00 GMT",
+      "snippet": "Maple Finance Price Prediction: Will SYRUP Coin Reach $1?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Maple Price, SYRUP to USD, Research, News & Fundraising - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9lZ0Q4LVB0OTNuUW9oZUo3T3NqcnFybGQxajBQSzZRYk5IcmcxOUFqVGV6cmVSX2o3LTI1UkM5X1NXZGlaNFhZ?oc=5",
+      "source": "Messari",
+      "publishedAt": "Thu, 07 Nov 2024 05:54:20 GMT",
+      "snippet": "Maple Price, SYRUP to USD, Research, News & Fundraising&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "Maple’s SYRUP Stakers Vote to End Staking Rewards, Launch DAO Treasury - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODFvSjU3eWlqblFQVldaUkgwMXo0THZ5MXJhdFd3Rm9IWDNPMVdYR05PaXVnR0VNc1NwUzI4TXlZcXNqd0RmR3B6cmFPM05ibVliMW9IZFRXZ1BIUml5MTZMX0FqU0RJUS1QdldZQjIweHQ2YkNzVU1HOWtNalZRRzkzUjk3SE11czlES2dXM1VUM1g2eC0tY1dXcTZURnNyZVFzRVdB?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Fri, 31 Oct 2025 07:00:00 GMT",
+      "snippet": "Maple’s SYRUP Stakers Vote to End Staking Rewards, Launch DAO Treasury&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Maple Finance (SYRUP) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2alZpYTBCSFV3OFQtQlJWWnJVaDk4aGxBNnpMSTBJblhQY0EyUzdUNVBWTjhZdGJBbF9xajNLMzEyTENsUFh0cjVXdzNtcGRVcVFyenJOYWJScWQ5UHdfVDBxN0hlUkVOMzZ3TGhzMnhNMGM?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Sun, 12 Jan 2025 18:47:59 GMT",
+      "snippet": "Maple Finance (SYRUP) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Maple Finance Explained: What Is SYRUP and How to Trade It on Phemex - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfR3p1WnJPWnIwTHRRUkFjMS1CMnJyNk9oNWYwbng3cEtmSEoxLTY3UFlzaXdscTFaZ0tfeHpoaGJWeEltMHhma1FLSWJraFpwRldPbzliOENURXp5ZnBZcDVnMlBoOXEzZTQ0?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Sun, 22 Jun 2025 07:00:00 GMT",
+      "snippet": "Maple Finance Explained: What Is SYRUP and How to Trade It on Phemex&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Maple Finance price today, SYRUP to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1WjJwSUFyMUh4NEktOUNrTjNXVFFsMHp6dHdyZkI1MEpUemZndFMzNDdFb1dVTUYxVWtiTVM3WVBzdHBXdHA0X1V5QmZsUkJNT2VjbkthcDQzZHl2Um1jNw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 06 Nov 2024 06:27:09 GMT",
+      "snippet": "Maple Finance price today, SYRUP to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Maple Finance (SYRUP) Price Prediction 2025, 2026-2030: Will SYRUP Soar to New H - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2k0RGhraHhfZzViTmZpay16aEg4b2tSOExvQjdmUkJJeUJQUXg1d18wS2hXbkJIR2ZMQklSdVU4UFd6cF90b2pWbm1rbEdKSS1SaERGekVidUZuenpXd2ZJNkxLMXF3SDZYWG4zMEVDUHU0NGhXajJ6MFJZVzN5eTdhXzZFZF92a0HSAY8BQVVfeXFMUHFLVFg2ZUFaWXlJVUtKMGdvZlI4TnRrNC04RlEwX1liUi02QS1NOG5PbXBTbXpsOFhfWG5VZW1YTGY3QkJxS3JvVHQ2T0s1NUlMVFo4Vmh1a0diZG9md2otWlV2ckRudUZNQktyMEhLTC03R2JsVU1aU0dFSGFkQXVyQnBHcUd6MnRWV2dnRlU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 07 May 2025 07:00:00 GMT",
+      "snippet": "Maple Finance (SYRUP) Price Prediction 2025, 2026-2030: Will SYRUP Soar to New H&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What Is Maple Finance (SYRUP)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wLVhfY2ktbXo3Vm43WGhxVmVzUmxYN1JQOU5CNTBwX0ZWaWlHTGlxOEhVZk9yNXBnalhSTGR5RXFMMk9MTUtyYU5TZ1pCU28wNHhPMnJvODAyRU9TRmlPSTFUN1d6aFJjeVNxOExTNkNWR3FVbnBIWnpvdw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "snippet": "What Is Maple Finance (SYRUP)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "SYRUP Price Prediction 2025-35: Will It Hit $40 by 2035? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEb3I0U3RuSTlWcVI2UVRqYlp1UHlMZno0Mlk4S19Eb1FRamxzOW9sT0t0TmJyZ2Zic3RsOGZ0WS1XbFdxUzlOblFzNEZMcC1CeGoxOWpQTXJVei1HR3fSAWNBVV95cUxPWHZ4NTh4UTViN0I3S1VFR1hpTW4wd3RjRTFBT3FmOU5HQmJqb3pKNHpLMDNiMFlWVGNBT0FPWC1ZUFdjVjFmOGtqejBOeEkwM0hXa1d1OHRhQk1mNmp2VDUzYU0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 05 Jun 2025 07:00:00 GMT",
+      "snippet": "SYRUP Price Prediction 2025-35: Will It Hit $40 by 2035?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What is Maple Finance (SYRUP)? A Comprehensive Guide - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Y2F0MEkyaEVnejhhLVFCelNYcERTcjJrMWdDbWxTcjB4bkczUFVVZlhxVkNjZzZEX2hhX21YcUhYTnRpczc2ZHo5X2tUQUw2THBKOVJ4S3E5b0tWQV9Ga3JhVm42Y3Z2WlHSAW9BVV95cUxQSm9SREN5em9ub1FnaDVqMWhCRlRGRXYxYko3UDFkZ01PQTJfaWVkSUJGY3dPZHhwc2VacmJzVndWSy16bXpNNDNVbFBoT0p5Sl9FYi1seV9TT3NYSklNNVN0U3FDUkl3dmpKRDR6NTg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 07 May 2025 07:00:00 GMT",
+      "snippet": "What is Maple Finance (SYRUP)? A Comprehensive Guide&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Maple Finance Price USD, SYRUP Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Bbl9iMEpabkYzYTlfZFQxcTBGRlBBRkRua0MzS0Zsc0tkT09XMzVTUnc0QThEbjU4anhUZGE5Z044d2I0bHl0SExxYTdfVGdvLWsydw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 06 May 2025 14:39:31 GMT",
+      "snippet": "Maple Finance Price USD, SYRUP Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Is SyrupUSDC’s expansion a sign of DeFi’s credit market evolution? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KUWlqR0RrckkydlcxdV8yZVhDM0hNeUNCa0w5M1BJeGZFeHhZZWpQOUV4a1J1VFM1TXg4bXNOUlNhaTJsWlI2dlo5NC1BM203b0syc1YyaFBuLUowMlHSAWNBVV95cUxNTGpNeHByQ09OR1pBY3c0ZjFYQ2tpa0M4aDdSWFhpbUwxQzBPS0JZTGk4VnB0LTZVVVgwSV91Rlk2bW5rWmtDM0lkT0d6X3pPbWtXUEl3b1JWbVpOVHFBalMxakk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 09 Feb 2026 08:00:00 GMT",
+      "snippet": "Is SyrupUSDC’s expansion a sign of DeFi’s credit market evolution?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Urgent Alert: Coinbase Ends MPL Support – Migrate to SYRUP Now to Avoid Asset Loss! - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxak9LdFc3WkpvRWJ5UFpSempiYzJmUERZMGgzMzhNZU1hcnlPS096YmtITUdNdlJLUF9wdjJsRzNnN2UyanlTdndhUHM5TVY0NXd6VGs0bG5BbWFMRGfSAWNBVV95cUxQX3AwUGhQZkxUODNfM3doei1PQWdOWk5MN281MDZwaGdycjlCX0hWRkRKeG5kMzRzclJBYnB0cVQ1RnRUQklCR054RVdaRnAtdkpyNFlLREdyY2h1dVVzVUh1Tjg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 28 Mar 2025 07:00:00 GMT",
+      "snippet": "Urgent Alert: Coinbase Ends MPL Support – Migrate to SYRUP Now to Avoid Asset Loss!&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/syrup?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

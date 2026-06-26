@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T18:32:45.615Z",
+  "updatedAt": "2026-06-26T18:47:36.741Z",
   "results": [
     {
       "token": "TAC",
@@ -8,28 +8,138 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-26T18:32:25.192Z",
+      "generatedAt": "2026-06-26T18:47:12.077Z",
       "latestPath": "data/results/TAC-latest.json"
     },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 35,
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T18:32:23.429Z",
+      "generatedAt": "2026-06-26T18:47:12.707Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "DYDX",
       "requestedInput": "DYDX",
       "name": "dYdX",
-      "score": 35,
+      "score": 40,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T18:32:26.383Z",
+      "generatedAt": "2026-06-26T18:47:14.788Z",
       "latestPath": "data/results/DYDX-latest.json"
+    },
+    {
+      "token": "COHR",
+      "requestedInput": "COHR",
+      "name": "Coherent Corp",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-26T18:47:12.692Z",
+      "latestPath": "data/results/COHR-latest.json"
+    },
+    {
+      "token": "G",
+      "requestedInput": "G",
+      "name": "Gravity (原Galxe) / G Coin (Playnance)",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T18:47:23.673Z",
+      "latestPath": "data/results/G-latest.json"
+    },
+    {
+      "token": "MET",
+      "requestedInput": "MET",
+      "name": "Meteora",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "观察",
+      "generatedAt": "2026-06-26T18:47:20.908Z",
+      "latestPath": "data/results/MET-latest.json"
+    },
+    {
+      "token": "POPCAT",
+      "requestedInput": "POPCAT",
+      "name": "Popcat",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T18:47:23.540Z",
+      "latestPath": "data/results/POPCAT-latest.json"
+    },
+    {
+      "token": "ICNT",
+      "requestedInput": "ICNT",
+      "name": "ICNT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T18:47:22.354Z",
+      "latestPath": "data/results/ICNT-latest.json"
+    },
+    {
+      "token": "LUMIA",
+      "requestedInput": "LUMIA",
+      "name": "Lumia",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T18:47:28.185Z",
+      "latestPath": "data/results/LUMIA-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T18:47:28.658Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "MAGM",
+      "requestedInput": "MAGMA",
+      "name": "MAGMA",
+      "score": 2,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T18:47:28.563Z",
+      "latestPath": "data/results/MAGM-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T18:47:28.904Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "USDC",
+      "requestedInput": "USDC",
+      "name": "USDC",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T18:47:36.739Z",
+      "latestPath": "data/results/USDC-latest.json"
+    },
+    {
+      "token": "SYRUP",
+      "requestedInput": "SYRUP",
+      "name": "SYRUP",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T18:47:36.364Z",
+      "latestPath": "data/results/SYRUP-latest.json"
     },
     {
       "token": "COHRON",
@@ -40,86 +150,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T18:32:23.114Z",
       "latestPath": "data/results/COHRON-latest.json"
-    },
-    {
-      "token": "G",
-      "requestedInput": "G",
-      "name": "Gravity (原Galxe)",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T18:32:32.160Z",
-      "latestPath": "data/results/G-latest.json"
-    },
-    {
-      "token": "MET",
-      "requestedInput": "MET",
-      "name": "Meteora",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T18:32:30.606Z",
-      "latestPath": "data/results/MET-latest.json"
-    },
-    {
-      "token": "POPCAT",
-      "requestedInput": "POPCAT",
-      "name": "Popcat",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T18:32:36.383Z",
-      "latestPath": "data/results/POPCAT-latest.json"
-    },
-    {
-      "token": "LUMIA",
-      "requestedInput": "LUMIA",
-      "name": "Lumia",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T18:32:31.814Z",
-      "latestPath": "data/results/LUMIA-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T18:32:37.249Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
-      "token": "MAGM",
-      "requestedInput": "MAGMA",
-      "name": "MAGMA",
-      "score": 2,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T18:32:37.508Z",
-      "latestPath": "data/results/MAGM-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T18:32:38.068Z",
-      "latestPath": "data/results/MEMES-latest.json"
-    },
-    {
-      "token": "USDC",
-      "requestedInput": "USDC",
-      "name": "USDC",
-      "score": 10,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T18:32:45.613Z",
-      "latestPath": "data/results/USDC-latest.json"
     },
     {
       "token": "TNSR",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T16:47:19.232Z",
       "latestPath": "data/results/TUT-latest.json"
-    },
-    {
-      "token": "SKHYNIX",
-      "requestedInput": "SKHYNIX",
-      "name": "SK Hynix",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T16:47:21.446Z",
-      "latestPath": "data/results/SKHYNIX-latest.json"
-    },
-    {
-      "token": "ACX",
-      "requestedInput": "ACX",
-      "name": "Across Protocol",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T16:47:28.082Z",
-      "latestPath": "data/results/ACX-latest.json"
-    },
-    {
-      "token": "EIGEN",
-      "requestedInput": "EIGEN",
-      "name": "Eigen",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T16:47:31.088Z",
-      "latestPath": "data/results/EIGEN-latest.json"
     }
   ]
 }
