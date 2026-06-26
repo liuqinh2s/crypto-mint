@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-06-26T14:47:24.641Z",
+  "updatedAt": "2026-06-26T15:02:14.233Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T15:02:08.332Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "STABLE",
+      "requestedInput": "STABLE",
+      "name": "Stable",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T15:02:10.867Z",
+      "latestPath": "data/results/STABLE-latest.json"
+    },
+    {
+      "token": "LAYER",
+      "requestedInput": "TRUST",
+      "name": "TRUST",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T15:02:12.884Z",
+      "latestPath": "data/results/LAYER-latest.json"
+    },
+    {
+      "token": "SKYAI",
+      "requestedInput": "SKYAI",
+      "name": "SKYAI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T15:02:14.122Z",
+      "latestPath": "data/results/SKYAI-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T15:02:14.232Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
     {
       "token": "RDDT.D",
       "requestedInput": "RDDT",
@@ -10,16 +60,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T14:47:13.421Z",
       "latestPath": "data/results/RDDT.D-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T14:47:15.178Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "RPL",
@@ -60,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T14:47:24.639Z",
       "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T14:47:21.414Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "RAY",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T08:47:11.590Z",
       "latestPath": "data/results/UNI-latest.json"
-    },
-    {
-      "token": "IN",
-      "requestedInput": "IN",
-      "name": "INFINIT",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T08:47:12.527Z",
-      "latestPath": "data/results/IN-latest.json"
-    },
-    {
-      "token": "GRASS",
-      "requestedInput": "GRASS",
-      "name": "Grass",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T08:47:18.720Z",
-      "latestPath": "data/results/GRASS-latest.json"
-    },
-    {
-      "token": "SOON",
-      "requestedInput": "SOON",
-      "name": "SOON",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-26T08:47:19.125Z",
-      "latestPath": "data/results/SOON-latest.json"
     }
   ]
 }
