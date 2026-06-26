@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-06-26T15:02:14.233Z",
+  "updatedAt": "2026-06-26T15:17:15.155Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
+      "name": "VelodromeV2",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T15:17:05.964Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "IN",
+      "requestedInput": "IN",
+      "name": "INFINIT",
+      "score": 20,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T15:17:08.159Z",
+      "latestPath": "data/results/IN-latest.json"
+    },
+    {
+      "token": "GRASS",
+      "requestedInput": "GRASS",
+      "name": "Grass",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T15:17:07.377Z",
+      "latestPath": "data/results/GRASS-latest.json"
+    },
+    {
+      "token": "SOON",
+      "requestedInput": "SOON",
+      "name": "SOON",
       "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T15:02:08.332Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-26T15:17:07.329Z",
+      "latestPath": "data/results/SOON-latest.json"
+    },
+    {
+      "token": "TRUST",
+      "requestedInput": "TRUST",
+      "name": "Intuition",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T15:17:14.284Z",
+      "latestPath": "data/results/TRUST-latest.json"
+    },
+    {
+      "token": "SNOW",
+      "requestedInput": "SNOW",
+      "name": "Snowman",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T15:17:15.153Z",
+      "latestPath": "data/results/SNOW-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T15:17:12.919Z",
+      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "STABLE",
@@ -40,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T15:02:14.122Z",
       "latestPath": "data/results/SKYAI-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T15:02:14.232Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "RDDT.D",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T08:46:52.433Z",
       "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "USELESS",
-      "requestedInput": "USELESS",
-      "name": "USELESS",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:02.200Z",
-      "latestPath": "data/results/USELESS-latest.json"
-    },
-    {
-      "token": "OP",
-      "requestedInput": "OP",
-      "name": "OP",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:03.810Z",
-      "latestPath": "data/results/OP-latest.json"
-    },
-    {
-      "token": "MASK",
-      "requestedInput": "MASK",
-      "name": "MASK",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:08.990Z",
-      "latestPath": "data/results/MASK-latest.json"
-    },
-    {
-      "token": "GRIFFAIN",
-      "requestedInput": "GRIFFAIN",
-      "name": "GRIFFAIN",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T08:47:09.445Z",
-      "latestPath": "data/results/GRIFFAIN-latest.json"
-    },
-    {
-      "token": "UNI",
-      "requestedInput": "UNI",
-      "name": "Uniswap",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T08:47:11.590Z",
-      "latestPath": "data/results/UNI-latest.json"
     }
   ]
 }

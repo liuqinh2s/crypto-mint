@@ -1,0 +1,210 @@
+{
+  "token": "SNOW",
+  "requestedInput": "SNOW",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T15:17:15.153Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SNOW",
+    "name": "Snowman",
+    "generatedAt": "2026-06-26T15:17:07.992Z",
+    "summary": "SNOW是Ice Meme Launchpad生态的核心代币，近期价格小幅上涨但流动性极低（仅288美元），24小时交易量仅1.24美元，市场深度极差。项目基本面薄弱，属于高风险meme币，无实际用例，且存在大量未解锁供应（流通量为0）。新闻面缺乏近期利好，仅有一条2026年2月的旧闻。不建议买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性极低，任何买入都可能造成价格剧烈波动，且无基本面支撑，逻辑已失效。"
+    },
+    "catalysts": [
+      "无明确近期催化剂"
+    ],
+    "latestNews": [
+      {
+        "title": "Snowman Price Today: €0.000000 (+7.42%) | Buy SNOW - LCX Exchange",
+        "impact": "中性",
+        "reason": "旧闻（2026年2月），仅反映历史价格变动，无新信息。"
+      }
+    ],
+    "fundamentals": [
+      "SNOW是Ice Meme Launchpad的生态代币，用于新meme币的发行和流动性配对。",
+      "总供应量888,888,888,888,888，流通量为0，全部未解锁。",
+      "项目官网为ice.io，但无明确路线图或团队信息。",
+      "市值约488万美元，但流动性仅288美元，严重不匹配。"
+    ],
+    "marketRead": [
+      "24小时价格微跌0.85%，但交易量仅1.24美元，流动性288美元，市场深度极差。",
+      "DEX上仅有一个交易对（SNOW/WBNB），且流动性池可能被锁定101年，但实际可交易量极小。",
+      "价格容易被少量资金操纵，不具备参考意义。"
+    ],
+    "risks": [
+      "流动性极低，滑点极高，买入后难以卖出。",
+      "流通量为0，存在大量未解锁代币，未来解锁可能造成抛压。",
+      "项目为meme币，无实际价值支撑，依赖社区热度，但当前热度极低。",
+      "合约风险：未开源或未审计，存在rug pull风险。",
+      "新闻面陈旧，缺乏近期催化。"
+    ],
+    "watchlist": [
+      "流动性是否增加（如超过1万美元）。",
+      "是否有新meme币发行带动SNOW需求。",
+      "团队是否公布解锁计划或路线图。"
+    ],
+    "sourceNotes": [
+      "数据来自CoinMarketCap和DexScreener，但流动性数据可能不完整。",
+      "新闻来源多为聚合网站，部分内容可能不相关（如SnowSwap）。",
+      "由于流通量为0，市值和FDV数据可能存在矛盾。"
+    ]
+  },
+  "profile": {
+    "id": "snowman",
+    "symbol": "SNOW",
+    "name": "Snowman",
+    "categories": [
+      "Layer 1 (L1)"
+    ],
+    "homepage": [
+      "https://ice.site.strattic.io/snowman",
+      "https://ice.io"
+    ],
+    "description": "👉 Snowman: The Heartbeat of Ice Meme Launchpad From its inception, Snowman Meme Coin was envisioned to be more than just a token; it was destined to be the cornerstone of the Ice Meme Launchpad. We embarked on this journey with a vision but were unprepared for the extraordinary saga Snowman would unfold. Now, Snowman is more than just a part of the Ice Meme Launchpad; it's its essence. Reflecting our initial aspirations, Snowman has become the compass guiding our journey through the ever-evolving meme coin realm, showcasing the limitless possibilities within this vibrant crypto universe. As we forge ahead, we invite you to be part of this historic venture, crafting the future of meme coins, just as we imagined from the start. 👉 Meme Coins Launch Structure Every launch in our ecosystem is structured to foster sustainability and growth. Each involves two liquidity pools: one pairing SNOW (Snowman) and the other Ethereum (ETH) with the new meme coin. The 50% ETH – NEW_MEME and 50% SNOW – NEW_MEME allocation creates a balanced platform suitable for both seasoned and new traders. A key element of our strategy is the 101-year lock on both liquidity pools, ensuring long-term ecosystem s",
+    "marketCapRank": null,
+    "currentPriceUsd": 4.8513e-11,
+    "marketCapUsd": 0,
+    "fullyDilutedValuationUsd": 43122,
+    "totalVolumeUsd": 510.11,
+    "priceChange24hPct": 2.34323,
+    "priceChange7dPct": -20.0113,
+    "priceChange14dPct": -20.95703,
+    "priceChange30dPct": -50.41369,
+    "athUsd": 6.039e-9,
+    "athChangePct": -99.20264,
+    "circulatingSupply": 0,
+    "totalSupply": 888888888888888,
+    "maxSupply": 888888888888888,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 1561,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "SNOW/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xb144b16D986B8285f51b65f72963D2A9CD30bf8E",
+    "pairUrl": "https://dexscreener.com/bsc/0xb144b16d986b8285f51b65f72963d2a9cd30bf8e",
+    "lastPrice": 0.04888,
+    "priceChange24hPct": -0.85,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 1.24,
+    "liquidityUsd": 288.2,
+    "fullyDilutedValuationUsd": 4888215,
+    "marketCapUsd": 4888215,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0xb144b16d986b8285f51b65f72963d2a9cd30bf8e",
+    "pairAddress": "0xb144b16D986B8285f51b65f72963D2A9CD30bf8E",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0xC6cE7532D5048808ea3F0adF2c1EED8bC596f04a",
+      "name": "SNOW",
+      "symbol": "SNOW"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.00008800",
+    "priceUsd": "0.04888",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 2,
+        "sells": 5
+      }
+    },
+    "volume": {
+      "h24": 1.24,
+      "h6": 0.28,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -1.97,
+      "h24": -0.85
+    },
+    "liquidity": {
+      "usd": 288.2,
+      "base": 2947.9604,
+      "quote": 0.2594
+    },
+    "fdv": 4888215,
+    "marketCap": 4888215,
+    "pairCreatedAt": 1668099314000
+  },
+  "news": [
+    {
+      "title": "Snowman Price, SNOW Price, Live Charts, and Marketcap: snowman coin, snowman coin price - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MSzBncG9XYzJxQ3MxaUQxTWRyQkV1d1daeHFrYzJzckpmM3BERnZKWVJIVzVhUGdoa2M0MjYwRV9OZHBsZW5ScW9iT3l2dE5pa2pETjEtOA?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Tue, 22 Apr 2025 00:58:26 GMT",
+      "snippet": "Snowman Price, SNOW Price, Live Charts, and Marketcap: snowman coin, snowman coin price&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Snowman (SNOW) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XTVNOX1dPbFVUYzl5Y01YYU1xRHhBSElmbmNGZEtIXzFZSDJ4YThONnl3TUFQdnNLbm9vOE0yeG5NbEFoNWZ2UDh4empfNzl5Mlc1SGhnSTNTV21mTFcwdHk3ZzkwRDhXT3c?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Tue, 26 Nov 2024 10:53:55 GMT",
+      "snippet": "Snowman (SNOW) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Snowman Price Today: €0.000000 (+7.42%) | Buy SNOW - LCX Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzN1dFanY0X1dYRXR3dEVxYnotM2I1bVVyUE1xdUVPYjczblRUUEFRcEJBNS1jTFVFOXh0XzhoZHB3QUZ2UEJV?oc=5",
+      "source": "LCX Exchange",
+      "publishedAt": "Sun, 22 Feb 2026 21:57:24 GMT",
+      "snippet": "Snowman Price Today: €0.000000 (+7.42%) | Buy SNOW&nbsp;&nbsp;LCX Exchange"
+    },
+    {
+      "title": "SnowSwap price today, SNOW to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03alpXUVFyY0R5M2tNeFF6S1FvM01CelF3WWFISE11YThwUmNQUjdSX1VweEZmLTc5SlpBczNCSlktUkJSaWxldEhRVU1HTWoyLVUway0xTU5Odw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sat, 10 Oct 2020 06:16:31 GMT",
+      "snippet": "SnowSwap price today, SNOW to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
