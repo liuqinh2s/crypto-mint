@@ -1,0 +1,317 @@
+{
+  "token": "HYPER",
+  "requestedInput": "HYPER",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T13:32:11.483Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "HYPER",
+    "name": "Hyperlane",
+    "generatedAt": "2026-06-26T13:32:00.950Z",
+    "summary": "HYPER在Solana链上Raydium DEX交易活跃，24小时涨幅7.36%，流动性高达1.2亿美元，但链上价格（0.006069美元）远低于中心化交易所价格（0.07795美元），存在显著价差。项目为跨链通信基础设施，基本面扎实，但近期无重大利好催化，新闻多为旧闻或无关内容。当前上涨可能由DEX流动性集中或短期资金推动，持续性存疑。估值方面，FDV约1.27亿美元（DEX）或6300万美元（CEX），处于中等水平。建议观望，等待价差收敛或明确催化。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若DEX价格跌破0.005美元或CEX价格跌破0.07美元，则上涨逻辑失效；若价差持续扩大，表明市场割裂，风险加剧。"
+    },
+    "catalysts": [
+      "DEX流动性高（1.2亿美元）可能吸引交易者",
+      "跨链赛道叙事热度",
+      "潜在CEX/DEX价差套利机会"
+    ],
+    "latestNews": [
+      {
+        "title": "Hyperlane Price Prediction: Is HYPER Coin a Good Investment? - StealthEX",
+        "impact": "中性",
+        "reason": "仅为价格预测文章，无实质新信息"
+      },
+      {
+        "title": "What Is Hyperlane (HYPER)? - Binance",
+        "impact": "利好",
+        "reason": "Binance官方介绍文章，提升项目知名度"
+      },
+      {
+        "title": "Hyperlane Crypto Skyrockets 150% After Listing on Upbit! - Pintu",
+        "impact": "中性",
+        "reason": "旧闻（2025年7月），已反映在价格中"
+      }
+    ],
+    "fundamentals": [
+      "Hyperlane是开源、无需许可的跨链通信协议，连接170+区块链，支持5+虚拟机",
+      "定位为去中心化基础设施层，未来可能发展为全球价值转移网络",
+      "代币总供应量10亿，流通量3.38亿，流通率33.8%",
+      "项目获得Binance HODLer空投、Binance Wallet IDO等支持"
+    ],
+    "marketRead": [
+      "DEX（Raydium）上HYPER/SOL交易对24小时涨幅7.36%，但成交量显示为0，可能数据延迟或异常",
+      "DEX流动性高达1.2亿美元，但价格（0.006069美元）与CEX价格（0.07795美元）相差约12倍，存在巨大价差",
+      "CEX上价格24小时涨4.29%，7日跌3%，30日跌17.76%，处于下跌趋势中",
+      "DEX价格近期可能因流动性集中或操纵而异常，需警惕"
+    ],
+    "risks": [
+      "DEX与CEX价格严重脱节，可能存在数据错误或市场操纵",
+      "新闻多为旧闻或无关内容，缺乏近期实质性利好",
+      "代币解锁风险：总供应量10亿，流通仅3.38亿，未来解锁可能带来抛压",
+      "跨链赛道竞争激烈，项目长期价值不确定",
+      "DEX成交量显示为0，流动性真实性存疑"
+    ],
+    "watchlist": [
+      "DEX与CEX价差是否收敛",
+      "是否有新的CEX上线或合作公告",
+      "代币解锁时间表",
+      "跨链赛道整体市场情绪"
+    ],
+    "sourceNotes": [
+      "DEX数据来自Raydium，但成交量显示为0，可能数据不完整",
+      "CEX数据来自CoinMarketCap，价格与DEX差异巨大，需交叉验证",
+      "新闻来源多为预测类或旧闻，时效性不足"
+    ]
+  },
+  "profile": {
+    "id": "hyperlane",
+    "symbol": "HYPER",
+    "name": "Hyperlane",
+    "categories": [
+      "Infrastructure",
+      "BNB Chain Ecosystem",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Optimism Ecosystem",
+      "Interoperability",
+      "Base Ecosystem",
+      "Cross-chain Communication",
+      "Binance HODLer Airdrops",
+      "Binance Wallet IDO",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://hyperlane.xyz/",
+      "https://www.hyperlane.foundation/"
+    ],
+    "description": "Hyperlane is an open-source, permissionless framework for blockchain interoperability. Today, it connects over 170 blockchains and supports 5+ virtual machines, powering hundreds of interchain applications on a daily basis—from asset bridges and cross-chain governance to emerging DeFi use cases. But beyond its current role as an interchain messaging protocol, we see Hyperlane evolving into a global network for transferring value—a decentralized infrastructure layer that would serve as the technical backbone of a modern digital payment network.",
+    "marketCapRank": 673,
+    "currentPriceUsd": 0.07795,
+    "marketCapUsd": 26370466,
+    "fullyDilutedValuationUsd": 62955033,
+    "totalVolumeUsd": 60961323,
+    "priceChange24hPct": 0.0429,
+    "priceChange7dPct": -3.02141,
+    "priceChange14dPct": 8.81367,
+    "priceChange30dPct": -17.75712,
+    "athUsd": 0.664052,
+    "athChangePct": -88.28252,
+    "circulatingSupply": 338174017,
+    "totalSupply": 807333335.0000001,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 5472,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "HYPER/SOL",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "A5gnuYD8FEHU1V3SJADvcJAbvS2kdSBapkyaCsAgTB4e",
+    "pairUrl": "https://dexscreener.com/solana/a5gnuyd8fehu1v3sjadvcjabvs2kdsbapkyacsagtb4e",
+    "lastPrice": 0.006069,
+    "priceChange24hPct": 7.36,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 120961435.34,
+    "fullyDilutedValuationUsd": 127449094,
+    "marketCapUsd": 127449094,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/a5gnuyd8fehu1v3sjadvcjabvs2kdsbapkyacsagtb4e",
+    "pairAddress": "A5gnuYD8FEHU1V3SJADvcJAbvS2kdSBapkyaCsAgTB4e",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "GFqEsMpmjnf4GEsaH6EPfpCDLhbVUUuqcdRmdNY6Q43G",
+      "name": "Bitcoin Hyper",
+      "symbol": "HYPER"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.00008595",
+    "priceUsd": "0.006069",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 12,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": 7.36
+    },
+    "liquidity": {
+      "usd": 120961435.34,
+      "base": 19931008934,
+      "quote": 0.7542
+    },
+    "fdv": 127449094,
+    "marketCap": 127449094,
+    "pairCreatedAt": 1752678457000
+  },
+  "news": [
+    {
+      "title": "Hyperlane Price Prediction: Is HYPER Coin a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVTEtbHdDbjBNQ2VwQzFVV3lQdVhQREhsSU5BSmhPelN4TkktSmZDWXcwRU1SbnVxaGhOTlhXNE9od0VVYUxZOENLTUQ1MXZucVdEbThTb1FLU25wYnlnRjIyZkZLMUVFNFdyMnMyNl81YUN4VUVNdFZTQllOSFNlYnNSNS15ZUx4MFBjR2dn?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Thu, 07 Aug 2025 07:00:00 GMT",
+      "snippet": "Hyperlane Price Prediction: Is HYPER Coin a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Crypto News: Pepeto Sells Fast While BlockDAG Delays and Bitcoin Hyper Misses - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13R3FyNFd3QjYwcXhLRzdCRklfWjFEY2NWZllsdzZNY3lsRlZBSWdTYlBWWVRFYjdWWDBiQTlwb0NEWXhmaXJV?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "snippet": "Crypto News: Pepeto Sells Fast While BlockDAG Delays and Bitcoin Hyper Misses&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Hyperlane (HYPER) Price Prediction 2025, 2026, 2027–2030 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yQnlSYTBHSlZ4Um55b0E0ZmFJeW9ScEhsdDRKSFpGaDJad2N6ekQyTkM0WXF4dGl4OUZMZkQwdkRKZ3BRTDJmYUV0dlJDMjFwbTlyaVowLTUwU2MzR29ZWDFwTTY2TXhYQ2JyYnpPSzBoZnhlRlhUY2tn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 11 Jul 2025 07:00:00 GMT",
+      "snippet": "Hyperlane (HYPER) Price Prediction 2025, 2026, 2027–2030&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Hyperlane price today, HYPER to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lTmJ6eTlIb05mR2FUZnJRVG9Pc1BYcGZnUTVNUk03QXFGUjh3ZHh1TS1RZV9rUU9mUl9vTFR3NDMyS2tXZDAxNzNtZ0psb19qZ0E0U0NLX2JpZTQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 22 Apr 2025 07:00:00 GMT",
+      "snippet": "Hyperlane price today, HYPER to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Hyperlane Price Today | HYPER to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hNXBvdjNHem1NQU9hY1E0R3hMdjdCTzMtN1lXdUpnc2Q5enRUcWtfSjk2U2hGNjcxbjZ2NXhmY2hQYjhZOUxpbXNpbWpJbUVwNnhLNA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 22 Apr 2025 08:04:15 GMT",
+      "snippet": "Hyperlane Price Today | HYPER to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Hyperlane Crypto Skyrockets 150% After Listing on Upbit! - Pintu",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaWpPZ1FUa3BQS0FzTmJUMDdCYXBIcVVuYzlyN0ZMRXYxcVRrZXFDWjNfYkRoa3N5emFYVTJmaWZaSUVuWl95WnpnaGRhbmFsZHRfdWxTODhaSGRGOVpGZXo0ZnhIV0twaDM2Skd2SE1MTWF2MEt1VEZnY0Y2M18tSmxDc05ZaTFqaFNFUFF5czJ4QVXSAZgBQVVfeXFMUEdEb0I3N2lIWmN5MW5heWNGTmpYVE1LQ2U1QU8wOGtBZnlzRFJ5ckFROUtQdDRkckllNVdCV094Z0xNeVhUZnVQYm5oS0lYUldoYjdjY202U05RQnF4UnQ3d3pVbEZLclZTdjBEZ2FiWXJQU2hMOWtwXzd6UTFIN0pVN0VmX3hhR3J4OFQ5ZzhKNnlMd2pzd1M?oc=5",
+      "source": "Pintu",
+      "publishedAt": "Fri, 11 Jul 2025 07:00:00 GMT",
+      "snippet": "Hyperlane Crypto Skyrockets 150% After Listing on Upbit!&nbsp;&nbsp;Pintu"
+    },
+    {
+      "title": "Hyperlane price today, HYPER to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yVG5wVms4bURSUGM1R1ZlQ3pGZ0tjcTdRZE82NWVpTWtrUW9wRC03dTlFUDlmeUdLS1RCLUdzSHVIb0RTWjdfZ3Z6Um4?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 25 Nov 2024 01:41:45 GMT",
+      "snippet": "Hyperlane price today, HYPER to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Hyperlane (HYPER) Price Prediction 2026–2030 - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DRXg3NUI0NUU0Y3YtakZ0S1JSUmcydHQwUXNjbjhiMk9WcFBudW9PMVlXdkRzTU5lMTdFNXd5UThxN2U2ZThFMXRyV2xLWVhpN0VJT0RqSzhoVWRJXzZSWg?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "snippet": "Hyperlane (HYPER) Price Prediction 2026–2030&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Bitcoin Hyper Delays Frustrate Investors as Pepeto Targets 100x With Working Exchange - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE41VWhtMnJDZ3FCR2VFVlZUcDNVS0xWM1VpeENuSkZVaUZqVGhveFU1TmZDLU5MX2EwSzlqQ0hkdF9YakhpbzR3?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "Bitcoin Hyper Delays Frustrate Investors as Pepeto Targets 100x With Working Exchange&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Bitcoin Hyper Launch Date as ETF Outflows Spark High-Upside Hunt and DeepSnitch AI Pulls in Almost $1 Million - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hVmoyZndRZy1uNG1VQ3JBOU1ZSjFrTU0tWTJPRmlHeXplZXV3eTQ2OTZ2aE00MG9oSEozX2sxTWZndloxZ0E?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Mon, 29 Dec 2025 08:00:00 GMT",
+      "snippet": "Bitcoin Hyper Launch Date as ETF Outflows Spark High-Upside Hunt and DeepSnitch AI Pulls in Almost $1 Million&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "How to sell Bitcoin Hyper (HYPER) via a crypto wallet - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SWjFiTGptV1FxM1JLLWJFb0VxelMzUU8xYnZ1WHhZTF8xT0NUbUZNWkVPaFQ3R1BQUDVTYVFaSVMySW90SXB4S0ZudjlRZDVORWUyaDQ3Rzc3TDlGWDJUMW9VMzVXUQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 22 Aug 2025 12:24:12 GMT",
+      "snippet": "How to sell Bitcoin Hyper (HYPER) via a crypto wallet&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bitcoin Hyper Launch Date as Crenshaw’s Exit Speech Intensifies Crypto Debate, DeepSnitch AI Pumps 81% - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwbGlJUFhFamRKNHAxQVc4UEZwZ3dJSVluck9Ja1ZVNkdxeDFYNFdHTThKbnlnRmVKMGFxNzRQX0o0NVlwdnc?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "Bitcoin Hyper Launch Date as Crenshaw’s Exit Speech Intensifies Crypto Debate, DeepSnitch AI Pumps 81%&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "What Is Hyperlane (HYPER)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51SVB0d0hXUHZmTEd4VmowQl9NU3pWWC1zUVhCSzBKU0VWWlAxakVCUE00QWFBS0xva2ZFTDFmd3Y5X2pTNGE2U0RrSEljTGlWYWFNTVlpdVB4WXRxVmVQc2RtRGlNOW0yWEVYTldFbnJqRTZ3Q1E?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "snippet": "What Is Hyperlane (HYPER)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Bitcoin Hyper ($HYPER) Price Prediction 2026-2030: Can it Hit $1? - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TNWl6cjV6a2xVYnk0OEpKOWdGRzcyTEJRZUxxQnVIUGk3ckZSRnplTldDVTU1aUVndmxHTWJUUEZNN2FjR0YyYnRKZlN4YkE2RGxmN01DMzZKMVZjUmdCQ0VwTV9GRTgtTFE1UGZ2UVdHbnN0LUJjNDlXal8?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Mon, 05 Jan 2026 08:00:00 GMT",
+      "snippet": "Bitcoin Hyper ($HYPER) Price Prediction 2026-2030: Can it Hit $1?&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "What Is Hyperlane and How to Qualify for the Airdrop - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZXc0Nk56QzA4dzEwUmZIYTcxbE9COGJQRTNlZEFTZGFVdEhuMUNjOHRVelJ2Vks0emlFajd5QUFlUklPNlE4NkZYWkRtRXdHTnFJYjc3NXIwUUVlRGIzaXNBSkZPTjNJLVV0czNUNHFZS1lES0hydFYyUjJDOFUwejRoRm5CNGdEQWJ3WQ?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 04 Apr 2025 07:00:00 GMT",
+      "snippet": "What Is Hyperlane and How to Qualify for the Airdrop&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "MEXC announces listing of Hyperlane (HYPER) with a 165,000 HYPER and 50,000 USDT prize pool - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xZkFWemxlNXNGZ194UkJGaVk3eV84NzJkZFkwdjZLdXVCQ0NOaEpUcEpkc1J1VnpPUm50NDlyUlA2cGQyS3FHT21HZGM1LXRXR2hIaVlHYVVDTm9uQjB1bXFkZFlMb1U?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Mon, 21 Apr 2025 07:00:00 GMT",
+      "snippet": "MEXC announces listing of Hyperlane (HYPER) with a 165,000 HYPER and 50,000 USDT prize pool&nbsp;&nbsp;Crypto Briefing"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

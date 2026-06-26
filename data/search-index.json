@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-06-26T13:16:55.817Z",
+  "updatedAt": "2026-06-26T13:32:11.485Z",
   "results": [
+    {
+      "token": "APE",
+      "requestedInput": "APE",
+      "name": "ape",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T13:32:07.032Z",
+      "latestPath": "data/results/APE-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
+      "name": "VelodromeV2",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T13:32:07.257Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "HYPER",
+      "requestedInput": "HYPER",
+      "name": "Hyperlane",
+      "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T13:16:54.214Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-26T13:32:11.483Z",
+      "latestPath": "data/results/HYPER-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T13:32:06.080Z",
+      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "HUMA",
@@ -70,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T12:47:22.539Z",
       "latestPath": "data/results/VELVET-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T12:47:19.484Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "FIL",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T08:48:15.447Z",
       "latestPath": "data/results/JTO-latest.json"
-    },
-    {
-      "token": "IPUSDT",
-      "requestedInput": "IPUSDT",
-      "name": "unknown",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T05:12:25.111Z",
-      "latestPath": "data/results/IPUSDT-latest.json"
-    },
-    {
-      "token": "AIN",
-      "requestedInput": "AIN",
-      "name": "Infinity Ground",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T03:47:02.531Z",
-      "latestPath": "data/results/AIN-latest.json"
     }
   ]
 }
