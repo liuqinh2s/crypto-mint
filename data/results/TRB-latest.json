@@ -1,0 +1,249 @@
+{
+  "token": "TRB",
+  "requestedInput": "TRB",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T18:02:31.612Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TRB",
+    "name": "Tellor",
+    "generatedAt": "2026-06-26T18:02:24.110Z",
+    "summary": "TRB在Solana链上Raydium DEX交易，流动性高达1.36亿美元，但24小时成交量仅3.99美元，价格51.47美元，市值1.37亿美元。新闻多为旧闻，且涉及市场操纵指控和暴跌历史。当前缺乏上涨催化剂，流动性虽高但交易量极低，疑似僵尸对或价格异常。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Tellor Accused Of TRB Market Manipulation After Violent Pump and Dump",
+        "impact": "利空",
+        "reason": "历史操纵指控，增加风险"
+      },
+      {
+        "title": "Tellor (TRB) Leaves Market In Shock With 75% Price Crash, Here’s What Happened",
+        "impact": "利空",
+        "reason": "历史暴跌75%，波动极大"
+      }
+    ],
+    "fundamentals": [
+      "Tellor是去中心化预言机项目，但当前DEX对为Solana链上Raydium的TRB/USDC，非原生ETH版本",
+      "流动性1.36亿美元，但24小时成交量仅3.99美元，极不活跃",
+      "市值1.37亿美元，FDV相同，无解锁数据",
+      "创建日期2025-05-28，较新"
+    ],
+    "marketRead": [
+      "价格51.47美元，但24小时价格变化、成交量、K线数据均缺失",
+      "流动性极高但成交量极低，疑似价格被操控或流动性虚假",
+      "无近期交易活动，无法判断趋势"
+    ],
+    "risks": [
+      "成交量极低，流动性可能为假，存在无法卖出风险",
+      "历史有市场操纵指控和75%暴跌记录",
+      "新闻均为旧闻，缺乏近期利好",
+      "DEX对为Solana链，非原生Tellor，合约风险未知"
+    ],
+    "watchlist": [
+      "观察成交量是否恢复正常",
+      "关注官方渠道是否有新动态",
+      "检查流动性是否真实（如大额卖出测试）"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，24小时价格变化、成交量等字段为null",
+      "新闻多为2024年及更早，无近期催化",
+      "该DEX对可能为假币或流动性池异常"
+    ]
+  },
+  "profile": {
+    "id": "55ByrPR6CM2HgVzxTDkXP8onaVKE6g7hi6aaGnGamJ8s",
+    "symbol": "TRB",
+    "name": "Tellor",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/7t8mtmu6pu9jwkun5z7tvn1w6d5iij5v4oetuamxg6af",
+    "marketCapRank": null,
+    "currentPriceUsd": 51.47,
+    "marketCapUsd": 137197218,
+    "fullyDilutedValuationUsd": 137197218,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-05-28",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "7T8MtMU6pU9JwkUN5z7tVn1W6d5iiJ5V4oETUamXG6aF",
+    "baseTokenAddress": "55ByrPR6CM2HgVzxTDkXP8onaVKE6g7hi6aaGnGamJ8s",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 136197412.02,
+    "pairUrl": "https://dexscreener.com/solana/7t8mtmu6pu9jwkun5z7tvn1w6d5iij5v4oetuamxg6af",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "TRB/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "7T8MtMU6pU9JwkUN5z7tVn1W6d5iiJ5V4oETUamXG6aF",
+    "pairUrl": "https://dexscreener.com/solana/7t8mtmu6pu9jwkun5z7tvn1w6d5iij5v4oetuamxg6af",
+    "lastPrice": 51.47,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 136197412.02,
+    "fullyDilutedValuationUsd": 137197218,
+    "marketCapUsd": 137197218,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/7t8mtmu6pu9jwkun5z7tvn1w6d5iij5v4oetuamxg6af",
+    "pairAddress": "7T8MtMU6pU9JwkUN5z7tVn1W6d5iiJ5V4oETUamXG6aF",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "55ByrPR6CM2HgVzxTDkXP8onaVKE6g7hi6aaGnGamJ8s",
+      "name": "Tellor",
+      "symbol": "TRB"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "51.4702",
+    "priceUsd": "51.47",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 136197412.02,
+      "base": 2646139,
+      "quote": 5.5358
+    },
+    "fdv": 137197218,
+    "marketCap": 137197218,
+    "pairCreatedAt": 1748407892000
+  },
+  "news": [
+    {
+      "title": "Tellor Crypto Upgrade, PepeNode Presale Raises Nearly $600K - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTZSSVh1Nk5wQU5YRy1SVUVWaVRoWlM0RXZuUHVsVlBYNXl1aXlKdWQtc0lGUFJIWU9UXzJ4SDJnXy1wZkFMTUV3b0NodFFad0hpemhYVl9tQjJXUUZTaVVGZ1BSYnhFS3FaaXZfZnVkVDhIUWtYMnBmcS0zSU4yNGJubkZyTUFDQUV3djNDbXpydVJReTd6c1FUQUhZSmlTREV2Qld6OGRwWFZqZXJQTWVTUDdaUQ?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Wed, 03 Sep 2025 07:00:00 GMT",
+      "snippet": "Tellor Crypto Upgrade, PepeNode Presale Raises Nearly $600K&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Tellor Tributes (TRB) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hSDU0VXR4Rjc0Q3VJNTdRR1hWMTJIYnFoVjc2ejFpdmRhdWR3Y0pmRG1UM0tQM1RkVlZUc3JISWNNR3Nnd0xIRVlCMGZhbGlPdVlEUDVMbzNkX2s4R25nRHh6QmNTeTl6Mm91MGt3Qmw1SWs?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 15 Sep 2022 21:33:51 GMT",
+      "snippet": "Tellor Tributes (TRB) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Tellor Tributes Price: TRB/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41TFhDMnlwNG9XOXhlX3NRSklmSkdmbXppVWVlVWY3ck1PZDlIak92U3dHYjlndUxGb1FMWlplanZzMnJUT25FY2VqS2NrcTJSUGs0dUlHbi1mRDdCR2c0?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Wed, 22 Mar 2023 04:43:55 GMT",
+      "snippet": "Tellor Tributes Price: TRB/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Tellor Tributes price today, TRB to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zQXI1VlBCc1lOMlkweEgxbUlqVnpaYTNWVnE5a1NNVHpydHJ0dnhiYk5zdXdBS0lpeldoOWxnY3A3VzNyM3R1dnBjTWtKdw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 02 Apr 2024 14:52:17 GMT",
+      "snippet": "Tellor Tributes price today, TRB to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Tellor Accused Of TRB Market Manipulation After Violent Pump and Dump - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOUhrY1VGUDMtQVRERUgyM0Jpc2VZMnlPdWwzOTVNNjFnRkJfdG1sUTRGVUFCVXpsNFplZk5HbzA0b0Z2by1PTVVKRVBqVmlhakt6Z1Q2di01S1pnUk5wdGpOall5TW95LWRYdjBqUHZaeTBlWVJfb0NZTS1nbnV2aU9hR2Zkc3RHWjM2ajI5cUlSTFhyTHNLWmFFY1dhS09KU0dR?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Wed, 10 Apr 2024 08:58:27 GMT",
+      "snippet": "Tellor Accused Of TRB Market Manipulation After Violent Pump and Dump&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Tellor (TRB) Leaves Market In Shock With 75% Price Crash, Here’s What Happened - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxRnJMNGFIS214Ynh2S3NhUU44VjBTczNMTDVxaXlCcUFObkRWaktLNjc0a29iQTFvdjNPTlZvUUh2UE16X3ItS0FJWnRoZzI3ZjRhU1hTcFJTeWgxUDlYNEwzNkxsQXJacFlnSW12Zng?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 01 Jan 2024 08:00:00 GMT",
+      "snippet": "Tellor (TRB) Leaves Market In Shock With 75% Price Crash, Here’s What Happened&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Tellor Price Today | TRB to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5c3M2Wm5nNExGb3l1TkJtSUZuaXhYc3V2SVUwVWpxS1VKMml2XzdidU9tQjBhQUpxWEZHaDZ5VTlKU1pqMDhrc2VmbloyMThX?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 30 Dec 2021 17:11:56 GMT",
+      "snippet": "Tellor Price Today | TRB to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Tellor (TRB) Price Prediction 2023-2030: Will TRB Price Hit $65 Soon? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZNE5yVGhUTlhSZjh5Y2ZMejBoZU9yWUN2ZHM4WWlwazZyT21hYVdQazV3RDF0UVdEY2FTOGJJc3I2MlN2TDZfNHBDUGd6SzcyZlVlbWpSdzBLTHUwUlpyOFpxQktzeXl6SDlqWUhJWWhscWM?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 08 Sep 2023 07:00:00 GMT",
+      "snippet": "Tellor (TRB) Price Prediction 2023-2030: Will TRB Price Hit $65 Soon?&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=TRB: Throttled\n"
+  ]
+}
