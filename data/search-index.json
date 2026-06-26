@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-26T12:32:29.224Z",
+  "updatedAt": "2026-06-26T12:35:04.222Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T12:35:02.842Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "FIL",
+      "requestedInput": "FIL",
+      "name": "Binance-Peg Filecoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T12:35:02.804Z",
+      "latestPath": "data/results/FIL-latest.json"
+    },
+    {
+      "token": "4",
+      "requestedInput": "4",
+      "name": "4",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T12:35:02.449Z",
+      "latestPath": "data/results/4-latest.json"
+    },
+    {
+      "token": "VD",
+      "requestedInput": "INDA",
+      "name": "VinDax Coin",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T12:35:04.220Z",
+      "latestPath": "data/results/VD-latest.json"
+    },
     {
       "token": "JST",
       "requestedInput": "JST",
@@ -10,16 +50,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T12:32:22.939Z",
       "latestPath": "data/results/JST-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T12:32:23.305Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "MEMES",
@@ -100,16 +130,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T12:02:32.049Z",
       "latestPath": "data/results/ICNT-latest.json"
-    },
-    {
-      "token": "VD",
-      "requestedInput": "INDA",
-      "name": "VinDax Coin",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T12:02:29.099Z",
-      "latestPath": "data/results/VD-latest.json"
     },
     {
       "token": "G",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-25T16:02:33.562Z",
       "latestPath": "data/results/IP-latest.json"
-    },
-    {
-      "token": "UNH",
-      "requestedInput": "UNH",
-      "name": "UnitedHealth Group",
-      "score": 65,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-25T13:47:14.931Z",
-      "latestPath": "data/results/UNH-latest.json"
-    },
-    {
-      "token": "DELLON",
-      "requestedInput": "DELL",
-      "name": "Dell Technologies (Ondo Tokenized)",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-25T13:16:55.525Z",
-      "latestPath": "data/results/DELLON-latest.json"
     }
   ]
 }

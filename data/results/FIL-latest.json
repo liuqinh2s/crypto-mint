@@ -1,0 +1,244 @@
+{
+  "token": "FIL",
+  "requestedInput": "FIL",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T12:35:02.804Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "FIL",
+    "name": "Binance-Peg Filecoin",
+    "generatedAt": "2026-06-26T12:34:56.307Z",
+    "summary": "FIL近期价格下跌，无显著上涨催化，基本面为去中心化存储，但市场关注度低，流动性集中在Solana上的Raydium池，但交易量极低。不建议买入。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": null
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Filecoin (FIL) Price Prediction 2026, 2027, 2028, 2029, 2030 - Ventureburn",
+        "impact": "中性",
+        "reason": "仅为价格预测文章，无实质利好"
+      },
+      {
+        "title": "Filecoin Price Prediction 2026,2027-2030: Is a Trend Reversal Ahead for FIL? - MEXC",
+        "impact": "中性",
+        "reason": "预测性质，无确认信号"
+      },
+      {
+        "title": "Crypto Price Analysis 5-30: BITCOIN: BTC, ETHEREUM: ETH, SOLANA: SOL, CELESTIA: TIA, INTERNET COMPUTER: ICP, FILECOIN: FIL - Bitget",
+        "impact": "中性",
+        "reason": "技术分析，无明确方向"
+      }
+    ],
+    "fundamentals": [
+      "Filecoin是去中心化存储网络，主网已上线多年",
+      "Binance-Peg FIL是BSC上的包装代币，但数据来自Solana上的Raydium池",
+      "总供应量1500万，无最大供应量上限，但实际流通量可能更大",
+      "市值约11.5亿美元（基于Raydium池），但24h交易量仅4.85美元，流动性极差"
+    ],
+    "marketRead": [
+      "24h价格下跌3.59%，7天下跌6%，30天下跌31%，处于下行趋势",
+      "Raydium池流动性高达5.57亿美元，但交易量极低，说明价格可能被操纵或缺乏真实交易",
+      "无近期价格突破或放量信号"
+    ],
+    "risks": [
+      "交易量极低，流动性虚假，存在价格操纵风险",
+      "代币为Binance-Peg版本，但交易对在Solana上，跨链复杂性增加风险",
+      "Filecoin基本面缺乏新催化，存储赛道竞争激烈",
+      "无近期利好新闻，市场情绪低迷"
+    ],
+    "watchlist": [
+      "Filecoin主网升级或合作公告",
+      "FIL在中心化交易所的成交量变化",
+      "去中心化存储赛道整体走势"
+    ],
+    "sourceNotes": [
+      "数据主要来自CoinGecko和DexScreener，但Raydium池交易量极低，价格参考意义有限",
+      "新闻均为预测或旧闻，无近期实质利好"
+    ]
+  },
+  "profile": {
+    "id": "binance-peg-filecoin",
+    "symbol": "FIL",
+    "name": "Binance-Peg Filecoin",
+    "categories": [
+      "Infrastructure",
+      "Storage",
+      "BNB Chain Ecosystem",
+      "Binance-Peg Tokens"
+    ],
+    "homepage": [
+      "https://filecoin.io/",
+      "https://liftoff.filecoin.io/"
+    ],
+    "description": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.722056,
+    "marketCapUsd": 10834221,
+    "fullyDilutedValuationUsd": 10834221,
+    "totalVolumeUsd": 68984,
+    "priceChange24hPct": -3.59289,
+    "priceChange7dPct": -6.00317,
+    "priceChange14dPct": -4.2099,
+    "priceChange30dPct": -31.03245,
+    "athUsd": 119.75,
+    "athChangePct": -99.39848,
+    "circulatingSupply": 15009999.9999267,
+    "totalSupply": 15009999.9999267,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 450,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "FIL/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "73T3xByKnhP5JViuaJ9A52sqKHnv8CKg3X8mAcfbmEp2",
+    "pairUrl": "https://dexscreener.com/solana/73t3xbyknhp5jviuaj9a52sqkhnv8ckg3x8macfbmep2",
+    "lastPrice": 2.29,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 4.85,
+    "liquidityUsd": 557377107.76,
+    "fullyDilutedValuationUsd": 1149251898,
+    "marketCapUsd": 1149251898,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/73t3xbyknhp5jviuaj9a52sqkhnv8ckg3x8macfbmep2",
+    "pairAddress": "73T3xByKnhP5JViuaJ9A52sqKHnv8CKg3X8mAcfbmEp2",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "8CzhZQ1QcVXNdxcG5f4om7DKN1yag71d7aYPF8yuu3wa",
+      "name": "FIL",
+      "symbol": "FIL"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "2.2985",
+    "priceUsd": "2.29",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 4.85,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 557377107.76,
+      "base": 242495618,
+      "quote": 7.1857
+    },
+    "fdv": 1149251898,
+    "marketCap": 1149251898,
+    "pairCreatedAt": 1756124159000
+  },
+  "news": [
+    {
+      "title": "Binance-Peg Filecoin Price: FIL/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0ai1ybjA1clhHUXlIQmNib01DTDMxSm51S1oteFU1SGFHQzZJdnZnTzFPSy1EUVVXcW9IQXR6MWpwWnY1SGRIc0M4dWU2ZWRobzJLV0VKUXRQengySHJhQWVyZWYtUQ?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 24 May 2021 06:16:08 GMT",
+      "snippet": "Binance-Peg Filecoin Price: FIL/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Filecoin (FIL) Price Prediction 2026, 2027, 2028, 2029, 2030 - Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6eF9fWVdpb2RpLVVMdXFuRWotR2dKWjZScVRhbk5femFsa3UwMk14QngxeHlqUWVBUG9IU0VEQWJtc01hYUxSRElJbFBEd2s5TDdnZmJsV1JPanZTRTNOUm5HRk3SAWRBVV95cUxQenhfX1lXaW9kaS1VTHVxbkVqLUdnSlo2UnFUYW5OX3phbGt1MDJNeEJ4MXh5alFlQVBvSFNFREFibXNNYWFMUkRJSWxQRHdrOUw3Z2ZibFdST2p2U0UzTlJuR0ZN?oc=5",
+      "source": "Ventureburn",
+      "publishedAt": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "snippet": "Filecoin (FIL) Price Prediction 2026, 2027, 2028, 2029, 2030&nbsp;&nbsp;Ventureburn"
+    },
+    {
+      "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030: Will Decentralized Storage Ever Deliver? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93a1FCWGk2NHRnSEdsZl9tR1pxSF9iS0VEMkFLWW5CNnNvZzRoZXU1dm1oRUlQYk5JMVV5UTN1OFZwcXc4cG5UM0JpeHFSaXB1dGZNX0FuLWsyZTJJNXVnRDNzQlYtTkE?oc=5",
+      "source": "Benzinga",
+      "publishedAt": "Sat, 17 Aug 2024 00:09:33 GMT",
+      "snippet": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030: Will Decentralized Storage Ever Deliver?&nbsp;&nbsp;Benzinga"
+    },
+    {
+      "title": "Filecoin Price: FIL/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82SzVLcUF5VnVXY2x5ZkZjUTBQNGxDTzcweTdZNldwYV9uaVBoa19LaEtkVGgyRU45cHRVbk1iNUxvdDI0SnBRMkU5MGFBS2lBeEpSUGJ3?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Sat, 23 Dec 2017 12:16:22 GMT",
+      "snippet": "Filecoin Price: FIL/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "FIL to PHP: Binance-Peg Filecoin Price in Philippine Peso - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VV2w2VXVmUU52RnNwZGJtMm1ybmdtWTRRLXg4b1ZocHBfZGNDSWtZdFUzVUtldmlFNDB4QjZianZVN2hXZ3Jyd1hIZzEtZ21NTXRSa29oelRvV2lMbGtheEZBSm5CaXkxWXdn?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 24 May 2021 13:32:35 GMT",
+      "snippet": "FIL to PHP: Binance-Peg Filecoin Price in Philippine Peso&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Filecoin Price Prediction 2026,2027-2030: Is a Trend Reversal Ahead for FIL? - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhTVFib2NwVVhoMkJpTk9HQkE5N19yZlBzQ09jSFBRTGVIQWVFQW9TdTh6M1ZndEJlX3FYUGNQcDBQdDlxTnVj?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Sat, 10 Jan 2026 08:00:00 GMT",
+      "snippet": "Filecoin Price Prediction 2026,2027-2030: Is a Trend Reversal Ahead for FIL?&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Crypto Price Analysis 5-30: BITCOIN: BTC, ETHEREUM: ETH, SOLANA: SOL, CELESTIA: TIA, INTERNET COMPUTER: ICP, FILECOIN: FIL - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UQUNjVFM5R2VURHdZV1hndE5GdW5WUFA0dUxQT21QZWo0Vm9RMW5BU1Y2YTk5UWloamNkMExGb19BNzFMakFpTmlMRzhkck5LUkNWNmtfV1hQeC16M3fSAWNBVV95cUxOSUJBQlc0SVZRMzlHYXlyaDk3RTFfalkwM21xeHFnRENJenhpTzlhcHJyajdkb0N6bncycmNmUGowdzhHeWVxd1NMam9WNTFPZzlCQi1fTzdkX3RYM1VOUHFnZGs?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 29 May 2025 07:00:00 GMT",
+      "snippet": "Crypto Price Analysis 5-30: BITCOIN: BTC, ETHEREUM: ETH, SOLANA: SOL, CELESTIA: TIA, INTERNET COMPUTER: ICP, FILECOIN: FIL&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Crypto Price Analysis 5-26: BITCOIN: BTC, ETHEREUM: ETH, SOLANA: SOL, BITTENSOR: TAO, FILECOIN: FIL, POLKADOT: DOT - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NWm40c0pTSU1sbGM1aTQxMktxSnpQQi1adTFFTXBwc1lZeGdTeWdjLWxTS1ExQmMyU2Ezc0s4VU1Vb1FzdmhKeGhETVc0dmhEYVdQNlBTT28tWkZiSHfSAWNBVV95cUxOank5U1JhVFVKbmVQdFphT210cGlxTW42QkxxQzd2Rm5FV3R0bW82SGEwWFg5Q1E4RC1Cd2U5VkNxalg1QlJmSzZuaWtBRmlfUDhUcTVtbVd6QjlDZzdscWZuVFU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 25 May 2025 07:00:00 GMT",
+      "snippet": "Crypto Price Analysis 5-26: BITCOIN: BTC, ETHEREUM: ETH, SOLANA: SOL, BITTENSOR: TAO, FILECOIN: FIL, POLKADOT: DOT&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
