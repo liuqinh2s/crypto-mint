@@ -1,0 +1,237 @@
+{
+  "token": "LLY",
+  "requestedInput": "LLY",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:48:06.495Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "LLY",
+    "name": "Eli Lily",
+    "generatedAt": "2026-06-26T08:47:59.951Z",
+    "summary": "该代币为Solana链上pumpfun发行的Meme币，与知名制药公司Eli Lilly同名但无关联。24小时跌幅43%，市值仅2757美元，流动性极低，属于高风险投机品种。新闻均为正股LLY相关内容，与代币无关。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Eli Lilly Stock Price: LLY Stock Chart, Market Cap & News Today - CoinGecko",
+        "impact": "中性",
+        "reason": "新闻内容为正股LLY，与代币无关，但可能误导投资者认为代币有基本面支撑。"
+      },
+      {
+        "title": "LLY Shares Dive On Analyst Downgrade Citing Obesity Market Overestimation Concerns, But Retail Dismisses ‘Absurd’ Selloff - Stocktwits",
+        "impact": "中性",
+        "reason": "正股利空新闻，但代币无关联，不会直接影响。"
+      }
+    ],
+    "fundamentals": [
+      "Solana链pumpfun发行的Meme币，无实际项目背景。",
+      "总供应量与市值均为2757美元，极低市值。",
+      "无官网、白皮书或团队信息。",
+      "与制药公司Eli Lilly无任何关联。"
+    ],
+    "marketRead": [
+      "24小时跌幅43%，价格持续下跌。",
+      "24小时交易量仅1358美元，流动性极差。",
+      "无K线数据，无法判断趋势。",
+      "pumpfun平台代币通常生命周期极短，风险极高。"
+    ],
+    "risks": [
+      "流动性风险：流动性为0，买卖价差极大，可能无法卖出。",
+      "合约风险：pumpfun代币无审计，可能存在后门或貔貅盘。",
+      "归零风险：市值极低，随时可能归零。",
+      "新闻误导风险：新闻均为正股，代币无实质利好。",
+      "无社区或持有者数据，缺乏支撑。"
+    ],
+    "watchlist": [
+      "关注pumpfun平台是否出现拉盘行为。",
+      "观察是否有新地址买入或社交媒体讨论。",
+      "注意正股LLY新闻是否被恶意关联。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，无其他链上分析工具验证。",
+      "新闻均为正股LLY，与代币无关，需警惕混淆。",
+      "pumpfun代币数据有限，无法进行深度分析。"
+    ]
+  },
+  "profile": {
+    "id": "BZJuYgncJqfzxvoq6jG5Qinqd1iUEugBVddAEKbbpump",
+    "symbol": "LLY",
+    "name": "Eli Lily",
+    "categories": [
+      "solana",
+      "pumpfun"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / pumpfun. Pair URL: https://dexscreener.com/solana/dkehnca3ntwkja1fgl2llbnzgpa7jv4zajdgkksd6j1g",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.000002757,
+    "marketCapUsd": 2757.34,
+    "fullyDilutedValuationUsd": 2757.34,
+    "totalVolumeUsd": 1358.68,
+    "priceChange24hPct": -43,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": null,
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "pairAddress": "DkeHnCa3NtwKJa1FgL2LLBnZGpA7JV4zAjDGKKSd6j1G",
+    "baseTokenAddress": "BZJuYgncJqfzxvoq6jG5Qinqd1iUEugBVddAEKbbpump",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": null,
+    "pairUrl": "https://dexscreener.com/solana/dkehnca3ntwkja1fgl2llbnzgpa7jv4zajdgkksd6j1g",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pumpfun",
+    "pair": "LLY/SOL",
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "pairAddress": "DkeHnCa3NtwKJa1FgL2LLBnZGpA7JV4zAjDGKKSd6j1G",
+    "pairUrl": "https://dexscreener.com/solana/dkehnca3ntwkja1fgl2llbnzgpa7jv4zajdgkksd6j1g",
+    "lastPrice": 0.000002757,
+    "priceChange24hPct": -43,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 1358.68,
+    "liquidityUsd": null,
+    "fullyDilutedValuationUsd": 2757.34,
+    "marketCapUsd": 2757.34,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "url": "https://dexscreener.com/solana/dkehnca3ntwkja1fgl2llbnzgpa7jv4zajdgkksd6j1g",
+    "pairAddress": "DkeHnCa3NtwKJa1FgL2LLBnZGpA7JV4zAjDGKKSd6j1G",
+    "baseToken": {
+      "address": "BZJuYgncJqfzxvoq6jG5Qinqd1iUEugBVddAEKbbpump",
+      "name": "Eli Lily",
+      "symbol": "LLY"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.00000004057",
+    "priceUsd": "0.000002757",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 15,
+        "sells": 30
+      }
+    },
+    "volume": {
+      "h24": 1358.68,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -43
+    },
+    "fdv": 2757.34,
+    "marketCap": 2757.34
+  },
+  "news": [
+    {
+      "title": "Eli Lilly Stock Price: LLY Stock Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GZFVFc0RFd1JyZ3NSa1dVZnlIc1dGSzFNZFdJUzIyUWVyRVo0T0NqVUZZbFZnU2hCUkd1dWhQb3pacndlVXZXYmtTeXg4MTlrMl9EdDJwR3c?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 22 Jun 2026 06:52:13 GMT",
+      "snippet": "Eli Lilly Stock Price: LLY Stock Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Eli Lilly and Co Stock (LLY) Moved Up by 3.03% on May 28: What Signal Does It Send? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcWFIcEo3YTlSb21QdUpGOC1OVVpaTEc3b2l0MUdEQmxqUUU5cmJzX05NR3IzQWtZYVU3X0hMYlNpVkdZSWRwMHo2d1VOS20tN2RKZ2plSWR2NGJCeGE5SC1EU0d2Y2NSZG1YeEdESGFuM3lTRlNNN2JQdjRpX1pfMmxLYnBRbFl1T3c?oc=5",
+      "source": "TradingKey",
+      "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
+      "snippet": "Eli Lilly and Co Stock (LLY) Moved Up by 3.03% on May 28: What Signal Does It Send?&nbsp;&nbsp;TradingKey"
+    },
+    {
+      "title": "LLY Shares Dive On Analyst Downgrade Citing Obesity Market Overestimation Concerns, But Retail Dismisses ‘Absurd’ Selloff - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUVJJTnZyeW1MLTFVM0FCNXdaRC1ldEViUnVrUWtOTDJIWW1BYklHM19fNDlDYXRNYkVXRmVwcHFOX1E2bDN1bGR6dVM2YUVqNXlyd1ZYdnRnZm5IWmdmbFFLQ2ZpdmVqUmh4Qzl4T1BfTDFVbXhsY1BBcjRKSUFWRUVQRnVQa2diWVRMTkRVWXNPM2NpQjByNThObXd2YkE0OEJUTFF5dkZqV3NhLXZHWjlONnl5MFRDU3BWUjY2b01MNVRQaW51Q1I0YXlsd3R0bU1wVjJDOEJqLVB3TlB3?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "snippet": "LLY Shares Dive On Analyst Downgrade Citing Obesity Market Overestimation Concerns, But Retail Dismisses ‘Absurd’ Selloff&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Why Did Eli Lilly (LLY) Shares Surge Today? Key Factors - Tokenist",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ka1dOUXpQWUdzQVZiVG9KN29KWl90NExkRUxtWFd0MVRBYlpuZ1J1Y2JFYllCbTdxeEdLVUczQXZhdHk0aHlienNsVVhBZ3pxdFVnV1BvaGJHRTliSjVVc2R5dnBCZWprbi1XaWs4OEllaWMxNkFiR3Q5eTlJNm8?oc=5",
+      "source": "Tokenist",
+      "publishedAt": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "snippet": "Why Did Eli Lilly (LLY) Shares Surge Today? Key Factors&nbsp;&nbsp;Tokenist"
+    },
+    {
+      "title": "Eli Lilly (LLY) Expands Pipeline with Clazakizumab Agreement, Reuters Reports - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XcU02ZGwxNE5BeG9pSGtXbUxwbWlLUGFabHN5MUw3QUpJMTBDLTZVS2NjUmRvMUVTSUpLRXI2Sm9uQUFIWEQwRjhVSWRVc1lIQkJENUh0UTJ5dGNMelHSAWNBVV95cUxPbkRqd0ppbnU3T2ZCdV9TSVlPNldOQWNHZlI1YVJtZkJubTZNOVhYM2pIOWJyUUxQTVVUY04yX1UyN0FxWjhmLUo0TDBsZVVQU3VRRDBMRTh6T25zVGxTbnAxWXM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 20 Feb 2026 08:00:00 GMT",
+      "snippet": "Eli Lilly (LLY) Expands Pipeline with Clazakizumab Agreement, Reuters Reports&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Eli Lilly (LLY) Retains Buy Rating on Strong 2026 Outlook - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JeWVTSGd5VjB2RklkWFNlamxHNklyYkkxWmRSVmV1aUdNV0lWS21wQXFtLWlKcTYyZlVBQ05tVmJUeEZzbGpONlNMa21IaWF2V2E1NEQ2NWpvcURmamfSAWNBVV95cUxPNXZjb0xLaXBsak5xUHpaWU9ZWW5Xc2dadmVyTFBnRkFLOXZLVW1hcE54N0RfSDBmaUxXWXpzZXZ5Q0VmTV9WaDZqaXpvVFNRb0haaTZXNU14bkhIUjVGN2phNms?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 13 Feb 2026 08:00:00 GMT",
+      "snippet": "Eli Lilly (LLY) Retains Buy Rating on Strong 2026 Outlook&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Eli Lilly (LLY) Q1 2026 Earnings Highlights: GLP-1 Momentum Fuels Strong Beat, Guidance Raised - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12R3BFNW16dXlPZExqNHJZRlBtWVJLemdHZE1YOGEzci0zWlRNRGV5UTAwNmJneTRMbjNaRkpacExIT0tUWW56Y0dVZmxOaXQwNFlnLVNrWU9KU1JUT1HSAWNBVV95cUxOMG1fX3ZMVFZMRWxWeW50NW0weHVSNHFVQmlZX3BISEVoWUJYNDRfMlNxWTdlY2hDby0yallCRVMtOUdpRV9JN0xfTjVtLVJpaDJuQ0l4cDJaTFBGM0pvNVRqTXc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "snippet": "Eli Lilly (LLY) Q1 2026 Earnings Highlights: GLP-1 Momentum Fuels Strong Beat, Guidance Raised&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=LLY: Throttled\n"
+  ]
+}

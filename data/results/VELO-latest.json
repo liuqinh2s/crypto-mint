@@ -1,0 +1,224 @@
+{
+  "token": "VELO",
+  "requestedInput": "VELODROME",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:46:58.292Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "VELO",
+    "name": "VelodromeV2",
+    "generatedAt": "2026-06-26T08:46:52.591Z",
+    "summary": "VELO是Optimism链上Velodrome V2 DEX的治理代币，近期价格下跌5.85%，流动性约57.7万美元，市值约2338万美元。缺乏近期利好消息，市场情绪偏弱。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确买入逻辑，价格下跌且无催化"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Velodrome Finance price today, VELO to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "仅为价格数据页面，无实质内容"
+      },
+      {
+        "title": "Velodrome Price, VELO to USD, Research, News & Fundraising - Messari",
+        "impact": "中性",
+        "reason": "研究页面，无近期动态"
+      },
+      {
+        "title": "What Is Velodrome (VELO)? Features and Tokenomics - CoinMarketCap",
+        "impact": "中性",
+        "reason": "介绍性文章，无时效性"
+      }
+    ],
+    "fundamentals": [
+      "Velodrome是Optimism上的AMM DEX，V2版本已上线",
+      "VELO代币用于治理和费用分配",
+      "市值约2338万美元，FDV约4812万美元",
+      "流动性约57.7万美元，相对较低"
+    ],
+    "marketRead": [
+      "24小时价格下跌5.85%，成交量仅3.86万美元",
+      "流动性不足，可能面临滑点风险",
+      "无近期价格走势数据（7日、14日、30日变化均为null）"
+    ],
+    "risks": [
+      "流动性较低，大额交易可能产生显著滑点",
+      "缺乏近期催化剂，市场关注度低",
+      "代币解锁和供应数据未知，存在潜在抛压",
+      "DEX交易对，合约风险需注意"
+    ],
+    "watchlist": [
+      "关注Velodrome协议TVL变化",
+      "Optimism生态整体活跃度",
+      "VELO代币解锁或供应变化公告"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，缺乏CEX价格和深度信息",
+      "新闻均为旧闻，无近期实质性消息",
+      "部分数据字段缺失（如ATH、流通量等）"
+    ]
+  },
+  "profile": {
+    "id": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+    "symbol": "VELO",
+    "name": "VelodromeV2",
+    "categories": [
+      "optimism",
+      "velodrome"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on optimism / velodrome. Pair URL: https://dexscreener.com/optimism/0xa0a215de234276cac1b844fd58901351a50fec8a",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.01909,
+    "marketCapUsd": 23382185,
+    "fullyDilutedValuationUsd": 48121537,
+    "totalVolumeUsd": 38594.66,
+    "priceChange24hPct": -5.85,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2023-11-23",
+    "chainId": "optimism",
+    "dexId": "velodrome",
+    "pairAddress": "0xa0A215dE234276CAc1b844fD58901351a50fec8A",
+    "baseTokenAddress": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+    "quoteToken": {
+      "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 576838.72,
+    "pairUrl": "https://dexscreener.com/optimism/0xa0a215de234276cac1b844fd58901351a50fec8a",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "velodrome",
+    "pair": "VELO/USDC",
+    "chainId": "optimism",
+    "dexId": "velodrome",
+    "pairAddress": "0xa0A215dE234276CAc1b844fD58901351a50fec8A",
+    "pairUrl": "https://dexscreener.com/optimism/0xa0a215de234276cac1b844fd58901351a50fec8a",
+    "lastPrice": 0.01909,
+    "priceChange24hPct": -5.85,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 38594.66,
+    "liquidityUsd": 576838.72,
+    "fullyDilutedValuationUsd": 48121537,
+    "marketCapUsd": 23382185,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "optimism",
+    "dexId": "velodrome",
+    "url": "https://dexscreener.com/optimism/0xa0a215de234276cac1b844fd58901351a50fec8a",
+    "pairAddress": "0xa0A215dE234276CAc1b844fD58901351a50fec8A",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+      "name": "VelodromeV2",
+      "symbol": "VELO"
+    },
+    "quoteToken": {
+      "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.01911",
+    "priceUsd": "0.01909",
+    "txns": {
+      "m5": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 5,
+        "sells": 5
+      },
+      "h6": {
+        "buys": 48,
+        "sells": 44
+      },
+      "h24": {
+        "buys": 123,
+        "sells": 402
+      }
+    },
+    "volume": {
+      "h24": 38594.66,
+      "h6": 5989.54,
+      "h1": 358.86,
+      "m5": 87.85
+    },
+    "priceChange": {
+      "m5": 0.06,
+      "h1": 0.15,
+      "h6": 3.49,
+      "h24": -5.85
+    },
+    "liquidity": {
+      "usd": 576838.72,
+      "base": 15102607,
+      "quote": 288621
+    },
+    "fdv": 48121537,
+    "marketCap": 23382185,
+    "pairCreatedAt": 1700734547000
+  },
+  "news": [
+    {
+      "title": "Velodrome Finance price today, VELO to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rRmszMm5OM2p2UlByT0JndWw0eEt2LVZtMjAyUVhCYldvUmI5WVgxdGVtbTlVaEVGU1daRnBHT3RKTlNudGVlNlpGZ1NCSm5qbGdNaTVJV3R6VWg2Q1ZMUW9ueFFUdw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 02 Jun 2022 21:02:48 GMT",
+      "snippet": "Velodrome Finance price today, VELO to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Velodrome Price, VELO to USD, Research, News & Fundraising - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RbHBqNWFuQlkxV3JrQm4xQXFLRVNkUVg3UXNIeWhNM21fMUdRQ1NmN1l1ZmktcDhIeDRHdHhFbU5EMzRJRDZWX2o4Z1c?oc=5",
+      "source": "Messari",
+      "publishedAt": "Tue, 10 Oct 2023 07:24:52 GMT",
+      "snippet": "Velodrome Price, VELO to USD, Research, News & Fundraising&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "What Is Velodrome (VELO)? Features and Tokenomics - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVll0djh2LS1tTE9aM0Nld3FSTnVhSzRQV19CdkdvM0JUd3NZaFdNYVFBcndVQVlEODVYU3ZaTmRSc21SVUhjSkhvU1BBWThpRG5vQmVFZzJzaU9MTWdwRWhQUjRKWV9FQmttUFVBamk0bEdBRW5LS0l2VXZTWWFNNzMxY2stQ0d5ZWtEcEhQWUdXZw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 20 Sep 2023 12:28:08 GMT",
+      "snippet": "What Is Velodrome (VELO)? Features and Tokenomics&nbsp;&nbsp;CoinMarketCap"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/velodrome-finance?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

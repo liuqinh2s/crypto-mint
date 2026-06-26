@@ -1,0 +1,76 @@
+{
+  "token": "1000RATS",
+  "requestedInput": "1000RATS",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:48:06.364Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "1000RATS",
+    "name": "Ordinals RATS",
+    "generatedAt": "2026-06-26T08:48:03.808Z",
+    "summary": "数据获取受限，无法分析。Binance API返回451错误，可能因地理位置限制。无行情、新闻及基本面数据。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "数据不可用，无法设定失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [],
+    "marketRead": [],
+    "risks": [
+      "数据缺失，无法评估风险"
+    ],
+    "watchlist": [],
+    "sourceNotes": [
+      "Binance API因地理位置限制返回451错误，无法获取行情数据；无新闻来源数据。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "1000RATSUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=1000RATSUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "1000RATSFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=1000RATSFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "1000RATSUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=1000RATSUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "1000RATSBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=1000RATSBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/1000rats?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

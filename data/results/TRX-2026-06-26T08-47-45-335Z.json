@@ -1,0 +1,306 @@
+{
+  "token": "TRX",
+  "requestedInput": "TRX",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:45.335Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TRX",
+    "name": "TRX",
+    "generatedAt": "2026-06-26T08:47:38.949Z",
+    "summary": "TRX是Solana链上Raydium的meme币，非波场TRON。市值3.05亿美元，流动性极高（3.05亿美元），但24小时交易量仅227美元，流动性严重不匹配，疑似虚假流动性或无人交易。近期无重大利好，新闻多为波场TRON相关，与当前代币无关。风险极高，不建议买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性恢复正常且交易量显著放大"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Tron (TRX) Looks Incredibly Healthy, But Nobody Is Talking About It - BeInCrypto",
+        "impact": "中性",
+        "reason": "新闻提及的是波场TRON，非本代币"
+      },
+      {
+        "title": "Tron Price Eyes $0.324 Retest After Fresh Tron Inc’s TRX Token Buy - The Coin Republic",
+        "impact": "中性",
+        "reason": "新闻提及的是波场TRON，非本代币"
+      }
+    ],
+    "fundamentals": [
+      "Solana链上Raydium的meme币，与波场TRON无关",
+      "创建于2026-05-06，仅约1.5个月",
+      "无官网、无描述、无社交媒体信息",
+      "市值3.05亿美元，但24小时交易量仅227美元，流动性/交易量严重不匹配"
+    ],
+    "marketRead": [
+      "流动性高达3.05亿美元，但24小时交易量仅227美元，表明流动性可能为虚假或无人交易",
+      "无价格变化数据，无K线，无法判断趋势",
+      "极低交易量下价格容易被操纵"
+    ],
+    "risks": [
+      "流动性虚假风险：高流动性但零交易量，可能为机器人刷量或池子被操控",
+      "合约风险：未开源或未审计，存在后门",
+      "rug pull风险：团队可随时撤走流动性",
+      "与知名项目波场TRON重名，误导投资者",
+      "无任何实际价值支撑"
+    ],
+    "watchlist": [
+      "流动性是否真实（如交易量突然放大）",
+      "合约是否开源及审计报告",
+      "团队或社区动态"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，流动性数据可能不准确",
+      "新闻均为波场TRON相关，与本代币无关",
+      "无任何基本面信息"
+    ]
+  },
+  "profile": {
+    "id": "TRXEx9hW4kEr9HSNGujddTaGtZw6NeC4Ew9K6mCKdy8",
+    "symbol": "TRX",
+    "name": "TRX",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/fkl8yvwu2fnbi4cng6785kb8becr54ey9keykakr3vtz",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.3431,
+    "marketCapUsd": 305065258,
+    "fullyDilutedValuationUsd": 305065258,
+    "totalVolumeUsd": 227.88,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-05-06",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "FkL8yvwu2FnBi4cNg6785Kb8bECR54Ey9keYkaKR3vtZ",
+    "baseTokenAddress": "TRXEx9hW4kEr9HSNGujddTaGtZw6NeC4Ew9K6mCKdy8",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 304879627.94,
+    "pairUrl": "https://dexscreener.com/solana/fkl8yvwu2fnbi4cng6785kb8becr54ey9keykakr3vtz",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "TRX/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "FkL8yvwu2FnBi4cNg6785Kb8bECR54Ey9keYkaKR3vtZ",
+    "pairUrl": "https://dexscreener.com/solana/fkl8yvwu2fnbi4cng6785kb8becr54ey9keykakr3vtz",
+    "lastPrice": 0.3431,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 227.88,
+    "liquidityUsd": 304879627.94,
+    "fullyDilutedValuationUsd": 305065258,
+    "marketCapUsd": 305065258,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/fkl8yvwu2fnbi4cng6785kb8becr54ey9keykakr3vtz",
+    "pairAddress": "FkL8yvwu2FnBi4cNg6785Kb8bECR54Ey9keYkaKR3vtZ",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "TRXEx9hW4kEr9HSNGujddTaGtZw6NeC4Ew9K6mCKdy8",
+      "name": "TRX",
+      "symbol": "TRX"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.3431",
+    "priceUsd": "0.3431",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 9,
+        "sells": 9
+      }
+    },
+    "volume": {
+      "h24": 227.88,
+      "h6": 53.89,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 304879627.94,
+      "base": 888347946,
+      "quote": 20.2855
+    },
+    "fdv": 305065258,
+    "marketCap": 305065258,
+    "pairCreatedAt": 1778065080000
+  },
+  "news": [
+    {
+      "title": "Tron (TRX) Looks Incredibly Healthy, But Nobody Is Talking About It - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzJCVGxFcjlBaHNKTWJIQXUxOXhCVlVnclNsOTBYN0N1aWxQbGtZaTNmaE1ydEpCR2NOU2JzM3ljNVV2Nkk4bVkxRS1YWXpSR0JHbEhpS0N2WjgweV90Y3VyQ1N6OVN0aXFfZkFoWFB2X1Z4SEhDMlVrNWFEYTNTYXFtVUlyVVhueW1QSkFqUVI4QQ?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Wed, 24 Jun 2026 12:00:00 GMT",
+      "snippet": "Tron (TRX) Looks Incredibly Healthy, But Nobody Is Talking About It&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Tron Price Eyes $0.324 Retest After Fresh Tron Inc’s TRX Token Buy - The Coin Republic",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1FIZmZtTHctNEM0YWFaekhkLU5YS1V6aklRM05NMDlaSnp6bkd1S3ZHZmtaYWMwbFJqWUNLa3plSWliZE56Z0dXUnZ4UDJDS1BoY0E1eDY3MW5fUm1QNHc4UGdCTmRWYzFjUDV1VGxjWlk1Mld4SG81SGszWXVId3dxenZVVXc5aFhhNFhmS3ZiVm5YakVWLW9IblpubkVaZUdvRWhwZTZJb2hs0gGyAUFVX3lxTE5QSVRWbGJEM0N6TGNoNUVja2FJaFVrQldtVWZZd3J3VmtNVVRWQUpObFJaM0pIVjdORHNqMEVpaENjZjk2OHNnaGltSlhmMGVHWFR5amtJaUpkYjFQX3BGQmdqa1Y1QUdIUTUtTjVjcGFFdXBPMUVuNml0Zm9ndXliT1AxZ05kU2kzRjlJWWExRlUzczY2WlctOXpEUGtnd0NCejhZeHdGcEluRmtkQXZ1bmc?oc=5",
+      "source": "The Coin Republic",
+      "publishedAt": "Mon, 22 Jun 2026 17:00:00 GMT",
+      "snippet": "Tron Price Eyes $0.324 Retest After Fresh Tron Inc’s TRX Token Buy&nbsp;&nbsp;The Coin Republic"
+    },
+    {
+      "title": "TRON (TRX) Price Prediction 2026, 2027 – 2030: How High Can TRX Go? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95aUtwb29SNS0xanB1djA0NjZCNlAtWlRRRGhFZndQaC1zeUEwMjV6eHpTcTcxTVlYSUswOUZxWWFyVGphV3llNEpNanc3T3Z5NW1zV2tldklJdDhnYTBodVpHSk14cmRMNk5VZ2xqSFdtTFHSAXhBVV95cUxNMGtuaWFUNFJjTDBacEVRRDZURk1ndTdseFlNd2JSX0xNZWRuUkRTSTVabVBad01iUE5GY25RekNBQzI2V0xnbkJtdFFnTXptcExFdjljUmZTTXJZMVFlM1VUU1hCVzZUQUF1aTRwOElBWlg1YUpEVUo?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "snippet": "TRON (TRX) Price Prediction 2026, 2027 – 2030: How High Can TRX Go?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "TRX Price Outlook: Why TRON Suddenly Dropped 10% This Week - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXZYdlJlZ2lzUUVHQU4xWllvQWctbUt6cl9CWWVVQkdVNDNWVDJaLTF4OVVXXy1GUkpQaG1iX3hZM05qcldLbDg1ZWxkckJaNE1OVHViR21yZGdaeDVBUmRaSVFnVW43dmxnZFczMUZGa3E5dTZYYU4zYUVwdzVEc29CUTBvdW85aVhYanZuRXBkLWRIMjhFOS1fU1phUVJCSlRWMEhXUzdjYXNRVk50NFFVTzJvd1E?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 29 May 2026 07:00:00 GMT",
+      "snippet": "TRX Price Outlook: Why TRON Suddenly Dropped 10% This Week&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Tron extends USDT lead over Ethereum as TRX price decouples from network boom - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHExdldaYWN1ekhQaXpDYnNUQkRrTDdMVmZ6WU9DR2dObUtuT21XSFVsSXlyV2JlODM5Y0hiZmlyTHVjRmNOMDl0RUFmb3dTS2xVQWpfWjF5Yzc5dTVqVWRqd2lFTTN6V1FkMzJHWncyaHFQbGpZNXNrMWY4a2hVMWlYNTJPZ2ZtaWlYZXR6WXJxMHd3UDNBMEdmYXFtODA?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "snippet": "Tron extends USDT lead over Ethereum as TRX price decouples from network boom&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "TRON (TRX) Price Outlook 2026–2030: Realistic Targets Based on Network Growth and Market Cycles - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZYi1lclRtSERBcE5EdXpMZ2tfb1FOYlgya3ozT1V5VVdIRGs1TF92MVFtVmZFMG1BcmMtSzA3djh2ZDZLTnl1V2RYVTJSV3VHSG5xb3hUcmlpVWY4YV95djJwcXRqRmh3RlRCN05KejlBZFB3bjVoTjBnN2phZw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 20 May 2026 12:35:29 GMT",
+      "snippet": "TRON (TRX) Price Outlook 2026–2030: Realistic Targets Based on Network Growth and Market Cycles&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "TRX Price Likely to Slide Below $0.30 After Tether Follows US Directive to Freeze $344M on Tron - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnlIQXgxMFgxTXYxWi13N1FLa3pBSUpWZUktb3RVb2ZRc1B6UXNhTVJibHMzeW5YMkdxeDAzMWVxRFJ6d1lUQUdZZi1ISmxlWG1RY3VEdmFfX1pmQ0FuWThWaWExbWdMRWNKVFdQdFBwb3FEenFVOHR1RGN4UWNoU1JoSTlFQWtlZzRmMQ?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "snippet": "TRX Price Likely to Slide Below $0.30 After Tether Follows US Directive to Freeze $344M on Tron&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Tron TRX price analysis: $0.37 discount despite $84B USDT dominance - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yeTllQVlBRHJNcThHVjByMDVTX0F5RE5WLWZOblpHbEsxX0NUNHlaa3RCU3ludFhPamZjQ3dXSWpRbzZWeE9mNS1YMFpRSFpkTWdpa1VqVGNQQUE?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
+      "snippet": "Tron TRX price analysis: $0.37 discount despite $84B USDT dominance&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "What Is Tron (TRX)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1TDkwSGpVMlZHeEdPTDl1SUp4dHAteU5ha2xNN256RHdFcHFCYnJLNTVmejlwV18tZThrQlh5S1pvcWNpQjB6YW5seTZLZktIRVJvbnkwSHgtcVYxR2R1RVJqb2RXUW9fUEdZVQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 19 Nov 2025 08:00:00 GMT",
+      "snippet": "What Is Tron (TRX)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What is TRON? What is TRX? A Must-Read 2019 Guide Packed Full of Info - Blokt",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZOUkxTk9NZ3NyMjZuMFhGbGtoaDZNVEpZTDJTRlRmMTkyamhYT3oxcWhFcjh1UmR2RXc1elZERzhPYW9zUXkzSdIBTkFVX3lxTE5ILTRIM0ZONnJ1S2IyOEtsbWo4T2JQU1ZiME9ONGxMb2Z1ZnNKejlyd084OW5KZ1N3cTdDMW1CWmJNNnk1ck5JZV9vZkwtQQ?oc=5",
+      "source": "Blokt",
+      "publishedAt": "Sun, 10 Mar 2019 08:00:00 GMT",
+      "snippet": "What is TRON? What is TRX? A Must-Read 2019 Guide Packed Full of Info&nbsp;&nbsp;Blokt"
+    },
+    {
+      "title": "Tron Price Today - TRX Live Chart & Real-Time Market Data - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zVFkya0d4T00yTWtSVHdhMlBmcHFUTW9ta1Q5OC1OU0JGelpWeFpVOGZlMXFsMnFaUGtOc1FYdXd4b25WV0E?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Thu, 11 May 2023 12:16:23 GMT",
+      "snippet": "Tron Price Today - TRX Live Chart & Real-Time Market Data&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "What is Tron (TRX)? Will it reach $1 in the future? Is TRX still a worthwhile investment? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFNORExiMWZWZVd3QXMyaUxPUzc4NjkyTTVHZTVoYzlhZlMxVjJGd01SYVg4am9qejBfMWpZUkJuVC1TV3FmeVBBZnRMTWxCRUcyUVkweEZHNktZckltOHRzbHQ0MlNQamhQRGRrVTZ1VThlNWdTTV9EXzJKXzY1Ujl0Y0dUZ0tjNmp3ZldQNDIyejZ1bl9KY05XVGlzc0h4X1B4VE5WaS13ZzcxQ0RVUg?oc=5",
+      "source": "TradingKey",
+      "publishedAt": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "snippet": "What is Tron (TRX)? Will it reach $1 in the future? Is TRX still a worthwhile investment?&nbsp;&nbsp;TradingKey"
+    },
+    {
+      "title": "Best Tron dApps in 2026: Top TRX Projects Reviewed - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxNVBVd29MazBYeXg3SmowN1VTbllKSWg4NzREN2lRZTczMGZ4enBXT0JIYjFaNjc3N1VWS214SE1WRjNHSzhvXzN0M1huSDBrNTJOMDJOZVozWUtfVmNj?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Wed, 10 Sep 2025 07:00:00 GMT",
+      "snippet": "Best Tron dApps in 2026: Top TRX Projects Reviewed&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Justin Sun Introduces SunPump Platform With 888 TRX Airdrop - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40azRKOEJFenZkanlKTXpBbnlQcnZNdkwxa1A2UmktVUdyeldvcVZQTjNHNG5xMFNSZ1lET3hwTldxWHdLQlJwdUNtN0luaDBIRTZCR0xZbjRIckJMampENWFQWktReTg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 16 Aug 2024 07:00:00 GMT",
+      "snippet": "Justin Sun Introduces SunPump Platform With 888 TRX Airdrop&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "3 Altcoins to Invest in February 2026 — ADA, TRX, and HYPE - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13RS1DeHlwZlRtQUZzSWt0RDRxTFlpbjNaTFlFUWcxVGZqb1J5aEpwNGlyeHF2ZWoxN25HcHJKaTBNNHItZk1FdUYtVEdfNEd0bHJoZGt0MWZuTzNOWWfSAWNBVV95cUxOcjUxUUFMS0laMzk4b1Njal9GTVo0VGRfRlZtOThGUjltQVAxR3hSM0RuNzhSUUxRWGdRUmRpZU4tcmlyMFJxSUJ6Q1FyZUZPMm5SeWNKNW9TVzZQcy10LWhLYkk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "snippet": "3 Altcoins to Invest in February 2026 — ADA, TRX, and HYPE&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bitcoin fails to break below $79 while TRX leads gains. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xTVlTZ1MwVmVsWnBmNjdkUTNoRzRFSUs3VTF4OEtkRnZkOUJRX1cwajZyc21odWpxbHUxLXk0UFljZVpEbHEtX2ZSMlZWeVpoVWxaQzA2WjBnc1ZOemfSAWNBVV95cUxQb3lSNVRYSzRpbkRTWl82QWk3bzF3d0xLWHgyQy1RNGMyeGxyaGZ1TUdicExnbjh3NzJTUWVhOWlUTDBnSGlZeDdfTTdPbFJodnQ3REQ3a1Z3VU9PUDZ4NFhvTzA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 03 May 2026 07:00:00 GMT",
+      "snippet": "Bitcoin fails to break below $79 while TRX leads gains.&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/tron-bsc?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

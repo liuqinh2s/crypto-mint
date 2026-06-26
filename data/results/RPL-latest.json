@@ -1,0 +1,264 @@
+{
+  "token": "RPL",
+  "requestedInput": "RPL",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:31.805Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "RPL",
+    "name": "Rocket Pool",
+    "generatedAt": "2026-06-26T08:47:23.220Z",
+    "summary": "RPL在Solana链上Raydium的流动性池出现异常高流动性（1.32亿美元）但极低交易量（24h仅3.99美元），价格6.23美元，市值1.33亿美元。新闻面有2025年SEC利好和2026年价格预测，但无近期重大催化。流动性极高但交易量极低，可能存在操纵或流动性陷阱。",
+    "rating": {
+      "score": 20,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性池交易量恢复正常水平（如24h成交量>100万美元）且出现明确基本面催化"
+    },
+    "catalysts": [
+      "2025年8月SEC新指引利好LDO和RPL等质押代币",
+      "2025年2月Saturn Devnet启动曾推动价格上涨"
+    ],
+    "latestNews": [
+      {
+        "title": "LDO and RPL Among Tokens Lifted by New SEC Guidance",
+        "impact": "利好",
+        "reason": "SEC新规可能降低监管风险，提升质押代币需求"
+      },
+      {
+        "title": "Rocket Pool Extends Price Rally Amid Saturn Devnet Launch",
+        "impact": "利好",
+        "reason": "技术升级推动市场情绪"
+      },
+      {
+        "title": "Rocket Pool Price Prediction 2026-2031: Can RPL Reach $3.50 in Feb 2026?",
+        "impact": "中性",
+        "reason": "预测价格低于当前，暗示可能高估"
+      }
+    ],
+    "fundamentals": [
+      "Rocket Pool是以太坊上的去中心化质押协议，但此RPL代币在Solana链上，与以太坊RPL不同",
+      "代币合约地址：HstQ7VKVX7L1T6TGRN5X1TYtbosuq89nygy31SAJtHVG",
+      "总供应量和流通量未提供，市值与FDV相同（1.33亿美元）",
+      "流动性池创建于2025-05-12，流动性极高（1.32亿美元）但交易量极低"
+    ],
+    "marketRead": [
+      "24h交易量仅3.99美元，流动性1.32亿美元，流动性/交易量比极高，表明池子可能被操纵或无人交易",
+      "无价格变化数据，可能因交易量过小无法计算",
+      "市值1.33亿美元，但无实际交易支撑，估值存疑"
+    ],
+    "risks": [
+      "流动性陷阱：高流动性但低交易量，可能无法有效买卖",
+      "合约风险：Solana链上RPL非以太坊官方RPL，可能为仿盘或同名代币",
+      "信息不足：无供应量、ATH、社区数据，基本面不透明",
+      "价格操纵风险：极低交易量下价格易被操控"
+    ],
+    "watchlist": [
+      "交易量是否突然放大",
+      "官方Rocket Pool是否承认此Solana代币",
+      "流动性池是否被移除或价格剧烈波动"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无CEX数据",
+      "新闻标题提及RPL但可能指以太坊RPL，非此Solana代币",
+      "无链上交易记录或K线数据，分析受限"
+    ]
+  },
+  "profile": {
+    "id": "HstQ7VKVX7L1T6TGRN5X1TYtbosuq89nygy31SAJtHVG",
+    "symbol": "RPL",
+    "name": "Rocket Pool",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/4bapuw4ktuntrabax75nbzjlytndsvbpsitohn1gmx6e",
+    "marketCapRank": null,
+    "currentPriceUsd": 6.23,
+    "marketCapUsd": 133324164,
+    "fullyDilutedValuationUsd": 133324164,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-05-12",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "4bApuW4kTunTrabAX75NbzjLyTNdSVBpsiTohN1gMX6e",
+    "baseTokenAddress": "HstQ7VKVX7L1T6TGRN5X1TYtbosuq89nygy31SAJtHVG",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 132324065.79,
+    "pairUrl": "https://dexscreener.com/solana/4bapuw4ktuntrabax75nbzjlytndsvbpsitohn1gmx6e",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "RPL/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "4bApuW4kTunTrabAX75NbzjLyTNdSVBpsiTohN1gMX6e",
+    "pairUrl": "https://dexscreener.com/solana/4bapuw4ktuntrabax75nbzjlytndsvbpsitohn1gmx6e",
+    "lastPrice": 6.23,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 132324065.79,
+    "fullyDilutedValuationUsd": 133324164,
+    "marketCapUsd": 133324164,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/4bapuw4ktuntrabax75nbzjlytndsvbpsitohn1gmx6e",
+    "pairAddress": "4bApuW4kTunTrabAX75NbzjLyTNdSVBpsiTohN1gMX6e",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "HstQ7VKVX7L1T6TGRN5X1TYtbosuq89nygy31SAJtHVG",
+      "name": "Rocket Pool",
+      "symbol": "RPL"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "6.2345",
+    "priceUsd": "6.23",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 132324065.79,
+      "base": 21223307,
+      "quote": 5956.1395
+    },
+    "fdv": 133324164,
+    "marketCap": 133324164,
+    "pairCreatedAt": 1747023291000
+  },
+  "news": [
+    {
+      "title": "Rocket Pool Price Today | RPL to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aZjhxMlZKdS1PdWh1cTFFQk9HdXRhZXZRM05pUWFYcEhReXBacWFnWUJDMlZSRlRaTk5lTUdvdUxXeXN1eDNVWnJxMkFib2s0d29vMWJGOA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 24 Jun 2026 14:55:00 GMT",
+      "snippet": "Rocket Pool Price Today | RPL to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Rocket Pool (RPL) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWTRITVlmLXBFai1UbjZaSHVCQzR4eG1wZDdzZ3VTcVh2YzVlS1hqa3QtNTlydXQtSzRPRzlaR2tyMmpBblBSOWJZbkotMndVN3V3bWpqQVMwdjMtZUU4UXAtTGtpVS13QXYzRV93?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Fri, 16 Sep 2022 06:57:38 GMT",
+      "snippet": "Rocket Pool (RPL) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Rocket Pool price today, RPL to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxQWxqMnc4SldDcXlIVzFqUW1pcWxtNVB4UUllRjFIeXJaY0NCWjdRTlB0X0Q0WFZZMmRBcENkcEI1Sk9CTVRfWFdqRGd1MnhoandfU3RsaXBidFk2blE?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 18 Jul 2018 01:49:56 GMT",
+      "snippet": "Rocket Pool price today, RPL to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Rocket Pool Extends Price Rally Amid Saturn Devnet Launch - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMXBuSlhFNUp5LXBlTDgzYXNBREhqczAtZ0FkZ0lzbDRFTmRCTGlMVlJrYUkzTms0ZmFUNTY3VWI2SXlsa3luRHZNaGhCTVN2RDJVY09NVFdnU29KVWlHUnV3b2hNUGpLZ05jaUdOOHpsZnB4eEY4VHFVM3ZkVmhWXzFlbWFUN0wzUWlrS3JibVF0NlE?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Tue, 11 Feb 2025 08:00:00 GMT",
+      "snippet": "Rocket Pool Extends Price Rally Amid Saturn Devnet Launch&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Rocket Pool Price: RPL/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VNUdCUDQ2Mnl5NzU4Wk8tUTNHc2Yza0dCQkNGRXg1bnF0TFlIX0lNd1RoVmFJTkxiRFdxdUUzN3B1bnFYbWhGWllpTjZfUHJQU1ZUNlMtUWtIZw?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 06 Feb 2018 08:16:22 GMT",
+      "snippet": "Rocket Pool Price: RPL/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "RocketPool price today, RPL to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qUExvN1RoSWtlQkxGaS12OVE5QkZBTFZqMDJVeUFUdG5EZWh1RUNSZ0YxcExKazc5TV9jZFpyOHJXeVA4THY1eTBsNlY1Zmp1TGJrdA?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 29 Jun 2023 16:19:41 GMT",
+      "snippet": "RocketPool price today, RPL to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Rocket Pool Price Prediction 2026-2031: Can RPL Reach $3.50 in Feb 2026? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqSDU1Umxpa05TT1RFVXJpLU5PVmZBQUExSVNobzYtTEtBUU5MUWp6Zm5nbHdKNkRZbE9EcGI4YlFZLVY1RDhnaEpQdnBrbHlCTG1BMy1EZDRMLUI5eFNFSkU2RXJad3kwbWdtMURWUjJGNGxkdTRId1hpN2c?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "snippet": "Rocket Pool Price Prediction 2026-2031: Can RPL Reach $3.50 in Feb 2026?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Rocket Pool Price Prediction 2025: RPL Targets All-Time High - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KNUpUOTVxZjVVdnZjc1VOU0pTUF9FRHVpMVpUd3JuRF9FWERyd0NISGRqclZlbGFlWDkxQkptR2M0NTc4VFJXdjdpaXZ2bUk0clZhNEQ3NzFnaXA0bk5qZUctRQ?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 19 Dec 2024 08:00:00 GMT",
+      "snippet": "Rocket Pool Price Prediction 2025: RPL Targets All-Time High&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "LDO and RPL Among Tokens Lifted by New SEC Guidance - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTjQzdlFDRi0tRmhWTXpvMFBVUWRSbFJocEt6cDVvMzhSeGlSRGNMNGJvTVhZeDBVOThiSEsyR0FSR3FaMkE5TFk5ckRCV25hYWlxYmprT25Ea0dGREJMVmxEOUU0WWhjT1ZrazdmdGhfYmVXb0pJVzh3X3pwOXYwZlptbVdUa0FfUzlfRlQwZ29oLXNiMjdmNWJHd1pMTVJqeDI0azh2NjdGZUVaNUZYVWUxams?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "snippet": "LDO and RPL Among Tokens Lifted by New SEC Guidance&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=RPL: Throttled\n"
+  ]
+}

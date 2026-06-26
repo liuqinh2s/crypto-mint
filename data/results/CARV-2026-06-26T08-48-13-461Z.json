@@ -1,0 +1,316 @@
+{
+  "token": "CARV",
+  "requestedInput": "CARV",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:48:13.461Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CARV",
+    "name": "CARV",
+    "generatedAt": "2026-06-26T08:48:05.197Z",
+    "summary": "CARV是一个基于Solana的AI与游戏数据协议，近期因AI Agent路线图和Telegram游戏生态获得关注。但当前链上交易量极低（24h仅3.95美元），流动性虽高但实际交易冷清，价格24h微跌1.99%。缺乏近期重大利好催化，估值约8700万美元，无明确上涨动力。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大合作或上线头部CEX，且成交量显著放大，可重新评估。"
+    },
+    "catalysts": [
+      "AI Agent路线图发布（2025年7月）",
+      "Telegram游戏'Banana'生态合作",
+      "5000万美元加速器计划"
+    ],
+    "latestNews": [
+      {
+        "title": "The Rise of AI Beings: CARV’s New Roadmap Signals Next Wave of Web3 AI",
+        "impact": "利好",
+        "reason": "AI Agent路线图是长期叙事，但新闻发布于2025年6月，时效性已过。"
+      },
+      {
+        "title": "As ‘Banana’ Telegram Game Rises, CARV Reveals $50 Million Accelerator",
+        "impact": "利好",
+        "reason": "游戏生态和资金支持，但新闻发布于2024年9月，已无新鲜度。"
+      },
+      {
+        "title": "CARV outlines AI agent plan with blockchain at the core",
+        "impact": "利好",
+        "reason": "重申AI+区块链战略，但无具体新进展。"
+      }
+    ],
+    "fundamentals": [
+      "项目定位：去中心化游戏与AI数据协议，旨在让用户拥有数据所有权。",
+      "代币用途：治理、质押、支付等。",
+      "融资背景：曾获Binance Labs等投资，但具体金额未在数据中体现。",
+      "代币经济：总供应量未公开，FDV与市值相同（约8700万美元），暗示全流通或接近全流通。"
+    ],
+    "marketRead": [
+      "24h交易量仅3.95美元，几乎无实际交易，价格变动无意义。",
+      "流动性高达8649万美元，但可能为LP提供，实际买卖盘极薄。",
+      "无近期K线数据，无法判断趋势。"
+    ],
+    "risks": [
+      "交易量极低，存在流动性风险，大额买卖可能造成剧烈滑点。",
+      "新闻均为2024-2025年旧闻，缺乏近期催化。",
+      "代币上线时间较短（2025年7月），合约风险未知。",
+      "市场情绪冷淡，无资金关注。"
+    ],
+    "watchlist": [
+      "是否有新合作或CEX上线公告",
+      "交易量是否显著回升（如24h>10万美元）",
+      "AI Agent路线图的具体落地进展"
+    ],
+    "sourceNotes": [
+      "数据来源仅DexScreener，无CEX交易数据。",
+      "新闻来源为Google News RSS，部分链接可能已失效。",
+      "基本面信息有限，未找到官方白皮书或团队信息。"
+    ]
+  },
+  "profile": {
+    "id": "EMVn8eAEpemDyw8ooC1TjUB4d4Khiidus9vpiKQSFQqc",
+    "symbol": "CARV",
+    "name": "CARV",
+    "categories": [
+      "solana",
+      "orca"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / orca. Pair URL: https://dexscreener.com/solana/9v5mtaazgvtqmtu1kwprzysnxn3naqu2tbtnswz9z4px",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.2964,
+    "marketCapUsd": 86996672,
+    "fullyDilutedValuationUsd": 86996672,
+    "totalVolumeUsd": 3.95,
+    "priceChange24hPct": -1.99,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-07-05",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "9v5mTAazGvTqMtU1kWPrzysnxn3NAQu2TBtnswz9z4pX",
+    "baseTokenAddress": "EMVn8eAEpemDyw8ooC1TjUB4d4Khiidus9vpiKQSFQqc",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 86496863.27,
+    "pairUrl": "https://dexscreener.com/solana/9v5mtaazgvtqmtu1kwprzysnxn3naqu2tbtnswz9z4px",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "CARV/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "9v5mTAazGvTqMtU1kWPrzysnxn3NAQu2TBtnswz9z4pX",
+    "pairUrl": "https://dexscreener.com/solana/9v5mtaazgvtqmtu1kwprzysnxn3naqu2tbtnswz9z4px",
+    "lastPrice": 0.2964,
+    "priceChange24hPct": -1.99,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.95,
+    "liquidityUsd": 86496863.27,
+    "fullyDilutedValuationUsd": 86996672,
+    "marketCapUsd": 86996672,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/9v5mtaazgvtqmtu1kwprzysnxn3naqu2tbtnswz9z4px",
+    "pairAddress": "9v5mTAazGvTqMtU1kWPrzysnxn3NAQu2TBtnswz9z4pX",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "EMVn8eAEpemDyw8ooC1TjUB4d4Khiidus9vpiKQSFQqc",
+      "name": "CARV",
+      "symbol": "CARV"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.2964",
+    "priceUsd": "0.2964",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.95,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -1.99
+    },
+    "liquidity": {
+      "usd": 86496863.27,
+      "base": 291749980,
+      "quote": 83.0156
+    },
+    "fdv": 86996672,
+    "marketCap": 86996672,
+    "pairCreatedAt": 1751725363000
+  },
+  "news": [
+    {
+      "title": "CARV Price Today in India | CARV to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sZDhENWt5LXpBQUJ3Z0hCTzNlNXc3UHJSQzNsVml3aEVHaDVjU1BOd0JLNDdueEtrbUNuendTRENINExubWY4eTM1ZmJTVzNJRXc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 20 Jun 2026 22:05:00 GMT",
+      "snippet": "CARV Price Today in India | CARV to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "CARV Price: CARV/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HWXlnZldUZ1F3Ty1sQ2RTbHNCR0lGMWZwS19CeXNrY1BYWndxQ2FfVkZxa2ZVVVNPV1VhTGo1ekt0SlQ0bklVaWxQMV9vODFx?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 09 May 2024 08:47:37 GMT",
+      "snippet": "CARV Price: CARV/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "CARV (CARV) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fd2o0MXl5TzhndGNuR2J3V2haMDhrLVRMVTJRWnU2QmNvc0dEYmFfbkJNUTdMMGRkNzdUZDlkblFsNVBreWJXYWhOd1poNmpYVXV3M25GSTJJc0h1NndUcmlaa0I1Zw?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 10 Oct 2024 07:46:18 GMT",
+      "snippet": "CARV (CARV) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "CARV price today, CARV to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSR1BfWlVWN3Jxb1hvWWlGcGQ1SEg5aWsxSFg3aklZS2hBUjNpSmxQMWJTbmZLcXpSaXFCMW1hc1JCUmNONmVocFRtaw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 25 Nov 2024 00:35:59 GMT",
+      "snippet": "CARV price today, CARV to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "CARV outlines AI agent plan with blockchain at the core - blockchaintechnology-news.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSm0zZWt1czg4ZzRWVlZYZXZhZGtfUDVUUWhZMzNqSXladzljYVlOMnlNY2dDZWdVZERyZHJJZVFRV1VXQnRObGxJcXA3ZE5tLWFoaWxoMWJvLVNUejRaX1dKRGxLWks0dnd4SDJxbjVBN0hwWlJaY0pEQTJVRl8wcDlGd1dDT1NFSjZmMEx1ZW9ZSnI5QW40TGVlVkRJWGdf?oc=5",
+      "source": "blockchaintechnology-news.com",
+      "publishedAt": "Thu, 03 Jul 2025 07:00:00 GMT",
+      "snippet": "CARV outlines AI agent plan with blockchain at the core&nbsp;&nbsp;blockchaintechnology-news.com"
+    },
+    {
+      "title": "CARV Price Today - CARV Live Chart & Real-Time Market Data - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5wblU2RVdvTWlPMFVZX1NFYUt2dUY5WC00d3Rvc2xCeEdleFhpMGR4Yi1CMzV3cWQxZUVHd2JibzJuQUJwUEVj?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Fri, 08 Nov 2024 19:29:24 GMT",
+      "snippet": "CARV Price Today - CARV Live Chart & Real-Time Market Data&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "Carv Price | CARV Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NNnE0TWc1aTZlZUY0WXlUOXV4eDFZb1FVZEgyRVhmbnB3ckc3MU5BWldSZEFtak4yUm5GVXU0SlQtRFVvZWJn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 07 Dec 2023 18:34:01 GMT",
+      "snippet": "Carv Price | CARV Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Carv (CARV) - All information about Carv ICO (Token Sale) - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE94TjdoTDYyTFlSTTV5cnEyY3FpdnlVMEhuTWlPZ2gyNmhuNHp2R3lISG5nYV8zYVJ1OFRGQUhPbw?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Wed, 07 Dec 2022 01:39:09 GMT",
+      "snippet": "Carv (CARV) - All information about Carv ICO (Token Sale)&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Information you need to know before listing $CARV - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KaXY0V3VMcDkyRklaVFVBaFRtNGdRSzdfM2RFN2l6Vll5SDdFR2RrMXpGV0FjaWwzUnMtOWdFM3g4d3JWNk1iNjVXWVNyWFhaOTcwN2V4RVgwamNLZXVzb2Uwbw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 10 Oct 2024 07:00:00 GMT",
+      "snippet": "Information you need to know before listing $CARV&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "CARV to SBD: Convert CARV to Solomon Islands Dollar | Live CARV Price in SBD | MEXC - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OMkcwdkF6ZnFxS3VYVWF0ZW9OeTJfb0tHNDNib0xFb2hhSFhadTBMN2FTNU5JY3NweEhoUXlMOXlHS01uSkFFd3oyak0yVHVtN3VN?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Fri, 07 Nov 2025 08:00:00 GMT",
+      "snippet": "CARV to SBD: Convert CARV to Solomon Islands Dollar | Live CARV Price in SBD | MEXC&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Understanding CARV: A Comprehensive Overview - Messari",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ybUNpU2RtMjdTeXBkdWFKQTVTMVBVTFBSZU9qVGFrUlhDRjl5ai1BUnp2WHd3UDhfVnlGYlViOXZYdWJLa2l3aE1fQkNMM2pjUktWbjkxODhreUFYUVZZVWZvQjU1VkFJTzZSell3bDBNaUNNd2hQVQ?oc=5",
+      "source": "Messari",
+      "publishedAt": "Fri, 13 Sep 2024 07:00:00 GMT",
+      "snippet": "Understanding CARV: A Comprehensive Overview&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "Carv Protocol Insights and all you need to know including the Binance & CARV Airdrop - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVlFVOW44YVFzaE5FMjFfSS0zSlV6OEhIdTRhTmxZcng2dTRGNkx2SER6N0I0NjRXVXVCQllaYlVHMmwwYm1Tdi1wU0FucTlsbFpPR0Q4aGhIVHkzNkpzSlZNRQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 20 Aug 2024 07:00:00 GMT",
+      "snippet": "Carv Protocol Insights and all you need to know including the Binance & CARV Airdrop&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Earn $USDT by Playing BANANA: The New Clicker Game on Telegram Powered by CARV Protocol - BitPinas",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnROcXZKY1hZVDdRS3VaZkt2RmF6ZDVhMzRqa2J5cWZ2eTlMN2NISHRscVktSWFvNTVsTkNUYzdmTVdRMkh3NzdnU0hhUWFvaEJ1TVVyelg5WHAwZ1BDU1h3dVczR1Z5aU0xdFdhVlhPcU1FazRLTDV5MTBDRExyeTJyWmZpN1Ja?oc=5",
+      "source": "BitPinas",
+      "publishedAt": "Sat, 10 Aug 2024 07:00:00 GMT",
+      "snippet": "Earn $USDT by Playing BANANA: The New Clicker Game on Telegram Powered by CARV Protocol&nbsp;&nbsp;BitPinas"
+    },
+    {
+      "title": "RootData Heat Index Ranking: CARV ranks first, ZenChain has the biggest ranking increase - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44SG5qSTBWNVo1QktZSDN3YjM3cjZXelcwU3hiM2VjY1NISzRJOEFMbHFXVXNpZEFoSHFRSFMyS2tJN3F0bUF4d1JKb29qSHBIUy05NEJrS3c3bkpRRlE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 10 Oct 2024 07:00:00 GMT",
+      "snippet": "RootData Heat Index Ranking: CARV ranks first, ZenChain has the biggest ranking increase&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "The Rise of AI Beings: CARV’s New Roadmap Signals Next Wave of Web3 AI - The Block",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR29Da2ZYeHh2akYtS1RQR2hRU19HRURrRmlic09Vc28yWFJuWDJUUTF3QmlGQVBCZ1FsT19PRllPQXpUeFBDYXRUVWNDMkFZYUJKR3NoVW5CSjJoZy01bHdnSlRqWEVNZjhwQUFGMzg5eW1ZVGVleklPVnB1YkJPdkpMODRCUlF1WG9QeFpGSTdzQkF6cGhHQ1pHOVhIN2RtV0NnVDk3MDcySzYwSksyX3RZeC0?oc=5",
+      "source": "The Block",
+      "publishedAt": "Fri, 27 Jun 2025 07:00:00 GMT",
+      "snippet": "The Rise of AI Beings: CARV’s New Roadmap Signals Next Wave of Web3 AI&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "As ‘Banana’ Telegram Game Rises, CARV Reveals $50 Million Accelerator - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wMUVMMGxYNTcxTThlSHlyQURTNlBtWjQwd3gwTXBfeVV3SWlKOTBocTR1dV9LZ0RSNjRFajRRM01HUzQwM296elQ0VGdScTktNUtDV2gzODBvbmxyQXNSU2REcVpVaHo3NVplb3FPc0RnOGI2Ti1ZUlAyek9WN2fSAYcBQVVfeXFMUDN3aTJab3R2M3JVcnlYaU9tcHU2cTR6YVphSGtoSV9jUmpSVGQ4UE1walcycWFtT1pjQUtTWUFBRTFUY0xibGlhVWtYQ21wbTFpUWlVYXZOUmxyMVlKSXBCbXBGam9Ia2VFa0FQdnRuTVJZMERXVGV5TzNzeTRRd0dMQm42MXBr?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Thu, 12 Sep 2024 07:00:00 GMT",
+      "snippet": "As ‘Banana’ Telegram Game Rises, CARV Reveals $50 Million Accelerator&nbsp;&nbsp;Decrypt"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/carv?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

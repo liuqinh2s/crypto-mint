@@ -1,0 +1,303 @@
+{
+  "token": "GRASS",
+  "requestedInput": "GRASS",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:18.720Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "GRASS",
+    "name": "Grass",
+    "generatedAt": "2026-06-26T08:47:09.774Z",
+    "summary": "GRASS近期7天涨幅约14.7%，但24小时回调约7%，当前价格0.448美元，较历史高点3.89美元下跌约88.5%。项目属于AI+DePIN赛道，基本面有概念支撑，但代币全流通，市值约2.73亿美元，FDV约4.48亿美元，估值中等。近期无重大利好新闻，上涨可能为超跌反弹或板块轮动。流动性充足（DEX流动性约1.96亿美元），但合约风险低。建议观望，等待更明确催化。",
+    "rating": {
+      "score": 40,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若跌破0.40美元支撑或出现负面消息则逻辑失效"
+    },
+    "catalysts": [
+      "AI+DePIN赛道热度回升",
+      "超跌反弹需求",
+      "社区活跃，持有者会议等生态活动"
+    ],
+    "latestNews": [
+      {
+        "title": "Why is Grass rallying? - FXStreet",
+        "impact": "中性",
+        "reason": "文章分析上涨原因，但未提供新催化，且发布于2月，时效性不足"
+      },
+      {
+        "title": "Grass holders' meeting concludes: What wealth secrets are hidden in the information? - Bitget",
+        "impact": "利好",
+        "reason": "社区会议可能透露生态进展，但来源为交易所自媒体，可信度一般"
+      },
+      {
+        "title": "Grass: Expected to reach $12.8 million in Q4, next phase of airdrop rewards plan in preparation - Bitget",
+        "impact": "利好",
+        "reason": "Q4收入预期和空投计划可能吸引用户，但发布时间为2025年11月，已过时"
+      }
+    ],
+    "fundamentals": [
+      "Grass是一个去中心化AI训练网络，利用闲置带宽收集数据，属于DePIN+AI赛道",
+      "获得Polychain Capital等知名机构投资，背景较强",
+      "代币总供应量10亿，当前流通约6.1亿，全流通，无解锁抛压",
+      "市值排名约136，FDV约4.48亿美元，估值处于中等水平"
+    ],
+    "marketRead": [
+      "24小时价格下跌约7%，但7天涨幅约14.7%，呈现短期反弹后回调",
+      "DEX流动性充足（约1.96亿美元），交易深度较好",
+      "成交量约4291万美元，相对活跃，但未出现异常放量",
+      "价格仍远低于ATH，处于底部区域，但趋势未反转"
+    ],
+    "risks": [
+      "代币全流通，但早期投资者和团队可能仍有持仓，存在潜在抛压",
+      "AI+DePIN赛道竞争激烈，项目实际采用和收入尚未验证",
+      "近期无重大利好催化，上涨持续性存疑",
+      "市场情绪偏弱，整体加密货币市场波动风险"
+    ],
+    "watchlist": [
+      "关注0.40美元支撑位，若跌破可能进一步下探",
+      "关注项目方是否发布新合作或产品更新",
+      "关注AI和DePIN板块整体走势",
+      "关注链上大额转账或持仓变化"
+    ],
+    "sourceNotes": [
+      "价格数据来自CoinMarketCap和DexScreener，存在一定延迟",
+      "新闻来源多为交易所自媒体，权威性一般",
+      "基本面信息来自项目官网和公开资料，未验证"
+    ]
+  },
+  "profile": {
+    "id": "grass",
+    "symbol": "GRASS",
+    "name": "Grass",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "Solana Ecosystem",
+      "DePIN",
+      "Polychain Capital Portfolio",
+      "Binance Alpha Spotlight"
+    ],
+    "homepage": [
+      "https://grass.io/",
+      "https://www.getgrass.io/"
+    ],
+    "description": "",
+    "marketCapRank": 136,
+    "currentPriceUsd": 0.448288,
+    "marketCapUsd": 273244790,
+    "fullyDilutedValuationUsd": 448226451,
+    "totalVolumeUsd": 42910761,
+    "priceChange24hPct": -6.9812,
+    "priceChange7dPct": 14.67619,
+    "priceChange14dPct": 19.14354,
+    "priceChange30dPct": -14.24605,
+    "athUsd": 3.89,
+    "athChangePct": -88.52235,
+    "circulatingSupply": 609613264,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 33.33,
+    "watchlistUsers": 48729,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "GRASS/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "Fqhrw7F7pCR9UNzqncUhY78JLoru1nQWmvB1dbz6yN7r",
+    "pairUrl": "https://dexscreener.com/solana/fqhrw7f7pcr9unzqncuhy78jloru1nqwmvb1dbz6yn7r",
+    "lastPrice": 0.8063,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 195672681.88,
+    "fullyDilutedValuationUsd": 196682374,
+    "marketCapUsd": 196682374,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/fqhrw7f7pcr9unzqncuhy78jloru1nqwmvb1dbz6yn7r",
+    "pairAddress": "Fqhrw7F7pCR9UNzqncUhY78JLoru1nQWmvB1dbz6yN7r",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "28j4x61q5TzPEYDqJNJrQk5pQzoxKydXwExsAVvtAgiR",
+      "name": "Grass",
+      "symbol": "GRASS"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.8063",
+    "priceUsd": "0.8063",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 195672681.88,
+      "base": 242652951,
+      "quote": 19.5446
+    },
+    "fdv": 196682374,
+    "marketCap": 196682374,
+    "pairCreatedAt": 1760003038000
+  },
+  "news": [
+    {
+      "title": "Grass Price Today in Turkey | GRASS to TRY Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FRTMyc2hzZWVyTkh6VG5PMmxVRzVlQlRqaEFWUnpIeElNcmQ1QVp0bEt3aGJaTDU2TWtGYjVUa3RXNVVlazQwQ3BocjBjMmRoOWVZ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 21 Jun 2026 17:32:00 GMT",
+      "snippet": "Grass Price Today in Turkey | GRASS to TRY Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Why is Grass rallying? - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNHdqTFdjSnJXX1ZPcVVYbEtIS2dVYnlhWS1icUlCbkpKREcwaEU3WXYzUzZ5ZkkyV0JzaXFqSlVnOHFnVEZFR1NOdnRnQkc5YWdkVGYwTmhHeFdwZmg1RnJkazZqOU40aWJfeUV6cEhfM1M5WlRuaFdud0RZbWpSZWFhaHNWazBoRHBsSm9NazJQeTNQX1lON3dSRjZBZVhHUUhDZ0tFS0xtTF84d0d1QXRvZm9YSF9lLWFTb01tTGxxM0NPR2NlV1lqc09WVjVQQ09r0gHYAUFVX3lxTE5RSzRtWEk1emNjRmVadVBYWmhYQnpack5iaGRXOUJ2engtNTNQeVlYcEhGbXdibDVLRVJfLUlIbkZCZm5vcXlHTUpDV0Q2b2xScjRNRU9aRlZ0eGVxOU9HNWlGVmpuYk1mR1BKc0NhV0dkcXFtTVd4WWZOR1JYLW5Xc1F6NXVIVTlQcHFnZmRYSW50WnJoNzdZeGZZS0hjRklkVm1MZjlZZnM1UGFyWWkwVkdGQmp4UWxDaEs5cy1DTzJ2dlgzNzFIcEJrdG9PUzh0Vjk5MFBwTQ?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "snippet": "Why is Grass rallying?&nbsp;&nbsp;FXStreet"
+    },
+    {
+      "title": "GRASS Price Prediction: Can GRASS Start a Real Recovery? - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYmQzSFktcXVKbGpJVU8tc05LaUdweU5jcVNzbHZ1amFMblZfeEFZUHpuQWt5T1hZaW1Rcy1tN0xyRkpYdHJvb3MxOU9YeVFibXhmRDRESU8wdDlhUm5zTl90WmtoN0RPZmN3RGNhTUUyWUlVTzhkXzFaVkdIWmRHblBwV0VEZWRQQlJXZ3ZEVExURW90d2tKUE5RWUsxZ0pKMUxyUmdvZFdqZDkzQU9LOHhHQVpCY3Nj?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "snippet": "GRASS Price Prediction: Can GRASS Start a Real Recovery?&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Grass holders' meeting concludes: What wealth secrets are hidden in the information? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2RW1DWnFiT3R6Yk8xbk8tc1hlOC1wN1VnaFRDaHVIRlpQSzIxaW9iQTM1Ym5uclVndFgtUkN3cmJ6YTBnc3NBc0hyb0Z6c2tha0FyeGpRMzdzM011VmfSAWNBVV95cUxPa2J0YjJWWmhNaWRpYVRxdEd5SzB5Qk42dHU3ZW1ib0NqM0IwZUg5RUxWX1M2M2hkUkRVSTJnZ1haeU5VRV9IU0NtX0hXNEhSQzlmNkdrWFpXcHpRbXAzZzhyREU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 25 Nov 2025 08:00:00 GMT",
+      "snippet": "Grass holders' meeting concludes: What wealth secrets are hidden in the information?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Grass Price Today in Australia | GRASS to AUD Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mblBDeThPRjB1QkNCZjhKbWdBREZHZTJSNGdfbFRRY2I1STBkYWhmSlJjOGdnMmRZWXdxNVh2WG1icDRUUy1KMER3NFJ1S3dnTld3?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 20 Jun 2026 17:07:00 GMT",
+      "snippet": "Grass Price Today in Australia | GRASS to AUD Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Grass (GRASS) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Pb2F3ZUg0bnhFR2ZWbkVOVWJfSUtfcjhJTXpHVjdTY2xLZVJnQzlpYzFaWHRrazF4NzdvWnd6RUVxTTlKOWF6aXFGbEt0SHVPSWFoajV6S0tuZU5RUjBfUTRrM182ZmNhdXZR?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 12 Dec 2024 23:50:49 GMT",
+      "snippet": "Grass (GRASS) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Grass (GRASS): Revolutionizing AI Training and Green Crypto with Idle Bandwidth - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RZTlFcEtJUlplZ1lOY2FIUGJIQzRrQl9WMkdaOTlvUnB2X01HWGhlZHJzcHdfdzdHZWdtam5oQUo4SE5kMFRGdU9HMDVoT3VTZUtlU3lRSzlxT2p4elhmVVAtSGVoa00?oc=5",
+      "source": "OKX",
+      "publishedAt": "Tue, 24 Jun 2025 07:00:00 GMT",
+      "snippet": "Grass (GRASS): Revolutionizing AI Training and Green Crypto with Idle Bandwidth&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "What’s New in DePin? OKX Lists GRASS on Pre-Market, Aethir Launches $100 Million Fund, and More - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VNHBCb1V6Q2pMM1ExSnJFb25ZRUQ2Ymh4akVYeTBqd3hHdnZmclRkaDNSUzVSSGU5QTF5ZGJzbnBRWndPTWJuYngxTUw1dG0ycnVjZDVtMjRxOGhxOVM1a0EtU0NwbGE5dDh1MGhPR051X0tt?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Mon, 14 Oct 2024 07:00:00 GMT",
+      "snippet": "What’s New in DePin? OKX Lists GRASS on Pre-Market, Aethir Launches $100 Million Fund, and More&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Grass price today, GRASS to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNQXlBY3psUUVxckRraHJFZEk3dlJ0SzdRUEViVVN4SFpHNy1Dcmk4LW5ZZktEM2h1c3pycl9DZVo1eHZfdVBnTGgzSmV6TXRiMDhEb0VB?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sat, 07 Sep 2024 04:44:18 GMT",
+      "snippet": "Grass price today, GRASS to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Grass (GRASS) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5QWJsc25aYWd4ZW9wS1hCdDhFY0QxR1R4QVQ5dFFxQk95eDk4UklPbHVoMTRtY19wWk9LazNWaERVWVkxZmc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 22 Apr 2024 12:22:30 GMT",
+      "snippet": "Grass (GRASS) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "AI Crypto Coins 2026: $Grass Struggles as Kite Picks, But DeepSnitch AI Offers a Life-Changing Opportunity to Turn $1,000 into $200k - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jQkRfb18zLXVoUXlTb3p5LV9qME5kOUJVVXdycFdETUxrTVhhdHdRT055bDJ0cVRJNFphZG9IWGxlcHB6VWZiSkJlZEFtbm1raS0zWVo0U0pKUkR0VUHSAWNBVV95cUxQNkh2Skd2LVZ6Nmcyd0didTZHT0R1Y0pqQW9PLWkzUmVLN1FCdVF6Q0pBRU95dXpqWEJZbUY5Ry1zRjVTWXlfTU1xTHBjUm0xbE9uTTNrV2FlazQ3aFd1TmZ2bm8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 18 Jan 2026 08:00:00 GMT",
+      "snippet": "AI Crypto Coins 2026: $Grass Struggles as Kite Picks, But DeepSnitch AI Offers a Life-Changing Opportunity to Turn $1,000 into $200k&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Grass: Expected to reach $12.8 million in Q4, next phase of airdrop rewards plan in preparation - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXRHhLWTJmcTB6M2VmTU56SzdsZ0l0TDBJcHpycHQ1SHNMMm1ibHNCWTZaNF9kemR3NG1iSDhhYXQ1d3ZqRW1RenJ1TGxvVHIzdkNIVHVBTDZWX3dXZEHSAWNBVV95cUxPRVpQNkN6QUlEcHNxR0ZSeDB4aTNXS25HeWE2U3ZrSEt6c1hsbjMwckRrMWd5V1RrTU5HYjhKR1lra08zdG5BcU1RQnROcFF2MUNkd2UxZlNEX09wOUY1OC1qSG8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 26 Nov 2025 08:00:00 GMT",
+      "snippet": "Grass: Expected to reach $12.8 million in Q4, next phase of airdrop rewards plan in preparation&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "GRASS Token Price Surges 28%: Can the Rally Continue? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12c2k4MGhic3o4X1RVS0tGVWMybWg4NWJNdGpmSS1VNXhJdUlQcG5sblBGcm9PczlOUVFuZmkxRlNfdDJubzJ4Y2NVaTJjY3Y3bHg2MTFSWHI3QS01R2c?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 30 Oct 2024 07:00:00 GMT",
+      "snippet": "GRASS Token Price Surges 28%: Can the Rally Continue?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "GRASS Price Prediction 2025-35: Will It Hit $80 by 2035? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OMTc2VE1fYzBqWklXdFJuQ2dmVXZSdWZkT1NuNENjMkJsVnFtRzM3bVdodklPVjVLcmh2bkV0bW1jbDdtMmo2NW5CeTdaSUJrMVpzQ09pYzJCNXFQdVHSAWNBVV95cUxNOTZhUlBDRk1aX3pUMzJ0Uy1sdE1YV3ZBOUhBblAtYWVxTThqY1g4Y2xBbXdIa2FSdlVUZzBhcXQxTTVMVVJ3d3BaZ1V6UFJ2em1lR2IzV3NybE1MUjRyWkZ2TGs?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 12 Apr 2025 07:00:00 GMT",
+      "snippet": "GRASS Price Prediction 2025-35: Will It Hit $80 by 2035?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Grass: Users can link their wallet to their account and view rewards on the dashboard - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IZkowejFsUkFKcjdkbllfWkJ4djlOR093R1REdk1lYk13ZGRjMWpPWEdfT1JEVHVSbEp6Mm1Od3RzaVhUaFIyODFvaGJVMUVfMDNlRmFUU2VEODFtc2fSAWNBVV95cUxPWEVxLXVHM0x0NVl6dzFHbFZKSmxraVdlNktBR3NISUZzYlNoWlM1Vy1RSzJBX3FIMDZ1akthQm56SjJXRXJUdlNJYW1WWGJyV291Q0hqbmlmMktCZlNnb2RvX1E?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "snippet": "Grass: Users can link their wallet to their account and view rewards on the dashboard&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

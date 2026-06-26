@@ -1,0 +1,317 @@
+{
+  "token": "NAORIS",
+  "requestedInput": "NAORIS",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:39.662Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "NAORIS",
+    "name": "Naoris Protocol",
+    "generatedAt": "2026-06-26T08:47:32.155Z",
+    "summary": "Naoris Protocol 是一个抗量子区块链项目，近期主网上线并获融资，但市场关注度低，流动性极高但交易量极低，价格24h微跌，存在欺诈警告风险。",
+    "rating": {
+      "score": 20,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [
+      "抗量子区块链主网上线（2026年4月）",
+      "获Mason Labs等300万美元战略融资（2025年5月）",
+      "Binance Alpha及期货上线（2025年7月）"
+    ],
+    "latestNews": [
+      {
+        "title": "Naoris Launches First NIST-Approved Quantum-Resistant Blockchain Mainnet",
+        "impact": "利好",
+        "reason": "技术里程碑，提升项目可信度"
+      },
+      {
+        "title": "CYBERPOL Issues Urgent Warning: Naoris Protocol ($NAORIS) Crypto Listing on Binance Flagged as Fraud Over False Presidential Endorsement",
+        "impact": "利空",
+        "reason": "欺诈警告，严重损害项目声誉"
+      },
+      {
+        "title": "Naoris Protocol Raises $3M in Strategic Round Led by Mason Labs",
+        "impact": "利好",
+        "reason": "融资表明机构兴趣"
+      }
+    ],
+    "fundamentals": [
+      "抗量子区块链项目，主网已上线",
+      "总供应量及流通量未披露，市值约2.64亿美元",
+      "DEX流动性极高（2.63亿美元），但24h交易量仅4美元，流动性/交易量严重失衡",
+      "存在CYBERPOL欺诈警告，涉及虚假总统背书"
+    ],
+    "marketRead": [
+      "价格0.06612美元，24h微跌0.02%，无价格历史数据",
+      "交易量极低（4美元），表明市场几乎无真实交易",
+      "高流动性可能为虚假或机器人提供，实际买卖盘极薄"
+    ],
+    "risks": [
+      "欺诈警告：CYBERPOL指控虚假背书，项目可信度存疑",
+      "流动性陷阱：高流动性但无交易，可能为操纵或无人问津",
+      "信息不透明：总供应量、流通量、代币解锁计划均未披露",
+      "新闻热度已过：主网上线及融资均为数月前，近期无新催化",
+      "合约风险：DEX上Meteora池，需审计但未提及"
+    ],
+    "watchlist": [
+      "CYBERPOL警告后续发展",
+      "是否有真实交易量回升",
+      "项目方是否披露代币经济细节"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener和Google News，缺乏链上持仓分布",
+      "新闻中部分来源为Binance、CoinMarketCap等聚合页面，非原创报道",
+      "欺诈警告来自Tribuna Politica Web，需交叉验证"
+    ]
+  },
+  "profile": {
+    "id": "3sB5MvdUW7eitpfM2bVZwRkVjunfJW9eAPtRTCt3gNFb",
+    "symbol": "NAORIS",
+    "name": "Naoris Protocol",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/gayehmpqqf17ybullhfxpatfnjkjuokmxuk2thfosdsb",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.06612,
+    "marketCapUsd": 264494684,
+    "fullyDilutedValuationUsd": 264494684,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-03-18",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "GaYeHmpQQf17yBULLHfXpAtfNJkJUoKMXUk2thFosdsb",
+    "baseTokenAddress": "3sB5MvdUW7eitpfM2bVZwRkVjunfJW9eAPtRTCt3gNFb",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 263494780.61,
+    "pairUrl": "https://dexscreener.com/solana/gayehmpqqf17ybullhfxpatfnjkjuokmxuk2thfosdsb",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "NAORIS/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "GaYeHmpQQf17yBULLHfXpAtfNJkJUoKMXUk2thFosdsb",
+    "pairUrl": "https://dexscreener.com/solana/gayehmpqqf17ybullhfxpatfnjkjuokmxuk2thfosdsb",
+    "lastPrice": 0.06612,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 263494780.61,
+    "fullyDilutedValuationUsd": 264494684,
+    "marketCapUsd": 264494684,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/gayehmpqqf17ybullhfxpatfnjkjuokmxuk2thfosdsb",
+    "pairAddress": "GaYeHmpQQf17yBULLHfXpAtfNJkJUoKMXUk2thFosdsb",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "3sB5MvdUW7eitpfM2bVZwRkVjunfJW9eAPtRTCt3gNFb",
+      "name": "Naoris Protocol",
+      "symbol": "NAORIS"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.06612",
+    "priceUsd": "0.06612",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 263494780.61,
+      "base": 3984787564,
+      "quote": 5999.002571
+    },
+    "fdv": 264494684,
+    "marketCap": 264494684,
+    "pairCreatedAt": 1773817633000
+  },
+  "news": [
+    {
+      "title": "Naoris Protocol Price Today in Turkey | NAORIS to TRY Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13S1dqWnVkVFNRUnoxcVplVFdrSmFnZ18wWENXekF5MmJMeXlNb2NWUldNd0lzTVdFaGN0dGlwc1FZMHJOZnViUDlWLWdONGVlVHBtXzdNV3FMeEEtelZzRg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 22 Jun 2026 01:59:00 GMT",
+      "snippet": "Naoris Protocol Price Today in Turkey | NAORIS to TRY Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Naoris Launches First NIST-Approved Quantum-Resistant Blockchain Mainnet - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tQjlhOE55UU5Kc1FYTmpSX2tVVmxwR0JhbnZBSEFiVVVFbS1xclFILW5KVm5wUlFSTy05Skh3VkEzTlR1YS1uOG5EOTJWWU5fQ3o1cGMzX09xNlNnSzF3ZFlacjBmWlI5aVBiOEdiOEhXbmpjY1ZwVEVtbWlRaVk?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Sat, 04 Apr 2026 07:00:00 GMT",
+      "snippet": "Naoris Launches First NIST-Approved Quantum-Resistant Blockchain Mainnet&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Quantum-Resistant Blockchain Mainnet Launches: Naoris Protocol’s Revolutionary Security Shield - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORjV1TlJndTRQZ0VoZi12VnJwTThucU1NZFVaczBpVWxzZE5PdTJsRkpHbE5GQ3pVYy1tRFpocTZ2YjJSakZrVXJic2hGeXhOQVJYS1hRclRlQmtNZTlOSzlQc2gwM09aN2lfLTdiaHcwY01jNFI3ZUczZjIzZXFTYnVTSlN0Y1ZodGhLNm5NMmYzTEZL?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "Quantum-Resistant Blockchain Mainnet Launches: Naoris Protocol’s Revolutionary Security Shield&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Naoris Protocol Price Today | NAORIS to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UZlJuQXRsOXZOOUk5Um4yaTRfbEV2TE5wT0w0ZEpHOWdzdHlDVnU5SmNpNUhlWU1oYzUtRVppYjNoZl9mM2lhRjJJQXdUbEdkYllPbjJUOGY5bjVnM1BaTg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 21 Jun 2026 07:55:00 GMT",
+      "snippet": "Naoris Protocol Price Today | NAORIS to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Naoris Protocol price today, NAORIS to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hM19TUnJDUzdPdmdveEs1RktsQk8wTzNyb2F4QzlyU3BIOXcyMkRqV2NtRWhXNG5CMGJZUFdUdGdwQ3RDVDhtVzJWVlZzWXZJWnY3enhrU2h3UnRGRVVKbEFlTQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 09 Jan 2025 05:17:45 GMT",
+      "snippet": "Naoris Protocol price today, NAORIS to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Naoris-protocol Price Prediction 2026 until 2032 - CryptoTicker",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wWDhMUGhkYjFrNnp5dzB1T3Btd3BrUHF6WnF1QW1NREwtcG1OZk5mLXFMS3dtYy1OQ3NrNG5Ic0tJZUZ6bFdtclRSUjFMQ0thWFg4OFNHWnd4X3NqZjFsMVFablZmMUVoeG5TV3ZXTVh3UVAtY052S2dUdw?oc=5",
+      "source": "CryptoTicker",
+      "publishedAt": "Wed, 06 Aug 2025 22:09:01 GMT",
+      "snippet": "Naoris-protocol Price Prediction 2026 until 2032&nbsp;&nbsp;CryptoTicker"
+    },
+    {
+      "title": "Naoris Protocol price today, NAORIS to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yM0xGVkhJNWpveG1wQTBTdHMwZE12VXJaZjg4bk01Zk5wS19WT2N6T2FvNmpIVnM2dHljU015NDJ6Wmkxc0xuckNidlFGTElzb0VkTEVVZGV1QQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sat, 13 Sep 2025 01:58:22 GMT",
+      "snippet": "Naoris Protocol price today, NAORIS to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Naoris launches post-quantum blockchain as quantum security risks gain attention - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ00yd1ZfRU9Tb3hrb05vUnJwc3BmODUzX3ljVGk5R3EwYVZ0VEpsSVRZS2VubVZSaER1WHg2WU1uY29abllYbGxXbF9tZlZmS2tMNVNSY3Z0SzZwOHg3S3owZFZPRER0MlhzZnNDNVRCZUV2aDUzekJiT2V1elN3VlhGeTFiNTBkWVVPVW9paGx2SEhRWG9VaEtRcEM3N0hFTnNPME4zbWN6T3JzQzdhWVlGbE1RWWxaYTJPMDhzRmxVVVhwOGg1b19TTVo3dkgtQ1Ryby01SEFVWGRN?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "snippet": "Naoris launches post-quantum blockchain as quantum security risks gain attention&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Naoris Protocol Deploys Post-Quantum Mainnet to Secure Global Digital Infrastructure – News Bytes Bitcoin News - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXZXVZd0R6RlZJTnZCcHBrNVV2WlA5RnFPeTVqaGRYV3VWcWRtYVRUTlowYk9aTU83aEpvTEd3Q2U3NFdoTUQ4eWxtUjZUVUE?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "Naoris Protocol Deploys Post-Quantum Mainnet to Secure Global Digital Infrastructure – News Bytes Bitcoin News&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Naoris Protocol Announces Upcoming TGE for $NAORIS - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHNvcVJUb3hHNzg3aEJOTVVUR0tBRXhCZDdWSENUMlZPRnBPYUJaR0NpTkJtZ3dXaDNuN3FyU1dYMnRwUFlhLTV2OVg2XzhQUHhHNURldG55UXBhM1hwOFByWmR4SDlGWElVT1JueWJqd0JGekZXei1YTUYwcUJ2cjN2c1NBQnMzNTlYZFR3SzdhRXZ6UHc?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Tue, 29 Jul 2025 07:00:00 GMT",
+      "snippet": "Naoris Protocol Announces Upcoming TGE for $NAORIS&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Naoris Protocol Price | NAORIS Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NN19QZ0xvTF9rSW5hMjh5d0w1Sm05T21XXzBBM3pWeExpNHpUUHdhbWVKTHQtVGZtZ1ZpNi13UGUyTUZRQlFyckpOLUkwRTJuM3kwNw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 22 Nov 2023 13:27:56 GMT",
+      "snippet": "Naoris Protocol Price | NAORIS Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What is Naoris Protocol (NAORIS)? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vbjVHZFZreHczSC15dldEOExjMWN1Yk84OW1mSXR2b1NlR3hPQzZHTF9qZUpjeXJUQV92N2xMSDU3MUJmY0h2Q242bU9Yc2F6RHlFLXBYX1F3WjdRY29sb2RNX1VKT1VrRnpQc3RnQ3RwNDMx0gF6QVVfeXFMTmp4OWpkLWJzM0pkVHgzaGN3TEZTME9iYlVHdXlmR0htbVM2c3VSeVQ1aHF2c1dXN0hoTmt6djYweVF1YzUtV2hocEtDTTNFTGMzYTZZdEtQeTNXbTYwS3RqSkpGQ3BRQlg3cnB3NVNWYzRHT3VrN2dmMHc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 03 Aug 2025 07:00:00 GMT",
+      "snippet": "What is Naoris Protocol (NAORIS)?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "CYBERPOL Issues Urgent Warning: Naoris Protocol ($NAORIS) Crypto Listing on Binance Flagged as Fraud Over False Presidential Endorsement - Tribuna Politica Web",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNMHV6VWVfSWlyNndWZmZmLXNySER1ME1FYkc1NXpZcGdqdm9RYUVNTE1kamRGeGZMVUV0aFVIekRxT25jQjduY29CNmgwa0JqRTA5eTVpdUZrN3JjYkFsdEJxeS16S1kySV9ZZUd4UF9td05CVFJPWkc0dEtIY3lBT2d4eVVmMkVuT01zN0g2ZkxGcE8wajRNOWZDSFdkb2VhMTBvU0xvMkpVUnkwMFlCbGFEU3JZQWJ1MXZkUnppNDgycjJrRUItLUNGcjVSUFdtbGRvRnZIN0czbExXRUNaSnI4andOM0U5YU9Eb1U3ZDZKM2hoNHFyQ09aZVFGWnBtSURGekpyS3JyYy15clFQS1VoODYtZzFf?oc=5",
+      "source": "Tribuna Politica Web",
+      "publishedAt": "Thu, 31 Jul 2025 07:00:00 GMT",
+      "snippet": "CYBERPOL Issues Urgent Warning: Naoris Protocol ($NAORIS) Crypto Listing on Binance Flagged as Fraud Over False Presidential Endorsement&nbsp;&nbsp;Tribuna Politica Web"
+    },
+    {
+      "title": "Naoris Protocol (NAORIS) Will Be Available on Binance Alpha and Binance Futures (2025-07-31) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbl9zMHhkM1k5QkVkaTctZzFhUGZMVldvMnd3eW8xc2h2S3hSRXJRX1ZHcm9nNkt1ZnJFWHpZdGMzQnJlal91Zml2d3lfWmZORDREdVRobjNnZGlWaFdsN1lsTUp5SVMyUjItemRuWVJuTGFEUHZGZ1ZtejNMSUNQYkFMTmJYUXFuNTFaWW41MDc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 28 Jul 2025 07:00:00 GMT",
+      "snippet": "Naoris Protocol (NAORIS) Will Be Available on Binance Alpha and Binance Futures (2025-07-31)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Naoris Protocol Raises $3M in Strategic Round Led by Mason Labs - The Block",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmJ2SkJZZ1hRVnY4RmkybVlDY1dNMERpWnVrdjVWRERCTXcxWTRXWUNKSmxBOWFIbk1OR1dUZlJXNmZPbnRERkltSmVvNnFjNHVQOG83R3d1T0NWVHlsNnVHbXhsMTNhMzgzUUoyZm0wejJuZDV6blVHMlJyY3doeVA2UDN3QzZ0OHpYNmNfTGZraFFyYlgzMlJvMXdLMnZMYWIzNHZONXBGQjN5?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 29 May 2025 07:00:00 GMT",
+      "snippet": "Naoris Protocol Raises $3M in Strategic Round Led by Mason Labs&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLWxCd21xMGt1UF9XbDgwNEt5Njk3VVFmM1pxcEdvUy1kTXp6bHVCQVVSTVdJZGlxaXhCUi0tNll0ay1FY3R6a0huTFBpTVhvLTRRZUtRNEl1Yms5OVVWQXc0U1ltdkJ4d1dQMEJZWGRMY2NLSHRGejRkeUdZeVdNTlp3UnB2cnVyUEtOOEpaWmpRd2EzTldLbFlpZ0MtQnQ0N1oxSXhRVVVDSU9ZRE9rN3BGbi10LVpNb212cHBWT01BMmRXSjAzaXBmeHEzbzNRS2tieTU4TkVvMW4t?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "snippet": "Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=NAORIS: Throttled\n"
+  ]
+}

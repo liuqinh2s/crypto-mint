@@ -1,0 +1,179 @@
+{
+  "token": "MAGM",
+  "requestedInput": "MAGMA",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:59.705Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MAGM",
+    "name": "MAGMA",
+    "generatedAt": "2026-06-26T08:47:55.211Z",
+    "summary": "MAGM是Algorand链上Tinyman DEX的一个极低流动性代币，市值仅1693美元，流动性仅0.01美元，几乎无法交易。无任何新闻或交易量，价格变动无意义。强烈回避。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性极低，任何买入都会导致价格剧烈波动且无法卖出。"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "代币名称：MAGMA，符号MAGM",
+      "链：Algorand，DEX：Tinyman",
+      "交易对：MAGM/PEPE",
+      "市值：1693美元",
+      "流动性：0.01美元",
+      "总供应量未知，FDV与市值相同",
+      "创建于2023-05-25，但无任何交易活动"
+    ],
+    "marketRead": [
+      "24小时价格变化为null，无交易量",
+      "流动性极低，实际无法交易",
+      "无K线数据，无历史价格参考"
+    ],
+    "risks": [
+      "流动性几乎为零，无法正常买卖",
+      "无交易量，价格容易被操纵",
+      "无任何新闻或社区关注",
+      "项目信息缺失，可能已废弃"
+    ],
+    "watchlist": [
+      "流动性是否增加至可交易水平",
+      "是否有新的交易活动或社区动态"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener，仅有一个交易对且流动性极低",
+      "无新闻来源，无社交媒体数据"
+    ]
+  },
+  "profile": {
+    "id": "445362421",
+    "symbol": "MAGM",
+    "name": "MAGMA",
+    "categories": [
+      "algorand",
+      "tinyman"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on algorand / tinyman. Pair URL: https://dexscreener.com/algorand/gmiudf3j6knqcrmwzvyjgtntthendum5b27t4sjcpbulw6w4spulx2xy5i",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.000002178,
+    "marketCapUsd": 1693,
+    "fullyDilutedValuationUsd": 1693,
+    "totalVolumeUsd": 0,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2023-05-25",
+    "chainId": "algorand",
+    "dexId": "tinyman",
+    "pairAddress": "GMIUDF3J6KNQCRMWZVYJGTNTTHENDUM5B27T4SJCPBULW6W4SPULX2XY5I",
+    "baseTokenAddress": "445362421",
+    "quoteToken": {
+      "address": "1096015467",
+      "name": "Pepe",
+      "symbol": "PEPE"
+    },
+    "liquidityUsd": 0.01,
+    "pairUrl": "https://dexscreener.com/algorand/gmiudf3j6knqcrmwzvyjgtntthendum5b27t4sjcpbulw6w4spulx2xy5i",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "tinyman",
+    "pair": "MAGM/PEPE",
+    "chainId": "algorand",
+    "dexId": "tinyman",
+    "pairAddress": "GMIUDF3J6KNQCRMWZVYJGTNTTHENDUM5B27T4SJCPBULW6W4SPULX2XY5I",
+    "pairUrl": "https://dexscreener.com/algorand/gmiudf3j6knqcrmwzvyjgtntthendum5b27t4sjcpbulw6w4spulx2xy5i",
+    "lastPrice": 0.000002178,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 0.01,
+    "fullyDilutedValuationUsd": 1693,
+    "marketCapUsd": 1693,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "algorand",
+    "dexId": "tinyman",
+    "url": "https://dexscreener.com/algorand/gmiudf3j6knqcrmwzvyjgtntthendum5b27t4sjcpbulw6w4spulx2xy5i",
+    "pairAddress": "GMIUDF3J6KNQCRMWZVYJGTNTTHENDUM5B27T4SJCPBULW6W4SPULX2XY5I",
+    "baseToken": {
+      "address": "445362421",
+      "name": "MAGMA",
+      "symbol": "MAGM"
+    },
+    "quoteToken": {
+      "address": "1096015467",
+      "name": "Pepe",
+      "symbol": "PEPE"
+    },
+    "priceNative": "1.6691",
+    "priceUsd": "0.000002178",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 0.01,
+      "base": 2892.4753,
+      "quote": 4827.8764
+    },
+    "fdv": 1693,
+    "marketCap": 1693,
+    "pairCreatedAt": 1684995621000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/magma-finance?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

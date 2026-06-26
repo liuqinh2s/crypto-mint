@@ -1,0 +1,308 @@
+{
+  "token": "OAI",
+  "requestedInput": "OPENAI",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:54.918Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "OAI",
+    "name": "OpenAI",
+    "generatedAt": "2026-06-26T08:47:47.208Z",
+    "summary": "OAI是Solana上PumpSwap的Meme币，与AI公司OpenAI同名但无关联。24小时跌24.67%，市值仅10万美元，流动性极低。近期无实质利好，仅靠名称蹭热点，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [
+      "与AI巨头OpenAI同名，可能吸引投机者误以为是官方代币",
+      "社区推特账号活跃，但无实际产品"
+    ],
+    "latestNews": [
+      {
+        "title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports",
+        "impact": "中性",
+        "reason": "新闻关于真实OpenAI公司，与OAI代币无关，但可能引发同名代币炒作"
+      },
+      {
+        "title": "Proofpoint, Inc. Joins OpenAI Daybreak Cyber Partner Program And Integrates GPT-5.5 Into Its Products And Services",
+        "impact": "中性",
+        "reason": "同样与OAI代币无关"
+      },
+      {
+        "title": "OpenAI Considers AI Pricing Cuts as Competition With Anthropic Intensifies (OAI)",
+        "impact": "中性",
+        "reason": "新闻标题含OAI但指股票代码，非此代币"
+      },
+      {
+        "title": "International Business Machines Corporation And OpenAI, Inc. Bring Frontier AI To Cyber Defense",
+        "impact": "中性",
+        "reason": "无关"
+      },
+      {
+        "title": "Introducing the Codex app - OpenAI",
+        "impact": "中性",
+        "reason": "无关"
+      },
+      {
+        "title": "OpenAI set to start rolling out ads to free and ChatGPT Go users",
+        "impact": "中性",
+        "reason": "无关"
+      },
+      {
+        "title": "OpenAI reorganizes teams, merging Model Behavior with Post Training",
+        "impact": "中性",
+        "reason": "无关"
+      },
+      {
+        "title": "Did OpenAI Cheat on Its Big Math Test?",
+        "impact": "中性",
+        "reason": "无关"
+      }
+    ],
+    "fundamentals": [
+      "Solana上PumpSwap的Meme币，无实际项目支撑",
+      "总供应量与市值相同，无锁仓或销毁机制",
+      "创建于2026-05-20，仅一个月历史",
+      "流动性仅2.39万美元，极易被操纵"
+    ],
+    "marketRead": [
+      "24小时跌幅24.67%，成交量3.3万美元，流动性2.39万美元",
+      "价格从ATH（未知）持续下跌，无反弹迹象",
+      "无K线数据，交易深度极差"
+    ],
+    "risks": [
+      "合约风险：PumpSwap上的Meme币，无审计，可能Rug Pull",
+      "流动性风险：流动性极低，大额卖出将导致价格暴跌",
+      "名称误导风险：与OpenAI公司无任何关联，纯蹭热点",
+      "无基本面支撑，完全依赖投机情绪"
+    ],
+    "watchlist": [
+      "关注项目方是否抛售代币",
+      "关注社区活跃度是否持续下降",
+      "关注是否有新的同名代币出现分流资金"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，仅提供24小时价格变化，无更长周期数据",
+      "新闻均为真实OpenAI公司，与OAI代币无关，但可能被误读为利好",
+      "无官方白皮书或团队信息"
+    ]
+  },
+  "profile": {
+    "id": "56DeqXiADWY2Y3iD8pdbpTi9jhXXneofTY5dp4Xjpump",
+    "symbol": "OAI",
+    "name": "OpenAI",
+    "categories": [
+      "solana",
+      "pumpswap"
+    ],
+    "homepage": [
+      "https://x.com/OAIonSol",
+      "https://x.com/Saebeskii"
+    ],
+    "description": "DexScreener pair on solana / pumpswap. Pair URL: https://dexscreener.com/solana/5k6vxnylsr3eg3d3pulperhzackpiajt3lm4oegvnmei Socials: twitter: https://x.com/i/communities/1958895424120431040",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.0001009,
+    "marketCapUsd": 100993,
+    "fullyDilutedValuationUsd": 100993,
+    "totalVolumeUsd": 33329.17,
+    "priceChange24hPct": -24.67,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-05-20",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "5k6VXNyLSR3eG3D3puLpeRhZackPiAJt3LM4oeGvNmEi",
+    "baseTokenAddress": "56DeqXiADWY2Y3iD8pdbpTi9jhXXneofTY5dp4Xjpump",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 23913.54,
+    "pairUrl": "https://dexscreener.com/solana/5k6vxnylsr3eg3d3pulperhzackpiajt3lm4oegvnmei",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pumpswap",
+    "pair": "OAI/SOL",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "5k6VXNyLSR3eG3D3puLpeRhZackPiAJt3LM4oeGvNmEi",
+    "pairUrl": "https://dexscreener.com/solana/5k6vxnylsr3eg3d3pulperhzackpiajt3lm4oegvnmei",
+    "lastPrice": 0.0001009,
+    "priceChange24hPct": -24.67,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 33329.17,
+    "liquidityUsd": 23913.54,
+    "fullyDilutedValuationUsd": 100993,
+    "marketCapUsd": 100993,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/5k6vxnylsr3eg3d3pulperhzackpiajt3lm4oegvnmei",
+    "pairAddress": "5k6VXNyLSR3eG3D3puLpeRhZackPiAJt3LM4oeGvNmEi",
+    "baseToken": {
+      "address": "56DeqXiADWY2Y3iD8pdbpTi9jhXXneofTY5dp4Xjpump",
+      "name": "OpenAI",
+      "symbol": "OAI"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.000001445",
+    "priceUsd": "0.0001009",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 2
+      },
+      "h1": {
+        "buys": 82,
+        "sells": 34
+      },
+      "h6": {
+        "buys": 91,
+        "sells": 55
+      },
+      "h24": {
+        "buys": 281,
+        "sells": 218
+      }
+    },
+    "volume": {
+      "h24": 33329.17,
+      "h6": 9514.83,
+      "h1": 7181.94,
+      "m5": 8.14
+    },
+    "priceChange": {
+      "m5": -0.45,
+      "h1": -13.05,
+      "h6": -5.82,
+      "h24": -24.67
+    },
+    "liquidity": {
+      "usd": 23913.54,
+      "base": 117711664,
+      "quote": 172.05932
+    },
+    "fdv": 100993,
+    "marketCap": 100993,
+    "pairCreatedAt": 1779296214000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/wL-KBZZIB9vcrnpq?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/9Ru82ne5ozmNlzem?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/56DeqXiADWY2Y3iD8pdbpTi9jhXXneofTY5dp4Xjpump?timestamp=1782463800000",
+      "websites": [
+        {
+          "url": "https://x.com/OAIonSol",
+          "label": "Website"
+        },
+        {
+          "url": "https://x.com/Saebeskii",
+          "label": "Extra"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/i/communities/1958895424120431040",
+          "type": "twitter"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1hRS09mSFVOVFh1VWRvSUdOSXhKV1k4bGFKdGdlR2NISTNyVHUtMjF6UnBiU0JRT19yMldUX254VXZ0SVBVTkVGc1J0amI4Y1kwb0tEbnZOMG5yX0ZhSkc4UEI1WXJxcjQwa2VGdlUxNTJFNW9GTnctallrZndyTUJYRFpBdzFqMWUxbzFvZnVOWnk1UWh5Q1B1ckNXNFRhVE9QWTFraw?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "snippet": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Proofpoint, Inc. Joins OpenAI Daybreak Cyber Partner Program And Integrates GPT-5.5 Into Its Products And Services - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOG5QOTAyekJWWjM1VXdMTENteWt5X2k0aERUWDQySFNpWnZDclduTzc5eUxaZE1JZ0VfelY4NGE2VVh3R3o3V1ozZnpLdXIyem1pbW95UU9kbzhXWTZCQVRqeUxWRERSQ0NwTEh1dHFFek5YV0RvcFd2aGNISlM2aWYtYXcyZ18yZThFMjR1a1d3ckUzQmFxTzZLMXVxa180VVZfVW16bTRKaFpBWWo5RE9NMGt3VXExTWxBVFQwNlRVd1FaOTJkVmUtRnRPRW5xZXkwUWUtR25DZVJuS2RWZjZQanJaZw?oc=5",
+      "source": "marketscreener.com",
+      "publishedAt": "Mon, 22 Jun 2026 17:02:00 GMT",
+      "snippet": "Proofpoint, Inc. Joins OpenAI Daybreak Cyber Partner Program And Integrates GPT-5.5 Into Its Products And Services&nbsp;&nbsp;marketscreener.com"
+    },
+    {
+      "title": "OpenAI Considers AI Pricing Cuts as Competition With Anthropic Intensifies (OAI) - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1FxQ2Q1ZHc2OVV5dnI4ejdOSGpnbDJDbGFmbTZBQ0QybkQ2XzZnd2diWHRrRHFKckdkUmh4M2oxdFl4enZXdTFFV014WERROFNzdlNJbUJHTUZ3QnpPTlVGTTJPZHVlSFFoSm53dWcwYkRlTXZ5TTcteUtaSmY2UmMxV1d2TGpieUIya0R0dm5ZU2xVamV3NWtYSGY4U1Q3ZU9n?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "snippet": "OpenAI Considers AI Pricing Cuts as Competition With Anthropic Intensifies (OAI)&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "International Business Machines Corporation And OpenAI, Inc. Bring Frontier AI To Cyber Defense - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUHluSWdnTHByLWlxRGxVcUY1R3paWTVNMHV5bEZnd3pFZ09WRkpmVlpOVkhaSW5tU0NrUHViOWNYR2V6WlpyZDhuUUlVWFRWQU1HZTZDbkNOaTA3NjVBLV9zMFNkenY3dmxGenh0ZndHRy0xQzg2ZU80MUlib0k4QURHMjJEVTR5a2hRYjEyTHVJY1oydmh0b05qLWdYaThXNW5ia3gyanMzQjR1TTN1a0NoZVZvU2g2UmM3UVlmcy1aTnhCRGY4MTRnMkUzc3F6ZnlITVU1YWcyMndRaW1B?oc=5",
+      "source": "marketscreener.com",
+      "publishedAt": "Mon, 22 Jun 2026 20:28:00 GMT",
+      "snippet": "International Business Machines Corporation And OpenAI, Inc. Bring Frontier AI To Cyber Defense&nbsp;&nbsp;marketscreener.com"
+    },
+    {
+      "title": "Introducing the Codex app - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BTXZIQmFLa3hwVHdySUJyYk42bjFNQnNYWW4xWV9iSzZsWkxXQkU2eTdEaFdubmpHQ3hpOWY3NUd2U3FhOHJBZWY5bGdxdTk3MEt1MzVHVk93MThOZEVxYQ?oc=5",
+      "source": "OpenAI",
+      "publishedAt": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "snippet": "Introducing the Codex app&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI set to start rolling out ads to free and ChatGPT Go users - Sherwood News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmlQa1I2NXY2LWxJazliR3B5dTlzaW5TN1FoN1pfM3B5OF9SbC05dTU5VG1VNktpUUVwYkxUWVVuRUFVRTlIYW05d1R4eXRST3ptTDltNjEzRnhZZW00WjZQQWxKNmJXV1NBQnhLYWpSdy1IU1p4dmxPQTF2TzdkY2ctMkFpMm9mMzFpMjhoQjZ3dWhzSHJN?oc=5",
+      "source": "Sherwood News",
+      "publishedAt": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "snippet": "OpenAI set to start rolling out ads to free and ChatGPT Go users&nbsp;&nbsp;Sherwood News"
+    },
+    {
+      "title": "OpenAI reorganizes teams, merging Model Behavior with Post Training - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVFUNThPMkFKQXRaUWlZQ3BjYzBlVTBmQ2REd3J1Vi1aUWJNbWI3NUp3Q3d3bThsTXJGTExEY0E3SDNpZTBBV29BZmRoYWFMWmllUDFTMlV3Rm5idG02bUVPalp0Q0JfMnYxeVlIMmVISmxhRzJRSFVwbFBpY3phandXSGRfQQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 06 Sep 2025 07:00:00 GMT",
+      "snippet": "OpenAI reorganizes teams, merging Model Behavior with Post Training&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Did OpenAI Cheat on Its Big Math Test? - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoYmdBQWFvS0U2RTJzMkdVZUR5c1o0MHB3RTVLb1JKdmhQNU1pN0dMcjVKRW5STnFLUGJ4VFVUblMza0sybFpKTUltbW1xdkgyZHYwUkpUMURFMEcwcm1OWnhQcGVmc2_SAW9BVV95cUxNMlM1MEdQcUZPNXFPVU9wbENBUUNQSFhpWkw0REpwWEE2cUs2eFdWUHNYWkJ1dWtHc3VKZ3NJMTJLcGlTMnI5TF9IMzA5dTlTNTFxOHBTVjJfWDBnRXJWRlFJMzdVMmdVbVVBVF9uNms?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Sat, 25 Jan 2025 08:00:00 GMT",
+      "snippet": "Did OpenAI Cheat on Its Big Math Test?&nbsp;&nbsp;Decrypt"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=OPENAI: Throttled\n"
+  ]
+}

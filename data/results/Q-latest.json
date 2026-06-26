@@ -1,0 +1,162 @@
+{
+  "token": "Q",
+  "requestedInput": "Q",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:26.593Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "Q",
+    "name": "Quack AI",
+    "generatedAt": "2026-06-26T08:47:19.972Z",
+    "summary": "Q代币是Quack AI项目的原生代币，近期因上线Binance Alpha和Binance Futures而受到关注。项目定位AI领域，但基本面数据不足，市场情绪受交易所上线驱动。当前价格和成交量数据缺失，无法进行技术分析。建议观望，等待更多信息。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若上线后价格大幅下跌或成交量萎缩，则逻辑失效。"
+    },
+    "catalysts": [
+      "上线Binance Alpha和Binance Futures（2025-09-02）",
+      "AI赛道热度"
+    ],
+    "latestNews": [
+      {
+        "title": "Quack AI (Q) Will Be Available on Binance Alpha and Binance Futures (2025-09-02)",
+        "impact": "利好",
+        "reason": "上线主流交易所增加流动性和曝光度，短期可能吸引投机资金。"
+      },
+      {
+        "title": "Quack AI Price Today | Q to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格页面，无实质信息。"
+      },
+      {
+        "title": "Quack AI (Q) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+        "impact": "中性",
+        "reason": "提供融资和代币经济信息，但未获取具体内容。"
+      }
+    ],
+    "fundamentals": [
+      "Quack AI是一个AI项目，代币符号Q。",
+      "有融资记录，但具体金额和估值未知。",
+      "代币经济模型未公开详细数据。"
+    ],
+    "marketRead": [
+      "由于API限制，无法获取Binance实时行情数据。",
+      "新闻显示即将上线Binance Alpha和Futures，可能带来短期交易量。"
+    ],
+    "risks": [
+      "数据不足：无法获取价格、成交量、市值等关键指标。",
+      "上线初期波动极大，存在拉高出货风险。",
+      "项目基本面不清晰，长期价值存疑。",
+      "AI赛道竞争激烈，项目差异化不足。"
+    ],
+    "watchlist": [
+      "Binance上线后的价格和成交量变化。",
+      "项目官方披露的代币解锁计划。",
+      "AI赛道整体市场情绪。"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取行情数据。",
+      "新闻来源为Google News聚合，部分链接可能已失效。",
+      "项目信息主要来自CoinGecko、CoinMarketCap等第三方平台，未验证。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "QUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "Quack AI Price: Q/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JWmRhUHVvN3R6Mm9hS1cyeTBPWWxSZmVsVlpSQzBGaTV0dmVpTWw3Q1JaeWdIWUpaYk5LNUFvRTVGSndpY1l6cmdDS0J3UGxfN0F5RXZR?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Sun, 31 Aug 2025 06:37:17 GMT",
+      "snippet": "Quack AI Price: Q/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Quack AI price today, Q to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44cmpaODdjOUFYenFNR04wZllBLUNrQUtwWHBfUW0tVGE2cDFWZlVGbGEtbGdwcmRidHhvTEdvcnFKMndTVHE2MlRPdTJGaDVQZVQ5R0ZVZ21qQQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 29 Aug 2025 11:52:25 GMT",
+      "snippet": "Quack AI price today, Q to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Quack AI Price Today | Q to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRV1Rvd3NmZGU0dEV4UVBsQjNvSUd4VzJJQ0M0al9NY0hKTmtLN3c3SWtiQWtiWGRGOVFvbkJITThteGJuNVFEMmVXc05vZnRSOFFz?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 01 Sep 2025 14:59:35 GMT",
+      "snippet": "Quack AI Price Today | Q to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Quack AI (Q) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBnNktlcnp3Z1FuaVhNRG9RQUFlT2h5SktGUHFfV1hEZnlkZDNiWkNQazVsdmdFb3Y0THhrZnlFdkpFZ3NZX2FndW1n?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 21 Jul 2025 07:00:00 GMT",
+      "snippet": "Quack AI (Q) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Not Algorand, But BMIC is the Best Quantum-Resistant Crypto to Buy Before Q-Day (Presale Open) - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CcURYSUVEb1dwZm5YN0ZycnZRc19kV2hxT2ppdWxlYkN5M0MyM1hsOVI1S0FwSzgzTEN1eldiYU82NXotOGJBR04waXpHTWNWcmJRUWNEa3N0NzZJOFHSAWNBVV95cUxOaUI2R2Z5ejh3VkVUVm1aeGh6bktYQ0lERC1uemVYSk9aTktGeE9FbUo1aGM1XzdwbVdhV3YyZkhGc3JHOS1aZ2FTLU1RdlNQZGM1NDBaS1BpbXJKQW5HNUhfeWM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "snippet": "Not Algorand, But BMIC is the Best Quantum-Resistant Crypto to Buy Before Q-Day (Presale Open)&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Quack AI (Q) Will Be Available on Binance Alpha and Binance Futures (2025-09-02) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlhxYlZ1ZUlmTzlQdHlNcWVweVEtcTRNbHQwcGxlbnU5TkZ6aEczNXBDT2Y2WWQ4U0NxVzVhRktob3JFanE2SDR5OGdBUjRhN2tsQlNlTmRhaHNVMjRJUUtTdGYyOFNHSVhjMWxEUmRiNWZKSjdzSkEzT1Z3X2trMU9acXk0Rkc3VTQyRmNNbks?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 30 Aug 2025 07:00:00 GMT",
+      "snippet": "Quack AI (Q) Will Be Available on Binance Alpha and Binance Futures (2025-09-02)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "‘Bet on the Jockey’: From Welfare to Wall Street to Web3 VC With Jenny Q. Ta - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNblBIek5veWM3OElRaEdHblZqSVYwMGRCal9ySE9VeThGSnd4SjBJWmx4NzV6V1ltYlNPUUw3ZlVSVmlUendGU2gyWHJKWndwUUVsOVFIaFFwdmdfN3JBdWVrb2hteVIwYmxPVXN0a0tDQ1NZR0xHVGlsSER0b0ZlTm9KU3FYWGNldDNsSmJMV0J4eDFWVGpZSE1xa09MVGlNYXJNVlQ1Vk5tNV84cXM2ZWpzdjMtU25PTGFpOXlB?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 04 Jan 2024 22:28:57 GMT",
+      "snippet": "‘Bet on the Jockey’: From Welfare to Wall Street to Web3 VC With Jenny Q. Ta&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=Q: Throttled\n",
+    "DexScreener: 400 Bad Request from https://api.dexscreener.com/latest/dex/search?q=Q: \"<html>\\n          <head>\\n            <title>400 Bad Request</title>\\n          </head>\\n          <body>\\n            <h1>400</h1>\\n            <p>Bad request.</p>\\n          </body>\\n        </html>\""
+  ]
+}

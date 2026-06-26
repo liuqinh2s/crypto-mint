@@ -1,0 +1,323 @@
+{
+  "token": "AXS",
+  "requestedInput": "AXS",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:46:57.317Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AXS",
+    "name": "Axie Infinity",
+    "generatedAt": "2026-06-26T08:46:49.229Z",
+    "summary": "AXS近期因游戏经济模型改革、bAXS空投预期及GameFi板块回暖而大幅上涨，但当前价格较ATH跌超99%，且链上流动性极低（Raydium上仅$4交易量），存在严重风险。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若链上交易量持续低迷或出现大额解锁抛压，则逻辑失效。"
+    },
+    "catalysts": [
+      "Axie Infinity推出bAXS新代币并向AXS质押者空投",
+      "游戏经济模型改革（奖励调整）",
+      "GameFi板块整体情绪回暖",
+      "AXS价格从低点反弹，技术面吸引投机"
+    ],
+    "latestNews": [
+      {
+        "title": "Axie Infinity Launches bAXS, Terrariums, and Dual Airdrops in Ecosystem Update",
+        "impact": "利好",
+        "reason": "新代币空投激励AXS持有者，增加生态活跃度。"
+      },
+      {
+        "title": "Axie Infinity token jumps 123% as game devs push major rewards change",
+        "impact": "利好",
+        "reason": "奖励改革提升玩家收益预期，推动代币需求。"
+      },
+      {
+        "title": "Is The 180% Axie Infinity (AXS) Rally Just Exit Liquidity For Holders?",
+        "impact": "利空",
+        "reason": "质疑上涨是否为出货行情，需警惕回调风险。"
+      }
+    ],
+    "fundamentals": [
+      "AXS是Axie Infinity的治理代币，用于投票和质押。",
+      "总供应量2.7亿，当前流通约1.74亿，流通市值1.76亿美元。",
+      "项目曾为NFT游戏龙头，但用户量大幅下滑。",
+      "近期推出bAXS新代币和Terrariums功能，试图重振生态。"
+    ],
+    "marketRead": [
+      "Raydium上AXS/USDC对流动性高达5.22亿美元，但24小时交易量仅$4，说明流动性虚假或未更新。",
+      "CoinGecko数据显示24小时交易量3011万美元，价格24h跌2.13%，7日涨7.12%。",
+      "价格较ATH跌99.39%，当前$1.01，处于历史低位。"
+    ],
+    "risks": [
+      "链上流动性极低，Raydium交易量几乎为零，存在操纵风险。",
+      "代币解锁压力：总供应量仍有约9600万未流通，未来可能解锁。",
+      "GameFi赛道整体热度下降，用户留存存疑。",
+      "价格反弹后可能面临获利了结。"
+    ],
+    "watchlist": [
+      "bAXS空投细节及领取情况",
+      "AXS质押量和游戏活跃用户数",
+      "大额转账或解锁事件",
+      "Raydium流动性池实际交易量变化"
+    ],
+    "sourceNotes": [
+      "Raydium数据异常（高流动性低交易量），可能为LP提供者未更新或数据错误。",
+      "新闻主要来自1-2月，近期催化已消化，需关注新动态。"
+    ]
+  },
+  "profile": {
+    "id": "axie-infinity",
+    "symbol": "AXS",
+    "name": "Axie Infinity",
+    "categories": [
+      "Gaming (GameFi)",
+      "NFT",
+      "BNB Chain Ecosystem",
+      "Axie Infinity Ecosystem",
+      "Metaverse",
+      "Play To Earn",
+      "Harmony Ecosystem",
+      "Ethereum Ecosystem",
+      "Animoca Brands Portfolio",
+      "Alleged SEC Securities",
+      "Binance Launchpad",
+      "Ronin Ecosystem",
+      "Card Games",
+      "Breeding",
+      "Paradigm Portfolio",
+      "Gaming Governance Token",
+      "Gaming Utility Token",
+      "Andreessen Horowitz (a16z) Portfolio",
+      "Energi Ecosystem",
+      "YZi Labs (Prev. Binance Labs) Portfolio",
+      "Consensys Portfolio",
+      "Coinbase 50 Index"
+    ],
+    "homepage": [
+      "https://axieinfinity.com/"
+    ],
+    "description": "AXS is the governance token for the Axie Infinity game. Token holders will be able to shape and vote for the direction of the game universe. This is unlike traditional games where all decisions are made by the game developers. AXS holders will be able to stake their tokens to earn more AXS and even&nbsp;vote for governance proposals.",
+    "marketCapRank": 179,
+    "currentPriceUsd": 1.01,
+    "marketCapUsd": 175590864,
+    "fullyDilutedValuationUsd": 272643568,
+    "totalVolumeUsd": 30116426,
+    "priceChange24hPct": -2.12874,
+    "priceChange7dPct": 7.12049,
+    "priceChange14dPct": 7.7387,
+    "priceChange30dPct": -13.2077,
+    "athUsd": 164.9,
+    "athChangePct": -99.38762,
+    "circulatingSupply": 173888325.001344,
+    "totalSupply": 270000000,
+    "maxSupply": 270000000,
+    "sentimentVotesUpPct": 33.33,
+    "watchlistUsers": 254316,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "AXS/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "7Fy2gQDSWSz6pfB3bHJniKpbXkZNg7uByuN6UE6t7Ln1",
+    "pairUrl": "https://dexscreener.com/solana/7fy2gqdswsz6pfb3bhjnikpbxkzng7ubyun6ue6t7ln1",
+    "lastPrice": 3.27,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 521857719.28,
+    "fullyDilutedValuationUsd": 522857600,
+    "marketCapUsd": 522857600,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/7fy2gqdswsz6pfb3bhjnikpbxkzng7ubyun6ue6t7ln1",
+    "pairAddress": "7Fy2gQDSWSz6pfB3bHJniKpbXkZNg7uByuN6UE6t7Ln1",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "qdAbtYMCunnt1o5DvRZDPYeJ2kfCn4B5h2mUr8jF56m",
+      "name": "Axie Infinity",
+      "symbol": "AXS"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "3.2786",
+    "priceUsd": "3.27",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 521857719.28,
+      "base": 159166991,
+      "quote": 1.309
+    },
+    "fdv": 522857600,
+    "marketCap": 522857600,
+    "pairCreatedAt": 1742123296000
+  },
+  "news": [
+    {
+      "title": "Why Is Axie Infinity Price Up Today? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LOEVtSEVad0lrMlRSd2V5TGY2QmxMYlFHUC1MUHk4VWY4TmloTDdicGtRUVlGTGJiVGwzV2NUZkZudExUYXd2bzNjaERPOXRObkVRZTBlTEFZc2haSFZVQ2ZDV1p1RjNBazhxYlVnUlFvcVM2OEx6WkRITWNZUQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 20 Jun 2026 14:18:07 GMT",
+      "snippet": "Why Is Axie Infinity Price Up Today?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Why Is Axie Infinity Price Up Today? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXFvNzdSMzZlNXVLTGpLTWlfalFkM2tBLW5UWFpwbE9DenR4VzBsY0NlWUZqYXpBMlFyaDlqZmpqSlFUYVN1cDNuYXlzdXc5RlVtQndzUUZmNWtGcklGRjM3N2t6OFY5clpzQU9FZ3NTa0R6b2otc1VFZlBoV1pFUW9wbmpYNHB4X2tHYTMxdXJYbmRCSGVkWEt3SQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Sat, 20 Jun 2026 10:32:14 GMT",
+      "snippet": "Why Is Axie Infinity Price Up Today?&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Axie Infinity (AXS) Price Prediction 2026, 2027-2030: Technical Analysis and Future Price Targets - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TMjFWQ2JDU2V2ZEp4eUthVHlnTTh5QkpUU2F3b2ZfS1V6NFNsb1NRTWNhS2xzWGVDbFVWSHctVTBaWXp3eV9zZUZSbEIyMk94YVFVZjFkVnlRWEJSWGVvYjlvQk05Q1AyUGFiZDR4YmhGQWQyT0Q1Y1N2cGNfQmPSAYQBQVVfeXFMUHljRnhKWG1KRHRvWVl2WW9SVUNKaHprZVI1NllSZWlodDBGck12YnRPbC1YUlhwNVZ5N0xzRkJ6YktUSHl1cTFuMnJnRHZYaEE1Y0NIemxfX3FZR3psdWdJdl96dUo2V0dIRzQwLVBxNWY4Zm1mVmo3MWEtLTh0My12Q01J?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Fri, 19 Jun 2026 08:29:00 GMT",
+      "snippet": "Axie Infinity (AXS) Price Prediction 2026, 2027-2030: Technical Analysis and Future Price Targets&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Axie Infinity Price Today | AXS to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xZFJjQU1mUGpnVC1rQkJDRHR6TXYxaUI3QUZiNE1KeTRTa2RqM252ekU4Nk42VllNTEx0R2t6ZnR2ZHNIU1REOXp0aEl6Qk44bVU1QWFnWE4wNjB3bHc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 23 Jun 2026 01:32:00 GMT",
+      "snippet": "Axie Infinity Price Today | AXS to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Axie Infinity jumps 23% as volume explodes 630% – Can bulls push AXS toward $1.58? - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpUjNOS0JVTWNxRVM4UU12bVpOVXdlTHVTd25GV29kZWo0RDBqOWJJOFhHQ2hTU01memV2d2xqcEVRUFRtT3RJdkE0LWp5dWEyenRKQThsNy0yYWM?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Sat, 20 Jun 2026 13:57:17 GMT",
+      "snippet": "Axie Infinity jumps 23% as volume explodes 630% – Can bulls push AXS toward $1.58?&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Is The 180% Axie Infinity (AXS) Rally Just Exit Liquidity For Holders? Charts Have The Answer - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05NW5TM19TV2xrN3dSWGNHUllNVkkwYnFYSE1HRlpaRWhkQVZqaExlRS1WYTBaUlBTN3M0Y3l6Y1FvWm1YRnVZNGdYdGdiYzdwYkpqQ2dycEZSOUlYc0F2YS1vejctVGFnbEVKeHNVQnF2ci1zSHJZWlU1OVYtUQ?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Is The 180% Axie Infinity (AXS) Rally Just Exit Liquidity For Holders? Charts Have The Answer&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Axie Infinity token jumps 123% as game devs push major rewards change - dlnews.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3M3RUJnWF8tVFpleHF6R0d3QThOMjlvRmR2NDJ3RjhqRUhfQU5nR044OUpacVpIS0RYOUJPT3lJS0lFVnUxUGlVajJROWZEdGVDSm4xdnpNY0dyMXBrZHdQVi1jNThDajZFVERjMVBlbVhmTi15MTREaFBPdE0tNVk1aktSV3BtX2pPbGxoUHJ2Z0lPaktqNDAwT2hfeUE3cFVMZVNEY2xSNjBIRnc?oc=5",
+      "source": "dlnews.com",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Axie Infinity token jumps 123% as game devs push major rewards change&nbsp;&nbsp;dlnews.com"
+    },
+    {
+      "title": "AXS Jumps 53%, RON Gains 15% As Gaming Blockchain Sentiment Builds - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzUzhGVGNELXZiX0dwZVMxWm8tcmVyUC11VUNkSDRQVFNzX1NzUU9SWjVGZ2lfUUtwSHdpaUxCNGJCN0EzUExOb2I3WWk3dHNfSFUwV0xfTDRidFJib2hoTWF4YkJoR1RKOWRyb1d3WFV6eDM2dHYyREkzWW0?oc=5",
+      "source": "Yellow.com",
+      "publishedAt": "Sat, 25 Apr 2026 07:00:00 GMT",
+      "snippet": "AXS Jumps 53%, RON Gains 15% As Gaming Blockchain Sentiment Builds&nbsp;&nbsp;Yellow.com"
+    },
+    {
+      "title": "New ‘Axie Infinity’ Ethereum Gaming Token Will Be Airdropped to AXS Stakers - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTZONU1aUml6Z2s3bkZBU2ZpSG1NZzdvckUtUGtaWW5jRTJGZ2FtV3hCUUdXS3h2dWU1RlY3Z29RWU1oRlVoZm8tRjAyem1aV0FaUFd6d1A0TzlieTZjb1pmMzdVTnQ3ODRRS2syLWhSWGowRkpjTXRNd1R2VHQ2dkJDLTBGdFpn?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "snippet": "New ‘Axie Infinity’ Ethereum Gaming Token Will Be Airdropped to AXS Stakers&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Axie Infinity token price soars over 20% within hours: Here’s why - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb1VlMm1IT1d1R1JMY19IMEw0NlZBV2NVa0xiOXo2S2hmZlNPYURTaGRNVWdBYmVNYnhiWW9odG1laUV4dlNUNEJvV1ExN016RDRsQlZpQXFNbDBMeUlXemhLVjlmdlpiWnV5OFJOeWh6VUJ6NmRLZnpyR3B4SEJGYUxTS21YYm4tUlhtbHdrVGhNenhjb0U0VUxsUFIzdWdiTmIxdThVQV9USXdtdlFmdUpSVnlNSU00eng0Qg?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Mon, 09 Feb 2026 08:00:00 GMT",
+      "snippet": "Axie Infinity token price soars over 20% within hours: Here’s why&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Axie Infinity Launches bAXS, Terrariums, and Dual Airdrops in Ecosystem Update - eGamers.io",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM19nRjFneUhMcEpLUXdUOW9HSkdnOXVkVnlSY3UxVk9DYVZqNlJpQlY0MllGRHFUSldDNHN6WFBsUWJvSV9QN2FvZXpwNGQ2LWZPSjF5dzRlUUxfaE5hYWdJdU9uMHhUc1NPWEZLUjVwM1d3bURXOFlpOWdTZ0tVYUo0OGZVMXZFZXNtU3d6cGdvWHVQNFJxNUpLeU0?oc=5",
+      "source": "eGamers.io",
+      "publishedAt": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "snippet": "Axie Infinity Launches bAXS, Terrariums, and Dual Airdrops in Ecosystem Update&nbsp;&nbsp;eGamers.io"
+    },
+    {
+      "title": "Axie Infinity Launching bAXS Token Airdrop for AXS Stakers - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFctNWNURUVHR2JhY2k1czJLYV9Cc2wzMzJyTFNlcU5fQV9KV0tpTUFYZ0U2MWoxN1pDVWxxTVc4djFxVFB2MVJmTGVENEd6V1U0TzAwY045ZFJza1hXWnIwQXBTa2hqUTlyMFRQUjVHaER0cjIteEgyYnU5aF9vTEpnbG1fcnBHbEdkaUdLYVYzQWpjNXJfUTYyelg1MGttUnc?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 05 Feb 2026 06:26:51 GMT",
+      "snippet": "Axie Infinity Launching bAXS Token Airdrop for AXS Stakers&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "New ‘Axie Infinity’ Ethereum Gaming Token Will Be Airdropped to AXS Stakers - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYjNjTmdlcTJJUXJ5emNtM2V0c0haR3d5VDQwanpaQk9feFpSaV9yZGI1aTRQaUpYWWFMbzYtbTc0dHRvOW9KWlMyYWNraWQ0bzlrcnhIa0gxWGxxbHFFTGdOaFdQX2ZwM1EwYWtMdjVlVnc5dFVyTWwwd1BqbXJHR3Nn0gGKAUFVX3lxTE5oWDV2MDR1azlBM1cydnR5VGdHbzg5dkROOTlKcjhlSmQzMnAxZ3d4QlV5VW0xWmxNZEN2LTBpRHd2Vzh6SGFPQ01Ta1diQ182bVNJLUh4X2o0dVdEaURrSHNDWF91Nm1UZEdwS1BNYWJFamUtQW03c044MkV2N0cyNGxxSXlTZFFhdw?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "snippet": "New ‘Axie Infinity’ Ethereum Gaming Token Will Be Airdropped to AXS Stakers&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "Axie Comeback: AXS Token Up 200% This Month, What’s Next? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ycFZwRG5QeTZXa3ZFT3ZtWmx1d1BIU2tEcjVvaEZnUEVpcXYxbEJWdjZ2TlZXLUpIQWxoYU5ONk1DVzlwUld6VFdDbVhBTzhfVWtCYUt6NGFoMWstN3fSAWNBVV95cUxQOFFudG9KOWJwV1FBeVpoWVpaRngyaWJlX0kyNENnekxCbUVPX0NHOEExSl9xQ2VlVXZXNFhkZFQxR3lONDJOR3M2M2kyZFRiOF9vcHUyMjVsU2lCX2hldEhQTk0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "snippet": "Axie Comeback: AXS Token Up 200% This Month, What’s Next?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "AXS and SLP See Continuous Growth for Weeks! Axie Infinity Introduces Aggressive Economic Model Reform - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JV0JRaWFEVVlNZ0VBdjhGNXV4SFJyZlFkQ0tmWVhpd3E1NW8tQ0FJbnYwU2NMdDhGVFFvVzN0bkxkNHVINzFacnNtX2VId1BVMVRVSXZfR1dZbVVHN1HSAWNBVV95cUxPb0dsQjZhbkVNa3M0UVN1OC0wcEltWWZZbUZTWDFBdW5udDlQS0VDV1ZmdE44RmRUS20xdXE4NW9IY3JzTXNvNVdhdTYtbE56aWhZTU9IVzV2b1RuaHMxSENkMHc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "snippet": "AXS and SLP See Continuous Growth for Weeks! Axie Infinity Introduces Aggressive Economic Model Reform&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "3 Coins Shaping February 2026 Crypto Headlines — HYPE, SOL, and AXS - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcjVYLTJlTmwxSHU1X05uRVhfeW9lV2FfNmE1N3o5eEg0UTlzcTQxUE5iYUJxUUhDby1ra3AyQV9YX0VPS3VuRk5sdWtoVUpLMUpQZTd6ZzlqbmRmd3fSAWNBVV95cUxOV3podjdDUkxZRndHRVhKc3VwYXZ0V0JBYzQ1a1o3Q1BWQ2FKY0tiOEVTaWxwVkxyanVyRFdLdmF4SnppUEw0WThmMlFOU3Z6elNoSVByRjQzXzV0bjhxNzgxbUk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 20 Feb 2026 08:00:00 GMT",
+      "snippet": "3 Coins Shaping February 2026 Crypto Headlines — HYPE, SOL, and AXS&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

@@ -1,0 +1,224 @@
+{
+  "token": "AMAT",
+  "requestedInput": "AMAT",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:25.717Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AMAT",
+    "name": "Applied Materials Inc (Derivatives)",
+    "generatedAt": "2026-06-26T08:47:19.086Z",
+    "summary": "该代币为BSC链上PancakeSwap的衍生品代币，流动性极低（0.04美元），价格极低（8.46e-21美元），无交易量，无价格变动数据。新闻内容均为传统股票AMAT相关，与链上代币无关。存在极高风险，极大概率是蜜罐或无人问津的垃圾币。",
+    "rating": {
+      "score": 2,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性增加至合理水平（如>1万美元）且有真实交易量出现，否则逻辑始终有效。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Applied Materials Inc (Derivatives) Price Today | AMAT to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "新闻标题提及AMAT，但内容为传统股票，与链上代币无关。"
+      },
+      {
+        "title": "Applied Materials (AMAT) Stock: Analysts Increase Price Targets on DRAM Strength - CoinCentral",
+        "impact": "中性",
+        "reason": "传统股票新闻，不适用于此代币。"
+      }
+    ],
+    "fundamentals": [
+      "代币创建于2026-05-29，链为BSC，DEX为PancakeSwap。",
+      "流动性仅0.04美元，几乎为零。",
+      "无市值、供应量数据，无交易量。",
+      "名称与Applied Materials Inc股票相同，但实际为衍生品代币，无关联。"
+    ],
+    "marketRead": [
+      "价格极低且无变动，流动性枯竭，无交易活动。",
+      "无K线数据，无法进行技术分析。"
+    ],
+    "risks": [
+      "流动性极低，无法正常买卖，可能为蜜罐或貔貅盘。",
+      "无任何交易活动，代币可能已被遗弃。",
+      "名称混淆，可能误导投资者以为是股票代币。",
+      "合约未开源或存在风险，无法验证。"
+    ],
+    "watchlist": [
+      "流动性是否增加至合理水平。",
+      "是否有真实交易量出现。",
+      "合约是否经过审计或开源。"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，流动性极低，价格无意义。",
+      "新闻来源为Google News，内容均为传统股票AMAT，与链上代币无关。"
+    ]
+  },
+  "profile": {
+    "id": "0x429d3CC4cfb4525bFb6B6a37F5aB2ac09e8b3FFf",
+    "symbol": "AMAT",
+    "name": "Applied Materials Inc (Derivatives)",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x7e9e9b101e9d0fea3ce28ad15346a552768bbe17",
+    "marketCapRank": null,
+    "currentPriceUsd": 8.46e-21,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": 0,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-05-29",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x7E9e9B101E9d0Fea3Ce28ad15346A552768BBe17",
+    "baseTokenAddress": "0x429d3CC4cfb4525bFb6B6a37F5aB2ac09e8b3FFf",
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "liquidityUsd": 0.04,
+    "pairUrl": "https://dexscreener.com/bsc/0x7e9e9b101e9d0fea3ce28ad15346a552768bbe17",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "AMAT/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x7E9e9B101E9d0Fea3Ce28ad15346A552768BBe17",
+    "pairUrl": "https://dexscreener.com/bsc/0x7e9e9b101e9d0fea3ce28ad15346a552768bbe17",
+    "lastPrice": 8.46e-21,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 0.04,
+    "fullyDilutedValuationUsd": null,
+    "marketCapUsd": null,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x7e9e9b101e9d0fea3ce28ad15346a552768bbe17",
+    "pairAddress": "0x7E9e9B101E9d0Fea3Ce28ad15346A552768BBe17",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x429d3CC4cfb4525bFb6B6a37F5aB2ac09e8b3FFf",
+      "name": "Applied Materials Inc (Derivatives)",
+      "symbol": "AMAT"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.00000000000000000000001513",
+    "priceUsd": "0.000000000000000000008460",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 0.04,
+      "base": 2585617830585920000,
+      "quote": 0.00003913
+    },
+    "pairCreatedAt": 1780091475000
+  },
+  "news": [
+    {
+      "title": "Applied Materials Inc (Derivatives) Price Today | AMAT to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBacGpXV25hV1RucExqZWZLZXR3d28yeXE4dTNHUmhsdDlIZEdid3hzQTR3am5wOVNtZTRuc01YR0xLbUNua210cWg1algwNVJsUmJtWnJ2bHBnNlNXYXJBQXQtMUEtT2xJaEREUFhpSTFJN1J5?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 28 May 2026 18:19:00 GMT",
+      "snippet": "Applied Materials Inc (Derivatives) Price Today | AMAT to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Applied Materials Inc (Derivatives) to Vietnamese Dong Price Today | Live AMAT to VND Converter & Exchange Rate - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10WGxCTEJVSGs2YmFnMGZpZ3M1cmhydXJDWDZLV2dtVWlTUmd6Qm0zcmphWkhDVFZQdk5QYnp0UHZEcVltTjRqaDBaRzh1ckRfek9QOW5UWS1lYTNEM2V1V3NJeEl0VXdSdXd6MWhWU2xmVjQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 16 Jun 2026 09:27:32 GMT",
+      "snippet": "Applied Materials Inc (Derivatives) to Vietnamese Dong Price Today | Live AMAT to VND Converter & Exchange Rate&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Applied Materials Inc (Derivatives) to Chinese Yuan Price Today | Live AMAT to CNY Converter & Exchange Rate - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DZWxhZzV5WWlQb1cxd0xDVzhXQ1FtbTRJR0pUTEhJbkMxZENKS0laa3Foc0tLdnN5TlFSY2J2cGg4TE11WGp2SnhObTlaZXJ1ZHgzNTBwRVVZbHJKT0JLTE9ZOS1sMGpjNG9MTmd1YnlOa0E?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 15 Jun 2026 04:10:29 GMT",
+      "snippet": "Applied Materials Inc (Derivatives) to Chinese Yuan Price Today | Live AMAT to CNY Converter & Exchange Rate&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Applied Materials (AMAT) Stock: Analysts Increase Price Targets on DRAM Strength - CoinCentral",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFJqQ3N6cTN6czhyOF9jSDFINzJPckZtYmF0TlVvRV9odHowMG5leFllR2VCMUw2MlRXeVNVZE92eDh2MjVyUVYtOGpYclhNanRXWnVSaXkwZUtjLWtPMVc5RmhsMjdoSS0tQVAyb2dlT0lzRUFNWEZoWTcwOHhqNjRQYTVKWHk5djB4aGZRTEFIYW13X0w5T3l5aEMtbjZxTFZSSw?oc=5",
+      "source": "CoinCentral",
+      "publishedAt": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "snippet": "Applied Materials (AMAT) Stock: Analysts Increase Price Targets on DRAM Strength&nbsp;&nbsp;CoinCentral"
+    },
+    {
+      "title": "Applied Materials, Inc. (AMAT) Stock: Gains Almost 4% Amid $180M Restructuring Charge and Layoffs - CoinCentral",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnRjQmxzYnFQUmtBLThoUnRFUlloWTFObm9rcWJPdXRscDNTQ2tJRFNpZXdnanl4VTJ4Uk0xNERXV2xlc2NHS2tER3d5Ti1pQTZGZlAxc1BHQWVyRFJUT3poQ0F2TWlzSVZjLVdyNkpaS0ljd0kzbXFuSDZwbFNhZmxTYTducmVBUGFGb05XV0NZaHhlcVdMU1N5Q2t2MjZmQnhWUFo1cUtLN0JaRGdvYWRoR0ZsZw?oc=5",
+      "source": "CoinCentral",
+      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "snippet": "Applied Materials, Inc. (AMAT) Stock: Gains Almost 4% Amid $180M Restructuring Charge and Layoffs&nbsp;&nbsp;CoinCentral"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/amateras?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "token": "LIRA",
+  "requestedInput": "LIT",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:46.923Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "LIRA",
+    "name": "LIT",
+    "generatedAt": "2026-06-26T08:47:39.959Z",
+    "summary": "LIRA是BSC链上PancakeSwap的极低市值代币，流动性仅1.15万美元，24小时交易量不足100美元，价格波动极小。新闻均为无关内容（土耳其里拉、意大利里拉等），无实际催化。基本面缺失，风险极高，不建议参与。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无逻辑可失效"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Lighter price today, LIT to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "无关新闻，实际为CoinMarketCap的LIT价格页面，非项目相关"
+      },
+      {
+        "title": "Turkish Lira Price Today in India | TRY to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "无关新闻，关于土耳其法币"
+      },
+      {
+        "title": "Cryptocurrency Prices in Turkish Lira (TRY) - CoinGecko",
+        "impact": "中性",
+        "reason": "无关新闻，关于土耳其法币"
+      },
+      {
+        "title": "Italian Lira price today, ITL to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "无关新闻，关于意大利里拉"
+      },
+      {
+        "title": "Turkish Lira Price Today | TRY to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "无关新闻，关于土耳其法币"
+      }
+    ],
+    "fundamentals": [
+      "代币名称LIT，符号LIRA，但项目描述仅显示为DexScreener上的BSC/PancakeSwap交易对",
+      "无官网、无白皮书、无社交媒体信息",
+      "总供应量与流通量未知，FDV与市值均为16199美元，极低",
+      "创建于2026年1月29日，距今约5个月，但无任何发展迹象"
+    ],
+    "marketRead": [
+      "24小时价格变动仅+1.16%，交易量93.48美元，流动性11514美元",
+      "无历史价格数据（7天/14天/30天变化均为null），无ATH",
+      "市场深度极差，大额交易极易滑点或无法成交"
+    ],
+    "risks": [
+      "极低流动性（1.15万美元），存在Rug Pull风险",
+      "无实际项目背景，代币用途不明",
+      "新闻均为无关内容，无任何真实催化",
+      "合约未开源或未审计（未提供信息），存在恶意代码风险",
+      "交易量极低，可能为无人问津的僵尸代币"
+    ],
+    "watchlist": [
+      "无需关注"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他可靠来源",
+      "新闻抓取结果与代币无关，可能因名称混淆"
+    ]
+  },
+  "profile": {
+    "id": "0x195c7b9b4279174d5CEB462790D8709957eF4444",
+    "symbol": "LIRA",
+    "name": "LIT",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x3f3df92daf63d6f65ccda39ee2cfa2ca214e882f",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00001628,
+    "marketCapUsd": 16199,
+    "fullyDilutedValuationUsd": 16199,
+    "totalVolumeUsd": 93.48,
+    "priceChange24hPct": 1.16,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-01-29",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x3F3DF92Daf63D6F65ccDa39eE2Cfa2CA214E882f",
+    "baseTokenAddress": "0x195c7b9b4279174d5CEB462790D8709957eF4444",
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "liquidityUsd": 11514.01,
+    "pairUrl": "https://dexscreener.com/bsc/0x3f3df92daf63d6f65ccda39ee2cfa2ca214e882f",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "Lira/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x3F3DF92Daf63D6F65ccDa39eE2Cfa2CA214E882f",
+    "pairUrl": "https://dexscreener.com/bsc/0x3f3df92daf63d6f65ccda39ee2cfa2ca214e882f",
+    "lastPrice": 0.00001628,
+    "priceChange24hPct": 1.16,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 93.48,
+    "liquidityUsd": 11514.01,
+    "fullyDilutedValuationUsd": 16199,
+    "marketCapUsd": 16199,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x3f3df92daf63d6f65ccda39ee2cfa2ca214e882f",
+    "pairAddress": "0x3F3DF92Daf63D6F65ccDa39eE2Cfa2CA214E882f",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x195c7b9b4279174d5CEB462790D8709957eF4444",
+      "name": "LIT",
+      "symbol": "Lira"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.00000002902",
+    "priceUsd": "0.00001628",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 3,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 93.48,
+      "h6": 17.9,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": 1.53,
+      "h24": 1.16
+    },
+    "liquidity": {
+      "usd": 11514.01,
+      "base": 353609161,
+      "quote": 10.2633
+    },
+    "fdv": 16199,
+    "marketCap": 16199,
+    "pairCreatedAt": 1769674200000
+  },
+  "news": [
+    {
+      "title": "Lighter price today, LIT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ObUlSSWlpZnVkbU9UT0wzYVp1Yl9SaldnMGdoOWJ5MF9SUWNodFRPNmR5Z0xEbUxfdEdsVXRoYWI5ekVOYTc3dEpHWTZwNTExUTdUeVBHMlk?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 15 Dec 2025 05:21:11 GMT",
+      "snippet": "Lighter price today, LIT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Turkish Lira Price Today in India | TRY to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyN0ZyTlY3RUNwSkRDV2xQWDF1ZTYtR2ZMTGVqUzJ3ZkNEcXE1MUMtQWNocTV6QUktWFVlY2RmdFdrQ3VEUDhaS0ZCclNmWmhDMC1lcGdNLW9pSUsz?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 16 Jun 2026 03:51:00 GMT",
+      "snippet": "Turkish Lira Price Today in India | TRY to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Cryptocurrency Prices in Turkish Lira (TRY) - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01WUNvTEZWbktHNlNGdndwZHB4QVN2QnBGazhNRUx3YkpGX0dEU2NXd0FBSFlHWWxkSGNiVmVJd19oR05PYkZBNnFGRVV6bGdITVRiOHZR?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 08 Nov 2022 02:08:38 GMT",
+      "snippet": "Cryptocurrency Prices in Turkish Lira (TRY)&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Italian Lira price today, ITL to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jUGNlUU15UUpEM1o4Uk9pczRSQTlOWHVTNHBmRmtnV2xNb2FFbXZ2VUVGMkgwTnd2aFRqRS1EUElhbUhwaXVfSWZKWXhMNm1lYThsMFBQY0JjbHc5Q1pz?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 19 Oct 2018 18:54:05 GMT",
+      "snippet": "Italian Lira price today, ITL to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Turkish Lira Price Today | TRY to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KZkRWOXA2MDFEb01hdGp0OE8yRkI4M2hQcnRLaWxCMHNIRVBjcDhGdndmTFpFNzktMzdiM0NzYkN2c0RIU0JwbldqWTc3MnhqMGFGQjVjeTU?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 23 Jul 2024 14:16:40 GMT",
+      "snippet": "Turkish Lira Price Today | TRY to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/lighter?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

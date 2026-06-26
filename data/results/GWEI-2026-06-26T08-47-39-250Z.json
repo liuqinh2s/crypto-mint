@@ -1,0 +1,317 @@
+{
+  "token": "GWEI",
+  "requestedInput": "GWEI",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:39.250Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "GWEI",
+    "name": "ETHGas",
+    "generatedAt": "2026-06-26T08:47:32.129Z",
+    "summary": "GWEI是ETHGas项目的代币，近期价格波动较大，市值约2.62亿美元，但流动性仅3.3万美元，存在极高风险。项目已上线Binance、Coinbase等交易所，但缺乏基本面支撑，24小时价格下跌1.31%。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性极低，任何买入都可能被操纵；项目无实际用例，价格完全由市场情绪驱动。"
+    },
+    "catalysts": [
+      "上线Binance、Coinbase等主流交易所",
+      "空投活动吸引用户",
+      "以太坊Gas费优化概念"
+    ],
+    "latestNews": [
+      {
+        "title": "ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises? - CryptoRank",
+        "impact": "利空",
+        "reason": "价格创新高但成交量下降，表明上涨动力不足，可能见顶。"
+      },
+      {
+        "title": "ETHGas token GWEI doubles to $0.20, eyes 18% more gains amid possible buyer exhaustion. - Pluang",
+        "impact": "中性",
+        "reason": "价格翻倍后预测仍有18%涨幅，但提到买方可能耗尽，风险较高。"
+      },
+      {
+        "title": "Coinbase GWEI Trading Support: A Groundbreaking Move for Ethereum’s Gas Economy - CryptoRank",
+        "impact": "利好",
+        "reason": "Coinbase上线增加流动性和曝光度。"
+      }
+    ],
+    "fundamentals": [
+      "项目旨在优化以太坊Gas费，但实际产品未明确",
+      "代币总供应量未知，市值2.62亿美元，FDV 3145万美元（矛盾，可能数据有误）",
+      "上线Binance、Coinbase、KuCoin等交易所",
+      "流动性仅3.3万美元，极易被操纵"
+    ],
+    "marketRead": [
+      "24小时价格下跌1.31%，成交量10.6万美元，流动性极低",
+      "市值与流动性严重不匹配，存在高度操纵风险",
+      "无历史K线数据，无法判断趋势"
+    ],
+    "risks": [
+      "流动性极低（3.3万美元），大额交易易导致滑点和价格操纵",
+      "项目基本面薄弱，缺乏实际产品",
+      "市值与FDV数据矛盾，可能数据错误或代币经济不透明",
+      "新闻多为旧闻，近期无新催化",
+      "24小时价格下跌，短期动能不足"
+    ],
+    "watchlist": [
+      "流动性是否改善",
+      "项目是否发布实际产品",
+      "代币解锁或增发公告",
+      "交易所是否发布风险提示"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，流动性数据可能不完整",
+      "市值与FDV矛盾，需谨慎对待",
+      "新闻日期较早，最新新闻为6月9日，已过时效"
+    ]
+  },
+  "profile": {
+    "id": "0x30117E4bC17d7B044194b76A38365C53b72F7D49",
+    "symbol": "GWEI",
+    "name": "ETHGas",
+    "categories": [
+      "bsc",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / uniswap. Pair URL: https://dexscreener.com/bsc/0xa8d956401d161f61418576b375b4fdaf0e76155f",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.1248,
+    "marketCapUsd": 262124880,
+    "fullyDilutedValuationUsd": 31456847,
+    "totalVolumeUsd": 106243.48,
+    "priceChange24hPct": -1.31,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-01-21",
+    "chainId": "bsc",
+    "dexId": "uniswap",
+    "pairAddress": "0xA8D956401D161F61418576B375B4fDaf0e76155F",
+    "baseTokenAddress": "0x30117E4bC17d7B044194b76A38365C53b72F7D49",
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "liquidityUsd": 33320.07,
+    "pairUrl": "https://dexscreener.com/bsc/0xa8d956401d161f61418576b375b4fdaf0e76155f",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "GWEI/USDT",
+    "chainId": "bsc",
+    "dexId": "uniswap",
+    "pairAddress": "0xA8D956401D161F61418576B375B4fDaf0e76155F",
+    "pairUrl": "https://dexscreener.com/bsc/0xa8d956401d161f61418576b375b4fdaf0e76155f",
+    "lastPrice": 0.1248,
+    "priceChange24hPct": -1.31,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 106243.48,
+    "liquidityUsd": 33320.07,
+    "fullyDilutedValuationUsd": 31456847,
+    "marketCapUsd": 262124880,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/bsc/0xa8d956401d161f61418576b375b4fdaf0e76155f",
+    "pairAddress": "0xA8D956401D161F61418576B375B4fDaf0e76155F",
+    "baseToken": {
+      "address": "0x30117E4bC17d7B044194b76A38365C53b72F7D49",
+      "name": "ETHGas",
+      "symbol": "GWEI"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceNative": "0.1248",
+    "priceUsd": "0.1248",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 2,
+        "sells": 22
+      },
+      "h6": {
+        "buys": 82,
+        "sells": 67
+      },
+      "h24": {
+        "buys": 473,
+        "sells": 581
+      }
+    },
+    "volume": {
+      "h24": 106243.48,
+      "h6": 15742.02,
+      "h1": 1563.83,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -0.87,
+      "h6": 4.7,
+      "h24": -1.31
+    },
+    "liquidity": {
+      "usd": 33320.07,
+      "base": 88908,
+      "quote": 22222
+    },
+    "fdv": 31456847,
+    "marketCap": 262124880,
+    "pairCreatedAt": 1768984541000
+  },
+  "news": [
+    {
+      "title": "ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmE1YmhBQ01ya3ozc1VUd21Pb2xCdk1CTzl2d1hMQW1xYjBRalZORG80ampzZnhuMW9pbVdoT1FnclZHOEZUSnBxbzc0Y1d1TEpkRUwtelE1SVEtOUlDbkg2YTM0bDVERnJVRVdZaWhLN1hZREpDUmhET3I4VlBKSlo1dmtoeUhzaXhpR2FZN0JDY19UdTZUazgtVUVXLVE0V181YlppZElqMkZzYWgwaUc0WQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 09 Jun 2026 15:35:31 GMT",
+      "snippet": "ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "ETHGas price today, GWEI to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40dVJyYklsM0ZsWG4wX1ViTGdwX3lkZzhVYlhURHU4RzJjVWZGUWpUeGNKZ0psT2lFWlBxRkJqalhRUml1WThoNU9pRGNpUm82cEZoTDNFcTU?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 21 Jan 2026 12:25:45 GMT",
+      "snippet": "ETHGas price today, GWEI to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "ETHGas token GWEI doubles to $0.20, eyes 18% more gains amid possible buyer exhaustion. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY1VzWnZxZktGSXp1YTVUV0VES2dLYVYxaVZnbGRLcEI2SERBNnBzSUFZcGtEZ2FDMVktRkNwb1FDYWRyU3NwYnYtSmtnTVJUbFhZMFV6djJTekdpM3RhMllocUNfNF84QmVJb2o4UE5RNkp6aFRPOWNfOXhLQzh4RG5NM003YU1HTEdteXZQcjM2QQ?oc=5",
+      "source": "Pluang",
+      "publishedAt": "Sun, 14 Jun 2026 10:41:32 GMT",
+      "snippet": "ETHGas token GWEI doubles to $0.20, eyes 18% more gains amid possible buyer exhaustion.&nbsp;&nbsp;Pluang"
+    },
+    {
+      "title": "ETHGas Price Today | GWEI to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzejRNR1BIMVVVRzY4TTBGb29kSXk5ZENIM3BVeUhBX3UtblRSNTY4SzFkTzVmY29hTjBXcUcwU1N6U0xVUWdIT2pqMHc4TGc4eUhlNTJR?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 20 Jun 2026 14:35:00 GMT",
+      "snippet": "ETHGas Price Today | GWEI to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "ETHGas Launches GWEI: Can This New Protocol Finally End Ethereum’s Gas Wars? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPREdzRnJveTBKS0Q5VmpkcHFNcV83aVh1TXBWbF9zeEJRTFAtaU81NVNzbVNOcnV6b0JTMWJqbUVrcnVRMi1OaHpOeDdVYWhYLTNXOXBJdlV4WWFKRGUxcVlVTHVSTmtYVF9fSzlhZnV2ZGFIbGxkcHBGem9ESk5oMTZhZnNUV1RNNWNoRzBKa3Y1SEZDM1VuVGEyMWs5QTlUbENGYjFSSHpwMmplV01CWGZUTEIxaTkzVDNFVmtPUVRVTHZ3UkRkTXRVVTRta0lO?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "snippet": "ETHGas Launches GWEI: Can This New Protocol Finally End Ethereum’s Gas Wars?&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "ETHGas Price USD, GWEI Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xRUFDRG5UZ2JTbWJzaTVTNnBHTmx6cE8ta1BpUGIyVjQzZGNnX3R5UlFtSDM4WHU3czE5NEZ6ZXNKWW0zM0ZfY0I0b3ZreHlUSFE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 20 Jan 2026 14:55:53 GMT",
+      "snippet": "ETHGas Price USD, GWEI Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "ETHGas Price, GWEI Price, Live Charts, and Marketcap - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5scWRkVm42MnNBRGctWGVXdnU4RjVSQ1htY01GdWZtcWZzNURtcktmV0t3dnVETWE3NVFBQVF0RE1JZHZZOUowX0xhV0pzVGRpejFOdy1TTQ?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Thu, 22 Jan 2026 00:20:09 GMT",
+      "snippet": "ETHGas Price, GWEI Price, Live Charts, and Marketcap&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Coinbase GWEI Trading Support: A Groundbreaking Move for Ethereum’s Gas Economy - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qWDVfMVdXZ19zZTN3RU4zaHdvMlVoakFKbkc2OS1JVnNucG01WnF2WkY4YUlVVDY3clhEbTN6U2JQVWJYYzB5ODBXaDFBbXRydXpWOEJsYlUwMFRQMmpBTWxMS01weWlPcDlRYWQwTkVVMEJnRVVURzh3cjU?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "snippet": "Coinbase GWEI Trading Support: A Groundbreaking Move for Ethereum’s Gas Economy&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "ETHGas (GWEI) Price Prediction: What’s Next After Binance Listing - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWF6cDR0SXJ2bFVic0FPbzFPYTFiYkxDWDdzV01fVVphOC1YRWZDazJYZEJPc0JCMVI2a3V0cGR5RExBeTY0RUlVWGlGbzMyeUZjSlI2LVotQWRydmdHR0U1ZmdGV2F1N1dfQk5FRkt0Z2p6QlJmLTlMdjUwYUd5VWtXWGR2UzVpd2hJTURmZ0hJcU8tNUFOWFRBWFR1YWtWMG1sOU1VN00tNm8?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "snippet": "ETHGas (GWEI) Price Prediction: What’s Next After Binance Listing&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "What is ETHGas (GWEI)? A Comprehensive Guide to the Future of Ethereum Blockspace - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29Uc2Q2cHlqaGdTNFNXQlhWUTlScDNBLWUzMFZuUEU3ZzRpVzBJajBfX1dJajFnMTh0MkFqM2lDanpSMVVxRURpOW1DX004Z0s3Y2I3ZXc0T3c0S2pUb3MwZkNOYXY5RldDZHNmenpnd0JfLXJLOUlNNU5UZnNxc2NQRkh3ZV9RbDc2ajRRcklJaFdWS3FaVkRoampnVGp2bUIyQXIwaWhVc2lEa2c?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "snippet": "What is ETHGas (GWEI)? A Comprehensive Guide to the Future of Ethereum Blockspace&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "ETHGAS (GWEI) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE91T3F1NWV1NDNMb3JwNkppM18tYTNXOHFmLWJIaTFLY3JmdVRsVGs2Z2UxMEtPNnJQWkhRZXN1Vmxla3h4X0VF?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 17 Dec 2025 13:19:59 GMT",
+      "snippet": "ETHGAS (GWEI) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "ETHGAS - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4wZHAyYnJvUldUMEVvLWk3Nk1obGdWNlhtNDVZS09kNmFhVnZUa3R1bDRqeFVQUk9SUVluUkJ3X3F6UQ?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Wed, 17 Dec 2025 20:40:05 GMT",
+      "snippet": "ETHGAS&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "ETHGAS (GWEI) Token Unlocks and Vesting: Schedule and Tokenomics - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MTVZvd2RtQ3RLNXF6RUMtUU1Oa1dyeWxzV0ZlU19QRGxWekdUa2VvcUpCZVNrZl9iU3ZUWlBKVnNqSXJCSTFfSjBqNjB6WjVWWFJFbg?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 20 Jan 2026 04:34:20 GMT",
+      "snippet": "ETHGAS (GWEI) Token Unlocks and Vesting: Schedule and Tokenomics&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "ETH Gas Airdrop Confirmed Jan 21: Binance $GWEI Listing, TGE, Mainnet - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjZ5YUdHVUlpdGdKOGk3V2FwRnpJZGR0VzlXWjVhdmVrQll2NzdpTXI0N1R2U1FmcFVrMFRGNTBkbFZjd0RfdHdyQU4zdllhRFhldHFidUFvb0FPMTRnU2VsRDFpakZ2OFpjeWY1UjhLdkpkNmRreTVfNWJsWWlaOHdmZ2d2WHVQcUtIdkkwcVBCdkQ1TTc5UXF3TWdwOXZlVWIyU2RmTjNBWDJlbmpRMFZBQms?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "snippet": "ETH Gas Airdrop Confirmed Jan 21: Binance $GWEI Listing, TGE, Mainnet&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "ETH Gas Airdrop Eligibility Checker Live: $GWEI Listing and Claim Info - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnNPZUhTOEdWMkVvV2NyZFFyb2RWaVUzNXVfSU9aM1gxT1pmYWx5T19uTFJKbFlxd1VSSkJ6RU94QVd5M1d4WXEwZ2hMczRrMHZ3LURYY2RKZXNvanAzNkY4X2xza1FRNWZUWHFKZE9LMF8wcWxlT05iYS1CazduOFBNS2RtbGpucG5YclduZTVXQmR2Tzd0RzNvYUhDbE5PRUJabnZFQWxlMUJnSTdF?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "ETH Gas Airdrop Eligibility Checker Live: $GWEI Listing and Claim Info&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "GWEI (ETHGas) sees 40.2% volatility in 24 hours: surge in trading volume and on-chain activity driving movement - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41bUJfNGx0M3RKYnd4RURxdnZ5aFhneDVUMFc3Mk96cEJ5bDFNU0pMY3lNY2lxWHE4RzBfbldIaXNWajJHVWxMLU52LTFGMVVmM0Q0eHRfM1RtdzVOQWfSAWNBVV95cUxOUnp3NW9jNm93NDlpdDJhV09BbWxnOERLRUVWMFpuZ2xLeEZRMlFtVkdFczFGWTFLQlBpcHhTb0JTLTVLZ0tsNDN5X3RyalVDd0hWRmxhTnc2SDlKQXhYeFVxUGs?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "snippet": "GWEI (ETHGas) sees 40.2% volatility in 24 hours: surge in trading volume and on-chain activity driving movement&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=GWEI: Throttled\n"
+  ]
+}

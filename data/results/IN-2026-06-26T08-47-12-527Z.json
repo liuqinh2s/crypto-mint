@@ -1,0 +1,303 @@
+{
+  "token": "IN",
+  "requestedInput": "IN",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:12.527Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "IN",
+    "name": "INFINIT",
+    "generatedAt": "2026-06-26T08:47:04.177Z",
+    "summary": "IN代币近期因Binance Alpha上线、融资消息及DeFi抽象层概念受到关注，但流动性高度集中且价格波动剧烈，基本面尚不清晰，风险较高。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若流动性骤降或出现团队抛售迹象，则逻辑失效。"
+    },
+    "catalysts": [
+      "Binance Alpha上线（2025年8月）",
+      "融资600万美元（Electric Capital、Arthur Hayes参投）",
+      "DeFi抽象层叙事",
+      "代币解锁/质押计划可能带来短期热度"
+    ],
+    "latestNews": [
+      {
+        "title": "Binance Alpha Launches INFINIT (IN) Today!",
+        "impact": "利好",
+        "reason": "头部交易所上线增加曝光和流动性预期。"
+      },
+      {
+        "title": "Infinit (IN) Token Unlocks and Vesting: Schedule and Tokenomics",
+        "impact": "中性",
+        "reason": "解锁信息可能影响供需，需关注具体时间表。"
+      },
+      {
+        "title": "DeFi abstraction platform Infinit raises $6 million from investors including Electric Capital, Arthur Hayes' Maelstrom",
+        "impact": "利好",
+        "reason": "知名机构背书，增强项目可信度。"
+      }
+    ],
+    "fundamentals": [
+      "DeFi抽象层项目，旨在简化多链交互。",
+      "2024年9月完成600万美元融资，投资方包括Electric Capital、Arthur Hayes的Maelstrom。",
+      "代币IN为生态治理和实用代币。",
+      "总供应量和流通量未公开，存在解锁风险。",
+      "项目处于早期，产品尚未大规模验证。"
+    ],
+    "marketRead": [
+      "当前价格0.0842美元，市值约8.42亿美元，但流动性仅841美元（极低），实际交易深度极差。",
+      "24小时成交量约6.17万美元，换手率极低，市场参与度不足。",
+      "无历史价格数据，无法判断趋势。",
+      "流动性高度集中，存在操纵风险。"
+    ],
+    "risks": [
+      "流动性极低（仅841美元），大额交易易导致滑点和价格操纵。",
+      "代币经济不透明，总供应量和解锁计划未公开，存在抛压风险。",
+      "项目处于早期，产品未落地，概念炒作成分大。",
+      "新闻热度可能已过（2025年8月），当前缺乏新催化。",
+      "链上DEX交易对，合约风险较高。"
+    ],
+    "watchlist": [
+      "Binance Alpha后续是否上线现货交易对。",
+      "代币解锁/质押公告。",
+      "项目方是否公布产品路线图或主网上线。",
+      "流动性变化和成交量是否放大。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener和新闻聚合，缺乏链上持仓分布和交易深度数据。",
+      "价格和市值数据可能因流动性低而失真。",
+      "新闻时间跨度大（2024-2025），需注意时效性。"
+    ]
+  },
+  "profile": {
+    "id": "ea2BhwsXrtq8aThyN8V3EWhVmB4XMBNFKvuGZ5JcQqq",
+    "symbol": "IN",
+    "name": "INFINIT",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/aedhf6wuehcfytewrmqzfmtqdo45zccpqppnwn81g8cp",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.0842,
+    "marketCapUsd": 842071170,
+    "fullyDilutedValuationUsd": 842071170,
+    "totalVolumeUsd": 61734.91,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-02",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "AEdHF6wUEhcFyTeWrmQZfmTqDo45zccpQPpnWn81G8Cp",
+    "baseTokenAddress": "ea2BhwsXrtq8aThyN8V3EWhVmB4XMBNFKvuGZ5JcQqq",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 841870160.91,
+    "pairUrl": "https://dexscreener.com/solana/aedhf6wuehcfytewrmqzfmtqdo45zccpqppnwn81g8cp",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "IN/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "AEdHF6wUEhcFyTeWrmQZfmTqDo45zccpQPpnWn81G8Cp",
+    "pairUrl": "https://dexscreener.com/solana/aedhf6wuehcfytewrmqzfmtqdo45zccpqppnwn81g8cp",
+    "lastPrice": 0.0842,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 61734.91,
+    "liquidityUsd": 841870160.91,
+    "fullyDilutedValuationUsd": 842071170,
+    "marketCapUsd": 842071170,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/aedhf6wuehcfytewrmqzfmtqdo45zccpqppnwn81g8cp",
+    "pairAddress": "AEdHF6wUEhcFyTeWrmQZfmTqDo45zccpQPpnWn81G8Cp",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "ea2BhwsXrtq8aThyN8V3EWhVmB4XMBNFKvuGZ5JcQqq",
+      "name": "INFINIT",
+      "symbol": "IN"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.08420",
+    "priceUsd": "0.08420",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 6,
+        "sells": 6
+      }
+    },
+    "volume": {
+      "h24": 61734.91,
+      "h6": 20534.97,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 841870160.91,
+      "base": 9997612650,
+      "quote": 22.973
+    },
+    "fdv": 842071170,
+    "marketCap": 842071170,
+    "pairCreatedAt": 1780387988000
+  },
+  "news": [
+    {
+      "title": "INFINIT Price: IN/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrRmp0MEIyNU51VFhQelJwN1BYZldTU191TVhCV0g5cmNVc0c3ZXE0WXFjNGlvbjFKU3FGM0R6TTRqaWRpYjNEbW9qZmJhZzkxMUtjdA?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 05 Aug 2025 11:35:54 GMT",
+      "snippet": "INFINIT Price: IN/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "INFINIT price today, IN to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GZVNfOEhNVzhHcmNKdDNLajh2bTVsTzBnaEdXVVRMNXdBTEhFdnpMRFdJbXlUQ2NGNkE3cWNjdkhISU5EbnBjQnpqczlrbGNWakNWdEZuWXk?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 05 Aug 2025 06:55:06 GMT",
+      "snippet": "INFINIT price today, IN to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "INFINIT Price Today | IN to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3NU5kMEtsOUJwR2I5MXVJR2J3RjdVTnlQY0Q2LXl2VXdWV3RPZzJWRWt5S1ZyLXpmX2FTQjA5aFhwU1JrWGl5TXhhajlOb09SLXc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 07 Aug 2025 10:19:48 GMT",
+      "snippet": "INFINIT Price Today | IN to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "INFINIT Price USD, IN Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jM2E4NnZOTEs2RFl3YzU1TERnTXJHZE1PdlJkOG9JVWt5ZEJnYUFWX2Z0NW5LWVR5QnE0Q1VlX25JeVJDczRBdWhhcVE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 06 Aug 2025 04:00:57 GMT",
+      "snippet": "INFINIT Price USD, IN Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "INFINIT - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2cTBVaTl2YjFRZm94Nld4bFhZMlRFLXhkNzJUQVVPU3NuRENKcEdCSWNFOVJkQjVqN3ZfQmt5SWd1cm8zc0E?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
+      "snippet": "INFINIT&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Infinit (IN) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jc3BHdE5kVy1JOUlvXzY1ZEFmeFR4cnVCcEY3N2hhVmxfZGdVRlpDVzFPN0IwTWd2YXVkVk1GcDV6M29mMDZfVDNaTUxkQm8?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 12 Sep 2024 16:28:30 GMT",
+      "snippet": "Infinit (IN) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "INFINIT Token ($IN): Your Guide to the Agentic DeFi Economy - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfUjZfMGtyNXRtbWU0YnhzakhFeHJFdDZ3SUVBRGhvVHRPbEN1STRUWEJkUmxPWXRLWGx1NWtuVzh4Z0ZYSFJZTlQ1am83NXotZXViRlBDc1piNGxVMUZQUmFTWUpMT0QzcFE?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Thu, 07 Aug 2025 07:00:00 GMT",
+      "snippet": "INFINIT Token ($IN): Your Guide to the Agentic DeFi Economy&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Binance Alpha Launches INFINIT (IN) Today! Can this DeFi abstraction layer project take off? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NX19yWlFpQ25mWTJZQTFwSHpydlh2dmtPRU9CSG42Ul9NMng3T2MwM2trRnJoNkgzdVUyN2VMcWFFQnl5bjBFdlRvLUIwOE9KZG01Z1ptU0xxcDdkWG51S2tqaw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "snippet": "Binance Alpha Launches INFINIT (IN) Today! Can this DeFi abstraction layer project take off?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "In 2026, Will ICOs Replace Airdrops? - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tVnl2aE1wSXZvdnR1VC1uSXpKelRvU2QyWnVibnNOXzJVbExKTkRIQXJEazllbm1tSkt5N2VzenB6X0ZEbjZuOG1zaGlUZGpMYXF2OUsxaDVwT2RqV1l6LWlkNjVyVnlTUWhUQkpDUmFQSFoxMG45M09UMGlVVHM?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Sat, 29 Nov 2025 08:00:00 GMT",
+      "snippet": "In 2026, Will ICOs Replace Airdrops?&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Infinit (IN) Token Unlocks and Vesting: Schedule and Tokenomics - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FdVBOdFJFLTZRbmRFOUh1bF9yVWVpYlFCQ0NUSkc5c1Y1aWwtemZ2ODBnMUl1d0s1Z0lmZVNwbVFGTGZfdlRxaWo0OEl4VVdpdG8xMUtObFFKTS1h?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 06 Aug 2025 13:58:24 GMT",
+      "snippet": "Infinit (IN) Token Unlocks and Vesting: Schedule and Tokenomics&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Binance Alpha Listing Date Set For TaleX and INFINIT, Today - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNUZGRUdxR3ZBZmEwbm5Bam05MWZEcjNiR2gyV0hsUzV5MXBzQzFyZGttTTdZVDhreURqWGwxbkszZXB5R01xY0RyMUtSeDVKajRSdzVSRkNJTWU1VkxGWHBDWURXVk9mMkZaY0pxdy1BSlY2MlFWbkYwNzV1c0N4ZmNsbzJWN19KNi1uUnpPVTduSG5aTGF4NlNqUDRuelNQTldoR1JTZVlEU1FnYk5XMA?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Thu, 07 Aug 2025 07:00:00 GMT",
+      "snippet": "Binance Alpha Listing Date Set For TaleX and INFINIT, Today&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "DeFi abstraction platform Infinit raises $6 million from investors including Electric Capital, Arthur Hayes' Maelstrom - The Block",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSHBtNHlGdjdEdVp6VmVjdzJKMUZCRDBVWkhRVFJjY3dzNnY0Tk9EUGVTdUtheEoxSC16X1lJLVF4UzFya29NWDdBSlZFWXI1YW90cmZMaW9VeWtSeG9veWl5ODBjaWJFdThzTkZTOGtwWDhPY01sc2x0OEJCRDNzSG9wVDBYUEl5SFIyVkFfTFZic0FyUUlJZHNpeG9DazBQSGxmZWVYNE1ZelNzWUEtYVI2VEFBcl9WWDc3aFNxanNfYW5JTXI1d2tzRldIYWtuclppejI4VHVVaW1yQU5VRzV4WU9HZw?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 12 Sep 2024 07:00:00 GMT",
+      "snippet": "DeFi abstraction platform Infinit raises $6 million from investors including Electric Capital, Arthur Hayes' Maelstrom&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "B2B stablecoin tech provider Infinite rolls out banking services powered by Thiel-backed Erebor Bank - The Block",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbzdYVGg1TFVJc2pUYTdac1B1MGhySHpaSktqazVkMlVJMUxfTGRJUmxoZXVVT2t0bFA5VFo0dzFHWW9zR3NGajRiNFRpR0ZESGtvemJWQlNzSUY5WWpNY1ZIYzFnZ1p6WERYT190bDBkSFdMUzl6TXVxLWo5YnRULXU1RDdqUzlkay10WmNiZEM0cVE3ZTQ3QjIwQS1uNjFkNnM5clZNUEV1YVR1cG5xZ2VIWXhoZ2F2RUNfZzlUd0FTa0JSd3VEek1lcl9aMkhia0E?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "snippet": "B2B stablecoin tech provider Infinite rolls out banking services powered by Thiel-backed Erebor Bank&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Infinity Ventures Crypto Closes $70M Fund - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTIyM3RmT2NnUkhLc2xyX1FFc0ZoM3JfeTRzUDhZMUVmd2R6QVFnUFhsejBRT0Rfd1hGcTZzR0E1ckJSNTE5MjlnLWdia2lwYXd1U1dOdU9IR2pmSW9NeFM0WXVhbDNWVDBPbVJuZ0dxWFpabkRhMDN2SWtMd0lyMjRQZGxkVGYyUVczSVdB?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 08 Feb 2022 08:00:00 GMT",
+      "snippet": "Infinity Ventures Crypto Closes $70M Fund&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

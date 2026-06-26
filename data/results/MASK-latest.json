@@ -1,0 +1,376 @@
+{
+  "token": "MASK",
+  "requestedInput": "MASK",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:08.990Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MASK",
+    "name": "MASK",
+    "generatedAt": "2026-06-26T08:46:57.876Z",
+    "summary": "该MASK代币是XRP链上的DEX对，与知名项目Mask Network或MetaMask无关。流动性极低（12.85美元），24小时交易量仅1.09美元，价格波动大但无实际交易支撑。新闻提及的MetaMask代币、Lens Protocol等均与此代币无关。属于高风险meme币，不建议参与。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非该代币被官方确认为知名项目代币，否则逻辑始终失效。"
+    },
+    "catalysts": [
+      "无实际催化剂，仅靠名称混淆吸引投机。"
+    ],
+    "latestNews": [
+      {
+        "title": "Ethereum Whales Mask a 2022 Bear Market Warning - BeInCrypto",
+        "impact": "中性",
+        "reason": "新闻标题含Mask但内容与代币无关。"
+      },
+      {
+        "title": "Metamask Price Today in India | MASK to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "提及MetaMask价格，但此代币非MetaMask官方代币。"
+      },
+      {
+        "title": "‘The MASK token is coming’: Consensys CEO says MetaMask’s native cryptocurrency is on its way - The Block",
+        "impact": "中性",
+        "reason": "MetaMask官方代币尚未发行，此代币为冒名。"
+      },
+      {
+        "title": "Aave Hands Lens Protocol Stewardship to Mask, Refocuses on DeFi - CryptoRank",
+        "impact": "中性",
+        "reason": "Mask Network相关，但此代币非Mask Network代币。"
+      },
+      {
+        "title": "XRP: Capital Flows Mask Significant Usage Declines (Cryptocurrency:XRP-USD) - Seeking Alpha",
+        "impact": "中性",
+        "reason": "标题含Mask但内容无关。"
+      },
+      {
+        "title": "Metamask Token Hype Builds, While Aster Open Positions Surge 46%: Crypto Markets Today - CoinDesk",
+        "impact": "中性",
+        "reason": "MetaMask代币炒作，但此代币无关。"
+      },
+      {
+        "title": "Cardano’s new roadmap assumes a 500% price explosion to mask an alarming gap in real protocol revenue - CryptoRank",
+        "impact": "中性",
+        "reason": "标题含mask但无关。"
+      },
+      {
+        "title": "Mask Network Walkthrough: Price, Charges & How to Start - Kabul University",
+        "impact": "中性",
+        "reason": "Mask Network教程，但此代币非Mask Network。"
+      },
+      {
+        "title": "SOON: How FDV Could Drive MetaMask's $12 Billion Token Valuation - OKX",
+        "impact": "中性",
+        "reason": "MetaMask估值分析，无关。"
+      },
+      {
+        "title": "MetaMask Airdrop Guide: Rewards, Eligibility & Claim - Bitget",
+        "impact": "中性",
+        "reason": "MetaMask空投指南，无关。"
+      },
+      {
+        "title": "MetaMask adds Polymarket to let users trade predictions - Binance",
+        "impact": "中性",
+        "reason": "MetaMask功能更新，无关。"
+      },
+      {
+        "title": "Buy Mask Network with Visa: Full Walkthrough - Kabul University",
+        "impact": "中性",
+        "reason": "Mask Network购买指南，无关。"
+      },
+      {
+        "title": "MetaMask Rewards and TGE: Everything You Need to Know About the $30M LINEA Token Program - OKX",
+        "impact": "中性",
+        "reason": "MetaMask奖励计划，无关。"
+      },
+      {
+        "title": "Mask Network will become the new administrator of Lens Protocol - Bitget",
+        "impact": "中性",
+        "reason": "Mask Network管理Lens，无关。"
+      },
+      {
+        "title": "MetaMask Token Launch Preview: Massive Airdrop, 10 Billion Valuation, and Potential Risks - Bitget",
+        "impact": "中性",
+        "reason": "MetaMask代币预览，无关。"
+      },
+      {
+        "title": "FTX used 'weird Korean account' to mask Alameda liabilities, CFTC says - The Block",
+        "impact": "中性",
+        "reason": "FTX新闻，无关。"
+      }
+    ],
+    "fundamentals": [
+      "XRP链上的DEX对，创建于2025-11-06。",
+      "流动性仅12.85美元，24小时交易量1.09美元。",
+      "市值约5.28万美元，完全稀释估值相同。",
+      "无官网、无团队信息，合约地址为XRP链上随机地址。",
+      "与知名项目Mask Network或MetaMask无任何关联。"
+    ],
+    "marketRead": [
+      "价格4.61美元，24小时跌5.61%，但几乎无成交。",
+      "流动性极低，任何大额买卖都会导致价格剧烈波动。",
+      "无K线数据，市场深度几乎为零。"
+    ],
+    "risks": [
+      "流动性枯竭风险：无法卖出或滑点极大。",
+      "合约风险：代币合约无审计，可能存在后门。",
+      "名称混淆风险：利用MASK符号误导投资者。",
+      "归零风险：无实际价值支撑。"
+    ],
+    "watchlist": [
+      "关注官方MetaMask或Mask Network是否发行代币。",
+      "若该代币被社区识别为骗局，价格可能归零。"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，流动性及交易量数据可靠但极低。",
+      "新闻均为通用加密新闻，与该代币无直接关联。"
+    ]
+  },
+  "profile": {
+    "id": "4D41534B00000000000000000000000000000000.rUc3QqLuP1wi3aHCey3hjzDFocmYrbFRKD",
+    "symbol": "MASK",
+    "name": "MASK",
+    "categories": [
+      "xrpl",
+      "xrpl"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on xrpl / xrpl. Pair URL: https://dexscreener.com/xrpl/4d41534b00000000000000000000000000000000.ruc3qqlup1wi3ahcey3hjzdfocmyrbfrkd_xrp",
+    "marketCapRank": null,
+    "currentPriceUsd": 4.61,
+    "marketCapUsd": 52809,
+    "fullyDilutedValuationUsd": 52809,
+    "totalVolumeUsd": 1.09,
+    "priceChange24hPct": -5.61,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-11-06",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "4D41534B00000000000000000000000000000000.rUc3QqLuP1wi3aHCey3hjzDFocmYrbFRKD_XRP",
+    "baseTokenAddress": "4D41534B00000000000000000000000000000000.rUc3QqLuP1wi3aHCey3hjzDFocmYrbFRKD",
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "liquidityUsd": 12.85,
+    "pairUrl": "https://dexscreener.com/xrpl/4d41534b00000000000000000000000000000000.ruc3qqlup1wi3ahcey3hjzdfocmyrbfrkd_xrp",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "xrpl",
+    "pair": "MASK/XRP",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "4D41534B00000000000000000000000000000000.rUc3QqLuP1wi3aHCey3hjzDFocmYrbFRKD_XRP",
+    "pairUrl": "https://dexscreener.com/xrpl/4d41534b00000000000000000000000000000000.ruc3qqlup1wi3ahcey3hjzdfocmyrbfrkd_xrp",
+    "lastPrice": 4.61,
+    "priceChange24hPct": -5.61,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 1.09,
+    "liquidityUsd": 12.85,
+    "fullyDilutedValuationUsd": 52809,
+    "marketCapUsd": 52809,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "url": "https://dexscreener.com/xrpl/4d41534b00000000000000000000000000000000.ruc3qqlup1wi3ahcey3hjzdfocmyrbfrkd_xrp",
+    "pairAddress": "4D41534B00000000000000000000000000000000.rUc3QqLuP1wi3aHCey3hjzDFocmYrbFRKD_XRP",
+    "baseToken": {
+      "address": "4D41534B00000000000000000000000000000000.rUc3QqLuP1wi3aHCey3hjzDFocmYrbFRKD",
+      "name": "MASK",
+      "symbol": "MASK"
+    },
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "priceNative": "4.4786",
+    "priceUsd": "4.61",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 17
+      }
+    },
+    "volume": {
+      "h24": 1.09,
+      "h6": 0.04,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": 0.33,
+      "h24": -5.61
+    },
+    "liquidity": {
+      "usd": 12.85,
+      "base": 1.3934,
+      "quote": 6.2407
+    },
+    "fdv": 52809,
+    "marketCap": 52809,
+    "pairCreatedAt": 1762416502000
+  },
+  "news": [
+    {
+      "title": "Ethereum Whales Mask a 2022 Bear Market Warning - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0OHBxc1VmWlgycWUxMFFrLTVmSzlGcUNGTE9RRElGSGhQd2VvWko4MU1QNXlSd2loQTZabEdjaU53dWUxRjd0aU1TNmpySjVveFZnTnJ6Qkx5SHRtZUxLbzJ6anVuN1ZQR3FUWHprQnpMak5f?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "snippet": "Ethereum Whales Mask a 2022 Bear Market Warning&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Metamask Price Today in India | MASK to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xZEtBbG5LWFQtemx4OGJfR1pWRTRrVWEwbkVOZ1JCdzQwSXBBdGJfWXp3aE5MbGJSSXV3Mi1lLWVJZkI5NmxCeW9pT3N6Ni1LSndfS1FHTQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 21 Jun 2026 02:34:00 GMT",
+      "snippet": "Metamask Price Today in India | MASK to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "‘The MASK token is coming’: Consensys CEO says MetaMask’s native cryptocurrency is on its way - The Block",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkNHcDM2czJBSDBpbE5scjQ1NjU3ckc0NUhaSDJldm9tM1V3SjNSMnktV2ZoazVkeWhNSU1CVWpwbnZ0MmhfaEh6Mm9nVi1oRzZ3a3FDVnhUSzV6Mkwtd0tlQkVFc1Vuc2xDQS1Wb1ZGVXRMTkFHS1hYN21QWlFzemVreHM0Zw?oc=5",
+      "source": "The Block",
+      "publishedAt": "Fri, 19 Sep 2025 07:00:00 GMT",
+      "snippet": "‘The MASK token is coming’: Consensys CEO says MetaMask’s native cryptocurrency is on its way&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Aave Hands Lens Protocol Stewardship to Mask, Refocuses on DeFi - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSnAwVGo5Q0d1VWI3VTNQa2s0RDFTdmJ6bFVYUmNBWnpfQ3lsaUlSVTd5eHdTTjRzeTBjRjBFMDJ1bFc3OFc0SFdWNDh2UjBwWm91c1lBOU9JRGxQbUZZU1ZHREM2XzdZYnR0QTdxckktVzVGeGc0TkVzSEhSM05Jc0RuTjVMQ21yQjlWXzRwTDdkNXQzN3N0T3dQdk5weUMtWGc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Aave Hands Lens Protocol Stewardship to Mask, Refocuses on DeFi&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "XRP: Capital Flows Mask Significant Usage Declines (Cryptocurrency:XRP-USD) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONTZpSzJ6QTRNZkxuNmszaEJIZXplMzc2UUFNRnBKTjY3VE9xeHdCbnZZWElPbGowWWprT1k3aVAyc2RieExRTDUyTTNNX09zdS1VNGswdnc3X2I4ekFWSFRhdGI1cWdBVVZuYW50cWNPNHdqTlZ4UVVXQnBmbHJyNllYOVBEX2lPZ2VhWnJKbk5zYXI4?oc=5",
+      "source": "Seeking Alpha",
+      "publishedAt": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "snippet": "XRP: Capital Flows Mask Significant Usage Declines (Cryptocurrency:XRP-USD)&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
+      "title": "Metamask Token Hype Builds, While Aster Open Positions Surge 46%: Crypto Markets Today - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSEJodVpad1kxTkVyMnQ4ZklMRUgwalpsT19JdEY2SXQ0QVBrbHZhenJweEx6Mm83SzJYZFpwbHMwTUZFTGFmVktueGszVHVzZkM2ZlFHOU9UVkVzZTBmUG1YNk43VVlRNVlSbF8yTEcta2VobzM5TldLSWl2MFdRTHFJNXljZ3licUZjTm9GZ0xDQzZ0UjdJSHFfM2VQXzBvb2F0NmZRZjZLaTJuQ3NpMk1BNkVfLUVaTm83bTNJOFhXcmhwQjNJR2Y3eHY?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "snippet": "Metamask Token Hype Builds, While Aster Open Positions Surge 46%: Crypto Markets Today&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Cardano’s new roadmap assumes a 500% price explosion to mask an alarming gap in real protocol revenue - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWDk1WEZlc0I3aEVaaVljejhSdko5b3RVdFB3ejdHcEsxcjBwT194Y2E4ZFRVaU1POENRcWs3dFFUSEZHUE9KVnZySV9GVlFHRS1EcXZCdjUyYzVJOThkREhvc0Z6WmRtdktNOHFJVk0wUG5XS0s2bHdrSU1PTGRQV1psdE5GV2p4dFV5LVRZNnpjMlVHaWZGdFV6RlZpMy1IbWZWZXQ1bTMzVjZCUjhYOFc3clB6UQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "snippet": "Cardano’s new roadmap assumes a 500% price explosion to mask an alarming gap in real protocol revenue&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Mask Network Walkthrough: Price, Charges & How to Start - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS25kVVpMR2kwdkhrcE83c1N1OFc2cWhkc3Q3bE4xOHdneF9oX1djenlEc0NObkwxeTkzazFyZHJvS0tBRUFzLThGbjl6WHdvLU9NOFR0MG9ZbmVzamNoRmMta3JqeFNKajNfakJEb0lKa1gyNERTUkRvMW01c0tFclpn?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Fri, 19 Jun 2026 18:36:49 GMT",
+      "snippet": "Mask Network Walkthrough: Price, Charges & How to Start&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "SOON: How FDV Could Drive MetaMask's $12 Billion Token Valuation - OKX",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Yb19iZmswY2Zma1ZBd1QtUVdCa2lWZDRfd3lVTk1MMWpnM1Frc1haWk5OQi1DbXp5WU9rVXFfVmhpSE9vaGZ3QW1yLVl2VDVXdWxHSWs0N1BZNnp3dTgzOTROTmZJUzFTSXYwWlVDeTJFQU0?oc=5",
+      "source": "OKX",
+      "publishedAt": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "snippet": "SOON: How FDV Could Drive MetaMask's $12 Billion Token Valuation&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "MetaMask Airdrop Guide: Rewards, Eligibility & Claim - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU2Z6TjhWZG5oMDhfcXJRN21BMGtTcTNXTmRZUERyTGNuSnB4QnZoaW5WdFZPRGJuYlBWbTdrcDhSMmFhbkRLSnlZdUh3Vm5DRnROT2tFaWFSSUpjSm1ZemFGdnRxdFp2NlhHZldEQ2tubkRqQVpPNlhfd3lrcHJ6cTBKUGpybmIxNHFHbDZaVXl4dElXTXVLdVhIeGR2d9IBowFBVV95cUxOOFJKZ2JSSi16enFJVWZXSWJrbXZfQkdWMzVtdkxGNkY5UXNoa0c0TWRnTWlZck5qWEJvVWFWSnY5SFpXcHkwbFRFVF8tUlNRM19NRzlrUVdCZ04xWnZ1SVJUNl9nd05iWHNEVEtGT3dLYU4xQmRSbEdhYjN1QWNYUDN0NDRuZ0NjTnFkMmoxUDhRTnR0SGxodHVEcVdRYi1CSXBF?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 31 Oct 2025 07:00:00 GMT",
+      "snippet": "MetaMask Airdrop Guide: Rewards, Eligibility & Claim&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "MetaMask adds Polymarket to let users trade predictions - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTWFzd2JSTXFxV212TFljNXBFeHRES3ZuWkd0cDdXMHlzcnRiZ1hiVmtLaW14RXlRMUVKMU5VR1phWnU2SDl1QXRCY2w4YjhSZkZ3WEpPQnBZZXc0VDNfTG9lOA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 06 Dec 2025 08:00:00 GMT",
+      "snippet": "MetaMask adds Polymarket to let users trade predictions&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Buy Mask Network with Visa: Full Walkthrough - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aVkJDR0E3cm9yRTFkUEx4dnY4NnJPdjR1c2RsUGt4SEtYZk1oM2dBTlhtTnktdkdPcEFndHQ4bUZJLUR3c08tM0NRUUxvaU9OWWRpS2huWUFYUmlPTVVvTk1WLWpTVm0wLVJob3IzNDVMZ25G?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Tue, 09 Jun 2026 21:36:03 GMT",
+      "snippet": "Buy Mask Network with Visa: Full Walkthrough&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "MetaMask Rewards and TGE: Everything You Need to Know About the $30M LINEA Token Program - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mWV9JRUVwRy11Q2hYTHl0YmVTdTdjMHBkWGhhYU9vSktaZGRQVkduSGxWaldUTG9ZbHdUWXVsOEVPQk5wV1dGbEtjZlU2NzRWajFLLTVXamNoOS04M1RNNTdNNFRlT2ctR2c?oc=5",
+      "source": "OKX",
+      "publishedAt": "Sat, 01 Nov 2025 07:00:00 GMT",
+      "snippet": "MetaMask Rewards and TGE: Everything You Need to Know About the $30M LINEA Token Program&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Mask Network will become the new administrator of Lens Protocol - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YOFQyQkgwZmlabTV0Tmxva1kwNHRtNFFuRUM1OUFYSE1MQk5Uc21GWFBYOVdvbTBGMWRHUWNsQnBTRHVOMzhkWkNHVEoyZHVxTXBKSUMxV01wczJGREHSAWNBVV95cUxONi1FMzRCcGowUzBoTFpfWnNRM2lwMGY4N0FCS1NCaWwwSGZRV0FKWGxTcjU2NFAxY3gzRkRTWDd4bmh1aHFWMG8wajBPVFE3dGhIUFJvbWJ5WXNWS1k4a01XcFE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "snippet": "Mask Network will become the new administrator of Lens Protocol&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "MetaMask Token Launch Preview: Massive Airdrop, 10 Billion Valuation, and Potential Risks - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfYUdNZDFyaWZ6b3RPRDB2dkowZXoyWVh2WF9OVl9vaWdTOGwxcVR0d3NZUjk2RmdxQkVndDhqQzNuMlpNUEdBUjRnem1YZ20zU2dFUTNmYkhMT0lUd2fSAWNBVV95cUxQRXVyS3BIZE9sWnRHTXVUWkc0VGZ0eWJvN1dhOVNhYmJwOXBOTGNXZmM2OVJYYjRfdWlqZjltLV9KVS1uU2pLaktZczVaYXd3eVdpX3Y4c0NabFc3U3oxRXdBWTQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "snippet": "MetaMask Token Launch Preview: Massive Airdrop, 10 Billion Valuation, and Potential Risks&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "FTX used 'weird Korean account' to mask Alameda liabilities, CFTC says - The Block",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVHowTHdjaVdyUWJPS3VHLTQxNmFkMHljcmVVOGpYc19uSXcxVDdmSVNFX2Z2RUowa2RRSC1uZi1EOUxjb2tfRVpSaG5wSXc1NElBU0lENUo5VE5tcGt2RkR6dkZ6d0N6cWN6SVhtS0hPY09HbF81cDNScHA5R0ZYWXBSZUptYnBxWUZGYlRVSHREMERiY3Y0Qk9qRHR2SGVuNm1RSVZn?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 15 Dec 2022 08:00:00 GMT",
+      "snippet": "FTX used 'weird Korean account' to mask Alameda liabilities, CFTC says&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=MASK: Throttled\n"
+  ]
+}

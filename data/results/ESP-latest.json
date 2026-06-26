@@ -1,0 +1,313 @@
+{
+  "token": "ESP",
+  "requestedInput": "ESP",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:46:57.250Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ESP",
+    "name": "Espresso",
+    "generatedAt": "2026-06-26T08:46:49.088Z",
+    "summary": "ESP 24小时涨超10%，市值约4100万美元，全稀释估值约2.39亿美元。项目为L2提供共享排序层，近期无重大新催化，上涨可能为市场情绪或韩国交易所上币余温。流动性一般，估值偏高，建议观望。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若跌破0.06美元支撑或成交量萎缩，则上涨逻辑失效。"
+    },
+    "catalysts": [
+      "韩国Upbit和Bithumb上币（2月）带来的持续关注",
+      "Binance Premarket及现货上线（2月）",
+      "Espresso作为共享排序层基础设施的叙事"
+    ],
+    "latestNews": [
+      {
+        "title": "Espresso Price Today | ESP to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格跟踪页面，无新增信息。"
+      },
+      {
+        "title": "Espresso (ESP) Price Retraces 20% After Surge to ATH as Indicators Reveal Next Move - CCN.com",
+        "impact": "利空",
+        "reason": "价格从ATH回调20%，显示短期见顶风险。"
+      },
+      {
+        "title": "Espresso Token Launches at $275 Million Valuation - thedefiant.io",
+        "impact": "中性",
+        "reason": "2月上线时估值2.75亿，当前FDV约2.39亿，估值有所回落。"
+      },
+      {
+        "title": "Espresso (ESP) Token Soars 120% Following Upbit and Bithumb Listings What Traders Need to Know - Coinpedia",
+        "impact": "利好",
+        "reason": "韩国上币曾推动120%涨幅，但已是过去事件。"
+      }
+    ],
+    "fundamentals": [
+      "Espresso为L2提供共享排序层，提升跨链可组合性和安全性。",
+      "代币总供应量36亿，流通6.2亿（约17%），流通率低，未来解锁压力大。",
+      "上线Binance、Upbit、Bithumb等主流交易所，流动性较好。",
+      "项目获多家机构支持，但代币经济模型尚未完全释放。"
+    ],
+    "marketRead": [
+      "24小时涨幅10.71%，成交量85.5万美元，流动性仅50万美元，深度不足。",
+      "价格在0.066美元附近，距ATH 0.217美元下跌约69%，处于低位震荡。",
+      "30日涨幅为负，短期反弹但动能有限。"
+    ],
+    "risks": [
+      "全稀释估值2.39亿美元，流通市值仅4100万，未来大量解锁将带来抛压。",
+      "流动性较低（50万美元），大额交易易滑点。",
+      "近期无新催化剂，上涨可能为短期资金博弈。",
+      "项目处于早期，技术落地和采用情况不明。"
+    ],
+    "watchlist": [
+      "关注是否有新交易所上线或合作公告。",
+      "监控解锁时间表，尤其是大额解锁前。",
+      "观察成交量是否持续放大，否则反弹可能夭折。"
+    ],
+    "sourceNotes": [
+      "数据来自CoinMarketCap和DexScreener，新闻为Google News聚合。",
+      "部分新闻日期较早（2月），当前无重大新消息。"
+    ]
+  },
+  "profile": {
+    "id": "espresso",
+    "symbol": "ESP",
+    "name": "Espresso",
+    "categories": [
+      "Infrastructure",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Rollups-as-a-Service (RaaS)",
+      "Binance Wallet IDO",
+      "Capital Launchpad (Kaito)"
+    ],
+    "homepage": [
+      "https://www.espresso.foundation/",
+      "https://www.espressosys.com/"
+    ],
+    "description": "Espresso is a global confirmation layer that provides L2 chains with fast, reliable transaction confirmations backed by BFT consensus. Espresso confirmations can improve cross-chain composability, as they provide chains with near-instant access to reliable, credibly neutral information about what’s happening not just on their own chain, but on all chains plugged into the network. Espresso's confirmation layer can prevent sequencer equivocation, protect against reorgs, and reduce finality risk for solvers in intent-based systems. Its versatility means chains can also use it as a decentralized sequencer and low-cost data availability layer.",
+    "marketCapRank": 496,
+    "currentPriceUsd": 0.066356,
+    "marketCapUsd": 41233704,
+    "fullyDilutedValuationUsd": 239311860,
+    "totalVolumeUsd": 11537047,
+    "priceChange24hPct": 10.57578,
+    "priceChange7dPct": 5.97645,
+    "priceChange14dPct": 0.74927,
+    "priceChange30dPct": -3.49636,
+    "athUsd": 0.217368,
+    "athChangePct": -69.45916,
+    "circulatingSupply": 620521794,
+    "totalSupply": 3601379682,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 2481,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "ESP/USDC",
+    "chainId": "arbitrum",
+    "dexId": "uniswap",
+    "pairAddress": "0x15eB51A325cbCE6C1Cc8202a6f8a76224c5b7540",
+    "pairUrl": "https://dexscreener.com/arbitrum/0x15eb51a325cbce6c1cc8202a6f8a76224c5b7540",
+    "lastPrice": 0.06654,
+    "priceChange24hPct": 10.71,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 855565.37,
+    "liquidityUsd": 501704.6,
+    "fullyDilutedValuationUsd": 4996068,
+    "marketCapUsd": 41291350,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "arbitrum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/arbitrum/0x15eb51a325cbce6c1cc8202a6f8a76224c5b7540",
+    "pairAddress": "0x15eB51A325cbCE6C1Cc8202a6f8a76224c5b7540",
+    "baseToken": {
+      "address": "0x3b8db18e69d6686Ad9371A423aFe3Dd1065C94f1",
+      "name": "Espresso",
+      "symbol": "ESP"
+    },
+    "quoteToken": {
+      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.06647",
+    "priceUsd": "0.06654",
+    "txns": {
+      "m5": {
+        "buys": 7,
+        "sells": 20
+      },
+      "h1": {
+        "buys": 231,
+        "sells": 262
+      },
+      "h6": {
+        "buys": 1830,
+        "sells": 1698
+      },
+      "h24": {
+        "buys": 4766,
+        "sells": 4684
+      }
+    },
+    "volume": {
+      "h24": 855565.37,
+      "h6": 341965.9,
+      "h1": 46377.03,
+      "m5": 2522.78
+    },
+    "priceChange": {
+      "m5": -0.33,
+      "h1": -0.73,
+      "h6": 3.49,
+      "h24": 10.71
+    },
+    "liquidity": {
+      "usd": 501704.6,
+      "base": 3915359,
+      "quote": 240906
+    },
+    "fdv": 4996068,
+    "marketCap": 41291350,
+    "pairCreatedAt": 1770793626000
+  },
+  "news": [
+    {
+      "title": "Espresso Price Today | ESP to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lb2ZzVEp5VWJ3bGQ2NGNUSHZNemhaZnVhY004T2VGVFdOaTh6dVFRT2k2djN4b185cEIyQXA2MmRXM1AzWVljWVhoT0QtWFFRM1FZ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 26 Jun 2026 01:14:56 GMT",
+      "snippet": "Espresso Price Today | ESP to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Espresso price today, ESP to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYWlVia2V2UDBxa3J5eDVJRUsxZ1NsUTRpcjlkWHJBdks4cUo5dndQcUtwam1yVmhVZjlSdkR2ZTdEWGt0aDBwZlFFeDl5OTFaSEdNYWtfS3JOZw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 10 Feb 2026 08:46:33 GMT",
+      "snippet": "Espresso price today, ESP to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Espresso (ESP) Price Retraces 20% After Surge to ATH as Indicators Reveal Next Move - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXpLREZ3QWgtVGI0eDNjdUJORndEclY2U2ZTNXgyVmpfaUFTTlJZNG1keEhkSjg4T0xsUXBrLVhoc1lpYktYMFZFM05Nd29IMmFGSkxac1JsWkdPd1V3RnhEUWl0NEduWlJOQmNxUm5UeEdvU25PU0NkVG9pbktpQ0R4djRVdXNRZHlhQkt0Ry1QMG5xbm9qMHBSOA?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "snippet": "Espresso (ESP) Price Retraces 20% After Surge to ATH as Indicators Reveal Next Move&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Espresso Price Prediction 2026–2030: Can Shared Sequencing Push ESP Toward $1.5? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYWVVMmdJaDIydVhQYlhBd0g4dDBySmxnOGNidkhGTFgtS2RGRkhORnk0LVRRQ2EyZl9YNkxrSVd1V2ZXWG9EdXJDSVo0UzlkMVRYRm01NzNLQ080cDZyZmVnQ3FzbklvVndmM3h2UGN0NU9IZzZSaGdkSFhXRk5HdkJ4YXdKaFZna2h0UjBUeklyYW5JQV9rd0Vfa2R6elJZallzYWpMTEk0YWhzanhseTE0ajRIUQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "snippet": "Espresso Price Prediction 2026–2030: Can Shared Sequencing Push ESP Toward $1.5?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Espresso Price Today in India | ESP to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11cmxqdkVCTVdnY1dKZlhGS19NdGxxWmt4RXU0R0Z0OGJlQ2RnZERNRG1SeFJJcUFtRzNNeDZfRzBieG5CRG1DSHM1WEpWMHlPVmo2ZnNqcw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 24 Jun 2026 22:05:00 GMT",
+      "snippet": "Espresso Price Today in India | ESP to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Espresso Price Prediction 2026–2030: Can Shared Sequencing Push ESP Toward $1.5? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JZ0hLa3hMRm1SeWhIVk9PU2lpak53bXZsUG5Dbi1uWTJ1TTRLcWNjYzRIQzdRLUNmYmZhWm1FbjBQR2RPWllOT2h3Y1NoZ0tERGhWQ19mU2lIQXRfckHSAWNBVV95cUxQRjBxMUR1eDkyek0xRkZvODNrN0NfaS16NTRNcVV0Q1N1YWREVENIQmQwUUNWMFU3MUg1ZzVjdXN2NVJsOWRkclpYT3Q5RDlzaDRPOHRfZjVuTFNoZ1ZXVVpRenM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "snippet": "Espresso Price Prediction 2026–2030: Can Shared Sequencing Push ESP Toward $1.5?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Espresso Token Launches at $275 Million Valuation - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMnMzdnBmbnJRdkR6NGVXMmVHVG8wbGxsbmNsZ3VFM1J5ZHpETDVEM0lNWWROYVdaZWFnQUJSSDR1SE9LbURBTmc2SWFrOG1wNTk3RS12ejhlY21iazd4NWhyTUNTSTlRdWc4X3E3OTNuTnF2M2xBOTZQYWF3cXpQOWN1X0FFWXJLNWpCX1lRbmVrU25n?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "Espresso Token Launches at $275 Million Valuation&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Espresso (ESP) Token Soars 120% Following Upbit and Bithumb Listings What Traders Need to Know - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbk5mWE5qTG5saUJFRjRRd0JXbUJXWDVZdGgwaGNaWW9mczhjMUlyc3FkLUFfNmVab3MxZkJHTTFpZ091UHlMM2JWMWFWRGRLOS1GUkF5WmJQRFh4SlVsQ21adXUycEhTWmRvbTh0aEJzcm9zZ3V1dEctdlluTEhMaFhrWE80bzE3U3FuVS1uTDlyVGph0gGaAUFVX3lxTE9hOVhaaVp5ZFdRVVJvSFFrVWdZMWI5U09wTDZCaWxJNVFCU1pIM2V5RWVBel9ZaE5xYUpkRHVodHM2dTA5WG52R0Z2UTdUeVNzTEl6STVqUW5RY1FpdjYtSWZCR1dDQ2VmcUFJalB0QXF5RFA1U1RCRmlSa1ZfTjl6VzFRLWl2SzNIRkJ6WGpfU2hkdDBOSXRoZkE?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "snippet": "Espresso (ESP) Token Soars 120% Following Upbit and Bithumb Listings What Traders Need to Know&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Bithumb Espresso Listing: A Strategic Leap for South Korea’s Crypto Market - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yci1uZjVRNk5nT3Fnd2J6OUVUSkl3NHdKUEJqVHF1ME15QWVSM2d2ajdWTFJ0T0RNaGd5U0F6ZmJxWTA3c2tvQTFKd0lOSjdFS2tsSGI1SmZiZGp2Z1p5WFNVOXZVd0tPblo5SThzUkJtWnNrUGFv?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "snippet": "Bithumb Espresso Listing: A Strategic Leap for South Korea’s Crypto Market&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What Is Espresso (ESP)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TYllZeWJ5UEdYQVoxT2hLNkZ0VS03ZG9FUzZyQ1RabUN4aGdJRTZsWnN5Q0ZpOGhwTm9DMTF1SUNXR050S25XNzJycUpZQjZIRlBiRjRtOE15UEU5TFl4QUduRjFTcU0wcm1TTWxrdmFXZw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 13 Feb 2026 08:00:00 GMT",
+      "snippet": "What Is Espresso (ESP)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Espresso network launches ESP token with 10% airdrop amid Ethereum layer-2 debate - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVVd5Q1daNGlfZ0tvcXhYTjhGcW9FRUkyX0hzRXpsd3h3MU91NGtkSEE0a3QtUWdjX1V4Mk9YREFlM2lQUmhmUkROblNWSWQ1NmJFSUN0dDF3dVFWbVpza2xxQUEtUzF6WDJNYkdPUE9mWkNwNnNjMXJXTzIyQ2pwQzE1enlqenpaNUhaMzRseGktc3p2YmtYalU4UWM2VjAwNTZBbTB3cThtaHlyVHMxNXNtc29FOVcxQ2dQVU94UFNweU0?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "Espresso network launches ESP token with 10% airdrop amid Ethereum layer-2 debate&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Espresso Foundation & $ESP Token Now Listed on Binance! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vbnNlTmZSMU5YYkpDUzU3NGF2TFRoQ09rckE5Y01jZVhKWS1DeGxUQ1VkSDhrakZYTDFkMWRQMGtacVRJa2I5NEhuanlUOF9sM05JODlPZU1KNzl1b0RPSkdtU3M?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "Espresso Foundation & $ESP Token Now Listed on Binance!&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Premarket Opens for Espresso (ESP) — Is This the Next Explosive Token or Just Another Hype Play? - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE55YVhkUk9TVUhGcTBKZTRzUllZbjNTSmdUVXFWZ2ZyVF9CUmZLRmZOMm5rb2EtVGMzcHdCY056QUc3OGdELUE?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "snippet": "Binance Premarket Opens for Espresso (ESP) — Is This the Next Explosive Token or Just Another Hype Play?&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "What Is Espresso (ESP): How It Works, Uses, and Tokenomics - NFTevening",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lbFFCcUxGelFpX01xR3o3blVfU2xIeklTQ1l4akE4bXhpN2hTcXBKdjczbGhsSFh0VklHaGkzTmJqb21BWUNwZ2wxQUQtRUxNMTdka0d0NA?oc=5",
+      "source": "NFTevening",
+      "publishedAt": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "snippet": "What Is Espresso (ESP): How It Works, Uses, and Tokenomics&nbsp;&nbsp;NFTevening"
+    },
+    {
+      "title": "Espresso's first airdrop will be distributed to over 1 million addresses, using a holder scoring mechanism. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnVkU4MVFlMTF0VVpDX2dtWnF5aENTZnVTMmlyUlFuMkxIU2NqYWZySXFSMmVfRklZOTl4Y3JPeFlicHpUUzBXOXVBdDdrRHA1ZEJ5Wkp2bTRmTm9yX3fSAWNBVV95cUxQcG44VFF4dmpoSjdFdEdCbWplY0gybnlkQXNQblRYWXpSR0luNEV5TnFXNWt4dXRXeFEyVF9nWmlqZkgwY1ExcEJXR1N4ckUyWmtYWExkdWxIWWpPVmNDXzBSWTQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "snippet": "Espresso's first airdrop will be distributed to over 1 million addresses, using a holder scoring mechanism.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Espresso (ESP) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5iWmhvVll4TzdlcDZUTGpKSmJyWnRBU3FRdnA0ZURTM193TndtNWZxb2pfMjZLYkF4YmxMOURYVFZQSW10bFlRR2VB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 20 Oct 2022 17:53:27 GMT",
+      "snippet": "Espresso (ESP) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

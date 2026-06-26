@@ -1,0 +1,203 @@
+{
+  "token": "MEMES",
+  "requestedInput": "INDA",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:48:04.180Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MEMES",
+    "name": "MemeCoinDAOai",
+    "generatedAt": "2026-06-26T08:47:59.993Z",
+    "summary": "MEMES是Solana链上Raydium的Meme币，市值仅1.6万美元，流动性不足1万美元，24小时交易量仅370美元，价格波动极小。缺乏新闻催化，基本面薄弱，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无买入逻辑，无需失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "项目为Meme币，无实际用例",
+      "市值仅1.6万美元，流动性9568美元",
+      "创建于2024年1月，但交易量极低",
+      "官网和社交媒体存在，但活跃度未知"
+    ],
+    "marketRead": [
+      "24小时价格涨幅0.74%，几乎无波动",
+      "24小时交易量仅370美元，流动性极差",
+      "无历史K线数据，无法判断趋势"
+    ],
+    "risks": [
+      "流动性极低，滑点巨大，难以买卖",
+      "市值极小，容易归零",
+      "无新闻或社区热度支撑",
+      "合约风险：未开源或审计未知"
+    ],
+    "watchlist": [
+      "关注是否有新资金入场或社交媒体热度",
+      "流动性是否增加"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无CEX或新闻来源",
+      "缺乏7日/30日价格变化数据"
+    ]
+  },
+  "profile": {
+    "id": "8W4qpyLx74vwBRewa3rVEPPVMnJ8VWMkCTWCTSYPQTDu",
+    "symbol": "MEMES",
+    "name": "MemeCoinDAOai",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [
+      "https://www.memecoindao.ai/"
+    ],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/9sfpgvxdyrccg4t9dcrfqn16yfizcdwhb9w6vzgzcnfy Socials: twitter: https://twitter.com/MemeCoinDAOai; telegram: https://t.me/+8GaBrj_gUjg5YmYx",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.0001616,
+    "marketCapUsd": 16153,
+    "fullyDilutedValuationUsd": 16153,
+    "totalVolumeUsd": 370.23,
+    "priceChange24hPct": 0.74,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2024-01-10",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "9SfpgVXDyrCCG4t9dcrFqn16YFiZCdwHb9W6vZgzCnfy",
+    "baseTokenAddress": "8W4qpyLx74vwBRewa3rVEPPVMnJ8VWMkCTWCTSYPQTDu",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 9568.74,
+    "pairUrl": "https://dexscreener.com/solana/9sfpgvxdyrccg4t9dcrfqn16yfizcdwhb9w6vzgzcnfy",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "MEMES/SOL",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "9SfpgVXDyrCCG4t9dcrFqn16YFiZCdwHb9W6vZgzCnfy",
+    "pairUrl": "https://dexscreener.com/solana/9sfpgvxdyrccg4t9dcrfqn16yfizcdwhb9w6vzgzcnfy",
+    "lastPrice": 0.0001616,
+    "priceChange24hPct": 0.74,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 370.23,
+    "liquidityUsd": 9568.74,
+    "fullyDilutedValuationUsd": 16153,
+    "marketCapUsd": 16153,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/9sfpgvxdyrccg4t9dcrfqn16yfizcdwhb9w6vzgzcnfy",
+    "pairAddress": "9SfpgVXDyrCCG4t9dcrFqn16YFiZCdwHb9W6vZgzCnfy",
+    "baseToken": {
+      "address": "8W4qpyLx74vwBRewa3rVEPPVMnJ8VWMkCTWCTSYPQTDu",
+      "name": "MemeCoinDAOai",
+      "symbol": "MEMES"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.000002314",
+    "priceUsd": "0.0001616",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 5,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 6,
+        "sells": 34
+      },
+      "h24": {
+        "buys": 104,
+        "sells": 100
+      }
+    },
+    "volume": {
+      "h24": 370.23,
+      "h6": 76.91,
+      "h1": 6.98,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -0.61,
+      "h6": 2.61,
+      "h24": 0.74
+    },
+    "liquidity": {
+      "usd": 9568.74,
+      "base": 29620610,
+      "quote": 68.4096
+    },
+    "fdv": 16153,
+    "marketCap": 16153,
+    "pairCreatedAt": 1704905041000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/82979ed827e0881c50326e7b7da3e09e1b34d89b2a8f9ed8725418d93f860934?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/8db36d035d37d8c7234261e8d0a58cb0f4ae2df94067ad728b857f1dffc526f9?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8W4qpyLx74vwBRewa3rVEPPVMnJ8VWMkCTWCTSYPQTDu?timestamp=1782463800000",
+      "websites": [
+        {
+          "url": "https://www.memecoindao.ai/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://twitter.com/MemeCoinDAOai",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/+8GaBrj_gUjg5YmYx",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=INDA: Throttled\n"
+  ]
+}

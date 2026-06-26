@@ -1,0 +1,308 @@
+{
+  "token": "OP",
+  "requestedInput": "OP",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:03.810Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "OP",
+    "name": "OP",
+    "generatedAt": "2026-06-26T08:46:57.807Z",
+    "summary": "该OP为BSC链上PancakeSwap的仿盘代币，非以太坊L2 Optimism官方OP。市值仅6.5万美元，流动性2.5万美元，24小时交易量377美元，价格微涨3.26%。无基本面支撑，存在极高风险。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "任何买入逻辑均不成立"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Coinbase’s Base Exits Optimism, Triggers 23% Crash To New All-Time Low",
+        "impact": "利空",
+        "reason": "Base脱离OP Stack导致OP代币暴跌，但此新闻针对以太坊L2的OP，与本BSC仿盘无关"
+      },
+      {
+        "title": "Optimism Greenlights 50% Revenue Shift For OP Token Buybacks",
+        "impact": "利好",
+        "reason": "官方OP回购计划，但本代币无关"
+      }
+    ],
+    "fundamentals": [
+      "BSC链上PancakeSwap交易对，非官方Optimism代币",
+      "市值仅6.5万美元，流动性2.56万美元",
+      "创建于2026-05-18，仅一个月历史",
+      "无官网、无白皮书、无团队信息"
+    ],
+    "marketRead": [
+      "24小时交易量仅377美元，流动性极差",
+      "价格波动3.26%，但无实际交易支撑",
+      "无历史K线数据，无法分析趋势"
+    ],
+    "risks": [
+      "高度疑似蜜罐或貔貅盘，合约未开源",
+      "流动性低，大额卖出可能导致价格归零",
+      "与知名项目同名，存在混淆欺诈风险",
+      "无任何基本面或社区支持"
+    ],
+    "watchlist": [
+      "合约地址是否开源",
+      "流动性池是否可撤除",
+      "是否有真实交易量"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他来源验证",
+      "新闻内容均指向以太坊L2的Optimism，与本代币无关"
+    ]
+  },
+  "profile": {
+    "id": "0xaaF618461400F2F418674d12AE160040F16995b5",
+    "symbol": "OP",
+    "name": "OP",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x9479ffa8629a065734cee8001d664ae4cadbd6e3",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.003434,
+    "marketCapUsd": 64967,
+    "fullyDilutedValuationUsd": 64967,
+    "totalVolumeUsd": 377.46,
+    "priceChange24hPct": 3.26,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-05-18",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x9479fFa8629a065734CeE8001D664ae4CAdBd6e3",
+    "baseTokenAddress": "0xaaF618461400F2F418674d12AE160040F16995b5",
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "liquidityUsd": 25658.96,
+    "pairUrl": "https://dexscreener.com/bsc/0x9479ffa8629a065734cee8001d664ae4cadbd6e3",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "OP/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x9479fFa8629a065734CeE8001D664ae4CAdBd6e3",
+    "pairUrl": "https://dexscreener.com/bsc/0x9479ffa8629a065734cee8001d664ae4cadbd6e3",
+    "lastPrice": 0.003434,
+    "priceChange24hPct": 3.26,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 377.46,
+    "liquidityUsd": 25658.96,
+    "fullyDilutedValuationUsd": 64967,
+    "marketCapUsd": 64967,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x9479ffa8629a065734cee8001d664ae4cadbd6e3",
+    "pairAddress": "0x9479fFa8629a065734CeE8001D664ae4CAdBd6e3",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0xaaF618461400F2F418674d12AE160040F16995b5",
+      "name": "OP",
+      "symbol": "OP"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.000006029",
+    "priceUsd": "0.003434",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 23,
+        "sells": 16
+      }
+    },
+    "volume": {
+      "h24": 377.46,
+      "h6": 84.03,
+      "h1": 2.84,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": 0.46,
+      "h6": 0.07,
+      "h24": 3.26
+    },
+    "liquidity": {
+      "usd": 25658.96,
+      "base": 3734935,
+      "quote": 22.5193
+    },
+    "fdv": 64967,
+    "marketCap": 64967,
+    "pairCreatedAt": 1779108352000
+  },
+  "news": [
+    {
+      "title": "Coinbase’s Base Exits Optimism, Triggers 23% Crash To New All-Time Low - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOGg2WDhSV1hEaDFjWTNrRE1PdnBlVWhPY2ZZUVZ5M1VUTTg4dURRMmhhN2hhZjFqY0pSS2djNFlfeDJIR19iZzROS0JjdHBIMUF5OWRLWWVZaWNUM1VOWFIzWGpUbFp5LXo3QnVLNE5hNWlObEhhRmVBOW8xY0ZRR2R0a2RQM2w4?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "snippet": "Coinbase’s Base Exits Optimism, Triggers 23% Crash To New All-Time Low&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Optimism Price Sinks 28% to All-Time Low After Base Abandons OP Stack, yet Whales Are Buying — Why? - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWlHSjNYV241U0p5ZUoyQ0IzczBheExvaHBvZ19qbzNSMGR1R3ZPcDhYbUFFTGwxNmNUbDlyYVdfMXNvSjZib2hNbGg4UklBel9teHV2OXFwSlJDVktwX05ob05ORERFVkJ1bWEzeGI4UjQ4aDg5eDBmb19ONnd5V3ZUZmFIdTdpbm1QZlZqbGhxR0loVVNxbkNEaw?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Fri, 20 Feb 2026 08:00:00 GMT",
+      "snippet": "Optimism Price Sinks 28% to All-Time Low After Base Abandons OP Stack, yet Whales Are Buying — Why?&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Optimism token price plunges 25% as Coinbase cuts off DAO from millions in revenue - dlnews.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORzVodVdYR0xWUUctZjJKdU55NFptM3FvTHFxOE9EMmtyZ0doZWw0dDdkS245NVJQWXp6Z0dOVmJIcm0xRkg3R1NZdEtycTRncUpOamlyOE5IdmFOLThKRkpFTjU5R3NxUWFZTG9yOGJEdzRXX0s1ZllVVjRLNTRnNl9sb2FGN0N3TUdnVWtXRkEtblllUFVr?oc=5",
+      "source": "dlnews.com",
+      "publishedAt": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "snippet": "Optimism token price plunges 25% as Coinbase cuts off DAO from millions in revenue&nbsp;&nbsp;dlnews.com"
+    },
+    {
+      "title": "Optimism's OP token falls after Base moves away from the network's 'OP stack' in major tech shift - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWG1xbUdYRHJPTzVJa3hHaXFNaVlXXzZjN1FYeEFHcThzZGFiQzhXQkQ3Q05TOV9Ha0ZpOEtIeXMtTWhQYzZjaDRNLUJyckJBc1pkaHNKNFRXQk9VU2tSeHJxajVCN2UwQmVHRUlWSVFDYmVTTEpGMjI1c0xnVHhQN0FOaElyVjFrZmNuQk1BbTJoZjVHXzlnQjZBMUJtVWlCZHZuT2oxaXFTdHhXd202Q015SVRqNm8?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "snippet": "Optimism's OP token falls after Base moves away from the network's 'OP stack' in major tech shift&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Optimism Price Prediction 2026, 2027 – 2030, Can the Superchain Vision Revive OP’s Long-Term Value? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqNlRmVVVHVUMtOVVSY183a282bkptdVB2MTA2ejJCeVpMNllLVGotQUxERDZBM3ZFY3hkR0xhU1FFcEcyaTdoQVdza0JhNHJaMDBFWkNucjZWbmlmSkM5elZWVHRiWHFEMzg3NFFEOEptYUZIUnJv0gF8QVVfeXFMTVllRm1XWGNuY3BvSFE2MXoxRjZGQnNKekZUSGdoVFRYSUhBazEta3ctY1poVjdYd3FKcFEtNVl3aGtzSnQ3TkxqdkNsLWp0UV9NVkVIWklVNG42a1lVWkJhOFhMb0taWGZOMjhlSUpOV2JraUtEdmZJRUJXdA?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Fri, 09 Jan 2026 08:00:00 GMT",
+      "snippet": "Optimism Price Prediction 2026, 2027 – 2030, Can the Superchain Vision Revive OP’s Long-Term Value?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Coinbase’s Base moves away from Optimism stack, OP token sinks - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DRW1TZWxrWGxOTDhBUnljNWpSSjVUTGtfTy1ESE9sSENabUNaS2J4VTdTZnNxNnIwSm41LTFHM0tkbExDQzZidVFSX3VIVHVQc1I1STVFaENmWW5NTzgzcG05TjBVNFVPZVRuNkJSLWtDQzNkckZDbGhROA?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "snippet": "Coinbase’s Base moves away from Optimism stack, OP token sinks&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Optimism Price Prediction 2025–2030 | Future Forecast - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1idTFLaV9uRkR2UFVQMzVZRkFfc1FyU29PWS1HSW9JM0JUQVRJYWE3eVdaMGlmMG80V0RZc0VndlNXTm9pRHM1RnkxX21wMUlFV0o2OVFxcTViWi0xMlBZdmJtRE9NM2xsZ04tYzF0d3huUQ?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Wed, 05 Nov 2025 08:00:00 GMT",
+      "snippet": "Optimism Price Prediction 2025–2030 | Future Forecast&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "OP Token Crashes to Record Low as Price Moves Below $0.13 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3FHRFpJOEdUU1ZVbzltUERSTjU4anFQUWN5U0ZhUGVJSHJUSFZRRVFFSDRUOGpHdnJPdlprODhQMFR1a3F1cHJUaEZ2bENoZ1BvTEFMd2MwWXpfOE9tTXpHNEdoNk1UN0w4VGFPMWw0X2hxc2xuZXlFRnB4QXU5cFhSUldMTVRDOUthTm1iREJzel9IaGp5d1Fn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 20 Feb 2026 08:00:00 GMT",
+      "snippet": "OP Token Crashes to Record Low as Price Moves Below $0.13&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "State of the OP Stack Q1 2026 - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zb3NSdkRuN2h0anY5WTd0aUVmbUx6dXhiSjlaYy1YTjF4bTNadHYtckk1YmdEbmlPcFBJY09XOFo3UFRodmF5ZWJhd3ZWVzRGRmF3V05GWi04V2lTNjFXUDFLdmlfUQ?oc=5",
+      "source": "Messari",
+      "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
+      "snippet": "State of the OP Stack Q1 2026&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "What Is Optimism (OP)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NVkV6c0RFdUpvSWFZb1MySHlXOTNIa0JWYzg3Ym95a0NyaEp1Y1pORTdLQW1kT2tpVFJiYlFCMG9jdXMxbW4zUTdCMVlFZ1dURmdDamFDcDllZnZzXzY1aXNoM2NXYXNTdVJXRlpLdUo?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 04 Sep 2025 07:00:00 GMT",
+      "snippet": "What Is Optimism (OP)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Top Crypto Projects in the Base Network Ecosystem - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjktOXFhZHoxS1ZmamhKdHY4aFZxbmdEdmFIcjR5clZKUlFKMmdYZjZUYXlsS2dWc2xNYUJiOEdZN09CWTJHYWpmclBkV0h3VFpDM2x2dWY0djN6LWRvQkRJMGptQUNTOGVuaWRaakt5cjJKTjdncjlRSFhVSkE3RnFGckdDV1Jj?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "snippet": "Top Crypto Projects in the Base Network Ecosystem&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Optimism price today, OP to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WUnhtdzBhUnREYjZJeEdLWVYySm0xMi1XVVFCNW9kVXRiZVNiZkpUVFhacHdDc3gyVS1zaUpBcDJ5SzBDRFJkejh2bWliUmp5aHRrUjJscHFlbXQ0Q2kyYVVpeW5FZw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 31 May 2022 17:17:22 GMT",
+      "snippet": "Optimism price today, OP to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "WalletConnect token expands to Solana with 5 million WCT set for airdrop - The Block",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWHVRNjRMSnJaWDJfSWNmOTRkY3dPZVVQdzI1TjZaRUdQZE84MENzb0xfd0RLdFNMUXRfTmN3MEFLYTI5ZndpV3FuNWJHdkhCd0xiZHFDc3FLWGRaWXdjQ3hiOEZrd3ZhVGZ3dTFwdzVDTURucFdUeEJfU0d1SmYxWU1UWlhaUjJLTkZvSg?oc=5",
+      "source": "The Block",
+      "publishedAt": "Fri, 23 May 2025 07:00:00 GMT",
+      "snippet": "WalletConnect token expands to Solana with 5 million WCT set for airdrop&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Optimism Greenlights 50% Revenue Shift For OP Token Buybacks - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTU1pR2RVT25DaGRaWUJXaWNnZThGdUhjbnUzVl9IMmJJanJlTFhfWWhESjZsSlMySDlqTVptNDhQYVlTSTVaU08zeVIwWHF2UmZRSTl2LXBzdUdBcnJuckRZd0JQaHg1WHJYaFVZTzFrZWpLdmg5cGVmcGo0Y21GMXl3bldpSHE2dTVj?oc=5",
+      "source": "Yellow.com",
+      "publishedAt": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "snippet": "Optimism Greenlights 50% Revenue Shift For OP Token Buybacks&nbsp;&nbsp;Yellow.com"
+    },
+    {
+      "title": "Best Ethereum Layer 2 Projects: Compare Top L2 Networks & Scaling Solutions In 2026 - Coin Bureau",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05N1NqMmxYVXd4S1BYaHJ3M213NmNBS01JZzh2dzhMODVONVpSeUo2cktmZ09xbGdlSUd6aTgxSGFyWDlhdFRQSHBFcUpMZnEyQ25lZDFwYXFuSVRiM2pyT3E3ZGd4Vjg?oc=5",
+      "source": "Coin Bureau",
+      "publishedAt": "Fri, 20 Feb 2026 08:00:00 GMT",
+      "snippet": "Best Ethereum Layer 2 Projects: Compare Top L2 Networks & Scaling Solutions In 2026&nbsp;&nbsp;Coin Bureau"
+    },
+    {
+      "title": "Optimism Price, OP to USD, Research, News & Fundraising - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82SEZDS3YyZUZEdmViNmk1VHdlWnJMUi04eVViS1VqUXFSWDNwb2toam1FbkNudTNDNFE1Mm95QXM2amFwZzhQOGNJOA?oc=5",
+      "source": "Messari",
+      "publishedAt": "Thu, 14 Sep 2023 17:00:09 GMT",
+      "snippet": "Optimism Price, OP to USD, Research, News & Fundraising&nbsp;&nbsp;Messari"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=OP: Throttled\n"
+  ]
+}

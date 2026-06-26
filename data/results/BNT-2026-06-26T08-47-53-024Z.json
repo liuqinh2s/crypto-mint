@@ -1,0 +1,261 @@
+{
+  "token": "BNT",
+  "requestedInput": "BNT",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:53.024Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BNT",
+    "name": "Bancor",
+    "generatedAt": "2026-06-26T08:47:45.544Z",
+    "summary": "该BNT为Solana链上Meteora池的仿盘代币，非以太坊原版Bancor。流动性极高但24h成交量仅3.99美元，价格几乎无波动，疑似死池或机器人对倒。基本面缺失，新闻均为原版Bancor旧闻，无实质催化。强烈回避。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性突然激活或出现真实交易量"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Bancor Network (BNT) Token Price Prediction 2026, 2027-2030: Will BNT Recover? - Coinpedia",
+        "impact": "中性",
+        "reason": "新闻为原版Bancor预测，与当前Solana仿盘无关"
+      },
+      {
+        "title": "Bancor Network (BNT) Price Prediction 2026-2030: Unveiling the Critical Recovery Path - Bitget",
+        "impact": "中性",
+        "reason": "同样为原版Bancor预测，不适用"
+      }
+    ],
+    "fundamentals": [
+      "该代币为Solana链上Meteora DEX的BNT/USDC交易对，非以太坊Bancor协议代币",
+      "创建于2025-08-01，距今近一年",
+      "流动性高达8192万美元，但24h成交量仅3.99美元，流动性/成交量比例极不自然",
+      "无官网、无团队信息、无白皮书，疑似蜜罐或死池",
+      "总供应量和流通量未披露"
+    ],
+    "marketRead": [
+      "价格0.7199美元，24h跌幅0.02%，几乎无波动",
+      "24h成交量仅3.99美元，表明无真实交易活动",
+      "流动性极高但无交易，可能为机器人刷量或流动性陷阱",
+      "无K线数据，无法分析趋势"
+    ],
+    "risks": [
+      "极高风险：流动性可能无法退出（蜜罐风险）",
+      "无真实交易量，价格操纵风险大",
+      "项目方匿名，无社区或社交媒体",
+      "新闻均为原版Bancor旧闻，与当前代币无关",
+      "合约未开源或未审计（未提供信息）"
+    ],
+    "watchlist": [
+      "观察流动性是否可提取（如有人成功卖出）",
+      "关注是否有真实交易量出现",
+      "检查合约是否开源及审计报告"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，缺乏项目方信息",
+      "新闻均为原版Bancor，不适用于此仿盘",
+      "流动性数据可能为虚假或机器人提供"
+    ]
+  },
+  "profile": {
+    "id": "GNwW2Nm5MHEi6GqjJduswZ65iw4JQQ9xQakyPQUJ6Us2",
+    "symbol": "BNT",
+    "name": "Bancor",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/bxj8mugazcb4v36uq6hrpatvithh8dfazsp5xocjzisa",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.7199,
+    "marketCapUsd": 82924444,
+    "fullyDilutedValuationUsd": 82924444,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-08-01",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "BXJ8MUGazcb4v36uq6hrpATviThh8DFazsp5xocjZiSa",
+    "baseTokenAddress": "GNwW2Nm5MHEi6GqjJduswZ65iw4JQQ9xQakyPQUJ6Us2",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 81924461.95,
+    "pairUrl": "https://dexscreener.com/solana/bxj8mugazcb4v36uq6hrpatvithh8dfazsp5xocjzisa",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "BNT/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "BXJ8MUGazcb4v36uq6hrpATviThh8DFazsp5xocjZiSa",
+    "pairUrl": "https://dexscreener.com/solana/bxj8mugazcb4v36uq6hrpatvithh8dfazsp5xocjzisa",
+    "lastPrice": 0.7199,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 81924461.95,
+    "fullyDilutedValuationUsd": 82924444,
+    "marketCapUsd": 82924444,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/bxj8mugazcb4v36uq6hrpatvithh8dfazsp5xocjzisa",
+    "pairAddress": "BXJ8MUGazcb4v36uq6hrpATviThh8DFazsp5xocjZiSa",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "GNwW2Nm5MHEi6GqjJduswZ65iw4JQQ9xQakyPQUJ6Us2",
+      "name": "Bancor",
+      "symbol": "BNT"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.7199",
+    "priceUsd": "0.7199",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 81924461.95,
+      "base": 113790787,
+      "quote": 5950.2641
+    },
+    "fdv": 82924444,
+    "marketCap": 82924444,
+    "pairCreatedAt": 1754026446000
+  },
+  "news": [
+    {
+      "title": "Bancor Network (BNT) Token Price Prediction 2026, 2027-2030: Will BNT Recover? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16MzduTEVVOE4wX3Y4RjJzRkJNbzhvalRzVHZ6eDd2TTMzU3dfNk51RHdXRDZNc1hhbVlLdkJCVllkbnhjd2hpcGQ1cGFFY3ZWVGZKUWgtU0hUWWNhd2lOSVJydUZMSmI1WGh3cWMyemJvVnp1b3fSAXtBVV95cUxNNTdHU2tOZWJMZkNlOHluSWpndUlTT1JDc2w4N0hNeHhkR0E0aU5TdjdYMk90ZUk4clR6NU1wUmU2c0JmYkhfOVI2R0Qxa2JHTTQ5dVA4S0M4U24wbWZBQ2FWZGRTSFNCQTVZRDJZSk85S19EMVFiQmp5TVU?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Fri, 26 Dec 2025 08:00:00 GMT",
+      "snippet": "Bancor Network (BNT) Token Price Prediction 2026, 2027-2030: Will BNT Recover?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Bancor Network (BNT) Price Prediction 2026-2030: Unveiling the Critical Recovery Path - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DanR2NFM3YU9hdEZxRzRUa3hCYUdLbDk5c2p3UEdjZFRBMm5kZ3NYamh6bnlOXzhLMm5faTZDZVlBTkhsRWV0d0FBVFFqU1F1cG5tQ0pieENFaFNQOGfSAWNBVV95cUxPdXdNREpxeFNPMkx6QXo1V2h4WVp1QzdUeUJwUnFsWkVzLW5iYVJqNXlibUs2OHZLTVA2WlU3c2RCOFpqMGdQYUlNNkdIenhkQlJ6cEg5SEFtNHE0WVNoMjhTMVU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 26 Dec 2025 08:00:00 GMT",
+      "snippet": "Bancor Network (BNT) Price Prediction 2026-2030: Unveiling the Critical Recovery Path&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bancor Network (BNT) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uS3NpcUgwZkVDWjFSZXZfTW9mSlh5S3RRZmR6aU9TOXU2aEtDOU9PN0hXajF2a1MyUE92MDJITU9vMWJOZHlnZFRrZk9tYzMyeUJ4TkpyMjlSa1dkcWRfSnZpNmp5OHhQRGQzbVQwZnVkdw?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Sat, 15 Apr 2023 03:27:28 GMT",
+      "snippet": "Bancor Network (BNT) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Bancor Network Price: BNT/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42VDNrQzFnaXJHMERDd2IyY1R2STktcWQwV1E3RG9CY0VocFlVdUs1VDdkWklmX19ISW43TUlNRzNfSURJNkl5RmJTWmFkNWRzeU01VDg4X0hjNVBVWnc?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 30 Aug 2018 06:51:39 GMT",
+      "snippet": "Bancor Network Price: BNT/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "What is Bancor? - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBib2tWSENOU3RNVEZ5RHBGTHd3V3FXLWx1bFlnSWJRN1REdTdIZF95QWtqbXVWQVZ6d0FlLVBVVG5jZlVPUVFiRmNDWC1taDdsRHA0?oc=5",
+      "source": "Messari",
+      "publishedAt": "Tue, 19 Sep 2023 10:29:44 GMT",
+      "snippet": "What is Bancor?&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "Bancor Network Token price today, BNT to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aQy1vTkVrVjJKMFBQMXFkNS1NQnVvRjRlQURaMzBCZ3BMT3JBeVZZMFZtS3pBTDZ0RTZZbXktWENyUTM2WGdfYUxOQTZpdw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 06 Apr 2021 11:34:43 GMT",
+      "snippet": "Bancor Network Token price today, BNT to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Crypto Conversation: Bank on Bancor - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzFWZzlnY2tDTXN2NUhGVnhidjREVjFkVHlJeS05aHM4aFUzTlo4b1lIWmdWekRmUko0cnE2dzZUTkc2QjgzbHVWSXhSU3U3UmpER3BJQUNINnZ1WFJnQ096T3lCb3ZDazNkdXJ5eWFCWE1tYmpIblFXckR3TW5ZOGwyUXZIeGNrdm5wRXZ0UXlJZk9rS3EwYkxzZ3ZaNEZLMm91MjkxY3Y2SVZUVDhVUVNNZlNTVm5TcmxBekdn?oc=5",
+      "source": "thestreet.com",
+      "publishedAt": "Wed, 22 Jul 2020 07:00:00 GMT",
+      "snippet": "Crypto Conversation: Bank on Bancor&nbsp;&nbsp;thestreet.com"
+    },
+    {
+      "title": "What is BNT: Understanding Bancor's Unique Protocol - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVWTBzWG13SVV6WTROSmZSRzZsNDY0UU41UHNvN3lYM0d6MG9NVjVOcWRGNlFGaFAyUGNzNTIxX0JmRjRVRlBpeUxVb3E5SnpH?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 06 May 2025 12:19:48 GMT",
+      "snippet": "What is BNT: Understanding Bancor's Unique Protocol&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bancor Kurs Prognose, Bancor prognose 2025 - 2030 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VVlp3WEVRMURxdHhodWlxT0J4UTZSejZsNkVUUFlHQUIwOC1jUjBqdE1lOU92SGtvbmdhUGdacndkT2VhRUFNZXluLUc5UlZwQlI5aUZzUFlmc3JCcjg0WDUwZldZUQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 19 Sep 2023 10:24:25 GMT",
+      "snippet": "Bancor Kurs Prognose, Bancor prognose 2025 - 2030&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/bancor?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

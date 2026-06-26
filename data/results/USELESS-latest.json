@@ -1,0 +1,318 @@
+{
+  "token": "USELESS",
+  "requestedInput": "USELESS",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:02.200Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "USELESS",
+    "name": "USELESS",
+    "generatedAt": "2026-06-26T08:46:52.830Z",
+    "summary": "USELESS 是一个在 Solana 链 Meteora DEX 上交易的 meme 币，市值仅约 5.5 万美元，流动性约 5.4 万美元，24 小时交易量仅 33.79 美元，价格小幅上涨 5.64%。项目无实质基本面，新闻多为同名或无关内容，缺乏真实催化。风险极高，不建议买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "任何买入逻辑均不成立，因缺乏流动性、交易量和基本面支撑。"
+    },
+    "catalysts": [
+      "无明确上涨催化，价格波动可能由极小量交易引起。"
+    ],
+    "latestNews": [
+      {
+        "title": "Useless Coin extends rally – Can strong demand push price above $0.086? - Bitget",
+        "impact": "中性",
+        "reason": "新闻标题提及 USELESS，但内容可能指代其他同名代币，且来源为 Bitget 聚合，非官方。"
+      },
+      {
+        "title": "Useless Coin (USELESS) - Binance.US Listing - 14 Aug 2025 - TradingView",
+        "impact": "利好",
+        "reason": "若属实，Binance.US 上线是重大利好，但新闻日期为 2025 年 8 月，已过时近一年，且当前链上数据无相关迹象。"
+      },
+      {
+        "title": "Binance Futures Will Launch USDⓈ-Margined USELESSUSDT Perpetual Contract (2025-08-15) - Binance",
+        "impact": "利好",
+        "reason": "同样为 2025 年 8 月旧闻，当前无永续合约交易对，信息失效。"
+      }
+    ],
+    "fundamentals": [
+      "项目官网 uselesstoken.net 仅显示 meme 属性，无白皮书或路线图。",
+      "社交媒体仅有一个 Twitter 账号 @CryptoCarc 和 Telegram 群组 @EclipseDefi，关注度极低。",
+      "代币供应量未知，市值与 FDV 相同（54763 美元），可能无锁仓或销毁机制。",
+      "创建日期为 2025-07-31，距今近一年，但交易量极低，属于僵尸币。"
+    ],
+    "marketRead": [
+      "24 小时交易量仅 33.79 美元，流动性 5.4 万美元，买卖盘极薄。",
+      "价格 24 小时上涨 5.64%，但绝对价格极低（0.00006297 美元），波动无意义。",
+      "无 K 线数据，无法分析趋势。"
+    ],
+    "risks": [
+      "流动性极低，大额卖出可能导致价格归零。",
+      "交易量几乎为零，代币可能已无人问津。",
+      "合约风险：未开源或未审计，存在 Rug Pull 可能。",
+      "新闻混淆：多数新闻标题提及“Useless”但指向其他项目（如 Cardano、XRP），误导投资者。",
+      "无实际用例，纯 meme 币，价值完全依赖投机。"
+    ],
+    "watchlist": [
+      "关注 DEX 流动性变化，若流动性骤降应立即远离。",
+      "观察是否有新的大额买入或社交媒体热度回升。",
+      "留意同名代币在中心化交易所的上线动态（但当前无迹象）。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为 DexScreener，链上信息有限。",
+      "新闻标题与代币关联性存疑，多数为聚合内容，可能张冠李戴。",
+      "无可靠社区或团队信息，项目真实性无法验证。"
+    ]
+  },
+  "profile": {
+    "id": "4BEWPtqxqFHU5DYczzdc7HxTawWpjcd3C44LQqKDmoon",
+    "symbol": "USELESS",
+    "name": "USELESS",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [
+      "https://www.uselesstoken.net/"
+    ],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/9rrbrrpq83khyxjfg22wlfcb85m95mk6b6nc4hrhggrz Socials: twitter: https://x.com/CryptoCarc; telegram: https://t.me/EclipseDefi",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00006297,
+    "marketCapUsd": 54763,
+    "fullyDilutedValuationUsd": 54763,
+    "totalVolumeUsd": 33.79,
+    "priceChange24hPct": 5.64,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-07-31",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "9rrBRrPQ83KHYXjfg22wLfcb85m95Mk6B6NC4hRhGgRz",
+    "baseTokenAddress": "4BEWPtqxqFHU5DYczzdc7HxTawWpjcd3C44LQqKDmoon",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 54062.61,
+    "pairUrl": "https://dexscreener.com/solana/9rrbrrpq83khyxjfg22wlfcb85m95mk6b6nc4hrhggrz",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "USELESS/SOL",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "9rrBRrPQ83KHYXjfg22wLfcb85m95Mk6B6NC4hRhGgRz",
+    "pairUrl": "https://dexscreener.com/solana/9rrbrrpq83khyxjfg22wlfcb85m95mk6b6nc4hrhggrz",
+    "lastPrice": 0.00006297,
+    "priceChange24hPct": 5.64,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 33.79,
+    "liquidityUsd": 54062.61,
+    "fullyDilutedValuationUsd": 54763,
+    "marketCapUsd": 54763,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/9rrbrrpq83khyxjfg22wlfcb85m95mk6b6nc4hrhggrz",
+    "pairAddress": "9rrBRrPQ83KHYXjfg22wLfcb85m95Mk6B6NC4hRhGgRz",
+    "labels": [
+      "DYN"
+    ],
+    "baseToken": {
+      "address": "4BEWPtqxqFHU5DYczzdc7HxTawWpjcd3C44LQqKDmoon",
+      "name": "USELESS",
+      "symbol": "USELESS"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.0000009258",
+    "priceUsd": "0.00006297",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 3,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 33.79,
+      "h6": 4.6,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": 1.45,
+      "h24": 5.64
+    },
+    "liquidity": {
+      "usd": 54062.61,
+      "base": 430921775,
+      "quote": 395.8371
+    },
+    "fdv": 54763,
+    "marketCap": 54763,
+    "pairCreatedAt": 1753920355000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/57db219be0cb091ee1db006e2e281b5c266acad1566c54d91d12eacf2f0af3b5?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/e3ec3f7c024cb0a12597fcd7fbb27cd733a77c82155bd6c23217a95364dc5445?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/4BEWPtqxqFHU5DYczzdc7HxTawWpjcd3C44LQqKDmoon?timestamp=1782463500000",
+      "websites": [
+        {
+          "url": "https://www.uselesstoken.net/",
+          "label": "website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/CryptoCarc",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/EclipseDefi",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Useless Coin extends rally – Can strong demand push price above $0.086? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kMDNyWGJBZFo1bDc1RGc5NGhCOVg0a3lGOUR3YUh0dlVhUlpoamVKbUstckhleHBiNGRXNm5nSjdrZktZdkE3cFNQbERPMUFvTHROQjVJSThtbl9PVWfSAWNBVV95cUxPUk9TUlRsVzJ3ZzZVTF9XdUR5NWZ4Qnczc0xZOFdrQzRqanozdHgtbzhPeC04TE1JRjgwRTQ4SUVzMGJVQVNpaXc1MzNmQ3VKZVlUSi13cl9JTzNTZUlHOUNnbUU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 24 May 2026 07:00:00 GMT",
+      "snippet": "Useless Coin extends rally – Can strong demand push price above $0.086?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Useless Coin (USELESS) - Binance.US Listing - 14 Aug 2025 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLTZMU1hiQVQ2VUM5VmdKU0x1UkhKOWRXUFE0Ull3eENUd2FtYkpxRnowOHNjR1dtc1FtRUc1aEIwM0ZkVU1sSENFNmRVeTRIWlBZMl90NTV0V0hPYVBzT1k3ZjZoaHhlQ3k2REt2Wk9kLUdOQTVLSHF2T0IxSjZ3WE5VSjhSU3c0dVFqdEMwd2trWjN3am0yN3pua0dscmo2VmhjZmRDX0FZLWY0ZFlRU3RMdjkzUQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 13 Aug 2025 07:00:00 GMT",
+      "snippet": "Useless Coin (USELESS) - Binance.US Listing - 14 Aug 2025&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "\"The Most Useless Network In The Crypto Market\": Prominent Analyst Slams Cardano - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNk1tRVRfUkpzNXBaTktLM2lmZmp0RlNOdmprSDg0cldkUldzSmVxdUpjN1Z3VlA4NF9zWklCX2poU0R5VGFLRUV5NnozMnlPN2dzZVpfNWpXR2ZVZjJwelpiay1zdUR3cWloVFRyLW82V1NzRWJ4VUZWeExUbWxHWXN4MXgtTFY4eXZzRWswNlM4U1FZOE16TkV4dUsyUE1RdHBZ?oc=5",
+      "source": "Yellow.com",
+      "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "snippet": "\"The Most Useless Network In The Crypto Market\": Prominent Analyst Slams Cardano&nbsp;&nbsp;Yellow.com"
+    },
+    {
+      "title": "Useless Ethereum Token price today, UET to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPbk94bHZ6TFlDek1pOVBzVUxDaGxDOGotdWpWMUs3bXJJNnJjcTdiQlFoQUtad0FyZlE5STdBZ0t2XzBlMWd2VWt3?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 19 Feb 2026 23:08:20 GMT",
+      "snippet": "Useless Ethereum Token price today, UET to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Is XRP the “Most Useless Token”? On-Chain Data Speaks - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9qTWVkQTItNnFFSTM0ekxzc3VFdE94WExwcl9wVEJNbEFtZmw3YmVnYlNHeDFzS2J4UjFwVEYtcHJCSUMxUFE?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Sat, 27 Dec 2025 08:00:00 GMT",
+      "snippet": "Is XRP the “Most Useless Token”? On-Chain Data Speaks&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "USELESS COIN price today, USELESS to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZOHRMVzF0MGwybEhyWjh6Q0lHcjZ4cV81dXJ1Y0d4RTF4TnQwalNKbnlyTlZqcGFUc2oyVk10MHpsd2NocEpwekdyYUZzMzJUT3VYXy1SclAzU1dOd25J?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 09 Jul 2025 15:49:02 GMT",
+      "snippet": "USELESS COIN price today, USELESS to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Useless (USELESS): Leading meme coin on LetsBonk launchpad - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HQ2kxWnVnX1lfSV9venZfSVZyUlVrTE02TTRpS1FYQm5LMGE3RDd1UDBlZHhhUkFxX00zdkxLYWZlTzFXT1ZiN0ZENUx5RkJnTnE4cXNzam1lQUhvT2lLV1hYRkFuRXYzZWc?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Sun, 20 Jul 2025 07:00:00 GMT",
+      "snippet": "Useless (USELESS): Leading meme coin on LetsBonk launchpad&nbsp;&nbsp;Bybit Learn"
+    },
+    {
+      "title": "Cardano Could Plunge 80% More As ‘Most Useless Network': Analyst - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OWnRHQ0lrTGRMeVVlODJ5YVhrbGlLLWZnbGlMUTVncTFBMUpQbzh6UnBlbkcwdnZtVnV4ZWQ4M2RudDBPaHVFb0N4OFkwZnZ6amFoRlA5TEFwSEE3ZUHSAWNBVV95cUxQNVNnSzY4ZjRkWGZTTklWbFR0OWItaWU0Qk1lZG56RTdwRHpjSkhTdUR5bzBGOXVKVHI4T2xZdlNKeGF6bzlIU1lOV2ZuUXJlSVk2TDVvbmxrZTFUMGNHUGNOdzA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "snippet": "Cardano Could Plunge 80% More As ‘Most Useless Network': Analyst&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Cardano Branded the “Most Useless Network” In the Crypto Market: Analyst - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94TlR2S0pZVWNVVkkxVFlyZ3Y5Z0hfVGdKWndHRm4xZFliQ2hZQ1hrdFIwUGs5Vnl5d3BqOUZNUHdweGRvd3JvUi1yMnJXb0ZpMVZINUlXTElhMnFzeVHSAWNBVV95cUxPNmE3UEk4eXBQdUJfbmhzQWFZSGpCd3JhMzJHRzBqOVBqcjJLMGtpTkhNbVFKMWFxV1BRTV84ZVJEZDZDT3Z5VnEyYXl6TXdJeEdjQWYyc1pQc2ZCZDR2NFhJQ2s?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "snippet": "Cardano Branded the “Most Useless Network” In the Crypto Market: Analyst&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Futures Will Launch USDⓈ-Margined USELESSUSDT Perpetual Contract (2025-08-15) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXhuVlZQdTh6YTh0c1RWN2NOdm5rRmo1RFd3YXNpX2tJNllXYVhWSElYdlJPNzJiQV9WX01qbUZXU2RBNjFrdmh5cTZzQmFQVnpsN2ZwZEFHVENIaGdaTThwdHkzY1o5WkNGT1V2bzl6ZXJIcGpZZk5BeXQ3TFE4T1c2TlhwNDAtRF9tM2ktaGY?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 15 Aug 2025 07:00:00 GMT",
+      "snippet": "Binance Futures Will Launch USDⓈ-Margined USELESSUSDT Perpetual Contract (2025-08-15)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Useless Eth Token Lite price today, UETL to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kV1JJdXVVdWpXNHF6bHBxbTFRZG14WG9pTEctV3pvVk1hZkFqTGdrNS1NV1dmRlVxZ3didjJaaTJvUVdoUmk3ZXpsSQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 18 Feb 2026 22:53:51 GMT",
+      "snippet": "Useless Eth Token Lite price today, UETL to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Bitcoin (BTC) news: Fed's Kashkari says crypto is 'utterly useless' - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYmxmNkVyTTI5TlNVTHB6Y253MTZYenF2bUZiVXlMRDJqMHhtUDNRRlREdkhwQm1reFB5NWxGQmhJTWhvNjlhRVhQSWdFMHJKV3lKeHZSR1VrRnVyT0doMGotUjREaUhCczhKTTVMSU5iMV9oLXppenhBa3pBdGdPNlg3WHFVWm0tbDRybGRnYXNqS3UyUm44T2hnM2lpY0NxcmZGblJrTm53WWpQZ0xPZWVvSmliTlJPeGhNVDkzMndsWUt3ZV83djBlSQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "snippet": "Bitcoin (BTC) news: Fed's Kashkari says crypto is 'utterly useless'&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Binance founder CZ wants crypto-AI agents to have real utility as 99.99% of their tokens are ‘useless’ - The Block",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQWhTSFRnN3N1UEQxMmZnM2JRZHVJblJ0YnZhV2s4UWZ6ZTJUNzlvYmdNSV8tbFVoUFB4ekwtalNNYUNqZVQxTlVnQ2NwUUhTWDRVWHcyY3NrMktuLXo4VHBQSWpvT3ZkNVpSeXlkc0V0R1BSWmZhZ0JCeS13MjJmOG1CQzJtN2N1VE52SXhwSXFQLW1YajdkT0dXZUV1azV6ZVhwZE05d0QwdERpQWJPYU5LWDRPd0d5OTVDQUdrQ05ob0NRcWw3SUpHYXZhbm05?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 30 Apr 2025 07:00:00 GMT",
+      "snippet": "Binance founder CZ wants crypto-AI agents to have real utility as 99.99% of their tokens are ‘useless’&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=USELESS: Throttled\n"
+  ]
+}

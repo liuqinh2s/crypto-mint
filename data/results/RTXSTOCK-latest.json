@@ -1,0 +1,77 @@
+{
+  "token": "RTXSTOCK",
+  "requestedInput": "RTXSTOCK",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:46:52.433Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "RTXSTOCK",
+    "name": "unknown",
+    "generatedAt": "2026-06-26T08:46:49.002Z",
+    "summary": "由于数据完全缺失，无法进行任何分析。Binance API返回451错误，无行情、无新闻、无项目资料。该代币可能未在主流交易所上市或已下架，风险极高。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无数据可参考，任何买入逻辑均不成立"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [],
+    "marketRead": [],
+    "risks": [
+      "无任何市场数据，可能为假币或已下架代币",
+      "Binance API返回451错误，可能因地区限制或代币不存在",
+      "无法验证合约地址和流动性"
+    ],
+    "watchlist": [],
+    "sourceNotes": [
+      "所有数据源均返回空或错误，无法获取有效信息",
+      "建议通过其他渠道核实代币是否存在及交易情况"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "RTXSTOCKUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RTXSTOCKUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RTXSTOCKFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RTXSTOCKFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RTXSTOCKUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RTXSTOCKUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "RTXSTOCKBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=RTXSTOCKBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

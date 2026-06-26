@@ -1,0 +1,79 @@
+{
+  "token": "DFEN",
+  "requestedInput": "DFEN",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:55.885Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "DFEN",
+    "name": "unknown",
+    "generatedAt": "2026-06-26T08:47:53.347Z",
+    "summary": "数据严重不足，无法分析。Binance API返回451错误，无行情、无新闻、无项目资料。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无数据，逻辑无法建立"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [],
+    "marketRead": [],
+    "risks": [
+      "数据不可得，无法评估风险",
+      "可能为低流动性或已下架代币"
+    ],
+    "watchlist": [
+      "需从其他数据源获取DFEN的完整信息"
+    ],
+    "sourceNotes": [
+      "所有数据源均返回空或错误，分析无法进行"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "DFENUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=DFENUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "DFENFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=DFENFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "DFENUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=DFENUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "DFENBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=DFENBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=DFEN: Throttled\n"
+  ]
+}

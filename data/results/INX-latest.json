@@ -1,0 +1,320 @@
+{
+  "token": "INX",
+  "requestedInput": "INX",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:56.306Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "INX",
+    "name": "INX",
+    "generatedAt": "2026-06-26T08:47:45.705Z",
+    "summary": "INX代币当前在Uniswap上交易，流动性为零，价格极低（1.68e-14美元），无交易量。近期有Coinbase上市路线图提及、Binance期货上线（2026-01-30）以及Republic收购等消息，但链上数据无实际交易活动。项目基本面不明，存在多个同名代币混淆风险。当前不具备买入条件。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [
+      "Coinbase上市路线图提及INX（2026-01-28）",
+      "Binance Futures上线INXUSDT永续合约（2026-01-30）",
+      "Republic以最高6000万美元收购INX Digital（2025-04-03）",
+      "Infinex（INX）TGE及Patron NFT融资6770万美元（2025-11-27）"
+    ],
+    "latestNews": [
+      {
+        "title": "Coinbase Listing Roadmap Unveils Strategic INX Addition: A Pivotal Move Toward Regulated Digital Assets",
+        "impact": "利好",
+        "reason": "Coinbase上市路线图增加INX，可能提升代币合法性和曝光度"
+      },
+      {
+        "title": "Binance Futures Will Launch USDⓈ-Margined INXUSDT Perpetual Contract (2026-01-30)",
+        "impact": "利好",
+        "reason": "Binance期货上线提供杠杆交易，增加流动性和投机需求"
+      },
+      {
+        "title": "Republic to Wholly Acquire Crypto Trader INX Digital (INXDF) for Up to $60M",
+        "impact": "利好",
+        "reason": "收购显示传统金融对INX平台的认可，可能带来资源整合"
+      },
+      {
+        "title": "Kain Warwick’s Infinex builds on $67.7 million Patron NFT round with Sonar sale ahead of INX’s 2026 TGE",
+        "impact": "利好",
+        "reason": "Infinex项目融资强劲，TGE预期可能推动代币需求"
+      }
+    ],
+    "fundamentals": [
+      "INX代币存在多个同名项目：INX（Infinex）为Kain Warwick发起的去中心化永续合约平台，已融资6770万美元；INX Digital为受监管的加密交易平台，被Republic收购；另有其他INX代币（如AllinX）。",
+      "当前DexScreener上的INX/WETH对流动性为0，价格极低，可能为同名仿盘或废弃代币。",
+      "Infinex（INX）TGE预计在2026年，但具体日期未定。",
+      "INX Digital（INXDF）为OTC股票，与ERC-20代币不同。"
+    ],
+    "marketRead": [
+      "链上数据：流动性为0，24小时交易量为0，价格1.68e-14美元，无任何交易活动。",
+      "该代币可能已无人交易，或为未激活的合约。",
+      "新闻中提及的INX可能指代不同实体（Infinex或INX Digital），而非当前DEX上的代币。"
+    ],
+    "risks": [
+      "流动性为零，无法买入或卖出。",
+      "代币名称混淆：多个项目同名，当前DEX代币可能为仿盘或已废弃。",
+      "价格极低且无交易，存在归零风险。",
+      "新闻利好可能针对其他INX实体，而非此代币。",
+      "合约风险：未审计或存在漏洞。"
+    ],
+    "watchlist": [
+      "确认当前DEX代币是否与Infinex或INX Digital关联。",
+      "Infinex官方TGE日期及代币合约地址。",
+      "Coinbase是否正式上线INX及具体代币。",
+      "Binance期货INXUSDT的底层资产是否为此代币。"
+    ],
+    "sourceNotes": [
+      "DexScreener数据：流动性0，交易量0，价格极低。",
+      "新闻来源包括CryptoRank、Binance、CoinDesk等，但利好可能不适用于当前代币。",
+      "Infinex（INX）与INX Digital为不同实体，需区分。"
+    ]
+  },
+  "profile": {
+    "id": "0xfa6D07FB903fE51f1A3a6357791F1De49DEeB2e3",
+    "symbol": "INX",
+    "name": "INX",
+    "categories": [
+      "ethereum",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on ethereum / uniswap. Pair URL: https://dexscreener.com/ethereum/0x50377ff51e09982b0340f544e46ec0a63f74f7bb",
+    "marketCapRank": null,
+    "currentPriceUsd": 1.683e-14,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": 0,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-08-31",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x50377ff51e09982B0340f544e46eC0a63f74F7bB",
+    "baseTokenAddress": "0xfa6D07FB903fE51f1A3a6357791F1De49DEeB2e3",
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "liquidityUsd": 0,
+    "pairUrl": "https://dexscreener.com/ethereum/0x50377ff51e09982b0340f544e46ec0a63f74f7bb",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "INX/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x50377ff51e09982B0340f544e46eC0a63f74F7bB",
+    "pairUrl": "https://dexscreener.com/ethereum/0x50377ff51e09982b0340f544e46ec0a63f74f7bb",
+    "lastPrice": 1.683e-14,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 0,
+    "fullyDilutedValuationUsd": null,
+    "marketCapUsd": null,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x50377ff51e09982b0340f544e46ec0a63f74f7bb",
+    "pairAddress": "0x50377ff51e09982B0340f544e46eC0a63f74F7bB",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0xfa6D07FB903fE51f1A3a6357791F1De49DEeB2e3",
+      "name": "INX",
+      "symbol": "INX"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.00000000000000001079",
+    "priceUsd": "0.00000000000001683",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 0,
+      "base": 2.5,
+      "quote": 2.7e-17
+    },
+    "pairCreatedAt": 1756620059000
+  },
+  "news": [
+    {
+      "title": "Coinbase Listing Roadmap Unveils Strategic INX Addition: A Pivotal Move Toward Regulated Digital Assets - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWG9BZ3EyazNEUV80Y1UtYlNDb29RbEEybVNrTFpiWnNYdnItS0VRUFAxLVhIcm41UmF3SjZhNEYwV0ZWVUc1WVFnY0tFWWJ1SmlmcjBiQTNYdTUwbkRWUDlPWmlXLXRHY3RLa2NuS0hwSjVmSkN4SHR3ZGQzZHdyRQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "snippet": "Coinbase Listing Roadmap Unveils Strategic INX Addition: A Pivotal Move Toward Regulated Digital Assets&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Ionex Token Price: INX/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeDhUVWw4ZFVXYW5XckJEUDlSV3NMeFRBWXBGTVZQeFJzUGl1ZEJtcFBsbGpodWVzWFF4SDhXd2huZW4wbTlrVHRkR0JSZjNHZGdsRVRYWUJ2QQ?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Wed, 15 Oct 2025 15:23:49 GMT",
+      "snippet": "Ionex Token Price: INX/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "AllinX TOKEN price today, ANT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJbWlGeEdDUmw3NXJtYnliVlhSY3hKdTFUbThXd0VfRmh4QUtYTzM5ZXpjaTFNZ3J6bGp0MEVhVlQxSnRPd0M0d3o3Tlh0QlVETlpuQXV1R2g?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 12 Aug 2025 06:51:09 GMT",
+      "snippet": "AllinX TOKEN price today, ANT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "INX Token (INX) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoT3ZWOWoxdzdUV1JYN1BuQXhsVktwMFo2VEpmWklSRDVDZ3VKRy01Z1hrLVpPWkZFSjcyUmZDUnk3RnlNNnZhc2JqUlY4ejVocmV3eTRxZnZmc1Aza2xmNnQyTktfMzduWjBj?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Wed, 03 Apr 2024 12:30:57 GMT",
+      "snippet": "INX Token (INX) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "INX Announces April 22nd As The Official Last Day Of Its Token Offering - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWhvNEpFYlVVazh1LWV3dUNXYjFZZlhYNm50NzlaRlJhY3lfbXFmTmhEUzZleVVhN0Y0UWh6STBZWVI4LUZJeGFlaWc0TDd3ZWhQQUdHbkxRMy1jSmJnU2JGVnNSTzJad1N0SXFDWkJWUU52dER5UVc0STQ4ZjlxYTQ0SW05aHlnN05mYko0SzZBX0NlcGpOR0xKRndtWmhHMmZfdTVCVWNCMFpXbUFzbm5KRmFEMlp5eE1zZjB1RGlPOW83R0E?oc=5",
+      "source": "PR Newswire",
+      "publishedAt": "Mon, 05 Apr 2021 07:00:00 GMT",
+      "snippet": "INX Announces April 22nd As The Official Last Day Of Its Token Offering&nbsp;&nbsp;PR Newswire"
+    },
+    {
+      "title": "INX to be Acquired by Republic for up to US$60 million - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2cWxHZ1hHZS1GdjNXcHFUaDRHME5FS3ZVTHYtZEN6cVJrYmRZTDBYQnl2YlRESHpKdTRkYXQwT2c4SDV1ZnZkR0dzd1JwV0VGbUNjWXl2TkJmT0hlN21rVG5UbnVVMnNQRXI5OEJGR2RjLXl4WC1zYUZCci1zdw?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 03 Apr 2025 07:00:00 GMT",
+      "snippet": "INX to be Acquired by Republic for up to US$60 million&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Republic agrees to acquire crypto trading company INX for up to $60 million - The Block",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHZhTWNmYmZXTV9kclFTNmhic0dpSlBobDZfS3BFUzR5WFhuZUF5Vk9jdGxYWWJKNGZPWkEtemR4VUpuV1g5YVplTXZCU1pILWlCZmo0NmdlNnZGanpzenJDc2szdUkxbVpialNic01IUmxHbUVCSVNOeHJEdWNGdFZOeHNYaUVCdngtYnJYVUZuLXREVWlFdGMzVXRjYWZUUXdqZ09RTWc0UHpuSER3?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 03 Apr 2025 07:00:00 GMT",
+      "snippet": "Republic agrees to acquire crypto trading company INX for up to $60 million&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "What Is Infinex (INX)? TGE Date, Airdrop, Tokenomics & Price - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWp1Sm9ydERaUVZIWktGcGd4OEJTQ1pfVXlueXVfU081ZlM3QkZKRkRYNUR6WkJtZEZHeGFLWF82UUlEbDZ2T3VLSHpJeTdoWnhqaEUzTWhSV0U3V3FLQkVFbDBlMzk5akRjZ0hzdWpYd0RrcWhWQTdsVWhGaXlZZk96V1FrNjlZZmZ6cmhQM1dUZy1kX3o4?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "snippet": "What Is Infinex (INX)? TGE Date, Airdrop, Tokenomics & Price&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What is Infinex ($INX)? $INX is available on WEEX Pre-Market - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGxSOW5HVTdsMmV5eVdDOFV0MG9VNDRhVDhjb1JaQ0dmal9oZ2U3MHB1MlFQUGxaVjM5ZkJsLTY5YmcxY3VMXy1aek5FVEt4eU9kOTJ2VldtdWVSbXNOcDZoRy13bjlHQkxXMlR3VnU1eWRBR3lWS3BYMTB5NTgyV2dRTzBZSl92dmIxV2MxZEFYemxsYnBfa3FBaw?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "snippet": "What is Infinex ($INX)? $INX is available on WEEX Pre-Market&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Infinex (INX) ICO Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqd1RxVUt6MTdyU2YxMkNCNFd5bjJ5ejZfajBNMnItOEh6aVhOOU5rLVh5NWNIYlZVRDQ1VXoxZU9IV2FBcUwzTg?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 26 Sep 2024 14:10:53 GMT",
+      "snippet": "Infinex (INX) ICO Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Binance Futures Will Launch USDⓈ-Margined INXUSDT Perpetual Contract (2026-01-30) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWdMNzJxdnRDQ0kybHFqSjczbWVPXzQwSUFla2hhTkpLZDRaZ19fdTBfSkhmNDJpVDdDaGp1Y0lwcUlwcjQyazlacWQ4WTZDT0s4TEowZC1tSWRwRl9TaWNVZzhzOG9hMWhCOWxjMWQ2WlplQndydFRVZ0dRcWlveEVjb05yMmFJdE5GNzF0bWM?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "snippet": "Binance Futures Will Launch USDⓈ-Margined INXUSDT Perpetual Contract (2026-01-30)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Trading for unaffiliated tokenized Nvidia stock launched on INX platform - The Block",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGl3WWVpQnJrWXloZjJ5djJlanNZeV9MR0dHZzBpVFowdS1zTG1STURScWNIX0IzazZRYVMwN2M3MG1XZy1uNEo4ZXdzR0c5ZWxzWkVLUzlhNmd3M1BNUWo1aGVNT2hTb1B2cThSY1VLSjRXQ2p3ZVVjVmJCRnVhajNyelExRE85aEdwVEM4RnZVdnY3Sl9wVTlvUnhVdEh5em1FZ3M0V2tZejdI?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 02 Jul 2024 07:00:00 GMT",
+      "snippet": "Trading for unaffiliated tokenized Nvidia stock launched on INX platform&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "INX Continues Spending Spree With Tokensoft Transfer Agent Acquisition - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakpSTERYRWM1amQxeXp1eEh2MHBKT3MzZjFJQnF2eldxQXk4c2ltdVNGelgxbmltRHZtd2RhVGpQa09SdTFrd0xzNklCUDJ2Q1BBWUxvX1M3V2hlR0s1R3RrbU5pR3oxYTg2S3hjRHBkbnFLWDlsaUlmZGgwbVR5b0hhQl9GNmFnd2lDcmxmRTIyeUtlOEREc0wtVV83WWJMZ3VISGxlaFV6MFFNNWJkdHowenR5UQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 05 Jan 2022 08:00:00 GMT",
+      "snippet": "INX Continues Spending Spree With Tokensoft Transfer Agent Acquisition&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Republic to Wholly Acquire Crypto Trader INX Digital (INXDF) for Up to $60M - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXlFbkRwYml2c0RtOG9mUEVoQUpPRldlR3pSWnVaLVpWZEJLd0Vwb3hzTUYyeFQ5S1ZMaU53OFN1d1poV2phQ3RZLXF2SUpCZlEzT21Hc29lVzVsTkwzdXdXaHFxUVdSUGNNd29ibmNSQXB1ZUNRdV9hMkQteGdxaGRYalZ3UktqU3pSdFVSQ19nWVRETVUzSDEtSFBfRVZZOVVWd2pNNjVudVJnSGx5UUpNLVVWUTMtZVJjdW5ZWXY?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 03 Apr 2025 07:00:00 GMT",
+      "snippet": "Republic to Wholly Acquire Crypto Trader INX Digital (INXDF) for Up to $60M&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Kain Warwick’s Infinex builds on $67.7 million Patron NFT round with Sonar sale ahead of INX’s 2026 TGE - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGtGdXdFcEQ3VVdZaEdqOFFfQkExNm9SSkQ4eVV5WktDZVhLcUt5MHIzdXpJakVJNHcyQUVvOUZrYmprbThRZWNhNTRuY2JXenUyZl9lM1BxSDliaVZwNXVPVU4zVmlLeUNYbUo0bTZMTEFNM05keWVwQ2l1R3VMcktQY3RfbDJiYW1jckU0dHFPazFlWk4xRGxHNVVBdklBS2RRRms2NmlMMEczMUxpVEdGTy01ZjVWUmlRbGFqLWV3blVxOTItRQ?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 27 Nov 2025 08:00:00 GMT",
+      "snippet": "Kain Warwick’s Infinex builds on $67.7 million Patron NFT round with Sonar sale ahead of INX’s 2026 TGE&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "INX Closes Its Ethereum-Based IPO With $85M in Proceeds - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPazRGemF5S1Rhc0RETnZyN0c5Z1ZYVVE5RDBPU2JyV1JvLXpnMTB3bG4zY2gtY0JVR1NtSmtvVFlORFVXZlI5UHZxZzRDZVBXQWs2YWhMU0tTaHQ2S1pUOUxhbFlpZzFkRDA4MVRkaTFvU3NtaVhpbU15ZDZ5S2Y1Q0VmY2ExZV9RVUVIT0Rja0JGQXlXVHg0b25QR0c5d2s?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 03 May 2021 07:00:00 GMT",
+      "snippet": "INX Closes Its Ethereum-Based IPO With $85M in Proceeds&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=INX: Throttled\n"
+  ]
+}

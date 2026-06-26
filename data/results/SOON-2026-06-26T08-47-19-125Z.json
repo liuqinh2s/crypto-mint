@@ -1,0 +1,313 @@
+{
+  "token": "SOON",
+  "requestedInput": "SOON",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:19.125Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SOON",
+    "name": "SOON",
+    "generatedAt": "2026-06-26T08:47:10.066Z",
+    "summary": "SOON是一个基于SVM的多链Rollup堆栈项目，近期因Upbit上线和基金会提案等消息推动价格上涨，但基本面估值偏高，流动性集中于Meteora池，需警惕解锁风险。",
+    "rating": {
+      "score": 45,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 20,
+      "holdingPeriod": "1-3天",
+      "invalidation": "价格跌破0.15美元或流动性骤降"
+    },
+    "catalysts": [
+      "Upbit上线预期（已发生）",
+      "基金会提议解锁3000万枚代币用于AI资本市场项目",
+      "Binance Alpha Spotlight入选"
+    ],
+    "latestNews": [
+      {
+        "title": "SIREN Surges 190% While SOON Jumps on Upbit Listing—What’s Next?",
+        "impact": "利好",
+        "reason": "Upbit上线是强催化剂，但新闻已过时（4月），当前涨幅可能已消化"
+      },
+      {
+        "title": "SOON Foundation Proposes Unstaking 30M Tokens to Fuel AI Capital Market Projects",
+        "impact": "中性偏空",
+        "reason": "解锁增加流通供应，可能带来抛压，但用于AI项目或有长期价值"
+      },
+      {
+        "title": "Binance Alpha News: RaveDAO Tops the Week, Two Alpha Boxes Drop, and SOON Runs a $150K Race",
+        "impact": "利好",
+        "reason": "Binance Alpha活动提升关注度，但金额较小"
+      }
+    ],
+    "fundamentals": [
+      "SOON stack是高效的Rollup堆栈，支持多L1，采用Decoupled SVM技术",
+      "SAS（Super Adoption Stack）实现SOON链间及与SOL、TON的原生互操作",
+      "已推出SOL x TON桥接和TG小程序",
+      "流通供应3.4亿枚，总供应10亿枚，FDV约1.72亿美元，MC约5800万美元",
+      "ATH 4.3美元，当前跌幅96%，处于低位"
+    ],
+    "marketRead": [
+      "24小时涨幅5.4%，7日涨幅5.8%，但30日跌幅5.7%，短期反弹但中期仍弱",
+      "Meteora池流动性高达5.1亿美元，但24小时交易量仅4美元，流动性深度异常，可能为虚假深度或池子未活跃交易",
+      "DEX上价格2.12美元，与CMC价格0.171美元差异巨大，存在数据不一致风险"
+    ],
+    "risks": [
+      "DEX与CMC价格严重偏离，数据可靠性存疑",
+      "流动性池交易量极低，实际流动性可能不足",
+      "基金会解锁提案增加供应压力",
+      "ATH跌幅96%，市场信心不足",
+      "新闻多为过时或无关内容，缺乏近期实质利好"
+    ],
+    "watchlist": [
+      "基金会解锁提案投票结果",
+      "Upbit上线后实际交易量",
+      "DEX流动性变化及价格收敛情况",
+      "Binance是否进一步上线"
+    ],
+    "sourceNotes": [
+      "DEX数据（Meteora）显示价格2.12美元，但CMC显示0.171美元，差异可能因数据源或交易对不同，需核实",
+      "新闻中多条与SOON无关，仅筛选相关条目",
+      "流动性数据可能不准确，建议交叉验证"
+    ]
+  },
+  "profile": {
+    "id": "soon-2",
+    "symbol": "SOON",
+    "name": "SOON",
+    "categories": [
+      "Infrastructure",
+      "Smart Contract Platform",
+      "BNB Chain Ecosystem",
+      "Layer 2 (L2)",
+      "Base Ecosystem",
+      "Cross-chain Communication",
+      "Binance Alpha Spotlight",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://soo.network/"
+    ],
+    "description": "SOON stack is the most efficient rollup stack delivering high performance to every L1, powered by SVM. SOON team pioneered Decoupled SVM, which allows SVM rollups to be spun up across different L1s with native fraud proofs, reduced DA cost and horizontal scaling capacity. SOON's SAS (Super Adoption Stack) creates a native interop among all SOON chains as well as with SOL &amp; TON. We launched the first SOL x TON bridge with native TG mini app. Devs can access users without leaving the SOON ecosystem, making it a more effective user acquisition tool at a fraction of the cost of TVL game.",
+    "marketCapRank": 384,
+    "currentPriceUsd": 0.171288,
+    "marketCapUsd": 58202350,
+    "fullyDilutedValuationUsd": 171659139,
+    "totalVolumeUsd": 9780025,
+    "priceChange24hPct": 5.42162,
+    "priceChange7dPct": 5.80453,
+    "priceChange14dPct": -1.24509,
+    "priceChange30dPct": -5.66353,
+    "athUsd": 4.3,
+    "athChangePct": -96.04035,
+    "circulatingSupply": 339791742.36,
+    "totalSupply": 1002164998.813807,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 2832,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "SOON/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "KiJDTpEn66JL2sME33WhU4ups3PWuyR9Me82f4xs6Gg",
+    "pairUrl": "https://dexscreener.com/solana/kijdtpen66jl2sme33whu4ups3pwuyr9me82f4xs6gg",
+    "lastPrice": 2.12,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 509841138.77,
+    "fullyDilutedValuationUsd": 510841150,
+    "marketCapUsd": 510841150,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/kijdtpen66jl2sme33whu4ups3pwuyr9me82f4xs6gg",
+    "pairAddress": "KiJDTpEn66JL2sME33WhU4ups3PWuyR9Me82f4xs6Gg",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "Cz2i8TPkEFgBBTSvrSnfTEXZZHXf5yQsguV6VYXphGAH",
+      "name": "SOON",
+      "symbol": "SOON"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "2.1294",
+    "priceUsd": "2.12",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 509841138.77,
+      "base": 239423136,
+      "quote": 5999.9532
+    },
+    "fdv": 510841150,
+    "marketCap": 510841150,
+    "pairCreatedAt": 1762755433000
+  },
+  "news": [
+    {
+      "title": "SOON Price Today in India | SOON to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBibzBET1VMclJncktncVdndWhLTjMydXhNZGpWZHNEUFBNaEZJeDNfSVZzN04tdmhBRDFPUXpJRXNMZ2dqMWdNNl9hOTZ3YTJuQkE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 23 Jun 2026 23:38:00 GMT",
+      "snippet": "SOON Price Today in India | SOON to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Alpha News: RaveDAO Tops the Week, Two Alpha Boxes Drop, and SOON Runs a $150K Race - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbkhNMG9xTjN4Yktid3ItaFVhYVk3RktFcFJ4SEYtZGN5TW1OaVBZeTVoSW4tbU0xWlJIUGNxczFjRk1pRHFDSTY1d2wzMDI5Y0J6bVFzSlo2V0pKaEpMWnNyeHkwZEZYVUluNUp2UEZEUVNlX3RkOVFaanVybWRaVEFwVEV5dEZTdVVMRWxFU0dIMFFQOHlFNnNoTW5TSFNtcWFvc09vQnNhWHFleklXT09TenItRS1Kc2V4V01YWXB1dnpxS1lIeE9aWVVkM2Fr?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 19 Jun 2026 20:59:03 GMT",
+      "snippet": "Binance Alpha News: RaveDAO Tops the Week, Two Alpha Boxes Drop, and SOON Runs a $150K Race&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Tom Lee: Ethereum ‘V-shaped recovery’ soon as Bitmine buys at $2,000 price - dlnews.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1I0ajBtemtmejItYkY0cVRlQktrUUlZRWVzTWxickNUdkdmZzM0RUQ0SGo1QUhLNXhQak55Ukw5bmp3eWd1dUk0b1UzOHFlVERGcGZkWUtidnEtRTcyNEoxNENSY1B1SDdCb1Z3ZlZsdlNiME5mYVhVekZFUENhLXNGRl8zU0ZBQmEzckZ3?oc=5",
+      "source": "dlnews.com",
+      "publishedAt": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "snippet": "Tom Lee: Ethereum ‘V-shaped recovery’ soon as Bitmine buys at $2,000 price&nbsp;&nbsp;dlnews.com"
+    },
+    {
+      "title": "Coinbase to soon unveil prediction markets powered by Kalshi, source says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYk9kd3JYQUNGVi13Y0N5Y3BSTWdJUDJYeHJVdk81bXdWRnRZWHc3VXpud1pOaXRxMjNpWVYwaW5kTDUyNzRTdmFBb0VjaFlhSFFzdGhWdXJ0NHJpdXlFWm5oNDYxamFXNGh6Q2FOVHRjdk1Oei14MVRVRGZOYlk3dzFHVEh0WE0xRFp6bldQSFhpeGx1MEVzNU44d200dDFqcjdPMUp6bVlmTGlaMHfSAbMBQVVfeXFMT3dQaXktbjJYdV93UVFzTW5sY2tjYVNYTDdwX0VDdlhnWnkzMGhNTzZZRFBjcVFBbW9CNnU3MFA5dEdyWnBGMVkwa0p0V3loVlNibzRZNUNnQ3VQWG95eERfX1RFTUVPMUVDdmd4V1BNWkM3TkdVV0d4LXBvVkxlcDM0aHRNTEZlNlNvVExSVzAwQVdvLTQ5eDFkT0phalFPNlh0ZThnNl92dHh4cmQ3MU1Mb2c?oc=5",
+      "source": "CNBC",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "snippet": "Coinbase to soon unveil prediction markets powered by Kalshi, source says&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "Crypto News: Ethereum Based Crypto Pepeto Project Update Amid Bitcoin Price Prediction Targeting $125,000 Soon - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZTJ1RU9zTlNsX2ZwaDRPYWdRZlJkWHlMM21YYzFvSkJ2dzVRd3FVNnU4QVpkdEdpQUpOUmlaN0ZoeE5yMXdCVmE0NVZWYXJFME9LQjhSWDBmODFJWnZkaVBtLXoxUWdRQXl5WVgyM0djdUlIbVFjU2RjcVRFV2pxWDFsTk1aUUxKVmNsTFFxSFdYMkl0dkd1eVNZZDh3akp3UWFMckYxN2ZQM1BkemZzeUdnSVRVTnM3U2VlOUs3bC1nWm11ODJwai1ZU2l0dFVsMjNUMlQtS3dOd1NKMXhxT1R0bXU5cGxmUndpWGJiNDY5LVAwNkZJRXp0c2dqWGRwVXBXQko4Y3ZLMjZV?oc=5",
+      "source": "GlobeNewswire",
+      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "snippet": "Crypto News: Ethereum Based Crypto Pepeto Project Update Amid Bitcoin Price Prediction Targeting $125,000 Soon&nbsp;&nbsp;GlobeNewswire"
+    },
+    {
+      "title": "SOON Foundation Proposes Unstaking 30M Tokens to Fuel AI Capital Market Projects - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUNfOG1yWmZ1ZjQyd1h3cENlblRmeUwzZnk3dUxaS0lsN0xwc1BHLXNLam5PY0FTM0VwV19PYVdHYnR3NHZfdFJza1U2TkdfaFMwTHlWQlg1enpBUDdXVS1USnhwZlRhMk9obldwOFRlcGdzWEdXOUEtUjBobjMtQ2Uya2JEZDBFS1c3Tw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 19 Jun 2026 06:08:52 GMT",
+      "snippet": "SOON Foundation Proposes Unstaking 30M Tokens to Fuel AI Capital Market Projects&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "SIREN Surges 190% While SOON Jumps on Upbit Listing—What’s Next? - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTmVyaFNuOUk2YVYyWmdyNDlfbDhsNkdPTUpMZWZYbGlaemEwTXZSZ0lLelBQRnhGLTdFQkwyTVExRHl6Z1YzelQxV1RtVVR6OVpsbTNET3BneHhuUlV6WGFiRE1hYWJraVIxSVRuaDMtY1BUY0x2M3VSdm82Z2FmOXBNcm9ueWsyQnJVRElZSUE1RnNrcW5v?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "snippet": "SIREN Surges 190% While SOON Jumps on Upbit Listing—What’s Next?&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "USDC and CCTP are coming soon to Pharos: What you need to know - Circle Internet Financial",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnNBUVVaMWNTb2lnSGt1VVlyRHJUa2lKYmo2cHJrVTZ0ZENaV1pITHJRaTd4eVdNMm1pSC00eWF5QVNEN29QSXY2VTdYOHRPUWUwbjY0T0pKWER1Z2hfeXhEUF9CZG5NMG9QYzZ4UWd3LVJpV3dmd0JUcmdqaG5WVVlMWnczc2tjWFFIZG1B?oc=5",
+      "source": "Circle Internet Financial",
+      "publishedAt": "Fri, 27 Mar 2026 07:00:00 GMT",
+      "snippet": "USDC and CCTP are coming soon to Pharos: What you need to know&nbsp;&nbsp;Circle Internet Financial"
+    },
+    {
+      "title": "Top 3 Reasons Pi Network Coin Price May Surge Soon - BanklessTimes",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWNUSU9BVXpLeWhaTDZMS0RUQUgxQTZfSkRZY3g2dUxVbUJpRHBqbVFEVDdfX3NWUm5SY2dtMTJUR25xSEVuREdPdFhnUk5JWWcxa1FnakRoZTNHbnhVaWRTQlFDdExCSXRhQ0tScF9CWGNiekFHTE1WSU1TcXlsS21CeVJ4NTFsbzJHTm1RVmtYNFliaEtldlZMSHp4cHlyelk0?oc=5",
+      "source": "BanklessTimes",
+      "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "snippet": "Top 3 Reasons Pi Network Coin Price May Surge Soon&nbsp;&nbsp;BanklessTimes"
+    },
+    {
+      "title": "SOON: How FDV Could Drive MetaMask's $12 Billion Token Valuation - OKX",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Yb19iZmswY2Zma1ZBd1QtUVdCa2lWZDRfd3lVTk1MMWpnM1Frc1haWk5OQi1DbXp5WU9rVXFfVmhpSE9vaGZ3QW1yLVl2VDVXdWxHSWs0N1BZNnp3dTgzOTROTmZJUzFTSXYwWlVDeTJFQU0?oc=5",
+      "source": "OKX",
+      "publishedAt": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "snippet": "SOON: How FDV Could Drive MetaMask's $12 Billion Token Valuation&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "ai16z Price Prediction 2025-35: Will It Hit $10 Soon? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWSllKX3JBci1HbzZyYTh6bHgzZllIdTVxUGFGZWxSd2RUZmR4OFRqVGVUcDlmcWtfcmN0MUo2N1RrNy0zQTg2VlN5YVA2bjRKM2FvdXpPVmJQNHhuVlHSAWNBVV95cUxOZ190QzliOFlaZlFTZUQ0dDItOW1hRVFTZ1o1QXVlVVlGOFljeFU1TlJJZWU4NG5ZcXdBaEdxNklBOS1hSE8zY2Zna3VLclR6eklqV3hFRGswZFBsVVJOVVBQZGs?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 25 Jan 2025 08:00:00 GMT",
+      "snippet": "ai16z Price Prediction 2025-35: Will It Hit $10 Soon?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Brevis token launch imminent: Community incentives account for 32.2%, airdrop registration coming soon - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zRGZyOHdPYnZJbkVsNXBwUW5pb0xLZFpncWhpckppVG1IY1pSU1o1dUhyVTRwQUxOLV9kMS1PV2wwTmxhajZMdjZuRHRhek85MElQQ2ZKVUsydTQ5eXfSAWNBVV95cUxOd0tYR2VlbUtMRnRpaUpraFpxYmE1WjVXeDRzSEFyY2ZPdjRJSnV2cDFFcUtjZEFYUG9YckNEXzdrZXpFUWZmMEhNZTdYWGdHMlpKd0wyUVhjS21HX01zNkhXYWs?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 24 Dec 2025 08:00:00 GMT",
+      "snippet": "Brevis token launch imminent: Community incentives account for 32.2%, airdrop registration coming soon&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Japan’s massive foreign exchange intervention fails to pull the yen away from the 160 mark—Will it strengthen soon? | Hi, What's your view today? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YdXNDTFBUVE40UXlodEhDaGRteW5EaVVnRkxlT1NkWm1sdUtjUmZVLVczN251OGZ4WTJZSjQxNktvYnVwWkVnVmI3WUJOaERBQmlKZmt5cDJWU2x6OUHSAWNBVV95cUxOYTBVNlluWHVEUkFzdjROWGc0NmloMEZmRDJuS3N6YzVWTThnQk0yQ2IxTGFoMmVFM0wyMURnbVZJQmhZQTRTMW1vVThiV1RudXFXd2FQYnY1OXNlQW8xWEtNbzg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 05 May 2026 07:00:00 GMT",
+      "snippet": "Japan’s massive foreign exchange intervention fails to pull the yen away from the 160 mark—Will it strengthen soon? | Hi, What's your view today?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Splyce launches yield token splyceUSDC, Genesis Vault coming soon - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMOFROV004WU5fb3UzVHVKWjJXOVZ5YVJWMTdSTURmc0FsOF9jTXplNVJjUWVjWG1DMGhXVHoyLTJHTkpZSW1EbW1DMDdWUXROdDBiUVNEemdtY2pvSkHSAWNBVV95cUxNLUpMUkJTLW85RkZtd1g1VUdLSEhXS2x1cUhyaWFWdWNaSUtTY3R3RlphYWRpS0syQUFabjB0dkQyNEo2SjlHTDhlaGJzSVdTMHRTcGg5eExWSjJLUWtCOTdSZTA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "snippet": "Splyce launches yield token splyceUSDC, Genesis Vault coming soon&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Justin Sun: Tron launches post-quantum upgrade plan, technical roadmap to be released soon - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sMVJzUFZpZUk0ZE55M3Nfc1QwR1c5SnlJTm9vYVdJSjE0aFhfdkZmb3Roemt1MERLanFNSmdDUlh3d2s5Wk14dEpiSXBwWXNWMFEwSnNGY1ZXcTI3eEHSAWNBVV95cUxPUTBzeW1ETEZSZ2ZSaHFiTTk1dlNQWFd3Nm02MXJXZnJrN3pwWTdzR3M1T1FyZVQ2TVhJVlRCMkFpRW4yVkIySFp4YWV0TTlzZVZHUHlMZmpuaU10SGRzT2tmaUk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "snippet": "Justin Sun: Tron launches post-quantum upgrade plan, technical roadmap to be released soon&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Solana: Will soon be integrated into the X app - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nZXpiQ20ySzVncVNycnlRYXFiVGMtZUllUUV2dm42S2h0MVFXZmdSTDAwc3BaMFBHWEJXcjBia1ZGdUdyYk00bFBBOWFTZjM0UFg1dzZiYzZxY2loWXfSAWNBVV95cUxPVkJRTTM5b1M3Z3dqaGNoTEFwUGZQSkh3cFFBVXczcTRUWEVGRWxoQ3VsSlJSSEVKb2dHUHNkM3Q5YXppeGZCNG9FUlVPTU1ZU2J0dFBNdzNCaTNFYlZmSlNWM3c?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 11 Jan 2026 08:00:00 GMT",
+      "snippet": "Solana: Will soon be integrated into the X app&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

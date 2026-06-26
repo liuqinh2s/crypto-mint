@@ -1,0 +1,317 @@
+{
+  "token": "STABLE",
+  "requestedInput": "STABLE",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:19.447Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "STABLE",
+    "name": "Stable",
+    "generatedAt": "2026-06-26T08:47:12.048Z",
+    "summary": "STABLE代币在Meteora DEX上交易，流动性极高（37亿美元），但24小时交易量仅3.99美元，价格几乎无波动。新闻多为无关或过时内容，近期仅有Binance交易竞赛利好。基本面不明，无明确上涨催化剂，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，不适用"
+    },
+    "catalysts": [
+      "Binance Alpha交易竞赛（2026-06-22）可能带来短期关注",
+      "高流动性池可能吸引大资金"
+    ],
+    "latestNews": [
+      {
+        "title": "Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-06-22)",
+        "impact": "利好",
+        "reason": "交易竞赛可能增加短期交易量和关注度"
+      },
+      {
+        "title": "Stable Trading Competition: Trade Stable (STABLE) and Share $100K Worth of Rewards",
+        "impact": "利好",
+        "reason": "历史竞赛，但已过期"
+      },
+      {
+        "title": "Stable: Mainnet and Token Generation Event",
+        "impact": "中性",
+        "reason": "主网上线消息，但时间较早（2026-01-09）"
+      }
+    ],
+    "fundamentals": [
+      "代币名称Stable，但非知名稳定币项目",
+      "链上Meteora DEX交易对，流动性极高（37亿美元），但交易量极低（3.99美元）",
+      "无官网、白皮书或团队信息",
+      "总供应量和流通量未知",
+      "创建于2026-05-28，较新"
+    ],
+    "marketRead": [
+      "价格0.03729美元，24小时跌幅0.02%，几乎无波动",
+      "24小时交易量仅3.99美元，流动性池巨大但无实际交易",
+      "无历史K线数据，无法分析趋势"
+    ],
+    "risks": [
+      "流动性极高但交易量极低，可能为虚假流动性或操纵",
+      "无基本面信息，项目不透明",
+      "新闻多为无关内容，缺乏真实催化",
+      "代币供应和合约风险未知",
+      "价格无波动，可能为死币或骗局"
+    ],
+    "watchlist": [
+      "交易量是否突然放大",
+      "是否有新公告或上线CEX",
+      "流动性池是否变化"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，缺乏项目官方信息",
+      "新闻多为通用稳定币内容，与STABLE代币关联性低",
+      "流动性数据异常，需谨慎对待"
+    ]
+  },
+  "profile": {
+    "id": "88vnkzHbkwLXpSZs1kkTbBE6XqztiytZ1LKxnq4B785q",
+    "symbol": "STABLE",
+    "name": "Stable",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/f8hkwreieqr1uekfspwoks7dn74r6ku8vebyl2e5mtye",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.03729,
+    "marketCapUsd": 3729219463,
+    "fullyDilutedValuationUsd": 3729219463,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-05-28",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "F8hkwrEiEqr1UEkFSpwoks7DN74r6kU8vEbYL2e5mTyE",
+    "baseTokenAddress": "88vnkzHbkwLXpSZs1kkTbBE6XqztiytZ1LKxnq4B785q",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 3728219459.1,
+    "pairUrl": "https://dexscreener.com/solana/f8hkwreieqr1uekfspwoks7dn74r6ku8vebyl2e5mtye",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "STABLE/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "F8hkwrEiEqr1UEkFSpwoks7DN74r6kU8vEbYL2e5mTyE",
+    "pairUrl": "https://dexscreener.com/solana/f8hkwreieqr1uekfspwoks7dn74r6ku8vebyl2e5mtye",
+    "lastPrice": 0.03729,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 3728219459.1,
+    "fullyDilutedValuationUsd": 3729219463,
+    "marketCapUsd": 3729219463,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/f8hkwreieqr1uekfspwoks7dn74r6ku8vebyl2e5mtye",
+    "pairAddress": "F8hkwrEiEqr1UEkFSpwoks7DN74r6kU8vEbYL2e5mTyE",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "88vnkzHbkwLXpSZs1kkTbBE6XqztiytZ1LKxnq4B785q",
+      "name": "Stable",
+      "symbol": "STABLE"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.03729",
+    "priceUsd": "0.03729",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 3728219459.1,
+      "base": 99973023737,
+      "quote": 6000.002
+    },
+    "fdv": 3729219463,
+    "marketCap": 3729219463,
+    "pairCreatedAt": 1779952929000
+  },
+  "news": [
+    {
+      "title": "How to sell Thailand stable coin (THB) via a crypto wallet - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DN1FkTXJhZXYxdVpBd3V1VzF2Nk9SUHpCd0NNVloyX245cFJSTjAycWNMbUtVWHlKTDlZekhKdTgta1E3YXBCYTEtWms5ZnBFdGliUFJjN3RlWk9yeVlIYmpTNUJtUVk4TkNBWHA2OA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 22 Jun 2026 00:00:00 GMT",
+      "snippet": "How to sell Thailand stable coin (THB) via a crypto wallet&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Stable Price: STABLE/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Id2dRc2dNdVItNWhCakwyYTVtVTFmaW9vOU9GMTJhMjdkaHo5NThubTZuU0dUTmtVbWZ4UkU4RDNXSTdySHpWdk8zN2ZnYVJVZWxZYlRR?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 15 Sep 2025 17:33:45 GMT",
+      "snippet": "Stable Price: STABLE/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Inter Stable Token Price Today | IST to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuNjVzMW1ldmtUTWVHTmpIeHhkZExqS0FSWmxiV3NJQVNrU1JWUlB2bVdkeG1CMDJENVp5My05Z0F0Q1p0cWJVQTIxd0c2T0ZIV1hWaml3UTZRMnpQYmlFbQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 18 Jun 2026 18:10:00 GMT",
+      "snippet": "Inter Stable Token Price Today | IST to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Discover Stable: The Future of USDT on Blockchain with Phemex Guide! - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVpZUlcxeFU3c2h6N3AxM0hPVllkdTBYTGp4M2x1R2MwMTJNcnEzYXM4OUlRYWRiVGVlT1lBRHUySjhsVDNBU3RfWnhMX3JkeWJlVDk4czJ3a0hTRGNxMFViRHhLZk5FZWlDNmltSkIwZFJ3NDI3N2Q2RzhRSnBmOHo1NA?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "snippet": "Discover Stable: The Future of USDT on Blockchain with Phemex Guide!&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "From Bitcoin to stablecoins: A new era of digital currency at major banks - Scripps News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbk9tNURZQTJQbWxNbVB5Nzh6TnpCSWpNaDBZQnNUQ3VjaUtjakpVRGo0WTdGVlFFSDVRZEQ0ak9wajRRaUdrd1EwM2J1VGthTU5ZMHZ1WTZaLUpCUWRYMnhWaERSank2Q0Q1dXYtVElBeHJNR3pNcVp1YmcxRm9fNTlJTHBRNGQ0aWtBVFczM0N6WFpRd1NtWDRGZGdudFFzcl9WSGtEem1PYkgxeU4tbA?oc=5",
+      "source": "Scripps News",
+      "publishedAt": "Tue, 19 Aug 2025 07:00:00 GMT",
+      "snippet": "From Bitcoin to stablecoins: A new era of digital currency at major banks&nbsp;&nbsp;Scripps News"
+    },
+    {
+      "title": "What Is Stable, Tether's Stablechain - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yaGZTUTltTDZodXQ3RTg0UFdsMjBieWZ0eEtWVDZvY2hObUVvbVZmMElYdHk4aGxmd3V4d2JwMmVfYzVyTG50RjZONDFGaVlqWGhkampoYVIydkFhTGZJQjBkOW1UU0tKM2F3MF8xcWdTTHM?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "snippet": "What Is Stable, Tether's Stablechain&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "BlockDAG Listing Date 9 Days Away: Burns 1B BDAG, Stablecoin June 1 - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQjVpMVFicHB0WDFmMTFHUlhocWQ5TGZOeTVxNXk4V2t6U29rSWZiaG5aa3U1Xzc4WmlKdjNaR2tKSjZkWE54MHhCc1JpR3BWVW9aOGlvanlUXzZNR1hlNHFDRGwzS3dfcVZoZDVIR1dDS0haOTItcFhSd0ZDb2szRDVQZkgwWFpVdEdEWHl0SDNyRmowUFNneE93NnJKM3F2b3laalJEM3FKRWM?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Sat, 23 May 2026 07:00:00 GMT",
+      "snippet": "BlockDAG Listing Date 9 Days Away: Burns 1B BDAG, Stablecoin June 1&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "Stable: Mainnet and Token Generation Event - Messari",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qR283S0Vfalo1N25QdXl6ZzRGTkpfZXBnSDlNbUJlMDd2RXk1eEZqcWIzdEUwVUR3MEFsU0dqTDhHdVZ2SC1hSW5MSDBSNjB4MWRNVzloUjcxVl8ycHItZHAtOXFYRTlNeWgwMmVNZ2RmazhsX3c?oc=5",
+      "source": "Messari",
+      "publishedAt": "Fri, 09 Jan 2026 08:00:00 GMT",
+      "snippet": "Stable: Mainnet and Token Generation Event&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "Kioxia is considering its first dividend payout after the IPO and establishing a stable dividend mechanism. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lb3p1YWdQbXJTUlQ0bkw0dnVqMUNjdHFtZlZ5dlBoVnlQODdFTFJqVXNidVRYLXBLVkZGUkpqaWM4eGFFZHZrZ2hCeEtiUXg3VmZBQXVtV0tJSHBZUkHSAWNBVV95cUxOTnZXNWpFQTRMR2V6cEVRQ056bEFRZThhRkhlelBXSjhBRjZfd2JRcXh2YU1ZbTdxeFdTLU9YVW5ROVN4bVBnZTF2aEtKb0g5dWU5LW9DN1VPTjJNaDdjODJXSDA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "snippet": "Kioxia is considering its first dividend payout after the IPO and establishing a stable dividend mechanism.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Analysis: Germany's 10-Year Government Bond Yield Expected to Remain Stable for the Rest of This Quarter - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fQjVrM0lBYkpaSVhsYVhELVNId0Y5bWtvSmZ3TzRvbktpTlE0RS11Zkp3WThKeXVmcjJIMDhLZ2kzZTBPemJsUEg3aVBCOXNkODJPbXlDSUI5dXVMalHSAWNBVV95cUxNbEZnOXpWak1Sdk45MVBaa2h5OG9lVzhCWTFuendHeVZKZXZGX2tEMFBBZEdoeFRrT1dFczZ3cGptVnN5djFqaFNEMDZkODkxUWtzU0dELXJvRGRzN0JUWTJnVG8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "Analysis: Germany's 10-Year Government Bond Yield Expected to Remain Stable for the Rest of This Quarter&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Funding Rate Arbitrage Decoded: How to Achieve Stable Annualized Returns through Spot and Perpetual Hedging? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NNDk0NzVQcV9jQlVKSklHYkMyQ1lubnk0WTllbXk3dzZpYkZYZEQ3c3BEa3ZWMGRnNFVFcEFSYXpmZ3NNcEd0N2QxdTQ5aHpWb3BVTjlEdFhZWnQ2c1HSAWNBVV95cUxNdmx2U09WWWJMYXVZMndaNmdNNnd2d3pwOHRjb3lfY0w3NkxNZmU0Z1ZpSTVfaXpHS2Z1UjNyQkxlTFIwTDZLaXMtNTVUVmtHNDBhRDh3SG9SalBQYVFpeHVpcEk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 04 Dec 2024 08:00:00 GMT",
+      "snippet": "Funding Rate Arbitrage Decoded: How to Achieve Stable Annualized Returns through Spot and Perpetual Hedging?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Dow, S&P 500, and Nasdaq futures are stable today while Bitcoin is falling. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUU9YTWJ6VVkxMEFYRHdaeWRUZlJ0Unkyc3o4MF9sQmYxVnNBTzlHYnFNeHFZSGtFQ1Q3WlQ2dnpNc2M4b3JsQXVPeE8xeVpITzZpbEVVVUlRak9PNFHSAWNBVV95cUxQM3JxTnRuY3RxeVVxWVpwUFhSdkJKeHJIMC1zMmdWSGRRSUI0b3h2STZNaTFQbkQ5Wkg0ZFF3bkxDYkZRcXJPZy1Cd1hBa2E2V3djS3FnWXhnUDUwd0xlM3R5SzA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "Dow, S&P 500, and Nasdaq futures are stable today while Bitcoin is falling.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Stablecoin L1 becomes the new arena, with Circle, Tether, and Stripe competing for dominance - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TQ3JJZTc0QmtiRFFNY1lqN2RRZUJFWU5GRndHaXB5Vzc2V051Zkl0LTFiV0VrM2ZsOVlncl92Q1pnRl81c05qT0U0RWJLbWFtNWVXM1UxTnVOUDU3QUHSAWNBVV95cUxQTGtlQi1ZMHhIbURFNy0tSWpDV0k0bUs4RG5ZVS1TektmQnJ6VzdxOWZ0aFJsTjlFMGxtRkp5OEZpUEVsQi14aHhCaFY2aWRjVV9YZDZEUFRabTNjT3ZQeE9pZkk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 21 Sep 2025 07:00:00 GMT",
+      "snippet": "Stablecoin L1 becomes the new arena, with Circle, Tether, and Stripe competing for dominance&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-06-22) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWpDREdKUklkcmhrS3h4WWFXcHoyRXE4MDJhWjNWc19vUGFNZmdubWZpNzg5Z2tldkdNT19DWEhOQ2x0QjdySzJaVDltUVdaR1UzbWYxaEVXcUhXZmFWSnUyNmZkZE9sVmJ3OVJ3a3preTN0ZFFRa0w2eWQyeGJyMFY4QnNRV1psSE5WdkNncDY?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 22 Jun 2026 12:08:41 GMT",
+      "snippet": "Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-06-22)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Stable Trading Competition: Trade Stable (STABLE) and Share $100K Worth of Rewards - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2F6NFp0bW9FbGtxT0NZcUgyazBReXhsQjkzVnlZQWtYSm9qVi15WF9lOF9qQ0tITVNOaXNpOG1SYXAwcnVyY0JVWmRzVUZHaU1maThXek1OV2MtNTRTN2ZvbVRmbnNVelhSRlJuMHlPZE9pZnlHejV4RnFfTkdQQUJkX3dMU0s1dXRVanJGcWs?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "snippet": "Stable Trading Competition: Trade Stable (STABLE) and Share $100K Worth of Rewards&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "BNB Smart Chain Trading Competition: Trade IR, POWER, and STABLE to Share $600K Worth of Rewards - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMDF3WmluNHlKeXlCamg3MnpPdmFIQXNfM0lzek1GaDNJVFp1QjV0bnJYWDB6MjJYYmNJVFpiWmVBLV9xa2wwdmZmNU9qZ1ppWWlwc0E4YVlxUlR4UUt3QWtrWnFaMzl4aXRBWllVTXVGMmluUGFxdHAyUmtoS0p6LU5Jc0tfMlBzVXJFQjVqTTk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "snippet": "BNB Smart Chain Trading Competition: Trade IR, POWER, and STABLE to Share $600K Worth of Rewards&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/usdfi-stable?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

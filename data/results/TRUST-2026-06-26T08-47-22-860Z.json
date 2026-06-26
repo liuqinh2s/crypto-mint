@@ -1,0 +1,375 @@
+{
+  "token": "TRUST",
+  "requestedInput": "TRUST",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:22.860Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TRUST",
+    "name": "Trust",
+    "generatedAt": "2026-06-26T08:47:13.068Z",
+    "summary": "TRUST是BSC链上PancakeSwap的极低市值代币，流动性仅3971美元，24小时成交量0.07美元，几乎无交易活动。新闻多为无关内容，无直接利好。风险极高，不建议买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性极低，无交易量，任何买入都可能无法卖出。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Hex Trust-linked address acquires $42 million in Humanity (H) tokens amid vesting adjustments",
+        "impact": "中性",
+        "reason": "新闻提及Hex Trust，但与TRUST代币无关。"
+      },
+      {
+        "title": "TWT Soars Nearly 40% as Trust Wallet Reveals Plans to Add 100X Perps, Prediction Markets",
+        "impact": "中性",
+        "reason": "TWT是Trust Wallet Token，与TRUST不同。"
+      },
+      {
+        "title": "Trust Wallet Token Price Prediction: Is TWT a Good Investment?",
+        "impact": "中性",
+        "reason": "关于TWT，非TRUST。"
+      },
+      {
+        "title": "Crypto asset manager Grayscale files to convert NEAR Protocol Trust to an ETF",
+        "impact": "中性",
+        "reason": "Grayscale NEAR Trust，无关。"
+      },
+      {
+        "title": "Intuition price today, TRUST to USD live price, marketcap and chart",
+        "impact": "中性",
+        "reason": "可能指另一个TRUST代币（Intuition），非本代币。"
+      },
+      {
+        "title": "Trust Wallet begins hack compensation, Coinbase arrests former agent, Uniswap activates protocol fees | Weekly Recap",
+        "impact": "中性",
+        "reason": "Trust Wallet相关，但非TRUST代币。"
+      },
+      {
+        "title": "Solana News Update: BlockDAG's $435 Million Presale Faces Scrutiny Amid Founder Accusations That Jeopardize Trust",
+        "impact": "中性",
+        "reason": "一般信任话题，无关。"
+      },
+      {
+        "title": "Binance’s 2025 End-of-Year Report: Trust, Liquidity, and Web3 Discovery",
+        "impact": "中性",
+        "reason": "Binance报告，无关。"
+      },
+      {
+        "title": "What Is Trust Wallet? A 2026 Comprehensive Guide For Beginners",
+        "impact": "中性",
+        "reason": "Trust Wallet指南，无关。"
+      },
+      {
+        "title": "Trust Wallet Token (TWT) Price Forecast: Examining Key Drivers, Blockchain Activity, and Tactical Considerations",
+        "impact": "中性",
+        "reason": "TWT预测，无关。"
+      },
+      {
+        "title": "Crypto Security in 2025: Trust Wallet Hacked, Ledger Exposed Again – What Solutions to Protect Your Assets?",
+        "impact": "中性",
+        "reason": "安全文章，无关。"
+      },
+      {
+        "title": "Centralized Exchange Trust Drops Sharply",
+        "impact": "中性",
+        "reason": "交易所信任度下降，无关。"
+      },
+      {
+        "title": "Saba Capital Management and Cox Capital Partners jointly announced today the official launch of a cash tender offer for shares of Starwood Real Estate Income Trust, Inc.",
+        "impact": "中性",
+        "reason": "房地产信托，无关。"
+      },
+      {
+        "title": "Quack AI and Zypher Network Partner to Advance Trust-Minimized AI Agent Economies",
+        "impact": "中性",
+        "reason": "AI合作，无关。"
+      },
+      {
+        "title": "KKR Real Estate Select Trust Fund announced it will make a tender offer to acquire up to 3.1 million common shares from fund shareholders.",
+        "impact": "中性",
+        "reason": "房地产信托，无关。"
+      },
+      {
+        "title": "SBI Group launches Japan's first trust bank-backed stablecoin JPYSC",
+        "impact": "中性",
+        "reason": "日本信托银行稳定币，无关。"
+      }
+    ],
+    "fundamentals": [
+      "BSC链上PancakeSwap代币，创建于2023年10月6日。",
+      "市值仅3390美元，流动性3971美元。",
+      "总供应量与市值相同，无流通量数据。",
+      "无官网或社交媒体信息。"
+    ],
+    "marketRead": [
+      "24小时成交量仅0.07美元，几乎无交易。",
+      "流动性极低，买卖价差可能巨大。",
+      "无价格变动数据，市场深度极差。"
+    ],
+    "risks": [
+      "流动性极低，买入后可能无法卖出。",
+      "市值极小，容易归零。",
+      "无任何项目信息或社区支持。",
+      "新闻均为无关内容，无实际利好。",
+      "合约风险：未开源或未审计。"
+    ],
+    "watchlist": [
+      "关注是否有大额流动性注入或交易量激增。",
+      "检查合约是否开源及审计报告。"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener，仅包含链上信息。",
+      "新闻搜索可能混淆了其他同名项目。",
+      "无可靠基本面数据。"
+    ]
+  },
+  "profile": {
+    "id": "0xeb5FeaAd9C8F8265cC3a53c5e16468833708BF22",
+    "symbol": "TRUST",
+    "name": "Trust",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x3f8769e82d76d0eec2c2c3a1294185ec50f195f4",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.0004744,
+    "marketCapUsd": 3390,
+    "fullyDilutedValuationUsd": 3390,
+    "totalVolumeUsd": 0.07,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2023-10-06",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x3F8769e82d76d0eeC2c2c3a1294185Ec50F195F4",
+    "baseTokenAddress": "0xeb5FeaAd9C8F8265cC3a53c5e16468833708BF22",
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "liquidityUsd": 3971.03,
+    "pairUrl": "https://dexscreener.com/bsc/0x3f8769e82d76d0eec2c2c3a1294185ec50f195f4",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "Trust/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x3F8769e82d76d0eeC2c2c3a1294185Ec50F195F4",
+    "pairUrl": "https://dexscreener.com/bsc/0x3f8769e82d76d0eec2c2c3a1294185ec50f195f4",
+    "lastPrice": 0.0004744,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.07,
+    "liquidityUsd": 3971.03,
+    "fullyDilutedValuationUsd": 3390,
+    "marketCapUsd": 3390,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x3f8769e82d76d0eec2c2c3a1294185ec50f195f4",
+    "pairAddress": "0x3F8769e82d76d0eeC2c2c3a1294185Ec50F195F4",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0xeb5FeaAd9C8F8265cC3a53c5e16468833708BF22",
+      "name": "Trust",
+      "symbol": "Trust"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.0000008585",
+    "priceUsd": "0.0004744",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.07,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 3971.03,
+      "base": 4184538,
+      "quote": 3.5927
+    },
+    "fdv": 3390,
+    "marketCap": 3390,
+    "pairCreatedAt": 1696560531000
+  },
+  "news": [
+    {
+      "title": "Hex Trust-linked address acquires $42 million in Humanity (H) tokens amid vesting adjustments - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmk1ai1hSzJ0VUNRNW12UjV6MXBnX2gxWFJCam5iM1NUWFRGbE9EMUQ0Uno0WEdraHE5eW53VEZLak9mRThhY1h6ajRTUFI2NlZSQ0gyeGs5R0RpVEgxVUNSOWQyekNVelNHbTY3dkhVd3NCRTVyQkU1WlhMdEl5ZVZ5V2s4QQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 05 Jun 2026 10:21:57 GMT",
+      "snippet": "Hex Trust-linked address acquires $42 million in Humanity (H) tokens amid vesting adjustments&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "TWT Soars Nearly 40% as Trust Wallet Reveals Plans to Add 100X Perps, Prediction Markets - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTNPZU9wdW5UemkydFVHb1QyY042S2hDTkpmQks3bUpXR2ZWcTB4RkNWTWxNc01YZlp3Z096V0JWblZTdjV6aW80YTN4LVdja2ZGVzI0VnZpeEZuZDhrS0NWT3p4bWg3dmdfa21ZYjRzaWZjWGNRb04wQkZSLTc0bllidjhxak4wS0pGalhFNURIdUZXZmE1N2dxelZnU3dKcXgw?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Fri, 19 Sep 2025 07:00:00 GMT",
+      "snippet": "TWT Soars Nearly 40% as Trust Wallet Reveals Plans to Add 100X Perps, Prediction Markets&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Trust Wallet Token Price Prediction: Is TWT a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzduczdMSC02TUEzYUp0bDI0STBBaUt6U19UdWZoZXpjNUR6LU1zcWFCRWY4NEFXb1F2SWtnRmdQalRQckgwclloRXF1LWdfdmpqVG02TzUtaFRzSDJqQjBqa19rN2hNeXlUaEpHUGFNZ1lRTDY2SXRiUTVDVDhiSXBPWDJzQ1RlWDM5TTNURlc?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Tue, 07 Oct 2025 07:00:00 GMT",
+      "snippet": "Trust Wallet Token Price Prediction: Is TWT a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Crypto asset manager Grayscale files to convert NEAR Protocol Trust to an ETF - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGVBMXBsRG9DY3poNm5FTkFydlZRaXJiN05RWU9xUW1QV0JiZzc2c0VaT0luWHZSYk9oZy03eFJPc0E0dFlSbkNkUlZJS19lV0JOOXBJakNmcE1EbFktbHdia2hKMTJ0Z1NjS2V6amtReXVQZXlkWWQ5cGJ6RWpCbVdpSC1jZXhNdDVSQXZBLS1WQ0hQbG1RUXgyaXdfMVozYWRkUUl2WVRSS0owSndvS1RReE5NdVpWa1o2em5tOEg0UExZcWQ0Tm44cW5xSms?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "snippet": "Crypto asset manager Grayscale files to convert NEAR Protocol Trust to an ETF&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Intuition price today, TRUST to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhRmtMNmMzVUpVRF9uYUVtZjhxRk9wY29wUHU1X1JCeTIyeDhIYmFZNXh4TENaeWRFZldIRllHQjd3VUo5UlNWVFJtX1ZQMWNLb19PUk4zZVdOR2c?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 03 Nov 2025 03:48:31 GMT",
+      "snippet": "Intuition price today, TRUST to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Trust Wallet begins hack compensation, Coinbase arrests former agent, Uniswap activates protocol fees | Weekly Recap - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OSFkwMFB2TTBwaWNTeVItQnRRU2Fza1JVMjF5VXFib1dBbVF5MmxhYk9kN3NQXzZYWVJFRGY2bVBRZENIdC1UcmVWN3ktSWljSWM1SjVlMENpTFYtNEZkbjUtVGpZai1DU3BKN2lWSlUxZ2lLbHdVeUZobw?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Sat, 27 Dec 2025 08:00:00 GMT",
+      "snippet": "Trust Wallet begins hack compensation, Coinbase arrests former agent, Uniswap activates protocol fees | Weekly Recap&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Solana News Update: BlockDAG's $435 Million Presale Faces Scrutiny Amid Founder Accusations That Jeopardize Trust - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XNG9rZFozUEZTU3NNUDF0dEdxa3JvSFhLdi1DSFhqcUtOb1JIV1F2OVBXdk1EUjhTTHFKSHpRR3R4Ym9TT09MWUJFVmhibzQzbFc2Q2xXMVp2UXpRRHfSAWNBVV95cUxPM09GdnpKZmpPRWNJOUh3YjdwUVZPYVkwNUthb3lNTU8xMDRLNWw2U2k0b2xUV0NBRHdnYWtBVDBmMnV0WFQtdmd1R2JSNGxkVEtlQmUwRlRlWmxjeWZVVERrYmc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 04 Nov 2025 08:00:00 GMT",
+      "snippet": "Solana News Update: BlockDAG's $435 Million Presale Faces Scrutiny Amid Founder Accusations That Jeopardize Trust&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance’s 2025 End-of-Year Report: Trust, Liquidity, and Web3 Discovery - Binance",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14aGdoeEd2QnluS1FzM3BzNS1kRS1LQUl4al92TE8tYTFhQktENmRTOVZkdzdLeE9MLUgyejVNSV9RTkJOeV8xYlEyZnhWNHVWR2hfYUxYeEh1Q3c2eXpETG95RHl6VU5RNmRZTFdB?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 08 Jan 2026 08:00:00 GMT",
+      "snippet": "Binance’s 2025 End-of-Year Report: Trust, Liquidity, and Web3 Discovery&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What Is Trust Wallet? A 2026 Comprehensive Guide For Beginners - NFTevening",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yMC0taGp1Wi1XS210NVpCZWxOZXlqT294Y0tYNzhkdkpSYUItTmk5YWxobmxiZVJncVk2Y3dCcktIZ19idjVtTTZuTE9mLWE1MG44UWZHYw?oc=5",
+      "source": "NFTevening",
+      "publishedAt": "Wed, 17 Jun 2026 08:54:34 GMT",
+      "snippet": "What Is Trust Wallet? A 2026 Comprehensive Guide For Beginners&nbsp;&nbsp;NFTevening"
+    },
+    {
+      "title": "Trust Wallet Token (TWT) Price Forecast: Examining Key Drivers, Blockchain Activity, and Tactical Considerations - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pNzV3TWRkdVV0Zkx6MHNFZUl3SjFHOWl3S2pPUGNnZ1V2VGtNV2JsZzVSbzNJY0U5XzEyaXg2Tm1BWGVhTDdTUnFPQm1YOGg1QmNyNUhKUmlLdkxTTkHSAWNBVV95cUxPT3N2aUF2TkRNdHVxMVBOc1lYclczQTdETEl2N3haQnhPZWg5aVhkaHJXOWRzdS1XWXFmNllKY2d0eHV2dkpWSWx3Q042Y0U3UUlDNGJ1RWRrb24yeG01QXpMNnc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 12 Nov 2025 08:00:00 GMT",
+      "snippet": "Trust Wallet Token (TWT) Price Forecast: Examining Key Drivers, Blockchain Activity, and Tactical Considerations&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Crypto Security in 2025: Trust Wallet Hacked, Ledger Exposed Again – What Solutions to Protect Your Assets? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUMHREa2ZYeVpWN2o4ZmJFLUtqWFZlS1ptNHZiUkRVNFFtQWRyNUxyVkY3UXY0V1phYUlnWVhQWkJQbE5XYzRucFhFdnpuRVVOY2trbUg0cWc3eDAzdHc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "snippet": "Crypto Security in 2025: Trust Wallet Hacked, Ledger Exposed Again – What Solutions to Protect Your Assets?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Centralized Exchange Trust Drops Sharply - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04c2FQZHhPeHN3M1ZYYmRlVEFrd0V5S1NzUWI0a09rcTBBSWlxdmxUeEJzZVpIUllXNmppZWJYOFZJY0Q3cXhRN2NMb29TRDRrdDNiMEdhODMyTUZEQWfSAWNBVV95cUxQSkllRE9NMVNoSkR2alN1SklmVS1IX2h5SGwwRXpteUkwSl9MalFXa09TbGVIbWo3cnp5UkNfZTZScGhBMzZraDZzMXIyUUVscTZEaVdObUlnTS0zWENabUVUMlk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "snippet": "Centralized Exchange Trust Drops Sharply&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Saba Capital Management and Cox Capital Partners jointly announced today the official launch of a cash tender offer for shares of Starwood Real Estate Income Trust, Inc. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4V0Q4bHRCRHlyRWxIQ3lLRzZpS3lKSUxnLUloXzctRENaNnkwZE9fT1pLbEtkaWFERXNVNWlkWURaNUFTUlY1NHdWdk13Zk9qOE1lM0JKZXBvX0tRZVHSAWNBVV95cUxOd3A3MDdmODQ3SHNGUHFOUHRfWUh6QXpYc24yalVib0ZmTGM2VEJtVzl6ZWdweFpENW05WnVUWFpyNEp5WkZEeXlEYlhEVkw5LW1oZnAzOVY2OEtsVVNOeWc5S0k?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "snippet": "Saba Capital Management and Cox Capital Partners jointly announced today the official launch of a cash tender offer for shares of Starwood Real Estate Income Trust, Inc.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Quack AI and Zypher Network Partner to Advance Trust-Minimized AI Agent Economies - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42dG12MnlxOWZlTXFiNWxjMXppMGZuMURDRTFSS0R6Y0V6QXljYWdwNWZRaTR3Y0tBaldnc0xSMXZISXNCVXJTM2NXcmkxSV8zSjNCdmozLXFFVHExM1HSAWNBVV95cUxOM3p3aHhkdGw5Nllfa1NZZUtGZnB6RmE0QUNqdUdyNkcxSTh0eWxzR1NiSldfRVJFRHVRZHUtSjF2d2IwT2JRZ1dVQkFSZWVQR09GcnRTYkpyYWlReFYyZUcwVDg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "snippet": "Quack AI and Zypher Network Partner to Advance Trust-Minimized AI Agent Economies&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "KKR Real Estate Select Trust Fund announced it will make a tender offer to acquire up to 3.1 million common shares from fund shareholders. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zbWJJVU1SNXdQX3RMVUVJTEN4bndzOE5DLXJ2aXlXVzE3cUk2TDVVT3p6U1JHc1dsMmxGLTlWVU1IS1Z3TjUySkxsd0o3dmVSTV8zb0tfYlRvb0FNVGfSAWNBVV95cUxPd1ZGT1NZVGN3TDZiS3FoQjRIVzZ4aE54aTMySDNmUWFxMlpjQ19ndFFFS3J0OFVJclVCamJhQXhNd05jN0k5cklXZFRpUVZmU1FUMVk2QlA5T3dxSjhJdEVIUnM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 17 Jun 2026 12:16:09 GMT",
+      "snippet": "KKR Real Estate Select Trust Fund announced it will make a tender offer to acquire up to 3.1 million common shares from fund shareholders.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "SBI Group launches Japan's first trust bank-backed stablecoin JPYSC - The Block",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EYWFZbnItaEtqREtKQVFrbVZ6UDRRZlVDNTVvcXhjLUNZejJ0TU1qSzdhaTZra0tzeU5FX2VjZWJjei1mdzBHbW1mNlBNRktmVzVaREhwT3pKM2wyUS15MkxIcEFMZTd3clRVV2hjOGRia28w?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 24 Jun 2026 09:39:22 GMT",
+      "snippet": "SBI Group launches Japan's first trust bank-backed stablecoin JPYSC&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=TRUST: Throttled\n"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "token": "QNTSTOCK",
+  "requestedInput": "QNTSTOCK",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:46:52.286Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "QNTSTOCK",
+    "name": "unknown",
+    "generatedAt": "2026-06-26T08:46:49.074Z",
+    "summary": "代币QNTSTOCK在Binance上无法获取行情数据，可能为未上线或已下架代币，缺乏基本面与新闻信息，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无有效数据，无法设定失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [],
+    "marketRead": [],
+    "risks": [
+      "无法获取任何市场数据，可能为未上线或已下架代币",
+      "无项目资料，存在诈骗或流动性归零风险",
+      "无新闻或社区信息，无法评估市场情绪"
+    ],
+    "watchlist": [],
+    "sourceNotes": [
+      "Binance API返回451错误，可能因地区限制或代币不存在",
+      "未找到任何相关新闻或项目信息"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "QNTSTOCKUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QNTSTOCKUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QNTSTOCKFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QNTSTOCKFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QNTSTOCKUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QNTSTOCKUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QNTSTOCKBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QNTSTOCKBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

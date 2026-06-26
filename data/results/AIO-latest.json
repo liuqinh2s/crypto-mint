@@ -1,0 +1,260 @@
+{
+  "token": "AIO",
+  "requestedInput": "AIO",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T08:47:49.226Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AIO",
+    "name": "OLAXBT",
+    "generatedAt": "2026-06-26T08:47:40.879Z",
+    "summary": "AIO是Solana链Meteora上的一个代币，市值约1.08亿美元，但24小时交易量仅3.99美元，流动性极高（1.07亿美元）但几乎无交易活动，价格24小时微跌0.02%。缺乏明确基本面信息，新闻均为价格聚合页面，无实质催化。存在极高流动性陷阱风险，不建议买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": null
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "OLAXBT price today, AIO to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "仅为价格聚合页面，无实质信息"
+      },
+      {
+        "title": "OLAXBT Price Today | AIO to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格聚合页面，无实质信息"
+      },
+      {
+        "title": "olaxbt Price | AIO Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+        "impact": "中性",
+        "reason": "仅为价格聚合页面，无实质信息"
+      },
+      {
+        "title": "olaxbt (AIO) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+        "impact": "中性",
+        "reason": "提及融资和代币经济分析，但无具体细节"
+      },
+      {
+        "title": "OLAXBT Price Today in India | AIO to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格聚合页面，无实质信息"
+      },
+      {
+        "title": "olaxbt (AIO) Token Unlocks and Vesting: Schedule and Tokenomics - CryptoRank",
+        "impact": "中性",
+        "reason": "提及解锁和归属计划，但无具体数据"
+      }
+    ],
+    "fundamentals": [
+      "代币名称OLAXBT，符号AIO，部署在Solana链Meteora DEX",
+      "市值约1.08亿美元，FDV相同，但无流通/总供应量数据",
+      "创建日期2025-09-10，距今约9个月",
+      "流动性池资金高达1.07亿美元，但24小时交易量仅3.99美元，流动性极度集中且无交易活动",
+      "无官网、无白皮书、无团队信息，项目背景不明"
+    ],
+    "marketRead": [
+      "价格0.1083美元，24小时微跌0.02%，几乎无波动",
+      "24小时交易量仅3.99美元，表明市场毫无兴趣",
+      "流动性极高但交易量极低，典型流动性陷阱，可能无法顺利卖出",
+      "无历史K线数据，无法分析趋势"
+    ],
+    "risks": [
+      "流动性陷阱：流动性池巨大但交易量极低，卖出时可能滑点极高或无法成交",
+      "项目不透明：无官网、白皮书、团队信息，存在rug pull风险",
+      "代币经济未知：无供应量、解锁计划数据，可能存在大量未解锁代币",
+      "新闻空洞：所有新闻均为价格聚合页面，无实质催化",
+      "市场情绪缺失：无社区、无社交媒体活跃度"
+    ],
+    "watchlist": [
+      "观察交易量是否突然放大",
+      "关注是否有官方渠道发布信息",
+      "检查流动性池构成是否异常"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，缺乏链上深度数据",
+      "新闻均为聚合页面，无原创内容",
+      "无任何可靠第三方审计或社区验证"
+    ]
+  },
+  "profile": {
+    "id": "AzSKBjLcKP2wSPbdAkmuoWnex3JamEJfvGgWoeURK3Hc",
+    "symbol": "AIO",
+    "name": "OLAXBT",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/qoqu2rsvmpgjyjhygnlqjdy3wvngz1hs185vje58g7c",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.1083,
+    "marketCapUsd": 108343646,
+    "fullyDilutedValuationUsd": 108343646,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-09-10",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "qoQu2rSVMpgJyjhYgnLQjDY3WvngZ1HS185VJE58G7c",
+    "baseTokenAddress": "AzSKBjLcKP2wSPbdAkmuoWnex3JamEJfvGgWoeURK3Hc",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 107343706.44,
+    "pairUrl": "https://dexscreener.com/solana/qoqu2rsvmpgjyjhygnlqjdy3wvngz1hs185vje58g7c",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "AIO/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "qoQu2rSVMpgJyjhYgnLQjDY3WvngZ1HS185VJE58G7c",
+    "pairUrl": "https://dexscreener.com/solana/qoqu2rsvmpgjyjhygnlqjdy3wvngz1hs185vje58g7c",
+    "lastPrice": 0.1083,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 107343706.44,
+    "fullyDilutedValuationUsd": 108343646,
+    "marketCapUsd": 108343646,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/qoqu2rsvmpgjyjhygnlqjdy3wvngz1hs185vje58g7c",
+    "pairAddress": "qoQu2rSVMpgJyjhYgnLQjDY3WvngZ1HS185VJE58G7c",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "AzSKBjLcKP2wSPbdAkmuoWnex3JamEJfvGgWoeURK3Hc",
+      "name": "OLAXBT",
+      "symbol": "AIO"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.1083",
+    "priceUsd": "0.1083",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 107343706.44,
+      "base": 990770557,
+      "quote": 12.3028
+    },
+    "fdv": 108343646,
+    "marketCap": 108343646,
+    "pairCreatedAt": 1757477858000
+  },
+  "news": [
+    {
+      "title": "OLAXBT price today, AIO to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZjFBWUgzTlRhNF85T3FvdS1zMGF1NnI1Y2VOa2RRcE1RWDJhMVpualpjcGZNR1JrdnlOQVdFcTQzaktyOHBUa3R6NmV4dWhRY19zUlBRSQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 31 Jul 2025 07:15:06 GMT",
+      "snippet": "OLAXBT price today, AIO to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "OLAXBT Price Today | AIO to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81WFJKT0d5WUExOG1CVDhNNDR5emRwdFo0bmJTQVRwMG5KVWs0bGFIaDBpakVfQ01zR0sxSlNqOXRjRlp0Q3d4SzJlZE9lMzhs?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 03 Aug 2025 20:54:24 GMT",
+      "snippet": "OLAXBT Price Today | AIO to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "olaxbt Price | AIO Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6cFFJUlRCZjhqS3V4Z3U2U0JYNEFuUjE3Q3FuYmt3OExxZVpYbVF5ZTBQN09TVEd4OURCUEg3WVV5eVRjNlBISjBR?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 08 Jul 2025 07:27:13 GMT",
+      "snippet": "olaxbt Price | AIO Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "olaxbt (AIO) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0xbnlLVTF0ODZXbENsWGZpMm1QTHRmcjNjaWllNVlFYnFocjUydEtfOHBaYkxScTQxOGpfZnpnT3gyMmpqYmxr?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 07 Jul 2025 11:41:36 GMT",
+      "snippet": "olaxbt (AIO) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "OLAXBT Price Today in India | AIO to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16NVQ3LTFDbFd3ZF91ejlXVDdLT0loR0ZmQWRLUkEyZ3M2WTZTS1A5Zlc2T3pHV2RQeFhlTXljaUhiU1FabHllUHhpSXJsMkJrdklWQQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 04 Aug 2025 22:03:32 GMT",
+      "snippet": "OLAXBT Price Today in India | AIO to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "olaxbt (AIO) Token Unlocks and Vesting: Schedule and Tokenomics - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PVE13VTkwTjdkc21HRGhja2xja3hiaGRlZ25TUzd0cW9VSEFpZ0RtRk1QNURwbF9sc2VhUHdPWEo2NFo4VEZUTGN4VGs0cDdtUkZFSw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 15 Jun 2026 02:18:30 GMT",
+      "snippet": "olaxbt (AIO) Token Unlocks and Vesting: Schedule and Tokenomics&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/all-in-one-wallet?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}
