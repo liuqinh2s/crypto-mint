@@ -1,0 +1,117 @@
+{
+  "token": "IPUSDT",
+  "requestedInput": "IPUSDT",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T05:12:25.111Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "IPUSDT",
+    "name": "unknown",
+    "generatedAt": "2026-06-26T05:12:17.855Z",
+    "summary": "IPUSDT是Binance Futures上的永续合约代币，近期因Binance宣布将于2026年6月28日下架该合约而受到关注。当前缺乏基础数据，无法判断上涨原因。下架事件为重大利空，建议回避。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若下架取消或出现重大利好，但当前无迹象。"
+    },
+    "catalysts": [
+      "下架前可能的投机性拉升（但风险极高）"
+    ],
+    "latestNews": [
+      {
+        "title": "Binance Futures Will Delist USDⓈ-Margined IPUSDT and IPUSDC Perpetual Contracts (2026-06-28)",
+        "impact": "利空",
+        "reason": "下架意味着交易对即将终止，流动性枯竭，持仓需平仓，价格可能暴跌。"
+      },
+      {
+        "title": "Binance Futures Will Launch USDⓈ-Margined IPUSDT Perpetual Contract With up to 25x Leverage",
+        "impact": "中性",
+        "reason": "历史新闻，2025年2月上线，现已过时，对当前无影响。"
+      }
+    ],
+    "fundamentals": [
+      "IPUSDT是Binance Futures上的永续合约，非现货代币，无实际项目支撑。",
+      "合约交易对即将下架，基本面极差。"
+    ],
+    "marketRead": [
+      "因Binance API限制，无法获取实时行情数据。",
+      "下架公告后，预计成交量萎缩，价格波动剧烈。"
+    ],
+    "risks": [
+      "合约下架风险：2026年6月28日下架后无法交易。",
+      "流动性风险：下架前流动性可能骤降，滑点巨大。",
+      "价格归零风险：下架后持仓自动结算，价格可能归零。",
+      "数据缺失风险：无法获取K线及24小时数据，分析受限。"
+    ],
+    "watchlist": [
+      "Binance官方关于下架的最新公告。",
+      "下架前持仓量变化。",
+      "是否有替代交易对上线。"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取市场数据。",
+      "新闻来源仅为Binance官方公告，无第三方验证。",
+      "代币名称IPUSDT可能为合约交易对，非独立项目代币。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "IPUSDTUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IPUSDTUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IPUSDTFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IPUSDTFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IPUSDTUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IPUSDTUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IPUSDTBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IPUSDTBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "Binance Futures Will Delist USDⓈ-Margined IPUSDT and IPUSDC Perpetual Contracts (2026-06-28) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMEhaMDczRy1sUl9HR3JpUE9JTkh1U2I3MGNPaGJOV1kyU3V5ZGp2N0ZpdkVqNG5qTFdSME10aU9ubDhpTHA5NG4zaXRyWll2eDBSQU9lU1dHU2FGTjlvcjlmejlfMEN5M2liMVczM0VfOXVQZFRVV2ZFMnBaaTZncXdhaGVoYkpIT24xUmZQY2M?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 25 Jun 2026 17:16:57 GMT",
+      "snippet": "Binance Futures Will Delist USDⓈ-Margined IPUSDT and IPUSDC Perpetual Contracts (2026-06-28)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Futures Will Launch USDⓈ-Margined IPUSDT Perpetual Contract With up to 25x Leverage - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmdzVWNyZ3VWZE4xTGEwSE1hZlZPNUpZMWNpQS1yRldSWFFOMHRpMDhGM1RlWnhlMnlOR0pNZGJyX0d1VTVJM3pzTC1ZcGF4M2hqVjhzazJVcHU4c2tKanNRdXh1em1rRGVBWU1aeHVYWV9OZjIxNVpXYnVob3lpSmFYUzJFVHpCUTVEaGJKWWk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 13 Feb 2025 08:00:00 GMT",
+      "snippet": "Binance Futures Will Launch USDⓈ-Margined IPUSDT Perpetual Contract With up to 25x Leverage&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

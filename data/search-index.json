@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-26T03:47:02.533Z",
+  "updatedAt": "2026-06-26T05:12:25.113Z",
   "results": [
+    {
+      "token": "IPUSDT",
+      "requestedInput": "IPUSDT",
+      "name": "unknown",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T05:12:25.111Z",
+      "latestPath": "data/results/IPUSDT-latest.json"
+    },
     {
       "token": "AIN",
       "requestedInput": "AIN",
@@ -939,15 +949,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-20T03:02:35.722Z",
       "latestPath": "data/results/CRWV-latest.json"
-    },
-    {
-      "token": "ARM",
-      "name": "unknown",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-20T03:02:32.289Z",
-      "latestPath": "data/results/ARM-latest.json"
     }
   ]
 }
