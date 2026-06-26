@@ -1,0 +1,320 @@
+{
+  "token": "ASTER",
+  "requestedInput": "ASTER",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T14:02:13.733Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ASTER",
+    "name": "Aster",
+    "generatedAt": "2026-06-26T14:02:01.806Z",
+    "summary": "ASTER近期因平台将99%费用用于回购销毁及转向质押排放模型等利好上涨，但价格已从高点大幅回落，当前市值约16.8亿美元，流动性极好。基本面扎实，但短期涨幅已部分兑现，需关注解锁压力和持续性。",
+    "rating": {
+      "score": 55,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 15,
+      "holdingPeriod": "1-2周",
+      "invalidation": "价格跌破0.6美元或回购计划执行不力、解锁量超预期"
+    },
+    "catalysts": [
+      "99%平台费用用于回购销毁ASTER",
+      "转向staking-only排放模型，月解锁量减少97%",
+      "多链支持（BNB Chain、Solana、Ethereum、Arbitrum）",
+      "与WLFI合作推出USD1永续合约市场"
+    ],
+    "latestNews": [
+      {
+        "title": "Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived",
+        "impact": "利好",
+        "reason": "回购销毁直接减少流通供应，但短期涨幅已回吐，说明市场情绪谨慎"
+      },
+      {
+        "title": "ASTER jumps 20% after Aster ties nearly all platform fees to token buybacks",
+        "impact": "利好",
+        "reason": "费用回购是长期通缩机制，但消息已消化"
+      },
+      {
+        "title": "Aster DEX Slashes Monthly Token Unlocks by 97% With Staking Switch",
+        "impact": "利好",
+        "reason": "大幅降低供应压力，增强持有信心"
+      },
+      {
+        "title": "Aster Expands WLFI Collaboration, Launches USD1-Denominated Perpetual Markets",
+        "impact": "利好",
+        "reason": "拓展法币稳定币交易对，增加平台收入来源"
+      }
+    ],
+    "fundamentals": [
+      "下一代去中心化永续合约交易所，支持高达100倍杠杆",
+      "由Astherus与APX Finance合并而来，APX可迁移至ASTER",
+      "支持简单模式（最高1001倍杠杆）和专业模式（订单簿、隐藏订单）",
+      "多链运行，无需桥接，流动性池共享",
+      "总供应量80亿，当前流通约26.77亿，FDV约49.1亿美元",
+      "市值排名#45，社区关注度高（7万+观察者）"
+    ],
+    "marketRead": [
+      "24小时涨幅5.48%，但7日涨幅仅0.08%，近期波动较大",
+      "链上流动性极好（58.8亿美元），但24小时交易量仅3.99美元（可能数据异常），需关注CEX交易量",
+      "价格从ATH 2.41美元下跌73.9%，当前0.628美元，处于低位",
+      "30日跌幅8.39%，近期有反弹迹象"
+    ],
+    "risks": [
+      "代币解锁压力：总供应量80亿，流通仅26.77亿，未来解锁可能带来抛压",
+      "回购计划执行风险：若费用收入不足或团队改变策略，利好可能消退",
+      "竞争激烈：永续合约DEX赛道拥挤（如dYdX、GMX、Hyperliquid）",
+      "短期涨幅已部分兑现，追高风险",
+      "链上交易量数据异常（24h仅3.99美元），需核实"
+    ],
+    "watchlist": [
+      "回购销毁实际执行情况（链上数据）",
+      "每月解锁量变化",
+      "平台交易量和费用收入趋势",
+      "CEX上线或做市商动态",
+      "整体市场情绪和BTC走势"
+    ],
+    "sourceNotes": [
+      "链上交易量数据可能不完整，建议参考CEX数据",
+      "新闻主要来自6月17-24日，时效性中等",
+      "基本面信息来自CoinGecko，可靠性较高"
+    ]
+  },
+  "profile": {
+    "id": "aster-2",
+    "symbol": "ASTER",
+    "name": "Aster",
+    "categories": [
+      "Decentralized Exchange (DEX)",
+      "Exchange-based Tokens",
+      "Decentralized Finance (DeFi)",
+      "BNB Chain Ecosystem",
+      "Perpetuals",
+      "Made in China"
+    ],
+    "homepage": [
+      "https://www.asterdex.com/en"
+    ],
+    "description": "Aster is a next-generation decentralized perpetual exchange that combines non-custodial trading with advanced features like hidden orders and multi-chain support. The platform emerged from the merger of Astherus and APX Finance in late 2024, with APX token holders able to migrate their holdings to ASTER. Aster addresses the gap between centralized and decentralized exchanges by enabling traders to maintain full control of their assets while accessing deep liquidity and CEX-grade trading tools. The platform supports trading of both cryptocurrency perpetuals and U.S. stocks with up to 100x leverage, all settled on-chain in crypto without requiring traditional financial infrastructure. The platform offers two distinct trading modes to accommodate different user needs. Simple Mode provides one-click, MEV-resistant trading with up to 1001x leverage for beginners, while Pro Mode delivers a full order book with advanced features like automated grid trading and hidden orders that remain invisible until execution. Aster operates across BNB Chain, Ethereum, Solana, and Arbitrum without requiring bridging, with liquidity pooled across markets to support large trades with minimal slippage. A d",
+    "marketCapRank": 45,
+    "currentPriceUsd": 0.628194,
+    "marketCapUsd": 1681274678,
+    "fullyDilutedValuationUsd": 4912222592,
+    "totalVolumeUsd": 88040066,
+    "priceChange24hPct": 5.4799,
+    "priceChange7dPct": 0.08245,
+    "priceChange14dPct": 0.02255,
+    "priceChange30dPct": -8.38749,
+    "athUsd": 2.41,
+    "athChangePct": -73.92017,
+    "circulatingSupply": 2677260279.249776,
+    "totalSupply": 7822218820.515041,
+    "maxSupply": 8000000000,
+    "sentimentVotesUpPct": 25,
+    "watchlistUsers": 70230,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "ASTER/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "4BGjj65Cgryr23vcDi4eQDZy9PqQ2BN6BFx8zVm3UL8j",
+    "pairUrl": "https://dexscreener.com/solana/4bgjj65cgryr23vcdi4eqdzy9pqq2bn6bfx8zvm3ul8j",
+    "lastPrice": 0.736,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 5887325535.49,
+    "fullyDilutedValuationUsd": 5888325591,
+    "marketCapUsd": 5888325591,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/4bgjj65cgryr23vcdi4eqdzy9pqq2bn6bfx8zvm3ul8j",
+    "pairAddress": "4BGjj65Cgryr23vcDi4eQDZy9PqQ2BN6BFx8zVm3UL8j",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "2rQKWNHfLqbA9BGm4VFPpyZf77JiYdTHmDKCkmu73FKn",
+      "name": "Aster",
+      "symbol": "ASTER"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.7360",
+    "priceUsd": "0.7360",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 5887325535.49,
+      "base": 7998633219,
+      "quote": 5950.008421
+    },
+    "fdv": 5888325591,
+    "marketCap": 5888325591,
+    "pairCreatedAt": 1768588294000
+  },
+  "news": [
+    {
+      "title": "Aster (ASTER) Drops 4.10% Amid Broad Market Selloff - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3VWNJYmFKNV8zaHFTZ2RNNWNXZS1YWHZub28xTE1iNy1RY3owckM5MG9CSkRkSHNxcjhjS2QyMlh4cTdhc21XNC1PNXBxY1VNT09Ia1gyTGRDbnBmY1E1bnQyUmJSNTcwak92ZUpNdGM?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 24 Jun 2026 17:40:00 GMT",
+      "snippet": "Aster (ASTER) Drops 4.10% Amid Broad Market Selloff&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWlYVS1DLUtDS3Z2RHZwTFp6cGxnRGJmOTlzWWI0M3FJTVIxejFXM0dQXzVQaW12RWtTdjIweHk4bXhlbVhGbjlBZ2tnN1RUU0J2SUpJSmxJcGNwelpHNmtGWTdoalhIVEJMczh2SlBlRlNVV3dmWHl0RlVxOGFLQ2pXb0ktNGljb3dIUmQ0SHdZOVhfRG5BSnFGZkZxdUdweE1mUXRIQ01fZUFCMXJIM3BIRkhheUZIdEdWSVRwYjBsNWRNdUE?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 18 Jun 2026 11:03:42 GMT",
+      "snippet": "Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "ASTER jumps 20% after Aster ties nearly all platform fees to token buybacks - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWS1QNFo1aWFOenNwdU5xdWhQMWFCLVZfMmZwSW5ZMGVuVGlwdEc4MWRmeWlFNWk0UHZUUXBwTEg1SHNmeEtzMk9HVEctZ3dEZjdvTVZrbEdkZnU1WC1KeG1lREgwMHNSYXJlV2E3bWFLM2NfSEVNcDNNa2pYV2NNXzA3QzUtXy1BaVYtTlRlc01lcjVhUzg3YXRkZw?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Wed, 17 Jun 2026 19:36:29 GMT",
+      "snippet": "ASTER jumps 20% after Aster ties nearly all platform fees to token buybacks&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Aster Expands its Token Buyback Program, Price Jumps 10% - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vMU9vMk5FSGdwODZCVzdKZk5nMWMtREVTak90MTBuUV9BUFZnQS1XbWZjRWw2NlN4VmlxeF81c0ltek1UUnFlUWJNTHlnbDJxMVdjWlFnTmlmcjQyX1MxRzhfMlNvZjcy?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Wed, 17 Jun 2026 12:22:00 GMT",
+      "snippet": "Aster Expands its Token Buyback Program, Price Jumps 10%&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived - LCX Exchange",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmk1ZHpDQ01HeGc5Z0NPNno2Nm9uN3lta3VKRVF4X0tnazR3RG1LaXVWVmtWVFRrLXF5X0VXaHk4a2VjV0R5ZVNYQ21ueXgxSGJVMGhpNlBTd3hJdktDX0ZyRU5hcHlIN3cyR0o0MlNRdzAwZUdVak02Qmo5NDRic0htY1BtalVjLU1xYjZVdWVVZnpqSEdqOVNjVzItb2pfLVY2MTFiZVd3S3FNZzNN?oc=5",
+      "source": "LCX Exchange",
+      "publishedAt": "Thu, 18 Jun 2026 13:42:27 GMT",
+      "snippet": "Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived&nbsp;&nbsp;LCX Exchange"
+    },
+    {
+      "title": "Aster Crypto Explodes: Buyback and Burn News Sends Hyperliquid Rival Up 10% - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nV1ZUYVpiTWdEY3ZEbzc3cW9HRFI4YVUtbkFxZEo0cXVqT2lBUF90akxna1k5UjI0LTlESXNpMHp2VjFERXlxT3dqdDZ2NUhwWWE4NEJXOWlXNEVwd0VOTG1neXJpcjJPTjVvcVRxbmY0TDhVMGNtTg?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "snippet": "Aster Crypto Explodes: Buyback and Burn News Sends Hyperliquid Rival Up 10%&nbsp;&nbsp;Cryptonews"
+    },
+    {
+      "title": "What Is Aster? Project, Token, Airdrop, Roadmap Explained - Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KMWhxMnlPSWtVOFdQdWpGSWVHajE0RnBfTDZPV0RwVGs1WnpOd1R5M1RneFpHMmo2RzU1dnh2UXN5MGlmd2wzaWFvR19zNEXSAU9BVV95cUxNSjFocTJ5T0lrVThXUHVqRkllR2oxNEZwX0w2T1dEcFRrNVp6TndUeTNUZ3haRzJqNkc1NXZ4dlFzeTBpZndsM2lhb0dfczRF?oc=5",
+      "source": "Ventureburn",
+      "publishedAt": "Sun, 21 Jun 2026 17:08:26 GMT",
+      "snippet": "What Is Aster? Project, Token, Airdrop, Roadmap Explained&nbsp;&nbsp;Ventureburn"
+    },
+    {
+      "title": "ASTER Flies 23% After DEX Redirects 99% Fees to Token Buybacks - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmQzZnY3TTJQUjVMa1lzbmZDMUE5cFZtMS02TVlITUJnRzBzODBuYkR5cV9PbndEQVAwRjhDVHU1UWVyT18wVGR4XzQ1d2tzM05kejZrSTlQTGcwYl9JOGthNDVMWk1JTTNwT1ZfX181WFZKTzJkQTNIZjB4RkNiRTJ3ekZoS3lGdE54c1hzSVVXMlNVelVEc2JIUndOU0k?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 18 Jun 2026 21:58:34 GMT",
+      "snippet": "ASTER Flies 23% After DEX Redirects 99% Fees to Token Buybacks&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Aster Expands WLFI Collaboration, Launches USD1-Denominated Perpetual Markets - Chainwire",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMVFBRkx6YmdBNkg5TGgyZ3JWRkMtYUFJM0h6U1EwbTBJMnVmN1ZxY3R5V0dBZW1NM2MzbXdnQ2VVVG5WeGhxRXd4Ti1SYUR6RDloYVBsN2JVdExvVEhrVjNrNHZta1N5Rk1Gc0R0bFRIYjZDVzdxM0ZSQ283VFVpbnlEQmZ5N0IzOGhWQWlWOGV1QmJBM1dZQ2gtRE5uclhET0RCT1gwTXRZMlBWUVl3?oc=5",
+      "source": "Chainwire",
+      "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "snippet": "Aster Expands WLFI Collaboration, Launches USD1-Denominated Perpetual Markets&nbsp;&nbsp;Chainwire"
+    },
+    {
+      "title": "Aster Crypto Staking Goes Live: ASTER Price to $1.20? - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnpKRkR2YjA4RWlYZFR1Rk1JaFMwc1B4VXFGbTc2TmFDR1VHZXk2bExONURaMGI3WENHbWhVaGMzWkJ6MGZYRXI2SjJrM2NNN2hkcmw2cWdSYk5kSmhBbVVhcXBFbFQtalRjVFhtVmZpVERpSG1xSXIwWmVteS04MDVNakc5U2R6WWxj?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "snippet": "Aster Crypto Staking Goes Live: ASTER Price to $1.20?&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Aster Price Prediction 2026–2031: Will ASTER Reach $0.73 in Feb 2026? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZmgtWHVXTVE4cUF6OWJKdkdPTDBBUjFEa1BRZkdRMktIem40dG1VZjVjSGRHMGJRZ3RWNzFuRlRJLWpfNFhheE1WTUpScm91Q196US1XWHFaTTVKVmFKS2piOFF2REM1LWQtWEpfNEtuajlO?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "Aster Price Prediction 2026–2031: Will ASTER Reach $0.73 in Feb 2026?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "How to sell AsterDEX (ASTER) via a crypto wallet - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rZjZFNm9YaEwtbmtjUmpyT3NqMnpCNXJLTGM0SWNmRHdqNnZxR3BsLUF2QWVXTUxCaVZsaktTMW9sZm5KenYwT0U3ZF9BcEJ6dl9zRldmeTB4WEtMcWYw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 18 Sep 2025 20:59:29 GMT",
+      "snippet": "How to sell AsterDEX (ASTER) via a crypto wallet&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Introducing ASTARI: The First Community Meme for the Aster Ecosystem! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wOU54Qkp2RTZaSU12R1BlQXczdVRLaWRpT3FNcjA4cnVpcXEyenVnNllfQ1BRaC1KcHlsdS1MSExYOExrUEE3N2xkejhrUEwzNTNVdlcxRE9Sc1VUR1FnNWtuRQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 19 Sep 2025 07:00:00 GMT",
+      "snippet": "Introducing ASTARI: The First Community Meme for the Aster Ecosystem!&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Aster DEX Slashes Monthly Token Unlocks by 97% With Staking Switch - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2F1blBfbG81YnlFNTFHdTN1SFhJbDlaRktLQ2RpZV93V2dlZ1JmVGdQWVlaTmxkVlE3MXowMUk4Y1QwRTRZRExmVGdib0RKekRDZlMyWVVjem40OUF3UTh3eXhaYWlvZndPRU5HVTVUS2RWZm5qUlZkckQwNGtmaUJWYUVRdFpqS29WQmNrY0xlYmxGTHkyWVdQTjFiWFZrTjN1Yjd3c29RYjFJTkxFUmF1Q3g?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sat, 20 Jun 2026 14:38:49 GMT",
+      "snippet": "Aster DEX Slashes Monthly Token Unlocks by 97% With Staking Switch&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Aster perps DEX switches to staking-only token emission model, reducing monthly unlocks by 97% - The Block",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHlmQlFBUm56eTFBRG94U1JoWjJVcXdJQmdXMDJSbVdZUGxMczFlMVA5WTZSQTE1cl9rZmVLOUNlZExrS1lZUWptbWJ4R2IyM0hQeDVvR1hrU2RrQkdUSjZDbmtNdDF4YXRlYUNjR0hXMXk2cm40RER6b09DS21wNDBlSFF2WkY3LUpNY3ctRk8tTlgx?oc=5",
+      "source": "The Block",
+      "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "snippet": "Aster perps DEX switches to staking-only token emission model, reducing monthly unlocks by 97%&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Essential Guide: Aster’s Phase 4 Airdrop Concludes December 21 – Claim Your Tokens - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zdXpHV0lXMUk1Q2tOaWhyWFIyUEdObmF3czFLbUxOejRoeGc1ZWphOF9mWG9PSmJnQXBPNWk4TVp1NWNxNHRDSjRzRTh5MUpBNkt2eXZHVDhRSjVtTV9sazN6MjB5Rk9PaGZZcGRjM1RvYmFYUmszcw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "snippet": "Essential Guide: Aster’s Phase 4 Airdrop Concludes December 21 – Claim Your Tokens&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

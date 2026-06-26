@@ -1,0 +1,300 @@
+{
+  "token": "JASMY",
+  "requestedInput": "JASMY",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T14:02:11.026Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "JASMY",
+    "name": "JasmyCoin",
+    "generatedAt": "2026-06-26T14:02:01.620Z",
+    "summary": "JASMY 24小时涨幅9%，但链上流动性极低（仅43美元），实际交易几乎为零。基本面为日本物联网项目，概念尚可但无近期实质催化。新闻多为旧闻或预测，缺乏新利好。当前上涨可能为少数交易行为或数据异常，不建议参与。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现重大合作或交易所上线等真实利好，且链上流动性显著改善。"
+    },
+    "catalysts": [
+      "无近期明确催化，旧闻提及Jasmy生态代币JCT上线Binance（2025年11月），但已过时。"
+    ],
+    "latestNews": [
+      {
+        "title": "JasmyCoin Price Today in India | JASMY to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格展示，无实质内容。"
+      },
+      {
+        "title": "Discover Jasmy’s 2026 Boom: Is “Japan’s Bitcoin” Your Next Big Win? - Phemex",
+        "impact": "中性",
+        "reason": "推广性质文章，发布于2026年5月，无新信息。"
+      },
+      {
+        "title": "JasmyCoin Price Prediction 2026, 2027 – 2030: Is JASMY a Good Long-Term Investment? - Coinpedia",
+        "impact": "中性",
+        "reason": "预测类文章，非事实性利好。"
+      }
+    ],
+    "fundamentals": [
+      "基于ERC-20的日本物联网项目，定位数据安全和设备身份验证。",
+      "总供应量500亿，流通约494.45亿，接近全流通。",
+      "市值2.31亿美元，排名148，但链上流动性极低（43美元）。",
+      "历史最高价4.79美元，当前跌超99.9%。"
+    ],
+    "marketRead": [
+      "24小时涨幅9%，但链上交易量为0，流动性仅43美元，价格可能失真。",
+      "无K线数据，无法分析趋势。",
+      "CoinMarketCap显示24小时成交量1578万美元，但链上数据矛盾，可能为CEX交易量。"
+    ],
+    "risks": [
+      "链上流动性极低，存在操纵风险。",
+      "无近期实质利好，上涨缺乏支撑。",
+      "历史跌幅巨大，市场信心不足。",
+      "新闻多为旧闻或预测，无新催化。"
+    ],
+    "watchlist": [
+      "关注Jasmy官方公告或重大合作。",
+      "观察链上流动性是否改善。",
+      "监控CEX成交量变化。"
+    ],
+    "sourceNotes": [
+      "链上数据来自XRPL DEX，流动性极低，价格参考意义有限。",
+      "新闻来源多为聚合站，时效性差。",
+      "CoinMarketCap数据与链上数据存在差异，需谨慎。"
+    ]
+  },
+  "profile": {
+    "id": "jasmycoin",
+    "symbol": "JASMY",
+    "name": "JasmyCoin",
+    "categories": [
+      "Internet of Things (IOT)",
+      "Ethereum Ecosystem",
+      "DePIN",
+      "DWF Labs Portfolio",
+      "Coinbase 50 Index"
+    ],
+    "homepage": [
+      "https://www.jasmy.co.jp/"
+    ],
+    "description": "JasmyCoin is based on the ERC 20 standard. The token can also be used by an unspecified number of individuals and businesses to transfer tokens using digital devices as proof of value exchange or payment for services. By not limiting its usability, the token can have a wide range of purposes.",
+    "marketCapRank": 148,
+    "currentPriceUsd": 0.00468026,
+    "marketCapUsd": 231270615,
+    "fullyDilutedValuationUsd": 233866535,
+    "totalVolumeUsd": 15786196,
+    "priceChange24hPct": 9.0635,
+    "priceChange7dPct": -3.76426,
+    "priceChange14dPct": 0.90184,
+    "priceChange30dPct": -13.49792,
+    "athUsd": 4.79,
+    "athChangePct": -99.90236,
+    "circulatingSupply": 49444999677.59027,
+    "totalSupply": 50000000000,
+    "maxSupply": 50000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 89492,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "xrpl",
+    "pair": "JASMY/XRP",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "4A41534D59000000000000000000000000000000.rGW3bTYgSNZYdYnsgLHLSErLmBuT41C8u1_XRP",
+    "pairUrl": "https://dexscreener.com/xrpl/4a41534d59000000000000000000000000000000.rgw3btygsnzydynsglhlserlmbut41c8u1_xrp",
+    "lastPrice": 0.000002412,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 43.17,
+    "fullyDilutedValuationUsd": 241,
+    "marketCapUsd": 241,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "url": "https://dexscreener.com/xrpl/4a41534d59000000000000000000000000000000.rgw3btygsnzydynsglhlserlmbut41c8u1_xrp",
+    "pairAddress": "4A41534D59000000000000000000000000000000.rGW3bTYgSNZYdYnsgLHLSErLmBuT41C8u1_XRP",
+    "baseToken": {
+      "address": "4A41534D59000000000000000000000000000000.rGW3bTYgSNZYdYnsgLHLSErLmBuT41C8u1",
+      "name": "JASMY",
+      "symbol": "JASMY"
+    },
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "priceNative": "0.000002309",
+    "priceUsd": "0.000002412",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 43.17,
+      "base": 8947486,
+      "quote": 20.6649
+    },
+    "fdv": 241,
+    "marketCap": 241,
+    "pairCreatedAt": 1755820500000
+  },
+  "news": [
+    {
+      "title": "JasmyCoin Price Today in India | JASMY to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nYXZzV3hwazdEM2NiYTB1UE1ZeGpDUFBpNzRpRlF6bVNBSlVIenByczNVdnR5bzJmRzZGOFRRaUR5Ykd2SEV4UDFvek5XbWZWVkZN?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 23 Jun 2026 21:07:00 GMT",
+      "snippet": "JasmyCoin Price Today in India | JASMY to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Discover Jasmy’s 2026 Boom: Is “Japan’s Bitcoin” Your Next Big Win? - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42dlVCM09nTWNVX0xkYXItTmRWQ296RGwxS1RXMUNHbVNfaWhaX19kb1lGalgtTG5nRy1UUWt2TmxqcFpOR3ZzazJ2d1cyV0VpUjk0cjZDVl93WVl1aDBNVzcyM2FNc1Vk?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
+      "snippet": "Discover Jasmy’s 2026 Boom: Is “Japan’s Bitcoin” Your Next Big Win?&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "JasmyCoin Price Prediction 2026, 2027 – 2030: Is JASMY a Good Long-Term Investment? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTT1MweEJPd252dG9Va29GRDlTcWU2cXdqZ3BINkt5cW5NLU1MY0Zrek5sbUwtNThkamptbVRMd0ttYWROcjY5d2lWZkZiVUVaTlJSdmJKZW5ueURwT1BtX3hWeGI5cFV5NmROeWh3YlVHN3JMNWw0WXNZUDXSAYIBQVVfeXFMTlFCcHlQNnBmNTF3OE1iSFBtcmduY0NwMWRvbmctUTFrTlEwMktJNXppZ2U1WWMxTUdsTzFvXzl5Mm5RVnVyMEJFdjhZbTNseU5uY0V4R0tVTGNJb3FJSlB0czFvbDdKalRfU3dxRjd3aGRhckVVTUVMNVN6bnQySm5PUQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "snippet": "JasmyCoin Price Prediction 2026, 2027 – 2030: Is JASMY a Good Long-Term Investment?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Momentum Builds for JasmyCoin (JASMY): Can It Conquer Major Resistance? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzhnd0pLOEZBRjBTRFhRS1kwYi02cVU1LUhlWkdHTUxLbGdPOUU3T1NBTVF0X01Na3JNYUlwTFlhdU8yM2hOdlpPd2dtbXVPd0dBbk4wcTlWNzc3SExCX0xFNTVPODczd0lNb2p2MmI5U2t3SVhsUmNrdWk5eEVySkJxSUppVGhmUFk2R3N0ZWRPM0JKMGRlUG9QbDJtcnNnZ29CNl94R2w?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "snippet": "Momentum Builds for JasmyCoin (JASMY): Can It Conquer Major Resistance?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "JasmyCoin Price Prediction 2026, 2027 – 2030: Is JASMY a Good Long-Term Investment? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfcTJLbEV1Tm9pYjNrOFhjSy1IX191Z2VNTDN3NmZUN3FYR05OMUJxUXJaR0c5RldtWFFvM0plRDZpbVlicVp2ek8tX0N6NVRZZ2tJZEFqajJsWFlFTHfSAWNBVV95cUxQODZlZE56YU44RWZzU2lDUUlVWFdiOTRYVWVQVGZHazFXcXNHd196MDBVWmFERGVrb2FFWHJDYUNhcmFBaGhmUG5mSXJFajBOQVhMYlYzaklyN01ySGtVdS1qdUU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "snippet": "JasmyCoin Price Prediction 2026, 2027 – 2030: Is JASMY a Good Long-Term Investment?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Who owns JasmyCoin? Top 10 JASMY holders - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVXZjeDNyTUlqVktnRlBoN0xacGFNTUZWeWl2MHU5M0xVdG5KZk5Ia0gtY011X2txb19hazZVM1FCa2pfcUZDTzlQdmZIUkhfaVByb2xwMHZ3LVRPUkdQWVUzd2ticldyVm1NTlRsYk1IM1NmRFhKNURZWktuVUxBTVpYMA?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Wed, 19 Nov 2025 08:00:00 GMT",
+      "snippet": "Who owns JasmyCoin? Top 10 JASMY holders&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "Jasmy Coin Price Prediction: Here’s Why Japan’s Bitcoin is Rising - BanklessTimes",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZnEtU2wzVEU3RWNSZW1lX2ZRb2l3Tnd4bGpoUE5tRUljQXMwOFlxUWhqNWxuZExxOXR5dWxGRThISkZ3SnRkQkplbnJJLThCYjhHS2xwRFR4YldVcE8xamdJdWwyMlhtZnNvM0d5QVpaR3VvREJLd3Q5VWxSaW5oR2ZaSGY4TzFycXJwZDAtSmVfUEpTalJ6RHRTRUZacEFmSGxmX1lhUFQ4ZGxIQldNT1B3QQ?oc=5",
+      "source": "BanklessTimes",
+      "publishedAt": "Fri, 09 Jan 2026 08:00:00 GMT",
+      "snippet": "Jasmy Coin Price Prediction: Here’s Why Japan’s Bitcoin is Rising&nbsp;&nbsp;BanklessTimes"
+    },
+    {
+      "title": "JASMY Coin Price Prediction: Will JASMY Coin Hit $1? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ER01oN29yMkk0WnBzVEx4UGpmNkZJVnd3SlBKblZndnRwU2VCQXgzdTM0SmRHVnFPdnpJYVRnMU00SFFqMmVNZzVMV2hHTUprZV92M3p5b0JoT3hDYkVfTnkxODE?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Thu, 18 Sep 2025 07:00:00 GMT",
+      "snippet": "JASMY Coin Price Prediction: Will JASMY Coin Hit $1?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "JasmyCoin (JASMY) Price Prediction 2026, 2027 and 2030: Is JASMY Headed to $0.1? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PLTNYTWp6ak41Q3prWlF1a1FuQU5EdFJld1JNZ0tRSHFiVE5JdENfVE8xU09NaU5NSGt0WnBqZE8xSjNheWwxRWMybVRSaTY3cDdORlZ5VldwaXdYTGfSAWNBVV95cUxNb2hJbDRaeXBhM2c4ajBJNGtMRW41VWtGQm8yYmJmbGRCTkFOS2VHLTZmX0xjZEM3MnZjMExMUzBEdEJJV2tVeXF3Slp6MjNheUJTWWRiUlNlcFVkM1lRVElDaVk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "snippet": "JasmyCoin (JASMY) Price Prediction 2026, 2027 and 2030: Is JASMY Headed to $0.1?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "JasmyCoin (JASMY) Price Prediction: Will It Reach the $1 Mark? - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rTXRxUGI5ZHoxOGdVZkdaQ2dlTTVQVzg5TjBMeHRIUUMxd0xNWEs3X2RRQkpKSU9iWnhDUHBSME1KSGt3X0xnbw?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Thu, 07 May 2026 07:00:00 GMT",
+      "snippet": "JasmyCoin (JASMY) Price Prediction: Will It Reach the $1 Mark?&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Binance Adds Janction’s JCT Token, Linked to Jasmy Ecosystem - Coinfomania",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeS01TVRqZU1ZcDJTR0tGYUFxTGZuc1oxN0I5WFBrdlQ0QW5yNWpFYWRFOGxqQUdrOHpGeFp1V0lBVk9wc0ZiY1R6MERyNW1ZMEs3emNaTzBtSC1GNXRxNV9CNHdtYjNfRHVoSER3bXNSeUVrUDNOZmNqbnVtSllVeUhkWGZPY3FWcUQ4?oc=5",
+      "source": "Coinfomania",
+      "publishedAt": "Sat, 08 Nov 2025 08:00:00 GMT",
+      "snippet": "Binance Adds Janction’s JCT Token, Linked to Jasmy Ecosystem&nbsp;&nbsp;Coinfomania"
+    },
+    {
+      "title": "JasmyCoin price today, JASMY to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CNFNNSzhEN2VOV3VCbnVQMHhOLUVnZW5rSk1VMTEzSkYwVElkSW1ZcnZyMG9STWlzWnlPelZCSUtnWGtnYnc1VUtUdXJNTi1sVHI3ZnJB?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 11 Feb 2021 03:58:43 GMT",
+      "snippet": "JasmyCoin price today, JASMY to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Crypto market’s weekly winners and losers – POL, JASMY, NIGHT, ZEC - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1laVp3NnAyYWZvakR0cjlEaUdMYW1jVnFZUnh3b3B0dW9xYjZIVnFFMEZnbTdJb0NwaDFZQ2VDbTU1NURha25XVXJYenMtMEp6cV8zTFNKSGZDeUVIb0HSAWNBVV95cUxNOUtfbUxQQ2hCSUFUQ3YyQ1JyZ05XTy1abVFfT2FwZ2dRbU44N3J0a2VkZjRXZ2x1Wi1LU0RabVBvbWwwVWhyU3A2UnEyYlQ4b2NrTkF1ZHFVVHExdFhkWlNrYTg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 11 Jan 2026 08:00:00 GMT",
+      "snippet": "Crypto market’s weekly winners and losers – POL, JASMY, NIGHT, ZEC&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "JasmyCoin's Breakout Potential in a Resurging Altcoin Cycle - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44VTFLTTd1WFpXWlRLVVBBVVlab3dHTjZKMWU4d1BycDktczA4WjU3YWRSOEtrSHZoZlE2cnMyblh0bHZFZU1xSFZidGpDTWJmQldkQkw3UXBxcElGM2fSAWNBVV95cUxPTUNuaVZwU1VIRnpIeG4yVnBaUXQwVnNwZG1hSU15VEtONmp5Z3d3WjdaZDlSWXc2Q3dVNUkzY1FhZWVjQ1hFZk9IRFpKenU3Tmk1VXcyTjRwVGRkV1MwYm5BbVU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 27 Aug 2025 07:00:00 GMT",
+      "snippet": "JasmyCoin's Breakout Potential in a Resurging Altcoin Cycle&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Altcoins DOGE and JASMY Show Strong Bullish Indicators, Hinting at Major Price Pumps Soon - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtcGpZVmlZVWJldkV1dURFZ2hSQVp5eWdpcWJyM0dxRVdkYUxrdEFxMGVoTlF3eHhab1VaUWhBb05FNkdSYkszMXRDV0JUVVhXZXdVdlk4RGI5WXZ4S2fSAWNBVV95cUxOMzVBRS1FV2dCV3B4ZjRSNXdEWTZsbTk3dURvcnRYazZXZW5rWmJIZTRaTGRLQ3BtZVVQUHplMHIyWnhVNFNpWFJLR0RfRVkwZ3p4aW1PLUVLS3dJR2Jpc011OVU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "snippet": "Altcoins DOGE and JASMY Show Strong Bullish Indicators, Hinting at Major Price Pumps Soon&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Best 3 Budget-Friendly Cryptos for High Returns — FLOKI, JASMY, and GALA - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03SVdTN3FQMkhjUFlHV2Mzd19iNU4wR3cyNmRxQnhiTTN2bGRVc0tYdGMwdmZ2aGZfS3ZrWVNIZmRWMFVjMkFVZ1d2UUEwY05oRThLeE5xQUlIZDc3UFHSAWNBVV95cUxPV1otQXZzWi1QTGJ5WXZUV0RHS1JNaDNTdzVOelFRalZmSk1JX29LenNWSXZHNElmV3J2b21JcEtIZ2pScjdDME9NQlU3ZGRlWUpBbklNenpwZDhoZmdpVUN6WlE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 09 May 2026 07:00:00 GMT",
+      "snippet": "Best 3 Budget-Friendly Cryptos for High Returns — FLOKI, JASMY, and GALA&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

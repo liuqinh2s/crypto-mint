@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-06-26T13:47:18.677Z",
+  "updatedAt": "2026-06-26T14:02:26.409Z",
   "results": [
+    {
+      "token": "JASMY",
+      "requestedInput": "JASMY",
+      "name": "JasmyCoin",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:02:11.026Z",
+      "latestPath": "data/results/JASMY-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
+      "name": "VelodromeV2",
       "score": 30,
       "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T13:47:14.314Z",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:02:08.235Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "ACX",
+      "requestedInput": "ACX",
+      "name": "Across Protocol",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T14:02:14.103Z",
+      "latestPath": "data/results/ACX-latest.json"
+    },
+    {
+      "token": "ASTER",
+      "requestedInput": "ASTER",
+      "name": "Aster",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-26T14:02:13.733Z",
+      "latestPath": "data/results/ASTER-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:02:15.057Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "ETN",
+      "requestedInput": "ETN",
+      "name": "Electroneum",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:02:24.709Z",
+      "latestPath": "data/results/ETN-latest.json"
+    },
+    {
+      "token": "CARV",
+      "requestedInput": "CARV",
+      "name": "CARV",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:02:26.407Z",
+      "latestPath": "data/results/CARV-latest.json"
     },
     {
       "token": "AIN",
@@ -70,16 +130,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T13:32:11.483Z",
       "latestPath": "data/results/HYPER-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T13:32:06.080Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "HUMA",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T08:47:59.571Z",
       "latestPath": "data/results/ETHFI-latest.json"
-    },
-    {
-      "token": "DFEN",
-      "requestedInput": "DFEN",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:55.885Z",
-      "latestPath": "data/results/DFEN-latest.json"
-    },
-    {
-      "token": "KMNO",
-      "requestedInput": "KMNO",
-      "name": "Kamino Finance",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:48:03.494Z",
-      "latestPath": "data/results/KMNO-latest.json"
-    },
-    {
-      "token": "SNDK",
-      "requestedInput": "SNDK",
-      "name": "SanDisk",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:48:04.808Z",
-      "latestPath": "data/results/SNDK-latest.json"
-    },
-    {
-      "token": "LLY",
-      "requestedInput": "LLY",
-      "name": "Eli Lily",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:48:06.495Z",
-      "latestPath": "data/results/LLY-latest.json"
-    },
-    {
-      "token": "1000RATS",
-      "requestedInput": "1000RATS",
-      "name": "Ordinals RATS",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:48:06.364Z",
-      "latestPath": "data/results/1000RATS-latest.json"
     }
   ]
 }

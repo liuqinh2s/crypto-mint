@@ -1,0 +1,297 @@
+{
+  "token": "ACX",
+  "requestedInput": "ACX",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T14:02:14.103Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ACX",
+    "name": "Across Protocol",
+    "generatedAt": "2026-06-26T14:02:01.595Z",
+    "summary": "ACX因Across Protocol提议将DAO转为私人公司并允许代币换股权，消息发布后价格大幅上涨。当前链上流动性极高但交易量极低，存在操纵风险。基本面有Paradigm等机构支持，但代币全流通且估值较高。短期情绪驱动，追高风险大。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若提案未通过或价格跌破0.15美元，则上涨逻辑失效。"
+    },
+    "catalysts": [
+      "Across Protocol提议将DAO转为私人公司，允许ACX持有者按比例交换股权",
+      "Paradigm等顶级机构投资背景",
+      "Binance等主流交易所上线"
+    ],
+    "latestNews": [
+      {
+        "title": "Paradigm-backed Across Protocol explores letting ACX holders exchange tokens for equity - The Block",
+        "impact": "利好",
+        "reason": "代币换股权提案直接刺激需求，市场预期代币价值与公司股权挂钩。"
+      },
+      {
+        "title": "ACX price gains 85% as Across Protocol proposes token-to-equity conversion - crypto.news",
+        "impact": "利好",
+        "reason": "价格大幅上涨反映市场积极反应。"
+      },
+      {
+        "title": "Across Protocol Proposes Shift From DAO to Private Company - thedefiant.io",
+        "impact": "利好",
+        "reason": "治理结构转变可能提升决策效率，吸引传统投资者。"
+      },
+      {
+        "title": "Across's acx rockets 80%, massively beating bitcoin, on plans to dump its DAO structure - CoinDesk",
+        "impact": "利好",
+        "reason": "媒体报道推动市场情绪。"
+      },
+      {
+        "title": "Across Protocol (ACX) Price Prediction 2026–2030: Governance Overhaul And Bridge Adoption Eyes $1 - CryptoRank",
+        "impact": "中性",
+        "reason": "价格预测基于假设，不确定性高。"
+      }
+    ],
+    "fundamentals": [
+      "Across Protocol是乐观跨链桥，使用UMA的乐观预言机，主打资本效率和无滑点费用模型。",
+      "2025年3月Paradigm领投4100万美元代币轮融资。",
+      "代币总供应量10亿，全流通，当前流通量约7.05亿。",
+      "Binance已于2024年12月上线ACX并标注Seed Tag。"
+    ],
+    "marketRead": [
+      "链上价格0.171美元，24小时仅微跌0.02%，但交易量仅约4美元，流动性高达1.7亿美元，流动性/交易量比极高，价格容易被操纵。",
+      "消息发布后价格从0.04美元附近涨至0.17美元，涨幅超300%，但当前交易量极低，可能缺乏真实买盘支撑。",
+      "全稀释估值约1.71亿美元，对应市值为1.71亿美元（全流通），估值偏高。"
+    ],
+    "risks": [
+      "提案尚处于探索阶段，能否通过存在不确定性。",
+      "链上交易量极低，价格容易被少数交易者操纵，实际流动性可能远低于显示值。",
+      "代币全流通，无解锁压力，但估值已较高，上涨空间有限。",
+      "跨链桥赛道竞争激烈，Across协议实际采用情况需验证。",
+      "新闻热度可能快速消退，价格存在回调风险。"
+    ],
+    "watchlist": [
+      "提案进展：是否正式投票及通过。",
+      "链上交易量是否回升，验证真实需求。",
+      "ACX在中心化交易所（如Binance）的价格和成交量。",
+      "Across协议跨链交易量数据。"
+    ],
+    "sourceNotes": [
+      "链上数据来自Meteora DEX，流动性数据可能包含LP代币，实际可交易流动性需谨慎评估。",
+      "新闻主要来自2026年3月，当前为2026年6月，消息已过时，价格已提前反应。",
+      "无近期链上蜡烛图数据，无法分析价格趋势。"
+    ]
+  },
+  "profile": {
+    "id": "across-protocol",
+    "symbol": "ACX",
+    "name": "Across Protocol",
+    "categories": [
+      "Polygon Ecosystem",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Optimism Ecosystem",
+      "Bridge Governance Tokens",
+      "Cross-chain Communication",
+      "Intent",
+      "Boba Network Ecosystem",
+      "Blockchain Capital Portfolio",
+      "Made in USA"
+    ],
+    "homepage": [
+      "https://across.to/"
+    ],
+    "description": "Across is an optimistic cross-chain bridge secured by UMA’s optimistic oracle. It is optimized for capital efficiency with a single liquidity pool, a competitive relayer landscape, and a no-slippage fee model. ",
+    "marketCapRank": 638,
+    "currentPriceUsd": 0.0415749,
+    "marketCapUsd": 29258258,
+    "fullyDilutedValuationUsd": 41521240,
+    "totalVolumeUsd": 3227351,
+    "priceChange24hPct": 7.38944,
+    "priceChange7dPct": 3.72526,
+    "priceChange14dPct": -2.26351,
+    "priceChange30dPct": -2.38017,
+    "athUsd": 1.69,
+    "athChangePct": -97.5423,
+    "circulatingSupply": 704657633,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 7862,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "ACX/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "AtXTDBkdtkipLdyKm3fNZ3o9j15HLdxtcip63nfBdQqp",
+    "pairUrl": "https://dexscreener.com/solana/atxtdbkdtkipldykm3fnz3o9j15hldxtcip63nfbdqqp",
+    "lastPrice": 0.171,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 170034037.92,
+    "fullyDilutedValuationUsd": 171034010,
+    "marketCapUsd": 171034010,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/atxtdbkdtkipldykm3fnz3o9j15hldxtcip63nfbdqqp",
+    "pairAddress": "AtXTDBkdtkipLdyKm3fNZ3o9j15HLdxtcip63nfBdQqp",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "6GkQFxNTGdn2sbHbiH9LxfifC4YDfmiW9QY8zxre4gsJ",
+      "name": "Across Protocol",
+      "symbol": "ACX"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.1710",
+    "priceUsd": "0.1710",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 3.99,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -0.02,
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 170034037.92,
+      "base": 994153307,
+      "quote": 11.3121
+    },
+    "fdv": 171034010,
+    "marketCap": 171034010,
+    "pairCreatedAt": 1755516446000
+  },
+  "news": [
+    {
+      "title": "Paradigm-backed Across Protocol explores letting ACX holders exchange tokens for equity - The Block",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNUVhcUxoSUhkSmM1eFpxVnAyUGxGMjNzZTlCSnB3d29zOTJxVzNaV1FWSVkzY1dfdDlTSmZnMy14LXV0Q2Uwa1JibDdEc0hrZTk3UHBTSjhBOVg3RHJYYmluc1BRZDkyMDI2dHUxal9RMHVmcTdCVzdXYVNCMVlwaTBHMXBTX2xtODVYenpyQkMtLUlqTENaQQ?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "snippet": "Paradigm-backed Across Protocol explores letting ACX holders exchange tokens for equity&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "ACX price gains 85% as Across Protocol proposes token-to-equity conversion - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSWjM1dHFPWjFUMVNFMzZHZWd6emlvRTVRWi1PRXZXbDlwMko1RjdVcUk1dkZRUXlNdmYtdUpmcGl4bXYwUTNmSGJmXzJOZFZCWDFSUVpCWnZobXJxYkxtRmJaMXZIdHNyZ2QzbURfelRXVkdOcDNlTm8waGJKZw?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "snippet": "ACX price gains 85% as Across Protocol proposes token-to-equity conversion&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Across Protocol (ACX) Price Prediction 2026–2030: Governance Overhaul And Bridge Adoption Eyes $1 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVW5DSE92SmtUa09ETkZRSkxWYkd3WlBLRFhPZTZvQ19xUmxyamVEdk5jYVpWdDB6NEFNdHhKbmVQMG9ZN2FiTVRRU3RSUW96czZfUkVqc0ZDM3hsXzB4MjFqRHpXeVdUZXRReFZQWVV4MFpId3VmVVU4T1JlR3JaVTlLczJQSk41bXc4LQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "snippet": "Across Protocol (ACX) Price Prediction 2026–2030: Governance Overhaul And Bridge Adoption Eyes $1&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Across Protocol Proposes Shift From DAO to Private Company - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORnduMlZDbndkZ25FN1FxaFV4N00wX3U4RHpLSXA5TEhOVEVLRjZScWtHX0dHTUI3cEIxRUctSzlpQ2F4ejNrMEFJdW1MX09XZDJTT0NFZ0gxQlBvMjJoYXpPQlZ1VU9ZT3VDaVZrb1p3RGlFY0hqNmpjNHc1NmpLNHRhSUtUcEZMekZ3d1hDaDRDR01N?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "snippet": "Across Protocol Proposes Shift From DAO to Private Company&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Across's acx rockets 80%, massively beating bitcoin, on plans to dump its DAO structure - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOalV0WXJmaTNVWnNzejJhSDNyT0djZ0Z0MlJhMWxudDZvcENndUdCaEt2TFhIODF2eUVwMnZiLTNWa2lNTHprVENDWmRPMnFNVlRlVzlzeUo1NFdYRGVVVnA3RWNWalJVdWdtaGQtZS03U2FlMFUwNE9OQ3Q3RVZ4TjBha3h2OVgxSkJaY0wwc0ttRnRwLVQ1emlyQ3Z0LWk2NnJLMlZLOG1CcVRwNE5fSHRHZGl2eWNOaFR3SlpwR3NKcWhVYWo0?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "snippet": "Across's acx rockets 80%, massively beating bitcoin, on plans to dump its DAO structure&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Across Protocol (ACX) Price Prediction 2026–2030: Governance Overhaul And Bridge Adoption Eyes $1 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tQ2tnaDZmX1kyZVZNMFJtMzk5aTJOc2x4bEVXM1ZqWWJQdkVtWVdPUm5kR3J0VGc0cFF1ZE5iNXQ3MzNsN1NPVnNia3l6bHZ4Y0NuQmpmdnNBZVpOQnfSAWNBVV95cUxQWE50MVowWlB5WFF4a1hrbDNhSkx6TUZmdDVTeThlZURadVIwU1I5Sl84M0NDZXRoUy1BSy05NjNEMGx0aFVVVk9NcEs2SktvS2lRYmdqZVpfandIemlwTHhablk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "snippet": "Across Protocol (ACX) Price Prediction 2026–2030: Governance Overhaul And Bridge Adoption Eyes $1&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Across Protocol Price: ACX/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rSWcwRW5xNzJXd0xJdEdCMU1lUy1aOVhlaTJrV0FodF8wWUR3RGJzSHp4TmFGTW9oWW45Mk5hQWV5VFFpbDM1MkdqYkgzQ0hDV25fSktYRmVQYVRtU1cw?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 21 Nov 2022 14:26:38 GMT",
+      "snippet": "Across Protocol Price: ACX/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Across Protocol price today, ACX to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LX2JXallMd3VRLTRxT0lGajlVS1lna0dOeEN6YUtHc1hXLVQ2cUlqdzZhZUZPeTBHb0QzTHcxbXZwZm9uNjZIRmdRTVVzMWhqVExDa2ZWZ2tJYzhMMWtZYlF0WQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 10 Nov 2022 00:10:56 GMT",
+      "snippet": "Across Protocol price today, ACX to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Across Protocol (ACX) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tSkdJY2tKbXdwZ1QwNG5iQVZIYUNOd19aTjRLU1ozVVdGWXRzbjloSWluQlNrUUhoRDhtOXBPbHdBRV90TFo2T1VCV1RuV2tOeVMw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 24 Nov 2022 09:35:35 GMT",
+      "snippet": "Across Protocol (ACX) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Across (ACX): An Intents-Driven Solution for Cross-Chain Transfers - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ITTdoc0F0ZVZ4M0oyeWFBcGUwU2dIR3E3ZlJxN3lNZEJ1eE5TTWJweXJza1hUeENsclJYd2hFd0t2bXFWV3V4Z0JXRjExaFRyWmhZWGZIT1pVOUpVUkItQVlmM0VadDdYWGNZaGp4bzEyc3g5WFFYQlZhM1Q?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Wed, 19 Feb 2025 08:00:00 GMT",
+      "snippet": "Across (ACX): An Intents-Driven Solution for Cross-Chain Transfers&nbsp;&nbsp;Bybit Learn"
+    },
+    {
+      "title": "Binance Will List Across Protocol (ACX) and Orca (ORCA) with Seed Tag Applied - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS05vbVIyYlhqMEplMUVyV3pVRDNpTnpVbGJsOTNsQnJkcGdDVmZwaHQ5Z0NhbmRuV3dzdXgzN0EwQU9pLTVFTzVnQnI3cDdwRC1pR2pIeGFkZE1oYW5XaW9YM3Z3Sy05RW0xZVFPY0lMWTlvdy1tdGdDYTNKQnNobEJKemRqRHdSSzM1b3ZNU18?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 06 Dec 2024 08:00:00 GMT",
+      "snippet": "Binance Will List Across Protocol (ACX) and Orca (ORCA) with Seed Tag Applied&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Paradigm leads $41 million token round for Across Protocol aiming to unify Ethereum - The Block",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUNBczVHUl94ZGlYaFFIank1QTItOGpodDlPQTh4andwSUloeV9weGFZYkVWSC1oLTRFMXB1VmVNZUhVTndyTWJyUmdpd3Fvc1VWNHhVTDlObEVsRGpEWDdqdzhoeVljSkFtUUZIQW5YbElGNUh1MEVFdGk4OVRIUlc4SDJHWUdqV1ZvN1REMEE?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 04 Mar 2025 08:00:00 GMT",
+      "snippet": "Paradigm leads $41 million token round for Across Protocol aiming to unify Ethereum&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
