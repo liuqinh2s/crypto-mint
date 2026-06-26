@@ -1,0 +1,347 @@
+{
+  "token": "APE",
+  "requestedInput": "APE",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T01:32:02.444Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "APE",
+    "name": "ApeCoin",
+    "generatedAt": "2026-06-26T01:31:54.085Z",
+    "summary": "APE在XRP链上DEX交易，流动性极低（约1.7万美元），24h价格下跌5.93%，与主流CEX上14%涨幅背离。近期无重大利好，新闻多为旧闻或预测，上涨缺乏基本面支撑。风险极高，不建议参与。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性极低，任何买入都可能被操纵；若出现官方ApeChain重大进展或CEX上线XRP对，则逻辑可能变化，但当前无信号。"
+    },
+    "catalysts": [
+      "无近期明确催化剂；历史新闻提及ApeChain生态、质押等，但均为旧闻。"
+    ],
+    "latestNews": [
+      {
+        "title": "ApeCoin (APE) Price Rallies 80%, Puts One Trader In the Spotlight for Insider Trading - BeInCrypto",
+        "impact": "中性",
+        "reason": "报道4月24日旧闻，非当前催化；提及内幕交易，偏负面。"
+      },
+      {
+        "title": "Crypto Whale Nets $700,000 Profit On ApeCoin After APE Token Price Hits 3-Month High - Stocktwits",
+        "impact": "中性",
+        "reason": "6月19日新闻，鲸鱼获利，但价格已回落，无持续推动。"
+      },
+      {
+        "title": "ApeCoin (APE) Price Prediction 2026-2030: A Comprehensive Analysis of Future Market Potential - CryptoRank",
+        "impact": "中性",
+        "reason": "预测类文章，非实际催化。"
+      }
+    ],
+    "fundamentals": [
+      "APE是ApeChain原生Gas代币，总供应量10亿枚，已全流通。",
+      "生态包括BAYC、Otherside、ApeChain，但NFT市场低迷。",
+      "当前市值约1.46亿美元（CEX），但XRP链上DEX市值仅1.95万美元，严重脱节。"
+    ],
+    "marketRead": [
+      "XRP链上DEX交易对ape/XRP，24h成交量仅1074美元，流动性16920美元。",
+      "价格24h下跌5.93%，与CEX上14%涨幅相反，说明该DEX流动性极差，价格易被操纵。",
+      "无K线数据，无法分析趋势。"
+    ],
+    "risks": [
+      "流动性极低，滑点巨大，买入后难以卖出。",
+      "价格与主流市场脱节，存在操纵风险。",
+      "合约地址非官方，可能为假币或蜜罐。",
+      "新闻均为旧闻，无近期利好支撑。"
+    ],
+    "watchlist": [
+      "官方ApeChain重大升级或合作公告。",
+      "CEX是否上线APE/XRP交易对。",
+      "XRP链上DEX流动性是否显著增加。"
+    ],
+    "sourceNotes": [
+      "数据来源：DexScreener XRP链上DEX数据，CoinGecko API。",
+      "新闻来源：Google News RSS，部分新闻日期较早。",
+      "CEX数据与DEX数据差异大，以DEX数据为准。"
+    ]
+  },
+  "profile": {
+    "id": "apecoin",
+    "symbol": "APE",
+    "name": "ApeCoin",
+    "categories": [
+      "Gaming (GameFi)",
+      "NFT",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Polygon Ecosystem",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Animoca Brands Portfolio",
+      "Gaming Blockchains",
+      "Gaming Governance Token",
+      "Gaming Utility Token",
+      "Andreessen Horowitz (a16z) Portfolio",
+      "ApeChain Ecosystem",
+      "Airdropped Tokens by NFT Projects",
+      "HyperEVM Ecosystem",
+      "Coinbase 50 Index",
+      "Governance",
+      "IP Meme",
+      "Monad Ecosystem"
+    ],
+    "homepage": [
+      "https://apechain.com/"
+    ],
+    "description": "APE fuels culture. Backed by the best club in the world and hundreds of thousands of holders worldwide, it’s the token for digital and IRL communities, builders, creators, collectors, gamers, and beyond. APE is the native gas token of ApeChain and is available across multiple ecosystems including Ethereum, Arbitrum, Solana and HyperLiquid.z ApeCoin's mission is is to supercharge its ecosystem by supporting high-quality builders &amp; reinforcing 3 core pillars: ApeChain, Bored Ape Yacht Club, and Otherside.",
+    "marketCapRank": 198,
+    "currentPriceUsd": 0.146342,
+    "marketCapUsd": 146524619,
+    "fullyDilutedValuationUsd": 146524619,
+    "totalVolumeUsd": 35654807,
+    "priceChange24hPct": 14.39216,
+    "priceChange7dPct": 9.718,
+    "priceChange14dPct": 11.37818,
+    "priceChange30dPct": 6.66471,
+    "athUsd": 26.7,
+    "athChangePct": -99.44661,
+    "circulatingSupply": 1000000000,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 115681,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "xrpl",
+    "pair": "ape/XRP",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "ape.rnxGEQytwx7jDfoKXfot9G4gQ1pbuHwf9m_XRP",
+    "pairUrl": "https://dexscreener.com/xrpl/ape.rnxgeqytwx7jdfokxfot9g4gq1pbuhwf9m_xrp",
+    "lastPrice": 4.927e-8,
+    "priceChange24hPct": -5.93,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 1074.87,
+    "liquidityUsd": 16920.83,
+    "fullyDilutedValuationUsd": 19533,
+    "marketCapUsd": 19533,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "url": "https://dexscreener.com/xrpl/ape.rnxgeqytwx7jdfokxfot9g4gq1pbuhwf9m_xrp",
+    "pairAddress": "ape.rnxGEQytwx7jDfoKXfot9G4gQ1pbuHwf9m_XRP",
+    "baseToken": {
+      "address": "ape.rnxGEQytwx7jDfoKXfot9G4gQ1pbuHwf9m",
+      "name": "ape",
+      "symbol": "ape"
+    },
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "priceNative": "0.00000004770",
+    "priceUsd": "0.00000004927",
+    "txns": {
+      "m5": {
+        "buys": 3,
+        "sells": 1
+      },
+      "h1": {
+        "buys": 17,
+        "sells": 4
+      },
+      "h6": {
+        "buys": 23,
+        "sells": 69
+      },
+      "h24": {
+        "buys": 59,
+        "sells": 122
+      }
+    },
+    "volume": {
+      "h24": 1074.87,
+      "h6": 159.75,
+      "h1": 68.52,
+      "m5": 0.72
+    },
+    "priceChange": {
+      "m5": 0.55,
+      "h1": 2.52,
+      "h6": -4.25,
+      "h24": -5.93
+    },
+    "liquidity": {
+      "usd": 16920.83,
+      "base": 171681079787,
+      "quote": 8189.3488
+    },
+    "fdv": 19533,
+    "marketCap": 19533,
+    "pairCreatedAt": 1684953531000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/feefa83b7ca545d3b34e4118edd7e2889b04d6546efcdef3951fd37d1112dd70?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/47f2a122c4b8aacce5d71a769b3e577c61ce63c4684e3e02f98813206c359897?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/xrpl/ape.rnxgeqytwx7jdfokxfot9g4gq1pbuhwf9m?timestamp=1782437400000",
+      "websites": [
+        {
+          "url": "https://moneymindedapes.com",
+          "label": "Website"
+        },
+        {
+          "url": "https://linktr.ee/mmaxrpl",
+          "label": "Linktree"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/moneymindedapes",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/moneymindedapes",
+          "type": "telegram"
+        },
+        {
+          "url": "https://discord.gg/3kDugPtDxp",
+          "type": "discord"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "ApeCoin (APE) Price Rallies 80%, Puts One Trader In the Spotlight for Insider Trading - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oMW1xcU9ZRHJEN1NvTmZYSHdiQlpHQ21CWlRDZ2VnMl81dXExdzk2anItNy0tcTJCdTVuamtCajdRZGozVEcyV0wwbEE0bDFLZ2NiWS13ZkFQTDlLWXVqQThuNlFlTFFiMklSdA?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "snippet": "ApeCoin (APE) Price Rallies 80%, Puts One Trader In the Spotlight for Insider Trading&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "ApeCoin (APE) Price Today: APE Live Price, Charts, News - Crypto.com US - Crypto.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rVGp0X2ZDNmdMVFhsVFJFVTE4WXlvSGNyZjh4T0lKVFhwQnd0eTlRU203a1BZcHNWdTFoNklpbFc5ZHloWWJ2N1JzMDV6OHg0?oc=5",
+      "source": "Crypto.com",
+      "publishedAt": "Mon, 24 Nov 2025 23:23:34 GMT",
+      "snippet": "ApeCoin (APE) Price Today: APE Live Price, Charts, News - Crypto.com US&nbsp;&nbsp;Crypto.com"
+    },
+    {
+      "title": "Crypto Whale Nets $700,000 Profit On ApeCoin After APE Token Price Hits 3-Month High - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTERfMks0clhkMkoySlFfUHgyUXozeVZYaGFOeHRSNzJvNU1fbWhMSkZUbUphc3YzU1RmRTZYc1ZDVS1PcnJXcE53Z0dBVGpVQkdDUmxpZlFzWGdlSVREUmJqVW9nWGJFeE9wZmwteEYzTVdPd0pmYmxPVUVmSXJCWklfbU02Tl9CRFJ1cDBRenIzRHdnMVFjakhBM1Z0bmxYQ0FWZWdpd1R5X05VMmpCQUN4Y1hfX1ZBLVFKVUhDblQ3b0pSV2hodkNWd3BRaTc1eWc?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Fri, 19 Jun 2026 20:58:15 GMT",
+      "snippet": "Crypto Whale Nets $700,000 Profit On ApeCoin After APE Token Price Hits 3-Month High&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "ApeCoin (APE) Price Prediction 2026-2030: A Comprehensive Analysis of Future Market Potential - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JYzhGRFJuMGxPYU0zM3M0UmpzQUtMTWhRQThGX1NjRmJ3ODU4Ums1MzNjSmEtRTY2bEs3ZF96M3hnSlg2N0s3LWZKM1hLNW1SNlVqWHU4bVpNOHFNUVdYeDRtbFZuN3BXZENCWDFETVIyNUpyTU1obEhBWQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "snippet": "ApeCoin (APE) Price Prediction 2026-2030: A Comprehensive Analysis of Future Market Potential&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "ApeCoin (APE) Price Prediction 2026, 2027–2030: Will ApeChain Drive a Massive Comeback? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92UnZTVWVnN25MaWpDQUdJNExuZE5NX3VHUnBtOUl4clJTeEVNMnVxb3VGOXJ4UnZIbXpCOG41Z1M2cnhqOS1xRzV6ck9IQ1E5ajJaU204Nk9fOVpWUUpCdm8tSmhvYUlDMllGam82UzktZTN4bVlR0gF8QVVfeXFMTjM5REtxNFY5OWJHekpOTWlHTUlIQ1B6RUJGVVg0TzgtOGdKTURsVkJYekxVVkh3OXZWcDB3cWQ2cXp6d2JHTnpuWTE3MHhvX25oOVlNaTJVY2xhS1VGaV9vUnJ6U1ZxWm5jZGdLVUY1OGhvOERlaXZoRjM0Wg?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "snippet": "ApeCoin (APE) Price Prediction 2026, 2027–2030: Will ApeChain Drive a Massive Comeback?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "ApeCoin Price Prediction 2026, 2027 and 2030: Is APE Showing Strong Buying Sentiment? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBteVJkalpRSFBOSDdPMjV3RUliNTlxa3U0UTZwRTctWXMzeThvQ1AxUE1leHBpMG9Femh4ZnprWjhjdTRiZnRPMnZpUWlzRGl0X0ZiWFh0eTBWVzZSU2fSAWNBVV95cUxQX1NXY09zWm1BVFB3SE1wZUhmYW92bVFRTUVQSHJRWDZDYVlXM3RBZE9yUWZJd0RLNWdnZ0hacTVfSkNicmxLeUl1X3drNVJGU1U3elVHWlZKcVpLWll6bWp3YjA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "snippet": "ApeCoin Price Prediction 2026, 2027 and 2030: Is APE Showing Strong Buying Sentiment?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "ApeCoin (APE) Price Today: APE Live Price, Charts, News - Crypto.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xLUNDeUJyZDhKdjFCOW9Mb2YzQUJmVGp3MDdjbFZGV3RIajZLZjRLam9VWXNGdDhhTHhXX0dONFRwRUZNWnpMZUlyZnZ2OFFU?oc=5",
+      "source": "Crypto.com",
+      "publishedAt": "Tue, 23 Sep 2025 12:52:32 GMT",
+      "snippet": "ApeCoin (APE) Price Today: APE Live Price, Charts, News&nbsp;&nbsp;Crypto.com"
+    },
+    {
+      "title": "ApeCoin (APE) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3dG9YVW1wczNzMENUNF81b3BackdVVXd0UllSb0dfbHFhN1AtRTAxVlgxVTI1ME9od0JWQTRHd2ZPM19aLWRvTUNGOXFZem0wN3BUbDlNS2piLTNCRElveFFlLW1WRGNS?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 13 Apr 2023 21:13:25 GMT",
+      "snippet": "ApeCoin (APE) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "The Ultimate Guide to ApeCoin Staking on ApeChain - NFT Now",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12V1VQQTdGa0w5ZDNHMnlYMDV4M0ZtOTIxemk1SHB6TXZjZVEybE4wZWxqVXAwdFFlaGpJblV2V2M3b05mWl9VaV9TZy1ySFNKZHFDU3BtNG9XQ2N0X1RkTWMzdEY1UmNIUEREZQ?oc=5",
+      "source": "NFT Now",
+      "publishedAt": "Thu, 24 Apr 2025 07:00:00 GMT",
+      "snippet": "The Ultimate Guide to ApeCoin Staking on ApeChain&nbsp;&nbsp;NFT Now"
+    },
+    {
+      "title": "What is ApeCoin (APE) and the BAYC Ecosystem - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0cks3V2FQVnJ2dC14WXM2bzB5akJBVEFkcGtHN3B6OHM2d0YySVZOX2xCR19qZ0ZBZDZUQWI2Vi15b0VhTjNYcU9kWjFpYVVSV3pBblpxZ284WlFaWEtJZmhzZ2NvSnZNQjR0cmVB?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Mon, 12 Jun 2023 07:00:00 GMT",
+      "snippet": "What is ApeCoin (APE) and the BAYC Ecosystem&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Bored Ape Yacht Club just dropped an 'ApeCoin' token to its NFT holders. Some made tens of thousands of dollars in hours - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14T19PNlRzaDdXYWFLUjBGZ1N4QldvOTZ4RXhoUVpNLUZFODZWUS1TcUtfV1pCWUNiNXo5NDZDeVd2ZlFhMDFMZms0a0dBMThZNXM4c2NSZzVnY2hsWXV3d19VelVVMHF4c1V4cF9ob1lTMEswYkNkc2lR?oc=5",
+      "source": "Fortune",
+      "publishedAt": "Thu, 17 Mar 2022 07:00:00 GMT",
+      "snippet": "Bored Ape Yacht Club just dropped an 'ApeCoin' token to its NFT holders. Some made tens of thousands of dollars in hours&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "ApeCoin Price Prediction 2025-2030 - YouHodler",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rUWpJMWptTHRyeEFsNnN3WTlEX05OZ3hhOXFYZl9hOURDY2J0b2ZGSVIzOWxTLW5mOExSODBjTUFFRG9LQnpMMHE4aVprX3VLLUVGSkVrZ0x5NU5QSXZuNlB4QXZvUUlHalVUb1lMSG5IYWM?oc=5",
+      "source": "YouHodler",
+      "publishedAt": "Fri, 04 Jul 2025 07:00:00 GMT",
+      "snippet": "ApeCoin Price Prediction 2025-2030&nbsp;&nbsp;YouHodler"
+    },
+    {
+      "title": "Meet ApeCoin: Bored Ape Yacht Club's New Crypto Token - boardroom.tv",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53ekcwbkg1aEE4SlA5WW56Zk5VYjdxMlFwX1pIYnhwRTNWLUx3NmlHNFRfdWt1NGRaVFFmWER2SThSTWZIeDJYTUNpNzNlOGREUU5sRTN4anBFZWtOeWxYUEYzRElnck0?oc=5",
+      "source": "boardroom.tv",
+      "publishedAt": "Thu, 17 Mar 2022 07:00:00 GMT",
+      "snippet": "Meet ApeCoin: Bored Ape Yacht Club's New Crypto Token&nbsp;&nbsp;boardroom.tv"
+    },
+    {
+      "title": "What is ApeCoin and How It Made The Bored Apes Richer - Forkast News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRzZlSDJBYWRXLVJKdVBtRjVsWVRrLTlQcXlWdnJSUDRkZ1ZLekdYbnAydHNrSldzT1FPTy0zQXZvOHNJTzlqZ2R2dV8waFFpbENYUVZURzBTeTBhaG1OSUFlMzV2U1hwclhrQ2k2ekZuQTlfYmpuOEt3Q3Z5V1k0ZtIBhgFBVV95cUxQWUlibE5VNVkzcS05QnhDNEV2ZXExZ1FSWm5zRjZYZjJuQUhOOFdvVzNHWkhYRnY4N20xcndwVnNOeU1ReWxGN1NCVzU0SWFNeE5VNWZZamxKTm5rTW44ZHk5VDc0NnR6MU5XN3RaWlBRRWV4RzlKUU9jOC1tMnN4S09qQlNSQQ?oc=5",
+      "source": "Forkast News",
+      "publishedAt": "Wed, 27 Apr 2022 07:00:00 GMT",
+      "snippet": "What is ApeCoin and How It Made The Bored Apes Richer&nbsp;&nbsp;Forkast News"
+    },
+    {
+      "title": "One Article to Help You Understand What APE Coin Is!!!! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWS2tNR1dpcWJoS3JBTWtac1NUM3lsbXFtWmdwUUQ2ME8xalRjM25FSmJLTzdYSG85aUZHMmNJOU9EYVprQlVpU2RUWjJZcUVrVUY4cmJ0WFhDVzJWUGJhMk15QQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 04 Jan 2025 08:00:00 GMT",
+      "snippet": "One Article to Help You Understand What APE Coin Is!!!!&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "ApeCoin Price | APE Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wUGhFS0twM0FmZFIzS1otZTlZOE1Qd21oSVlyaXB1S2RGQWI5UGNwcGJ5U2stUkcyb3AzTzZrYk9KYk9LaXFCSjR4ZGw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 18 Mar 2022 16:36:16 GMT",
+      "snippet": "ApeCoin Price | APE Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
