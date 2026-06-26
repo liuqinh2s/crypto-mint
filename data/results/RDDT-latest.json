@@ -1,0 +1,246 @@
+{
+  "token": "RDDT",
+  "requestedInput": "RDDT",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T15:32:26.426Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "RDDT",
+    "name": "Reddit, Inc.",
+    "generatedAt": "2026-06-26T15:32:18.740Z",
+    "summary": "链上存在同名Meme币RDDT，市值仅2240美元，流动性极低，24h交易量84美元，价格下跌1.97%。新闻均为NYSE上市的正股Reddit相关，与链上代币无关。该代币无基本面支撑，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "任何买入逻辑均不成立"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Is There An Opportunity With Reddit, Inc.'s (NYSE:RDDT) 36% Undervaluation? - Yahoo Finance",
+        "impact": "中性",
+        "reason": "新闻针对NYSE正股，与链上RDDT代币无关"
+      },
+      {
+        "title": "Reddit, Inc. (RDDT) Price Prediction & Forecast 2026, 2027, 2028 - 2032 - OKX",
+        "impact": "中性",
+        "reason": "预测针对正股，非链上代币"
+      },
+      {
+        "title": "Reddit Inc. $RDDT Shares Acquired by Swiss Life Asset Management Ltd - MarketBeat",
+        "impact": "中性",
+        "reason": "机构增持正股，不影响链上Meme币"
+      },
+      {
+        "title": "(RDDT) Reddit, Inc. Expects Q1 Revenue Range $595.0M - $605.0M - marketscreener.com",
+        "impact": "中性",
+        "reason": "财报预期针对正股"
+      },
+      {
+        "title": "Reddit, Inc. (RDDT) stock price prediction 2026–2030 - Bitget",
+        "impact": "中性",
+        "reason": "预测针对正股"
+      },
+      {
+        "title": "Bitget Lists NFLX, FUTU, JD, RDDT, QQQ Stock Index Perpetual Futures - TradingView",
+        "impact": "中性",
+        "reason": "Bitget上线正股永续合约，非链上代币"
+      }
+    ],
+    "fundamentals": [
+      "链上Meme币，无项目方信息，无官网，无白皮书",
+      "市值仅2240美元，流动性极低（未显示具体流动性）",
+      "24h交易量仅84美元，几乎无交易活动",
+      "价格24h下跌1.97%，无上涨动力"
+    ],
+    "marketRead": [
+      "成交量极低，市场深度差，大额买卖易造成剧烈滑点",
+      "价格走势无趋势，处于死亡状态"
+    ],
+    "risks": [
+      "极高归零风险：市值极低，流动性枯竭",
+      "合约风险：PumpFun上发行的代币，可能存在后门或貔貅盘",
+      "新闻误导：所有新闻均为NYSE正股，与链上代币无关，容易误导投资者",
+      "无任何基本面支撑"
+    ],
+    "watchlist": [
+      "无任何值得关注的信号"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，仅提供链上数据",
+      "新闻来源Google News，均为NYSE:RDDT正股新闻，与链上代币无关"
+    ]
+  },
+  "profile": {
+    "id": "79Aded2rWWvqj7zx6RTFffqABVhpUw6e7Um9S2iXfwGo",
+    "symbol": "RDDT",
+    "name": "Reddit, Inc.",
+    "categories": [
+      "solana",
+      "pumpfun"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / pumpfun. Pair URL: https://dexscreener.com/solana/8z5xgwqpv4luxdscy9cvyldywgqpgxzblana3shatteo",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00000224,
+    "marketCapUsd": 2240.1,
+    "fullyDilutedValuationUsd": 2240.1,
+    "totalVolumeUsd": 83.98,
+    "priceChange24hPct": -1.97,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": null,
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "pairAddress": "8Z5xGWqPV4LUxdScy9cvYLDywgqPGxZbLaNa3sHaTtEo",
+    "baseTokenAddress": "79Aded2rWWvqj7zx6RTFffqABVhpUw6e7Um9S2iXfwGo",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": null,
+    "pairUrl": "https://dexscreener.com/solana/8z5xgwqpv4luxdscy9cvyldywgqpgxzblana3shatteo",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pumpfun",
+    "pair": "RDDT/SOL",
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "pairAddress": "8Z5xGWqPV4LUxdScy9cvYLDywgqPGxZbLaNa3sHaTtEo",
+    "pairUrl": "https://dexscreener.com/solana/8z5xgwqpv4luxdscy9cvyldywgqpgxzblana3shatteo",
+    "lastPrice": 0.00000224,
+    "priceChange24hPct": -1.97,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 83.98,
+    "liquidityUsd": null,
+    "fullyDilutedValuationUsd": 2240.1,
+    "marketCapUsd": 2240.1,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "url": "https://dexscreener.com/solana/8z5xgwqpv4luxdscy9cvyldywgqpgxzblana3shatteo",
+    "pairAddress": "8Z5xGWqPV4LUxdScy9cvYLDywgqPGxZbLaNa3sHaTtEo",
+    "baseToken": {
+      "address": "79Aded2rWWvqj7zx6RTFffqABVhpUw6e7Um9S2iXfwGo",
+      "name": "Reddit, Inc.",
+      "symbol": "RDDT"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.00000003176",
+    "priceUsd": "0.000002240",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 3
+      }
+    },
+    "volume": {
+      "h24": 83.98,
+      "h6": 69.85,
+      "h1": 69.85,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -0.77,
+      "h6": -0.77,
+      "h24": -1.97
+    },
+    "fdv": 2240.1,
+    "marketCap": 2240.1
+  },
+  "news": [
+    {
+      "title": "Is There An Opportunity With Reddit, Inc.'s (NYSE:RDDT) 36% Undervaluation? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQlNWT05mU3UwSk5NUnVnSXdSYW1ScmJfZW5oLUt2YUVPSEdSckRsS0cxZkJPaWN2ODhsQmpXOFgyODA5UTZEbVF0S3lLRWRrLU9KdENDWEJ1bVNFb0ViWkptTmdhTW15WEpfVG1ZeXpWbU9wdVVTR29DNHBvZVRMOGZZcFg?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "snippet": "Is There An Opportunity With Reddit, Inc.'s (NYSE:RDDT) 36% Undervaluation?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Reddit, Inc. (RDDT) Price Prediction & Forecast 2026, 2027, 2028 - 2032 - OKX",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tdTNDMHppSlVoNlhDY1J5cTJTSWlwRm1QQV9tbW9WdzVwQTJYRkxrVVJHRHBXWmJSMERwMTJ1NGQwc09GYmxSZ0VoSFlSVGEzalZraUs2T0ZOV1dsd0NqOHdldkxhQjVJa0diZw?oc=5",
+      "source": "OKX",
+      "publishedAt": "Thu, 18 Jun 2026 12:05:54 GMT",
+      "snippet": "Reddit, Inc. (RDDT) Price Prediction & Forecast 2026, 2027, 2028 - 2032&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Reddit Inc. $RDDT Shares Acquired by Swiss Life Asset Management Ltd - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVAydzRaT0R6VndnRU93TXZoYU9sYTgzaFdVWU1CdktpSVFMbEtQa25JZHdIM2FZVDFobmpyTnlXTlRIM1FVMzRabGhVbEw2OEotSGV2MTRnTV9qNm02YUxoaHFaMVozbnJkdlFhV2NtNlg1Z2NsNTlITmFuUHZNNUZUVVBILUdqQzlzcGVkZjZlR0RJQnVGcndNYVhuNVBUOERxR3hYbGZud2h2RXZWOFV4U2JXT0lIWDR4Z0M5dWFRVFk2a3c?oc=5",
+      "source": "MarketBeat",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "snippet": "Reddit Inc. $RDDT Shares Acquired by Swiss Life Asset Management Ltd&nbsp;&nbsp;MarketBeat"
+    },
+    {
+      "title": "(RDDT) Reddit, Inc. Expects Q1 Revenue Range $595.0M - $605.0M - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnJkQ1NlSE15UTFWTlFMTDBmRDQtMDZFc1VMc1FxNzFkcTFIY29aMm1DVlkyS3Z1dXo4dmdCQUdnb21oekYwMjU1LWdCbmZ1VEVPenNubWNpdm9oX0ZnWjF0b0M5WlJ2cGoycERuOUhxeVRLYVFhZFJYTmJ0LXphQWI0S3dldFdmeEVuOVcySEZxNXZTMGdnanE5QkdCZXRlRTZrT1o3cF93RW8?oc=5",
+      "source": "marketscreener.com",
+      "publishedAt": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "snippet": "(RDDT) Reddit, Inc. Expects Q1 Revenue Range $595.0M - $605.0M&nbsp;&nbsp;marketscreener.com"
+    },
+    {
+      "title": "Reddit, Inc. (RDDT) stock price prediction 2026–2030 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5paDRmU1NVSVdEV3pYaGcyZ3dub3d1cXQtZmZjdGpmT01DUDB4V3FyTXNpVVBxNEN3c0Y3S0ozczI5eFFHaG10bnItUzdDTHZabHNEXy1adnJDR3M?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 11 Feb 2026 02:12:28 GMT",
+      "snippet": "Reddit, Inc. (RDDT) stock price prediction 2026–2030&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bitget Lists NFLX, FUTU, JD, RDDT, QQQ Stock Index Perpetual Futures - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeld6aUJYTHJKd3JYdmExUDFPcDhVVGQ4YzNRUWpXOHljcFB0eUt2UDAybUtBSmNabFBVMS14Y3FPTGhMMGF2cDR0ZFVrTG85TV9QblBmVGpWQmJaTll4ZW5iV3RkamJLOG5PeDRITkw3ZU9RM0RpMjRTMzBGSHJ2OTgyVkFybUVnVlJxMHQyY1YzWWNZYXhUUzlBSWZIV1lNV0pRdnYyck1oX1lnejdaaHd0YkxySEtnbFNoS2xZc0xyZw?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "snippet": "Bitget Lists NFLX, FUTU, JD, RDDT, QQQ Stock Index Perpetual Futures&nbsp;&nbsp;TradingView"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/dinari-rddt?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

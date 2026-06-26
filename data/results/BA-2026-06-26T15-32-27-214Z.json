@@ -1,0 +1,310 @@
+{
+  "token": "BA",
+  "requestedInput": "BA",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T15:32:27.214Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BA",
+    "name": "Ba",
+    "generatedAt": "2026-06-26T15:32:18.896Z",
+    "summary": "BA是Blast链上Dyorswap的极低市值代币，流动性仅6.3美元，无交易量，价格极低。新闻多为无关内容，基本面极差，风险极高。",
+    "rating": {
+      "score": 2,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "EXCLUSIVE: Inside the Industry Pushback That Forced Bank of England to Rewrite Stablecoin Playbook - TradingView",
+        "impact": "中性",
+        "reason": "与BA代币无关"
+      },
+      {
+        "title": "Bitcoin Faces Fresh BIP-110 Battle as Adam Back Warns of Minority Fork Risk - CryptoRank",
+        "impact": "中性",
+        "reason": "与BA代币无关"
+      },
+      {
+        "title": "Boeing Co Stock (BA) Moved Up by 4.27% on Apr 17: A Full Analysis - TradingKey",
+        "impact": "中性",
+        "reason": "与BA代币无关，指波音股票"
+      },
+      {
+        "title": "Trump touts China's order for 200 Boeing jetliners; shares fall (BA:NYSE) - Seeking Alpha",
+        "impact": "中性",
+        "reason": "与BA代币无关"
+      },
+      {
+        "title": "NVDA, MP, BA, RNA Among Stocks To Watch - Stocktwits",
+        "impact": "中性",
+        "reason": "与BA代币无关"
+      },
+      {
+        "title": "US Stocks Move | Boeing (BA.US) rises over 3% as it plans to boost 737 series aircraft production in the coming years - Bitget",
+        "impact": "中性",
+        "reason": "与BA代币无关"
+      },
+      {
+        "title": "Balkan Exclusive: Binance Alpha Trading Competition - Trade ESPORTS & VELVET and Share 3,650 USDC Rewards - Binance",
+        "impact": "中性",
+        "reason": "与BA代币无关"
+      },
+      {
+        "title": "Balkans Referral Rush: Refer a Friend and Get 9 USDT Each! - Binance",
+        "impact": "中性",
+        "reason": "与BA代币无关"
+      },
+      {
+        "title": "Balkans Futures Frenzy: Grab a Share of the 17,100 USDC Reward Pool! - Binance",
+        "impact": "中性",
+        "reason": "与BA代币无关"
+      },
+      {
+        "title": "Balkans Trading Sprint: Grab a Share of the 6,740 USDC Reward Pool! - Binance",
+        "impact": "中性",
+        "reason": "与BA代币无关"
+      },
+      {
+        "title": "Balkans New Earn User Special: Subscribe to USDT Simple Earn to Enjoy 15% APR for 7 Days! - Binance",
+        "impact": "中性",
+        "reason": "与BA代币无关"
+      }
+    ],
+    "fundamentals": [
+      "代币名称Ba，符号BA，部署于Blast链Dyorswap",
+      "市值仅6美元，完全稀释估值6美元",
+      "流动性6.3美元，极低",
+      "24小时交易量为0，无价格变动数据",
+      "创建于2024-02-29，但无任何交易活动",
+      "无官网、无社区信息"
+    ],
+    "marketRead": [
+      "无交易量，价格极低（8.358e-12美元），流动性极差",
+      "市场深度几乎为零，无法进行有效交易",
+      "无任何价格走势或成交量数据"
+    ],
+    "risks": [
+      "流动性极低，存在无法卖出或滑点巨大的风险",
+      "市值仅6美元，极可能为蜜罐或骗局",
+      "无交易量，代币实际无市场",
+      "新闻均为无关内容，无任何基本面支撑",
+      "合约未开源，存在后门风险"
+    ],
+    "watchlist": [
+      "无，建议完全回避"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener，流动性、市值等数据极低，可靠性存疑",
+      "新闻均为无关内容，可能为同名股票或无关事件"
+    ]
+  },
+  "profile": {
+    "id": "0x6a36aB5e08Ae94DF447D7E3CbB75926c2eAfDA3b",
+    "symbol": "BA",
+    "name": "Ba",
+    "categories": [
+      "blast",
+      "dyorswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on blast / dyorswap. Pair URL: https://dexscreener.com/blast/0x44c5fd97ca8362ad54ea2643819d7a38c53d5b4a",
+    "marketCapRank": null,
+    "currentPriceUsd": 8.358e-12,
+    "marketCapUsd": 6,
+    "fullyDilutedValuationUsd": 6,
+    "totalVolumeUsd": 0,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2024-02-29",
+    "chainId": "blast",
+    "dexId": "dyorswap",
+    "pairAddress": "0x44c5fD97Ca8362aD54Ea2643819D7A38c53D5B4A",
+    "baseTokenAddress": "0x6a36aB5e08Ae94DF447D7E3CbB75926c2eAfDA3b",
+    "quoteToken": {
+      "address": "0x4300000000000000000000000000000000000004",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "liquidityUsd": 6.3,
+    "pairUrl": "https://dexscreener.com/blast/0x44c5fd97ca8362ad54ea2643819d7a38c53d5b4a",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "dyorswap",
+    "pair": "Ba/WETH",
+    "chainId": "blast",
+    "dexId": "dyorswap",
+    "pairAddress": "0x44c5fD97Ca8362aD54Ea2643819D7A38c53D5B4A",
+    "pairUrl": "https://dexscreener.com/blast/0x44c5fd97ca8362ad54ea2643819d7a38c53d5b4a",
+    "lastPrice": 8.358e-12,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 6.3,
+    "fullyDilutedValuationUsd": 6,
+    "marketCapUsd": 6,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "blast",
+    "dexId": "dyorswap",
+    "url": "https://dexscreener.com/blast/0x44c5fd97ca8362ad54ea2643819d7a38c53d5b4a",
+    "pairAddress": "0x44c5fD97Ca8362aD54Ea2643819D7A38c53D5B4A",
+    "baseToken": {
+      "address": "0x6a36aB5e08Ae94DF447D7E3CbB75926c2eAfDA3b",
+      "name": "Ba",
+      "symbol": "Ba"
+    },
+    "quoteToken": {
+      "address": "0x4300000000000000000000000000000000000004",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.000000000000005441",
+    "priceUsd": "0.000000000008358",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 6.3,
+      "base": 377132449950,
+      "quote": 0.002052
+    },
+    "fdv": 6,
+    "marketCap": 6,
+    "pairCreatedAt": 1709231027000
+  },
+  "news": [
+    {
+      "title": "EXCLUSIVE: Inside the Industry Pushback That Forced Bank of England to Rewrite Stablecoin Playbook - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM1MtakM1SWU2QkE0Rno4OWs1Q29SMG93bUhxX3BJYk5odjdXZU9fQmIycFNUdEJsZXlkeGdGTGtURmF3RmlqT1RlSHZXa0NfSWFqWkZ0SUxLQWVacnBWUWx1X1VsMmc2UXIwbkd6OG05TXJiOUdKMk1VZzM4a0xnR1VVcDlibzhoV212OTZib21pbHdMU1pFWHB4M3RVb1h4TWlvaTc2cGxNbzU2UjZwQjgwWUp4QU9qekpleHNkSG9SY2hKd1lHNThzZzBiZE1JLTlWZjVLOXE4UXhNZGVQS01WRUhJMXNkQkxzSXJ3?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 23 Jun 2026 10:21:53 GMT",
+      "snippet": "EXCLUSIVE: Inside the Industry Pushback That Forced Bank of England to Rewrite Stablecoin Playbook&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Bitcoin Faces Fresh BIP-110 Battle as Adam Back Warns of Minority Fork Risk - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHFsVlRLZ195aFhURzBZM2tkaDRhT2hTc0laODYxZklJUV9Bdzd5RGxKNld1WWllN0ZKTm9sSFJNQVJDVi1DRGNjTm5TeVZEYUpxSzVKNjJCN1FIZUxtck1IWXlpR1hZMG1TdGxoU01RTkI0VEhyUUt0Nng5WTluSmxQZ0NVRERfZ0wtYWRSLUQ4Mm1MOW5yM3o0UDZ1TWstWklkaHpjQ19XMjE0blJ6b1ZURQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 09 Jun 2026 22:02:54 GMT",
+      "snippet": "Bitcoin Faces Fresh BIP-110 Battle as Adam Back Warns of Minority Fork Risk&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Boeing Co Stock (BA) Moved Up by 4.27% on Apr 17: A Full Analysis - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjdtY0tJeGZ0LXhfeDVrQ2dkMHkxNVprSGowb19vOTdaREFZWVdJdWZReHVTTWxzNmFOZno3dXFZZVpERUVNeTdOZXBYbmxLVlRwRnhGQ0M2OWVOdTFPLWFvMlNUOEVJcTRGUnlTcEpUeDIzNkhvZmFSalpqRG9yX0MwSW84XzBN?oc=5",
+      "source": "TradingKey",
+      "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "snippet": "Boeing Co Stock (BA) Moved Up by 4.27% on Apr 17: A Full Analysis&nbsp;&nbsp;TradingKey"
+    },
+    {
+      "title": "Trump touts China's order for 200 Boeing jetliners; shares fall (BA:NYSE) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTG93UmdqaGNrT2Ntc19KajZ5M182X0ZkdUtmRTZyaGxoTFFBZWlMM2xDQmVNbUdHRjNkRUxkV1RGcnBfTFRpM3EydFVSUkRnenpVanFNWGtHa1d4dm9lLU0xaXZtY1YwSWNtVFUydlE5bXR3T3Z5cWJ1bEJlSmZJMmtaSjdyVFJZM0ZGYUVjT3FETjNMRHNaTURwd0thMENJ?oc=5",
+      "source": "Seeking Alpha",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "snippet": "Trump touts China's order for 200 Boeing jetliners; shares fall (BA:NYSE)&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
+      "title": "NVDA, MP, BA, RNA Among Stocks To Watch - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUhCTFJLazlMRzRnUVNwaHVubHRVb05PT1NWcFctSkdKakJ2eTdEYXRuX0ExSzZpbkpjN0F3QkJidnJwLWhkQS1WalFjVU11NmZUM1VFSEx0aU4zdWlwQTRnQ1hSelJ3dGlUd3ByU0lvZEZwVWdJSFgxSGJsaVNYbWlJdG9nY1VJSEVVTHRLLUNlUWg0VXNQTlVBWGRSVFBEZGNIVEczNGk1eTFKTlE?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Sun, 26 Oct 2025 07:00:00 GMT",
+      "snippet": "NVDA, MP, BA, RNA Among Stocks To Watch&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "US Stocks Move | Boeing (BA.US) rises over 3% as it plans to boost 737 series aircraft production in the coming years - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QRDFmNzVYV2FaRjVRTzM0WFdEbmtTMnpSLV9xSVVRZlo0aWQ5Tm9hU2M4ak9GNVRORHBUOGdmdUx6dHJWaUI0VzNuU0syblkzVk8wSXNqS0p4U0JpeWfSAWNBVV95cUxQZ3ZXSGJ0ZlEwbzNWaFRPSTFXdXk3a1FWaFV2Y3draDUxakRRN3pfNmdGQlN0amZBZ0Vta0pqVFVUMl9oUVRwemRIX0RiamNIVHU3RzIxVHducmpXV2U3emhVUmc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "US Stocks Move | Boeing (BA.US) rises over 3% as it plans to boost 737 series aircraft production in the coming years&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Balkan Exclusive: Binance Alpha Trading Competition - Trade ESPORTS & VELVET and Share 3,650 USDC Rewards - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQME00aWxMdi1CZlhDMVNjYjk4SXJJWDcxMk10ck1RQ294TmJUOEJvX1RJdWVpdDVxNDRibDlqNGY0RUs2RDJaTGJWUnBsWWdQQ292cmNfXzdIdFZkSFc4QTZNTTdXWkduN3JwejdsOGtGaEM2R2drZHdvX2haTlNySFFuZnJaeHAwbkM3YWk4ZUU?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 19 Jun 2026 08:38:05 GMT",
+      "snippet": "Balkan Exclusive: Binance Alpha Trading Competition - Trade ESPORTS & VELVET and Share 3,650 USDC Rewards&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Balkans Referral Rush: Refer a Friend and Get 9 USDT Each! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNnVWUHpDcUFjRnRQSV9weHRsUDNIc01xZ3FMVGNiZzNqRzlycDdFcWxlOFhJVzNqWVh3cXNKWnZiUDkzSHJTTjFMX1VFQkozdUtMQnplWU1rSVpVeWpFakhHSnN3dG5teVdqSjVBNFc1MkdJMGdCUHNzRzlwTk9yRmxVVDJmQkRjSnBuSVpHemg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
+      "snippet": "Balkans Referral Rush: Refer a Friend and Get 9 USDT Each!&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Balkans Futures Frenzy: Grab a Share of the 17,100 USDC Reward Pool! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTXMyTG5tVl91MGpqUnd3eGZxYXJ6dnFQX0h2VHliSXJiTFlJUXFWcG9EaTEzZ2VkSkk1STcwQWNmTC1GVmtPazBoN05BNndya3pCdVRCeFNqVUJxZkMybURTNFlyTjZfUWVkVmhpQU53d3MzWks5bEtESVctVW1ndFNva2JULUE4UVNnNkNPTG0?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "snippet": "Balkans Futures Frenzy: Grab a Share of the 17,100 USDC Reward Pool!&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Balkans Trading Sprint: Grab a Share of the 6,740 USDC Reward Pool! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOemwzSGxIRkNqbFM4YnM1Vy1UcEkyMFlHVWFCQkViMU50WWdLTTc0aDlFa0lPZjItajBTemwxaXFldFNkT3hQM3YwWldGWW9rbXBMcXF6ekphNGRyWkEtYk5RT0piLW5aSUJZTWdXakFNMzRJVG40T1BVbGw2T2RFVHhPeno0LXV5Yk5EZXZQcmM?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "snippet": "Balkans Trading Sprint: Grab a Share of the 6,740 USDC Reward Pool!&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Balkans New Earn User Special: Subscribe to USDT Simple Earn to Enjoy 15% APR for 7 Days! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ3pDZktEeW5aU2VyM2RPYmd2dTFKQThnQlRfZ0d6YUxTQWNoTURwdjQzdlJkY2Q1dS1JZFhFeklSMUk4QnY1ZjRhZ2ZQSnlyV3dsaWw0OWs5LUJka1JVRWdQLXA1eUhIaWhvOUwyTFdYc1lpUlNoZkh4ZVcwb3ItLVBiSHptZzlFMFB2eXpuc0s?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "snippet": "Balkans New Earn User Special: Subscribe to USDT Simple Earn to Enjoy 15% APR for 7 Days!&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

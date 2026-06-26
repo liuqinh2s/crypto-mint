@@ -1,0 +1,335 @@
+{
+  "token": "ARC",
+  "requestedInput": "ARC",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T15:32:27.354Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ARC",
+    "name": "ARC",
+    "generatedAt": "2026-06-26T15:32:18.850Z",
+    "summary": "ARC代币近期上涨5.34%，但市值仅66万美元，流动性极低（5.3万美元），且价格较历史高点跌去99.58%。项目本身是Circle推出的Layer1区块链，但代币与Circle的Arc网络无关，存在严重混淆风险。新闻中大量提及Circle的Arc区块链融资和主网上线，但该代币并非官方代币，可能只是同名蹭热点。基本面极弱，24小时交易量仅1640美元，属于高风险微盘币。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现官方公告确认该代币与Circle Arc网络关联，或流动性大幅提升至百万美元级别，则逻辑可能变化。"
+    },
+    "catalysts": [
+      "Circle Arc区块链主网上线预期（但代币无关）",
+      "同名代币可能被误认为是Circle官方代币"
+    ],
+    "latestNews": [
+      {
+        "title": "Circle launches Arc blockchain at $3B valuation",
+        "impact": "利好",
+        "reason": "Circle Arc网络估值30亿美元，但该代币并非官方代币，利好被误读。"
+      },
+      {
+        "title": "Whale loses $8.2M in leveraged ARC trade on Lighter",
+        "impact": "利空",
+        "reason": "显示该代币存在高杠杆爆仓风险，市场操纵严重。"
+      },
+      {
+        "title": "Circle's Arc Secures $222M Pre-Sale, Network Valued at $3B",
+        "impact": "利好",
+        "reason": "Circle Arc融资2.22亿美元，但代币无关。"
+      }
+    ],
+    "fundamentals": [
+      "代币总供应量10.3亿，全流通，无锁仓。",
+      "市值仅66万美元，流动性5.3万美元，24小时交易量1640美元。",
+      "项目自称AI基础设施，但无实际产品验证。",
+      "与Circle的Arc区块链同名但无关，存在品牌混淆风险。"
+    ],
+    "marketRead": [
+      "24小时涨幅5.34%，但交易量极低，价格容易被操纵。",
+      "30日跌幅50.5%，处于长期下跌趋势。",
+      "流动性深度差，大额卖出可能导致价格暴跌。"
+    ],
+    "risks": [
+      "同名混淆风险：代币与Circle Arc网络无关，可能归零。",
+      "流动性极低：仅5.3万美元，滑点巨大。",
+      "价格历史跌幅99.58%，几乎归零。",
+      "无实际应用和社区支持。",
+      "新闻中提及的爆仓事件显示高风险。"
+    ],
+    "watchlist": [
+      "Circle官方是否发行代币。",
+      "该代币是否被交易所下架或流动性枯竭。",
+      "是否有团队公开声明。"
+    ],
+    "sourceNotes": [
+      "数据来源CoinGecko和DexScreener，新闻来自Google News。",
+      "代币与Circle Arc网络的关系未确认，需谨慎。"
+    ]
+  },
+  "profile": {
+    "id": "arc",
+    "symbol": "ARC",
+    "name": "ARC",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "Ethereum Ecosystem",
+      "AI Applications"
+    ],
+    "homepage": [
+      "https://www.arc.ai",
+      "https://reactor.arc.ai",
+      "https://community.arc.ai"
+    ],
+    "description": "ARC is the infrastructure layer for high-performance, privacy-first AI models, designed to make artificial intelligence faster, private, and more sustainable. Powered by its proprietary Efficiency AI technology, ARC empowers businesses and individuals through its core products, Reactor and Matrix. Especially through Matrix, ARC combines Efficiency AI with blockchain technology to make AI operations private, protecting sensitive data and putting user back in control. The $ARC utility token, live on Ethereum and expanding to Layer-2, provides the community with access to governance, staking and participation in ARC’s AI ecosystem. With ARC, anyone can take part in an AI ecosystem built around high performance, privacy, and sustainable solutions. ",
+    "marketCapRank": 3270,
+    "currentPriceUsd": 0.0006218,
+    "marketCapUsd": 640569,
+    "fullyDilutedValuationUsd": 640569,
+    "totalVolumeUsd": 3640.14,
+    "priceChange24hPct": 2.69102,
+    "priceChange7dPct": -16.73072,
+    "priceChange14dPct": -29.27252,
+    "priceChange30dPct": -50.5049,
+    "athUsd": 0.147396,
+    "athChangePct": -99.57978,
+    "circulatingSupply": 1030000000,
+    "totalSupply": 1030000000,
+    "maxSupply": 1030000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 13837,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "ARC/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0xFa39Ea4ad8893Ce6e8B119bA4b7532A70d137c4a",
+    "pairUrl": "https://dexscreener.com/ethereum/0xfa39ea4ad8893ce6e8b119ba4b7532a70d137c4a",
+    "lastPrice": 0.0006443,
+    "priceChange24hPct": 5.34,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 1639.64,
+    "liquidityUsd": 53183.8,
+    "fullyDilutedValuationUsd": 663710,
+    "marketCapUsd": 663710,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0xfa39ea4ad8893ce6e8b119ba4b7532a70d137c4a",
+    "pairAddress": "0xFa39Ea4ad8893Ce6e8B119bA4b7532A70d137c4a",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x672fdBA7055bddFa8fD6bD45B1455cE5eB97f499",
+      "name": "ARC",
+      "symbol": "ARC"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.0000004072",
+    "priceUsd": "0.0006443",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 8,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 1639.64,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": 5.34
+    },
+    "liquidity": {
+      "usd": 53183.8,
+      "base": 41267529,
+      "quote": 16.805
+    },
+    "fdv": 663710,
+    "marketCap": 663710,
+    "pairCreatedAt": 1754576771000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/1d154154ad9b39451b6e1cd2eb03269837dd9fd9e24abb7659b7c33c8aaaaa0c?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/ff996c56edbdc8a8f1ba8c4d4b7fe2f5ce70aee1ba5973eff878fd7c2a27e68e?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0x672fdba7055bddfa8fd6bd45b1455ce5eb97f499?timestamp=1782487800000",
+      "websites": [
+        {
+          "url": "https://arc.ai",
+          "label": "Website"
+        },
+        {
+          "url": "https://www.youtube.com/feed/subscriptions/UC7DxUgUZdN_wrL20DiXRYhw",
+          "label": "YouTube"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/ARCreactorAI",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/JoinTheARC",
+          "type": "telegram"
+        },
+        {
+          "url": "https://discord.com/invite/arcreactorai",
+          "type": "discord"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Circle launches Arc blockchain at $3B valuation - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IS3FjdnczNjM5bG1MdWVlRXN5MVRxYk4wUUhpVjhnclhQbHA2eEd0Q2RocFpzZkhhb3ZGdHJOOHBDSnU5dk9Xa1RXN3c2RzhkV01KR2lMMWtldTd3TDBYdTJ6OHZyWFdXNzdTVHpYbmJNdVgxSVE?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
+      "snippet": "Circle launches Arc blockchain at $3B valuation&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Whale loses $8.2M in leveraged ARC trade on Lighter - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVTlMVUJKU09ZTUF4Wm0zcU51SG9vOU1NamdLYWRhcm81NWVFemNBZTVBakxqQWlmaWNrTUlieXU0ZVFLNDRSWF9oaE11OExhNEpEdDkzRV9UdmZlQ0dSVS13UjV3ajdCQ3BnRS00OTczT1FicVM5TzJlMHBteTdfWG5VVGpBbzhpMEtXTm0tVEpPaDV0a1NwZ0VSb1hqRDBUWEtCOXBGSldIa0NIM3RkVE5RdGU?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "snippet": "Whale loses $8.2M in leveraged ARC trade on Lighter&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "BlackRock Bets on Circle as $222 Million Arc Raise Ignites CRCL Stock Surge - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDdqTnd0ZFJ6OFAzX0JoRHFndEt3Z19rWmYyM1VMOHVGMVhRZEM2SHVCTzY5OXlxTEhpcHBpd2ItMGg2eFVRbnhPV1ZuVnhDd29ER1lJSy1pbVpMNTlSWTRGLXNDbzFzUEZnWlVOanhJQ1lnZjJnemxONWI5UUd0ekFMR0Ztbk1vdWlyWjM1NVdGTzA2dTg2VQ?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
+      "snippet": "BlackRock Bets on Circle as $222 Million Arc Raise Ignites CRCL Stock Surge&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Circle's Arc Secures $222M Pre-Sale, Network Valued at $3B - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR0x5N1E1X0tabGxxR0NHcVp6RUZZMy10Y043UjgxUkhoNjFDLTRJaE1uWjc1VkZUd280WjlVeFkxUmFORko0ZUhRbUMzR09QQmRUYVRKY3FQNnJrMWpwN1RMX3ExeDNyWW91QmJOVHRJMm91Y3lPYkhzRzZDeVg4Y1FmYlk1YzNtbmg2aVZhUS00aDA?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "snippet": "Circle's Arc Secures $222M Pre-Sale, Network Valued at $3B&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Bernstein backs Circle with $190 target as ARC presale reaches $222 million - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zbjZlajVrS0VIVWdodmRhd0xId1hEQjZSV1ZxMVl2cGdkOW43Tjd2Y0tuQ3AzVmgyOWFJa0dEUGdNWDBBNWxRTXVMdVRjeUdHY1FOTGVrb2g?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
+      "snippet": "Bernstein backs Circle with $190 target as ARC presale reaches $222 million&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Circle Unveils Post-Quantum Roadmap for Arc Blockchain - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGxua2xyNWVNYkF5eVZWTXd3NzRQclFkcks5LU1jTU5DLVl2dFJNZHhWWjdSWWJ4aFpueDcxUERackZkUmdBNmNzV0hGUG9jVGpsbWE0aUVSZGZxVHllWTVrbndWcjBCZ1hocVVicHpaT1RvQnlZNkN2OUY4U2RMcV9XZkxQWEoyTV9uc0tOYTk1TlV5X1FB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "snippet": "Circle Unveils Post-Quantum Roadmap for Arc Blockchain&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What Is Arc? The Stablechain Built by USDC Issuer Circle - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtdXY3TUFySTFnallHeHM4cjhqU2hKQ0dkM0RScG1hODFfR2Q5S2hYcmpTZm5xU2VrYlFLR05DQ2c3cVU2MUJ0aGdQanI3T19Lc3dKUTZDV3lpaDdBNFM2WVU2Ukcxdw?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "snippet": "What Is Arc? The Stablechain Built by USDC Issuer Circle&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Arc Network Airdrop Farming Guide: Circle’s L1 Has No Token Yet. Here Is How to Position. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByVXE0YjVJeFJudmtOSUZuZ3RtdU4xZkx3eENmTXdlQ2hFaER1QnRfeW0xRElMMVhKQUJobGNZd0t5NlRwbFVNN2t5Nmd2aEF2clhpMTczaVhPR05XOHfSAWNBVV95cUxPVHZmS1RjZnZ4TU5xSkNNSHFmTVVaSTVDZ3NhTU9sZDVSVFF2SHQ1RkUwS3dRVHVYMDF4RVBaa1J0Zkc2M2h5LTN2VWNOWURVcTFPZlFPZ1RQMkpmQ2xCNkhSSnM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
+      "snippet": "Arc Network Airdrop Farming Guide: Circle’s L1 Has No Token Yet. Here Is How to Position.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Plume Blockchain’s Stunning Breakthrough: Launch on Circle’s Arc Testnet and Coinbase Roadmap Addition - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU1ZjWGF0TDVzNUtxXzVTMURYQ1BBcnF6Rzg5aC1MRVJ4bEpnSllFVy14Ukd0R1FMdk50eERhNS1idVNpZUwxc3B5dndSTWEySHBqYWhhR1dqdi1xTFVpTk5aZ0lyR3JaYVlHMlJBRUVMcFBVM1ZTMG1ScDlvN0VNTU10Zk5fOG4xN0c4?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "snippet": "Plume Blockchain’s Stunning Breakthrough: Launch on Circle’s Arc Testnet and Coinbase Roadmap Addition&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Circle to launch Arc, a layer 1 blockchain for stablecoin finance - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKRVAzcE9lYzc3LS1ENzYyc0lJZm5lRmJDOWVGbzRaOHpTbTdkV05GVUJRNkxxeEo3aWFhd1hLRGkxUm12YTFIZXFBai13ZVhoNHdvQmxVSHV2Q1hZRXZtSUxpdFFfN3cwN3BMbXJn?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Tue, 12 Aug 2025 07:00:00 GMT",
+      "snippet": "Circle to launch Arc, a layer 1 blockchain for stablecoin finance&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "Learn to buy ARC with DAI: Thorough Primer - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CbC03SnpaVldaS0JXS2NIVEM2enNqS1RWcEU0NnV3OW02dGVSY3NVT0pVd19QRXBWUlU3MTB4QnZyQlVjRTNOaUkwSTRwM2NzcWk0M0c0VDVsem1LZjRrd0ZhUTJ2cHJaTmtGZ3RzTDFwSEdYUUp4UkU5SGpDUQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sat, 20 Jun 2026 11:01:37 GMT",
+      "snippet": "Learn to buy ARC with DAI: Thorough Primer&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "How to purchase ARC with Venmo: Full Primer - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kdlVoZWJ1M0lKS1NKc3N4S1RDTldvYjhyU3FfRzhMcXRaU3Y3eHcwZ2gyaGpnY29HLTNiQjlPdWdXOE90WDFackJuV196cUZteHhsVmNIbzhnSWpjdWNuS1NibE5kWnAwYlpPVE0wcGtaX25fTlF6OA?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Thu, 11 Jun 2026 07:51:14 GMT",
+      "snippet": "How to purchase ARC with Venmo: Full Primer&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Circle Raises $222M To Launch Arc Blockchain Network - Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RcGRrVlN4R1FURFNfeXJMSkdtWF9QVUNna0ZtSE9xVmpDYklDSDFuSUVCSUdLa0hFUFM5cW5WY2p2VlFWUi1VMzVrZkNVOGtDdzNpd2V4dGlQOVhYRHc1Rjl1d0toWW5rNkQ5b29TbFdxckHSAXNBVV95cUxOUXBka1ZTeEdRVERTX3lyTEpHbVhfUFVDZ2tGbUhPcVZqQ2JJQ0gxbklFQklHS2tIRVBTOXFuVmNqdlZRVlItVTM1a2ZDVThrQ3czaXdleHRpUDlYWER3NUY5dXdLaFluazZEOW9vU2xXcXJB?oc=5",
+      "source": "Ventureburn",
+      "publishedAt": "Fri, 29 May 2026 07:00:00 GMT",
+      "snippet": "Circle Raises $222M To Launch Arc Blockchain Network&nbsp;&nbsp;Ventureburn"
+    },
+    {
+      "title": "Circle’s Arc testnet debuts with over 100 global partners and institutions - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMUdlX2dwNFRVZHFQQUxPTGY2RmZTdTZtQjRGb1E3dE12ZUVkNUNhajRHUVMtVHlBQmFFRDg0LXpZWTN1ampxOFdhcm5Ick5tNFdZcWtOVGplNmF1WllSV3FxNWNjdEdLOW9HTEFtcGg1RFlIVUtOd2ZLTjByS2lZQ3Bn?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "snippet": "Circle’s Arc testnet debuts with over 100 global partners and institutions&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "How to easily buy ARC: Value, Cheapest & Beginner Handbook - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2ZPcThJZmtnbmtqTXRMYjJndzB0Njg1bmNhVlJkenlmeVcweEtwTThrTTRRbTQxVkdKVGQ1N3ZiWk9FNVdCNFlLVzl1Qkdrd0QyN0dDcFk2UlJyY2J5dUdjMl9mWkZBZUM3cjI0ZGVSYll3R181WWJnTG5SZ1RtWnRULVYtUQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sat, 20 Jun 2026 06:27:10 GMT",
+      "snippet": "How to easily buy ARC: Value, Cheapest & Beginner Handbook&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Circle releases Arc whitepaper, mainnet expected to launch this summer - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YSDJ3SU1zX2pWSnltcW1nQjNNeHgtQjlGVExKenVBNUpWa1hZS3JNU1pEdkNWM0Y0TUtWQUhDdjJWa3Bic3ZyeU1GeHd4M0x6YlpZODVIUjBBOTJDV1HSAWNBVV95cUxOYjZaSWxEWFd6TjRfXzNBV0RDNGpXaEd0dWkxQW1zcURXcGNNV3dvMEw0TTZkQ0oxeFQtcGJINzZNa3NEOUJ2c3gzVmh6MXRNemp0ejhFVW5kUUtLb3daaXVTN3c?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
+      "snippet": "Circle releases Arc whitepaper, mainnet expected to launch this summer&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
