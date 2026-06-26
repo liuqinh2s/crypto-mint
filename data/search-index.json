@@ -1,25 +1,55 @@
 {
-  "updatedAt": "2026-06-26T09:32:32.713Z",
+  "updatedAt": "2026-06-26T09:47:16.357Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T09:32:24.396Z",
+      "name": "VelodromeV2",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T09:47:09.773Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "DEXE",
       "requestedInput": "DEXE",
       "name": "DeXe",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T09:32:27.104Z",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-26T09:47:11.471Z",
       "latestPath": "data/results/DEXE-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T09:47:10.428Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T09:47:08.748Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "BLESS",
+      "requestedInput": "BLESS",
+      "name": "Bless",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T09:47:16.355Z",
+      "latestPath": "data/results/BLESS-latest.json"
     },
     {
       "token": "LIT",
@@ -30,26 +60,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T09:32:28.236Z",
       "latestPath": "data/results/LIT-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T09:32:21.890Z",
-      "latestPath": "data/results/MEMES-latest.json"
-    },
-    {
-      "token": "BLESS",
-      "requestedInput": "BLESS",
-      "name": "Bless",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T09:32:30.317Z",
-      "latestPath": "data/results/BLESS-latest.json"
     },
     {
       "token": "W",
@@ -120,16 +130,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T09:17:07.822Z",
       "latestPath": "data/results/NATGAS-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T09:17:07.284Z",
-      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "OPENAI",
