@@ -1,0 +1,308 @@
+{
+  "token": "SIGN",
+  "requestedInput": "SIGN",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T16:47:36.995Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SIGN",
+    "name": "Sign",
+    "generatedAt": "2026-06-26T16:47:27.869Z",
+    "summary": "SIGN是Solana链上Meteora DEX的meme币，流动性极高但交易量极低，24小时仅成交3.99美元，价格几乎无波动。基本面不明，无明确上涨催化剂，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现真实交易量激增或明确利好公告，否则逻辑持续失效。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Introducing Sign (SIGN) on Binance HODLer Airdrops! Earn SIGN With Retroactive BNB Simple Earn Subscriptions",
+        "impact": "利好",
+        "reason": "Binance上线SIGN空投活动，曾带来短期关注，但当前新闻热度已过。"
+      },
+      {
+        "title": "SIGN (SIGN) 24-hour volatility at 63.8%: Sharp correction follows speculative pump triggered by Kraken listing announcement",
+        "impact": "利空",
+        "reason": "此前Kraken上线传闻引发投机性拉升后大幅回调，当前价格已回归低位。"
+      }
+    ],
+    "fundamentals": [
+      "代币名称Sign，链上Solana，DEX为Meteora。",
+      "总供应量和流通量未披露，市值约6.93亿美元，但流动性高达6.92亿美元，疑似流动性池被操纵或为虚假深度。",
+      "无明确项目网站或白皮书，仅DexScreener页面。",
+      "24小时交易量仅3.99美元，几乎无真实交易。"
+    ],
+    "marketRead": [
+      "价格24小时微跌0.02%，几乎无波动。",
+      "流动性极高但交易量极低，典型的僵尸池或做市商控盘。",
+      "无历史K线数据，无法判断趋势。"
+    ],
+    "risks": [
+      "流动性虚假：6.92亿美元流动性但日交易量仅4美元，极可能为虚假深度或机器人对倒。",
+      "合约风险：未开源或未审计，存在貔貅或蜜罐风险。",
+      "信息不透明：无团队、无路线图、无社区。",
+      "市场操纵：价格完全由少数地址控制，散户极易被割。",
+      "新闻时效性：Binance空投和Kraken传闻均为旧闻，当前无新催化。"
+    ],
+    "watchlist": [
+      "观察DexScreener上交易量是否突然放大。",
+      "关注是否有新的CEX上线公告。",
+      "检查流动性池是否出现大额撤出。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，缺乏链上深度分析。",
+      "新闻多为2025年旧闻，与当前价格关联度低。",
+      "市值与流动性数据可能被操纵，不可轻信。"
+    ]
+  },
+  "profile": {
+    "id": "8sLd7qhNRYGVumvMHCT5YgNfmUdo6gxY9ePzx2x1i5E1",
+    "symbol": "SIGN",
+    "name": "Sign",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/3ndczwxnd6rqucydmyjzdim4nshypnc4vnxl4qzulmjk",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.06929,
+    "marketCapUsd": 692914900,
+    "fullyDilutedValuationUsd": 692914900,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-09-02",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "3NDCZwXNd6rQuCydmyJzdim4nSHypnc4VnxL4QZULmJK",
+    "baseTokenAddress": "8sLd7qhNRYGVumvMHCT5YgNfmUdo6gxY9ePzx2x1i5E1",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 691914887.67,
+    "pairUrl": "https://dexscreener.com/solana/3ndczwxnd6rqucydmyjzdim4nshypnc4vnxl4qzulmjk",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "SIGN/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "3NDCZwXNd6rQuCydmyJzdim4nSHypnc4VnxL4QZULmJK",
+    "pairUrl": "https://dexscreener.com/solana/3ndczwxnd6rqucydmyjzdim4nshypnc4vnxl4qzulmjk",
+    "lastPrice": 0.06929,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 691914887.67,
+    "fullyDilutedValuationUsd": 692914900,
+    "marketCapUsd": 692914900,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/3ndczwxnd6rqucydmyjzdim4nshypnc4vnxl4qzulmjk",
+    "pairAddress": "3NDCZwXNd6rQuCydmyJzdim4nSHypnc4VnxL4QZULmJK",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "8sLd7qhNRYGVumvMHCT5YgNfmUdo6gxY9ePzx2x1i5E1",
+      "name": "Sign",
+      "symbol": "SIGN"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.06929",
+    "priceUsd": "0.06929",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 691914887.67,
+      "base": 9985482250,
+      "quote": 5944.1344
+    },
+    "fdv": 692914900,
+    "marketCap": 692914900,
+    "pairCreatedAt": 1756823283000
+  },
+  "news": [
+    {
+      "title": "Bitcoin rises above $93,000 in sign of 'bullish trend' to start 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcUMwYTdiUHdCQTJUSVhuMFAzQjc5MnVXWVhnS2tBeFViSWJqTnZCbjdjSzZFZ3ZVaTFwSzJqdVJqOTlFMU5DZUl5T0NNOU0ySDNuOGZRMjRod3R2R01raEhNT1lRaGtRTE5MZXhndkYxckctWF9hSUJIWmloMXV4TWpkclowUHFnNzlZbVk2QjdlYWYwT3lTS09HbVF1Y0pXRV9jd0VQSjhLVklqZWdr?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 05 Jan 2026 08:00:00 GMT",
+      "snippet": "Bitcoin rises above $93,000 in sign of 'bullish trend' to start 2026&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Sign Price Prediction: Is SIGN Crypto a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObk1GaVo0RGlMNXlmM2hUdVhZV1hfeVBhcjk3dVVyMGdaMk5NQ1gwUFJ0MjN4VHRVUkNCSUU5eU1BQWNSSkV6MnZsUlFiRVVvWk1fSE9fdkV5U3B2TGRUQ3VkbXlkd1R3T2txZWlBZnZlYWNmdllMcTUwSXFzalBnaU9Sc1pJcHM0?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "snippet": "Sign Price Prediction: Is SIGN Crypto a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Trump Vows to Sign Major Bitcoin Bill ‘Very Soon,’ Says U.S. Must Remain Crypto Capital - Bitcoin Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sY0d6dlA5WnllWUVMcEVlaUhMR0pZT0tob0lzVDFob2J3SFJUaDZJWVdBWTNoY0cyX2RPM1dhMFNfcUZzekt4Y1pRTUxYS2tzN1NjSk40V1JZdmk2cW9RaDRjSXJteEFURGxuNGEtTXA4MGlNVGhqczdn?oc=5",
+      "source": "Bitcoin Magazine",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Trump Vows to Sign Major Bitcoin Bill ‘Very Soon,’ Says U.S. Must Remain Crypto Capital&nbsp;&nbsp;Bitcoin Magazine"
+    },
+    {
+      "title": "Pi Network’s Binance Listing Hopes Rise After Sign Protocol Deal - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcnhwWWNOejFFckxnZmVNbE5Da3hYWXNWUEt2NWluWUpfQ2VpM2hyNm1TZkllZWc4Ykd5QWp0by13ZW1tdHBpU3lsUVpTby1ITVViZUQwX3pPSXdOQ0ZZWkZoRUZDTjU0SFhHeWQwdmtWbDNIZzgzZkNhT2w0Q1dWM1k0UHh4dVlMMHJzUkNVcUpVYlRRQ01yN3NrTQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Sat, 27 Sep 2025 07:00:00 GMT",
+      "snippet": "Pi Network’s Binance Listing Hopes Rise After Sign Protocol Deal&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Sign, The New Standard In The Web3 Ecosystem That Captures Both Community And Fundamentals - Tiger Research Reports",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1weER0SU5RYjVwcktiRDFxN19IdS1hdE5tOHI3RThCazI3ZGhXbEhDbG8wcWkwVzNUazZmUWJONTloakEwQ0Y4OGxNUmh0YjVtdHFEdlRSNHMxaDBLanM2cVVnejlycVJ0eEUta3lkSktjYlJZVHpvWkRsNkctelk?oc=5",
+      "source": "Tiger Research Reports",
+      "publishedAt": "Thu, 27 Mar 2025 07:00:00 GMT",
+      "snippet": "Sign, The New Standard In The Web3 Ecosystem That Captures Both Community And Fundamentals&nbsp;&nbsp;Tiger Research Reports"
+    },
+    {
+      "title": "Altcoins Flash 2020-Like Signals as Market Shows Early Reversal Signs - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52TU5MdEUzMDdpTnl0dkVYZ3JUdGd2ZUN6bXU5cUlYcGxsMWM2TGFzWXZLM0Jjc0V5Nl9EeWdrWGphUnZYTUZSMEFhTk1Sbk5JYVdEb1RRdkVSTnZCSFHSAWNBVV95cUxOTUZKamZsSnR0LTBvTkNzc1hQUk0yNWtvWGFyZzQxT2Y4cEl3UlhOaE9BZzFUelcxLXZpcW5TNWljRU92WmUtUFZjYTVERlFwVXNXWnNvc2l6SjNjamFxUnY5MlE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "Altcoins Flash 2020-Like Signals as Market Shows Early Reversal Signs&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "SIGN (SIGN) 24-hour volatility at 63.8%: Sharp correction follows speculative pump triggered by Kraken listing announcement - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rQW1DUmJHTXpEM3pQZl8yMlZyT2lTemF2YUsySlRHNWlJZXg5Nzl3N0E3ZEVaa1BFM2h0blVPcTB6NWxnSnJPZ0dXbk0zSmxmNVkzaS1sOFB0WGhjWkHSAWNBVV95cUxOWWFMeC1UdlRqSThyZ1AzZlBUVWNiMUZmUW52QnBHa3psSnRfaW9EcXdNR0NScS1kUjhwZE95Mk1xd2pJanhLc1lISnoxbHY0dlhUMFBwbGJQWWZhNUZTVlpzUHc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "SIGN (SIGN) 24-hour volatility at 63.8%: Sharp correction follows speculative pump triggered by Kraken listing announcement&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Sign Up and Trade With KCEX: Earn USDT at the New User Rewards Center - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85VnBJc1RBNzZscHFiUkx0NkpXYXhHRm9oTHRoRHVYT3NvS0FuNUpQTUJDVllHZ092Rmw5OGxqSUQxd0RzRWM0dWtXQWtocWN6Z25tZWF3MG81dFRmOEHSAWNBVV95cUxON0hvQm9sSC1kU3pMZ0VHa1ppVVo1T0dNMlN4Rms4VEgzUFk0dmpuR0hHZDFOLVJMdmdocFNoTVQ0MHNCaENhR29ORlhMS0RfYTJwaVhsWU9zc0VPTDFXeTBIMlU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 26 Dec 2024 08:00:00 GMT",
+      "snippet": "Sign Up and Trade With KCEX: Earn USDT at the New User Rewards Center&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Research Report | Detailed Analysis of Sign Protocol & Sign Market Value - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrVUgtbVlCMGF0QmVCUW01SmJWU3dyN2RxM1NYM1NFb1AybXBPSDZRMG52d19zOFJpN0ZZWWhDbFFORnVHc2JPUXc2NnBlYnBUUmJCSHduRjFieG5fMEHSAWNBVV95cUxQU3J6dkY2S1UtaU96c25JbU52WGhOSVRMM3JMamI2Uzd4RmJBc19aZFdSOXdNbnJGNFVMVHAxSjMzc2RtU01ZRk5UOHpQRVgwOXh6bVdDX0o0a0FISmpKd1dwYVE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 27 Apr 2025 07:00:00 GMT",
+      "snippet": "Research Report | Detailed Analysis of Sign Protocol & Sign Market Value&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bitcoin Updates: Significant Withdrawals from Bitcoin ETFs—Sign of Trouble or Strategic Portfolio Adjustment? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PMlVNc01ZVV82VGZURWprVjVDVUxVd0NkZWk2R3Uyd19WS2QzZGR1LVFlUURRX3p0Z3FHb1E4b3ZMQXVvS2Z5ZUtpUGdsczVFWXhVb2J2TG1mT1d6X3fSAWNBVV95cUxOaTI4LUJnY0M3WVI0Tl9LUXZ0Y0NrZUZWRE42MURjN0ZGdHRzRVVqMGozc2hpeHdKSEF2QmlidlZ1VDlwNk9NS1ZPWWNZTkloaXRtandqS1Uwem5zLVVfSVF1SGM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 24 Nov 2025 08:00:00 GMT",
+      "snippet": "Bitcoin Updates: Significant Withdrawals from Bitcoin ETFs—Sign of Trouble or Strategic Portfolio Adjustment?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Micron and Anthropic sign multi-year storage product supply agreement - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tSVR5T1Y5dkJvV3NWX3RHblJobVFKb2FBMmd3VXNrVEFQamhvbllsdmF5aVN2MUFUUGVPc0R5b18tWVJoSTExVVJtYU9WOTRaMld1T0tCdmxFWmhGYWfSAWNBVV95cUxPaEVGbDNFM3AxY05qeExaaTRaMnBpT1pSdU9ZdXpudGV5NTJnT0ZPd1BKTTVXbkppZVY5alRNVm9YZ0ROb1ZfdFg5VW1hRDB6VFZEY1JjMk5lMTRxQ3c0bUF2TkU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 22 Jun 2026 05:11:39 GMT",
+      "snippet": "Micron and Anthropic sign multi-year storage product supply agreement&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Is SyrupUSDC’s expansion a sign of DeFi’s credit market evolution? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KUWlqR0RrckkydlcxdV8yZVhDM0hNeUNCa0w5M1BJeGZFeHhZZWpQOUV4a1J1VFM1TXg4bXNOUlNhaTJsWlI2dlo5NC1BM203b0syc1YyaFBuLUowMlHSAWNBVV95cUxNTGpNeHByQ09OR1pBY3c0ZjFYQ2tpa0M4aDdSWFhpbUwxQzBPS0JZTGk4VnB0LTZVVVgwSV91Rlk2bW5rWmtDM0lkT0d6X3pPbWtXUEl3b1JWbVpOVHFBalMxakk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 09 Feb 2026 08:00:00 GMT",
+      "snippet": "Is SyrupUSDC’s expansion a sign of DeFi’s credit market evolution?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Introducing Sign (SIGN) on Binance HODLer Airdrops! Earn SIGN With Retroactive BNB Simple Earn Subscriptions - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmszUTlrbWpjX0pSTEZISzAtWFBRVVJXTVhBMU5rLWZ1em8xUWlsUmVOb1F6eXpfS1EwcGozRGhzNklsaTluSXRZX3AtY1Y5dEVQcGRCOTlKOGpJN3VKc01zNzFKb0N4SHA5RWtndDE2amozcTBTZkIyTnl1OEVTdF8xb3pfUXFRZE5malFpUTg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 25 Apr 2025 07:00:00 GMT",
+      "snippet": "Introducing Sign (SIGN) on Binance HODLer Airdrops! Earn SIGN With Retroactive BNB Simple Earn Subscriptions&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Grab a Share of 1,968,000 SIGN Rewards on CreatorPad! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ1NKMnFlYThxQmt0VzlqS2RpRloxREZqS1RBcmFNNnZkUFM5STRLMy1fRVNXb2kzOWpMVWpqemlJeEhmY18tX2dRVEhwdXQ5ckxoQ19mZUZ2UUVsSHVZc3RMWEpRampqOWhPTDFjV0Y1dnlGcmVEeGtFQXVwR3Y5Y1J5T0tfUVRReXpsVGtSeFk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "snippet": "Grab a Share of 1,968,000 SIGN Rewards on CreatorPad!&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Wallet Launches the DEX Pro Mode Powered by Secure Auto Sign - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObENPUklJcFdVU0F3RTBySzZKQUlESzJnb2NBMzFqWWZvcWM2YkZ6bkJoN19kRjJid0xtaHJQZVV6a2VvSktHSTY1RUc3NlNsdElZLWVfenR6ZUZwYUExaFRxV0xCb1M3VGVNdEZFOHFPN191VUNsZTNSXzlNTnRNOENrU2JDdzlpckRaNDRKaEQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 30 Jul 2025 07:00:00 GMT",
+      "snippet": "Binance Wallet Launches the DEX Pro Mode Powered by Secure Auto Sign&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Earn: Enjoy Up to 29.9% APR with SIGN Simple Earn Products! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcGdpaWxLS2ZjNVA1bkpjaVRpdVZwYnhlLXF0ZlRZVXRWNnFvUEpqblI1T3d3Q2FRNFpiU1NYbmxBbWVQNVN1cG5zSjYtMnFnYUtBXzhfUV9oR2FUSmZDTURhVVNJRzBVcGV3NDJKLXR5NFlNa0pRUXhIWVhoQXZWSTBnbFdoelJMRFpnTUNJN08?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 25 Aug 2025 07:00:00 GMT",
+      "snippet": "Binance Earn: Enjoy Up to 29.9% APR with SIGN Simple Earn Products!&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=SIGN: Throttled\n"
+  ]
+}

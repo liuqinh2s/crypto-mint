@@ -1,0 +1,271 @@
+{
+  "token": "SKHYNIX",
+  "requestedInput": "SKHYNIX",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T16:47:21.446Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SKHYNIX",
+    "name": "SK Hynix",
+    "generatedAt": "2026-06-26T16:47:10.635Z",
+    "summary": "SKHYNIX是Solana上pumpfun发行的meme币，市值仅2680美元，流动性极低，24小时成交量36.72美元。近期新闻多指向传统股票SK Hynix的期货上线，与链上代币无直接关联。代币无实际价值支撑，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "SK Hynix Price, SKHYNIX Price, Live Charts, and Marketcap - Coinbase",
+        "impact": "中性",
+        "reason": "Coinbase报道的是传统股票SK Hynix的价格，与链上代币无关。"
+      },
+      {
+        "title": "Is SK hynix a Good Stock to Buy in 2026? SKHYNIX Investment Analysis and Price Outlook - WEEX",
+        "impact": "中性",
+        "reason": "WEEX分析的是传统股票，非链上代币。"
+      },
+      {
+        "title": "Binance Lists Perpetual Futures for Samsung, SK Hynix, Hyundai — But Not for South Korean Users - CryptoRank",
+        "impact": "中性",
+        "reason": "Binance上线的是传统股票SK Hynix的永续合约，与链上代币无关。"
+      },
+      {
+        "title": "How to buy SK Hynix stock on MEXC: Complete operating guide - MEXC Exchange",
+        "impact": "中性",
+        "reason": "MEXC指南针对传统股票，非链上代币。"
+      },
+      {
+        "title": "SK hynix Inc (Derivatives) price today, 000660 to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "CoinMarketCap显示的是传统股票衍生品价格。"
+      },
+      {
+        "title": "Binance to Launch Perpetual Futures for Samsung, SK Hynix, and Hyundai Stocks - CryptoRank",
+        "impact": "中性",
+        "reason": "Binance上线传统股票期货，与链上代币无关。"
+      },
+      {
+        "title": "Korean stocks meet DeFi as Lighter lists Samsung, SK Hynix and Hyundai perps - TradingView",
+        "impact": "中性",
+        "reason": "Lighter上线传统股票永续合约，与链上代币无关。"
+      },
+      {
+        "title": "Whales Shorting SK Hynix On Hyperliquid Face Over $1.5M In Losses As Stock Surges - Bitcoin World",
+        "impact": "中性",
+        "reason": "Hyperliquid上的SK Hynix是传统股票衍生品，与链上代币无关。"
+      }
+    ],
+    "fundamentals": [
+      "Solana上pumpfun发行的meme币，无实际项目背景。",
+      "市值仅2680美元，流动性极低（无流动性数据）。",
+      "24小时成交量36.72美元，交易极度不活跃。",
+      "创建于2025-12-24，已存在约6个月，但无任何社区或开发活动。",
+      "名称与韩国半导体公司SK Hynix相同，但无关联。"
+    ],
+    "marketRead": [
+      "价格0.00000268美元，市值2680美元，完全稀释估值相同。",
+      "无24小时价格变化数据，成交量极低，市场深度极差。",
+      "无历史价格数据，无法判断趋势。"
+    ],
+    "risks": [
+      "极高风险：meme币，无实际价值支撑。",
+      "流动性风险：几乎无流动性，大额交易可能导致价格剧烈波动或无法成交。",
+      "合约风险：pumpfun发行的代币，可能存在合约漏洞或开发者抛售风险。",
+      "新闻误导：所有新闻均指向传统股票，与代币无关，可能误导投资者。",
+      "市场操纵风险：低市值代币易被操纵。"
+    ],
+    "watchlist": [
+      "关注代币是否有任何实际开发或社区活动。",
+      "观察是否有大额买入或流动性增加。",
+      "注意pumpfun平台是否出现相关风险提示。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，无其他可靠数据。",
+      "新闻均为传统股票SK Hynix相关内容，与链上代币无关。",
+      "无任何基本面或链上数据支持该代币价值。"
+    ]
+  },
+  "profile": {
+    "id": "AFuBj98z1MYnYkvsRXTCAotYoL1XNjGT3aZY9srCskyW",
+    "symbol": "SKHYNIX",
+    "name": "SK Hynix",
+    "categories": [
+      "solana",
+      "pumpfun"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / pumpfun. Pair URL: https://dexscreener.com/solana/79lqcsmcepc7aqnt61onfoanmqtfhdzsbzkpp88qyght",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00000268,
+    "marketCapUsd": 2680.06,
+    "fullyDilutedValuationUsd": 2680.06,
+    "totalVolumeUsd": 36.72,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-12-24",
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "pairAddress": "79LqCSmCEpc7AQNT61oNfoANmQTFhDZsBZKPp88QYgHT",
+    "baseTokenAddress": "AFuBj98z1MYnYkvsRXTCAotYoL1XNjGT3aZY9srCskyW",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": null,
+    "pairUrl": "https://dexscreener.com/solana/79lqcsmcepc7aqnt61onfoanmqtfhdzsbzkpp88qyght",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pumpfun",
+    "pair": "SKHYNIX/SOL",
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "pairAddress": "79LqCSmCEpc7AQNT61oNfoANmQTFhDZsBZKPp88QYgHT",
+    "pairUrl": "https://dexscreener.com/solana/79lqcsmcepc7aqnt61onfoanmqtfhdzsbzkpp88qyght",
+    "lastPrice": 0.00000268,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 36.72,
+    "liquidityUsd": null,
+    "fullyDilutedValuationUsd": 2680.06,
+    "marketCapUsd": 2680.06,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpfun",
+    "url": "https://dexscreener.com/solana/79lqcsmcepc7aqnt61onfoanmqtfhdzsbzkpp88qyght",
+    "pairAddress": "79LqCSmCEpc7AQNT61oNfoANmQTFhDZsBZKPp88QYgHT",
+    "baseToken": {
+      "address": "AFuBj98z1MYnYkvsRXTCAotYoL1XNjGT3aZY9srCskyW",
+      "name": "SK Hynix",
+      "symbol": "SKHYNIX"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.00000003921",
+    "priceUsd": "0.000002680",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 36.72,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "fdv": 2680.06,
+    "marketCap": 2680.06,
+    "pairCreatedAt": 1766611759000
+  },
+  "news": [
+    {
+      "title": "SK Hynix Price, SKHYNIX Price, Live Charts, and Marketcap - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOakx4ZzhrRGQzR2RkVlBvZ25kb1BEY0VGWDhVTGJVeUxURUltQkpOcTRRbWEtQUlmREJxWE9tWXFyeVhoYUgwTFNhXzFkR2w0V0huRlZLVi1CVHk5VDVQTjNPbkIzLUpabUFwQXpyczJlMTRDdEtLcHF1RGZXcmMyZzlIRUp1a1VKUXR3YlBCeFp6NTRKc1hRMUE0T0V0dw?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Wed, 24 Jun 2026 19:55:10 GMT",
+      "snippet": "SK Hynix Price, SKHYNIX Price, Live Charts, and Marketcap&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Is SK hynix a Good Stock to Buy in 2026? SKHYNIX Investment Analysis and Price Outlook - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbHg1Y2NYaWttWnlsczZSMkt1cWphUnhoSHhuZWl6dk5ZZjZjalB5cXFOM3A0cmdhdVBtT3pOOTB6QUkwUE5tcGJieUFIb2JFZEZfNDFmd29iSHBfbEhIY2VWMUhOSHdZai1ubTBKNVlBMEZfbGN1aVBUMlJlSDJTaVh4TEhJMFFGbW9DbWJtcXl3cExwTXJmLWpIQWo5VFJHVEoxcFdHOWNrUDB6MVo4aURyNmNjU1gzTVJuc09rb2dlbWZhV2RGZ1NYSXRfRGU1UGYxSllWblB2SVBj?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Wed, 24 Jun 2026 09:14:09 GMT",
+      "snippet": "Is SK hynix a Good Stock to Buy in 2026? SKHYNIX Investment Analysis and Price Outlook&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Binance Lists Perpetual Futures for Samsung, SK Hynix, Hyundai — But Not for South Korean Users - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHZNQ1JQazZvX1pDWVN6MGc3N25kRmVhTHZvSGNiSzhMcmJlUjRLNlFLUVJNekRpbGYxV1hlTGFTZ1JUMjJ4cFR4aU00cjFuVG1IcHl3OHRkcWRXWThyY3FSX0lGMGQySUVnelV2WHBmRFA3UWYxSGRNdnE3QlRLM0t0eXZieTFUSEMtMElHTUZCcmowUjd2ejFPZC1PRjhnMlE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 02 Jun 2026 05:47:29 GMT",
+      "snippet": "Binance Lists Perpetual Futures for Samsung, SK Hynix, Hyundai — But Not for South Korean Users&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "How to buy SK Hynix stock on MEXC: Complete operating guide - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORmw5MmhhLVpPdGVYNzZfSVdmcVpQY0lqbXY5WDVBdDgyWEZ2dS1GaXR0Sl9yYUN0ZzZOZ252WDFLdFhtNG9WV2Mwa2xtS0tWdFJxRjVNaWhHOFVwUVBCTWFWNUF2TVZaMDF4aUhRY05ySVk2WThYX25OZjZuYUJmVjJYeGZnMjQwdUt0RmNrTjI1ZFprY1V1UmVHendXaDZ0RVE?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Fri, 22 May 2026 13:12:25 GMT",
+      "snippet": "How to buy SK Hynix stock on MEXC: Complete operating guide&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "SK hynix Inc (Derivatives) price today, 000660 to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vdi1xSWJBdTA5TXRrbmNTcTRRUnBLd2NlbzZWY3ZSWUs0bjRnR1FURGlRY2hJQklUMlNmazMtS2c5c0k1NVM4cDVmY3RRY19XMzVESGVZM3dxSEx2NDY0dnFVWGd1V25VUFJXVFhYNA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 30 Jan 2026 07:43:16 GMT",
+      "snippet": "SK hynix Inc (Derivatives) price today, 000660 to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Binance to Launch Perpetual Futures for Samsung, SK Hynix, and Hyundai Stocks - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2M1Vy0tVkxVYlJkWERfQ28xR0tOM2x3RWNhQk5UdHJsTkR3Y3MzSjFfN1hObDNLMlc1TnNDS3QxWE16NnJURE4yeVhFeVVDT3BaU1J3NWhKRXoyYm1jS0dxZkZzQ0RwcDhzaEZKSTBFMkVjZ3p3ODZXQzR1ams1MFNNX25CMENXQzlWOEJmaGpIQQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 01 Jun 2026 18:46:35 GMT",
+      "snippet": "Binance to Launch Perpetual Futures for Samsung, SK Hynix, and Hyundai Stocks&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Korean stocks meet DeFi as Lighter lists Samsung, SK Hynix and Hyundai perps - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU2RiSXpIWklRZmx6cTlaem9qZFY1WVc5UWxGcWs3Y3ktXzZ2Yk1SVXZLLVY5bFotckdWa2lVdXhWM3dNWEdKOEhFbWpzX1l3ck1qbUlNcGl0MzZ4U0hfdGVsNHgyTklCc19VeUI4NnNiaFZuRzRjTHZ6cDlfcG1mSzJvY1R6azUzSWUzbjVucm1xQy1aZFdzaG1aaW1TbXh2SllxNU9oaEJibzZwU1FHYjdObmNmVkpyZlpyR1VJV0tDT2xINFNwX3Q5c2I?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "snippet": "Korean stocks meet DeFi as Lighter lists Samsung, SK Hynix and Hyundai perps&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Whales Shorting SK Hynix On Hyperliquid Face Over $1.5M In Losses As Stock Surges - Bitcoin World",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Qc09LdkRIX3ZoOTl1ZWtqNlFOSTBJMnlTTF9FV185TTlTRDFqQ1VRb0JnOElkNzdtMHcxQ3VMeXd1dkY0YVhSVlB6OUlxTDE4R00zZVpqRDdObno5M2tvRU1YMjRCM3dBMEV3UVVVeGV3RlpsODdjNzdpSQ?oc=5",
+      "source": "Bitcoin World",
+      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
+      "snippet": "Whales Shorting SK Hynix On Hyperliquid Face Over $1.5M In Losses As Stock Surges&nbsp;&nbsp;Bitcoin World"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
