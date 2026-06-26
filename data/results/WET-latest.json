@@ -1,0 +1,243 @@
+{
+  "token": "WET",
+  "requestedInput": "WET",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T15:47:40.079Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "WET",
+    "name": "WET",
+    "generatedAt": "2026-06-26T15:47:31.319Z",
+    "summary": "WET是XRPL链上极低流动性的代币，市值仅9美元，24小时交易量0.17美元，几乎无实际交易。新闻提及HumidiFi项目重启曾带来160%涨幅，但当前链上数据表明该代币已基本失去流动性，存在极高风险。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非流动性恢复至至少1万美元以上且有实际交易量，否则逻辑持续有效。"
+    },
+    "catalysts": [
+      "HumidiFi项目重启曾引发短期炒作",
+      "代币解锁新闻可能带来短期关注"
+    ],
+    "latestNews": [
+      {
+        "title": "HumidiFi relaunch sparks 160% surge in WET token",
+        "impact": "利好",
+        "reason": "项目重启曾推动价格短期上涨，但当前链上数据已无交易量支撑。"
+      },
+      {
+        "title": "Major Token Unlocks This Week: HOME Leads With $23.56M Release, WET and ME Also Scheduled",
+        "impact": "中性",
+        "reason": "代币解锁可能增加供应压力，但WET市值极低，影响有限。"
+      }
+    ],
+    "fundamentals": [
+      "WET是HumidiFi项目代币，最初在Solana上推出，现存在于XRPL链上。",
+      "当前市值仅9美元，流动性7.18美元，几乎无实际交易。",
+      "项目官网和详细资料缺失，透明度低。",
+      "代币总供应量和流通量未知。"
+    ],
+    "marketRead": [
+      "24小时价格变化无数据，交易量仅0.17美元，流动性极差。",
+      "无K线数据，市场深度几乎为零，任何买入都可能引发价格剧烈波动。",
+      "代币价格1.319e-10美元，极低价格吸引投机者，但实际交易量表明无人参与。"
+    ],
+    "risks": [
+      "流动性极低，无法正常买卖，存在滑点风险。",
+      "项目信息不透明，无官网或团队信息。",
+      "代币解锁可能带来抛压。",
+      "链上交易量几乎为零，可能已无人关注。",
+      "合约风险：代币地址为WET.rL8Pa1Gheve5EvsWeth8EEXJYRTg6Yutpe，需验证安全性。"
+    ],
+    "watchlist": [
+      "流动性是否恢复至1万美元以上",
+      "是否有新的项目公告或交易所上线",
+      "代币解锁事件是否引发交易量变化"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，缺乏其他交易所或链上数据验证。",
+      "新闻来源为Google News聚合，部分内容可能过时或不可靠。",
+      "无社区或社交媒体数据，无法评估市场情绪。"
+    ]
+  },
+  "profile": {
+    "id": "WET.rL8Pa1Gheve5EvsWeth8EEXJYRTg6Yutpe",
+    "symbol": "WET",
+    "name": "WET",
+    "categories": [
+      "xrpl",
+      "xrpl"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on xrpl / xrpl. Pair URL: https://dexscreener.com/xrpl/wet.rl8pa1gheve5evsweth8eexjyrtg6yutpe_xrp",
+    "marketCapRank": null,
+    "currentPriceUsd": 1.319e-10,
+    "marketCapUsd": 9,
+    "fullyDilutedValuationUsd": 9,
+    "totalVolumeUsd": 0.17,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-11-19",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "WET.rL8Pa1Gheve5EvsWeth8EEXJYRTg6Yutpe_XRP",
+    "baseTokenAddress": "WET.rL8Pa1Gheve5EvsWeth8EEXJYRTg6Yutpe",
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "liquidityUsd": 7.18,
+    "pairUrl": "https://dexscreener.com/xrpl/wet.rl8pa1gheve5evsweth8eexjyrtg6yutpe_xrp",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "xrpl",
+    "pair": "WET/XRP",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "WET.rL8Pa1Gheve5EvsWeth8EEXJYRTg6Yutpe_XRP",
+    "pairUrl": "https://dexscreener.com/xrpl/wet.rl8pa1gheve5evsweth8eexjyrtg6yutpe_xrp",
+    "lastPrice": 1.319e-10,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.17,
+    "liquidityUsd": 7.18,
+    "fullyDilutedValuationUsd": 9,
+    "marketCapUsd": 9,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "url": "https://dexscreener.com/xrpl/wet.rl8pa1gheve5evsweth8eexjyrtg6yutpe_xrp",
+    "pairAddress": "WET.rL8Pa1Gheve5EvsWeth8EEXJYRTg6Yutpe_XRP",
+    "baseToken": {
+      "address": "WET.rL8Pa1Gheve5EvsWeth8EEXJYRTg6Yutpe",
+      "name": "WET",
+      "symbol": "WET"
+    },
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "priceNative": "0.0000000001270",
+    "priceUsd": "0.0000000001319",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 0.17,
+      "h6": 0.17,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 7.18,
+      "base": 27234560896,
+      "quote": 3.4608
+    },
+    "fdv": 9,
+    "marketCap": 9,
+    "pairCreatedAt": 1763544041000
+  },
+  "news": [
+    {
+      "title": "Humidifi Price Today | WET to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GT1B2NllhQmZHUzg0aUZVWS02N2phTHhlblp0aVUwdmZyZU5oOGFZR0dYVjcyd2wtcFdhUVpTZE04UzM4bmdSUzZHckxBWE9vMTk4?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 21 Jun 2026 11:05:00 GMT",
+      "snippet": "Humidifi Price Today | WET to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Major Token Unlocks This Week: HOME Leads With $23.56M Release, WET and ME Also Scheduled - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sVnhsOU5nbTJiVTA1bkVvU2VwcG5DaWNzeGlicTFXODliVTl5YkhjbXRUejAzamYtQ1dKS0w5cUZRZkdDRmVQdXpEci1mTE91TFYwcnVaakZ4TDhoblJxc2s1dm1FMlFQaFNsODI5ZzNBVGhrNERVNnJVd0p2UVE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "snippet": "Major Token Unlocks This Week: HOME Leads With $23.56M Release, WET and ME Also Scheduled&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "HumidiFi relaunch sparks 160% surge in WET token - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjNqbTVORGU2Q0dwcnEtRDE5dl9UTFloQnZEZFJybXpyaGt3aUk1RGVsNnp6c3haN2kzb3NFUnVVdEY1c1plallzY0tUWTBQV2wtRWZfMnctcTNZTHpBVkRBR1ZUOXh6dkk5MTVGaGhFRVBiOU84QjZ2VVRCOXVqVElLdEdJWXYway0xdnF0OG5PbGpiU0g2T3V5Q1hMNlMtRVNQa29hbw?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "snippet": "HumidiFi relaunch sparks 160% surge in WET token&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Humidifi Price, WET Price, Live Charts, and Marketcap: humidifi coin, humidifi crypto - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MMFFUaklPV1YxbUppR05ieWtJYmZUcmQxMzlTZ2Vxd2gxaVQ3ZlBnSzVDNW1WUVltRWFVNmJkS2pkTzV4NU5PRm5VYU54RWpLVzhETVp6YzhDZVZnaHc4RDd3TW5fTG12UkhtMmNKWUpiLVlRZ3c?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Sat, 06 Dec 2025 23:51:47 GMT",
+      "snippet": "Humidifi Price, WET Price, Live Charts, and Marketcap: humidifi coin, humidifi crypto&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "HumidiFi Price Prediction: Is WET a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1NNa0N2azFkb0J5Ykp3dGxOQVZzY3JtbWJQZExXTTZkdE8tTkxLMmlNVzMweE4wbVE2U3FEQjR4LVQyS21uejA4UlJrX1dTX3ZrV2NRamI1VEJpblBTZFpiNERBMUZhYlU0SjBOcDhvT2NWV2djQ1hOZVEzY2pTYzBhQQ?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "snippet": "HumidiFi Price Prediction: Is WET a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Is HumidiFi WET Token The Next 100X Gem on Solana? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UWE81UDVKT2xiVW1HU0dHRXgxdUs4LWgzdTNUZW5TNnhEbWh3RU5kTDhLMndKUnNhdXFBT1RJTFFtYnJKUkxaVDBEYS15bGxNQThMSmZsTFpGRE12SG9DNlZwU0dLa0NHLTdwSnRzSWxTWEp1aHJtcl9lNnpFMEk?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Tue, 25 Nov 2025 08:00:00 GMT",
+      "snippet": "Is HumidiFi WET Token The Next 100X Gem on Solana?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Massive Solana DEX HumidiFi Set to Unleash WET Token in November - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rYmVNWF92Vi03Ri1rbUxPSExRSFp6MThWd2dYb2trZlV6a1Y0MzFtcHExZUlHMldtQUVnb0hQYVd6aFZJZUt3YzJsUC0yaTFwOFJlSFF5bGN6NVFpWVppTWxaNEdDRGh5Mk1Cei1KbTc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "snippet": "Massive Solana DEX HumidiFi Set to Unleash WET Token in November&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=WET: Throttled\n"
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "token": "AGLD",
+  "requestedInput": "AGLD",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T15:47:46.687Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AGLD",
+    "name": "Adventure Gold",
+    "generatedAt": "2026-06-26T15:47:35.558Z",
+    "summary": "AGLD在Cronos链VVS Finance上24小时暴涨56.92%，但流动性仅1.95万美元，市值仅2.86万美元，属于极低流动性微型币。无明确利好催化，新闻均为旧闻或预测，上涨可能由少量资金拉盘或操纵导致。风险极高，不建议参与。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性极低，任何买入都可能被操纵，无有效逻辑支撑。"
+    },
+    "catalysts": [
+      "无明确催化剂，价格异动可能源于小市值币种的资金操纵或错误定价。"
+    ],
+    "latestNews": [
+      {
+        "title": "Adventure Gold (AGLD) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+        "impact": "中性",
+        "reason": "旧闻（2022年），无时效性，不反映当前情况。"
+      },
+      {
+        "title": "Adventure Gold price today, AGLD to USD live price, marketcap and chart - CoinDesk",
+        "impact": "中性",
+        "reason": "旧闻（2023年），无时效性。"
+      },
+      {
+        "title": "Adventure Gold Price | AGLD Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+        "impact": "中性",
+        "reason": "旧闻（2021年），无时效性。"
+      },
+      {
+        "title": "Adventure Gold (AGLD) Price Prediction 2025-2030: Will AGLD Reach $10? Here's What You Need to Know! - WEEX",
+        "impact": "中性",
+        "reason": "价格预测文章，无实质利好。"
+      },
+      {
+        "title": "Adventure Gold (AGLD) Price Prediction | Forecast for 2026, 2027, 2028, 2030 & Beyond｜MEXC - MEXC Exchange",
+        "impact": "中性",
+        "reason": "价格预测文章，无实质利好。"
+      },
+      {
+        "title": "What is Adventure Gold (AGLD): NFT Gamification 101 - Phemex",
+        "impact": "中性",
+        "reason": "介绍性文章（2022年），无时效性。"
+      },
+      {
+        "title": "Adventure Gold Price: AGLD/SGD - Revolut",
+        "impact": "中性",
+        "reason": "价格页面，无实质内容。"
+      },
+      {
+        "title": "What is Adventure Gold (AGLD)? - OKX",
+        "impact": "中性",
+        "reason": "介绍性文章（2025年），但无新利好。"
+      },
+      {
+        "title": "AGLD/USDT - Binance",
+        "impact": "中性",
+        "reason": "Binance交易对页面，但当前交易对在Cronos链，非Binance。"
+      },
+      {
+        "title": "Convert 1 AGLD to 36.2845 SKL | Adventure Gold Converter - Binance",
+        "impact": "中性",
+        "reason": "转换工具页面，无实质内容。"
+      }
+    ],
+    "fundamentals": [
+      "AGLD是Adventure Gold代币，与NFT游戏相关，但项目信息陈旧。",
+      "当前交易对在Cronos链VVS Finance，流动性极低（1.95万美元），市值仅2.86万美元。",
+      "无总供应量、流通量数据，代币经济不透明。",
+      "无团队、路线图等基本面信息。"
+    ],
+    "marketRead": [
+      "24小时涨幅56.92%，但成交量仅7621美元，流动性1.95万美元，表明市场深度极差。",
+      "价格波动可能由小额买单拉盘，无持续上涨基础。",
+      "无历史价格数据（ATH、7日、14日、30日变化均为null），无法判断趋势。"
+    ],
+    "risks": [
+      "流动性极低，滑点巨大，买入后难以卖出。",
+      "市值极小，易被操纵，存在拉高出货风险。",
+      "项目信息不透明，无可靠基本面支撑。",
+      "链上DEX交易对，合约风险未知。",
+      "无新闻催化，上涨原因不明，可能为短期资金炒作。"
+    ],
+    "watchlist": [
+      "关注流动性是否增加，若流动性持续低于5万美元则保持回避。",
+      "关注是否有官方公告或项目更新。",
+      "监控链上大额转账或持仓变化。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，无CEX数据。",
+      "新闻均为聚合旧闻，无近期实质性利好。",
+      "项目资料极度匮乏，无法进行深入分析。"
+    ]
+  },
+  "profile": {
+    "id": "0xD3BB5C6961157eB4eb03658Dc5D4144808828168",
+    "symbol": "AGLD",
+    "name": "Adventure Gold",
+    "categories": [
+      "cronos",
+      "vvsfinance"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on cronos / vvsfinance. Pair URL: https://dexscreener.com/cronos/0x0261678462654b4cbfaa629e9972063233902200",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.2026,
+    "marketCapUsd": 28571,
+    "fullyDilutedValuationUsd": 28571,
+    "totalVolumeUsd": 7621.23,
+    "priceChange24hPct": 56.92,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2022-05-16",
+    "chainId": "cronos",
+    "dexId": "vvsfinance",
+    "pairAddress": "0x0261678462654B4CBFAa629e9972063233902200",
+    "baseTokenAddress": "0xD3BB5C6961157eB4eb03658Dc5D4144808828168",
+    "quoteToken": {
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "name": "Wrapped CRO",
+      "symbol": "WCRO"
+    },
+    "liquidityUsd": 19525.85,
+    "pairUrl": "https://dexscreener.com/cronos/0x0261678462654b4cbfaa629e9972063233902200",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "vvsfinance",
+    "pair": "AGLD/WCRO",
+    "chainId": "cronos",
+    "dexId": "vvsfinance",
+    "pairAddress": "0x0261678462654B4CBFAa629e9972063233902200",
+    "pairUrl": "https://dexscreener.com/cronos/0x0261678462654b4cbfaa629e9972063233902200",
+    "lastPrice": 0.2026,
+    "priceChange24hPct": 56.92,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 7621.23,
+    "liquidityUsd": 19525.85,
+    "fullyDilutedValuationUsd": 28571,
+    "marketCapUsd": 28571,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "cronos",
+    "dexId": "vvsfinance",
+    "url": "https://dexscreener.com/cronos/0x0261678462654b4cbfaa629e9972063233902200",
+    "pairAddress": "0x0261678462654B4CBFAa629e9972063233902200",
+    "baseToken": {
+      "address": "0xD3BB5C6961157eB4eb03658Dc5D4144808828168",
+      "name": "Adventure Gold",
+      "symbol": "AGLD"
+    },
+    "quoteToken": {
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "name": "Wrapped CRO",
+      "symbol": "WCRO"
+    },
+    "priceNative": "3.6987",
+    "priceUsd": "0.2026",
+    "txns": {
+      "m5": {
+        "buys": 1,
+        "sells": 4
+      },
+      "h1": {
+        "buys": 13,
+        "sells": 11
+      },
+      "h6": {
+        "buys": 87,
+        "sells": 60
+      },
+      "h24": {
+        "buys": 144,
+        "sells": 116
+      }
+    },
+    "volume": {
+      "h24": 7621.23,
+      "h6": 4773.25,
+      "h1": 1124.37,
+      "m5": 263.99
+    },
+    "priceChange": {
+      "m5": 2.97,
+      "h1": 14.61,
+      "h6": 47.49,
+      "h24": 56.92
+    },
+    "liquidity": {
+      "usd": 19525.85,
+      "base": 48072,
+      "quote": 178607
+    },
+    "fdv": 28571,
+    "marketCap": 28571,
+    "pairCreatedAt": 1652670939000
+  },
+  "news": [
+    {
+      "title": "Adventure Gold (AGLD) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tY3FQQlFYVjNSYnhYYXRGenBKZ0d2WU1KdGQzZHdSa0IxRnlOcHM0OUdUSUlsVm5OWUk3WFN1Z2lzM3NxSHZ5TWVEQnNhNTFNUGQtQ0Y0T2sxY2l5Q3hTU0I1ckx5Q2FBbDdxWnI1MVh1MjA?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 15 Sep 2022 22:08:07 GMT",
+      "snippet": "Adventure Gold (AGLD) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Adventure Gold price today, AGLD to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4bU8zbkxsYUtrUmRRMWZLMElUaW9uTjJ2a29tTS1vN2RxbjlnTkZBYTFpcnU0bnFXSnJZLVVZTFFEQTVUczNtYUIzRQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 08 May 2023 02:10:07 GMT",
+      "snippet": "Adventure Gold price today, AGLD to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Adventure Gold Price | AGLD Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfdWhfVDNzb2l3V3EwOUZfbkFPSmhNZVU1UUtXclJQQ1dMSnpKOG1OcjhfRXJJa2EyS1g5SnJUWDZBSkNxbld1d1MzT0R1MThnTHNWNw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 03 Sep 2021 07:00:00 GMT",
+      "snippet": "Adventure Gold Price | AGLD Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Adventure Gold (AGLD) Price Prediction 2025-2030: Will AGLD Reach $10? Here's What You Need to Know! - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW9WYjhZLWVqbkpoX3hqcVdfUkVncFRRWmNJVG5wc0Q2X1d1SUVCYnhzRENkSERiVkU3VGZqRjNJV0dqYXlLdFM2Mng2aHdqa0xSV0xqcDVBMVFDeUJYeWl2NGpUUkh3RW8yRDY5dXBPdzcxUDhJcWdNd3Z5SlBqVEpUcnR1emlSUGR0NXJKbFVfcW5iUjJBNnNPYkExSUt1OTdiLUc0MWY1ZmI0RUNMVEc2SUpKVEVkWS1XQ3RiSzVfeGh4YU9iU0xCMA?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Tue, 31 Dec 2024 08:00:00 GMT",
+      "snippet": "Adventure Gold (AGLD) Price Prediction 2025-2030: Will AGLD Reach $10? Here's What You Need to Know!&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Adventure Gold (AGLD) Price Prediction | Forecast for 2026, 2027, 2028, 2030 & Beyond｜MEXC - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pNDctX1JMeDdXNUxGcVgtSkR1S3JXaDIxU3NLS1hoVzg0LUpobEoyb0hSSW53aWRiS3ZCajEzUjdncDRWbGZzcjJJNDY3allxZ1pn?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Tue, 11 Feb 2025 15:45:13 GMT",
+      "snippet": "Adventure Gold (AGLD) Price Prediction | Forecast for 2026, 2027, 2028, 2030 & Beyond｜MEXC&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "What is Adventure Gold (AGLD): NFT Gamification 101 - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHaU9IMkhiVmNkRmZMRzI3eG4weFItQ2trWm1pUnZ6UDdXM1huQ09aajFrbklnSkoxaENrLTBwdFNXUzhUQzZCV2R3VDNxMk5GQ3RmamY4SUs4cVdYcWxzMEE4RzdEdVYtdzRZ?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Tue, 22 Feb 2022 08:00:00 GMT",
+      "snippet": "What is Adventure Gold (AGLD): NFT Gamification 101&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Adventure Gold Price: AGLD/SGD - Revolut",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHeEVnY1hvVmQwSUJlVERDd1FrdWVfQmY0TXZGLWlzUmlqNXUzLWNHX3J5SXZLdFFwXzBnTm9DM29BMDI0djJzcXFia0VURFFjc2kxTmtNYkRDb29W?oc=5",
+      "source": "Revolut",
+      "publishedAt": "Sun, 24 Dec 2023 06:31:35 GMT",
+      "snippet": "Adventure Gold Price: AGLD/SGD&nbsp;&nbsp;Revolut"
+    },
+    {
+      "title": "What is Adventure Gold (AGLD)? - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBidllIWUFGMHpDNXhld1Voczd3Ul9NdUFfMDVRaUJhbzZBa3huWnVsSnFJdHg5MHRVdFFCVUd0eGRXdkZ4OGNBblh5UmFFa1RDT2laX1hRS0ZCenlNcVE3UEM5bmc?oc=5",
+      "source": "OKX",
+      "publishedAt": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "snippet": "What is Adventure Gold (AGLD)?&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "AGLD/USDT - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rRzBjZ19EbG1LMjRVaG96VVJFTDVzcnNNXzUzUkVVZGVKcS1mNUNTdF9FODZaLWdEaEZ3eE9HcVRMNENaM0k5ek1URU5MejNNV2N6YXZoUHQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 12 Oct 2024 11:05:47 GMT",
+      "snippet": "AGLD/USDT&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Convert 1 AGLD to 36.2845 SKL | Adventure Gold Converter - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZ3dwRWVhVTR3WnpsTHJSdHRrVDc0SHg1SFNhbFdRbk5MQjhqMFJZQWZrMkFrWDFENUNSWTZLTUQ2MDV4MG5ENXdQQThVdWsyRDExT0lkeDRGZw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 02 Feb 2024 05:58:40 GMT",
+      "snippet": "Convert 1 AGLD to 36.2845 SKL | Adventure Gold Converter&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/adventure-gold?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

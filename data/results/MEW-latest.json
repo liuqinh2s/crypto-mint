@@ -1,0 +1,291 @@
+{
+  "token": "MEW",
+  "requestedInput": "MEW",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T15:47:39.491Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MEW",
+    "name": "Mew",
+    "generatedAt": "2026-06-26T15:47:31.154Z",
+    "summary": "MEW是BSC链上的一个低流动性Meme币，24小时涨幅0.8%，但流动性仅36美元，成交量极低。新闻提及的MEW为Solana链同名代币，与本币无关。基本面薄弱，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性极低，任何买入都可能造成价格剧烈波动，且无法有效卖出。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Cat in a Dogs World Price Prediction 2026, 2027 – 2030: Will MEW Price Hit $0.001? - Coinpedia",
+        "impact": "中性",
+        "reason": "新闻提及的MEW为Solana链代币，与本BSC链MEW无关。"
+      },
+      {
+        "title": "Solana Meme Coin Mew Secures Binance.US Listing - Yahoo Finance",
+        "impact": "中性",
+        "reason": "该新闻涉及Solana链MEW，非本币。"
+      },
+      {
+        "title": "Memecoin Moo Deng, MEW Surges After Robinhood Listing - CoinDesk",
+        "impact": "中性",
+        "reason": "同样指Solana链MEW，与本币无关。"
+      }
+    ],
+    "fundamentals": [
+      "BSC链上PancakeSwap交易对，代币地址0x83a0A1aEBc347E36E45DF6B83AaF85419bCf9411",
+      "流动性仅36.43美元，24小时交易量0.06美元",
+      "市值约46万美元，但流动性极低，实际可交易量极小",
+      "无官网、无社交媒体、无团队信息",
+      "与Solana链上知名Meme币MEW（Cat in a Dogs World）同名但不同链，易混淆"
+    ],
+    "marketRead": [
+      "24小时涨幅0.8%，但成交量极低，价格无实际意义",
+      "流动性极低，任何大额买入或卖出都会导致价格剧烈波动",
+      "无历史K线数据，无法进行技术分析"
+    ],
+    "risks": [
+      "流动性极低，存在无法卖出或滑点巨大的风险",
+      "与Solana链MEW同名，可能为仿盘或蹭热度项目",
+      "无任何项目信息，团队匿名，合约未审计",
+      "成交量几乎为零，市场关注度极低",
+      "可能为蜜罐或恶意合约"
+    ],
+    "watchlist": [
+      "流动性是否增加",
+      "是否有官方渠道或社区建立",
+      "合约是否经过审计"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，流动性及交易量数据可靠但极低",
+      "新闻内容均指向Solana链MEW，与本BSC链MEW无关，需注意区分"
+    ]
+  },
+  "profile": {
+    "id": "0x83a0A1aEBc347E36E45DF6B83AaF85419bCf9411",
+    "symbol": "MEW",
+    "name": "Mew",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x737ae23900dd4b9174c195effb01be5d6d838e51",
+    "marketCapRank": null,
+    "currentPriceUsd": 4.59,
+    "marketCapUsd": 459957,
+    "fullyDilutedValuationUsd": 459957,
+    "totalVolumeUsd": 0.06,
+    "priceChange24hPct": 0.8,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": null,
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x737aE23900dd4b9174C195EffB01BE5D6d838E51",
+    "baseTokenAddress": "0x83a0A1aEBc347E36E45DF6B83AaF85419bCf9411",
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "liquidityUsd": 36.43,
+    "pairUrl": "https://dexscreener.com/bsc/0x737ae23900dd4b9174c195effb01be5d6d838e51",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "MEW/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x737aE23900dd4b9174C195EffB01BE5D6d838E51",
+    "pairUrl": "https://dexscreener.com/bsc/0x737ae23900dd4b9174c195effb01be5d6d838e51",
+    "lastPrice": 4.59,
+    "priceChange24hPct": 0.8,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.06,
+    "liquidityUsd": 36.43,
+    "fullyDilutedValuationUsd": 459957,
+    "marketCapUsd": 459957,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x737ae23900dd4b9174c195effb01be5d6d838e51",
+    "pairAddress": "0x737aE23900dd4b9174C195EffB01BE5D6d838E51",
+    "labels": [
+      "v1"
+    ],
+    "baseToken": {
+      "address": "0x83a0A1aEBc347E36E45DF6B83AaF85419bCf9411",
+      "name": "Mew",
+      "symbol": "MEW"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.008097",
+    "priceUsd": "4.59",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 0.06,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": 0.8
+    },
+    "liquidity": {
+      "usd": 36.43,
+      "base": 3.962,
+      "quote": 0.03208
+    },
+    "fdv": 459957,
+    "marketCap": 459957
+  },
+  "news": [
+    {
+      "title": "Cat in a Dogs World Price Prediction 2026, 2027 – 2030: Will MEW Price Hit $0.001? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXVwZGVic0pCemMxVTBJRlJPdDhRS1l1d0pMSUM0Ni1Jd0ViaGJjcF9BWWEyZTZSQUJ5cDc0SWlEMV96eHhET244OV9FSWJDNkV1ZFgxZ196RjUxclZiaXVFUEhSelZEejBKUEU4RjJYOVdkQzJHcWQxeDVqM1VNRG91RkY4NTTSAYwBQVVfeXFMTXlMYnNFZmVxcjFWeEpLbWJSaFd4elNnZmdVZm04Q0cxOGJhMmhTZVpGSEpYcjdXYjNSUlJVYTNkX2xDOGVFNTRDSjJMdWczZG5hOXFGVTQ1dXpDdmN3U2ticUtrZHktSGhuZEZseUNmLW9qNERMS1VsUEh2RFJaMzY1NXZXUGdRMWdsZDk?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Mon, 22 Jun 2026 08:31:00 GMT",
+      "snippet": "Cat in a Dogs World Price Prediction 2026, 2027 – 2030: Will MEW Price Hit $0.001?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Cat in a Dogs World Price Prediction 2026, 2027 – 2030: Can MEW Token Reach $0.001? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mSnFZUEJ1WUhlWDhGNGU0NFNVcWpaODVJOEJGSnNDZzZiYjVQSjJzRm8yUGx2UnphenBGME01OFNKMzBXNHRuUFZPeEdlZjd0d2tiMm1Hc2NhdUtfTTZBWFJwUdIBY0FVX3lxTE5mSnFZUEJ1WUhlWDhGNGU0NFNVcWpaODVJOEJGSnNDZzZiYjVQSjJzRm8yUGx2UnphenBGME01OFNKMzBXNHRuUFZPeEdlZjd0d2tiMm1Hc2NhdUtfTTZBWFJwUQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 24 Jun 2026 02:11:55 GMT",
+      "snippet": "Cat in a Dogs World Price Prediction 2026, 2027 – 2030: Can MEW Token Reach $0.001?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Solana Meme Coin Mew Secures Binance.US Listing - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTmxsTTYzQVIwemtTUW9rMTJKelpJYlZSem1LWGwwU0hGb1VwSkUyakVKQ0JaY0J6M3kyOU9SSkFlY3NLLXBrblhWZnBqUE90V1I2REFQNExJbVZyYnJwVHZ5QkxHckRNTlQ2RHpPZ0ZLUjIzM1V4c2xnSDF3c3M?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "snippet": "Solana Meme Coin Mew Secures Binance.US Listing&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Cat in a Dogs World ($MEW) Price Prediction 2026– 2030 - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IUkZ3YTB3YTdpMzRKSVRDa3BwOUZFdGl5OTM2SUdiRlBQbUZJOS03X2RzMUhOdFVmVjZpQlVTdTR2UTNHR3Y4U2VQbXl5Q04wTExWcjhEM3VNRlM2Q1N0ak5PQmZTbmpRUWZPd0p3?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Sat, 17 Jan 2026 08:00:00 GMT",
+      "snippet": "Cat in a Dogs World ($MEW) Price Prediction 2026– 2030&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Memecoin Moo Deng, MEW Surges After Robinhood Listing - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUlJd2NTclVocC1QdzFuWVZPdHBtQ2JoVVFpaEN4NXV6X2ZJSVU0TXdfa2ZuOEpCQzhiT24wZnQ0YWY1VmhROThHV0hDckl2eTJWWXR5Z3NCLTc3dGl1S05SaHVfenV4SWl6clExVzZIcUF6dWp5T0pLeXhZaS1KdkZ5MnFWdkJVVTdCdjNEYklhWW42SmNEa3RZb3I?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 22 May 2025 07:00:00 GMT",
+      "snippet": "Memecoin Moo Deng, MEW Surges After Robinhood Listing&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "cat in a dogs world (MEW) - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02R2JLWnNCNE1ld2F0d2RyNzNSbGwzZ2lxWERfejNMNTRNN0pOeUdYM0tCMDlVb1FPZ0ZNWG1GaE91OHQ0VE40VnVEY2Q3YURmdUhWbFo5bXVjYk1nVU9lSkVuUk1TTno2NldNQXQyREtpc2pxSm1BTQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Wed, 27 Mar 2024 03:56:41 GMT",
+      "snippet": "cat in a dogs world (MEW)&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "MEW Price Prediction 2024: Cat In A Dogs World Price Analysis - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2h4Vk5HVmt4d2laZFpyelBZVDNtUmk0dVpHazlCN1pKWE1vQ3BmNEV1N2VVVmdreUxTRkdQWTAtaW9qa2wta1k3RDI4ZXJTaDV5c3Fnem5IQldWdGI4N2p0LUduTld6SUtBZFBJZG0wNUVpaUJMOHNXbG94OS00TEhZNA?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 25 Jul 2024 07:00:00 GMT",
+      "snippet": "MEW Price Prediction 2024: Cat In A Dogs World Price Analysis&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "MEW Token Airdrop: Boosting Solana Mobile - Altcoin Buzz",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ3QxWldzRzBkTEFMQloxaEQ4OEwxbXdhMDRGc01zZE54dWp4QWc0OUlFRkNxZXdlY2dhclhfSk12VF96QXZxQ2Zzak5EN01oWUxULUdfa2llTlI0ZkRzU0ozYWo5ZjhXVUJJaHdLVGV3UjRfSVRVWjdRaklHcVo5akVhaHR6c0JONEhYQThwdlZXUQ?oc=5",
+      "source": "Altcoin Buzz",
+      "publishedAt": "Tue, 02 Apr 2024 07:00:00 GMT",
+      "snippet": "MEW Token Airdrop: Boosting Solana Mobile&nbsp;&nbsp;Altcoin Buzz"
+    },
+    {
+      "title": "What Is Cat in a Dog's World (MEW)? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSllfZmhNY0txMnhBUG5KdmJtaWhJa1dMUl9Ob0VQRWRydklXM1RiVkhPTFMtTE4zQjYzcE5jUWhOSE9ubzhhdEhLUGtpcUZLZG4yYlB1NG9ZbWlZLWh4NWhVOFVtemN0YVhEeTEwRXA2ZGNUc2w0eGlFbWtVV1N3WlJvSkpJZDBSTkp30gGQAUFVX3lxTFBudGRCcU91ODNsNlljZXNXRHJUQ1RpMFZQZFFkSWx3a1JFbXBhWk9JWklWQ0xrV1lnaE9iWG9Pa19lM0ZZbldiQVRucUp3bF9xS0NEamFGSHpuTWJxblJWdGxGbW1BMTFtcmhXT1ZMZWRnQldGbXpmWUtPR3UzaVdNUS13cjB0UU9ZUGxKTS1IRA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 04 Apr 2024 07:00:00 GMT",
+      "snippet": "What Is Cat in a Dog's World (MEW)?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "MOG Crypto Leads Cat Coin Recovery: Is MOG Better than MEW and Popcat? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OVlVIa1dZYmVQbF9aVGF3WWhMYmc2S0Q5RC0zTXl2NGJxa0I2VE4xeHh4Qmwxd0x4UzdPMFAxWnlKeEY3NV9MU1BrUGFXZWhOTVVQd09pZW1ONi1ha1HSAWNBVV95cUxOZmRNeUI3OUVmTzNaVjhCRHJtY05xZVJJYmRHNGJpTWNvZUk3MEFUdXpLdGlsVnRITEhtNm5rUGhxVjlOcEJpSWtkTXVlTkdQMWNhWXJwZDE0WjhWMzVYZ0xpUG8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 07 Oct 2024 07:00:00 GMT",
+      "snippet": "MOG Crypto Leads Cat Coin Recovery: Is MOG Better than MEW and Popcat?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Ethereum Wallet MEW Enables Eth 2.0 Staking Through Your Phone - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDZnNERqeVlxT3NCMHBlZU9HRFdXSlB4aFpsZWR3alBwdUhFQzlSeEx0MDBfdDhlTTNia1VoR0lxbkZaTjNRNXQ4Z1dwSGtadWdodzRLOW41dlRYTmV5ZU94b0U4TlhkMHFxUGFmWi1tNHEzZk85Y3VPWEpoXzBneTd2NGJZWXV1X3JpWDBPWnpweEVOX1FXYjJXTTNmS3hFRTc2QlhvYnYxWlVDOFdwR0ZwWDQ1UQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 27 Aug 2021 09:24:48 GMT",
+      "snippet": "Ethereum Wallet MEW Enables Eth 2.0 Staking Through Your Phone&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Solana Meme Coin MEW's Cat Character to Feature on Trending Telegram Mini Game - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb0JBd3NkWjI2Wmk0Yi0tVWtTakUtSnlaN185S29MYzBvbXNxTXM3T2F0SDlEeUIxZTlGei1GUU9MVk8zLXZNUFRNYmZaSlR2dGlHNW5WTGdVOXRSSFlDWFc2SlB2b1c2di03WU93NUQ1NVhDTEJaRy1UU2JYYklORnF1OW1vcF9aRkQ0TXpmRzV4WGo1bFhpcWZRY2RYS3JXZ3hVTWxXUTBoUXg4R0c2WkxYdkMtS2hYb2dLRF9B?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 03 Jul 2024 07:00:00 GMT",
+      "snippet": "Solana Meme Coin MEW's Cat Character to Feature on Trending Telegram Mini Game&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Solana Meme Mascot Mew Joins Telegram Game ‘PixelTap’ to Defeat Doge - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUWppWTNUYkI5ZFJvdmJ0WmdSczhSb2p3bm5lczFic19tSU94dHQ4dzdDVlV2WmJ3b3RqQ3hrdDBsbGxSMkNqRkpTbDlVYXRlQXRMdmVpYVpCbzltNDF6RVhKc3EyZ2VSZ25KYm9LTzlUSnFVanVLWlN6Vmg4OHg0QkJ30gGKAUFVX3lxTE5GbVAtUTJYcm52cDVINXJ5NURyZFhKZXExY21aajZKRE1lZU1pNlhFd3VuVEpmWU9ZQ0s2NkwwZEhlYk43b0l1bDRGZnVzVlNpQzdjSkg3V1k3WkhJNlJhLXhkRFh4M2p0RWxvU0hlRTQyS2hXSG5mWGdLM1V4Yk8ySTZMUWx5anJJUQ?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Wed, 03 Jul 2024 07:00:00 GMT",
+      "snippet": "Solana Meme Mascot Mew Joins Telegram Game ‘PixelTap’ to Defeat Doge&nbsp;&nbsp;Decrypt"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=MEW: Throttled\n"
+  ]
+}
