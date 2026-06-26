@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-06-26T10:02:23.734Z",
+  "updatedAt": "2026-06-26T10:17:14.385Z",
   "results": [
     {
       "token": "AWE",
       "requestedInput": "AWE",
-      "name": "AWE",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T10:02:23.732Z",
+      "name": "AWE Network",
+      "score": 35,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-26T10:17:14.383Z",
       "latestPath": "data/results/AWE-latest.json"
     },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 35,
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T10:02:19.958Z",
+      "generatedAt": "2026-06-26T10:17:13.745Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "MMT",
       "requestedInput": "MMT",
-      "name": "Momentum",
-      "score": 35,
+      "name": "MMT",
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T10:02:23.073Z",
+      "generatedAt": "2026-06-26T10:17:13.690Z",
       "latestPath": "data/results/MMT-latest.json"
     },
     {
@@ -38,7 +38,7 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-26T10:02:19.018Z",
+      "generatedAt": "2026-06-26T10:17:11.179Z",
       "latestPath": "data/results/MEMES-latest.json"
     },
     {
