@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-06-26T11:17:21.836Z",
+  "updatedAt": "2026-06-26T11:32:22.378Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
+      "name": "Velodrome Finance",
+      "score": 30,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T11:17:16.214Z",
+      "action": "观察",
+      "generatedAt": "2026-06-26T11:32:18.712Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "BAS",
+      "requestedInput": "BAS",
+      "name": "BNB Attestation Service",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T11:32:20.423Z",
+      "latestPath": "data/results/BAS-latest.json"
+    },
+    {
+      "token": "VD",
+      "requestedInput": "INDA",
+      "name": "VinDax Coin",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T11:32:22.376Z",
+      "latestPath": "data/results/VD-latest.json"
     },
     {
       "token": "LUMIA",
@@ -100,16 +120,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T10:39:46.343Z",
       "latestPath": "data/results/XAN-latest.json"
-    },
-    {
-      "token": "VD",
-      "requestedInput": "INDA",
-      "name": "VinDax Coin",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T10:39:46.857Z",
-      "latestPath": "data/results/VD-latest.json"
     },
     {
       "token": "AWE",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-24T16:47:32.049Z",
       "latestPath": "data/results/BRKB-latest.json"
-    },
-    {
-      "token": "G",
-      "requestedInput": "G",
-      "name": "Gravity (原Galxe)",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-24T16:02:40.704Z",
-      "latestPath": "data/results/G-latest.json"
     }
   ]
 }
