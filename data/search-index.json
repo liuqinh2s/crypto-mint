@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-26T13:44:13.136Z",
+  "updatedAt": "2026-06-26T13:47:18.677Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T13:47:14.314Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "AIN",
+      "requestedInput": "AIN",
+      "name": "Infinity Ground",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T13:47:18.675Z",
+      "latestPath": "data/results/AIN-latest.json"
+    },
+    {
+      "token": "VD",
+      "requestedInput": "INDA",
+      "name": "VinDax Coin",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T13:47:16.827Z",
+      "latestPath": "data/results/VD-latest.json"
+    },
+    {
+      "token": "JTO",
+      "requestedInput": "JTO",
+      "name": "Jito",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T13:47:16.241Z",
+      "latestPath": "data/results/JTO-latest.json"
+    },
     {
       "token": "EIGEN",
       "requestedInput": "EIGEN",
@@ -20,16 +60,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T13:32:07.032Z",
       "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T13:32:07.257Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "HYPER",
@@ -60,16 +90,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T13:16:55.815Z",
       "latestPath": "data/results/HUMA-latest.json"
-    },
-    {
-      "token": "VD",
-      "requestedInput": "INDA",
-      "name": "VinDax Coin",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T13:16:55.455Z",
-      "latestPath": "data/results/VD-latest.json"
     },
     {
       "token": "IP",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T08:48:06.364Z",
       "latestPath": "data/results/1000RATS-latest.json"
-    },
-    {
-      "token": "ETN",
-      "requestedInput": "ETN",
-      "name": "Electroneum",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:48:16.890Z",
-      "latestPath": "data/results/ETN-latest.json"
-    },
-    {
-      "token": "CARV",
-      "requestedInput": "CARV",
-      "name": "CARV",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:48:13.461Z",
-      "latestPath": "data/results/CARV-latest.json"
     }
   ]
 }
