@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-06-26T21:32:29.578Z",
+  "updatedAt": "2026-06-26T21:47:23.135Z",
   "results": [
+    {
+      "token": "JST",
+      "requestedInput": "JST",
+      "name": "JUST",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T21:47:07.446Z",
+      "latestPath": "data/results/JST-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "VelodromeV2",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T21:47:05.742Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "ACX",
+      "requestedInput": "ACX",
+      "name": "Across Protocol",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T21:47:07.857Z",
+      "latestPath": "data/results/ACX-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T21:47:04.979Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "VELVET",
+      "requestedInput": "VELVET",
+      "name": "Velvet",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T21:47:14.508Z",
+      "latestPath": "data/results/VELVET-latest.json"
+    },
+    {
+      "token": "WEEDFEIN",
+      "requestedInput": "DFEN",
+      "name": "Justice for weedfenix",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T21:47:12.187Z",
+      "latestPath": "data/results/WEEDFEIN-latest.json"
+    },
+    {
+      "token": "KMNO",
+      "requestedInput": "KMNO",
+      "name": "Kamino",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T21:47:18.379Z",
+      "latestPath": "data/results/KMNO-latest.json"
+    },
+    {
+      "token": "LLY",
+      "requestedInput": "LLY",
+      "name": "Eli Lilly & Co.",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T21:47:14.644Z",
+      "latestPath": "data/results/LLY-latest.json"
+    },
+    {
+      "token": "1000RATS",
+      "requestedInput": "1000RATS",
+      "name": "Ordinals RATS",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T21:47:18.502Z",
+      "latestPath": "data/results/1000RATS-latest.json"
+    },
+    {
+      "token": "ETN",
+      "requestedInput": "ETN",
+      "name": "Electroneum",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T21:47:23.133Z",
+      "latestPath": "data/results/ETN-latest.json"
+    },
     {
       "token": "TAC",
       "requestedInput": "TAC",
@@ -10,16 +110,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-26T21:32:07.000Z",
       "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T21:32:01.739Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "DYDX",
@@ -80,16 +170,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T21:32:18.317Z",
       "latestPath": "data/results/MET-latest.json"
-    },
-    {
-      "token": "WEEDFEIN",
-      "requestedInput": "DFEN",
-      "name": "Justice for weedfenix",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T21:32:17.959Z",
-      "latestPath": "data/results/WEEDFEIN-latest.json"
     },
     {
       "token": "MEMES",
@@ -920,86 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T19:32:46.519Z",
       "latestPath": "data/results/CLANKER-latest.json"
-    },
-    {
-      "token": "APE",
-      "requestedInput": "APE",
-      "name": "ApeCoin",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:17:12.125Z",
-      "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "UNH",
-      "requestedInput": "UNH",
-      "name": "UnitedHealth Group (Derivatives)",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T19:17:12.293Z",
-      "latestPath": "data/results/UNH-latest.json"
-    },
-    {
-      "token": "IP",
-      "requestedInput": "IP",
-      "name": "Story",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T19:17:13.178Z",
-      "latestPath": "data/results/IP-latest.json"
-    },
-    {
-      "token": "AIN",
-      "requestedInput": "AIN",
-      "name": "Infinity Ground",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:17:18.307Z",
-      "latestPath": "data/results/AIN-latest.json"
-    },
-    {
-      "token": "HYPER",
-      "requestedInput": "HYPER",
-      "name": "Hyperlane",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T19:17:19.128Z",
-      "latestPath": "data/results/HYPER-latest.json"
-    },
-    {
-      "token": "TUT",
-      "requestedInput": "TUT",
-      "name": "Tutorial",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:17:19.420Z",
-      "latestPath": "data/results/TUT-latest.json"
-    },
-    {
-      "token": "EIGEN",
-      "requestedInput": "EIGEN",
-      "name": "Eigen",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T19:17:24.332Z",
-      "latestPath": "data/results/EIGEN-latest.json"
-    },
-    {
-      "token": "ETHFI",
-      "requestedInput": "ETHFI",
-      "name": "ether.fi",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:17:31.039Z",
-      "latestPath": "data/results/ETHFI-latest.json"
     }
   ]
 }
