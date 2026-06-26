@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-06-26T22:03:43.752Z",
+  "updatedAt": "2026-06-26T22:17:14.803Z",
   "results": [
+    {
+      "token": "ESP",
+      "requestedInput": "ESP",
+      "name": "ESP",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:17:00.262Z",
+      "latestPath": "data/results/ESP-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "VelodromeV2",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T22:16:57.380Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "SKYAI",
+      "requestedInput": "SKYAI",
+      "name": "SkyAI",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T22:17:01.838Z",
+      "latestPath": "data/results/SKYAI-latest.json"
+    },
+    {
+      "token": "RPL",
+      "requestedInput": "RPL",
+      "name": "Rocket Pool",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-26T22:16:59.263Z",
+      "latestPath": "data/results/RPL-latest.json"
+    },
+    {
+      "token": "XPL",
+      "requestedInput": "XPL",
+      "name": "XPL",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:17:05.192Z",
+      "latestPath": "data/results/XPL-latest.json"
+    },
+    {
+      "token": "BRKB",
+      "requestedInput": "BRKB",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:17:02.144Z",
+      "latestPath": "data/results/BRKB-latest.json"
+    },
+    {
+      "token": "NAORIS",
+      "requestedInput": "NAORIS",
+      "name": "Naoris Protocol",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:17:08.245Z",
+      "latestPath": "data/results/NAORIS-latest.json"
+    },
+    {
+      "token": "KAITO",
+      "requestedInput": "KAITO",
+      "name": "KAITO",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:17:12.716Z",
+      "latestPath": "data/results/KAITO-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:17:08.889Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "FOLKS",
+      "requestedInput": "FOLKS",
+      "name": "Folks",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T22:17:14.801Z",
+      "latestPath": "data/results/FOLKS-latest.json"
+    },
     {
       "token": "APE",
       "requestedInput": "APE",
@@ -10,16 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T22:03:23.570Z",
       "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:03:21.450Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "UNH",
@@ -70,16 +160,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T22:03:31.891Z",
       "latestPath": "data/results/TUT-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:03:31.539Z",
-      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "ETHFI",
@@ -920,86 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T19:47:13.027Z",
       "latestPath": "data/results/SOON-latest.json"
-    },
-    {
-      "token": "Q",
-      "requestedInput": "Q",
-      "name": "Quack AI",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T19:47:15.056Z",
-      "latestPath": "data/results/Q-latest.json"
-    },
-    {
-      "token": "SNOW",
-      "requestedInput": "SNOW",
-      "name": "SNOW",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:47:17.119Z",
-      "latestPath": "data/results/SNOW-latest.json"
-    },
-    {
-      "token": "GOAT",
-      "requestedInput": "GOAT",
-      "name": "GOAT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:47:17.208Z",
-      "latestPath": "data/results/GOAT-latest.json"
-    },
-    {
-      "token": "WET",
-      "requestedInput": "WET",
-      "name": "WET",
-      "score": 2,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:47:23.050Z",
-      "latestPath": "data/results/WET-latest.json"
-    },
-    {
-      "token": "AGLD",
-      "requestedInput": "AGLD",
-      "name": "Adventure Gold",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:47:25.616Z",
-      "latestPath": "data/results/AGLD-latest.json"
-    },
-    {
-      "token": "RAY",
-      "requestedInput": "RAY",
-      "name": "Raydium",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-26T19:32:25.174Z",
-      "latestPath": "data/results/RAY-latest.json"
-    },
-    {
-      "token": "ORCA",
-      "requestedInput": "ORCA",
-      "name": "Orca",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T19:32:27.969Z",
-      "latestPath": "data/results/ORCA-latest.json"
-    },
-    {
-      "token": "STABLE",
-      "requestedInput": "STABLE",
-      "name": "Stable",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:32:24.284Z",
-      "latestPath": "data/results/STABLE-latest.json"
     }
   ]
 }
