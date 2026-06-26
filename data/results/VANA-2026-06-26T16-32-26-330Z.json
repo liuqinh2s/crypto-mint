@@ -1,0 +1,330 @@
+{
+  "token": "VANA",
+  "requestedInput": "VANA",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T16:32:26.330Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "VANA",
+    "name": "Vana",
+    "generatedAt": "2026-06-26T16:32:14.778Z",
+    "summary": "Vana是一个专注于用户数据所有权的AI+区块链项目，近期有代币解锁事件（6月16日）和Binance Launchpool及交易大赛等利好。当前价格6.96美元，市值约8.36亿美元，流动性极好（8.35亿美元）。但24小时成交量仅3.99美元，表明流动性主要由做市商提供，实际交易活跃度极低。项目基本面扎实，有Coinbase Ventures、YZi Labs等投资，CZ担任顾问。但代币解锁可能带来抛压，且当前价格缺乏近期交易数据支撑，需警惕流动性陷阱。",
+    "rating": {
+      "score": 45,
+      "label": "谨慎试仓",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 20,
+      "holdingPeriod": "1-3天",
+      "invalidation": "价格跌破6.5美元或成交量持续低迷"
+    },
+    "catalysts": [
+      "Binance Launchpool上线VANA（2024年12月）",
+      "Binance VANA交易大赛（2026年4月）",
+      "YZi Labs投资，CZ担任顾问（2025年2月）",
+      "Vyvo Smart Chain集成（2025年2月）",
+      "Coinbase Ventures领投500万美元（2024年9月）"
+    ],
+    "latestNews": [
+      {
+        "title": "Vana - Token Unlock - 16 June 2026 - TradingView",
+        "impact": "利空",
+        "reason": "代币解锁可能增加流通供应，带来抛压"
+      },
+      {
+        "title": "YZi Labs invests in crypto-AI startup Vana, CZ joins as advisor - The Block",
+        "impact": "利好",
+        "reason": "知名机构投资和CZ担任顾问提升项目可信度"
+      },
+      {
+        "title": "VANA Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers - Binance",
+        "impact": "利好",
+        "reason": "交易大赛激励交易量，可能短期推升价格"
+      },
+      {
+        "title": "Introducing Vana (VANA) on Binance Launchpool! Farm VANA by Locking BNB and FDUSD - Binance",
+        "impact": "利好",
+        "reason": "Launchpool增加代币分发和用户基础"
+      },
+      {
+        "title": "Coinbase Ventures leads $5 million round in Vana, a network for user-owned data - The Block",
+        "impact": "利好",
+        "reason": "顶级风投领投，验证项目价值"
+      }
+    ],
+    "fundamentals": [
+      "Vana是一个去中心化数据所有权网络，允许用户拥有、控制和货币化自己的数据",
+      "项目结合AI和区块链技术，旨在解决数据隐私和所有权问题",
+      "获得Coinbase Ventures、YZi Labs等投资，CZ担任顾问",
+      "已在Binance Launchpool上线，并在Binance有交易大赛",
+      "与Vyvo Smart Chain集成，用于健康数据货币化"
+    ],
+    "marketRead": [
+      "当前价格6.96美元，市值约8.36亿美元，FDV相同",
+      "流动性高达8.35亿美元，但24小时成交量仅3.99美元，表明实际交易极不活跃",
+      "缺乏近期价格变动数据（24h/7d/14d/30d变化均为null），无法判断趋势",
+      "流动性主要由做市商提供，散户参与度低，可能存在流动性陷阱"
+    ],
+    "risks": [
+      "代币解锁事件（6月16日）可能带来抛压",
+      "成交量极低，价格容易被操纵，买卖价差可能较大",
+      "缺乏近期价格数据，无法评估动量",
+      "项目上线时间较短（2025年5月），历史表现有限",
+      "数据所有权赛道竞争激烈，项目长期价值不确定"
+    ],
+    "watchlist": [
+      "代币解锁后的价格和成交量变化",
+      "Binance交易大赛结束后的价格走势",
+      "是否有新的合作或集成公告",
+      "整体市场情绪和AI板块热度"
+    ],
+    "sourceNotes": [
+      "数据来源为DexScreener，仅包含Raydium DEX数据，可能不反映CEX价格",
+      "24小时成交量极低，可能为数据抓取问题或真实流动性低",
+      "新闻时间跨度大（2024-2026），需注意时效性"
+    ]
+  },
+  "profile": {
+    "id": "3oWL9MYNGS4Yb3j9tYqFyvcxw2a8pUWzzyxQpZDQfgZf",
+    "symbol": "VANA",
+    "name": "Vana",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/b34q9jq5mpq5awrje5raheibearypbtv4dfjq9ae3ssz",
+    "marketCapRank": null,
+    "currentPriceUsd": 6.96,
+    "marketCapUsd": 836306447,
+    "fullyDilutedValuationUsd": 836306447,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-05-28",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "B34Q9jQ5MpQ5aWRje5rahEibEAryPBTV4dFJq9aE3ssZ",
+    "baseTokenAddress": "3oWL9MYNGS4Yb3j9tYqFyvcxw2a8pUWzzyxQpZDQfgZf",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 835306630.51,
+    "pairUrl": "https://dexscreener.com/solana/b34q9jq5mpq5awrje5raheibearypbtv4dfjq9ae3ssz",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "VANA/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "B34Q9jQ5MpQ5aWRje5rahEibEAryPBTV4dFJq9aE3ssZ",
+    "pairUrl": "https://dexscreener.com/solana/b34q9jq5mpq5awrje5raheibearypbtv4dfjq9ae3ssz",
+    "lastPrice": 6.96,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 835306630.51,
+    "fullyDilutedValuationUsd": 836306447,
+    "marketCapUsd": 836306447,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/b34q9jq5mpq5awrje5raheibearypbtv4dfjq9ae3ssz",
+    "pairAddress": "B34Q9jQ5MpQ5aWRje5rahEibEAryPBTV4dFJq9aE3ssZ",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "3oWL9MYNGS4Yb3j9tYqFyvcxw2a8pUWzzyxQpZDQfgZf",
+      "name": "Vana",
+      "symbol": "VANA"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "6.9692",
+    "priceUsd": "6.96",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 835306630.51,
+      "base": 119856537,
+      "quote": 4.5924
+    },
+    "fdv": 836306447,
+    "marketCap": 836306447,
+    "pairCreatedAt": 1748407972000
+  },
+  "news": [
+    {
+      "title": "Vana - Token Unlock - 16 June 2026 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmJSOFRXdzYwQ3lmTVdRWTJLRlI1QjhJMjBLSXhTcWNnT3dKY0NJRkItYVFxR00yWmFHM2g2bklzWVkzVG00MFRfbUh5X3k5ZGtCbEFXaG9SMmF2Ym1Wc21xcGZITWVkZVJqb0IzRnhrRFlSWTM0ZE05aEEyckFPRlBYUUJZd1d5YW0zOHN3dWRyZDR1eGNSNy1n?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 22 May 2026 07:00:00 GMT",
+      "snippet": "Vana - Token Unlock - 16 June 2026&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Vana price today, VANA to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OUWM0WTVEb2I1NlRWX3ZBVURBeU14S2xMU0daV1pETTJRNW1Ed1oxak5MeGFkcW90TkdNZWxTa2U2eTdMZlF0Y3dFVjhBNm1JbkdqWg?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 13 Dec 2024 12:49:38 GMT",
+      "snippet": "Vana price today, VANA to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Vana (VANA) Price Prediction 2025-2030: Will Vana Price Hit $50 Soon? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mcWptaHY2akltOUR2YmY1TmhmT1dEUVlIb1pWZDZFbkY1Q245Z1BRSlNVQXdwcWZ2aG4wZXR2MXY0VWFnQ1JVUVdNbGxQQUVReXlyVGRJNTVEaGM2MzBpR0ZCNTVBMnZLWUow?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 18 Dec 2024 08:00:00 GMT",
+      "snippet": "Vana (VANA) Price Prediction 2025-2030: Will Vana Price Hit $50 Soon?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Vana (VANA) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DQkJnTC1vTVBVS1hVSG56WmtPSHBqbjczYmVleEtpSC1jSWZubnhDSXJlOTJTeTRacWZ3MXlrQ0V1ei1IUDY4Zmd2aG1yQVN6bE1Ka19XMFBCWkx1dk5hR2FTa1VPZw?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Mon, 16 Dec 2024 22:08:20 GMT",
+      "snippet": "Vana (VANA) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "YZi Labs invests in crypto-AI startup Vana, CZ joins as advisor - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1VtdEsxb2dtRmhkZTBubHB0aU8yZlRLcnY4eEJzTTFxUEZlaFpsWVhsakp1SDFUSTJrd3FaSTZ4ZDFuTUc3YW1LX0JFY2c1NnlYUENONFZjTXRvbDA1Q1RjZ3AyQ0htUXlETlQ2bnhFbzNtNlU5eXJXcUsyRmxuWXNn?oc=5",
+      "source": "The Block",
+      "publishedAt": "Mon, 24 Feb 2025 08:00:00 GMT",
+      "snippet": "YZi Labs invests in crypto-AI startup Vana, CZ joins as advisor&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "vana (VANA) - All information about vana ICO (Token Sale) - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE03bl9sRVprM1Rrd0tUX1NpQkVHVDhMYlNldFZkbFJ4bEJERFBlMjVMMkYtTmlGVU9UOW1oYlFpbw?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Wed, 18 Sep 2024 07:56:46 GMT",
+      "snippet": "vana (VANA) - All information about vana ICO (Token Sale)&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Learn to purchase Vana on App: Mobile How-To - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RSWNxS29RVEZ1MS05ZTZzRzdOZE9uRmNmdkFBY1loRkc1Z0d2Ym1MNHdkdFRpUUJzTEhlNmZFQXlEOGJBM2VxZGVGdmhJSVF0RTVqSUhQOTBydkJ2YzlheVNUckdWRkdYS3Y4N09fOVJLRmk5?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Mon, 08 Jun 2026 16:17:45 GMT",
+      "snippet": "Learn to purchase Vana on App: Mobile How-To&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "How to buy Vana: Detailed Crypto How-To - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuREFNTFVTVm1iNXhwTXdOYlhSazJxVHRLbU9XWlpWc2pOcHNydlBqeERraHJrWE1sY3FDakh6TFpJRktTdWtfU0tkR0FXUTI5U3dVUmk3WDRoQnRtTkczUWoxajRPYk5JR3hXN0JQZGlPQ3h1Y29GUw?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Mon, 08 Jun 2026 21:49:54 GMT",
+      "snippet": "How to buy Vana: Detailed Crypto How-To&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Analysis of the VANA Project: Solutions Providing Liquidity for User Data - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GSHpEdGtPdnFpUHVpVDFvZF9sdlZTNTFMbzZzcERTa0RkdnEtclM2SXJEdGI5X2l6M2FWOUdfWDc1b29Na19Nb3pHS3UzdGZhb083TENUeklqSV9WWVZ4SndDVQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 10 Apr 2025 07:00:00 GMT",
+      "snippet": "Analysis of the VANA Project: Solutions Providing Liquidity for User Data&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Vana Overview Guide: How to buy Vana Digital - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qc3phR3JhNnEwOG5vdmZIQkxRMnJ2NmJseDY5UURlc09ucEpYUE9VZnlhSXQxWFZVMFZQYUFKelBpa0Nwc3Z0ck9mRGxiQ25CU3gxY0ZQMzBqU283bzVELU1YWDNtdWdUR043c01KcHEwWmo2UzBF?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sat, 06 Jun 2026 19:08:09 GMT",
+      "snippet": "Vana Overview Guide: How to buy Vana Digital&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "VANA 101: How This Filipino-Led AI and Blockchain Platform Is Revolutionizing Data Ownership - BitPinas",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wM2ZlSWROZU5DUzdlYmMwNXBSbzFMaXVpZHJQbGZ2T3NNV0l3cHRUR2xCZmZZUnZ1MjA5Zk5fZUtCLTNLc084V2NXRHJKc2JZZEkwTzNoVGRQMWpGT3Rna3FEV3hIS00?oc=5",
+      "source": "BitPinas",
+      "publishedAt": "Wed, 25 Sep 2024 07:00:00 GMT",
+      "snippet": "VANA 101: How This Filipino-Led AI and Blockchain Platform Is Revolutionizing Data Ownership&nbsp;&nbsp;BitPinas"
+    },
+    {
+      "title": "How to buy Vana: Complete Crypto Buying Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXRXTjBwUl9kZHpkaHRxeWR2anpYYjJHNmFYYXptRlJZZVpFYmxvS19KM1k0QnA2U0NQQVFycEZ3OTdtYlVQWm1tbWczVExIcHhPVTdBSTVvOG5BUUZuNlNSOGhtUVMwR1d1aWVteDNGYmVNSndHQ1Y4dVB4OGxGdDFFUQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Fri, 19 Jun 2026 22:47:12 GMT",
+      "snippet": "How to buy Vana: Complete Crypto Buying Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Vyvo Smart Chain Announces Vana Integration—Monetize Your Health Data - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDNWsxMlhqaFc4Yl9zM18wS3YwX0R0dUpibFJNd0FfQWVIU3BJQndJQmJiVC1hQk5yR0twV3pCdnNHU19aaUZwdjA1Q0xSVkhqU1hSbi1UdGY2djhDd2fSAWNBVV95cUxNVDlSMVFYNlNSU1NXMW5mak5tV3hwVE16a1ZYMU92SUs4SGVlckoySFYxWnByYmhkcEhVWlhfZGU2UWVycHdNUDVuOTVDNU85cFhsSkxraXZWNjYtVE5ORFZ0cGM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 28 Feb 2025 08:00:00 GMT",
+      "snippet": "Vyvo Smart Chain Announces Vana Integration—Monetize Your Health Data&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "VANA Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMWp6b2dYcnYxRUtWWVJ3Skt0SmZBcVpMNWxLb0ZaVU9PWWp1b2dmQjljeHh6Smd1MVNTNzN6ZXB4RGtmdk5oV00xX1YxeGxWVFgwQVpBUWFvVERiNUhaRVBYMVN0d1V5S2ZaQnA3SGdCTExVZHRoMGgwTVlOcVNwSXBucmZGbU5QeHdoZ2VRUkc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "snippet": "VANA Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Introducing Vana (VANA) on Binance Launchpool! Farm VANA by Locking BNB and FDUSD - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWJfUFk5cFZWTzVEQlpmNzgxYkc4SW9aX3NEaFNiTjJmYVF6UGdxMWlla0xaWE5lM09WLUJpdEQyazBBUFNjT0RGMG5fT2lmT0dYZVd6c2o1UGFwb2YyeHkxVTRZQkpSS2FxSEd0MVI5NUhycGQxOG45V3RJSUZEakdWcnd3MlRBZUlCWWVlQmw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 13 Dec 2024 08:00:00 GMT",
+      "snippet": "Introducing Vana (VANA) on Binance Launchpool! Farm VANA by Locking BNB and FDUSD&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Coinbase Ventures leads $5 million round in Vana, a network for user-owned data - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVzNIbFVScS0tdjQ4TkE3elg2SW5fSDFrWi14b0ZZMTJCX29DR21OOXlVTjM0YjRFTHlsbWFsRE9QWkpiS0JEVjRpcDhEZXVqVUtDRGhORTA2bFE3ZFJyUGpsYXhCeGcyeTJ2NE1MeGZoQ2psMnlDMFIxbERsRndXV1NESFBvVVV0WVREYlBwV1hEaDB2aTZKc2owZDJMMWlKWVpZRFlSaVRXU0FuWGdHZFhsSQ?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 17 Sep 2024 07:00:00 GMT",
+      "snippet": "Coinbase Ventures leads $5 million round in Vana, a network for user-owned data&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/vana?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

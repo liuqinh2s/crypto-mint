@@ -1,0 +1,164 @@
+{
+  "token": "COHR",
+  "requestedInput": "COHR",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T16:32:18.188Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "COHR",
+    "name": "Coherent Corp",
+    "generatedAt": "2026-06-26T16:32:11.125Z",
+    "summary": "COHR是美股上市公司Coherent Corp，近期因AI光通信需求、英伟达合作及S&P 500纳入预期而上涨。基本面扎实但估值已高，短期追涨风险较大。",
+    "rating": {
+      "score": 55,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 10,
+      "holdingPeriod": "1-2周",
+      "invalidation": "跌破近期低点或英伟达合作出现负面消息"
+    },
+    "catalysts": [
+      "英伟达扩大合作订单",
+      "S&P 500纳入预期",
+      "AI光通信需求增长",
+      "机构上调目标价"
+    ],
+    "latestNews": [
+      {
+        "title": "BofA Raises its Price Target on Coherent (COHR)",
+        "impact": "利好",
+        "reason": "机构上调目标价显示市场信心"
+      },
+      {
+        "title": "Coherent Corp Stock (COHR) Moved Up by 11.34% on Jun 22: Key Drivers Unveiled",
+        "impact": "利好",
+        "reason": "单日大涨反映强劲买盘"
+      },
+      {
+        "title": "As Coherent Locks Down a Bigger Nvidia Deal, Should You Buy, Sell, or Hold COHR Stock?",
+        "impact": "利好",
+        "reason": "英伟达合作扩大是核心催化剂"
+      },
+      {
+        "title": "VRT, LITE, COHR, SATS Set To Join S&P 500 As 'Physical AI' Trade Gains Momentum",
+        "impact": "利好",
+        "reason": "S&P 500纳入预期吸引被动资金"
+      }
+    ],
+    "fundamentals": [
+      "Coherent Corp是光通信和激光器龙头",
+      "受益于AI数据中心光模块需求",
+      "与英伟达有深度合作",
+      "营收和利润增长稳健"
+    ],
+    "marketRead": [
+      "近期放量上涨，突破前期平台",
+      "但短期涨幅过大，RSI偏高",
+      "成交量配合良好，但需警惕获利回吐"
+    ],
+    "risks": [
+      "短期涨幅已大，追高风险",
+      "估值偏高，PE超过行业平均",
+      "S&P 500纳入可能已部分定价",
+      "宏观经济下行影响资本开支"
+    ],
+    "watchlist": [
+      "英伟达合作进展",
+      "S&P 500纳入公告",
+      "季度财报",
+      "机构评级变化"
+    ],
+    "sourceNotes": [
+      "数据来自公开新闻，无实时行情",
+      "Binance数据不可用，COHR为美股",
+      "新闻时效性一般，部分为3月旧闻"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "COHRUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COHRUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "COHRFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COHRFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "COHRUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COHRUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "COHRBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=COHRBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "BofA Raises its Price Target on Coherent (COHR) - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUhGMncyTk5MMEtlbGR2ajdEVTI1c29YRTB3dTdud0FHeUkwa2F4NHdieVczUjF5SVFLU0ZkN0FkcHpjN2VwSUtNVnp2cmx6eW5vWjlYcWJvSk1uOUJMa05YRlp4TXQxaGRsS2cxY25yejhTQ2o0eF9tUTVPOWpSWWRIOWVoR1JCNURlSnhZMzlVYXBFTjVFLU9kYUlGU0U?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
+      "snippet": "BofA Raises its Price Target on Coherent (COHR)&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Coherent Stock Price: COHR Stock Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15Wld3MkVxSklmdnkwTk00NjlPbmlwV0ZIQ2RMWXRrSG43MHJnXzRlTmVDeFhKQnpUX01NMXB1SlVCOExGd1h3dkxxZ1RzWUlnd0hmS3JtVQ?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 04 Jun 2026 11:51:30 GMT",
+      "snippet": "Coherent Stock Price: COHR Stock Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Coherent Corp Stock (COHR) Moved Up by 11.34% on Jun 22: Key Drivers Unveiled - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPXzg0eEEtWTN1Yi1tMWRYVlZnWnFsSnFmcVZ4T1pDOHcydEtkTm9ZZ3hZMkZ5MUhheFBJX2xfZEdNa2xFQzhlU1NWVUs1eDRNZ2kza2g1cE1HQWhaZWMtWmRJNlNpWHlkMURpcUl5WkFqWldlWURtTTA4Q0I2dkRSMVhybThoU0l0ampF?oc=5",
+      "source": "TradingKey",
+      "publishedAt": "Mon, 22 Jun 2026 19:15:23 GMT",
+      "snippet": "Coherent Corp Stock (COHR) Moved Up by 11.34% on Jun 22: Key Drivers Unveiled&nbsp;&nbsp;TradingKey"
+    },
+    {
+      "title": "As Coherent Locks Down a Bigger Nvidia Deal, Should You Buy, Sell, or Hold COHR Stock? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWZIMzM5bG9sSC13UVBWNkIxZlk1NFd2WkxYTjlsVjFHUmxkUzRuMVV1QXlwZEdZMUpJeGN2a1k0N01wRjQwQzlVVjBrbzRfdE1sMUVVaHBKOXBQRlJ6Mi1XRVc3ZDJ3TkRLbl9FTUtibHJ5T2xBRVh6MkFQMFFuU1FYSEdBcHNfTGVCUVViZmZsWjJsYkRtYzQzMUlBYXJnanJ0RVpsSTljcml5aHFSMzVTX2pjTmpQeTlMNFNMQVFtNzA?oc=5",
+      "source": "Barchart.com",
+      "publishedAt": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "snippet": "As Coherent Locks Down a Bigger Nvidia Deal, Should You Buy, Sell, or Hold COHR Stock?&nbsp;&nbsp;Barchart.com"
+    },
+    {
+      "title": "VRT, LITE, COHR, SATS Set To Join S&P 500 As 'Physical AI' Trade Gains Momentum - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGI5XzRiek9kQWNyUEh1Sll5cnZyYnp2WHBRS0lQTlk0NmttSGZreEVsb1UwMWowWkZadE9kYmxzT29iUVktMldVY1dPZDMxWmxCN0dfazNfdnZycFlnNXV0cFp2VVNIOGVBcW5iUGNRUDRNMHB5ajhVbGE2dUQ1LXZCN21yUUVLSXIzbVVKMnhmajJNNDF5VExOZU1hbE14bnpWLXZYU2h4eThFS0I5Nzc1R2N5SVF3MHN1dEh2SkxsRWRSbVp3SjFCUW9obll2WFRlNS1FYTctdw?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "snippet": "VRT, LITE, COHR, SATS Set To Join S&P 500 As 'Physical AI' Trade Gains Momentum&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Coherent Corp. Stock Chart | NYSE: COHR Stock Price - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzTExVcmZ3cW9sVVY3dm5aQ3NYNU5qdUQ4bXBSYXBHRGI4ZF92cmVkSlVkM0tsV0dDRkcwNDJzR0dVeS1VNHMzT1RxbFZ6UUE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 18 Nov 2025 23:44:44 GMT",
+      "snippet": "Coherent Corp. Stock Chart | NYSE: COHR Stock Price&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=COHR: Throttled\n"
+  ]
+}

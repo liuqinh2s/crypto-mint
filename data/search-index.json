@@ -1,6 +1,256 @@
 {
-  "updatedAt": "2026-06-26T16:17:41.124Z",
+  "updatedAt": "2026-06-26T16:33:06.554Z",
   "results": [
+    {
+      "token": "JST",
+      "requestedInput": "JST",
+      "name": "JUST",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:14.325Z",
+      "latestPath": "data/results/JST-latest.json"
+    },
+    {
+      "token": "TAC",
+      "requestedInput": "TAC",
+      "name": "TAC",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:13.324Z",
+      "latestPath": "data/results/TAC-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "VelodromeV2",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:10.686Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "DYDX",
+      "requestedInput": "DYDX",
+      "name": "dYdX",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:17.890Z",
+      "latestPath": "data/results/DYDX-latest.json"
+    },
+    {
+      "token": "COHR",
+      "requestedInput": "COHR",
+      "name": "Coherent Corp",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-26T16:32:18.188Z",
+      "latestPath": "data/results/COHR-latest.json"
+    },
+    {
+      "token": "G",
+      "requestedInput": "G",
+      "name": "Gravity (原Galxe)",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T16:32:24.111Z",
+      "latestPath": "data/results/G-latest.json"
+    },
+    {
+      "token": "VANA",
+      "requestedInput": "VANA",
+      "name": "Vana",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-26T16:32:26.330Z",
+      "latestPath": "data/results/VANA-latest.json"
+    },
+    {
+      "token": "XAN",
+      "requestedInput": "XAN",
+      "name": "Anoma",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:30.281Z",
+      "latestPath": "data/results/XAN-latest.json"
+    },
+    {
+      "token": "MET",
+      "requestedInput": "MET",
+      "name": "Meteora",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:28.413Z",
+      "latestPath": "data/results/MET-latest.json"
+    },
+    {
+      "token": "DRAM",
+      "requestedInput": "DRAM",
+      "name": "DRAM",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:32.426Z",
+      "latestPath": "data/results/DRAM-latest.json"
+    },
+    {
+      "token": "POPCAT",
+      "requestedInput": "POPCAT",
+      "name": "Popcat",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:38.870Z",
+      "latestPath": "data/results/POPCAT-latest.json"
+    },
+    {
+      "token": "ICNT",
+      "requestedInput": "ICNT",
+      "name": "Impossible Cloud Network",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T16:32:39.951Z",
+      "latestPath": "data/results/ICNT-latest.json"
+    },
+    {
+      "token": "LUMIA",
+      "requestedInput": "LUMIA",
+      "name": "Lumia",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:39.754Z",
+      "latestPath": "data/results/LUMIA-latest.json"
+    },
+    {
+      "token": "4",
+      "requestedInput": "4",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:37.489Z",
+      "latestPath": "data/results/4-latest.json"
+    },
+    {
+      "token": "AT",
+      "requestedInput": "AT",
+      "name": "AT",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:44.467Z",
+      "latestPath": "data/results/AT-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:46.498Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "ACU",
+      "requestedInput": "ACU",
+      "name": "ACU",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T16:32:48.616Z",
+      "latestPath": "data/results/ACU-latest.json"
+    },
+    {
+      "token": "EUL",
+      "requestedInput": "EUL",
+      "name": "Euler",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:49.069Z",
+      "latestPath": "data/results/EUL-latest.json"
+    },
+    {
+      "token": "MAGM",
+      "requestedInput": "MAGMA",
+      "name": "MAGMA",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:51.422Z",
+      "latestPath": "data/results/MAGM-latest.json"
+    },
+    {
+      "token": "BAS",
+      "requestedInput": "BAS",
+      "name": "BNB Attestation",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T16:32:57.435Z",
+      "latestPath": "data/results/BAS-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:55.263Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "USDC",
+      "requestedInput": "USDC",
+      "name": "USDC",
+      "score": 10,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:59.112Z",
+      "latestPath": "data/results/USDC-latest.json"
+    },
+    {
+      "token": "MU",
+      "requestedInput": "MU",
+      "name": "Mu",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:32:59.416Z",
+      "latestPath": "data/results/MU-latest.json"
+    },
+    {
+      "token": "NMR",
+      "requestedInput": "NMR",
+      "name": "Numeraire",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:33:05.732Z",
+      "latestPath": "data/results/NMR-latest.json"
+    },
+    {
+      "token": "MANTA",
+      "requestedInput": "MANTA",
+      "name": "Manta",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T16:33:06.552Z",
+      "latestPath": "data/results/MANTA-latest.json"
+    },
     {
       "token": "TNSR",
       "requestedInput": "TNSR",
@@ -50,16 +300,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T16:17:10.420Z",
       "latestPath": "data/results/AWE-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T16:17:10.218Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "DEXE",
@@ -152,16 +392,6 @@
       "latestPath": "data/results/NATGAS-latest.json"
     },
     {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T16:17:27.892Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
       "token": "PREOPENAI",
       "requestedInput": "OPENAI",
       "name": "OpenAI",
@@ -170,26 +400,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T16:17:32.603Z",
       "latestPath": "data/results/PREOPENAI-latest.json"
-    },
-    {
-      "token": "MAGM",
-      "requestedInput": "MAGMA",
-      "name": "MAGMA",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T16:17:32.548Z",
-      "latestPath": "data/results/MAGM-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T16:17:33.294Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "BLESS",
@@ -790,216 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T14:17:12.565Z",
       "latestPath": "data/results/DFEN-latest.json"
-    },
-    {
-      "token": "KMNO",
-      "requestedInput": "KMNO",
-      "name": "Kamino",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T14:17:18.057Z",
-      "latestPath": "data/results/KMNO-latest.json"
-    },
-    {
-      "token": "SNDK",
-      "requestedInput": "SNDK",
-      "name": "SanDisk",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T14:17:22.698Z",
-      "latestPath": "data/results/SNDK-latest.json"
-    },
-    {
-      "token": "LLY",
-      "requestedInput": "LLY",
-      "name": "Eli Lily",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T14:17:25.325Z",
-      "latestPath": "data/results/LLY-latest.json"
-    },
-    {
-      "token": "1000RATS",
-      "requestedInput": "1000RATS",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T14:17:21.336Z",
-      "latestPath": "data/results/1000RATS-latest.json"
-    },
-    {
-      "token": "JASMY",
-      "requestedInput": "JASMY",
-      "name": "JasmyCoin",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T14:02:11.026Z",
-      "latestPath": "data/results/JASMY-latest.json"
-    },
-    {
-      "token": "ACX",
-      "requestedInput": "ACX",
-      "name": "Across Protocol",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T14:02:14.103Z",
-      "latestPath": "data/results/ACX-latest.json"
-    },
-    {
-      "token": "ASTER",
-      "requestedInput": "ASTER",
-      "name": "Aster",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-26T14:02:13.733Z",
-      "latestPath": "data/results/ASTER-latest.json"
-    },
-    {
-      "token": "ETN",
-      "requestedInput": "ETN",
-      "name": "Electroneum",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T14:02:24.709Z",
-      "latestPath": "data/results/ETN-latest.json"
-    },
-    {
-      "token": "CARV",
-      "requestedInput": "CARV",
-      "name": "CARV",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T14:02:26.407Z",
-      "latestPath": "data/results/CARV-latest.json"
-    },
-    {
-      "token": "AIN",
-      "requestedInput": "AIN",
-      "name": "Infinity Ground",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T13:47:18.675Z",
-      "latestPath": "data/results/AIN-latest.json"
-    },
-    {
-      "token": "VD",
-      "requestedInput": "INDA",
-      "name": "VinDax Coin",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T13:47:16.827Z",
-      "latestPath": "data/results/VD-latest.json"
-    },
-    {
-      "token": "JTO",
-      "requestedInput": "JTO",
-      "name": "Jito",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T13:47:16.241Z",
-      "latestPath": "data/results/JTO-latest.json"
-    },
-    {
-      "token": "EIGEN",
-      "requestedInput": "EIGEN",
-      "name": "EigenCloud (prev. EigenLayer)",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T13:44:13.134Z",
-      "latestPath": "data/results/EIGEN-latest.json"
-    },
-    {
-      "token": "APE",
-      "requestedInput": "APE",
-      "name": "ape",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T13:32:07.032Z",
-      "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "HYPER",
-      "requestedInput": "HYPER",
-      "name": "Hyperlane",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T13:32:11.483Z",
-      "latestPath": "data/results/HYPER-latest.json"
-    },
-    {
-      "token": "HUMA",
-      "requestedInput": "HUMA",
-      "name": "Huma Finance",
-      "score": 20,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T13:16:55.815Z",
-      "latestPath": "data/results/HUMA-latest.json"
-    },
-    {
-      "token": "IP",
-      "requestedInput": "IP",
-      "name": "Story",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T13:02:27.018Z",
-      "latestPath": "data/results/IP-latest.json"
-    },
-    {
-      "token": "TUT",
-      "requestedInput": "TUT",
-      "name": "Tutorial",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T13:02:26.489Z",
-      "latestPath": "data/results/TUT-latest.json"
-    },
-    {
-      "token": "UNH",
-      "requestedInput": "UNH",
-      "name": "UnitedHealth Group",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T12:47:19.690Z",
-      "latestPath": "data/results/UNH-latest.json"
-    },
-    {
-      "token": "VELVET",
-      "requestedInput": "VELVET",
-      "name": "Velvet",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T12:47:22.539Z",
-      "latestPath": "data/results/VELVET-latest.json"
-    },
-    {
-      "token": "FIL",
-      "requestedInput": "FIL",
-      "name": "Binance-Peg Filecoin",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T12:35:02.804Z",
-      "latestPath": "data/results/FIL-latest.json"
     }
   ]
 }
