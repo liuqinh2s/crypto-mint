@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-06-26T10:39:46.859Z",
+  "updatedAt": "2026-06-26T10:47:25.734Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 25,
+      "score": 30,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T10:39:44.540Z",
+      "action": "观察",
+      "generatedAt": "2026-06-26T10:47:20.133Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "DYDX",
+      "requestedInput": "DYDX",
+      "name": "dYdX",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-26T10:47:25.731Z",
+      "latestPath": "data/results/DYDX-latest.json"
+    },
+    {
+      "token": "MET",
+      "requestedInput": "MET",
+      "name": "Meteora",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T10:47:22.740Z",
+      "latestPath": "data/results/MET-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T10:47:18.636Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "B",
+      "requestedInput": "B",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T10:47:22.411Z",
+      "latestPath": "data/results/B-latest.json"
     },
     {
       "token": "XAN",
@@ -30,16 +70,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T10:39:46.857Z",
       "latestPath": "data/results/VD-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T10:32:19.452Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "AWE",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-24T07:32:16.841Z",
       "latestPath": "data/results/LUMIA-latest.json"
-    },
-    {
-      "token": "AT",
-      "requestedInput": "AT",
-      "name": "Apro",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-24T07:17:13.372Z",
-      "latestPath": "data/results/AT-latest.json"
-    },
-    {
-      "token": "RIF",
-      "requestedInput": "RIF",
-      "name": "Rootstock Infrastructure Framework",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-24T02:59:22.501Z",
-      "latestPath": "data/results/RIF-latest.json"
-    },
-    {
-      "token": "OPG",
-      "requestedInput": "OPG",
-      "name": "OpenGradient",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-24T00:46:54.294Z",
-      "latestPath": "data/results/OPG-latest.json"
     }
   ]
 }

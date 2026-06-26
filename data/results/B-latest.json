@@ -1,0 +1,107 @@
+{
+  "token": "B",
+  "requestedInput": "B",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T10:47:22.411Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "B",
+    "name": "unknown",
+    "generatedAt": "2026-06-26T10:47:19.279Z",
+    "summary": "代币B缺乏基本面和市场数据，无法分析上涨原因或给出投资建议。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无数据，逻辑自动失效"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [],
+    "marketRead": [],
+    "risks": [
+      "无市场数据，无法评估风险",
+      "代币身份不明，可能为低流动性或欺诈代币"
+    ],
+    "watchlist": [],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取行情数据",
+      "新闻内容与代币B无关"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "BUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "701x Raises $10M+ Series B to Expand Cattle Tech Ecosystem - Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44V3pZZnZ3bk5MYVZPWGtyLU9hY19STTJ0TU1Ed2hzTVdvTGVzdVRPSjZKejVKMHJDX1RURlZYaXp2V1YtRUpfYnJZd1h5TVJWX0c3QWlKUEtfZEY4cEtfbFBBdXVLblR2T0dNZ1RB0gFuQVVfeXFMTjhXellmdnduTkxhVk9Ya3ItT2FjX1JNMnRNTUR3aHNNV29MZXN1VE9KNkp6NUowckNfVFRGVlhpenZXVi1FSl9icll3WHlNUlZfRzdBaUpQS19kRjhwS19sUEF1dUtuVHZPR01nVEE?oc=5",
+      "source": "Ventureburn",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "701x Raises $10M+ Series B to Expand Cattle Tech Ecosystem&nbsp;&nbsp;Ventureburn"
+    },
+    {
+      "title": "Lombard Finance Adopts Chainlink Proof of Reserve to Verify LBTC and BTC.b Collateral - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pX2NMRFc1QzZKQ1owamZMOUowSXN6cUR4ZGx0LWtzUzRzbGR2RW1iZUNQNTNEZFI0dkFERERsc3lhYXpyU1kwdUJlMFU1SU95X0hHekJER0U3a2p6T0HSAWNBVV95cUxOdk5QYmpWZ1MxN190VVd0MGZ3S1QxVkJhX1VRNjNpRUtqRkVtamp0VWF5ektYOTZ4dzMzT2U2MEszeG9ERUNZOEJtWUwtOUY2YXdQN3dUd295TF9CaGxiRWM0SnM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "snippet": "Lombard Finance Adopts Chainlink Proof of Reserve to Verify LBTC and BTC.b Collateral&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Notice on New Trading Pairs & Trading Bots Services on Binance Spot and Update to B-Token Collateral - 2025-12-11 - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZWRCMnI5RkdsMHc4Qzhib2R3MVZubGRpU3VleExPOTBEbUxWQ3hmQllVSkZOSnRKanVRY2VrSGpEbjlwVWt4N1ZXMEpIbG9mUjRoeU1zMVRoLTMxeXNoZ1JRQlctU3ZxV01KT3lsRjZ1R0YzSDdtUElHVUlSSzdNUkpkYWpjd1ZNREpaYlFHSzc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "snippet": "Notice on New Trading Pairs & Trading Bots Services on Binance Spot and Update to B-Token Collateral - 2025-12-11&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Crypto trading app Fomo raises $75 million at $550 million valuation in Index Ventures-led Series B - The Block",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbWtEWm1HOVFfem14OFRkMzB3b3M1YVQ0bnJWN1JhQy01OXNnVDh6dXZlYnJhN2JXSVZ6Z3pNNXJ5NmhLVTdxOVM5Q0RuWlhfUE9RWDhoRHJadU9WREN4TG9ONGhqcE1Ma1NWLWlQXzZFMGhTcXVHLXp0bXl6VWlvNnhRMFVpVm0zOVNkQkJiSndBczRyYzhiWm9LN2NfeVROM3J0RGhDbTRlS1o0Wm5XQmE3TUVUdk56VDA3Tmc1WWJjeTJsRF92SU9pUlFFNVhwZmpGZG1wOA?oc=5",
+      "source": "The Block",
+      "publishedAt": "Mon, 22 Jun 2026 12:46:27 GMT",
+      "snippet": "Crypto trading app Fomo raises $75 million at $550 million valuation in Index Ventures-led Series B&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener: 400 Bad Request from https://api.dexscreener.com/latest/dex/search?q=B: \"<html>\\n          <head>\\n            <title>400 Bad Request</title>\\n          </head>\\n          <body>\\n            <h1>400</h1>\\n            <p>Bad request.</p>\\n          </body>\\n        </html>\""
+  ]
+}
