@@ -1,64 +1,64 @@
 {
-  "updatedAt": "2026-06-26T19:05:31.540Z",
+  "updatedAt": "2026-06-26T19:17:31.600Z",
   "results": [
     {
       "token": "APE",
       "requestedInput": "APE",
       "name": "ApeCoin",
-      "score": 15,
-      "label": "强烈回避",
+      "score": 30,
+      "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-26T19:05:09.654Z",
+      "generatedAt": "2026-06-26T19:17:12.125Z",
       "latestPath": "data/results/APE-latest.json"
     },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 35,
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T19:05:10.597Z",
+      "generatedAt": "2026-06-26T19:17:10.959Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "UNH",
       "requestedInput": "UNH",
-      "name": "UnitedHealth Group",
-      "score": 40,
+      "name": "UnitedHealth Group (Derivatives)",
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T19:05:11.154Z",
+      "generatedAt": "2026-06-26T19:17:12.293Z",
       "latestPath": "data/results/UNH-latest.json"
     },
     {
       "token": "IP",
       "requestedInput": "IP",
       "name": "Story",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T19:05:11.806Z",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T19:17:13.178Z",
       "latestPath": "data/results/IP-latest.json"
     },
     {
       "token": "AIN",
       "requestedInput": "AIN",
       "name": "Infinity Ground",
-      "score": 15,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-26T19:05:19.874Z",
+      "generatedAt": "2026-06-26T19:17:18.307Z",
       "latestPath": "data/results/AIN-latest.json"
     },
     {
       "token": "HYPER",
       "requestedInput": "HYPER",
       "name": "Hyperlane",
-      "score": 35,
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-26T19:05:22.233Z",
+      "generatedAt": "2026-06-26T19:17:19.128Z",
       "latestPath": "data/results/HYPER-latest.json"
     },
     {
@@ -68,18 +68,38 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-26T19:05:21.280Z",
+      "generatedAt": "2026-06-26T19:17:19.420Z",
       "latestPath": "data/results/TUT-latest.json"
+    },
+    {
+      "token": "EIGEN",
+      "requestedInput": "EIGEN",
+      "name": "Eigen",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T19:17:24.332Z",
+      "latestPath": "data/results/EIGEN-latest.json"
     },
     {
       "token": "ETHFI",
       "requestedInput": "ETHFI",
       "name": "ether.fi",
-      "score": 5,
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-26T19:05:25.420Z",
+      "generatedAt": "2026-06-26T19:17:31.039Z",
       "latestPath": "data/results/ETHFI-latest.json"
+    },
+    {
+      "token": "PROM",
+      "requestedInput": "PROM",
+      "name": "Prom",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T19:17:26.468Z",
+      "latestPath": "data/results/PROM-latest.json"
     },
     {
       "token": "MAGM",
@@ -88,27 +108,27 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-26T19:05:26.495Z",
+      "generatedAt": "2026-06-26T19:17:25.155Z",
       "latestPath": "data/results/MAGM-latest.json"
     },
     {
       "token": "MEMES",
       "requestedInput": "INDA",
       "name": "MemeCoinDAOai",
-      "score": 5,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-26T19:05:27.742Z",
+      "generatedAt": "2026-06-26T19:17:29.965Z",
       "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "ETN",
       "requestedInput": "ETN",
       "name": "Electroneum",
-      "score": 10,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-26T19:05:31.537Z",
+      "generatedAt": "2026-06-26T19:17:31.598Z",
       "latestPath": "data/results/ETN-latest.json"
     },
     {
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T17:14:59.088Z",
       "latestPath": "data/results/AGLD-latest.json"
-    },
-    {
-      "token": "CLANKER",
-      "requestedInput": "CLANKER",
-      "name": "clanker",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T17:15:00.339Z",
-      "latestPath": "data/results/CLANKER-latest.json"
-    },
-    {
-      "token": "RAY",
-      "requestedInput": "RAY",
-      "name": "Raydium",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T17:02:11.289Z",
-      "latestPath": "data/results/RAY-latest.json"
     }
   ]
 }
