@@ -1,0 +1,309 @@
+{
+  "token": "STO",
+  "requestedInput": "STO",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T16:17:01.048Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "STO",
+    "name": "StakeStone",
+    "generatedAt": "2026-06-26T16:16:54.331Z",
+    "summary": "STO 是跨链流动性质押协议 StakeStone 的代币，近期因币安上线和空投活动价格大幅上涨，但当前链上流动性极高（1.24亿美元），24小时成交量仅3.99美元，呈现高度控盘特征。新闻显示早期有巨鲸抛售12.43%供应量，风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性恢复正常或出现真实买盘前不参与"
+    },
+    "catalysts": [
+      "币安上线及HODLer空投活动",
+      "跨链流动性质押概念热度"
+    ],
+    "latestNews": [
+      {
+        "title": "StakeStone (STO) Price Surges 2810% to ATH, but One Wallet Just Dumped 12.43% of the Entire Supply",
+        "impact": "利空",
+        "reason": "巨鲸抛售大量供应，显示内幕或早期投资者出货"
+      },
+      {
+        "title": "StakeStone (STO) Price Surges Over 500% In One Week, What’s Driving This Altcoin?",
+        "impact": "中性",
+        "reason": "涨幅巨大但缺乏基本面支撑，可能为短期炒作"
+      },
+      {
+        "title": "STO Token Transfer: StakeStone’s Strategic $2.9M Deposit to Bitget Sparks Market Analysis",
+        "impact": "中性",
+        "reason": "大额转入交易所可能为做市或出货准备"
+      }
+    ],
+    "fundamentals": [
+      "跨链流动性质押协议，支持多链质押",
+      "已获币安上线和空投，但项目细节不透明",
+      "总供应量和流通量未披露，存在通胀风险"
+    ],
+    "marketRead": [
+      "当前价格0.1256美元，市值1.256亿美元",
+      "流动性1.246亿美元，但24小时成交量仅3.99美元，极度不活跃",
+      "无历史价格数据，无法判断趋势"
+    ],
+    "risks": [
+      "流动性极高但成交量极低，疑似高度控盘或虚假流动性",
+      "早期巨鲸已抛售12.43%供应，存在持续抛压",
+      "无可靠基本面数据，项目风险高",
+      "链上DEX交易，合约风险未知"
+    ],
+    "watchlist": [
+      "成交量是否放大",
+      "巨鲸地址动向",
+      "项目方是否公布供应量信息"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener和新闻聚合，缺乏官方验证",
+      "新闻多为2026年4月，已过时，当前状态不明"
+    ]
+  },
+  "profile": {
+    "id": "99LP5cKBZksijuxuhocY7wkJ83nAsVmyQ8LsaBDRvMuS",
+    "symbol": "STO",
+    "name": "StakeStone",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/bzmnnwjtjedyptnwnriysae9axiazsamogkgqqd9ttss",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.1256,
+    "marketCapUsd": 125632307,
+    "fullyDilutedValuationUsd": 125632307,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-05-22",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "BzmnNWJtJEDYpTNWnriysaE9AxiazSamoGkgqqd9TtSs",
+    "baseTokenAddress": "99LP5cKBZksijuxuhocY7wkJ83nAsVmyQ8LsaBDRvMuS",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 124632502.99,
+    "pairUrl": "https://dexscreener.com/solana/bzmnnwjtjedyptnwnriysae9axiazsamogkgqqd9ttss",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "STO/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "BzmnNWJtJEDYpTNWnriysaE9AxiazSamoGkgqqd9TtSs",
+    "pairUrl": "https://dexscreener.com/solana/bzmnnwjtjedyptnwnriysae9axiazsamogkgqqd9ttss",
+    "lastPrice": 0.1256,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 124632502.99,
+    "fullyDilutedValuationUsd": 125632307,
+    "marketCapUsd": 125632307,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/bzmnnwjtjedyptnwnriysae9axiazsamogkgqqd9ttss",
+    "pairAddress": "BzmnNWJtJEDYpTNWnriysaE9AxiazSamoGkgqqd9TtSs",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "99LP5cKBZksijuxuhocY7wkJ83nAsVmyQ8LsaBDRvMuS",
+      "name": "StakeStone",
+      "symbol": "STO"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.1256",
+    "priceUsd": "0.1256",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 124632502.99,
+      "base": 991994457,
+      "quote": 5950.751
+    },
+    "fdv": 125632307,
+    "marketCap": 125632307,
+    "pairCreatedAt": 1747933953000
+  },
+  "news": [
+    {
+      "title": "StakeStone (STO) Price Surges 2810% to ATH, but One Wallet Just Dumped 12.43% of the Entire Supply - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTVVXcHZpTW5rd3hTZWhXNTVKZTdsdDk4OVhkNkFkXzBESWoxazRwem5PdmtfRnoyeEcxRVVyMjJaYk1HSzVjaWJLcTJYRzVjNHg5SG9vVGNNVXJNTE1DbzFGaXBvVHRQN2c3SU00cElHYjMtQXpwUE5vMUF1UVhldnp5WmFFb0lwYU5ETi1RYnowTmhhRnc1Z1dzenI5MGM?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "StakeStone (STO) Price Surges 2810% to ATH, but One Wallet Just Dumped 12.43% of the Entire Supply&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "StakeStone (STO) Price Surges Over 500% In One Week, What’s Driving This Altcoin? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnRkX1oyWEt2Uy1WUi0zN2puby1Pdk1DNkpQNlp0eVVESlBMTDBxVXZIR1RIVE0zcTRtVlhFdG1GQThJbWJ4ZFpseEp2cmJFWmw4ZVN6YkNMaVVmbjFVNWFzZkU3VnhDSHFyVXJBcVAyamRtUGcxU3RSYi1NWnJXTVhra1Y5UGxrWDNJbDNSRUVfUXp6WFg2dEZCdUU4QzFoZnhGR2NnRk5xaHpUaVJKcUd2Wko4YWZETHhJTXFjTHM5b0FqcFhsTzZWQldKbG8?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "StakeStone (STO) Price Surges Over 500% In One Week, What’s Driving This Altcoin?&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "StakeStone (STO) Price Surges Over 500% In One Week, What’s Driving This Altcoin? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONXZFdk8wMGhuQ01hSVFYOXBMMXpmMUZGb0JSN1NNQ0hBUjBld0JtbnhBMGFpdFlUM09UX2gtc2RDVVRtYnZEVjg5SmdnYjVIV0tpNHNESEF5ekk5UVVjWml0OFE2bExYeG5sUDFqRU9zbDhKWmxsNHlMajVrbG5faw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "StakeStone (STO) Price Surges Over 500% In One Week, What’s Driving This Altcoin?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "StakeStone Price USD, STO Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YeElwYWktV3pfNnlMTFFiZEM5QlhLR1NFZ0VnbGY5WGNVeHo1N3gzQ2xFSFVqRlpKUXdmVW9xak1xWm5vam50WGxsYjN1SGJtZm9qTlNwYw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "snippet": "StakeStone Price USD, STO Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "StakeStone (STO) Price Prediction: Bulls Drive Rally Toward $1 After 967% Surge - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDNvVkUyUERSNEJLdTZaYjBhaGRSbjdSMHdQZnNWOUEtbkVwZmNoNmg3NjR2X0tYaEMyajktcmRKVy1BbWNnZWtGYVA2bXZYcTRIUGVFRDZWalV6Y1h4amZLY1RzeEhLV3FSVm9IOVVOdHk5UVZtNEVYOHA1VWljYzdSdzgxTjBjbWpMZ09GdVl4b0lSSkVlRUl4ZXZlV2czb3RzZEJlVHRHR2lhMXd3TWpR?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "StakeStone (STO) Price Prediction: Bulls Drive Rally Toward $1 After 967% Surge&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "STO Token Transfer: StakeStone’s Strategic $2.9M Deposit to Bitget Sparks Market Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44RWRwTWllWktBZS1va2RBekcyLWlsRmR1RWZKYU1yTkcxaHRlb0FhX1N1dWVaWGFyNVhpN011aTlOVWZKbWR0azZKUGRPakdpYlQxallfT0E0U2Vya1VXNGNZWkpJOTE5Q2Vzbm83YUVUak5qVEx3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "snippet": "STO Token Transfer: StakeStone’s Strategic $2.9M Deposit to Bitget Sparks Market Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "StakeStone Price Today | STO to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3R2tIeTI2ZklFYi14S0ZLcjZpQnZzR1FpN1ppSFZ2RVhQUVo2R0paeFF1TXdBcmR3bThJTGtiUkRIRTRFeDFiUFVDTlpNUWVFREw1bEdB?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 03 Apr 2025 12:49:36 GMT",
+      "snippet": "StakeStone Price Today | STO to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "StakeStone price today, STO to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YWHNfQ0ZrRnF3c3VQNHVnTEY0RWpzRjVxVDJnWDZreDVoRjR2M2c0WnlNV3ZUMDZiNXFsaDhwdElHLXBTcVQtdDZWZ3M1cGRfOFFN?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 26 Mar 2025 07:00:00 GMT",
+      "snippet": "StakeStone price today, STO to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Why StakeStone Secured a Binance Listing: A Deep Dive into Its Success - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RUzdJZGtCNEdwUTNFNEQ1dFBOTkZDZktNNEVmMVhYOGZVNDZqclFyck9DYmhDTUJlWllIeHdaaUlqaDVzdHVVME5vY180Wm45V1h0NzdVbnYyM3VSNThVb3I0VQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 03 May 2025 07:00:00 GMT",
+      "snippet": "Why StakeStone Secured a Binance Listing: A Deep Dive into Its Success&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "STO Cryptocurrency Skyrockets: Stakestone’s Stunning 290% Surge in 24 Hours - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaEpkYlBiS1kycl9uakw4LUxfSGtjcnBnNzlMWFRFYlhMYmpHMFdkUmdWZHdzTjVZOGNQZDdRdGIzdDFyNHFhSGFHZDNsZDRTQ0NhUURpLWQxMlJPR1Z5V2p6cUNfbWhRNUlndDVuU0hhSXRrdHhnUjZiUk1IaTByZTFiRQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "STO Cryptocurrency Skyrockets: Stakestone’s Stunning 290% Surge in 24 Hours&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "STO Token Transfer: StakeStone’s Strategic $2.9M Deposit to Bitget Sparks Market Analysis - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1OU4tMURFQUhNTGpkVU9nc3dDQWdxanBMQlBPdUFBMzlXUmh4Z0stT2x0eXFWWUlNTHZ6eWVGMjRUdTBDUV9jZA?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Sun, 05 Apr 2026 07:00:00 GMT",
+      "snippet": "STO Token Transfer: StakeStone’s Strategic $2.9M Deposit to Bitget Sparks Market Analysis&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "What is StakeStone (STO)? How to receive Airdrop at Binance by holding BNB on HODLer Airdrops - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoemtsU2VMcUxPaTFOQTNQTkJTRzZ0TnVoMzZCQTVoZnBURVBjMk5VSjBBSml2RGVyUHJwd0dxNmVWdmxNeWxoNEkwSHIxOFR5VEZmVHJ6M2dGNS1wckQ4Ti1Obw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 03 May 2025 07:00:00 GMT",
+      "snippet": "What is StakeStone (STO)? How to receive Airdrop at Binance by holding BNB on HODLer Airdrops&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "StakeStone (STO) Price Prediction 2026–2030 Outlook - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0NJWFM3OXlULTl1S3NzcloxMmZyUm83blhVbjNiTFducGE3X0JEQ0p0VU5lallZby1BY1I0ZVlzeVRHTG1fVWpSUkh4QkdaM3JRajZRTDcybFEzMWlaQmhaNlJOLTlEdzh5cDdMRHI1OFpYM25Held0cld5cGdZMS1IcG5KYnNtRXZkbzUwMFNMQjY2R3YzYkdyUFV5UdIBowFBVV95cUxOVUc3Z1FMLXJQVDh3b1lIeWtuRmZ3bUVRUjhfOVpieEpkWWwxMEkxb2VFdXdWRzZaemIxR3VuNUtMWkFlRVF1cDJLNHo2aU1RcENGVXRJM3VMb2djZWNZc2hJeFJHME43aFNsWk9leHNldEJTaE1oZzRabkh0a044WU0zalVwalFCamZrUkQwU05vamFQVlRGTElwc0ZpaXFDdjl3?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "snippet": "StakeStone (STO) Price Prediction 2026–2030 Outlook&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "StakeStone (STO): Cross-chain liquid staking protocol - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvQUJIWTd0NmV1MENNWW41WktmT3NMLVZPcnZoWHFPTFFRRUloOUxZUGdNY2IwSkw4V0UyMDZTQjRLb0wxWXktVDVlRnJwN3JFb2pFbkJHSXFYb3dSSjgwZ2lXcjk?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Wed, 23 Apr 2025 07:00:00 GMT",
+      "snippet": "StakeStone (STO): Cross-chain liquid staking protocol&nbsp;&nbsp;Bybit Learn"
+    },
+    {
+      "title": "What Is StakeStone (STO)? How Does It Work? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50LXlKbEpqdENTZS1rVjN6YlA2eGt5UFFOcjh4dXdPdjlUeXBFZzZwNjdsbHc4UFNlYkJEUXpwNTloWnZIVHRnZXk3WDdPaXZzdll5dTF0T1oyOE0zODVFc3U2UTRkem5BajFhano1SDRUZjliRnJMZVNJUnB6cknSAYQBQVVfeXFMTmxvVHQ5QjQtbDdOSDZfZ3NPZGNDZk1HVDJzVU1iNVB2eVhmd2Y4enRwTG04VUJ1d013Y2ZTaVBRcF9IYmh4c1ZLYjJsNDI5bllLTmJibElDVENwNmRFanJTR2g4QUIzV2QwTXZvZG9QenZnWTZzMktETXd2aTdYUTE1TUZz?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 02 Apr 2025 07:00:00 GMT",
+      "snippet": "What Is StakeStone (STO)? How Does It Work?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What Is StakeStone (STO)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qR2xKcGRMZVc4RktKUjQwanNnV0lCOE0wcEpkNUxuNk44eDZOQVBVMWlqY1Q2S05xMVgzT2xPZnBKSHpHVk1TNVNrYWVjS0lYaGxPWjJTYTVEMWxVaGZSb25rdDFIU2hlQzhNNzFFc0pnb040?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 02 May 2025 07:00:00 GMT",
+      "snippet": "What Is StakeStone (STO)?&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

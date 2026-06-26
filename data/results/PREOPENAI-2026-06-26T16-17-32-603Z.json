@@ -1,0 +1,180 @@
+{
+  "token": "PREOPENAI",
+  "requestedInput": "OPENAI",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T16:17:32.603Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "PREOPENAI",
+    "name": "OpenAI",
+    "generatedAt": "2026-06-26T16:17:27.051Z",
+    "summary": "PREOPENAI 是Polygon链上Quickswap的一个极低流动性代币，价格异常高（493.63美元），市值虚高（约4.9万亿美元），24小时无交易量，无新闻催化，基本面空白。极大概率是骗局或拉盘后无人接盘，强烈回避。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "任何买入逻辑均不成立，除非出现真实交易量和项目方公开信息。"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "代币名称OpenAI，但无官方关联，疑似蹭热点",
+      "链上Polygon，DEX为Quickswap",
+      "总供应量和流通量未知，市值计算基于极低流动性",
+      "无官网、无白皮书、无社区信息"
+    ],
+    "marketRead": [
+      "当前价格493.63美元，但24小时交易量为0，流动性仅493万美元",
+      "市值4.9万亿美元，远超真实项目估值，明显异常",
+      "无历史价格数据，无K线，无法判断趋势"
+    ],
+    "risks": [
+      "流动性极低，存在拉地毯风险",
+      "无交易量，无法卖出",
+      "市值虚高，价格无支撑",
+      "无任何项目背景，极可能是蜜罐或貔貅盘",
+      "合约未开源或未审计"
+    ],
+    "watchlist": [
+      "关注是否有真实交易量出现",
+      "检查合约是否可交易（防貔貅）",
+      "查看是否有官方公告或社区"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他来源验证",
+      "新闻为空，无任何外部信息"
+    ]
+  },
+  "profile": {
+    "id": "0x2E3D17d4f3cC6b5766D77b4658F96498Ba0Aa06B",
+    "symbol": "PREOPENAI",
+    "name": "OpenAI",
+    "categories": [
+      "polygon",
+      "quickswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on polygon / quickswap. Pair URL: https://dexscreener.com/polygon/0x9d73dc7289878fd5e02c27ce0d341749a2cbca19",
+    "marketCapRank": null,
+    "currentPriceUsd": 493.63,
+    "marketCapUsd": 4936396204836,
+    "fullyDilutedValuationUsd": 4936396204836,
+    "totalVolumeUsd": 0,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": null,
+    "chainId": "polygon",
+    "dexId": "quickswap",
+    "pairAddress": "0x9d73dc7289878fD5E02C27ce0d341749A2Cbca19",
+    "baseTokenAddress": "0x2E3D17d4f3cC6b5766D77b4658F96498Ba0Aa06B",
+    "quoteToken": {
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "name": "Wrapped Polygon Ecosystem Token",
+      "symbol": "WPOL"
+    },
+    "liquidityUsd": 4936396.2,
+    "pairUrl": "https://dexscreener.com/polygon/0x9d73dc7289878fd5e02c27ce0d341749a2cbca19",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "quickswap",
+    "pair": "Pre OpenAI/WPOL",
+    "chainId": "polygon",
+    "dexId": "quickswap",
+    "pairAddress": "0x9d73dc7289878fD5E02C27ce0d341749A2Cbca19",
+    "pairUrl": "https://dexscreener.com/polygon/0x9d73dc7289878fd5e02c27ce0d341749a2cbca19",
+    "lastPrice": 493.63,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 4936396.2,
+    "fullyDilutedValuationUsd": 4936396204836,
+    "marketCapUsd": 4936396204836,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "polygon",
+    "dexId": "quickswap",
+    "url": "https://dexscreener.com/polygon/0x9d73dc7289878fd5e02c27ce0d341749a2cbca19",
+    "pairAddress": "0x9d73dc7289878fD5E02C27ce0d341749A2Cbca19",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0x2E3D17d4f3cC6b5766D77b4658F96498Ba0Aa06B",
+      "name": "OpenAI",
+      "symbol": "Pre OpenAI"
+    },
+    "quoteToken": {
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "name": "Wrapped Polygon Ecosystem Token",
+      "symbol": "WPOL"
+    },
+    "priceNative": "6724.8125",
+    "priceUsd": "493.63",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 4936396.2,
+      "base": 9999,
+      "quote": 0.00001
+    },
+    "fdv": 4936396204836,
+    "marketCap": 4936396204836
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=OPENAI: Throttled\n"
+  ]
+}

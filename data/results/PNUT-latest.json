@@ -1,0 +1,306 @@
+{
+  "token": "PNUT",
+  "requestedInput": "PNUT",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T16:17:19.953Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "PNUT",
+    "name": "Peanut the Squirrel",
+    "generatedAt": "2026-06-26T16:17:10.860Z",
+    "summary": "PNUT是Solana上的一个meme币，2024年11月因Binance上线而暴涨，但当前链上流动性极低（$5187），24小时交易量仅$0.36，价格$0.000002849，市值$2849。新闻多为2024-2025年的旧闻，近期无实质催化。市场已极度冷清，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现重大新叙事或交易所重新上线，否则逻辑持续失效。"
+    },
+    "catalysts": [
+      "2024年11月Binance上线曾引发暴涨",
+      "部分旧新闻提及价格预测，但无新进展"
+    ],
+    "latestNews": [
+      {
+        "title": "Peanut the Squirrel Price Prediction: Can PNUT Coin Reach $10? - StealthEX",
+        "impact": "中性",
+        "reason": "2025年7月的预测文章，无实质新信息。"
+      },
+      {
+        "title": "Peanut the Squirrel Price Prediction 2025, 2026 – 2030: Will PNUT Price 10X? - Coinpedia",
+        "impact": "中性",
+        "reason": "2025年9月的预测，无新催化。"
+      },
+      {
+        "title": "Best Meme Coins: APEMARS Stage 18 at $0.000288160 Target $0.0055 as Top Crypto Presale While PNUT Move and BabyDoge Stabilize - StreetInsider",
+        "impact": "利空",
+        "reason": "2026年5月文章提及PNUT已失去动能。"
+      },
+      {
+        "title": "PNUT 24-hour volatility reaches 83.5%: Driven by surging trading volume and technical breakthroughs - Bitget",
+        "impact": "中性",
+        "reason": "2026年4月旧闻，当前交易量极低。"
+      },
+      {
+        "title": "Best Crypto Coins: Is APEMARS Stage 18 MARS150 Bonus the Next 100x Crypto Play as PNUT and PENGU Lose Momentum? - Bitget",
+        "impact": "利空",
+        "reason": "2026年4月文章指出PNUT失去动能。"
+      }
+    ],
+    "fundamentals": [
+      "Solana链上的meme币，无实际用途。",
+      "2024年11月因Binance上线而爆红，但当前已从高点下跌超99%。",
+      "完全稀释市值仅$2849，流动性$5187，极低。",
+      "无团队、无路线图，纯社区驱动。"
+    ],
+    "marketRead": [
+      "当前价格$0.000002849，24小时交易量仅$0.36，流动性$5187。",
+      "无24小时价格变化数据，日K线缺失，市场几乎无交易。",
+      "市值$2849，属于微型市值代币，极易被操纵或归零。"
+    ],
+    "risks": [
+      "流动性极低，滑点巨大，难以买卖。",
+      "24小时交易量几乎为零，市场深度不足。",
+      "无新叙事或社区活动，代币可能已死亡。",
+      "合约风险：未开源或存在后门风险（未验证）。",
+      "新闻均为旧闻，无近期利好。"
+    ],
+    "watchlist": [
+      "是否有新的交易所上线或社区活动。",
+      "流动性是否增加，交易量是否回升。",
+      "是否有新的大户买入或项目方动作。"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener，仅包含PancakeSwap BSC上的交易对，但PNUT原为Solana链代币，此BSC对可能为假币或跨链版本，需谨慎。",
+      "新闻来源多为预测类文章，无实质更新。",
+      "当前数据不足以支持任何买入建议。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "花生/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x2dCAa9177853DAFa80Cad6c29C3C6172Ab5A8dC4",
+    "pairUrl": "https://dexscreener.com/bsc/0x2dcaa9177853dafa80cad6c29c3c6172ab5a8dc4",
+    "lastPrice": 0.000002849,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.36,
+    "liquidityUsd": 5187.62,
+    "fullyDilutedValuationUsd": 2849,
+    "marketCapUsd": 2849,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x2dcaa9177853dafa80cad6c29c3c6172ab5a8dc4",
+    "pairAddress": "0x2dCAa9177853DAFa80Cad6c29C3C6172Ab5A8dC4",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0xd52BBedf222a8637dc974e4Fd2080d7bBA234444",
+      "name": "Pnut",
+      "symbol": "花生"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.000000005070",
+    "priceUsd": "0.000002849",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 0.36,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 5187.62,
+      "base": 910301420,
+      "quote": 4.6158
+    },
+    "fdv": 2849,
+    "marketCap": 2849,
+    "pairCreatedAt": 1760506091000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/798e9def1697bc479b0f4687fac962dd8a696cd5417782fe47553988aa9baf5b?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/db617fb14717481442346a8d662ca7ae78f78fd6b0fd5eb51ed0258dcbe1734c?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0xd52bbedf222a8637dc974e4fd2080d7bba234444?timestamp=1782490500000",
+      "websites": [
+        {
+          "url": "https://www.pnutsfreedomfarm.com/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/i/communities/1978339836877500902",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/chinapnut",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Peanut the Squirrel Price Prediction: Can PNUT Coin Reach $10? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTk8yUFF0QU9qX0JrQ0lVcHVLQ2tSMjJJekE0SnVXcGJVMDhnN18ydGY5UFZWaWZnU1hBVjdKOWNNSFJCVGdKUURFRUJPTzBDQXBFTGhxek1iTDcxRGtEVU5lOUNBNFQtYzdTOEI4Zk1VbzNuMERoV1JGaWdyUWp5Wjd3MjhCRy1zMTJCREZDZw?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Fri, 25 Jul 2025 07:00:00 GMT",
+      "snippet": "Peanut the Squirrel Price Prediction: Can PNUT Coin Reach $10?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Peanut the Squirrel Price Prediction 2025, 2026 – 2030: Will PNUT Price 10X? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDJOMFdhWF9FQS15S3RCdHI4R01BVXlJVUVFLXBUaXI0ODdWQURuVk5iTWpwb0dRUDR1azBxb0xXSWNoaGZpOG80OTVYeWdXNzNjQ21hQjJLS1Ywcll4enZ3R0dxV3R0M0JhdjNOeUdpSUNveGRNSGhaZ2d0VDZ5aGU2SW1fbjdQ0gGOAUFVX3lxTE5zRXR2OVl6bHVOOUVpaUFYeXBSbHNLM2FzaS1YYzRlMHZESEo1OTNtcVpUYUZMZFRFQlNxTXJ3aVdkQlZKTWJ2bWFGbFQ2cmN6Vm0tNi1JWTVDcF85OTVibERQalNJNUlmTVFGbXR2dGpYdjU2bWN1RVZYWlBSbURVWmJMNHAwaEE1a2xkcUE?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "snippet": "Peanut the Squirrel Price Prediction 2025, 2026 – 2030: Will PNUT Price 10X?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Best Meme Coins: APEMARS Stage 18 at $0.000288160 Target $0.0055 as Top Crypto Presale While PNUT Move and BabyDoge Stabilize - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQbDVMWkxUalVKaHgyVHloOGpXRzFHekprUkNCcUlkcmp2TkVPOVgtT0dIV19hcHpNaUZVb0t0WUU4LS16VHhNQVpDY2Zjcm84STdSUGh4TElQXy16d0YyWl9STVdGR2pMVl9XSm5NU3ZYMWRHaG5LOWUwSjJmbXpmaUh6b2RibXp4THY2ZjVYV3FZZlktTXp5NjVXdXNzbnhmeElTMG1LUlNwNHVuTmcxejlfcFFiMWlCRmRQUHByVVA3OVdCcWdYQlR5d0o2blo1bGZwVEZ6QW0xZzgyUG5IajFBU1pFWWxRb2tkQ0xDQmt1NURzRGY4R21wb2VsZUdyUDIxREEyWDdfUGFjVWFwLXc0M1NWMG5oUi0w?oc=5",
+      "source": "StreetInsider",
+      "publishedAt": "Sat, 02 May 2026 07:00:00 GMT",
+      "snippet": "Best Meme Coins: APEMARS Stage 18 at $0.000288160 Target $0.0055 as Top Crypto Presale While PNUT Move and BabyDoge Stabilize&nbsp;&nbsp;StreetInsider"
+    },
+    {
+      "title": "Peanut the Squirrel price today, PNUT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HZ0Fnb3RpM2dKTzZjR1BoMVNaOU5mLU5LaWNPS3VkcHN2N24tYi00TUhMbEdHM2JsUTJWSC1CX2VPcG42cHZBRERuemlUN2MzYjhTOGdab0FoWDFhYlU0VHRDZ19ySlJx?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 04 Nov 2024 08:42:33 GMT",
+      "snippet": "Peanut the Squirrel price today, PNUT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Peanut the Squirrel (PNUT) Price Prediction 2026, 2027, 2030 - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNODg0S2g0cEdOdF85c09xeDFFVEhQcGsyV3pQekZYQ2NMMlZfZk9VbENqRjY3MXR1OGVSSEpxWWhWZ0VrdDlzWFVPWE1KTVdKZHVBSmFuaVg3b29HVGFkbzd1NmFIckJnU29jMUMxMm85SDBOZlpETk1TUHdld0JKWGpodm4?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Thu, 31 Oct 2024 07:00:00 GMT",
+      "snippet": "Peanut the Squirrel (PNUT) Price Prediction 2026, 2027, 2030&nbsp;&nbsp;Cryptonews"
+    },
+    {
+      "title": "Peanut the Squirrel Price, PNUT Price, Live Charts, and Marketcap - Coinbase Germany - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pT2p1U19Val8wTmpSczU5TGxoTXJRMVRvaU5xdV9XamJ1X2kzQk5vdjJMeWZVTHBIM0ZjXzEzTjJIXzNUTk03U2FZU3djYVZpRHViZXFvV19PeUR4bExlWDRjNndldHM?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Mon, 11 Nov 2024 22:30:33 GMT",
+      "snippet": "Peanut the Squirrel Price, PNUT Price, Live Charts, and Marketcap - Coinbase Germany&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "What’s Behind the Explosive Success of $PNUT Token? | Cryptocurrency Market News - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeENpS1hCM3J6N3RUM1lkZ2RsZVlFYkZCcU5kNl9yTF9KOU8yQXRkeVNKU0hKejc3ei1uTXBzVUNuLW8yVkxfT29pVERNbDZUM2E1Z0VVQ2NJZ3FsMzZMYXNRRTNfelZvbXI3TEhUNEdHMGVmbEdiZjExd2luOTN4RHc1LVczTjZZbnQzVlctcw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 11 Dec 2024 08:00:00 GMT",
+      "snippet": "What’s Behind the Explosive Success of $PNUT Token? | Cryptocurrency Market News&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Peanut the Squirrel Price Prediction 2024, 2025 – 2030: Will PNUT Price 10X? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WdEJkTUFFWTBWNjFCSV9EckRLWEpDaVVLeXljYTVkdFpER2ZZZ3ptU1JmX0ZYeUtTNmJTbFY5YUNqdlBxbkNaMS1sakhtVnBPQnBpbERsdzF2d1Rfb2xwRjlXVQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 14 Nov 2024 08:00:00 GMT",
+      "snippet": "Peanut the Squirrel Price Prediction 2024, 2025 – 2030: Will PNUT Price 10X?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "PNUT Token: From Dispute to Market Recognition, Now Available on BYDFi - CryptoSlate",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRU9BdEI0VE9SLVdTYV90Y0ljRzZHUkM4SFViSFhXSTR2V3p1Y2JKUDBibTl1ZWZrWlFXNHV5YmNDckJLbE9zN1Z2cHh5T0kwSWFHbzQ3VzFwb3NJVTJRRTRMV0ZsenJvbXhFdy1PRnotUWhiUzZtQkJPYm83ZFVHRllDeS14bE1wSnhLVk5Lb3FxS3BSWjNubnMwdkNSejU3cEVCVEhxcUJQcnpS?oc=5",
+      "source": "CryptoSlate",
+      "publishedAt": "Wed, 13 Nov 2024 08:00:00 GMT",
+      "snippet": "PNUT Token: From Dispute to Market Recognition, Now Available on BYDFi&nbsp;&nbsp;CryptoSlate"
+    },
+    {
+      "title": "🚨\"How to Buy, Sell, and Safely Hold PNUT Coin: A Complete Beginner's Guide\" - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IaTA4elAyOTRtRXJZczk1dnZCNTNVTzVKMmNaOVBSVDNNd3JCUV84R3NULU9oeTh6V0lCUTdJT09sNlRaQV84VDlqNVBISTREOXhiUDJMOXVucHQ4VERqSjhwWQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 14 Nov 2024 08:00:00 GMT",
+      "snippet": "🚨\"How to Buy, Sell, and Safely Hold PNUT Coin: A Complete Beginner's Guide\"&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "PNUT 24-hour volatility reaches 83.5%: Driven by surging trading volume and technical breakthroughs - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrckRXdnZENS1DbzZQcWpiY0E4UzdPMnllbFRyZmpzTGxOcThiXzRwQ1ZwU2pvRjFZdFk3Y3A4WWdGWmxOYXJCcTdrZXVmbVhGZTJDUXl4ZC1DY3I5ZVHSAWNBVV95cUxQWVd3THluMDFIZnFWNTBGTy1VWkVCVHdVWkxMOTc0bG05NGNWOURXb0prNzZxb2xTTUtLallVcjgwS1FuOGt2MGdLTjNiY1Y1dmlMb1VlYldaMTI2SUJESU1xWGc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "PNUT 24-hour volatility reaches 83.5%: Driven by surging trading volume and technical breakthroughs&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Is it Better to Buy PEPE or PNUT Crypto? The Answer Might Surprise You - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoLWNqR3pqM0V1QkszUkZBMFlCTVc3eTNaZWhiczZrNFVfLVEzY2R2RzVENEU4YlRTZnJIT19aeFFRaHEzUVQ5d2xrdTJ3X1NTUUhRTWhsNWc2SHJ2MGfSAWNBVV95cUxPNzIteTREeDJSalpQTXFGcl84VDNkbzI0SGVxcmVmbldKQUN4bDlrRTR0SmloRnVGeFM2V3NWcFZIUkY0Q2p4SGtrRzNRMnIwOUdGQVpLRXRLd1VaWXlTS2xxTHc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 14 Nov 2024 08:00:00 GMT",
+      "snippet": "Is it Better to Buy PEPE or PNUT Crypto? The Answer Might Surprise You&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Best Crypto Coins: Is APEMARS Stage 18 MARS150 Bonus the Next 100x Crypto Play as PNUT and PENGU Lose Momentum? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkOG1NMFBHUjdwa3g3a3prWUJjWERnTUlCM1lWV2RwTS1Gb09oRjZCZkJhTXl1VktCeW40WlRHODB6UmJ2VU54eHctSTlTVTQ1MUNzRUZzYUtPNnJ1elHSAWNBVV95cUxQV3ZnQ2JxUnpTNTFtMllIeE5pMEROVFRhMUs2VWVtek4wSUctcTAtTm4zRFdoelZQRGFkaGZUUVhDcElHclB4R1cyR1Uya3hVSzhaODBfUkYtUlVSQzZnNUgyR1k?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "snippet": "Best Crypto Coins: Is APEMARS Stage 18 MARS150 Bonus the Next 100x Crypto Play as PNUT and PENGU Lose Momentum?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Will Add Act I : The AI Prophecy (ACT) and Peanut the Squirrel (PNUT) on Earn, Buy Crypto, Convert, Margin & Futures | Binance announcement - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGVUdmVTRGJ0MTFLUHI1RHA5eXNMbGdrbldQamtGTmd2UzM1Ukp1SlVBRXM1VTllZjFuazdBSW5BZF9vV2ZUY3VGamJxel93d18zNTl2VWNtSTA4WG1vZWF6Z1ZVTjdQZmZXV2p2ek41cjhlWFJxb1pfRlpHNnVBUHVoQnlCMVNyMkJwRUFEeUk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 11 Nov 2024 08:00:00 GMT",
+      "snippet": "Binance Will Add Act I : The AI Prophecy (ACT) and Peanut the Squirrel (PNUT) on Earn, Buy Crypto, Convert, Margin & Futures | Binance announcement&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Will List Act I : The AI Prophecy (ACT) and Peanut the Squirrel (PNUT) with Seed Tag Applied - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDNSNG9HYVBVcS1pTUJoVWU1T3BkdE9MSmxyQ054eFcyVWFKVGxnOGxJQ0ZoV2c0V1lQcE5MNkw0SUZaRTlKVGpsM255bGI5YndBV204Yjl2X0ZSRk1QQVV2Q180OTB0ZW1kM2xObV81Q1JsTlNmQWhzR1RtVzA4S1BLeXc4ZkpBMVlaTjJ1LUw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 10 Nov 2024 08:00:00 GMT",
+      "snippet": "Binance Will List Act I : The AI Prophecy (ACT) and Peanut the Squirrel (PNUT) with Seed Tag Applied&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Peanut the Squirrel price today, PNUT to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53b2hyTG1nOEZkQWRtWXdlSm5zek85SWlRUHlSWlo0NEQ5T1ZGVW1tb0xGcWlKLVMyR2lYcHdKbFJHb1NJUjVOb2JuYw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 05 Dec 2024 21:33:17 GMT",
+      "snippet": "Peanut the Squirrel price today, PNUT to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=PNUT: Throttled\n"
+  ]
+}
