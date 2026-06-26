@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-26T23:23:21.474Z",
+  "updatedAt": "2026-06-26T23:32:28.802Z",
   "results": [
+    {
+      "token": "MOODENG",
+      "requestedInput": "MOODENG",
+      "name": "moodeng",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T23:32:16.331Z",
+      "latestPath": "data/results/MOODENG-latest.json"
+    },
+    {
+      "token": "GPS",
+      "requestedInput": "GPS",
+      "name": "GoPlus Security",
+      "score": 20,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T23:32:18.035Z",
+      "latestPath": "data/results/GPS-latest.json"
+    },
+    {
+      "token": "SOL",
+      "requestedInput": "SOL",
+      "name": "Solana",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T23:32:19.828Z",
+      "latestPath": "data/results/SOL-latest.json"
+    },
+    {
+      "token": "MMT",
+      "requestedInput": "MMT",
+      "name": "MMT",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T23:32:21.408Z",
+      "latestPath": "data/results/MMT-latest.json"
+    },
+    {
+      "token": "AAVE",
+      "requestedInput": "AAVE",
+      "name": "Aave",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T23:32:25.770Z",
+      "latestPath": "data/results/AAVE-latest.json"
+    },
+    {
+      "token": "NATGAS",
+      "requestedInput": "NATGAS",
+      "name": "Natural Gas (Derivatives)",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T23:32:25.797Z",
+      "latestPath": "data/results/NATGAS-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T23:32:25.893Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "BLESS",
+      "requestedInput": "BLESS",
+      "name": "Bless",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T23:32:28.801Z",
+      "latestPath": "data/results/BLESS-latest.json"
+    },
     {
       "token": "AXS",
       "requestedInput": "AXS",
@@ -70,16 +150,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T23:23:21.472Z",
       "latestPath": "data/results/AERO-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T23:23:20.025Z",
-      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "TIA",
@@ -930,76 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T20:55:21.123Z",
       "latestPath": "data/results/US-latest.json"
-    },
-    {
-      "token": "TRB",
-      "requestedInput": "TRB",
-      "name": "Tellor",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:55:22.828Z",
-      "latestPath": "data/results/TRB-latest.json"
-    },
-    {
-      "token": "NMR",
-      "requestedInput": "NMR",
-      "name": "Numeraire",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:55:31.987Z",
-      "latestPath": "data/results/NMR-latest.json"
-    },
-    {
-      "token": "MANTA",
-      "requestedInput": "MANTA",
-      "name": "Manta",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:55:32.999Z",
-      "latestPath": "data/results/MANTA-latest.json"
-    },
-    {
-      "token": "FARTCOIN",
-      "requestedInput": "FARTCOIN",
-      "name": "Fartcoin",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:47:13.496Z",
-      "latestPath": "data/results/FARTCOIN-latest.json"
-    },
-    {
-      "token": "ZK",
-      "requestedInput": "ZK",
-      "name": "ZKsync",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:47:15.153Z",
-      "latestPath": "data/results/ZK-latest.json"
-    },
-    {
-      "token": "BAN",
-      "requestedInput": "BAN",
-      "name": "Ban",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:47:14.494Z",
-      "latestPath": "data/results/BAN-latest.json"
-    },
-    {
-      "token": "SYN",
-      "requestedInput": "SYN",
-      "name": "Synapse",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T20:47:24.660Z",
-      "latestPath": "data/results/SYN-latest.json"
     }
   ]
 }
