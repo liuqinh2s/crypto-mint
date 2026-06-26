@@ -1,15 +1,85 @@
 {
-  "updatedAt": "2026-06-26T14:17:25.328Z",
+  "updatedAt": "2026-06-26T14:32:38.961Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
+      "name": "Velodrome Finance",
       "score": 25,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-26T14:17:17.151Z",
+      "generatedAt": "2026-06-26T14:32:23.891Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "RAY",
+      "requestedInput": "RAY",
+      "name": "Raydium",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-26T14:32:26.718Z",
+      "latestPath": "data/results/RAY-latest.json"
+    },
+    {
+      "token": "ORCA",
+      "requestedInput": "ORCA",
+      "name": "Orca",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-26T14:32:24.773Z",
+      "latestPath": "data/results/ORCA-latest.json"
+    },
+    {
+      "token": "BRKB",
+      "requestedInput": "BRKB",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:32:21.875Z",
+      "latestPath": "data/results/BRKB-latest.json"
+    },
+    {
+      "token": "KAITO",
+      "requestedInput": "KAITO",
+      "name": "KAITO",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:32:34.561Z",
+      "latestPath": "data/results/KAITO-latest.json"
+    },
+    {
+      "token": "INX",
+      "requestedInput": "INX",
+      "name": "INX",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:32:34.497Z",
+      "latestPath": "data/results/INX-latest.json"
+    },
+    {
+      "token": "ETHFI",
+      "requestedInput": "ETHFI",
+      "name": "ether.fi",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:32:38.959Z",
+      "latestPath": "data/results/ETHFI-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-26T14:32:33.068Z",
+      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "INFQ",
@@ -60,16 +130,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T14:17:25.325Z",
       "latestPath": "data/results/LLY-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T14:17:23.143Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "1000RATS",
@@ -940,66 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T08:47:26.593Z",
       "latestPath": "data/results/Q-latest.json"
-    },
-    {
-      "token": "RPL",
-      "requestedInput": "RPL",
-      "name": "Rocket Pool",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:31.805Z",
-      "latestPath": "data/results/RPL-latest.json"
-    },
-    {
-      "token": "BE",
-      "requestedInput": "BE",
-      "name": "BE",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:31.754Z",
-      "latestPath": "data/results/BE-latest.json"
-    },
-    {
-      "token": "BICO",
-      "requestedInput": "BICO",
-      "name": "Biconomy",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:34.704Z",
-      "latestPath": "data/results/BICO-latest.json"
-    },
-    {
-      "token": "XPL",
-      "requestedInput": "XPL",
-      "name": "XPL",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:38.466Z",
-      "latestPath": "data/results/XPL-latest.json"
-    },
-    {
-      "token": "GWEI",
-      "requestedInput": "GWEI",
-      "name": "ETHGas",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:39.250Z",
-      "latestPath": "data/results/GWEI-latest.json"
-    },
-    {
-      "token": "NAORIS",
-      "requestedInput": "NAORIS",
-      "name": "Naoris Protocol",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T08:47:39.662Z",
-      "latestPath": "data/results/NAORIS-latest.json"
     }
   ]
 }

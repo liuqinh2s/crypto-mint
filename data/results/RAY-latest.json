@@ -1,0 +1,319 @@
+{
+  "token": "RAY",
+  "requestedInput": "RAY",
+  "exchange": "other",
+  "generatedAt": "2026-06-26T14:32:26.718Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "RAY",
+    "name": "Raydium",
+    "generatedAt": "2026-06-26T14:32:16.134Z",
+    "summary": "RAY近期上涨主要受Solana生态复苏、Raydium作为头部DEX的龙头效应以及LaunchLab等新产品催化。但6月10日刚发生130万美元漏洞事件，市场情绪脆弱。当前价格较ATH跌96%，估值偏低，但短期缺乏强催化剂，建议观望。",
+    "rating": {
+      "score": 45,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现新的安全事件或TVL大幅下降，则逻辑失效。"
+    },
+    "catalysts": [
+      "Solana生态整体回暖，DEX交易量上升",
+      "Raydium LaunchLab新功能吸引用户",
+      "与Pump.fun竞争推动创新",
+      "市场对DeFi龙头的估值修复预期"
+    ],
+    "latestNews": [
+      {
+        "title": "RAY Token Climbs 24%: What Is Driving Raydium's Renewed Momentum",
+        "impact": "利好",
+        "reason": "显示市场对RAY近期上涨的关注和正面解读"
+      },
+      {
+        "title": "Raydium DEX’s AMM Program Exploited For $1.34 Million — Here’s What Went Wrong",
+        "impact": "利空",
+        "reason": "安全漏洞损害信任，可能导致用户流失"
+      },
+      {
+        "title": "Raydium LaunchLab: How RAY is Revolutionizing Token Creation on Solana",
+        "impact": "利好",
+        "reason": "新产品有望增加协议收入和使用场景"
+      }
+    ],
+    "fundamentals": [
+      "Solana生态核心DEX，AMM+订单簿模式",
+      "总供应量5.55亿，流通约2.69亿，流通率48.5%",
+      "市值1.67亿美元，FDV3.45亿美元",
+      "近期TVL因漏洞事件可能承压",
+      "团队持续开发，LaunchLab等新功能上线"
+    ],
+    "marketRead": [
+      "24小时涨幅9.46%，7日涨幅5.42%，短期反弹但30日仍跌15%",
+      "成交量2609万美元，流动性充足",
+      "价格仍处于历史低位，ATH跌幅96%",
+      "市场情绪中性偏多，但需警惕获利回吐"
+    ],
+    "risks": [
+      "6月10日漏洞事件影响未完全消化",
+      "Solana生态竞争激烈（如Jupiter、Orca）",
+      "代币解锁压力：总供应量仍有51.5%未流通",
+      "DeFi整体市场情绪低迷",
+      "短期涨幅已较大，追高风险"
+    ],
+    "watchlist": [
+      "TVL变化及资金净流入",
+      "漏洞事件后续处理及用户恢复情况",
+      "Solana生态整体交易量趋势",
+      "RAY代币解锁时间表",
+      "LaunchLab等新产品的采用数据"
+    ],
+    "sourceNotes": [
+      "价格数据来自DexScreener Orca池，与CoinGecko存在差异（CoinGecko显示$0.62，DexScreener显示$2.96），可能因池子不同或数据延迟，需交叉验证。",
+      "新闻主要来自聚合源，部分标题可能过时。",
+      "基本面数据来自CoinGecko，市值排名186。"
+    ]
+  },
+  "profile": {
+    "id": "raydium",
+    "symbol": "RAY",
+    "name": "Raydium",
+    "categories": [
+      "Decentralized Exchange (DEX)",
+      "Exchange-based Tokens",
+      "Decentralized Finance (DeFi)",
+      "Yield Farming",
+      "Automated Market Maker (AMM)",
+      "Perpetuals",
+      "Solana Ecosystem",
+      "Launchpad",
+      "GMCI DeFi Index",
+      "GMCI Index"
+    ],
+    "homepage": [
+      "https://raydium.io/"
+    ],
+    "description": "Raydium is an automated market maker (AMM) and liquidity provider built on the Solana blockchain for the Serum decentralized exchange (DEX). Raydium has a first-mover advantage as an AMM within Serum and will be an integral part of bringing new and existing projects and protocols into the ecosystem. The protocol will act as a bridge for projects looking to expand to Solana and Serum, and in the process Raydium and the RAY token will become a foundation for enabling further development with partners, its own platform, and the ecosystem as a whole. Unlike any other AMMs, Raydium provides on-chain liquidity to a central limit orderbook, meaning that Raydium LPs get access to the entire orderflow and liquidity of Serum. Long term, Raydium aims to capture and maintain a leadership position among AMMs and liquidity providers on Serum, while leveraging the power of Solana to drive the evolution of decentralized finance (DeFi) and emerge as a leading protocol in the space alongside our partners and the community.\"",
+    "marketCapRank": 186,
+    "currentPriceUsd": 0.621792,
+    "marketCapUsd": 167383797,
+    "fullyDilutedValuationUsd": 344943242,
+    "totalVolumeUsd": 26094213,
+    "priceChange24hPct": 9.45824,
+    "priceChange7dPct": 5.41691,
+    "priceChange14dPct": 6.25594,
+    "priceChange30dPct": -15.28718,
+    "athUsd": 16.83,
+    "athChangePct": -96.33556,
+    "circulatingSupply": 269313892.480486,
+    "totalSupply": 555000000,
+    "maxSupply": 555000000,
+    "sentimentVotesUpPct": 33.33,
+    "watchlistUsers": 99535,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "RAY/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "6QWZAqbsyg1EwndUkFaJhvNp1jJgrSTUyVBQB6yDWAyX",
+    "pairUrl": "https://dexscreener.com/solana/6qwzaqbsyg1ewndukfajhvnp1jjgrstuyvbqb6ydwayx",
+    "lastPrice": 2.96,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 1645662527.85,
+    "fullyDilutedValuationUsd": 1646672124,
+    "marketCapUsd": 1646672124,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/6qwzaqbsyg1ewndukfajhvnp1jjgrstuyvbqb6ydwayx",
+    "pairAddress": "6QWZAqbsyg1EwndUkFaJhvNp1jJgrSTUyVBQB6yDWAyX",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "8k3vk24p8X9LMWQE8CouLtLryUoC5p7Emh2Xd7wwQnWa",
+      "name": "Raydium",
+      "symbol": "RAY"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "2.9669",
+    "priceUsd": "2.96",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 3.99,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -0.04,
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 1645662527.85,
+      "base": 554659715,
+      "quote": 19.1666
+    },
+    "fdv": 1646672124,
+    "marketCap": 1646672124,
+    "pairCreatedAt": 1759424322000
+  },
+  "news": [
+    {
+      "title": "RAY Token Climbs 24%: What Is Driving Raydium's Renewed Momentum - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6RGhqNWRFenhMT3VOUnJNUWFHaWpFYklWX0JBWlJZd0lKMmR2b21ucDByaHJ6YzdpVXpmeHp3TVpEdEp6MHpzUkdLYzhlajloTHktQm1ZYkltdFVDVnZuTkpycWZYYnp5TVE?oc=5",
+      "source": "Yellow.com",
+      "publishedAt": "Sat, 25 Apr 2026 07:00:00 GMT",
+      "snippet": "RAY Token Climbs 24%: What Is Driving Raydium's Renewed Momentum&nbsp;&nbsp;Yellow.com"
+    },
+    {
+      "title": "Raydium (RAY) Price Today: RAY Live Price, Charts, News - Crypto.com US - Crypto.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JeGJSXzdWcVpHNUQtU2VBSjBzYnlmMWx2WmZfYUIyMWZvNDVHWm9LWDRGbDE1aGQ4Y1A1R2luamEyZFgwcFF1NmVoQQ?oc=5",
+      "source": "Crypto.com",
+      "publishedAt": "Thu, 19 Feb 2026 11:21:05 GMT",
+      "snippet": "Raydium (RAY) Price Today: RAY Live Price, Charts, News - Crypto.com US&nbsp;&nbsp;Crypto.com"
+    },
+    {
+      "title": "Raydium DEX’s AMM Program Exploited For $1.34 Million — Here’s What Went Wrong - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLXBueFpCdER5ODFLak5tWFptcTJWSkdmY3ZDY0pZRXdULThjeEotOW0zTS1aSkFwUVBEUGowRXF1RTNOSWFiMW5ENlNlOWItSHVrdFVYWlNhUWtKSm5VY3Vwa1BoZ3ptNm9zUTR6aWpYeWZ0MnVaeHdfMFpSRjEyV3R3amE5OTdHSWNucEFIQm1MTWJ6VFZUN191elN6Sldja2MwQmxKblpBRHMzWGdyMA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 10 Jun 2026 22:30:01 GMT",
+      "snippet": "Raydium DEX’s AMM Program Exploited For $1.34 Million — Here’s What Went Wrong&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Raydium Price Prediction: Will RAY Coin Reach $5? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBROTVCb193TGd3UzlSbzVIS3FSSHM1cVZFcDVEeGZDSzZ4LXMybV80MnNIOVBXOTV3UWp3QkRhZGlCdG0wcnB3WVBSb0lpYks2THZGdG5EUmM3d2pyRThvYVROeThGN2dxZE4zMzBUZUJFNGtkdTRpS1lGaUdUdw?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Fri, 05 Sep 2025 07:00:00 GMT",
+      "snippet": "Raydium Price Prediction: Will RAY Coin Reach $5?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Raydium Price Prediction 2026, 2027 – 2030: Will RAY Price Soar 100%? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hRGlSczlHTmlFWUxkbWZPYThNbmMxMkZLTmx0amk1SGw0RWEwZ2Y0RHpuZkZyYzdscXo1dmhkTGR4eEdEdk5yMzlhYVFhWjFjYXFUV2R0WUdkM0RGLV9GSExNcElZcnNHbDN3cTNPeVZybVNwOGtZ0gF8QVVfeXFMTkRuUHRpS1JyOGVkRk1pWUtSaUhjbW43VXNNREJ3QVIxaUEtVTc4bGozZ3ZnVUZnMU9LNU9HY3hwN2FxRFR6VEViZlBuT0NjY3hlNW1FZTVQZ2ZOMnd6VXZWRjdiTU9WRGpzMElXcHI3MXNjUm1xQVU3cmYycg?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "snippet": "Raydium Price Prediction 2026, 2027 – 2030: Will RAY Price Soar 100%?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Raydium Exploit Drains $1.3 Million From Legacy Solana Pools - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MYl9KWmhCVVFVUy00di13THVXOFBLWlBSRlU0MFotbDEyS0VUSFFQaEVtTnp6U1dSRENiWm9Ielk3WEkzT3ZWc3dncGJwUS1tYy11MHVtTUl6MVpUbF9qeTQ1YVAzUk9Idm94Sg?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "snippet": "Raydium Exploit Drains $1.3 Million From Legacy Solana Pools&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Raydium price jumps 15% as top coins struggle: why is RAY surging? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41N1ZBaVhSMjlUbWo2LVFVaFBfNmR0OXpzZmFNY3NKUHRxbTRGZW1kWnlNWFZxVTNVWlFYMmUzV2t0VnFqdHB3YmpxakVPRy1Bd1Q0NFJOdkpEcmN1c3c?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "snippet": "Raydium price jumps 15% as top coins struggle: why is RAY surging?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Raydium Price Prediction 2026-2030: Will RAY Token Skyrocket in the Solana DeFi Revolution? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45eFR5TGFZUzZIRlAySTlISFhMRTdaZUZkcGNZMFhPbm1BSWktMy15QnE1cmFZQW45OEJvTzljanliX1RTd1hPc3pYS0VPY2tnMGtyY1pCb1BvT0p3eVJMNU5tTlJpbEFTbDFSM0ZMZ25VQ0dlckJzVTJiTnI?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "snippet": "Raydium Price Prediction 2026-2030: Will RAY Token Skyrocket in the Solana DeFi Revolution?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What Is Raydium (RAY)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DTzloR3NaSEtObXpreXI5NGRORjRHbUExeEwtYW5BdWV1WE05OUo4MzRNenNTcXhCU05qcFJTX2dHVmRuWWJHeTF5eEZBRmVwMzZ3YlEwTF8wbVduNi10ZEQ3LUNPSlZ6VEtNNTc2Yw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 26 Jan 2025 08:00:00 GMT",
+      "snippet": "What Is Raydium (RAY)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Raydium LaunchLab: How RAY is Revolutionizing Token Creation on Solana - OKX",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HSjlmUk9HUVhYQkMzSGJjdjFQbWE3eGs4M3ZFV0xLVTd1VEJqZDdUejhpUDdJbENNVERMQUlvdjVBZkVldzlUZjNQaUhITGVIWF9ULUtGazRoMV9tR1VvdW92R0RTVGdHbmt4M0JTSQ?oc=5",
+      "source": "OKX",
+      "publishedAt": "Thu, 21 Aug 2025 07:00:00 GMT",
+      "snippet": "Raydium LaunchLab: How RAY is Revolutionizing Token Creation on Solana&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Raydium price today, RAY to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OMktYcU9YVFVLeUVtSWVrazZFV0tCRUdYbmFuV3ZiMXh0SzRVTUlmaElPRVBOZkp1Y2JGY1pWNWNzQmxVV0J3eWxXWWtZR3A5aWljUW5DbUs?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 19 Feb 2021 16:01:12 GMT",
+      "snippet": "Raydium price today, RAY to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "How to Use Raydium Effortlessly - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RbWhrSUdYa0ZHU0hELUttMmZvcDFXckxHSzJXZy11Tno0Y0dza0UtSWFxWW9QaHBEUzZwaVFUMkVJS3U3THVHZkx3dnRxdEFBakxlMWF1akgwdw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 01 May 2025 07:00:00 GMT",
+      "snippet": "How to Use Raydium Effortlessly&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What Is Raydium (RAY)? The Only Guide You Need - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwRkpaRW9FQkIzUGJpVXJmX1ZvMWNoMkd2Qjd5dXpiRm50c0hXOXg4TkRjbDBOSy1mMG10dUlVU0JvOTRxSFdpWEh2WVduM1FZY21nRDZn?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Sat, 09 Oct 2021 07:00:00 GMT",
+      "snippet": "What Is Raydium (RAY)? The Only Guide You Need&nbsp;&nbsp;Bybit Learn"
+    },
+    {
+      "title": "Next Cryptocurrency to Explode, November 1 — Gigachad, Raydium, Retardio, aelf - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tRlRIQThhby1jeHBoUmRsSHVaOXVQSHZLQ3ViRHh0MWdITGlMMXhHODloTVoweEJFaWZnaW9rbDNWMGRpcV9BUHlxN1VUdHhiak9UZzRfRDdhNU9RNUE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 01 Nov 2024 07:00:00 GMT",
+      "snippet": "Next Cryptocurrency to Explode, November 1 — Gigachad, Raydium, Retardio, aelf&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Raydium Exploit Drains $1.3 Million From Legacy Solana Pools - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50UWIydkdxT3l5Q1haOWpHOXQzTzRBTUhEVGc1Tk05bWRuMk9KMllpZnRfcTV6VVFqdks4OGN2QUFLcnpNa29YZWF2YUMyVGRqYm96RlpMcEpmSlR6NEHSAWNBVV95cUxOZ0RiOTBaMTVTNEFGNEpTdllUYkRIeTUxRFUyVnpoZTNRZkstLUJXOENEMkc3S0tLV2xIVmprQk1YcXFnZkFKaDNuaWlsMW1pUVRoSi1zQllVRmUtUTU0czNmTWM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "snippet": "Raydium Exploit Drains $1.3 Million From Legacy Solana Pools&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "RAY surges 12% as Raydium takes on Pump.fun - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5laUxpM2dMXzZCZ2c0SjNBY1JEQXpPOHNfREdCWER2ODZtQm43ZDhtZVRYNTZMZmFmNlJLRzFfMk90djJtZFMtcndhNHF0b21WR0ZwRktUSzhOSWFxbXc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 18 Apr 2025 07:00:00 GMT",
+      "snippet": "RAY surges 12% as Raydium takes on Pump.fun&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
