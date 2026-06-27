@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-06-27T23:02:33.351Z",
+  "updatedAt": "2026-06-27T23:17:17.528Z",
   "results": [
+    {
+      "token": "ARC",
+      "requestedInput": "ARC",
+      "name": "ARC",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T23:17:11.508Z",
+      "latestPath": "data/results/ARC-latest.json"
+    },
+    {
+      "token": "TAC",
+      "requestedInput": "TAC",
+      "name": "TAC Token",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T23:17:10.824Z",
+      "latestPath": "data/results/TAC-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
+      "name": "VelodromeV2",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T23:17:09.615Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "DYDX",
+      "requestedInput": "DYDX",
+      "name": "dYdX",
+      "score": 25,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-27T23:02:24.771Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-27T23:17:12.489Z",
+      "latestPath": "data/results/DYDX-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T23:17:17.526Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "UNH",
@@ -280,16 +320,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T22:02:21.032Z",
       "latestPath": "data/results/CFG-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T22:02:19.696Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "ETN",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T19:17:10.765Z",
       "latestPath": "data/results/BR-latest.json"
-    },
-    {
-      "token": "ICNT",
-      "requestedInput": "ICNT",
-      "name": "Impossible Cloud Network Token",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T19:17:16.660Z",
-      "latestPath": "data/results/ICNT-latest.json"
-    },
-    {
-      "token": "ETC",
-      "requestedInput": "ETC",
-      "name": "Ethereum Classic",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:17:23.573Z",
-      "latestPath": "data/results/ETC-latest.json"
-    },
-    {
-      "token": "LAB",
-      "requestedInput": "LAB",
-      "name": "LAB",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:17:17.015Z",
-      "latestPath": "data/results/LAB-latest.json"
     }
   ]
 }
