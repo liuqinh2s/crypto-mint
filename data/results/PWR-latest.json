@@ -1,0 +1,270 @@
+{
+  "token": "PWR",
+  "requestedInput": "POWER",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T17:02:28.483Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "PWR",
+    "name": "Power",
+    "generatedAt": "2026-06-27T17:02:19.737Z",
+    "summary": "PWR是BSC链上PancakeSwap的极低市值代币，流动性仅7.2万美元，24小时交易量几乎为零，无近期价格数据，新闻多为其他同名项目或股票。基本面薄弱，风险极高，不建议参与。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Power Token (PWR) Price Prediction [2026, 2027, 2030, 2040] and more - Coinbase",
+        "impact": "中性",
+        "reason": "通用预测文章，非本项目特有信息。"
+      },
+      {
+        "title": "Aegis Critical Energy Defence Corp. Announces Fully Certified PWR Flex 261Q for U.S. Market Entry and Successful Deployment with Fortune 500 in Indiana - marketscreener.com",
+        "impact": "中性",
+        "reason": "新闻标题提及PWR，但内容与能源公司相关，非本代币。"
+      },
+      {
+        "title": "Quanta Services Inc Stock (PWR) Moved Up by 4.36% on May 11: What Signal Does It Send? - TradingKey",
+        "impact": "中性",
+        "reason": "股票PWR（Quanta Services）的新闻，与代币无关。"
+      },
+      {
+        "title": "Opinion: Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab - MarketWatch",
+        "impact": "中性",
+        "reason": "讨论能源股票，非本代币。"
+      },
+      {
+        "title": "Power Protocol (PWRDAO) Price Today | PWR to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "PWRDAO代币，非本PWR。"
+      },
+      {
+        "title": "Power Token (PWR) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+        "impact": "中性",
+        "reason": "通用数据页面，无实质信息。"
+      },
+      {
+        "title": "Gamebitcoin Power (PWR) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+        "impact": "中性",
+        "reason": "Gamebitcoin Power，非本代币。"
+      }
+    ],
+    "fundamentals": [
+      "BSC链上PancakeSwap代币，合约地址0xD52fE1039D706722b3D696e74AD4095DC3d3860",
+      "市值约4.48万美元，流动性7.25万美元",
+      "24小时交易量仅0.01美元，几乎无交易活动",
+      "无官网、白皮书、团队信息，项目背景不明",
+      "代币供应量未知，无解锁或通胀数据"
+    ],
+    "marketRead": [
+      "价格0.0003622美元，24小时无价格变动数据",
+      "流动性池深度极浅，大额交易易造成滑点或操纵",
+      "成交量极低，市场关注度几乎为零",
+      "无K线数据，无法判断趋势"
+    ],
+    "risks": [
+      "极低流动性：7.25万美元，卖出可能导致价格暴跌",
+      "无交易量：24小时仅0.01美元，实际无法退出",
+      "项目匿名：无团队、路线图，极大概率是蜜罐或貔貅盘",
+      "新闻混淆：搜索到的新闻多为同名股票或其他项目，误导性强",
+      "合约风险：未开源或未审计，可能存在后门"
+    ],
+    "watchlist": [
+      "流动性变化：若流动性骤降则立即归零",
+      "交易量激增：可能为拉盘出货，需警惕",
+      "合约审计或团队公开信息"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，无其他可靠信息",
+      "新闻均为同名项目或股票，与本代币无关",
+      "无任何基本面支撑，建议完全回避"
+    ]
+  },
+  "profile": {
+    "id": "0xD52eFE1039D706722b3D696e74AD4095DC3d3860",
+    "symbol": "PWR",
+    "name": "Power",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x3b6dc65b47091fe353445bfd813d9854883d4a04",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.0003622,
+    "marketCapUsd": 44818,
+    "fullyDilutedValuationUsd": 44818,
+    "totalVolumeUsd": 0.01,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2022-01-01",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x3B6dc65B47091fE353445bFd813D9854883D4a04",
+    "baseTokenAddress": "0xD52eFE1039D706722b3D696e74AD4095DC3d3860",
+    "quoteToken": {
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "name": "BUSD Token",
+      "symbol": "BUSD"
+    },
+    "liquidityUsd": 72545.13,
+    "pairUrl": "https://dexscreener.com/bsc/0x3b6dc65b47091fe353445bfd813d9854883d4a04",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "PWR/BUSD",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x3B6dc65B47091fE353445bFd813D9854883D4a04",
+    "pairUrl": "https://dexscreener.com/bsc/0x3b6dc65b47091fe353445bfd813d9854883d4a04",
+    "lastPrice": 0.0003622,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.01,
+    "liquidityUsd": 72545.13,
+    "fullyDilutedValuationUsd": 44818,
+    "marketCapUsd": 44818,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x3b6dc65b47091fe353445bfd813d9854883d4a04",
+    "pairAddress": "0x3B6dc65B47091fE353445bFd813D9854883D4a04",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0xD52eFE1039D706722b3D696e74AD4095DC3d3860",
+      "name": "Power",
+      "symbol": "PWR"
+    },
+    "quoteToken": {
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "name": "BUSD Token",
+      "symbol": "BUSD"
+    },
+    "priceNative": "0.0003588",
+    "priceUsd": "0.0003622",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.01,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 72545.13,
+      "base": 100142753,
+      "quote": 35936
+    },
+    "fdv": 44818,
+    "marketCap": 44818,
+    "pairCreatedAt": 1641038608000
+  },
+  "news": [
+    {
+      "title": "Power Token (PWR) Price Prediction [2026, 2027, 2030, 2040] and more - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lcWt4NHFlNUw4MHFPSmpjdWFOeldMYm1vYTU0YXpMcEpOb0RkQ1RxOF9zTlFqVTJ4NXFEZE1FcmctMHBCSi1SeE9KMVBlay1FamVZeFNVVzM4TEk2YTlIX1hnMmxYdFBQOFk0?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Sun, 14 Sep 2025 23:48:45 GMT",
+      "snippet": "Power Token (PWR) Price Prediction [2026, 2027, 2030, 2040] and more&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Aegis Critical Energy Defence Corp. Announces Fully Certified PWR Flex 261Q for U.S. Market Entry and Successful Deployment with Fortune 500 in Indiana - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcE5BX3R3eWVyTFprRTB5NWNfYkQ5c1JranZhVHJqVmFjVW84aktLUTdBdURkSGh0VmIzWk5ha3FWdFhDS1hEX0ItUVZaSVFIZUdSMm5xbmkzeHAxbXI2TS1rbTgwa0ZRcUJ6Z2xJNWQ0NkYwNkFkYjlGNXd4VFRTSkhmb2sxb1FrTXlIclNaRURmUHVWRDk3Z0tsZFJIdlJTeFRZY3lsUTNfYW9tSWdHN0tGdDlqTHYwcEVOOHhNRDljWEtvWTkzdWtiVjA5cUNPSlhPX3hyd3g5TDlQdXFsZkcza3hLdw?oc=5",
+      "source": "marketscreener.com",
+      "publishedAt": "Thu, 18 Jun 2026 16:07:04 GMT",
+      "snippet": "Aegis Critical Energy Defence Corp. Announces Fully Certified PWR Flex 261Q for U.S. Market Entry and Successful Deployment with Fortune 500 in Indiana&nbsp;&nbsp;marketscreener.com"
+    },
+    {
+      "title": "Quanta Services Inc Stock (PWR) Moved Up by 4.36% on May 11: What Signal Does It Send? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGh2U1ZaTG5telpqMENsNzZBTTc4VFBTRFBFRDNqU1p4RDNvSUFKUHJBZzJsOWV2eWJMS3lhXzdLUEp0Y1EtU09PYUo5QVNFVFlLUmpISmRSbEhpY1E5aWpJQkR2LWk0azZMdTlmeTFfQ29TNnpRSjQ4UVlSbDRHelVUUEhsc1FYdHc?oc=5",
+      "source": "TradingKey",
+      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
+      "snippet": "Quanta Services Inc Stock (PWR) Moved Up by 4.36% on May 11: What Signal Does It Send?&nbsp;&nbsp;TradingKey"
+    },
+    {
+      "title": "Opinion: Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTBESEdlNUhicnFRemxFRDlHSkV1a0ppbW5IMl9yZEVjeF9BX1AtbWE2ZkNuQnlDTFNLUDN2YUc0Q3dNcU56aUVzSDlrVlFmQ3pFSmNPUVlSczN6YlhCcXpTaXZFX3lvelJMRERvYzdHT2xYTHlNaERhX2JneVFBNThaUWRPZDZjRnh4clR4S0s3X041MHQtRWhkZjNvMGx1UU5fdXQwR3BONExmRk5Rc3ZRWGV5Q0tqMVVYS1pnMA?oc=5",
+      "source": "MarketWatch",
+      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
+      "snippet": "Opinion: Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab&nbsp;&nbsp;MarketWatch"
+    },
+    {
+      "title": "Power Protocol (PWRDAO) Price Today | PWR to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yMnlYZEd3MlN3NWs5b3ZjZGlyanIwbHI2X1dGLWlfR0dXYi1UdDhpeGFSUEFWRTZvLW9jbWdhWUJhQnpDLVRySzZhWjBvOU4yT29KYmlGb3ZuN2M?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "snippet": "Power Protocol (PWRDAO) Price Today | PWR to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Power Token (PWR) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VZUFNQ1BrX0E2NWNuYTBFLV9jLV9oaUN5RndDUjhDaUJPb3VJQjduS0xGaXRTS282eEljR29BaVpjMkc1RnNEWWxJVVVjcGctNlowY0ZJemswaHB0VGt5cTN6QUZIRlE3UmQxX2t3?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Tue, 26 Nov 2024 10:37:57 GMT",
+      "snippet": "Power Token (PWR) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Gamebitcoin Power (PWR) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KWENQV25xVV9PcjZGQzJVbmJzUmdZcGgxdU1DZEZaTmlfdFE0VzRERlZVR3lja1pBRkZGMnhtU1A1bEZwV0lHMkk4UUhNZUJDcFo1QlB1dFg3dDMxRjd1RUtkWWFVR1dVV1pkYzBrekdjbDZiUlE?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Sun, 05 Jan 2025 02:20:06 GMT",
+      "snippet": "Gamebitcoin Power (PWR) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=POWER: Throttled\n"
+  ]
+}

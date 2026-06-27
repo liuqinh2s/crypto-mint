@@ -1,0 +1,181 @@
+{
+  "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
+  "requestedInput": "ICNT",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T17:02:29.064Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
+    "name": "ICNT",
+    "generatedAt": "2026-06-27T17:02:23.811Z",
+    "summary": "ICNT是Base链上Uniswap的极低流动性代币，24小时交易量仅0.02美元，市值约3.2万美元，无新闻、无历史价格数据，存在极高风险。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无有效逻辑，不适用"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "代币名称ICNT，合约地址0x1F6300800c538316fdc72455Af9180F60E1A48F3",
+      "创建于2026-03-29，距今约3个月",
+      "无官网、无描述，仅DexScreener上有一个交易对",
+      "流动性仅2.5万美元，24小时交易量0.02美元，几乎无交易活动",
+      "市值和FDV均为3.18万美元，供应量未知"
+    ],
+    "marketRead": [
+      "价格0.00003177美元，24小时无价格变动数据",
+      "成交量极低，市场深度极差，滑点巨大",
+      "无K线数据，无法判断趋势"
+    ],
+    "risks": [
+      "流动性极低，大额交易极易造成价格剧烈波动",
+      "无任何新闻或社区关注，可能是无人问津的僵尸代币",
+      "合约未经审计，存在Rug Pull风险",
+      "无历史价格数据，无法评估估值合理性",
+      "交易对仅存在于Uniswap，无CEX支持"
+    ],
+    "watchlist": [
+      "关注流动性是否增加",
+      "关注是否有官方公告或社区活动"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他来源验证",
+      "新闻数据为空，无法获取任何信息"
+    ]
+  },
+  "profile": {
+    "id": "0x1F6300800c538316fdc72455Af9180F60E1A48F3",
+    "symbol": "IMPOSSIBLECLOUDNETWORKTOKEN",
+    "name": "ICNT",
+    "categories": [
+      "base",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on base / uniswap. Pair URL: https://dexscreener.com/base/0x5858b06822ecf6314b271e36314d52e7a1365569b5c510ca383f85eeabbb8397",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00003177,
+    "marketCapUsd": 31771,
+    "fullyDilutedValuationUsd": 31771,
+    "totalVolumeUsd": 0.02,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-03-29",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x5858b06822ecf6314b271e36314d52e7a1365569b5c510ca383f85eeabbb8397",
+    "baseTokenAddress": "0x1F6300800c538316fdc72455Af9180F60E1A48F3",
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "liquidityUsd": 25416.79,
+    "pairUrl": "https://dexscreener.com/base/0x5858b06822ecf6314b271e36314d52e7a1365569b5c510ca383f85eeabbb8397",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "Impossible Cloud Network Token/ETH",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x5858b06822ecf6314b271e36314d52e7a1365569b5c510ca383f85eeabbb8397",
+    "pairUrl": "https://dexscreener.com/base/0x5858b06822ecf6314b271e36314d52e7a1365569b5c510ca383f85eeabbb8397",
+    "lastPrice": 0.00003177,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.02,
+    "liquidityUsd": 25416.79,
+    "fullyDilutedValuationUsd": 31771,
+    "marketCapUsd": 31771,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "base",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/base/0x5858b06822ecf6314b271e36314d52e7a1365569b5c510ca383f85eeabbb8397",
+    "pairAddress": "0x5858b06822ecf6314b271e36314d52e7a1365569b5c510ca383f85eeabbb8397",
+    "labels": [
+      "v4"
+    ],
+    "baseToken": {
+      "address": "0x1F6300800c538316fdc72455Af9180F60E1A48F3",
+      "name": "ICNT",
+      "symbol": "Impossible Cloud Network Token"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "priceNative": "0.00000001996",
+    "priceUsd": "0.00003177",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.02,
+      "h6": 0.02,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 25416.79,
+      "base": 799998339,
+      "quote": 0.00004574
+    },
+    "fdv": 31771,
+    "marketCap": 31771,
+    "pairCreatedAt": 1774810683000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=ICNT: Throttled\n"
+  ]
+}
