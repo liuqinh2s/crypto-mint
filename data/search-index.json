@@ -1,15 +1,85 @@
 {
-  "updatedAt": "2026-06-27T20:02:39.872Z",
+  "updatedAt": "2026-06-27T20:17:22.732Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
+      "name": "VelodromeV2",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T20:17:10.375Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "GRIFFAIN",
+      "requestedInput": "GRIFFAIN",
+      "name": "GRIFFAIN",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T20:17:15.216Z",
+      "latestPath": "data/results/GRIFFAIN-latest.json"
+    },
+    {
+      "token": "B2",
+      "requestedInput": "B2",
+      "name": "BSquared Network",
       "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-27T20:02:29.001Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-27T20:17:13.249Z",
+      "latestPath": "data/results/B2-latest.json"
+    },
+    {
+      "token": "ARQQ",
+      "requestedInput": "ARQQ",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T20:17:07.028Z",
+      "latestPath": "data/results/ARQQ-latest.json"
+    },
+    {
+      "token": "AERO",
+      "requestedInput": "AERO",
+      "name": "Aerodrome Finance",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T20:17:17.938Z",
+      "latestPath": "data/results/AERO-latest.json"
+    },
+    {
+      "token": "1000RATS",
+      "requestedInput": "1000RATS",
+      "name": "Ordinals RATS",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T20:17:13.305Z",
+      "latestPath": "data/results/1000RATS-latest.json"
+    },
+    {
+      "token": "USDC",
+      "requestedInput": "USDC",
+      "name": "USDC",
+      "score": 10,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T20:17:22.729Z",
+      "latestPath": "data/results/USDC-latest.json"
+    },
+    {
+      "token": "UAI",
+      "requestedInput": "UAI",
+      "name": "UnifAI",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T20:17:21.627Z",
+      "latestPath": "data/results/UAI-latest.json"
     },
     {
       "token": "JUP",
@@ -930,76 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T17:17:34.596Z",
       "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "WIF",
-      "requestedInput": "WIF",
-      "name": "WIF",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:17:44.731Z",
-      "latestPath": "data/results/WIF-latest.json"
-    },
-    {
-      "token": "SOL",
-      "requestedInput": "SOL",
-      "name": "Solana",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T17:17:50.239Z",
-      "latestPath": "data/results/SOL-latest.json"
-    },
-    {
-      "token": "POPCAT",
-      "requestedInput": "POPCAT",
-      "name": "Popcat",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:17:45.407Z",
-      "latestPath": "data/results/POPCAT-latest.json"
-    },
-    {
-      "token": "LUMIA",
-      "requestedInput": "LUMIA",
-      "name": "LUMIA",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:17:53.176Z",
-      "latestPath": "data/results/LUMIA-latest.json"
-    },
-    {
-      "token": "AT",
-      "requestedInput": "AT",
-      "name": "AT",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:17:51.246Z",
-      "latestPath": "data/results/AT-latest.json"
-    },
-    {
-      "token": "KMNO",
-      "requestedInput": "KMNO",
-      "name": "Kamino Finance",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:17:57.461Z",
-      "latestPath": "data/results/KMNO-latest.json"
-    },
-    {
-      "token": "LLY",
-      "requestedInput": "LLY",
-      "name": "Eli Lilly & Co.",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:17:58.367Z",
-      "latestPath": "data/results/LLY-latest.json"
     }
   ]
 }
