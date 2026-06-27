@@ -1,0 +1,326 @@
+{
+  "token": "PI",
+  "requestedInput": "PI",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T15:32:25.550Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "PI",
+    "name": "Pi Network",
+    "generatedAt": "2026-06-27T15:32:11.376Z",
+    "summary": "PI近期因Pi2Day活动、协议升级及Banxa法币通道等消息面催化，价格从低位反弹，但基本面仍面临巨大供应压力（流通量108亿，最大供应1000亿）和极低ATH跌幅（-95.7%）。当前DEX流动性仅300万美元，价格0.1749美元，24h微跌。新闻多空交织，市场情绪偏乐观但缺乏实质买盘支撑。建议观望，等待更明确的催化剂或突破信号。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "价格跌破0.15美元或成交量持续萎缩；若突破0.20美元且放量，可考虑小仓试错。"
+    },
+    "catalysts": [
+      "Pi2Day 2026活动（6月28日）可能发布重大更新",
+      "Protocol 24/25升级激活，提升网络功能",
+      "Banxa法币通道上线，降低购买门槛",
+      "Kraken等CEX上市预期（但已部分兑现）",
+      "社区情绪高涨（看多比例82.5%）"
+    ],
+    "latestNews": [
+      {
+        "title": "Pi Network price prediction: Can PI reclaim $0.20 before year-end?",
+        "impact": "中性",
+        "reason": "预测性文章，无实质利好，强调需60%涨幅，反映市场分歧。"
+      },
+      {
+        "title": "Pi Network Activates Protocol 24 as PI Price Hovers Near All-Time Lows",
+        "impact": "利好",
+        "reason": "技术升级提升网络功能，但价格反应平淡，说明市场已消化。"
+      },
+      {
+        "title": "Pi Network (PI) Teases Major Updates This Week: What Could Be Next?",
+        "impact": "利好",
+        "reason": "暗示Pi2Day有重大更新，短期情绪催化。"
+      },
+      {
+        "title": "Pi Network price overbought ahead of Kraken listing: will traders sell the news?",
+        "impact": "利空",
+        "reason": "指出超买和卖新闻风险，历史经验表明上市后可能回调。"
+      },
+      {
+        "title": "Pi Network Banxa Integration Now Enables Direct Fiat Purchase",
+        "impact": "利好",
+        "reason": "降低法币入金门槛，增加真实需求。"
+      }
+    ],
+    "fundamentals": [
+      "Pi Network是移动端挖矿项目，采用恒星共识协议，目标成为日常支付货币。",
+      "主网已于2025年2月启动，但代币仍处于早期流通阶段。",
+      "最大供应量1000亿，当前流通108亿，通胀压力巨大。",
+      "团队由斯坦福博士领导，但项目进展缓慢，实际应用有限。",
+      "DEX流动性仅300万美元，深度差，大额交易易滑点。",
+      "CEX上市（如Kraken）已发生，但Binance尚未上线。"
+    ],
+    "marketRead": [
+      "当前价格0.1749美元，24h微跌0.06%，成交量约7.2万美元，流动性不足。",
+      "价格距ATH 2.99美元跌去95.7%，处于历史低位。",
+      "30日跌幅约11%，短期反弹力度弱。",
+      "DEX市场深度差，价格易受大单影响。",
+      "CEX价格（0.129美元）低于DEX，存在套利空间但流动性有限。"
+    ],
+    "risks": [
+      "巨大供应压力：最大供应1000亿，当前流通108亿，未来解锁将稀释价格。",
+      "低流动性：DEX流动性仅300万美元，大额卖出易导致暴跌。",
+      "项目进展缓慢：主网上线后缺乏杀手级应用，用户增长停滞。",
+      "监管风险：移动挖矿模式可能面临合规挑战。",
+      "卖新闻风险：Pi2Day等事件可能被提前定价，利好出尽。",
+      "合约风险：DEX交易对存在智能合约漏洞风险。"
+    ],
+    "watchlist": [
+      "Pi2Day 2026（6月28日）是否有超预期更新",
+      "Binance上市传闻是否成真",
+      "成交量是否持续放大（日成交>50万美元）",
+      "价格能否站稳0.20美元并突破0.25美元",
+      "供应解锁时间表及实际流通量变化"
+    ],
+    "sourceNotes": [
+      "数据来源：CoinGecko、DexScreener、Google News。",
+      "DEX数据仅代表Raydium上的PI/USDC交易对，非CEX价格。",
+      "新闻标题来自RSS摘要，未核实全文内容。",
+      "市场情绪指标（看多比例82.5%）可能受社区动员影响，需谨慎参考。"
+    ]
+  },
+  "profile": {
+    "id": "pi-network",
+    "symbol": "PI",
+    "name": "Pi Network",
+    "categories": [
+      "Layer 1 (L1)",
+      "Made in USA",
+      "Mobile Mining"
+    ],
+    "homepage": [
+      "https://minepi.com/"
+    ],
+    "description": "Pi Network is a social cryptocurrency and developer platform designed to make digital currency mining accessible to everyday people through mobile devices. The project aims to build a widely distributed currency that facilitates transactions for real-world goods and services rather than purely speculative trading. Its main value proposition is a mobile-first mining system that allows users to earn rewards on their phones without requiring specialized hardware, draining battery life, or using excessive data. The network operates on the Stellar Consensus Protocol and a Federated Byzantine Agreement, which allows computers to reach agreement by trusting specific groups of other peers. Security is maintained through a global trust graph built from individual user groups called security circles where members vouch for each other. Users participate in four primary roles as pioneers, contributors, ambassadors, or nodes to ensure the network remains decentralized. This meritocratic distribution model rewards consistent engagement and network growth rather than financial wealth or technical power. Founded by Dr. Nicolas Kokkalis and Dr. Chengdiao Fan, both of whom hold doctoral degrees from",
+    "marketCapRank": 55,
+    "currentPriceUsd": 0.129109,
+    "marketCapUsd": 1395444444,
+    "fullyDilutedValuationUsd": 2146837607,
+    "totalVolumeUsd": 7803017,
+    "priceChange24hPct": 1.07837,
+    "priceChange7dPct": -4.20893,
+    "priceChange14dPct": 0.23407,
+    "priceChange30dPct": -10.96398,
+    "athUsd": 2.99,
+    "athChangePct": -95.6856,
+    "circulatingSupply": 10810134427.79531,
+    "totalSupply": 16630976042.76203,
+    "maxSupply": 100000000000,
+    "sentimentVotesUpPct": 82.5,
+    "watchlistUsers": 235454,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "PI/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "3twT45KbWC2LNHvVWopbGbxoctRV8wLvgDhf76Kgx52i",
+    "pairUrl": "https://dexscreener.com/solana/3twt45kbwc2lnhvvwopbgbxoctrv8wlvgdhf76kgx52i",
+    "lastPrice": 0.1749,
+    "priceChange24hPct": -0.06,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 71981.4,
+    "liquidityUsd": 2994412,
+    "fullyDilutedValuationUsd": 3148286,
+    "marketCapUsd": 3148286,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/3twt45kbwc2lnhvvwopbgbxoctrv8wlvgdhf76kgx52i",
+    "pairAddress": "3twT45KbWC2LNHvVWopbGbxoctRV8wLvgDhf76Kgx52i",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "F1vtFcWGmoP2zMFmC7jPMWdubRkkdTmG3wZUtPX8wZEp",
+      "name": "PI",
+      "symbol": "PI"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.1749",
+    "priceUsd": "0.1749",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 7,
+        "sells": 7
+      }
+    },
+    "volume": {
+      "h24": 71981.4,
+      "h6": 20268.98,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.06
+    },
+    "liquidity": {
+      "usd": 2994412,
+      "base": 17120103,
+      "quote": 21.7426
+    },
+    "fdv": 3148286,
+    "marketCap": 3148286,
+    "pairCreatedAt": 1774688073000
+  },
+  "news": [
+    {
+      "title": "Pi Network price prediction: Can PI reclaim $0.20 before year-end? - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHRWVISE1RRDVTUnkwUHZpNFV4ZnM5QmV3U0JuSFNyZlVNa1pPTnhFYVgtT3FaeDFSUFVpQlNmSUdmUlZGTks0ZnZwMTVmZUFBY1BYYWhpN2xNSkp1YUF5c0VUQTVQRDY0Z3pJY09OSFM2bi1mR0hxZw?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Sat, 27 Jun 2026 03:25:00 GMT",
+      "snippet": "Pi Network price prediction: Can PI reclaim $0.20 before year-end?&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Pi Network Price Forecast: PI approaches key crossroads as bullish momentum wanes - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdE9zOFNVTnJraXM4UWM1Smg0cXpwZGVBU2x0U0dWZEcxclFCMTk2OW94OFJhaV9KQTVod1g4YUdydEJobkI0WFJtVkhLbldBSnpjNHFXbXk2enBPMU9XRnlGTmFtdXlnUGFFNWNILUx5eHlZSVAzaklLODYwMzEwQWRQTE1nWFRpTzVObFRUeTRkZGhLTHJzYlN5ZWctYU1FTllTWnQ2Y2IyendJeUdKR0MzYUpZZlVURmJRNVV2QU90QjJRQ3ZncThtdFVXWVhDaWFnMjIxNA?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "Wed, 24 Jun 2026 08:13:35 GMT",
+      "snippet": "Pi Network Price Forecast: PI approaches key crossroads as bullish momentum wanes&nbsp;&nbsp;FXStreet"
+    },
+    {
+      "title": "Pi Network Price Prediction: PI Tests a Breakout Two Days Before Pi2Day 2026 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUJoMk9MZXpOMXgwdldLZ2FUeHVFcThlX0tXbEVLcXppeVBIdTdvNmRHMU9iUjVPb2xIOFI5cndjVVFKWHhEeW1rQkZGalc4UF9GNU1YNE5weXdyeWRlaUNkTUpTOEt5dlpFblhyRHpvbWpJSVlIMGowUzk5a1ZUZVNCRFZtcnd4aXNyY1hhb3VBdmZ6ekE5b1hFZlVvbS1iSmQ5Z0NJaVYwcW9DZ1dGQXg0SQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 26 Jun 2026 14:00:40 GMT",
+      "snippet": "Pi Network Price Prediction: PI Tests a Breakout Two Days Before Pi2Day 2026&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Pi Network (PI) Teases Major Updates This Week: What Could Be Next? - CryptoPotato",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSG1Ed21TZXFMc1NiQWhCZ202MkdYMHBQZGZDeVB3WVVzNTNocVhnYU5OdlI4YnZYMUNvOXVMWVdmeS1xWmRJOXhNVjl6NklDblpCaHRSaExFYUc1UGNJdy1BN1AxdFNzMVBYYVdwWXVNSmdxQUxCMXdTN2tmSnlFVTZZUWZWcUJvYjlzc0dCNGtvNGM?oc=5",
+      "source": "CryptoPotato",
+      "publishedAt": "Thu, 25 Jun 2026 08:55:00 GMT",
+      "snippet": "Pi Network (PI) Teases Major Updates This Week: What Could Be Next?&nbsp;&nbsp;CryptoPotato"
+    },
+    {
+      "title": "Pi Network token trades near all-time low; reclaiming $0.20 needs 60% gain amid supply and demand challenges. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0Zobkl1Y0RYT2VFa0VteXA3Qm90RTY0T0RNWEhrMFlQSHRKb2VRVUR5S2lXczNVSWFGSjA0d3I2Mm94VHNUYUVrb01qSTJ0SWVtenc0UzNUWHNVTW5xRlJxWEM3ai1FOGR1WU5SVk9pMkVaTlJIUmVZZXpLS2JaSWQ2SVdQcUxQNkE?oc=5",
+      "source": "Pluang",
+      "publishedAt": "Sat, 27 Jun 2026 03:43:06 GMT",
+      "snippet": "Pi Network token trades near all-time low; reclaiming $0.20 needs 60% gain amid supply and demand challenges.&nbsp;&nbsp;Pluang"
+    },
+    {
+      "title": "Pi Network Activates Protocol 24 as PI Price Hovers Near All-Time Lows - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzMyV1JNLWJVLWNXelJtV081c19sVW1tc2E2M0xJX1VvZElySFlzZEdPVGduUW55SDF5eW1KYjU3QzBpU3pzN3hHTmRmN2hDZ0FpM2dJdHRFbEVPTVNTRzRVNEhpWExVd25IZnp0QWQ2bXZkRHZNUllzd3Izb050enJIRktxbThzRVRwdDdTRXFkMVlibWhYLWJ1V2QxZw?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "Pi Network Activates Protocol 24 as PI Price Hovers Near All-Time Lows&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Can Pi Network Join the Market Rebound? One Exclusive Indicator Hints at a Shift - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oa2NHSDZveWxXN1lzZVVkekR1NEVfT0xjOU4yOVZBMkhnR096S3RSZ2ZsVkJnS2VncDc4NTRTTTg5OVZ5eFl0X244WHVMRmFBd3I0UGxfaldnSzlQVzZGcW9pcVd0ckdsVTg0T0J2Yw?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "snippet": "Can Pi Network Join the Market Rebound? One Exclusive Indicator Hints at a Shift&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Pi Network Price Forecast: PI could see further weakness ahead of Pi2Day - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3RIeHFsOTRwOGllUHFsRE8xdEZfZ0JsVV9KcXA5eUNlQWI0MVJoN2RURG5URFA4OF9MUHBKcWhQdjVZRWVBWG0yN3FyYnJGcUx6VDhTV3FEdlZXSkN5aUJSdGtsSHRzY3VXWVN4cjNoTV9Vd1NWWDFWVGRvdGRtTnpfRkJRdjQtNjZRdnpCRGQyX2VjbnlTbWhHOTJsbzh6V0JNUk9FNE93MEVPRXJaUldwaFZ4M2N2Y0xjeTFINnpYTkJ4NV9JS2ZuUQ?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "Thu, 25 Jun 2026 05:51:59 GMT",
+      "snippet": "Pi Network Price Forecast: PI could see further weakness ahead of Pi2Day&nbsp;&nbsp;FXStreet"
+    },
+    {
+      "title": "Pi Network price overbought ahead of Kraken listing: will traders sell the news? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObktRUjBiNlo4dVYteDl0MUdDdGlmdU9SMkpzVFZSV0lvd28xclNLcHdncmNrQ2k1Z205NWpCNFRLRkhoUS14bnVCVUlsbkFGaHdPRkpSeDZETmRXZ2R4WDJNeGFKUTJmUzM1VjYyZWtqYm05M1lROE5fRU1LX1pwZUhHX2IyTjlWcjdhV1pBTGNLWldWY0xjM2NLcnF5dzA4WFRTdEhTMTZPc0JXVEpaZnNBc2xkc3ZoZWY4Vl9vRGU4X3hsZndlWUhPT1hQMVdX?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "snippet": "Pi Network price overbought ahead of Kraken listing: will traders sell the news?&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Will Pi Network price recover in 2026 on real-world applications? - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSG50R0hRLTFGQU9mNDA0RVdrbnFCc0hldEtsaFo2ZVV0RjVSTXNQTnk0WVFka2NKeTZtT19EdUhiUXNNSmNKYXpzWG1VV1lrRTVzNm9ONGxRVVpVTmhjUllxRVRicXN2UWl2Vmk5ZmJZQm1ld1VUdFpNR3RNRUpMSmw4UndScXZUR2lrcDYxdlZZSVNoMmdyYmFVZnRWNmZuYWxCMDZ0eDBiaTZIQkR0X3VfcGpWQThEWG9GVFNFX2l4MzF1RkJaY1pMTmQwaG1Sd18zYllQSWxVS2pSZDRpWDQxRmQzZ9IB6wFBVV95cUxPTldURUtoZ2hKWm5KR3ZEQVh6bUhfWUt5a3dQSVZ6ZHpscFNIYjlLaFoxZHlZeWh6RWl5TTZiNVh4dll2VnRjS25YZmVrMDBCS3B3NFlVVDljTnd0X2xDNkhPU3FCaEVwbmY2Z05qbklqd2U3b0FsM2pOUFVPVE5mOUJ0dG9oSFB6OFdNQzljT21oUkllSDN3YkNGNjJtWF9yeUJMRFJubUZCU1VBYzNBQnN2N0s5MmpUT09nYkx4ZTh2UEtuRzhVQzhWdFd4R3ZnLXFxeW4yby1CU2xhZHIzcnJWQWJTTmxwQ1NN?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "snippet": "Will Pi Network price recover in 2026 on real-world applications?&nbsp;&nbsp;FXStreet"
+    },
+    {
+      "title": "Pi Network Gains Fresh Attention as Banxa Launches Partnership Spotlight Campaign - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tOHhFT2l5d24xcTRnY19EVzQ0aDR2RnlEWEJoVTU2dldZejVXR3FBSWxvS1QtNTl6cW5tRU02bFVCdWRja0dTYjBlcnV4WHhCd3F6bGc0d3dUWUlHRVHSAWNBVV95cUxPVFpnV3dORGtUWkQtQ1dXUnllRXRzYW1RenFaRlBFUXd3NUlrU0VIS1MxQ3pCTTJEendjNnE5QnJPYkgzMFFxWDhPZ3huTFd4ekQ4cWU5SGZUUXZRbXVkNHlmWW8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 22 May 2026 07:00:00 GMT",
+      "snippet": "Pi Network Gains Fresh Attention as Banxa Launches Partnership Spotlight Campaign&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Pi Network’s Binance Listing Hopes Rise After Sign Protocol Deal - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcnhwWWNOejFFckxnZmVNbE5Da3hYWXNWUEt2NWluWUpfQ2VpM2hyNm1TZkllZWc4Ykd5QWp0by13ZW1tdHBpU3lsUVpTby1ITVViZUQwX3pPSXdOQ0ZZWkZoRUZDTjU0SFhHeWQwdmtWbDNIZzgzZkNhT2w0Q1dWM1k0UHh4dVlMMHJzUkNVcUpVYlRRQ01yN3NrTQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Sat, 27 Sep 2025 07:00:00 GMT",
+      "snippet": "Pi Network’s Binance Listing Hopes Rise After Sign Protocol Deal&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Pi Network Banxa Integration Now Enables Direct Fiat Purchase - Coinfomania",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNHFmV1loNjd2WVl4SGZxY1B1Z0p0M3pBM2gtSlcyYnFpbm82OGlfSXJpNlE2T1Axa3pkQ0pGZVBTdW5ULUdjQVBZRHY0ZkJtOEZOMXp6WVQwbFd0dVZUMWY4YmFld21RdEVNVU11ejBsdjBONmhzMm5SeHNOWm9fX1VHZG03aUhhZHE5Uk1Qaw?oc=5",
+      "source": "Coinfomania",
+      "publishedAt": "Sun, 24 May 2026 07:00:00 GMT",
+      "snippet": "Pi Network Banxa Integration Now Enables Direct Fiat Purchase&nbsp;&nbsp;Coinfomania"
+    },
+    {
+      "title": "Pi Network Launch Date: Complete Guide to February 2025 Mainnet Launch - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVBZeW9CSlNGZ0I1QU5WVzZkS05tQmlyTEZfV1U0VXQ2YTRYN1JiRTVNdUI0RDNjdW1jWGNCdEdONkNhMDFNOHhlMnB4U19NTmpMb3lHRndaYVQydWE1VmVuU3NUNzVuNURnYjgtTExSeURSOHhBUndYUUNMLURILTFKZkhqSXRIaHA4NFQtZ0tnbnlxemRsMm9SdWNjdl9ucXI5d1BFN1pNeXBHOTZaMg?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Wed, 04 Feb 2026 14:09:55 GMT",
+      "snippet": "Pi Network Launch Date: Complete Guide to February 2025 Mainnet Launch&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Pi Network Protocol 25 Upgrade June Deadline - Coinfomania",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UbG5YTzBIY3FLbGJOS2JJUURvRzFGZGVUZXBxX0ZhMHlSZGo5TEp3TTdaalRFejAweE5faVVVSHV3ODFJUUo3SUdhQl9idloyU25qdUlwYnBPOFZZdmZFcHI2aHg2LTBIZnJFZmJ2bUFYVDItT08tOA?oc=5",
+      "source": "Coinfomania",
+      "publishedAt": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "snippet": "Pi Network Protocol 25 Upgrade June Deadline&nbsp;&nbsp;Coinfomania"
+    },
+    {
+      "title": "What Is Pi Network Airdrop: An In-Depth Guide - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Gd1JFWTRab3FDV09BdDB4LUMzN0YtaDdLUDhlaDNPSVRaNlF2REJrRmtVQVVNSXJZMV96Y3RJTE9kaVNzOVFpZGFnaXpMLTE2TXJhSFFFY0lJS0N5UXVhWFc5V0c?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 13 Aug 2025 07:00:00 GMT",
+      "snippet": "What Is Pi Network Airdrop: An In-Depth Guide&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
