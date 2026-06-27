@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-06-27T21:02:27.554Z",
+  "updatedAt": "2026-06-27T21:17:22.054Z",
   "results": [
+    {
+      "token": "TIAN",
+      "requestedInput": "TIA",
+      "name": "TIA",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T21:17:06.798Z",
+      "latestPath": "data/results/TIAN-latest.json"
+    },
+    {
+      "token": "XPIN",
+      "requestedInput": "XPIN",
+      "name": "XPIN Network",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T21:17:11.076Z",
+      "latestPath": "data/results/XPIN-latest.json"
+    },
+    {
+      "token": "AWE",
+      "requestedInput": "AWE",
+      "name": "AWE Network",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T21:17:10.709Z",
+      "latestPath": "data/results/AWE-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 40,
+      "name": "VelodromeV2",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T21:17:07.441Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "LIT",
+      "requestedInput": "LIT",
+      "name": "Lighter",
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-27T21:02:24.202Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-27T21:17:22.051Z",
+      "latestPath": "data/results/LIT-latest.json"
     },
     {
       "token": "FARTCOIN",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T17:46:56.528Z",
       "latestPath": "data/results/BRKB-latest.json"
-    },
-    {
-      "token": "NAORIS",
-      "requestedInput": "NAORIS",
-      "name": "Naoris Protocol",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:47:02.481Z",
-      "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "KAITO",
-      "requestedInput": "KAITO",
-      "name": "Kaito",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T17:47:04.689Z",
-      "latestPath": "data/results/KAITO-latest.json"
-    },
-    {
-      "token": "SQQQ",
-      "requestedInput": "SQQQ",
-      "name": "SQQQUSDT",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:47:01.521Z",
-      "latestPath": "data/results/SQQQ-latest.json"
-    },
-    {
-      "token": "TRB",
-      "requestedInput": "TRB",
-      "name": "Tellor Tributes",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:47:08.645Z",
-      "latestPath": "data/results/TRB-latest.json"
     }
   ]
 }
