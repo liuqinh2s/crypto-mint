@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-06-27T08:32:35.086Z",
+  "updatedAt": "2026-06-27T08:47:27.733Z",
   "results": [
+    {
+      "token": "TNSR",
+      "requestedInput": "TNSR",
+      "name": "Tensor",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T08:47:10.723Z",
+      "latestPath": "data/results/TNSR-latest.json"
+    },
+    {
+      "token": "HIVE",
+      "requestedInput": "HIVE",
+      "name": "Hive",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:47:09.819Z",
+      "latestPath": "data/results/HIVE-latest.json"
+    },
+    {
+      "token": "HOT",
+      "requestedInput": "HOLO",
+      "name": "Holo",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T08:47:15.244Z",
+      "latestPath": "data/results/HOT-latest.json"
+    },
+    {
+      "token": "NAORIS",
+      "requestedInput": "NAORIS",
+      "name": "Naoris Protocol",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:47:09.538Z",
+      "latestPath": "data/results/NAORIS-latest.json"
+    },
+    {
+      "token": "KAITO",
+      "requestedInput": "KAITO",
+      "name": "KAITO",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:47:19.624Z",
+      "latestPath": "data/results/KAITO-latest.json"
+    },
+    {
+      "token": "TRB",
+      "requestedInput": "TRB",
+      "name": "Tellor Tributes",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:47:22.250Z",
+      "latestPath": "data/results/TRB-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:47:18.085Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "VELVET",
+      "requestedInput": "VELVET",
+      "name": "Velvet",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:47:24.842Z",
+      "latestPath": "data/results/VELVET-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:47:23.776Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "NMR",
+      "requestedInput": "NMR",
+      "name": "Numeraire",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:47:27.731Z",
+      "latestPath": "data/results/NMR-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
@@ -10,16 +110,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T08:32:20.487Z",
       "latestPath": "data/results/VELO-latest.json"
-    },
-    {
-      "token": "HOT",
-      "requestedInput": "HOLO",
-      "name": "Holo",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:32:23.087Z",
-      "latestPath": "data/results/HOT-latest.json"
     },
     {
       "token": "XAN",
@@ -40,16 +130,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-27T08:32:20.623Z",
       "latestPath": "data/results/MET-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:32:29.450Z",
-      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "ETHFI",
@@ -80,16 +160,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T08:32:31.424Z",
       "latestPath": "data/results/LLY-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:32:35.084Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "1000RATS",
@@ -930,76 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T06:02:23.766Z",
       "latestPath": "data/results/TIA-latest.json"
-    },
-    {
-      "token": "TAC",
-      "requestedInput": "TAC",
-      "name": "TAC",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:02:23.641Z",
-      "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "ARK",
-      "requestedInput": "ARK",
-      "name": "ARK",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:02:26.647Z",
-      "latestPath": "data/results/ARK-latest.json"
-    },
-    {
-      "token": "DYDX",
-      "requestedInput": "DYDX",
-      "name": "dYdX",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:02:36.320Z",
-      "latestPath": "data/results/DYDX-latest.json"
-    },
-    {
-      "token": "ACX",
-      "requestedInput": "ACX",
-      "name": "Across Protocol",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T06:02:34.720Z",
-      "latestPath": "data/results/ACX-latest.json"
-    },
-    {
-      "token": "G",
-      "requestedInput": "G",
-      "name": "Gravity (原Galxe)",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:02:36.440Z",
-      "latestPath": "data/results/G-latest.json"
-    },
-    {
-      "token": "PIEVERSE",
-      "requestedInput": "PIEVERSE",
-      "name": "Pieverse Token",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:02:37.360Z",
-      "latestPath": "data/results/PIEVERSE-latest.json"
-    },
-    {
-      "token": "BRKB",
-      "requestedInput": "BRKB",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:02:37.890Z",
-      "latestPath": "data/results/BRKB-latest.json"
     }
   ]
 }
