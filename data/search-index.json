@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-27T10:17:16.925Z",
+  "updatedAt": "2026-06-27T10:22:29.891Z",
   "results": [
+    {
+      "token": "HOT",
+      "requestedInput": "HOLO",
+      "name": "Holo",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T10:22:29.889Z",
+      "latestPath": "data/results/HOT-latest.json"
+    },
+    {
+      "token": "BSV",
+      "requestedInput": "BSV",
+      "name": "Bitcoin SV",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T10:22:28.080Z",
+      "latestPath": "data/results/BSV-latest.json"
+    },
+    {
+      "token": "MAGMA",
+      "requestedInput": "MAGMA",
+      "name": "Magma Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T10:22:26.340Z",
+      "latestPath": "data/results/MAGMA-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T10:22:24.405Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
     {
       "token": "TRADOOR",
       "requestedInput": "TRADOOR",
@@ -10,16 +50,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T10:17:14.721Z",
       "latestPath": "data/results/TRADOOR-latest.json"
-    },
-    {
-      "token": "HOT",
-      "requestedInput": "HOLO",
-      "name": "Holo",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T10:17:12.813Z",
-      "latestPath": "data/results/HOT-latest.json"
     },
     {
       "token": "PANW",
@@ -40,16 +70,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T10:17:11.400Z",
       "latestPath": "data/results/ETC-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T10:17:16.923Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "RAY",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T07:32:04.479Z",
       "latestPath": "data/results/MASK-latest.json"
-    },
-    {
-      "token": "GE",
-      "requestedInput": "GE",
-      "name": "GE Aerospace (传统股票，非加密代币)",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T07:32:03.281Z",
-      "latestPath": "data/results/GE-latest.json"
-    },
-    {
-      "token": "EIGEN",
-      "requestedInput": "EIGEN",
-      "name": "Eigen",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T07:32:05.397Z",
-      "latestPath": "data/results/EIGEN-latest.json"
     }
   ]
 }
