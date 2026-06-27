@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-06-27T08:17:21.299Z",
+  "updatedAt": "2026-06-27T08:32:35.086Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T08:32:20.487Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "HOT",
+      "requestedInput": "HOLO",
+      "name": "Holo",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:32:23.087Z",
+      "latestPath": "data/results/HOT-latest.json"
+    },
+    {
+      "token": "XAN",
+      "requestedInput": "XAN",
+      "name": "Anoma",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T08:32:23.534Z",
+      "latestPath": "data/results/XAN-latest.json"
+    },
+    {
+      "token": "MET",
+      "requestedInput": "MET",
+      "name": "Meteora",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T08:32:20.623Z",
+      "latestPath": "data/results/MET-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:32:29.450Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "ETHFI",
+      "requestedInput": "ETHFI",
+      "name": "ETHFI",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:32:30.467Z",
+      "latestPath": "data/results/ETHFI-latest.json"
+    },
+    {
+      "token": "KMNO",
+      "requestedInput": "KMNO",
+      "name": "Kamino Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:32:30.255Z",
+      "latestPath": "data/results/KMNO-latest.json"
+    },
+    {
+      "token": "LLY",
+      "requestedInput": "LLY",
+      "name": "Eli Lilly & Co.",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:32:31.424Z",
+      "latestPath": "data/results/LLY-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:32:35.084Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "1000RATS",
+      "requestedInput": "1000RATS",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T08:32:33.657Z",
+      "latestPath": "data/results/1000RATS-latest.json"
+    },
     {
       "token": "SLX",
       "requestedInput": "SLX",
@@ -30,16 +130,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T08:17:01.636Z",
       "latestPath": "data/results/AWE-latest.json"
-    },
-    {
-      "token": "HOT",
-      "requestedInput": "HOLO",
-      "name": "Holo",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:17:03.275Z",
-      "latestPath": "data/results/HOT-latest.json"
     },
     {
       "token": "DEXE",
@@ -92,16 +182,6 @@
       "latestPath": "data/results/AT-latest.json"
     },
     {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:17:18.036Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
       "token": "ETN",
       "requestedInput": "ETN",
       "name": "Electroneum",
@@ -110,16 +190,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T08:17:21.297Z",
       "latestPath": "data/results/ETN-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:06:39.892Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "FARTCOIN",
@@ -200,16 +270,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T08:06:59.294Z",
       "latestPath": "data/results/ACU-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:06:59.850Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "CARV",
@@ -940,66 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T06:02:37.890Z",
       "latestPath": "data/results/BRKB-latest.json"
-    },
-    {
-      "token": "NAORIS",
-      "requestedInput": "NAORIS",
-      "name": "Naoris Protocol",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T06:02:46.186Z",
-      "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "KAITO",
-      "requestedInput": "KAITO",
-      "name": "KAITO",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T06:02:46.132Z",
-      "latestPath": "data/results/KAITO-latest.json"
-    },
-    {
-      "token": "VELVET",
-      "requestedInput": "VELVET",
-      "name": "Velvet",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:02:46.557Z",
-      "latestPath": "data/results/VELVET-latest.json"
-    },
-    {
-      "token": "STORJ",
-      "requestedInput": "STORJ",
-      "name": "Storj",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:03:03.763Z",
-      "latestPath": "data/results/STORJ-latest.json"
-    },
-    {
-      "token": "NMR",
-      "requestedInput": "NMR",
-      "name": "Numeraire",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:02:55.139Z",
-      "latestPath": "data/results/NMR-latest.json"
-    },
-    {
-      "token": "TNSR",
-      "requestedInput": "TNSR",
-      "name": "Tensor",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T05:46:59.559Z",
-      "latestPath": "data/results/TNSR-latest.json"
     }
   ]
 }
