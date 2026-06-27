@@ -1,0 +1,311 @@
+{
+  "token": "BSV",
+  "requestedInput": "BSV",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T07:32:13.911Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BSV",
+    "name": "Bitcoin SV",
+    "generatedAt": "2026-06-27T07:32:03.814Z",
+    "summary": "BSV近期24小时涨幅约14.8%，但链上DEX交易对（Solana上的BSV/USDC）价格下跌0.12%，流动性仅153万美元，与主网BSV存在价差。基本面缺乏新催化，新闻多为价格预测类，无实质性利好。历史负面事件（交易所下架、51%攻击）仍构成风险。建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大技术升级或机构采用消息，可重新评估。"
+    },
+    "catalysts": [
+      "无明确近期催化剂，新闻均为价格预测，缺乏实质性进展。"
+    ],
+    "latestNews": [
+      {
+        "title": "Bitcoin SV (BSV) Price Prediction 2026, 2027-2030: Will BSV Price Hit $100? - Coinpedia",
+        "impact": "中性",
+        "reason": "仅为预测，无新信息。"
+      },
+      {
+        "title": "Coinbase Ending Support for Bitcoin SV - CoinDesk",
+        "impact": "利空",
+        "reason": "主要交易所下架，流动性受损。"
+      },
+      {
+        "title": "Binance Delists Bitcoin SV, CEO Calls Craig Wright a 'Fraud' - CoinDesk",
+        "impact": "利空",
+        "reason": "历史负面事件，影响市场信心。"
+      },
+      {
+        "title": "BSV Suffers 51% Attack: Report - CoinDesk",
+        "impact": "利空",
+        "reason": "网络安全问题，损害信任。"
+      }
+    ],
+    "fundamentals": [
+      "BSV是比特币现金（BCH）的硬分叉，旨在恢复中本聪原始愿景，支持大区块和低费用。",
+      "总供应量2100万，当前流通约2004万。",
+      "市值约2.5亿美元，排名143。",
+      "历史最高价489.75美元，当前价格12.52美元，跌幅超97%。",
+      "主要交易所如Binance、Coinbase已下架BSV，流动性受限。"
+    ],
+    "marketRead": [
+      "主网BSV 24小时涨幅14.8%，但Solana链上BSV/USDC交易对价格下跌0.12%，流动性仅153万美元，交易量小，可能存在操纵或套利。",
+      "DEX交易对与主网价格存在差异（15.29 vs 12.52），需注意合约风险。",
+      "整体成交量低，市场关注度不高。"
+    ],
+    "risks": [
+      "交易所下架风险：Binance、Coinbase等已下架，流动性差。",
+      "历史51%攻击，网络安全存疑。",
+      "创始人Craig Wright争议，社区信任度低。",
+      "DEX交易对流动性低，滑点大，合约风险。",
+      "无新叙事或采用进展，价格缺乏支撑。"
+    ],
+    "watchlist": [
+      "是否有新交易所上线或恢复交易。",
+      "BSV网络升级或重大合作。",
+      "链上活跃地址和交易量变化。",
+      "DEX交易对流动性变化。"
+    ],
+    "sourceNotes": [
+      "数据来源：CoinGecko profile, DexScreener market, Google News。",
+      "DEX交易对为Solana链上BSV/USDC，非主网BSV，价格差异需注意。",
+      "新闻多为价格预测，缺乏实质性内容。"
+    ]
+  },
+  "profile": {
+    "id": "bitcoin-cash-sv",
+    "symbol": "BSV",
+    "name": "Bitcoin SV",
+    "categories": [
+      "Smart Contract Platform",
+      "Bitcoin Fork",
+      "Proof of Work (PoW)"
+    ],
+    "homepage": [
+      "https://bitcoinsv.com/"
+    ],
+    "description": "Bitcoin SV (BSV) emerged following a hard fork of the Bitcoin Cash (BCH) blockchain in 2018, which had in turn forked from the BTC blockchain a year earlier. The goal of Bitcoin SV is to fulfil the original vision of the Bitcoin protocol and design as described in Satoshi Nakamoto’s white paper, early Bitcoin client software and known Satoshi writings. BSV aims to offer scalability and stability in line with the original description of Bitcoin as a peer-to-peer electronic cash system, as well as deliver a distributed data network that can support enterprise-level advanced blockchain applications. To this end, it has removed artificial block size limits and re-enabled Script commands and other technical capabilities which had been historically disabled or restricted by the protocol developers of the BTC blockchain. This allows the network to process tens of thousands of transactions per second while maintaining extremely low transaction fees for micropayments, in addition to offering advanced capabilities such as tokens, smart contracts, computation and other data use cases. The BSV network is unique in its capacity for unbounded on-chain scaling while also being more aligned with t",
+    "marketCapRank": 143,
+    "currentPriceUsd": 12.52,
+    "marketCapUsd": 251088058,
+    "fullyDilutedValuationUsd": 251088606,
+    "totalVolumeUsd": 13085682,
+    "priceChange24hPct": 14.8169,
+    "priceChange7dPct": 6.781,
+    "priceChange14dPct": 7.20038,
+    "priceChange30dPct": -9.8535,
+    "athUsd": 489.75,
+    "athChangePct": -97.45604,
+    "circulatingSupply": 20047934.375,
+    "totalSupply": 20047978.125,
+    "maxSupply": 21000000,
+    "sentimentVotesUpPct": 50,
+    "watchlistUsers": 29530,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "BSV/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "7BNBoZ9RpAQiPkbNu88iF8TPCXoQnYZAQfah4XiPmEPK",
+    "pairUrl": "https://dexscreener.com/solana/7bnboz9rpaqipkbnu88if8tpcxoqnyzaqfah4xipmepk",
+    "lastPrice": 15.29,
+    "priceChange24hPct": -0.12,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 71847.4,
+    "liquidityUsd": 1530818.5,
+    "fullyDilutedValuationUsd": 3058504,
+    "marketCapUsd": 3058504,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/7bnboz9rpaqipkbnu88if8tpcxoqnyzaqfah4xipmepk",
+    "pairAddress": "7BNBoZ9RpAQiPkbNu88iF8TPCXoQnYZAQfah4XiPmEPK",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "BSVnVRkcN3Y9q6hF3F7EDQkncH8F1zEJraYmHpXPvXiU",
+      "name": "BSV",
+      "symbol": "BSV"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "15.2925",
+    "priceUsd": "15.29",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 7,
+        "sells": 7
+      }
+    },
+    "volume": {
+      "h24": 71847.4,
+      "h6": 20756.96,
+      "h1": 10067.49,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.12
+    },
+    "liquidity": {
+      "usd": 1530818.5,
+      "base": 100101,
+      "quote": 19.05038
+    },
+    "fdv": 3058504,
+    "marketCap": 3058504,
+    "pairCreatedAt": 1773480318000
+  },
+  "news": [
+    {
+      "title": "Bitcoin SV (BSV) Price Prediction 2026, 2027-2030: Will BSV Price Hit $100? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrak02UC1DVElUazVGdndtTmxsLUdLSGpBRWRIVERqT0szUzktSF9vbzVuMnZoT0pJdnZNNmMxSzJsWnF4UjR5THU2VllJWG1zYXJWNG4tNDNJbFJtYlZsSFQ2enhYQmlqcjRtYXUyMV9yTnRweFo0ZUVR?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "snippet": "Bitcoin SV (BSV) Price Prediction 2026, 2027-2030: Will BSV Price Hit $100?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Bitcoin SV (BSV) Price Prediction 2026-2030: Can It Reach $100? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejM0dldVSU1Xb3A0U29KeFhzaWk1S0lET2dUMDdGc210V3ZpejBxb2tQNE5GY2N5TGpnWV82ZHFidTlUbG44YkxxUWVoOWRhQW9IZURMVGRicXo5NUo2VDZWZHFCb3djZmdSYkp2UGpRdS1ROXpodkN6Y3pHazZQc2dGOE5WYTNS?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 18 Jun 2026 14:15:47 GMT",
+      "snippet": "Bitcoin SV (BSV) Price Prediction 2026-2030: Can It Reach $100?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Bitcoin SV (BSV) Price Prediction 2026-2030: Can the Network Drive a Rally to $100? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRVI1Q1pXMVFwWENIX24wMEpmUGs3NDFITDlOYlZZbnhqTVliSGVoT0hlY2ZOSTdUQkgyQVFwOS1QOEdwdWVPdXMwbXQxQ1Q0eHBIei1pV0dvV2lydEVxMnhJRjVrVzVVWTdUX0RZODdYNmdaTGY5ZTZiME1aQmkyMXUwOU5tQ0ho?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "snippet": "Bitcoin SV (BSV) Price Prediction 2026-2030: Can the Network Drive a Rally to $100?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Revealing Bitcoin SV Price Prediction 2025-2030: Can BSV Achieve the $100 Milestone? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rUzRrNEhoemk3XzNDZU9YeG0wWXQzSS1jNFJlMTZsbjJKTlRibHYxc2NoQmxiTkVKSmlQTE92bFlVU0lSX0NCMUZrZmRfWXdnbjI5RDFhcmhkdjdjT0HSAWNBVV95cUxNR2lmS0g2bmg2eXBjTlQ0NjhZUU1BX1JkX21MNjlablp5NEp5Y1NQVk5Ic1FvMEhFQ3FKWFp1VzFMSXcyakktZFptcnlyblkweWNFYkxKNVZSZjNrZ2diaUJMVlE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "snippet": "Revealing Bitcoin SV Price Prediction 2025-2030: Can BSV Achieve the $100 Milestone?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bitcoin SV (BSV) Price Today: BSV Live Price, Charts, News - Crypto.com Singapore - Crypto.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RdG1BcklaMzUyOU5SRm0zYXQ4WlZoY3RXdGlSeVhicmNKbW5uRHZjWGp3U2dBUEtxOW9EbE9CZ1ZOdnRiV19xdDZVMi13YVU?oc=5",
+      "source": "Crypto.com",
+      "publishedAt": "Sat, 20 Dec 2025 06:02:57 GMT",
+      "snippet": "Bitcoin SV (BSV) Price Today: BSV Live Price, Charts, News - Crypto.com Singapore&nbsp;&nbsp;Crypto.com"
+    },
+    {
+      "title": "Huobi BSV price today, HBSV to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DY2xFclhaTzFfVDJ4VDk5OFNMSkk0eFFaRGMxZE12MmplQmdzMDRZNi1ieV9jMlUxQk5HRENSR0pVTWozWFJOWk1kbw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 19 Feb 2026 01:38:43 GMT",
+      "snippet": "Huobi BSV price today, HBSV to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Bitcoin SV (BSV) Price Prediction 2026-2030: The Critical Analysis for a Potential $100 Milestone - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFY5OUFXR2pJdTlzM2JTWlZoMFVWLUsxRnltQVd6LUZMUTVNTXdMMmZVZGxZTktDQmo2M2JDek9UczczX1JuUWYwNmFJLVhIU0lpX1lRQWFUMjVXTjdyRHFFak9IU2R1cXdLTlNjSEYxSmFqMnRZUjcteWpJQ0thTnNlWHEyQQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 31 Mar 2026 07:00:00 GMT",
+      "snippet": "Bitcoin SV (BSV) Price Prediction 2026-2030: The Critical Analysis for a Potential $100 Milestone&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Bitcoin SV (BSV) Price Outlook 2026–2030: Can The Network Drive The Token Past $100? - Bitcoin World",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83WlZkU1c1bjE1ZlN3Y3B1c0N1N0NNUUVPY3dwbnYwM2NldU93eEcxb3NObEYzSzZDTWtFNV95VTR0Z01sOFV2bHVpNWJ0LXlBMVNCVmwyOHNuRFZvbTc5d1ZFMEljRGw0bE4zVGJkV1dCcFhvMzZDelhLUQ?oc=5",
+      "source": "Bitcoin World",
+      "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
+      "snippet": "Bitcoin SV (BSV) Price Outlook 2026–2030: Can The Network Drive The Token Past $100?&nbsp;&nbsp;Bitcoin World"
+    },
+    {
+      "title": "Bitcoin SV price today, BSV to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZTlVDVEpjRFA5ZUxaTXdlUlZUWHhad1NFRTl2MWJjN3R5eVJrMlhlOFF1M2hmVXM5WXJWTkNxd2JGNTlkXzEzVFI1RUg4WmhBQmJqUjVTdmdldmtq?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 26 Nov 2018 13:22:28 GMT",
+      "snippet": "Bitcoin SV price today, BSV to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "What Is Bitcoin SV? History of Bitcoin’s Most Controversial Fork - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02N0w5cGdUcGlUa2twM0xxbkRjYUtnUzhzdzc2R0dsc0VxanNONjRtOERYMWZ0dldqd0Jydi0yVGdMcnN4TEtrSzdOZm5OVjBUdHNQXy01QkpYd3ZtRGc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 28 Sep 2024 07:00:00 GMT",
+      "snippet": "What Is Bitcoin SV? History of Bitcoin’s Most Controversial Fork&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "First Mover: BSV Doubles in 2020 as Bitcoin Offshoot Wins Devotees - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQblpONFpyTjl6c2ZVV3FUNWhMY3ZZQmkwWlAtanZTU1E1MkRzU1I1Q0FHdFJ2VDFQeDczZjFEckNPTV9kazFLRmdBdkxnQlZ3MDZmemVVc1lZVm9zaU1ycS1qTERVNGVyaUVCcHo2Njdld2h2aFFkbUY0UlBEbDZoaFRkLVp3YU1tZmJhRUlHZ0I2M2h4MUl4MGxpS3YzNG5uUWZ1WWdXcXV3d2hHREE?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 02 Jun 2020 07:00:00 GMT",
+      "snippet": "First Mover: BSV Doubles in 2020 as Bitcoin Offshoot Wins Devotees&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "BSV Suffers 51% Attack: Report - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HT3BJQzNiUmFLS3hzZjJNLVZac0xhR0trbV9MUmhad0F0RHlCNFZXWGZ5RkZidVEzYUZuNlRTOGU2dkE4Q1JsNTRXSGt5cnBZUUpDTFpIWjdHemRpcE9sQzdLZVdubmVHdkpWQ3h2ZmVUZDFHQl82Umk1eFU?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 03 Aug 2021 07:00:00 GMT",
+      "snippet": "BSV Suffers 51% Attack: Report&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Bitcoin SV Price - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03SENFQ1A1Y1M3aWppTXpjX3FSb0NmcVV0blNGMnRCOTl4VjNkam1VZ0dHcVlpdW05dHliX1poNXRDU18zMGd4VUZuUQ?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Tue, 24 Sep 2019 08:55:08 GMT",
+      "snippet": "Bitcoin SV Price&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "Coinbase Ending Support for Bitcoin SV - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNXZsV0MxZWg2LXE4NE1aUEFlZDBzenhYTElkR0tXVmdULVJYVC16aGllUkFuaG9pZmFVZldQMnc0aGMxdkdCb3ZmX1hLZlN5Z0JLb1czcEIzTXhsY1J0bUppbEl5OC1xSGhiRUxCaTVWRE9oQWhkOE5mU3poRjZqNEZDMF9kSEE2T0E?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 06 Nov 2023 08:00:00 GMT",
+      "snippet": "Coinbase Ending Support for Bitcoin SV&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Binance Delists Bitcoin SV, CEO Calls Craig Wright a 'Fraud' - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWVFTlpwZnZnT1UyOUdJb083TmVlMVlOdkdHVU8tWlpCMUR6bEFPaW9ZLWVkRGNrNmd3UWgwOExjUXF2LXMtNnNqNFBFcHctSGNTNktSTmQ2VjdzbFVaX2Z3U21hV0FjVUpsVlFubnNOR3RvMy1rYm5QaTFycjg1TlBHMzBidklpTXpsY0VqeGU1ZmhIYWp1SHZOQWlMcTN0R19V?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 15 Apr 2019 07:00:00 GMT",
+      "snippet": "Binance Delists Bitcoin SV, CEO Calls Craig Wright a 'Fraud'&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Bitcoin SV price today, BSV to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40VFhfMHJtSFhPbEZUVURVZnFiakZlb1RrU2pzSF9uempqYW5Xakt3a2NsRWhxakFFRmtGMG50QW1Xei0zOVB4b19fMndBZ3BMc0Ew?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 13 Feb 2019 11:32:04 GMT",
+      "snippet": "Bitcoin SV price today, BSV to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
