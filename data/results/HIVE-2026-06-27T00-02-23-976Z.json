@@ -1,0 +1,312 @@
+{
+  "token": "HIVE",
+  "requestedInput": "HIVE",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T00:02:23.976Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "HIVE",
+    "name": "Hive",
+    "generatedAt": "2026-06-27T00:02:11.240Z",
+    "summary": "HIVE近期因AI业务转型（AI超级工厂、加拿大主权AI合同）和Q3营收暴增219%而上涨，但链上HIVE代币（Solana上的BUZZ）与美股HIVE Digital股票并非同一资产，存在混淆风险。当前链上代币流动性极低（仅3.99美元），价格0.61美元，市值3.05亿美元，但实际交易量几乎为零，属于高度投机性资产。建议强烈回避。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "链上流动性恢复至正常水平（如日交易量>100万美元）且与美股HIVE Digital的关联性明确后，可重新评估。"
+    },
+    "catalysts": [
+      "HIVE Digital（美股）宣布2.55亿美元AI超级工厂计划",
+      "HIVE Digital获得加拿大主权AI合同（与Bell Canada合作）",
+      "HIVE Digital Q3营收同比增长219%",
+      "比特币矿企转型AI概念热度"
+    ],
+    "latestNews": [
+      {
+        "title": "HIVE Digital Reports 219% Revenue Surge in Q3 Results",
+        "impact": "利好",
+        "reason": "营收大增显示AI转型初步成效，但主要影响美股HIVE Digital，链上代币关联度低。"
+      },
+      {
+        "title": "Hive gains 10% after securing Canada sovereign AI contract with Bell Canada",
+        "impact": "利好",
+        "reason": "主权AI合同提升市场信心，但同样针对美股公司。"
+      },
+      {
+        "title": "HIVE Digital stock surges 35% after unveiling $2.55B AI gigafactory in Toronto",
+        "impact": "利好",
+        "reason": "巨额投资计划刺激股价，但链上代币无实质关联。"
+      },
+      {
+        "title": "Bitcoin miner Hive opens door to $300 million stock sales after record quarter",
+        "impact": "利空",
+        "reason": "增发股票可能稀释价值，但针对美股。"
+      }
+    ],
+    "fundamentals": [
+      "链上HIVE代币（Solana上的BUZZ）是Solana AI黑客马拉松获奖项目，与美股HIVE Digital（比特币矿企转型AI）名称相似但完全无关。",
+      "链上代币总供应量11.18亿，流通5.5亿，流通率49.2%。",
+      "链上代币市值3.05亿美元，但流动性仅304美元（实际交易量3.99美元），存在极高操纵风险。",
+      "美股HIVE Digital市值约2.75亿美元（数据来源profile），但链上代币市值已超过美股公司，不合理。"
+    ],
+    "marketRead": [
+      "链上交易对HIVE/USDC在Raydium上，24小时交易量仅3.99美元，流动性池规模3.04亿美元（疑似虚假深度）。",
+      "价格24小时变化未知，但30日跌幅16.45%，ATH跌幅98.53%，长期趋势极弱。",
+      "无有效K线数据，无法进行技术分析。"
+    ],
+    "risks": [
+      "资产混淆风险：链上HIVE代币与美股HIVE Digital股票名称相同但无关，新闻利好实际指向美股。",
+      "流动性枯竭风险：日交易量仅3.99美元，无法正常买卖。",
+      "合约风险：未开源或未审计，可能存在后门。",
+      "估值泡沫：市值3.05亿美元但几乎无交易，价格容易被操纵。",
+      "供应风险：总供应量11亿，流通仅5.5亿，未来解锁可能带来抛压。"
+    ],
+    "watchlist": [
+      "链上交易量是否恢复至正常水平（>10万美元/日）",
+      "项目方是否公布与美股HIVE Digital的关联或合作",
+      "合约是否开源并通过审计",
+      "Solana链上整体流动性变化"
+    ],
+    "sourceNotes": [
+      "链上数据来自DexScreener，流动性数据可能包含虚假深度。",
+      "新闻内容主要涉及美股HIVE Digital，与链上代币关联性存疑。",
+      "profile中的市值2.75千万美元与market中的3.05亿美元矛盾，可能为不同资产。"
+    ]
+  },
+  "profile": {
+    "id": "hive",
+    "symbol": "HIVE",
+    "name": "Hive",
+    "categories": [
+      "Smart Contract Platform",
+      "SocialFi",
+      "Layer 1 (L1)",
+      "Gaming Blockchains"
+    ],
+    "homepage": [
+      "https://hive.io/"
+    ],
+    "description": "",
+    "marketCapRank": 660,
+    "currentPriceUsd": 0.05001,
+    "marketCapUsd": 27528230,
+    "fullyDilutedValuationUsd": 55965380,
+    "totalVolumeUsd": 2749809,
+    "priceChange24hPct": 2.24143,
+    "priceChange7dPct": 4.06423,
+    "priceChange14dPct": -1.42363,
+    "priceChange30dPct": -16.44721,
+    "athUsd": 3.41,
+    "athChangePct": -98.5336,
+    "circulatingSupply": 550140465,
+    "totalSupply": 1118445313,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 20,
+    "watchlistUsers": 19597,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "HIVE/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "DWWchc3HahP2ivfCqJcJN5sm41VGmvqpayuQkr7jYeL4",
+    "pairUrl": "https://dexscreener.com/solana/dwwchc3hahp2ivfcqjcjn5sm41vgmvqpayuqkr7jyel4",
+    "lastPrice": 0.6099,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 304190361.76,
+    "fullyDilutedValuationUsd": 305433054,
+    "marketCapUsd": 305433054,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/dwwchc3hahp2ivfcqjcjn5sm41vgmvqpayuqkr7jyel4",
+    "pairAddress": "DWWchc3HahP2ivfCqJcJN5sm41VGmvqpayuQkr7jYeL4",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "2igbAr8XLwhnHh1h9zRzZCCqhUetqoeEzEK5dFtWsJXt",
+      "name": "Hive",
+      "symbol": "HIVE"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.6099",
+    "priceUsd": "0.6099",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 304190361.76,
+      "base": 498711837,
+      "quote": 26.8013
+    },
+    "fdv": 305433054,
+    "marketCap": 305433054,
+    "pairCreatedAt": 1736107068000
+  },
+  "news": [
+    {
+      "title": "Bitcoin Price Hits May Low; Circle Wins Upgrade As HIVE Soars - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGwwb3RReHlvT3JEY2RXeG1FUncyUnF5VlBCRXltN1M3dmROYkROSFJtS0U0NWRMOU5tdzB0YTVpaktNTzRSY3FUS0R5SzUwOXNSQmFoMDA2Vjh5UkxIb3JZM1lxOEpaSU13YVZLTFp3alBhd1dodklXV0h6WkRsTlE1NVdFUQ?oc=5",
+      "source": "Investor's Business Daily",
+      "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
+      "snippet": "Bitcoin Price Hits May Low; Circle Wins Upgrade As HIVE Soars&nbsp;&nbsp;Investor's Business Daily"
+    },
+    {
+      "title": "HIVE Digital Reports 219% Revenue Surge in Q3 Results - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQXzBMbjRIOUduR2hWNDBmT3V3VDBaT0VFeHo2c29XSktnc1RmSVk5SFJPZmtBLVk2emthVFQ1N2xVWW5QVjhmMHdqbkpUSHpIUFp3Ml9VN2FaRmVCS1Q0QWZmalQ0cml3NXlzdHh3RkZOX1lCWm1TX202NlFURFpvVWxJMmpldlpWY0RzZ29TcTVLSEEydC02WWJZVXNGMnlkZTlB?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sat, 20 Jun 2026 19:49:57 GMT",
+      "snippet": "HIVE Digital Reports 219% Revenue Surge in Q3 Results&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "HIVE stock soars on AI announcement but gains may be short-lived - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGtHZk4wd0hmSFJzWVN6RkRJSk54OVltLU1oNl95MXRrQ1pjQjRyVlRJQy16NEVkbEgxNkRJYVQwaklYUU5TbU5QV3NvSFUwcVAwRmRCNmQwT2I2SEs3azI2RVF1NzRvWlRSTXYxcXhSazNDcUxjWDFjenBYWkp4cF93Ynhrb05vMVh5bkdsSEZ3OHlSQzdBTHpCbjYxUVVpNjV1Zg?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
+      "snippet": "HIVE stock soars on AI announcement but gains may be short-lived&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Hive AI Price Today in India | BUZZ to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zSFN6Z3A3cy1TNWYzWEpKMzItSXFEaWtfUnhfd3l3bjMwcnF2QlFLTU1JaVhYakhZN2diZWhfdEk0RjdaSlBKS0xYZk02eXNZVTB6SVRn?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 21 Jun 2026 13:11:00 GMT",
+      "snippet": "Hive AI Price Today in India | BUZZ to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Bitcoin miner Hive opens door to $300 million stock sales after record quarter - The Block",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjlzdkZGWlpEa1lUVnRXaUZ5OUVfYWsyTnVoMjk4Qy1DalkyT2JUcGg0b3E2dEhBQjhiTFBBbFNzS25tLTFKdXVKWVBmTmJaNGZLblIyWWdKSm9HMTVxQTVIdWRQRVNTLWNRVUVTVzNLTnlBMU1KQzV6TEd1QXZ1WExrSDJPWERORVVta0x4ck5KamNNZXZ1TWlkdmNuMWVS?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 26 Nov 2025 08:00:00 GMT",
+      "snippet": "Bitcoin miner Hive opens door to $300 million stock sales after record quarter&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "HIVE Digital Technologies Reaches 2% of Global Bitcoin Network, Mining 9 BTC Daily and Surpassing 20 EH/s - Investing News Network",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzMzdEkwSWlpOGxGeXZEUklzZmpBWDVyRnJVaXlOX05Za21iZVdqLXFtMjZqekUtT2VZVnhqc0xDV2phUGMxaVIzVzZsZDl2VWNLb2toOXdUaU9aSzRub0V3bjc3ckJuTUFIX3pRLXlLOERkQldiODBSbEVOYmtjbkNxSi1KZW90YWVuRWtGZ1plVkt2SlBPUjNRZllKZEdZMm00bW9paWlHRFBFd2J1UGE3VHY0WkZ2RlJVUGtvWHdDeFJCNExjcERB?oc=5",
+      "source": "Investing News Network",
+      "publishedAt": "Tue, 23 Sep 2025 07:00:00 GMT",
+      "snippet": "HIVE Digital Technologies Reaches 2% of Global Bitcoin Network, Mining 9 BTC Daily and Surpassing 20 EH/s&nbsp;&nbsp;Investing News Network"
+    },
+    {
+      "title": "HIVE Digital stock surges 35% after unveiling $2.55B AI gigafactory in Toronto - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFgwajc3Wnl2cFBoUkE2M1FRNWVTTU9Gc1lZRDZEeHZjUkZNZ25VQzc4THVCRUFaTm5mdHEySTFGaTdlRDNRbjM2d3k5SXhWQnhOdnpRbjRrNTJpaUNqdmY1blBvdEZYQ2xhSkprSGYwWThXUGdNUmo4UVp1VXkwcjJlS0JHT3VzOUd1MDFhZw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 18 May 2026 15:39:46 GMT",
+      "snippet": "HIVE Digital stock surges 35% after unveiling $2.55B AI gigafactory in Toronto&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Stocks of bitcoin mining companies shifting toward AI computing power surge, HIVE and KEEL rise over 10% - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02TVI3TkUyRkd3T0FsWmg0WFM3dkp1YzhRUm03SjRCMVNlcGZPN2ZTTHB4QkRwN28ydWtIRHhoM1NHN3FOeWxXTXBMLWpsOTROUUV3dV93WFVCQXM4MmfSAWNBVV95cUxQV0xHV0pGWjZqRXM1SEhwaHFIS3dicm15dnc5d0RwLVdLcEM5cGVXc2RpRjFhN3E0REhXbEhBOGxTel9BcmstbWt1YWxDTzZ4Um5SM054UkZ0MmN0bWN0RXJxNU0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "snippet": "Stocks of bitcoin mining companies shifting toward AI computing power surge, HIVE and KEEL rise over 10%&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Solana AI Hackathon Winners Announced, The Hive (BUZZ) Named Best Project - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95b1dOYWpxQlpDVEtKdThzSGZzQzNyRng4RGM3SnBMYkJEVWpUWkx4TURwVV83enllWVhYU2s4TTF5M0dwOGx6UVkwbVJvSldQZXRaLUZnbjlWbDhSb2c?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 16 Jan 2025 08:00:00 GMT",
+      "snippet": "Solana AI Hackathon Winners Announced, The Hive (BUZZ) Named Best Project&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bitcoin News Update: Hive Invests $300M in ATM to Boost AI Efforts While Stock Drops Amid Doubts - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oTjltekNoS3ZCNXFCTURNUDA5dzFHTkZNaE5qOE14UzNqdjdhNjI3MjZHM3dnZU81bEFRV21ud3NZM09FTlFOTk5ZREoyWXBWcHBrdmVFZVJpNDRXdHfSAWNBVV95cUxQZ1A1TXNJZTNWZW4tYk9TdlVXc1RsVFpHTG5yNmV5RHJHSV8wcnd3Nl9OWlViNk05LU81ZWhJSXNUNzVGc3JsUDZyR0ZtRXZnTGZGYnpzNHJuZ3ZkSTlKMkFLUGc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 26 Nov 2025 08:00:00 GMT",
+      "snippet": "Bitcoin News Update: Hive Invests $300M in ATM to Boost AI Efforts While Stock Drops Amid Doubts&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "HIVE Digital plans to issue $75 million in exchangeable notes and has been approved to upgrade to the Toronto Main Board Exchange - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sLS1WbUI4c1lFbVI2NE5TTEc5aVN1WThQbV9haDZ6Qmo1bWlQN21BV2tJSzcyVFg2TEl6TkZNclVEdVV5X0ZXWmNacG9hak0xQjBzWlR3NUphSkkzMkHSAWNBVV95cUxPN2dnUndVeDR4M1FWejdsXzd0Wk0tX2xUN1E4VWJpVld2X29xWjdCb0IyemRfWlh1bFhhSTVTb0o2N2hpbFZXOFZPcUF4SE1KeHRlUzhkTDJ3VUxpR0tBMl80b1E?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "HIVE Digital plans to issue $75 million in exchangeable notes and has been approved to upgrade to the Toronto Main Board Exchange&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Hive and Keel shift $115 million from BTC mining to AI - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93a3lfd0NFUWFpRGJLTnVzZ1dPSjZlQ25oVXB1dXo2S2VVU2JCbUFmMjItclJZNnNCR3cwZmZDQTktZTVyTFdTRHVtV200c2l5cExRdnc0NHRwb3RTWXfSAWNBVV95cUxNRXJ0MWlNTF9rOFBGbzZjRXFCT1dJSXljWElKNWdSRmMxNFg2X2R2X0pHVi1hWVF1d2l2bC1HWGlGMmFZQUZDY0dzdkQ5eG12bG9xSUdXd1hpZG9COGk0b3NOeGM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "snippet": "Hive and Keel shift $115 million from BTC mining to AI&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Adds HIVE on Simple Earn Locked Products - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPei14NjlVLXByeXFhZnlMM0g1SEdYS0UyS3RPQThZRmMzcFQ1VXdBZ0E1Mi1mN0lSSEZVZHlQX20tbGdvbV9hYWJmWHYzMHhYMHRvVlh6alUwMUxSaTFmS1U0dWQ2d3o0d2JMUjJ5cENmWGJ4Tm56d09Ja3lDdGVaME5Bejk2RF9DS1RLQ05CYm0?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 22 Apr 2024 07:00:00 GMT",
+      "snippet": "Binance Adds HIVE on Simple Earn Locked Products&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Will Support the Hive (HIVE) Network Upgrade & Hard Fork - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2hpaUpJVDB5dTdRa0RDM1d1bmE2YnZNZ2ZaN2p0R3Z6TkNMWEpURklsc2tfYmJhSFY5enJ1RGxLOEF6MHlpSmg1SDBkazBlOHJjMjUzWHg1NVk2WVVKaTJBSjF2dk9mem9rQWZ4VEJHTnhFX0FrWUlEeGlwYU16elhyenBIVm9zSjJidFJKeUo?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 10 Oct 2022 07:00:00 GMT",
+      "snippet": "Binance Will Support the Hive (HIVE) Network Upgrade & Hard Fork&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "HIVE reports 158% jump in annual revenue to $298 million as bitcoin holdings fall to 150 BTC - The Block",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORWVseEdjXy1nSEIwU2ctMEZyQUhXWjN4NWxQQXFTbm1KSFlwbExzWS1lTkFfWm9vVmdOdkZuTTZSLVgwTC1pZG5QNlR0Y2s3YTFBUUhpZmZqcVB3ekRDMWZEZmdUMjV5WVpjSVc3dE9mT2pZaHBIV0U5M1NHRjJHOW5TTjFZMUd1cFppSlRGOFMyRFhtakRvT1pSTFJHcFhfVmN6U2tVTldPVmdvTzI2TEpoNHRjd3BsY3hqemxlRGpjZlpP?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "snippet": "HIVE reports 158% jump in annual revenue to $298 million as bitcoin holdings fall to 150 BTC&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Hive gains 10% after securing Canada sovereign AI contract with Bell Canada - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFlrUkNTT2J0X0l0VVEwYjF1eXhiLWp0NHp4RjVQOTduYlI3dW1jNVlEX1Z4WHVaZmtVbUtMU1hHS2Y2WnQtWjVxbERLdXNrSXloRk1ubVlGOGYyVzFUdFQzQml0SkhIWFBiNDUxZnBiT0pJemphbmItMUp6X1ZBaUw4eldBYzFvTVlPejQyclhIMzJZWnlyOExUMFNvNzZ3NVBQQzM4N2F6VUZyUXFKT2x2RENLUQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "snippet": "Hive gains 10% after securing Canada sovereign AI contract with Bell Canada&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
