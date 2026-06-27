@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-06-27T21:54:42.149Z",
+  "updatedAt": "2026-06-27T22:02:24.916Z",
   "results": [
+    {
+      "token": "SLX",
+      "requestedInput": "SLX",
+      "name": "Solstice",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T22:02:13.008Z",
+      "latestPath": "data/results/SLX-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 25,
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T22:02:11.596Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "TSM",
+      "requestedInput": "TSM",
+      "name": "Tusima Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T22:02:11.327Z",
+      "latestPath": "data/results/TSM-latest.json"
+    },
+    {
+      "token": "GME",
+      "requestedInput": "GME",
+      "name": "GameStop",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T22:02:17.359Z",
+      "latestPath": "data/results/GME-latest.json"
+    },
+    {
+      "token": "CFG",
+      "requestedInput": "CFG",
+      "name": "Centrifuge",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T22:02:21.032Z",
+      "latestPath": "data/results/CFG-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T22:02:19.696Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "ETN",
+      "requestedInput": "ETN",
+      "name": "Electroneum",
+      "score": 15,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-27T21:54:31.874Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-27T22:02:24.914Z",
+      "latestPath": "data/results/ETN-latest.json"
     },
     {
       "token": "EWJ",
@@ -862,16 +922,6 @@
       "latestPath": "data/results/PIEVERSE-latest.json"
     },
     {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T18:47:20.222Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
       "token": "RPL",
       "requestedInput": "RPL",
       "name": "Rocket Pool Protocol",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T18:17:07.736Z",
       "latestPath": "data/results/VELVET-latest.json"
-    },
-    {
-      "token": "AGLD",
-      "requestedInput": "AGLD",
-      "name": "Adventure Gold",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T18:17:08.998Z",
-      "latestPath": "data/results/AGLD-latest.json"
-    },
-    {
-      "token": "CELO",
-      "requestedInput": "CELO",
-      "name": "Celo",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T18:17:12.695Z",
-      "latestPath": "data/results/CELO-latest.json"
-    },
-    {
-      "token": "W",
-      "requestedInput": "W",
-      "name": "Wormhole",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T18:17:12.183Z",
-      "latestPath": "data/results/W-latest.json"
-    },
-    {
-      "token": "MANTA",
-      "requestedInput": "MANTA",
-      "name": "Manta",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T18:17:20.114Z",
-      "latestPath": "data/results/MANTA-latest.json"
-    },
-    {
-      "token": "HIVE",
-      "requestedInput": "HIVE",
-      "name": "Hive",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T18:02:08.787Z",
-      "latestPath": "data/results/HIVE-latest.json"
     }
   ]
 }
