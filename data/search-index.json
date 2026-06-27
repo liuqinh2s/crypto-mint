@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-06-27T10:22:29.891Z",
+  "updatedAt": "2026-06-27T10:32:18.799Z",
   "results": [
     {
       "token": "HOT",
       "requestedInput": "HOLO",
       "name": "Holo",
-      "score": 20,
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T10:22:29.889Z",
+      "generatedAt": "2026-06-27T10:32:18.797Z",
       "latestPath": "data/results/HOT-latest.json"
+    },
+    {
+      "token": "GE",
+      "requestedInput": "GE",
+      "name": "未知（可能指GE Vernova代币化股票GEVON或GE Aerospace）",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T10:32:15.606Z",
+      "latestPath": "data/results/GE-latest.json"
+    },
+    {
+      "token": "EIGEN",
+      "requestedInput": "EIGEN",
+      "name": "EigenCloud (prev. EigenLayer)",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T10:32:17.913Z",
+      "latestPath": "data/results/EIGEN-latest.json"
     },
     {
       "token": "BSV",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T07:31:57.238Z",
       "latestPath": "data/results/USELESS-latest.json"
-    },
-    {
-      "token": "OP",
-      "requestedInput": "OP",
-      "name": "Optimism",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T07:31:57.955Z",
-      "latestPath": "data/results/OP-latest.json"
-    },
-    {
-      "token": "MASK",
-      "requestedInput": "MASK",
-      "name": "MASK",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T07:32:04.479Z",
-      "latestPath": "data/results/MASK-latest.json"
     }
   ]
 }
