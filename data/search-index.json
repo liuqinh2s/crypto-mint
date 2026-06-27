@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-06-27T10:02:35.220Z",
+  "updatedAt": "2026-06-27T10:17:16.925Z",
   "results": [
+    {
+      "token": "TRADOOR",
+      "requestedInput": "TRADOOR",
+      "name": "Tradoor",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T10:17:14.721Z",
+      "latestPath": "data/results/TRADOOR-latest.json"
+    },
     {
       "token": "HOT",
       "requestedInput": "HOLO",
       "name": "Holo",
-      "score": 25,
+      "score": 20,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-27T10:02:24.814Z",
+      "generatedAt": "2026-06-27T10:17:12.813Z",
       "latestPath": "data/results/HOT-latest.json"
+    },
+    {
+      "token": "PANW",
+      "requestedInput": "PANW",
+      "name": "Palo Alto Networks Inc (Derivatives)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T10:17:10.423Z",
+      "latestPath": "data/results/PANW-latest.json"
+    },
+    {
+      "token": "ETC",
+      "requestedInput": "ETC",
+      "name": "Ethereum Classic",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T10:17:11.400Z",
+      "latestPath": "data/results/ETC-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T10:17:16.923Z",
+      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "RAY",
@@ -60,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T10:02:33.045Z",
       "latestPath": "data/results/ALICE-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T10:02:31.844Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "UAI",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T07:32:05.397Z",
       "latestPath": "data/results/EIGEN-latest.json"
-    },
-    {
-      "token": "BSV",
-      "requestedInput": "BSV",
-      "name": "Bitcoin SV",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T07:32:13.911Z",
-      "latestPath": "data/results/BSV-latest.json"
-    },
-    {
-      "token": "MAGMA",
-      "requestedInput": "MAGMA",
-      "name": "Magma Finance",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T07:32:12.551Z",
-      "latestPath": "data/results/MAGMA-latest.json"
-    },
-    {
-      "token": "MAGM",
-      "requestedInput": "MAGMA",
-      "name": "MAGMA",
-      "score": 2,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T07:17:17.114Z",
-      "latestPath": "data/results/MAGM-latest.json"
     }
   ]
 }
