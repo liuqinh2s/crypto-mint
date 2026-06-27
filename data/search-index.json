@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-06-27T15:02:30.860Z",
+  "updatedAt": "2026-06-27T15:17:22.900Z",
   "results": [
+    {
+      "token": "TRADOOR",
+      "requestedInput": "TRADOOR",
+      "name": "Tradoor",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T15:16:55.630Z",
+      "latestPath": "data/results/TRADOOR-latest.json"
+    },
+    {
+      "token": "RTXSTOCK",
+      "requestedInput": "RTXSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T15:16:47.044Z",
+      "latestPath": "data/results/RTXSTOCK-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "VelodromeV2",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T15:16:50.769Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "USELESS",
+      "requestedInput": "USELESS",
+      "name": "USELESS",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T15:16:56.469Z",
+      "latestPath": "data/results/USELESS-latest.json"
+    },
+    {
+      "token": "MASK",
+      "requestedInput": "MASK",
+      "name": "MASK",
+      "score": 2,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T15:17:01.376Z",
+      "latestPath": "data/results/MASK-latest.json"
+    },
+    {
+      "token": "AIN",
+      "requestedInput": "AIN",
+      "name": "AI Network",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T15:17:00.664Z",
+      "latestPath": "data/results/AIN-latest.json"
+    },
+    {
+      "token": "GE",
+      "requestedInput": "GE",
+      "name": "unknown",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T15:17:06.443Z",
+      "latestPath": "data/results/GE-latest.json"
+    },
+    {
+      "token": "PANW",
+      "requestedInput": "PANW",
+      "name": "Palo Alto Networks",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T15:17:02.992Z",
+      "latestPath": "data/results/PANW-latest.json"
+    },
+    {
+      "token": "EIGEN",
+      "requestedInput": "EIGEN",
+      "name": "EigenCloud (prev. EigenLayer)",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T15:17:11.329Z",
+      "latestPath": "data/results/EIGEN-latest.json"
+    },
+    {
+      "token": "ICNT",
+      "requestedInput": "ICNT",
+      "name": "Impossible Cloud Network Token",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T15:17:13.321Z",
+      "latestPath": "data/results/ICNT-latest.json"
+    },
+    {
+      "token": "LIT",
+      "requestedInput": "LIT",
+      "name": "Lighter",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T15:17:11.478Z",
+      "latestPath": "data/results/LIT-latest.json"
+    },
+    {
+      "token": "BSV",
+      "requestedInput": "BSV",
+      "name": "BSV",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T15:17:15.167Z",
+      "latestPath": "data/results/BSV-latest.json"
+    },
+    {
+      "token": "OPAI",
+      "requestedInput": "OPENAI",
+      "name": "OpenAI",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T15:17:19.414Z",
+      "latestPath": "data/results/OPAI-latest.json"
+    },
+    {
+      "token": "PROM",
+      "requestedInput": "PROM",
+      "name": "Prom",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T15:17:22.559Z",
+      "latestPath": "data/results/PROM-latest.json"
+    },
+    {
+      "token": "MAGMA",
+      "requestedInput": "MAGMA",
+      "name": "Magma Token",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T15:17:22.898Z",
+      "latestPath": "data/results/MAGMA-latest.json"
+    },
     {
       "token": "ESP",
       "requestedInput": "ESP",
@@ -20,16 +170,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T15:02:06.689Z",
       "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T15:02:06.595Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "RAY",
@@ -110,16 +250,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T15:02:22.872Z",
       "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
-      "token": "OPAI",
-      "requestedInput": "OPENAI",
-      "name": "OpenAI",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T15:02:27.280Z",
-      "latestPath": "data/results/OPAI-latest.json"
     },
     {
       "token": "UAI",
@@ -870,136 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T11:51:51.138Z",
       "latestPath": "data/results/USDC-latest.json"
-    },
-    {
-      "token": "MU",
-      "requestedInput": "MU",
-      "name": "Micron Technology (Backpack Securities)",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T11:51:50.953Z",
-      "latestPath": "data/results/MU-latest.json"
-    },
-    {
-      "token": "B2",
-      "requestedInput": "B2",
-      "name": "BSquared Network",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T11:47:05.616Z",
-      "latestPath": "data/results/B2-latest.json"
-    },
-    {
-      "token": "ARQQ",
-      "requestedInput": "ARQQ",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T11:47:01.486Z",
-      "latestPath": "data/results/ARQQ-latest.json"
-    },
-    {
-      "token": "AERO",
-      "requestedInput": "AERO",
-      "name": "Aerodrome Finance",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T11:47:06.999Z",
-      "latestPath": "data/results/AERO-latest.json"
-    },
-    {
-      "token": "SYRUP",
-      "requestedInput": "SYRUP",
-      "name": "Maple Finance",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T11:47:07.559Z",
-      "latestPath": "data/results/SYRUP-latest.json"
-    },
-    {
-      "token": "GRIFFAIN",
-      "requestedInput": "GRIFFAIN",
-      "name": "GRIFFAIN",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T11:32:02.152Z",
-      "latestPath": "data/results/GRIFFAIN-latest.json"
-    },
-    {
-      "token": "ARQQON",
-      "requestedInput": "ARQQ",
-      "name": "Arqit Quantum (Ondo Tokenized)",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T11:32:01.058Z",
-      "latestPath": "data/results/ARQQON-latest.json"
-    },
-    {
-      "token": "JUP",
-      "requestedInput": "JUP",
-      "name": "JUP",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T11:32:04.337Z",
-      "latestPath": "data/results/JUP-latest.json"
-    },
-    {
-      "token": "MMT",
-      "requestedInput": "MMT",
-      "name": "Momentum",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T11:32:03.803Z",
-      "latestPath": "data/results/MMT-latest.json"
-    },
-    {
-      "token": "AAVE",
-      "requestedInput": "AAVE",
-      "name": "Aave",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T11:17:10.933Z",
-      "latestPath": "data/results/AAVE-latest.json"
-    },
-    {
-      "token": "NATGAS",
-      "requestedInput": "NATGAS",
-      "name": "Natural Gas (Derivatives)",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T11:17:08.216Z",
-      "latestPath": "data/results/NATGAS-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T11:17:05.431Z",
-      "latestPath": "data/results/MEMES-latest.json"
-    },
-    {
-      "token": "BLESS",
-      "requestedInput": "BLESS",
-      "name": "Bless",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T11:17:08.850Z",
-      "latestPath": "data/results/BLESS-latest.json"
     }
   ]
 }
