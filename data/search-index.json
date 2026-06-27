@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T10:32:18.799Z",
+  "updatedAt": "2026-06-27T10:47:09.406Z",
   "results": [
     {
       "token": "HOT",
@@ -8,8 +8,28 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T10:32:18.797Z",
+      "generatedAt": "2026-06-27T10:47:09.404Z",
       "latestPath": "data/results/HOT-latest.json"
+    },
+    {
+      "token": "OP",
+      "requestedInput": "OP",
+      "name": "Optimism",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T10:47:08.957Z",
+      "latestPath": "data/results/OP-latest.json"
+    },
+    {
+      "token": "MASK",
+      "requestedInput": "MASK",
+      "name": "Mask Network",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T10:47:07.305Z",
+      "latestPath": "data/results/MASK-latest.json"
     },
     {
       "token": "GE",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T07:47:31.152Z",
       "latestPath": "data/results/BLESS-latest.json"
-    },
-    {
-      "token": "RTXSTOCK",
-      "requestedInput": "RTXSTOCK",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T07:31:53.407Z",
-      "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "USELESS",
-      "requestedInput": "USELESS",
-      "name": "USELESS",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T07:31:57.238Z",
-      "latestPath": "data/results/USELESS-latest.json"
     }
   ]
 }
