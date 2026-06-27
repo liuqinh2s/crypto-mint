@@ -1,0 +1,140 @@
+{
+  "token": "ARQQON",
+  "requestedInput": "ARQQ",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T11:32:01.058Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ARQQON",
+    "name": "Arqit Quantum (Ondo Tokenized)",
+    "generatedAt": "2026-06-27T11:31:52.973Z",
+    "summary": "ARQQON是Ondo代币化的Arqit Quantum股票，市值极低（约1582美元），流动性差，24小时交易量仅48美元，价格波动大。近期无显著利好，新闻仅一条预测类内容。不推荐买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Arqit Quantum Tokenized Stock (Ondo) (ARQQon) price Prediction - Bitget",
+        "impact": "中性",
+        "reason": "仅为预测文章，无实质利好或利空信息。"
+      }
+    ],
+    "fundamentals": [
+      "Ondo代币化股票，代表Arqit Quantum Inc的经济权益，包括股息再投资。",
+      "面向非美国用户，可在Ondo平台24/5铸造和赎回。",
+      "总供应量约65.1枚，市值仅1582美元，流动性极低。",
+      "历史最高价29.3美元，当前24.3美元，较ATH下跌17%。"
+    ],
+    "marketRead": [
+      "24小时价格下跌6.1%，7日下跌0.33%。",
+      "24小时交易量仅48.82美元，流动性极差，买卖价差可能巨大。",
+      "无交易所公开订单簿数据，实际交易困难。"
+    ],
+    "risks": [
+      "流动性风险：交易量极低，难以成交，滑点极高。",
+      "市场风险：代币化股票价格与底层股票ARQQ关联，但ARQQ本身波动大。",
+      "平台风险：Ondo平台限制非美国用户，合规风险。",
+      "数据不足：无链上交易数据，价格可能不反映真实市场。"
+    ],
+    "watchlist": [
+      "关注ARQQ股票价格及公司新闻。",
+      "Ondo平台是否增加流动性或做市商。",
+      "代币化股票监管动态。"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko，但市值和交易量极低，可能不准确。",
+      "Binance API返回451错误，无法获取交易对数据。",
+      "新闻仅一条，信息量不足。"
+    ]
+  },
+  "profile": {
+    "id": "arqit-quantum-ondo-tokenized",
+    "symbol": "ARQQON",
+    "name": "Arqit Quantum (Ondo Tokenized)",
+    "categories": [
+      "Tokenized Assets",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Ondo Tokenized Assets"
+    ],
+    "homepage": [
+      "https://app.ondo.finance/"
+    ],
+    "description": "ARQQon is the Ondo Tokenized version of Arqit Quantum Inc, giving tokenholders economic exposure similar to holding ARQQ and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
+    "marketCapRank": 12498,
+    "currentPriceUsd": 24.3,
+    "marketCapUsd": 1582.18,
+    "fullyDilutedValuationUsd": 1582.18,
+    "totalVolumeUsd": 48.82,
+    "priceChange24hPct": -6.09991,
+    "priceChange7dPct": -0.33128,
+    "priceChange14dPct": 0,
+    "priceChange30dPct": 0,
+    "athUsd": 29.3,
+    "athChangePct": -17.0493,
+    "circulatingSupply": 65.0978820246149,
+    "totalSupply": 65.0978820246149,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 2,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "ARQQONUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ARQQONUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ARQQONFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ARQQONFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ARQQONUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ARQQONUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "ARQQONBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=ARQQONBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "Arqit Quantum Tokenized Stock (Ondo) (ARQQon) price Prediction - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEIteFpkTlZXbDN6V1dxeURLTVRWTTVIemNKZmJFcllWXy0xQXVqUmRjTllGU1ZTVzVLbU1GMHZoZWRndnp6RTNSWHdtVmo0WmtpX051eWhWbklHQzUzTk1NeVFqZVNNT3JBODdwUVpyM0l6cWM3NWowTUNwQ2xxamFnVFduLVU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 26 Jun 2026 13:40:42 GMT",
+      "snippet": "Arqit Quantum Tokenized Stock (Ondo) (ARQQon) price Prediction&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
