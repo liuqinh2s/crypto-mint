@@ -1,15 +1,85 @@
 {
-  "updatedAt": "2026-06-27T14:17:05.169Z",
+  "updatedAt": "2026-06-27T14:32:38.049Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 35,
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-27T14:16:53.798Z",
+      "generatedAt": "2026-06-27T14:32:26.311Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "UNH",
+      "requestedInput": "UNH",
+      "name": "UnitedHealth Group (Derivatives)",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:32:26.318Z",
+      "latestPath": "data/results/UNH-latest.json"
+    },
+    {
+      "token": "HYPER",
+      "requestedInput": "HYPER",
+      "name": "Hyper",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:32:26.516Z",
+      "latestPath": "data/results/HYPER-latest.json"
+    },
+    {
+      "token": "TUT",
+      "requestedInput": "TUT",
+      "name": "Tutorial",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T14:32:25.264Z",
+      "latestPath": "data/results/TUT-latest.json"
+    },
+    {
+      "token": "Q",
+      "requestedInput": "Q",
+      "name": "Quack AI",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:32:32.068Z",
+      "latestPath": "data/results/Q-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:32:33.568Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "AGLD",
+      "requestedInput": "AGLD",
+      "name": "Adventure Gold",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:32:35.415Z",
+      "latestPath": "data/results/AGLD-latest.json"
+    },
+    {
+      "token": "MANTA",
+      "requestedInput": "MANTA",
+      "name": "Manta",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:32:38.047Z",
+      "latestPath": "data/results/MANTA-latest.json"
     },
     {
       "token": "RPL",
@@ -30,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T14:16:56.188Z",
       "latestPath": "data/results/XPL-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T14:16:55.339Z",
-      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "RESOLV",
@@ -940,66 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T09:46:50.606Z",
       "latestPath": "data/results/IN-latest.json"
-    },
-    {
-      "token": "GRASS",
-      "requestedInput": "GRASS",
-      "name": "Grass",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T09:46:50.625Z",
-      "latestPath": "data/results/GRASS-latest.json"
-    },
-    {
-      "token": "SOON",
-      "requestedInput": "SOON",
-      "name": "SOON",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:46:58.526Z",
-      "latestPath": "data/results/SOON-latest.json"
-    },
-    {
-      "token": "STABLE",
-      "requestedInput": "STABLE",
-      "name": "STABLE",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:46:59.319Z",
-      "latestPath": "data/results/STABLE-latest.json"
-    },
-    {
-      "token": "MEW",
-      "requestedInput": "MEW",
-      "name": "Mew",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:46:59.777Z",
-      "latestPath": "data/results/MEW-latest.json"
-    },
-    {
-      "token": "TIA",
-      "requestedInput": "TIA",
-      "name": "Tiamonds [OLD]",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:32:16.970Z",
-      "latestPath": "data/results/TIA-latest.json"
-    },
-    {
-      "token": "JST",
-      "requestedInput": "JST",
-      "name": "JUST",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T09:32:18.474Z",
-      "latestPath": "data/results/JST-latest.json"
     }
   ]
 }
