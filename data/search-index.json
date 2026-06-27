@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-06-27T22:32:10.512Z",
+  "updatedAt": "2026-06-27T22:47:17.502Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T22:47:06.470Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "G",
+      "requestedInput": "G",
+      "name": "Gravity (原Galxe)",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T22:47:07.322Z",
+      "latestPath": "data/results/G-latest.json"
+    },
+    {
+      "token": "PIEVERSE",
+      "requestedInput": "PIEVERSE",
+      "name": "Pieverse",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T22:47:07.525Z",
+      "latestPath": "data/results/PIEVERSE-latest.json"
+    },
+    {
+      "token": "RPL",
+      "requestedInput": "RPL",
+      "name": "Rocket Pool",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T22:47:07.141Z",
+      "latestPath": "data/results/RPL-latest.json"
+    },
+    {
+      "token": "BICO",
+      "requestedInput": "BICO",
+      "name": "Biconomy",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T22:47:17.500Z",
+      "latestPath": "data/results/BICO-latest.json"
+    },
+    {
+      "token": "XPL",
+      "requestedInput": "XPL",
+      "name": "Pulse",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T22:47:16.810Z",
+      "latestPath": "data/results/XPL-latest.json"
+    },
     {
       "token": "TNSR",
       "requestedInput": "TNSR",
@@ -10,16 +70,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T22:32:01.543Z",
       "latestPath": "data/results/TNSR-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T22:32:01.852Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "SNOW",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T19:02:44.614Z",
       "latestPath": "data/results/BSV-latest.json"
-    },
-    {
-      "token": "MAGMA",
-      "requestedInput": "MAGMA",
-      "name": "Magma Token",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T19:02:48.325Z",
-      "latestPath": "data/results/MAGMA-latest.json"
-    },
-    {
-      "token": "HYPER",
-      "requestedInput": "HYPER",
-      "name": "Hyper",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T18:47:03.990Z",
-      "latestPath": "data/results/HYPER-latest.json"
-    },
-    {
-      "token": "TUT",
-      "requestedInput": "TUT",
-      "name": "Tutorial",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T18:47:01.821Z",
-      "latestPath": "data/results/TUT-latest.json"
-    },
-    {
-      "token": "ACX",
-      "requestedInput": "ACX",
-      "name": "Across Protocol",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T18:47:11.225Z",
-      "latestPath": "data/results/ACX-latest.json"
-    },
-    {
-      "token": "STBL",
-      "requestedInput": "STBL",
-      "name": "STBL",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T18:47:12.562Z",
-      "latestPath": "data/results/STBL-latest.json"
     }
   ]
 }
