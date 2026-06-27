@@ -1,0 +1,327 @@
+{
+  "token": "TRADOOR",
+  "requestedInput": "TRADOOR",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T04:32:12.734Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TRADOOR",
+    "name": "Tradoor",
+    "generatedAt": "2026-06-27T04:32:02.061Z",
+    "summary": "TRADOOR近期因鲸鱼活动、DEX交易量激增及Robinhood上线传闻出现剧烈波动，但价格已从ATH下跌超95%，当前链上流动性极低（仅约4美元），存在高度操纵风险。基本面为DeFi衍生品协议，但代币供应量极大（最大供应80亿），且近期无实质性利好。建议强烈回避。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无，当前不具备投资价值"
+    },
+    "catalysts": [
+      "鲸鱼活动导致短期价格波动",
+      "Robinhood上线传闻（未证实）",
+      "Binance期货合约上线（2025年9月，已过时）"
+    ],
+    "latestNews": [
+      {
+        "title": "AI News: Tradoor Sinks, TAO Stabilizes, USD.AI Surges - CoinMarketCap",
+        "impact": "利空",
+        "reason": "报道Tradoor价格下跌，市场情绪负面"
+      },
+      {
+        "title": "TRADOOR’s 900% surge ends in a 90% crash – What’s going on? - AMBCrypto",
+        "impact": "利空",
+        "reason": "揭示价格剧烈波动后暴跌，风险极高"
+      },
+      {
+        "title": "TRADOOR (TRADOOR) 24-hour amplitude at 1155.5%: Massive crash follows whale pump and surge in DEX volume - Bitget",
+        "impact": "利空",
+        "reason": "鲸鱼拉盘后暴跌，典型操纵行为"
+      },
+      {
+        "title": "TRADOOR fluctuated by 199.3% within 24 hours: whale activity and surging trading volume are the main driving factors - Bitget",
+        "impact": "中性",
+        "reason": "波动由鲸鱼驱动，非基本面因素"
+      },
+      {
+        "title": "TRADOOR worth $2.1 million was withdrawn from CEX and distributed to 10 newly created wallets. - Bitget",
+        "impact": "利空",
+        "reason": "大额提币至新钱包，可能为抛售做准备"
+      },
+      {
+        "title": "TRADOOR fluctuated 73.1% in 24 hours: driven by whale trades and Robinhood listing rumors - Bitget",
+        "impact": "中性",
+        "reason": "传闻驱动，未证实"
+      }
+    ],
+    "fundamentals": [
+      "Tradoor是DeFi衍生品协议，提供高达100倍杠杆的永续合约，采用NDMM机制",
+      "支持多平台（Telegram、TON等），但代币最大供应量80亿，当前流通约1435万，通胀压力巨大",
+      "ATH为9.98美元，当前0.0068美元，跌幅超99.9%",
+      "Binance期货合约已于2025年9月上线，但未带来持续上涨"
+    ],
+    "marketRead": [
+      "当前链上交易对（Meteora TRADOOR/USDC）流动性仅约4美元，24小时交易量几乎为零，价格极易被操纵",
+      "价格自ATH下跌超95%，近期虽有反弹但成交量极低，缺乏真实买盘",
+      "新闻中提及的暴涨暴跌均为鲸鱼短期行为，无持续性"
+    ],
+    "risks": [
+      "流动性极低，存在滑点和无法成交风险",
+      "代币供应量极大，未来解锁抛压严重",
+      "价格高度操纵，散户极易成为退出流动性",
+      "项目基本面未带来实际价值支撑，竞争激烈",
+      "新闻多为旧闻或负面，缺乏新催化"
+    ],
+    "watchlist": [
+      "链上流动性是否改善",
+      "是否有真实用户增长或协议收入",
+      "代币解锁时间表",
+      "Robinhood上线是否证实"
+    ],
+    "sourceNotes": [
+      "链上数据来自Meteora DEX，流动性极低，价格参考意义有限",
+      "新闻来源多为聚合网站，部分日期较早，需注意时效性",
+      "CoinMarketCap和CoinGecko数据存在差异，以链上实际交易为准"
+    ]
+  },
+  "profile": {
+    "id": "tradoor",
+    "symbol": "TRADOOR",
+    "name": "Tradoor",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "BNB Chain Ecosystem",
+      "Derivatives",
+      "Perpetuals",
+      "Telegram Apps",
+      "Binance Alpha Spotlight",
+      "Binance Wallet IDO",
+      "Trading Bots"
+    ],
+    "homepage": [
+      "https://tradoor.io/"
+    ],
+    "description": "Tradoor is the industry’s first NDMM exchange - using smart math and safety measures to allow people to trade with confidence - protecting traders, LPs, and the protocol from unexpected market changes. Tradoor offers up to 100x leverage on its Bitcoin and Ethereum Perpetuals, designed with advanced mathematics to ensure scientific pricing, thus protecting traders, liquidity providers (LPs), and the protocol itself. Risk control of liquidation for both traders and LPs, alongside a battle-tested Auto Deleveraging (ADL) system, acting as a fail-safe for extreme market conditions. This ensures the protocol remains free from counterparty risk and maintains insolvency resistance. Tradoor is available on multiple platforms, providing complete trading functionality on any device. Telegram's Wallet is pre-integrated for easy on-boarding for over 700 million users. Tradoor is a safe, efficient, and cost-effective decentralized finance app, utilizing The Open Network (TON) blockchain's capabilities for mass adoption via fast finality, sub-cent gas fees, and massive scalability.",
+    "marketCapRank": 1437,
+    "currentPriceUsd": 0.414318,
+    "marketCapUsd": 5944749,
+    "fullyDilutedValuationUsd": 24857828,
+    "totalVolumeUsd": 2219082,
+    "priceChange24hPct": 5.57457,
+    "priceChange7dPct": -1.94179,
+    "priceChange14dPct": 8.54019,
+    "priceChange30dPct": -8.00675,
+    "athUsd": 9.98,
+    "athChangePct": -95.87584,
+    "circulatingSupply": 14349000,
+    "totalSupply": 60000000,
+    "maxSupply": 8000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 1887,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "TRADOOR/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "DRxMn6UKmVjVpTEe1kNMnzXDjCZEQ4saicLGqRFFnFZT",
+    "pairUrl": "https://dexscreener.com/solana/drxmn6ukmvjvptee1knmnzxdjczeq4saiclgqrffnfzt",
+    "lastPrice": 0.0068,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 543017164.19,
+    "fullyDilutedValuationUsd": 544017194,
+    "marketCapUsd": 544017194,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/drxmn6ukmvjvptee1knmnzxdjczeq4saiclgqrffnfzt",
+    "pairAddress": "DRxMn6UKmVjVpTEe1kNMnzXDjCZEQ4saicLGqRFFnFZT",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "BQBBub9BMa38JzGwmzLxghMZK27VmjcC9CoyeoXxRTmg",
+      "name": "Tradoor",
+      "symbol": "TRADOOR"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.006800",
+    "priceUsd": "0.006800",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 543017164.19,
+      "base": 79852939425,
+      "quote": 13.212
+    },
+    "fdv": 544017194,
+    "marketCap": 544017194,
+    "pairCreatedAt": 1756884678000
+  },
+  "news": [
+    {
+      "title": "AI News: Tradoor Sinks, TAO Stabilizes, USD.AI Surges - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNay1QTS1Cb3Q4dXRlN21IYlZhTUFoZFYxV3ZSTjM2aVlUbWVvM1FXM0NzOTFTSWRhbzFod1RrU0Y4cUUzYkxjalNEUEw3UTc3M2padUhHNHBEQ29tRl85dVQzdXNmSFJFNEtZYXk4U2czVXNvZmE2UVo2WUV4b3ZTVC04QjJWTUhjblZjV1RiZ3JmT0h6b3c?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sat, 13 Jun 2026 14:01:33 GMT",
+      "snippet": "AI News: Tradoor Sinks, TAO Stabilizes, USD.AI Surges&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Tradoor Price Today in Turkey | TRADOOR to TRY Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OakQ0alpPWVRoVVlId3pDZ1lUTFVENWJRZGs0ZlJqSnlIVm81QlNVai0tZy1vaXZVR0lSU1RFN2d2NTV1SnAxWnI1X1FZRTNsc1BWZXVn?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 20 Jun 2026 18:49:00 GMT",
+      "snippet": "Tradoor Price Today in Turkey | TRADOOR to TRY Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Tradoor Price: TRADOOR/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Cd01WQWpwUVVEYWQ0cFNDdGVoclhXMDFJNU45YWFIMmVZZ3RDUmZNbXhmSzhjb0sxcV9GVTlLbk5icVBOX19rQzJzV3FPQU14UGwxWQ?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 02 Sep 2025 11:45:07 GMT",
+      "snippet": "Tradoor Price: TRADOOR/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Unlock Profits: Explore Tradoor’s Powerful DeFi Trading Revolution! - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54ckJtSHBCVE9KWmx1bGRtOWFkVmdnemVhOWRkNFkwQnctZkEyV1lfZUFvSFpOcXc3Wk9MbzM1LXZESE56ODR6VVNLSmQ0aXA4ZVpiMw?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "snippet": "Unlock Profits: Explore Tradoor’s Powerful DeFi Trading Revolution!&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "TRADOOR’s 900% surge ends in a 90% crash – What’s going on? - AMBCrypto",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSWF5LTVXeHJzTlpHdzlNRURuemctQVBuNVFtVFlzSnk5N1BzU0hVZkdGZW0xS3pDN0I5d3d3UnNnSzlaa2s5RFRnYTBDZkVGTzNzcTVzZWhvU1Y5WUVDNkxBQzFrQk1qVDVRSEFYcnctWU5qaENZUGFRa0pUaWkyLdIBhgFBVV95cUxOaF9pSVJxVnFJdTd2WlhpN1NSZmY0STdabXpsWm5keUNmdEpSSnpLTTV5dE11UlVxS2loeXhUd0xjXzByVndnOFpPcnBIeGZOenMwZmV2WEQybFFNYlBVNDRsLUVYVElLV21rVzlwemZYdjNGa3dlN3BJNFozQTRhM3VtSkRwdw?oc=5",
+      "source": "AMBCrypto",
+      "publishedAt": "Sun, 26 Apr 2026 07:00:00 GMT",
+      "snippet": "TRADOOR’s 900% surge ends in a 90% crash – What’s going on?&nbsp;&nbsp;AMBCrypto"
+    },
+    {
+      "title": "TRADOOR (TRADOOR) 24-hour amplitude at 1155.5%: Massive crash follows whale pump and surge in DEX volume - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLQlVid0pqZDU5UlllZjM1Q0lxeThGS2dCdDJfVmhvNlF4RnV4anlnMjQ2eU5iSkFVa0t6MW5oT1dRUG5mWUZpYVlrSTVYMmtXMFZWQmpTSTAwZlctNmhKRHJzZ2nSAWpBVV95cUxOTFUtX0N0cEhoUmRScElvLUVRRV9KZ2hydFBjRzdHREZJN0RKUmc3S3lQU3BvdGJsbUtTX3FfQVJmR0tVQjhvYVYtaER4cE1qOWpLRGRYQ2xXaGxxMmJmTE9VUEhEOVRrcjhB?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "snippet": "TRADOOR (TRADOOR) 24-hour amplitude at 1155.5%: Massive crash follows whale pump and surge in DEX volume&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Tradoor Price Today | TRADOOR to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84WE9fOElhSldaOFo3WXFkXzYySGwzQVY3VkJ5c2dfbXBqSnE5U1pYVmFTb29GelR3cml4QlZrcnVxOFRMd1NabC1qbWVHNWk2S3c?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 05 Sep 2025 00:57:18 GMT",
+      "snippet": "Tradoor Price Today | TRADOOR to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Tradoor Research Notes - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rTW1hejQ4M1hobW51ajhzNTFzWTBwY2ZEMUJvSEt5anlRZVFKbVJIcXZXM3lKMmJPSmhiZjZsaWRvQ2xSTmwwU25zX3BVd1NzVXNnMzdfazlnUzZjWmlTXzByaw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "snippet": "Tradoor Research Notes&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What is Tradoor (TRADOOR)? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14Nllma2ZMZkFncExSeVYtbGIxMEZSWHpBVzNpNDhpZkNmd3RsRVBKUTd4cklhQ0pRckpReTBPdXhGQzhlLUc4VnFseGZmNTR1ZjZQUVd5M1B5OWdpZEsyYkF2aEpCS1VmeUdtaGMzRnJFRk43NkHSAXtBVV95cUxNbmxLY0hVYm9IRkdHNU1oaU43RTdBRlBIZmFOek04cHNiZFZlV3FWREtTYXdqWWlkN24zUEtVZUNKRm1OVE5MaGxtWllTQjFTLUlaTVB4OWZZelo1MnVIdTRkcFhZSlJKNFBVNUpqelRnQ3o5bkptc0Rra1k?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 03 Sep 2025 07:00:00 GMT",
+      "snippet": "What is Tradoor (TRADOOR)?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Tradoor (TRADOOR) Price Prediction 2025–2030: Multi-Chain Analysis - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZGZ6NWg2ZzJsZTczRFUyb1RNVEJRMmFCSWw4LUNlY1RVQWtSZ1JMb21wOVQ5bU1mek5hVTdrMDNTNXNYaklkRTFjQ3ZzMmltZ2d5bUJxUFlzcmstR3JxTWxLbWZDckZseGJrUWxBakJjcFIxcThndGJpcFJVR01POGNLM1F5RHJqeVE?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Fri, 05 Dec 2025 08:00:00 GMT",
+      "snippet": "Tradoor (TRADOOR) Price Prediction 2025–2030: Multi-Chain Analysis&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Tradoor (TRADOOR) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85akFjcDZVYk1UbzJ6UGo5cUhiWGxDc1BxMkJFamRTTmFoNlZydVR5dHJtNUlmQ1BaM0p3eExpdjQ5QVJvZXdqaQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 21 May 2025 13:36:54 GMT",
+      "snippet": "Tradoor (TRADOOR) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Tradoor Price | TRADOOR Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mOHBHSjRGcWh3TU9iYWpuNnBrdWtzaUdhOE13YmdtUncwbG5kUkZrMWp0c3VVWFBkUk5wd3MxOXBQZ09HbkNFTWdzWQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 14 Aug 2024 23:45:03 GMT",
+      "snippet": "Tradoor Price | TRADOOR Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "TRADOOR fluctuated by 199.3% within 24 hours: whale activity and surging trading volume are the main driving factors - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rNWRsRFJ2OVA3Vzk4dzhJcFhtWEZnYmhUazA4OHhaSWVCZ0l0MkZxeHViUEk5QW5nQTFhSF9LNmY3WjFkTEExb01oS080MHItVVNjR0k4MjhzeFdWcHfSAWNBVV95cUxPX0pleXYxVm5ZVzRVNzM1R3M2cVRVcmZXT19JUDE4TmVqVl96cUNGd0xpLTlFVm5fNTh1V1NEWDBneXdPMzQ5ZE5JYXljNXVEUjMyQUE4dDU0OThiX1BVUXA3Vk0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 12 Apr 2026 07:00:00 GMT",
+      "snippet": "TRADOOR fluctuated by 199.3% within 24 hours: whale activity and surging trading volume are the main driving factors&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "TRADOOR worth $2.1 million was withdrawn from CEX and distributed to 10 newly created wallets. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSaVhJZDJFd3kwQmhhbHdyMGNiLTV4OTVZRTlLMERCODlZeWRDb3V3U2daMlZkT2ZhQXZXbEE5RVpPOFdfZHN2UXZWbDJXZ0xlZHpHNDJOdVlYNzZEY1HSAWNBVV95cUxPRmJydUdVMko4N2dQc3U4aVpvV1BUQjdxUUZNUE9XU0dWVFJ1eEdycWYxWXVQSHo5aTc4YTc0N1k4WTlVVHF1TVU4NXdoU0xXOG9KVVg5T0pGX3lxZkI1VE9NSlk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 11 Jan 2026 08:00:00 GMT",
+      "snippet": "TRADOOR worth $2.1 million was withdrawn from CEX and distributed to 10 newly created wallets.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "TRADOOR fluctuated 73.1% in 24 hours: driven by whale trades and Robinhood listing rumors - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OLUNNRDZIdFNVMEw1Wlc4MVRxZ2M5a1JJQ2xaOGVxeUVuNEpDLS16UXExRTYyalcxOEJvNUdtcmt4QVI2Mk1rbW4yUDlUNFRkUVdsc043SVFMcnNRQkHSAWNBVV95cUxOOVNVcjNhZko4Ujh4QmdycDRGWVdPREFZMHNMcUJoRFRWQ28tSVVTcjJTNkcwT0lVRjZXclNDdXVZQU9qMlZRTXpCMGJpMk9ud0JyV0M5ZUNnLUl6UURFMm4xNmc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "snippet": "TRADOOR fluctuated 73.1% in 24 hours: driven by whale trades and Robinhood listing rumors&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Futures Will Launch USDⓈ-Margined ASTERUSDT and TRADOORUSDT Perpetual Contracts (2025-09-19) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU2NiRk43RXZTYUp3VFJ2M0lQSEhBMTAzeFBBQXA5WDNNdmc4dXJOcHJrWkktakpTd0NTSkxKWG1SSHJzd0NITDVxYmNRMDZwMFJXbVRQbjJYbGRNUUpjM0NlNHpRbDNTV0ZEVkRLck1JaG1taWZLcHRBLW9qQUtqOHlra21tOWs2RGlsbFh2S0k?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 19 Sep 2025 07:00:00 GMT",
+      "snippet": "Binance Futures Will Launch USDⓈ-Margined ASTERUSDT and TRADOORUSDT Perpetual Contracts (2025-09-19)&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
