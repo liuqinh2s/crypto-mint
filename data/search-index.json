@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-06-27T12:17:04.115Z",
+  "updatedAt": "2026-06-27T12:32:05.281Z",
   "results": [
+    {
+      "token": "HOT",
+      "requestedInput": "HOLO",
+      "name": "Holo",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T12:32:02.294Z",
+      "latestPath": "data/results/HOT-latest.json"
+    },
+    {
+      "token": "FARTCOIN",
+      "requestedInput": "FARTCOIN",
+      "name": "Fartcoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T12:32:00.449Z",
+      "latestPath": "data/results/FARTCOIN-latest.json"
+    },
+    {
+      "token": "MOODENG",
+      "requestedInput": "MOODENG",
+      "name": "moodeng",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T12:32:00.208Z",
+      "latestPath": "data/results/MOODENG-latest.json"
+    },
+    {
+      "token": "ID",
+      "requestedInput": "ID",
+      "name": "ID",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T12:31:57.557Z",
+      "latestPath": "data/results/ID-latest.json"
+    },
+    {
+      "token": "US",
+      "requestedInput": "US",
+      "name": "US",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T12:32:05.279Z",
+      "latestPath": "data/results/US-latest.json"
+    },
     {
       "token": "BAN",
       "requestedInput": "BAN",
@@ -270,16 +320,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T11:02:23.227Z",
       "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "HOT",
-      "requestedInput": "HOLO",
-      "name": "Holo",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T11:02:32.500Z",
-      "latestPath": "data/results/HOT-latest.json"
     },
     {
       "token": "USELESS",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T08:17:10.551Z",
       "latestPath": "data/results/TRUST-latest.json"
-    },
-    {
-      "token": "POPCAT",
-      "requestedInput": "POPCAT",
-      "name": "Popcat",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:17:09.648Z",
-      "latestPath": "data/results/POPCAT-latest.json"
-    },
-    {
-      "token": "LUMIA",
-      "requestedInput": "LUMIA",
-      "name": "LUMIA",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:17:09.884Z",
-      "latestPath": "data/results/LUMIA-latest.json"
-    },
-    {
-      "token": "AT",
-      "requestedInput": "AT",
-      "name": "AT",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:17:16.606Z",
-      "latestPath": "data/results/AT-latest.json"
-    },
-    {
-      "token": "ETN",
-      "requestedInput": "ETN",
-      "name": "Electroneum",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:17:21.297Z",
-      "latestPath": "data/results/ETN-latest.json"
     }
   ]
 }
