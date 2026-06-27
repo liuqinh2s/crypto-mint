@@ -1,0 +1,312 @@
+{
+  "token": "CRV",
+  "requestedInput": "CRV",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T01:17:21.467Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CRV",
+    "name": "Curve DAO Token",
+    "generatedAt": "2026-06-27T01:17:13.919Z",
+    "summary": "CRV在Solana链Meteora上的流动性池数据异常，市值约30亿美元但24小时交易量仅3.99美元，流动性近30亿美元，疑似数据错误或非活跃池。新闻面多为长期价格预测，近期无重大利好催化。当前价格0.9854美元，24小时微跌0.02%。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "数据源确认流动性真实且交易量恢复正常"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Curve DAO Token Surges 18% — Why Traders Are Suddenly Watching CRV Token",
+        "impact": "中性",
+        "reason": "6月10日新闻，时效性已过，且未提及具体催化"
+      },
+      {
+        "title": "Curve DAO Token (CRV) Price Prediction 2026, 2027-2030: Can CRV Break Its Long-Term Range?",
+        "impact": "中性",
+        "reason": "长期价格预测，无短期催化"
+      },
+      {
+        "title": "CRV price slides towards range lows as LlamaLend pool exploit weighs on sentiment",
+        "impact": "利空",
+        "reason": "3月2日新闻，提及LlamaLend池漏洞影响情绪"
+      }
+    ],
+    "fundamentals": [
+      "Curve Finance是DeFi稳定币兑换协议，CRV为治理代币",
+      "Solana链上Meteora池数据异常：市值30亿美元但24h交易量仅3.99美元",
+      "流动性近30亿美元，疑似LP被锁定或池子非活跃",
+      "无流通/总供应量数据，代币经济不透明"
+    ],
+    "marketRead": [
+      "价格0.9854美元，24h变化-0.02%，几乎无波动",
+      "24h交易量3.99美元，极低，表明无真实交易",
+      "流动性近30亿美元与交易量严重不匹配，数据不可信"
+    ],
+    "risks": [
+      "数据异常风险：流动性/市值与交易量严重背离，可能为错误数据或操纵",
+      "合约风险：Solana链上Meteora池可能非官方或存在漏洞",
+      "流动性风险：实际可交易流动性极低，滑点巨大",
+      "新闻面平淡：无近期利好，历史负面事件（创始人清算、漏洞）"
+    ],
+    "watchlist": [
+      "确认该池是否为官方Curve部署",
+      "观察交易量是否恢复至正常水平",
+      "关注Curve官方公告或跨链部署进展"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，仅提供该Solana/Meteora池数据，非以太坊主网CRV",
+      "市值和流动性数据可能因LP代币价格或计算方式异常",
+      "新闻多为长期预测，无短期催化"
+    ]
+  },
+  "profile": {
+    "id": "Pf6CZZypGoS3TDbLudwRQcXHA77AjdicuopiFmKUHRH",
+    "symbol": "CRV",
+    "name": "Curve DAO Token",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/57yjd8nrylratav7kocanwfc8yvrztqppc9tvpejtv3d",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.9854,
+    "marketCapUsd": 2986087214,
+    "fullyDilutedValuationUsd": 2986087214,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-08-10",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "57yjD8nryLRatAv7kocanwFc8YVRztQppC9tvpeJTV3D",
+    "baseTokenAddress": "Pf6CZZypGoS3TDbLudwRQcXHA77AjdicuopiFmKUHRH",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 2985087195.4,
+    "pairUrl": "https://dexscreener.com/solana/57yjd8nrylratav7kocanwfc8yvrztqppc9tvpejtv3d",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "CRV/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "57yjD8nryLRatAv7kocanwFc8YVRztQppC9tvpeJTV3D",
+    "pairUrl": "https://dexscreener.com/solana/57yjd8nrylratav7kocanwfc8yvrztqppc9tvpejtv3d",
+    "lastPrice": 0.9854,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 2985087195.4,
+    "fullyDilutedValuationUsd": 2986087214,
+    "marketCapUsd": 2986087214,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/57yjd8nrylratav7kocanwfc8yvrztqppc9tvpejtv3d",
+    "pairAddress": "57yjD8nryLRatAv7kocanwFc8YVRztQppC9tvpeJTV3D",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "Pf6CZZypGoS3TDbLudwRQcXHA77AjdicuopiFmKUHRH",
+      "name": "Curve DAO Token",
+      "symbol": "CRV"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.9854",
+    "priceUsd": "0.9854",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 2985087195.4,
+      "base": 3029288192,
+      "quote": 12.7526
+    },
+    "fdv": 2986087214,
+    "marketCap": 2986087214,
+    "pairCreatedAt": 1754797076000
+  },
+  "news": [
+    {
+      "title": "Curve DAO Token (CRV) Price Prediction 2026, 2027-2030: Can CRV Break Its Long-Term Range? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1UGVXeFR4a3RmcjUwVUJPX2hYcmVVNjdlZUwtcHZHeXJ3U2kzZnQzYVFDQXRLNFNDSWp6OW8wTmhIYzNCbVZMWEl5X1FoUTU0Y05vYmZrYW1KUkpyMzQzMGRGNkY4dC1URWlXS21RNU5JOEpOOElQeFBn0gF_QVVfeXFMTjRjN1RSM3RHelhvdDIzUWU5aFU3SHdBeGlTREpHT3YwTl9vaml3eklrRHE4VnAwWHVJX2Jkb1JGSlBFdmlRbk1fM3h2RUdNZUNGVUlzTlRMY3lxX3hrWHBPM0lwTVByZWJiN1Q5aWZpN0lRb2pGSkxqUTJ1azBQYw?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Wed, 24 Jun 2026 21:41:51 GMT",
+      "snippet": "Curve DAO Token (CRV) Price Prediction 2026, 2027-2030: Can CRV Break Its Long-Term Range?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Curve DAO Token (CRV) Price Outlook 2026-2030: Analyzing the Long-Term Range - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2o5Nk9mOVVpSEZES1V3ZlhMdHRsV3J4U0twTEFON0tyN3FUSlJ5cnhBMjEyVzZRNWhEcHZ1RDRSWG9CU3ZpTGFGYW8xVzE1aXlTaTJ3Q1pyQnFjc2lySXdzdzM4TV9fNVpnRWlISjF5MHNLNWd5d0lPRmladGVFajctdjU2Tm04X0xB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 25 Jun 2026 09:08:42 GMT",
+      "snippet": "Curve DAO Token (CRV) Price Outlook 2026-2030: Analyzing the Long-Term Range&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Curve DAO Token (CRV) Price Outlook 2026–2030: Can DeFi Fundamentals Drive a Range Breakout? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONlJwWlR3WTlTV0VSaUZteE9EQVpWR0VHRnZhM1FGR2JpZlhON2dnb2NhZGVLSHB5NU5tMUU0RDVDWG5fbHBvVnlkWXNHcEp6MGRLMUJFMl9hUmJ1OUhZUEVvU2pjUWs0ZTdLOUUzaG41Z292YnNuVDF4Y2tiUkx4a2dmYnJ2emV3cWRr?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 25 Jun 2026 03:31:02 GMT",
+      "snippet": "Curve DAO Token (CRV) Price Outlook 2026–2030: Can DeFi Fundamentals Drive a Range Breakout?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Curve DAO Token Surges 18% — Why Traders Are Suddenly Watching CRV Token - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjVzaW5MV1hpMUswQVJVem8tUFRYeDFUbGNmVHF5VXhmeWZhTTh0MkFlSk9HOGh5eTItaC1zei14WEFIRTVYaWRPMzhxZlBmOTBrb0ctS1RQdjJjLUNLYmtORFBtQU9zNm16am1hRXlKLTl2WklDc1ZqSk0wcnlqdWp3STZWZng0cndOZkc4WkxDcVYyS2VxSEJmNTVBQjQwVjRQcG4zYzdqWElfbUVFdy11ZkNLZUJ2b3AybExzejFQNkhCSjZVeA?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "snippet": "Curve DAO Token Surges 18% — Why Traders Are Suddenly Watching CRV Token&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Curve DAO Token Price Prediction: Is CRV a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTkpCWkk3QVJfejRuVS1YSEVTRVpuc0RMQnU0b0g3VlRHMjBOa25HeXN5SUNCUTFCRGYySWJzLWxGYVlpTUpsanUxLWt5WUNoajdNREJlZFM0YWN3RGhXUzdmYUlZdE5jLVZ1MjJWVHF5cEYyV3B6b056NXRETEVYTjA4ZG1GZVVfVTlDdg?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Wed, 24 Dec 2025 08:00:00 GMT",
+      "snippet": "Curve DAO Token Price Prediction: Is CRV a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Curve DAO Token (CRV) Surges 5.10% Amid Broad Crypto Rebound - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52bV9hUFQ5d2NoVFV3Z0lrV2dIcFloaTNVTTRyRXNpQVVGRmpndktBWnBuX3NwVEtuV29BalJaNlpQSjVLNnlZYmdJbS1fbFgxTXczc1dwdENVWTUtUjR2Vi1sNDloVVE1M0VhOTJvSm0?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 15 Jun 2026 19:06:00 GMT",
+      "snippet": "Curve DAO Token (CRV) Surges 5.10% Amid Broad Crypto Rebound&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Curve DAO Token (CRV) Price Prediction 2025, 2026 to 2030 - Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JeUE4N0FlZjlDRklpcmJoeXpnVmYzTWNUTU5nRVBjdTZZMUVNQ0Y2MjhKbWNmN2J5YWMxQ1VyTWkzYnVjVWh3TEVYbFNmbmZFcE9wQWhjSEbSAVhBVV95cUxOSXlBODdBZWY5Q0ZJaXJiaHl6Z1ZmM01jVE1OZ0VQY3U2WTFFTUNGNjI4Sm1jZjdieWFjMUNVck1pM2J1Y1Vod0xFWGxTZm5mRXBPcEFoY0hG?oc=5",
+      "source": "Ventureburn",
+      "publishedAt": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "snippet": "Curve DAO Token (CRV) Price Prediction 2025, 2026 to 2030&nbsp;&nbsp;Ventureburn"
+    },
+    {
+      "title": "What Is Curve Finance and CRV Token? (2025 Guide) - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CNHFfaFVhRUlIT29xd0VReGRTUzd2Zko3N1phSFlibk4yNVFZSnY5VVJva1JraWlFTGtfTGVCVjBVc3c5OGV0M3ZmWFJLZkdyOGRjUUhzd3ktR2tZeldrWFNlRkI5cUM2ZDRYdWdwTjk2YWJhcmZz?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 05 May 2025 07:00:00 GMT",
+      "snippet": "What Is Curve Finance and CRV Token? (2025 Guide)&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Curve DAO (CRV) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tQzJPdE1JLUowWFdSc0o1bkhVeHFrb1VNd3NlUk9LWFRjanEyUnZOY1FJU3NQRGZwYlVYSFVaeG5hQXZMVmc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 10 Aug 2023 14:48:25 GMT",
+      "snippet": "Curve DAO (CRV) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Curve DAO Price | CRV Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43VUNFeTUwVHlFTi1WSzZNdVNtalVyeU9nZUgzQ1JkTHZ2NVgxM0xYd2FmbFgxRWlnam1JdlRfM09BQ0dLTjlCRA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 18 Aug 2020 01:14:14 GMT",
+      "snippet": "Curve DAO Price | CRV Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "CRV price slides towards range lows as LlamaLend pool exploit weighs on sentiment - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4ySnJNT2dvQUxwOF9XU1Y3blpnVU0wRXRqQm45aU9mN1VtZkNnWlp4a19kSDZzZnIzX2pKT2J2WVhiTlY1eldWWnpfVTVhdWJkRVMyVGcwMkx4SVRuQVHSAWNBVV95cUxOaVp1UnQxSnNHVExvUHNMZ2h0TkdTMzVKM3pyc1J6dW5nT3FJd2Q2UjlTVjZvZnBrM0ZnQmlieDhNM1hJb21rd01CQk43TkZkcTNUOGpTNWdya213TjNFQWtoSEE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
+      "snippet": "CRV price slides towards range lows as LlamaLend pool exploit weighs on sentiment&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Curve DAO (CRV) Price Prediction 2025–2030: Will It Break Past $1 in 2025? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBX3N4SlBxczJOUl9UQXlWY29kRzliTzRDdlF3RnoyWkJ2bDZObXVFeFNfZXRmaUF0VjhEbHFyeWFQUmxfQmR1d0xna3hLY1pyZEJneko0cHpEMm5TRnc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 27 Mar 2025 07:00:00 GMT",
+      "snippet": "Curve DAO (CRV) Price Prediction 2025–2030: Will It Break Past $1 in 2025?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Curve Finance founder gets liquidated amid sharp drop in CRV token price - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejdsc0JfMXRmQkRXS2x4RzNscF92OE9GOUpkbDhVcnQ0WkpETjZJUDZGNHpaMnhQbk81OFJud2R1RGxWSDZBS19YOE5qdUtuczN1S1pfMzVwdmFhcWJwREJ6VUY1cHBOSGU2dVZNUmVzc2FUb3dIZTRCTU4zTnNybm9HSlI2UThf?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 13 Jun 2024 07:00:00 GMT",
+      "snippet": "Curve Finance founder gets liquidated amid sharp drop in CRV token price&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Curve DAO Price: CRV Price Index and Live Chart - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpSlFkOUZvalFwbG83bHJva2FxZjh4TXhVamJMdTk4NTJJNkNDSjRaOEVweXdtSjQzblRXYk14LUlQaFJCeFZpdnpqdlhGX3BRcFRfWWZnQUc5ZEdnZ1NWOWFNcDA?oc=5",
+      "source": "The Block",
+      "publishedAt": "Sun, 22 Jun 2025 05:53:14 GMT",
+      "snippet": "Curve DAO Price: CRV Price Index and Live Chart&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Curve DAO Token price today, CRV to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ea0M4UnZNMzZmMnZPSDdreU9GdGI0V3lPUjNBNlVHX1F6Vm5kTGRJOXpjSWkydnp1b0VDZ2U0ZjNmVF9jRjRPNGFqQkcyT2VJZERmNklwX1ZxZw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sat, 21 May 2022 17:03:28 GMT",
+      "snippet": "Curve DAO Token price today, CRV to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "CRV to INR | Curve DAO to Indian Rupee Converter - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4MUNIbTdNRmUtT1A2NnJVeWgwN19zcmFUeDVqMkFFRWhGamxhZ0VLWDJzdzNvRUxWaHRaVVBsZ3NwWERTUDdOUlhqbHJtRUc3My1NMFY2dkJkbzJGRmkw?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 03 Jun 2025 06:49:47 GMT",
+      "snippet": "CRV to INR | Curve DAO to Indian Rupee Converter&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=CRV: Throttled\n"
+  ]
+}

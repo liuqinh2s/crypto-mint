@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-06-27T01:02:44.302Z",
+  "updatedAt": "2026-06-27T01:17:32.433Z",
   "results": [
+    {
+      "token": "APE",
+      "requestedInput": "APE",
+      "name": "ApeCoin",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:17:13.481Z",
+      "latestPath": "data/results/APE-latest.json"
+    },
+    {
+      "token": "UNH",
+      "requestedInput": "UNH",
+      "name": "UnitedHealth Group",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:17:13.011Z",
+      "latestPath": "data/results/UNH-latest.json"
+    },
+    {
+      "token": "IP",
+      "requestedInput": "IP",
+      "name": "Story",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:17:14.485Z",
+      "latestPath": "data/results/IP-latest.json"
+    },
+    {
+      "token": "AIN",
+      "requestedInput": "AIN",
+      "name": "Infinity Ground AI",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T01:17:13.814Z",
+      "latestPath": "data/results/AIN-latest.json"
+    },
+    {
+      "token": "HYPER",
+      "requestedInput": "HYPER",
+      "name": "Hyperlane",
+      "score": 15,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:17:21.535Z",
+      "latestPath": "data/results/HYPER-latest.json"
+    },
+    {
+      "token": "CRV",
+      "requestedInput": "CRV",
+      "name": "Curve DAO Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:17:21.467Z",
+      "latestPath": "data/results/CRV-latest.json"
+    },
+    {
+      "token": "LAYER",
+      "requestedInput": "TRUST",
+      "name": "TRUST",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:17:20.160Z",
+      "latestPath": "data/results/LAYER-latest.json"
+    },
+    {
+      "token": "BRKB",
+      "requestedInput": "BRKB",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:17:18.561Z",
+      "latestPath": "data/results/BRKB-latest.json"
+    },
+    {
+      "token": "NAORIS",
+      "requestedInput": "NAORIS",
+      "name": "Naoris Protocol",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:17:26.736Z",
+      "latestPath": "data/results/NAORIS-latest.json"
+    },
+    {
+      "token": "KAITO",
+      "requestedInput": "KAITO",
+      "name": "KAITO",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T01:17:27.686Z",
+      "latestPath": "data/results/KAITO-latest.json"
+    },
+    {
+      "token": "FOLKS",
+      "requestedInput": "FOLKS",
+      "name": "Folks",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:17:32.431Z",
+      "latestPath": "data/results/FOLKS-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:17:27.178Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
     {
       "token": "JST",
       "requestedInput": "JST",
@@ -30,16 +150,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-27T01:02:24.431Z",
       "latestPath": "data/results/ACX-latest.json"
-    },
-    {
-      "token": "LAYER",
-      "requestedInput": "TRUST",
-      "name": "TRUST",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T01:02:20.406Z",
-      "latestPath": "data/results/LAYER-latest.json"
     },
     {
       "token": "VELVET",
@@ -160,16 +270,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T00:47:09.787Z",
       "latestPath": "data/results/GOAT-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T00:47:09.047Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "CARV",
@@ -900,106 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-26T22:32:11.025Z",
       "latestPath": "data/results/ORCA-latest.json"
-    },
-    {
-      "token": "STABLE",
-      "requestedInput": "STABLE",
-      "name": "Stable",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:32:10.913Z",
-      "latestPath": "data/results/STABLE-latest.json"
-    },
-    {
-      "token": "Q",
-      "requestedInput": "Q",
-      "name": "Quack AI",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T22:32:08.992Z",
-      "latestPath": "data/results/Q-latest.json"
-    },
-    {
-      "token": "SNOW",
-      "requestedInput": "SNOW",
-      "name": "SNOW",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:32:16.513Z",
-      "latestPath": "data/results/SNOW-latest.json"
-    },
-    {
-      "token": "WET",
-      "requestedInput": "WET",
-      "name": "WET",
-      "score": 2,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:32:18.112Z",
-      "latestPath": "data/results/WET-latest.json"
-    },
-    {
-      "token": "AGLD",
-      "requestedInput": "AGLD",
-      "name": "Adventure Gold",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:32:16.235Z",
-      "latestPath": "data/results/AGLD-latest.json"
-    },
-    {
-      "token": "CLANKER",
-      "requestedInput": "CLANKER",
-      "name": "Clanker",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:32:25.667Z",
-      "latestPath": "data/results/CLANKER-latest.json"
-    },
-    {
-      "token": "ESP",
-      "requestedInput": "ESP",
-      "name": "ESP",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:17:00.262Z",
-      "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "SKYAI",
-      "requestedInput": "SKYAI",
-      "name": "SkyAI",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T22:17:01.838Z",
-      "latestPath": "data/results/SKYAI-latest.json"
-    },
-    {
-      "token": "RPL",
-      "requestedInput": "RPL",
-      "name": "Rocket Pool",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-26T22:16:59.263Z",
-      "latestPath": "data/results/RPL-latest.json"
-    },
-    {
-      "token": "XPL",
-      "requestedInput": "XPL",
-      "name": "XPL",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:17:05.192Z",
-      "latestPath": "data/results/XPL-latest.json"
     }
   ]
 }
