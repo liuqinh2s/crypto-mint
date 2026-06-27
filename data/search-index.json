@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-06-27T13:47:13.922Z",
+  "updatedAt": "2026-06-27T14:02:31.222Z",
   "results": [
+    {
+      "token": "ARC",
+      "requestedInput": "ARC",
+      "name": "ARC",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:02:24.252Z",
+      "latestPath": "data/results/ARC-latest.json"
+    },
+    {
+      "token": "TAC",
+      "requestedInput": "TAC",
+      "name": "TAC",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:02:22.792Z",
+      "latestPath": "data/results/TAC-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
@@ -8,8 +28,48 @@
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-27T13:47:05.286Z",
+      "generatedAt": "2026-06-27T14:02:21.917Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "SNOW",
+      "requestedInput": "SNOW",
+      "name": "SNOW",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:02:22.521Z",
+      "latestPath": "data/results/SNOW-latest.json"
+    },
+    {
+      "token": "WET",
+      "requestedInput": "WET",
+      "name": "WET",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:02:29.261Z",
+      "latestPath": "data/results/WET-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:02:30.559Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "CELO",
+      "requestedInput": "CELO",
+      "name": "Celo",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T14:02:31.220Z",
+      "latestPath": "data/results/CELO-latest.json"
     },
     {
       "token": "DYDX",
@@ -940,66 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T09:32:29.041Z",
       "latestPath": "data/results/Q-latest.json"
-    },
-    {
-      "token": "RESOLV",
-      "requestedInput": "RESOLV",
-      "name": "Resolv",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:32:35.924Z",
-      "latestPath": "data/results/RESOLV-latest.json"
-    },
-    {
-      "token": "W",
-      "requestedInput": "W",
-      "name": "Wormhole",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:32:36.291Z",
-      "latestPath": "data/results/W-latest.json"
-    },
-    {
-      "token": "VELVET",
-      "requestedInput": "VELVET",
-      "name": "Velvet",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:31:04.717Z",
-      "latestPath": "data/results/VELVET-latest.json"
-    },
-    {
-      "token": "TIAN",
-      "requestedInput": "TIA",
-      "name": "TIA",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:16:58.022Z",
-      "latestPath": "data/results/TIAN-latest.json"
-    },
-    {
-      "token": "RPL",
-      "requestedInput": "RPL",
-      "name": "Rocket Pool",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:17:01.203Z",
-      "latestPath": "data/results/RPL-latest.json"
-    },
-    {
-      "token": "XPL",
-      "requestedInput": "XPL",
-      "name": "Pulse",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:17:01.181Z",
-      "latestPath": "data/results/XPL-latest.json"
     }
   ]
 }
