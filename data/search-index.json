@@ -1,15 +1,65 @@
 {
-  "updatedAt": "2026-06-27T13:17:23.980Z",
+  "updatedAt": "2026-06-27T13:32:32.255Z",
   "results": [
+    {
+      "token": "TNSR",
+      "requestedInput": "TNSR",
+      "name": "Tensor",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T13:32:22.833Z",
+      "latestPath": "data/results/TNSR-latest.json"
+    },
+    {
+      "token": "HIVE",
+      "requestedInput": "HIVE",
+      "name": "Hive",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T13:32:25.172Z",
+      "latestPath": "data/results/HIVE-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
+      "name": "VelodromeV2",
+      "score": 25,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-27T13:17:13.964Z",
+      "generatedAt": "2026-06-27T13:32:20.378Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "NAORIS",
+      "requestedInput": "NAORIS",
+      "name": "Naoris Protocol",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T13:32:22.421Z",
+      "latestPath": "data/results/NAORIS-latest.json"
+    },
+    {
+      "token": "KAITO",
+      "requestedInput": "KAITO",
+      "name": "Kaito",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T13:32:29.626Z",
+      "latestPath": "data/results/KAITO-latest.json"
+    },
+    {
+      "token": "LTC",
+      "requestedInput": "LTC",
+      "name": "LTC",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T13:32:32.253Z",
+      "latestPath": "data/results/LTC-latest.json"
     },
     {
       "token": "XAN",
@@ -950,56 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T09:02:22.695Z",
       "latestPath": "data/results/ARK-latest.json"
-    },
-    {
-      "token": "DYDX",
-      "requestedInput": "DYDX",
-      "name": "dYdX",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T09:02:23.616Z",
-      "latestPath": "data/results/DYDX-latest.json"
-    },
-    {
-      "token": "ACX",
-      "requestedInput": "ACX",
-      "name": "Across Protocol",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T09:02:32.640Z",
-      "latestPath": "data/results/ACX-latest.json"
-    },
-    {
-      "token": "G",
-      "requestedInput": "G",
-      "name": "Gravity (原Galxe)",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T09:02:32.620Z",
-      "latestPath": "data/results/G-latest.json"
-    },
-    {
-      "token": "PIEVERSE",
-      "requestedInput": "PIEVERSE",
-      "name": "Pieverse Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:02:31.551Z",
-      "latestPath": "data/results/PIEVERSE-latest.json"
-    },
-    {
-      "token": "BRKB",
-      "requestedInput": "BRKB",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:02:27.025Z",
-      "latestPath": "data/results/BRKB-latest.json"
     }
   ]
 }

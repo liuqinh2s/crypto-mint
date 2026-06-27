@@ -1,0 +1,306 @@
+{
+  "token": "LTC",
+  "requestedInput": "LTC",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T13:32:32.253Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "LTC",
+    "name": "LTC",
+    "generatedAt": "2026-06-27T13:32:22.854Z",
+    "summary": "LTC在Solana链上Raydium存在同名代币，市值约12亿美元，流动性极高，但价格24小时无变化，成交量极低。新闻多为Litecoin（原链）预测，与当前代币无关。该代币疑似冒名，风险极高，不建议参与。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若确认是官方LTC跨链代币且获得社区认可，则逻辑可能变化，但目前无证据。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Litecoin (LTC) Price Prediction 2026, 2027 – 2030: How High Will LTC Price Go? - Coinpedia",
+        "impact": "中性",
+        "reason": "新闻针对原链LTC，与Solana上同名代币无关。"
+      },
+      {
+        "title": "Litecoin Price Prediction Faces Pressure as LTC Tests Key Support While Pepeto Presale Draws $10.3 million - StreetInsider",
+        "impact": "中性",
+        "reason": "同样针对原链LTC，不涉及当前代币。"
+      }
+    ],
+    "fundamentals": [
+      "Solana链上Raydium DEX的LTC/USDC交易对，创建于2026-05-06。",
+      "代币地址：LTCzLubSuBYP9wjkQZCAj6gwpCZxEjoJEbWPmUCJJcK",
+      "市值约12.13亿美元，流动性约12.13亿美元，但24小时成交量仅7.2万美元，流动性/成交量比值极高，暗示流动性可能为虚假或无人交易。",
+      "无官方项目网站、白皮书或团队信息，疑似冒名代币。"
+    ],
+    "marketRead": [
+      "价格57.75美元，24小时无涨跌，无K线数据。",
+      "成交量极低，流动性巨大，可能存在虚假流动性或无人问津。",
+      "无历史价格数据，无法判断趋势。"
+    ],
+    "risks": [
+      "高度疑似冒名代币：利用Litecoin知名度在Solana上发行同名代币，无官方背书。",
+      "流动性陷阱：流动性极高但成交量极低，可能无法顺利卖出。",
+      "合约风险：未开源或未审计，可能存在后门。",
+      "监管风险：冒名代币可能涉及欺诈。",
+      "价格操纵风险：低成交量下易被操纵。"
+    ],
+    "watchlist": [
+      "关注官方Litecoin团队是否承认该代币。",
+      "观察流动性是否真实（如大额卖出是否滑点）。",
+      "检查合约代码是否开源及审计报告。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，无其他可靠信息。",
+      "新闻均为原链Litecoin，与当前代币无关。",
+      "无社区或社交媒体信息。"
+    ]
+  },
+  "profile": {
+    "id": "LTCzLubSuBYP9wjkQZCAj6gwpCZxEjoJEbWPmUCJJcK",
+    "symbol": "LTC",
+    "name": "LTC",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/8dgywoqu82p6onmk4h9shlsqbuhzxizigm86paqfqcrz",
+    "marketCapRank": null,
+    "currentPriceUsd": 57.75,
+    "marketCapUsd": 1212839558,
+    "fullyDilutedValuationUsd": 1212839558,
+    "totalVolumeUsd": 71981.4,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-05-06",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "8DgyWoQu82p6oNMk4h9shLsqBUhZxizigm86pAQfQcRZ",
+    "baseTokenAddress": "LTCzLubSuBYP9wjkQZCAj6gwpCZxEjoJEbWPmUCJJcK",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 1212683545.51,
+    "pairUrl": "https://dexscreener.com/solana/8dgywoqu82p6onmk4h9shlsqbuhzxizigm86paqfqcrz",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "LTC/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "8DgyWoQu82p6oNMk4h9shLsqBUhZxizigm86pAQfQcRZ",
+    "pairUrl": "https://dexscreener.com/solana/8dgywoqu82p6onmk4h9shlsqbuhzxizigm86paqfqcrz",
+    "lastPrice": 57.75,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 71981.4,
+    "liquidityUsd": 1212683545.51,
+    "fullyDilutedValuationUsd": 1212839558,
+    "marketCapUsd": 1212839558,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/8dgywoqu82p6onmk4h9shlsqbuhzxizigm86paqfqcrz",
+    "pairAddress": "8DgyWoQu82p6oNMk4h9shLsqBUhZxizigm86pAQfQcRZ",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "LTCzLubSuBYP9wjkQZCAj6gwpCZxEjoJEbWPmUCJJcK",
+      "name": "LTC",
+      "symbol": "LTC"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "57.7542",
+    "priceUsd": "57.75",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 7,
+        "sells": 7
+      }
+    },
+    "volume": {
+      "h24": 71981.4,
+      "h6": 20268.98,
+      "h1": 10201.48,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 1212683545.51,
+      "base": 20997298,
+      "quote": 21.2067
+    },
+    "fdv": 1212839558,
+    "marketCap": 1212839558,
+    "pairCreatedAt": 1778066070000
+  },
+  "news": [
+    {
+      "title": "Litecoin (LTC) Price Prediction 2026, 2027 – 2030: How High Will LTC Price Go? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQmM1MDdXQnQwZ2FKSkl1YW9UZjZEcDM4N21vS1BMcmkybnpDVDN1U1NuUm9xYjg0TVdpVWJyb2J2TWdsRlpnWkhfRHdZSFludENNWVhhRGlKeUVwTWVCRGFVc0NPOVFSMzNIa2cwajVkdEdNelVSNdIBfkFVX3lxTFB4QnZQMDM3bXZ1aFZ3RjJZbWtreWtXMHNpUUFmMkd5TXVnSkxNSkQySlRsZHNxMmQ2SVl4SEdwWjBuZEdfVDA0ZFptcm5USkRyMU5EMTJ0NE1ueU5TMm43dHF2MzRhcDRIMjFUSTlmMmIyeEhwTTUtYzY5TnFNZw?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Thu, 18 Jun 2026 12:46:00 GMT",
+      "snippet": "Litecoin (LTC) Price Prediction 2026, 2027 – 2030: How High Will LTC Price Go?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Litecoin Price Prediction Faces Pressure as LTC Tests Key Support While Pepeto Presale Draws $10.3 million - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQU3MwV0lpVXBfSmFZY0FnSkktTUxxRXlUODZWTTdORDk0dWpTUW8zajUxMXhISzRTaWZwMDE3MDNkV0hpU21HRDZUdlktalB1aVBiTTFNekJQZjhkZ1pkcVJKSjZVLWhENVQ1RVl5U0pjOXpYc0RXQXZmdWNhZ2N2YjBzQzVJeHY1aWU5REZ3U3ZCUGRiS0NzclJFbzVoR2lERkRRUTNDUE01cERuWEZLeGxOUWZ5NUdoLXpMdm0xa1BVTGJ0VEtDMGVMczdhX0RtN25NMjNEUDhHakNrZTJjTGZMeHU4bThHY3U3R1VWSlViNkkweHQ3MnVqOC0?oc=5",
+      "source": "StreetInsider",
+      "publishedAt": "Fri, 26 Jun 2026 10:37:14 GMT",
+      "snippet": "Litecoin Price Prediction Faces Pressure as LTC Tests Key Support While Pepeto Presale Draws $10.3 million&nbsp;&nbsp;StreetInsider"
+    },
+    {
+      "title": "Litecoin (LTC) Price Prediction 2026, 2027 – 2030: How High Will LTC Price Go? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14cXRycnpQbXhra3BhMG56U0xXbmJub3RidEF1N29jR3pCd1dNMk9rUER3b0piaTJFMHhiMVAzRzVubENiMF9TY3o1N0NpOUM4SE9Kd2lFOWVtS3JBanfSAWNBVV95cUxNWTd4RDdLX2FJSEJwTXREcG5IR1JBS3NGbDF6RHFGYUdOeld1SDJWdGNGS0JUellLaDhnVzZOTzhYZ2lnTC1JcnNKOXIxZm1IMGN0V0ZXMzVHcGNhR3BEdkpfNm8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "snippet": "Litecoin (LTC) Price Prediction 2026, 2027 – 2030: How High Will LTC Price Go?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Litecoin (LTC) Price Falls to 17-Month Low — Capitulation Is Finally Here - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnZ0ZzBtcFJVUlFQUHE1STcwLS1yOHRFekZ3OWxyRFJuUkUwQzFoOTlBSGdhZ0F2UmxPdVJwZmgwY29QU2dyXzNua093ZnNhc2dIemVUUHVpQmNyaEVOb25yYkZiaXFCdlJ3UzBnZ1R2UXJzQ2NpNENabzQzVV9aQjVLV2J5VUNhTXhST01GTDA2eVU?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "snippet": "Litecoin (LTC) Price Falls to 17-Month Low — Capitulation Is Finally Here&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Litecoin (LTC) Price Today: LTC Live Price, Charts, News - Crypto.com US - Crypto.com",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxUUNyM3BpUWpVZEl6T2FJMy1EcENDdFZ6OXF5R2lBVDdLU1VDaUZxcmZXUUx2Tkhvc1Q5aDM3YXpwNENBYkRxSWNmRHM?oc=5",
+      "source": "Crypto.com",
+      "publishedAt": "Tue, 23 Sep 2025 21:07:20 GMT",
+      "snippet": "Litecoin (LTC) Price Today: LTC Live Price, Charts, News - Crypto.com US&nbsp;&nbsp;Crypto.com"
+    },
+    {
+      "title": "Litecoin (LTC) Returns to Multi-Cycle Lows as New Demand Emerges - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tWTdJUDVrdktfZUtsblBkM21XeWU4YXktZGJteHVXTkg4TFlWWjJHbmxJWkVaRVBEY2U1U3B3MG9heFdtSzhJbFEtWXM3aThHbmEtYlN4Vzh3alRCUFdheDhnY0FSclN1SkRYU3lXM3dQYk16SXNQZ08zVQ?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "snippet": "Litecoin (LTC) Returns to Multi-Cycle Lows as New Demand Emerges&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "LTC & DOGE Holders Jump Ship to BlockDAG as Its Live Mainnet Beats Ethereum with 5,000 TPS! - Blockonomi",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONVZfWDRoejNhLTNfNkFIc1B4OFYtcTNRWERYazdOY2tERWNKSGZYMldyejJ6cHBoZVhwbFVNZHVIVld1U0NBNm1icE11QUVYd3FWRnpxTlVHN0gtY1Jwd2RsR2dOcENlYUhSUl93cGxkaUxNMDY0dFR6cXZkc2M1OUF1RURfXzBSS0VkdmZtNlhKY2doeGFGQW5LWEloZEJiRG1XWGZPamI5WXQwRjFQaA?oc=5",
+      "source": "Blockonomi",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "LTC & DOGE Holders Jump Ship to BlockDAG as Its Live Mainnet Beats Ethereum with 5,000 TPS!&nbsp;&nbsp;Blockonomi"
+    },
+    {
+      "title": "These Top Crypto Projects for 2025—LTC, OM, XRP, & BlockDAG Could Dominate the Market—Hold & Earn Huge Profits - Tekedia",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wc3UzM3pYR0xkYWtUMDdyOTNUZWxLcFF3TmJwZmdkc1p3cDg4NWlQSmxKbzhFMWRJakhRU0dTVXNUcjRhWVhoWnRxLThTVUwwaG5ZTl91eXdUckZ5V29UcXdVTzNndGttT2p1OXpld2c2ZHBOalZzU2dR?oc=5",
+      "source": "Tekedia",
+      "publishedAt": "Fri, 21 Mar 2025 07:00:00 GMT",
+      "snippet": "These Top Crypto Projects for 2025—LTC, OM, XRP, & BlockDAG Could Dominate the Market—Hold & Earn Huge Profits&nbsp;&nbsp;Tekedia"
+    },
+    {
+      "title": "Convert 1 LTC to 162.565 TRX | Litecoin Converter - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VRXhQbWo2eVdKd1VIRWtZcWdlV0h5OElVQTE4NGNORkdjYVlFOWpPMlp4STJ5NWh5MUNEcjJ6Y01CaE5NeXpTMDhubzJmOU80QUFlWS0tNFg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 05 Nov 2024 09:42:07 GMT",
+      "snippet": "Convert 1 LTC to 162.565 TRX | Litecoin Converter&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Top 3 Altcoins to Accumulate Right Now — TRX, XMR, and LTC - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84T2pEa2wySUY3dWhRNlRDZnpNeHhaUG11UTAxdDhHNUh5RWtKaDNJVkpPelhRTzVOcDdBRk5LTEtZU3JPVFdyNXJyQUR2NXdBa3VYa05lSGV4RWprd2fSAWNBVV95cUxQX3dRZ1hHVkQwa3ZGSHRfbkc4bHMtaGVRQ1RhMm00c3N3cHZwWk9IYXNYR2lWTkV1UFRfc0U4aDN6MXBOOGZpU0FQNTZGR3RPd2xIcTdmMFFXZTYxck9fekk1TlU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "snippet": "Top 3 Altcoins to Accumulate Right Now — TRX, XMR, and LTC&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Are Traders Leaving Litecoin (LTC)? What It Means for This OG Crypto - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45bFkxUV91M0IwZ2dxeHB2Y2s0aDN1YVN1ZWRMQS1VcWI0VVZPTm0xTFVSbGZwTlVxZmd1eVJfZGNzeUpwWFJka1lpWkgtb3lRc19zUG1KLVktNktSOEHSAWNBVV95cUxQNHppdGNCMFlvOGZqQ2E5all0b09peGE4LXRQSDhOZ25VbVI0QVE2MFcyOE5FZjJFUFJxX3ZwV1MzVVFHekh6Y0tPam5mWXc1RnNsdlY1WDZvdklySHJPVnM3bU0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 17 Jan 2026 08:00:00 GMT",
+      "snippet": "Are Traders Leaving Litecoin (LTC)? What It Means for This OG Crypto&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Litecoin Creator Says LTC Will Be ‘More Spent’ Than Bitcoin: Here’s Why - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpWEluNVdOai01NDVYeEl2cEJjYW9PeHlzVmRONWw4LVlRUHFJZEtscWhvb0RLSUFva080UkMxZGh0WGFnd1RmTzhYeEZFWFRJVFVCdzlfZ3ZiSjcxN1HSAWNBVV95cUxPOG5zQTFaUFFMbW9BN3dBUWZERzZVcTJFUm1FbnA3aGQtN2lXWnpfZnVvUFJEaS1nc1p5RmNWSERwMEYyMFpocUpFM3hVaW5RbEZ6NXZTSUsySjM3ZnVXWlNYdFk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Litecoin Creator Says LTC Will Be ‘More Spent’ Than Bitcoin: Here’s Why&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Litecoin Price Outlook to 2030: Potential Trends and Key Factors Influencing LTC Growth - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMVpRNEVPZnJnMTdqSUdaREwzYUw1RXhNRFEtdUE0VUlwVi14VVFQTnpvM3VJbGpqY2FvdHFiZzk3dXNDVUdkeHE4c0o0cWoySlFLQXRtZ2JyaWpaS2fSAWNBVV95cUxNNWw0ZXFuTDhfTnBoMnVmRHlDWlotcEhFMnE1c1NTczVudmlwcHIxLXRkaXh1cG1RQWRybmJPZXBVYW0zQkVSSkU3RnNCT1R4QmJGMHpZcTVFTTV1ZWNSd25PRHM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 28 Jun 2025 07:00:00 GMT",
+      "snippet": "Litecoin Price Outlook to 2030: Potential Trends and Key Factors Influencing LTC Growth&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Pool Supports New Merged Mining: Mine LTC and Earn Rewards in LTC, DOGE & Bellscoin (BEL) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWd4NkNCMXJoeThYVTNQQ3pob1ZidEZrQzB1QmpjclhLQnZ0bkdWOHNTb3RtYk1TV25rUWZwbUpESVJQZ1VTNmVDTmo1MjdIbVhJX2NwQnBSaXJMUVk0amRtVno1XzZmc1Y3R0p2ZjBWRklWUkpfQ1dUblFKWjFDanVJS09BVU0xOGFxcDNOQnE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 29 Sep 2024 07:00:00 GMT",
+      "snippet": "Binance Pool Supports New Merged Mining: Mine LTC and Earn Rewards in LTC, DOGE & Bellscoin (BEL)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Notice on Deposits and Withdrawals of Litecoin (LTC) Utilizing MimbleWimble Extension Blocks (MWEB) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGFwSG1oa1gzRlk4QVFiU2N5a1FmQ3JpaVpfc1ltbHhqZVJFa24zTUdseV9sLWlrWTVjU2h6YWlPX0tmRFlKR1cyUG1Td2ZsZ0RvU2dPc2poTEd3U09XNVROWFlTMDRuREJqLXlweFd0bjBBNG1rNVZsSzZ6aUNOUC1uYVJNd2J4b2xpZ2FjMWE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 13 Jun 2022 07:00:00 GMT",
+      "snippet": "Notice on Deposits and Withdrawals of Litecoin (LTC) Utilizing MimbleWimble Extension Blocks (MWEB)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Adds DOGE and LTC as New Collateral Assets on Fixed Rate Loan and CGPT as Loanable Asset on VIP Loan - 2025-01-15 | Binance Announcements - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFRZandSYkgycDlSaGtWOTVNb2M0TGw3UFhNX1hkcE8yODdoeHEwSjNyRE5QN1pKbFJKZ3pCY25JM1Y4a2RJMHFsNXh2bTJKZDE3OFlhRmRtZC0weU01UjlzV295ZFZ3b3UwSmxIMEhRNmt4cDR2X0g3WGt5bjB0WlUzc19ZOUhGNk0yYi1hZV8?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 14 Jan 2025 08:00:00 GMT",
+      "snippet": "Binance Adds DOGE and LTC as New Collateral Assets on Fixed Rate Loan and CGPT as Loanable Asset on VIP Loan - 2025-01-15 | Binance Announcements&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/binance-peg-litecoin?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}
