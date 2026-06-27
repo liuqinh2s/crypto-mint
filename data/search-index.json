@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-27T20:50:08.644Z",
+  "updatedAt": "2026-06-27T21:02:27.554Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T21:02:24.202Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "FARTCOIN",
+      "requestedInput": "FARTCOIN",
+      "name": "Fartcoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T21:02:24.473Z",
+      "latestPath": "data/results/FARTCOIN-latest.json"
+    },
+    {
+      "token": "MOODENG",
+      "requestedInput": "MOODENG",
+      "name": "MooDeng",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T21:02:27.551Z",
+      "latestPath": "data/results/MOODENG-latest.json"
+    },
+    {
+      "token": "TRUST",
+      "requestedInput": "TRUST",
+      "name": "Trust",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T21:02:22.362Z",
+      "latestPath": "data/results/TRUST-latest.json"
+    },
     {
       "token": "QNTSTOCK",
       "requestedInput": "QNTSTOCK",
@@ -20,16 +60,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T20:49:58.006Z",
       "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T20:50:02.396Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "KGEN",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T17:47:08.645Z",
       "latestPath": "data/results/TRB-latest.json"
-    },
-    {
-      "token": "LIT",
-      "requestedInput": "LIT",
-      "name": "Lighter",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T17:47:15.319Z",
-      "latestPath": "data/results/LIT-latest.json"
-    },
-    {
-      "token": "XPIN",
-      "requestedInput": "XPIN",
-      "name": "XPIN Network",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T17:32:18.532Z",
-      "latestPath": "data/results/XPIN-latest.json"
-    },
-    {
-      "token": "AWE",
-      "requestedInput": "AWE",
-      "name": "AWE Network",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T17:32:17.421Z",
-      "latestPath": "data/results/AWE-latest.json"
     }
   ]
 }
