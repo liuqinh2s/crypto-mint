@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-27T20:32:10.482Z",
+  "updatedAt": "2026-06-27T20:47:15.027Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
+      "name": "Velodrome Finance",
       "score": 30,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T20:31:57.640Z",
+      "action": "观察",
+      "generatedAt": "2026-06-27T20:47:05.467Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
@@ -18,17 +18,17 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T20:31:59.624Z",
+      "generatedAt": "2026-06-27T20:47:06.035Z",
       "latestPath": "data/results/WIF-latest.json"
     },
     {
       "token": "SOL",
       "requestedInput": "SOL",
       "name": "Solana",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T20:32:00.659Z",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T20:47:08.766Z",
       "latestPath": "data/results/SOL-latest.json"
     },
     {
@@ -38,27 +38,27 @@
       "score": 25,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-27T20:31:57.613Z",
+      "generatedAt": "2026-06-27T20:47:05.441Z",
       "latestPath": "data/results/POPCAT-latest.json"
     },
     {
       "token": "LUMIA",
       "requestedInput": "LUMIA",
-      "name": "LUMIA",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T20:32:05.855Z",
+      "name": "Lumia",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T20:47:14.190Z",
       "latestPath": "data/results/LUMIA-latest.json"
     },
     {
       "token": "KMNO",
       "requestedInput": "KMNO",
-      "name": "Kamino Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T20:32:06.047Z",
+      "name": "Kamino",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T20:47:14.422Z",
       "latestPath": "data/results/KMNO-latest.json"
     },
     {
@@ -68,7 +68,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T20:32:10.480Z",
+      "generatedAt": "2026-06-27T20:47:15.025Z",
       "latestPath": "data/results/LLY-latest.json"
     },
     {
