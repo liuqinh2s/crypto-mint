@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-06-27T09:31:04.719Z",
+  "updatedAt": "2026-06-27T09:32:36.293Z",
   "results": [
+    {
+      "token": "TIA",
+      "requestedInput": "TIA",
+      "name": "Tiamonds [OLD]",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:32:16.970Z",
+      "latestPath": "data/results/TIA-latest.json"
+    },
+    {
+      "token": "JST",
+      "requestedInput": "JST",
+      "name": "JUST",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T09:32:18.474Z",
+      "latestPath": "data/results/JST-latest.json"
+    },
+    {
+      "token": "HOT",
+      "requestedInput": "HOLO",
+      "name": "Holo",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:32:20.736Z",
+      "latestPath": "data/results/HOT-latest.json"
+    },
+    {
+      "token": "UNH",
+      "requestedInput": "UNH",
+      "name": "UnitedHealth Group",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:32:16.147Z",
+      "latestPath": "data/results/UNH-latest.json"
+    },
+    {
+      "token": "HYPER",
+      "requestedInput": "HYPER",
+      "name": "Hyper",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:32:25.903Z",
+      "latestPath": "data/results/HYPER-latest.json"
+    },
+    {
+      "token": "TUT",
+      "requestedInput": "TUT",
+      "name": "Tutorial",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T09:32:26.139Z",
+      "latestPath": "data/results/TUT-latest.json"
+    },
+    {
+      "token": "SKYAI",
+      "requestedInput": "SKYAI",
+      "name": "SKYAI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:32:32.131Z",
+      "latestPath": "data/results/SKYAI-latest.json"
+    },
+    {
+      "token": "Q",
+      "requestedInput": "Q",
+      "name": "Quack AI",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:32:29.041Z",
+      "latestPath": "data/results/Q-latest.json"
+    },
+    {
+      "token": "RESOLV",
+      "requestedInput": "RESOLV",
+      "name": "Resolv",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:32:35.924Z",
+      "latestPath": "data/results/RESOLV-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:32:33.095Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "W",
+      "requestedInput": "W",
+      "name": "Wormhole",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:32:36.291Z",
+      "latestPath": "data/results/W-latest.json"
+    },
     {
       "token": "VELVET",
       "requestedInput": "VELVET",
@@ -20,16 +130,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T09:16:58.022Z",
       "latestPath": "data/results/TIAN-latest.json"
-    },
-    {
-      "token": "HOT",
-      "requestedInput": "HOLO",
-      "name": "Holo",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:17:00.217Z",
-      "latestPath": "data/results/HOT-latest.json"
     },
     {
       "token": "RPL",
@@ -230,16 +330,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T08:47:22.250Z",
       "latestPath": "data/results/TRB-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:47:23.776Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "NMR",
@@ -910,96 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T06:47:24.771Z",
       "latestPath": "data/results/ORCA-latest.json"
-    },
-    {
-      "token": "IN",
-      "requestedInput": "IN",
-      "name": "INFINIT",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T06:47:19.242Z",
-      "latestPath": "data/results/IN-latest.json"
-    },
-    {
-      "token": "ASTER",
-      "requestedInput": "ASTER",
-      "name": "ASTER",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:47:22.782Z",
-      "latestPath": "data/results/ASTER-latest.json"
-    },
-    {
-      "token": "GRASS",
-      "requestedInput": "GRASS",
-      "name": "Grass",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T06:47:25.127Z",
-      "latestPath": "data/results/GRASS-latest.json"
-    },
-    {
-      "token": "MEW",
-      "requestedInput": "MEW",
-      "name": "Mew",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:47:27.754Z",
-      "latestPath": "data/results/MEW-latest.json"
-    },
-    {
-      "token": "FOLKS",
-      "requestedInput": "FOLKS",
-      "name": "Folks",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:47:35.776Z",
-      "latestPath": "data/results/FOLKS-latest.json"
-    },
-    {
-      "token": "ESP",
-      "requestedInput": "ESP",
-      "name": "Espresso",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T06:32:23.647Z",
-      "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "APE",
-      "requestedInput": "APE",
-      "name": "ape",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:32:21.106Z",
-      "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "SOON",
-      "requestedInput": "SOON",
-      "name": "SOON",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T06:32:23.623Z",
-      "latestPath": "data/results/SOON-latest.json"
-    },
-    {
-      "token": "STABLE",
-      "requestedInput": "STABLE",
-      "name": "Stable",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:32:22.419Z",
-      "latestPath": "data/results/STABLE-latest.json"
     }
   ]
 }
