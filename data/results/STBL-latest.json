@@ -1,0 +1,297 @@
+{
+  "token": "STBL",
+  "requestedInput": "STBL",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T12:02:20.478Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "STBL",
+    "name": "STBL",
+    "generatedAt": "2026-06-27T12:02:12.985Z",
+    "summary": "STBL近期24小时涨幅约10.5%，但7日、30日仍下跌，价格远低于历史高点。项目为RWA支持的稳定币发行平台，获OKX Ventures投资，但流通供应仅5亿枚，总供应100亿枚，存在巨大稀释压力。DEX流动性极低（约4美元），交易量极小，价格异常可能为流动性不足或操纵。新闻多为2025年旧闻，缺乏近期催化。建议强烈回避。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大利好如CEX上市、真实成交量放大、供应量减少，可重新评估。"
+    },
+    "catalysts": [
+      "OKX Ventures投资（2026年2月）",
+      "Binance期货合约上线（2025年9月）",
+      "Binance BSC交易大赛（2025年10月）"
+    ],
+    "latestNews": [
+      {
+        "title": "OKX Ventures backs STBL in partnership with Hamilton Lane and Securitize",
+        "impact": "利好",
+        "reason": "知名风投和机构合作，提升项目可信度"
+      },
+      {
+        "title": "Binance Futures Will Launch USDⓈ-Margined TOSHIUSDT and STBLUSDT Perpetual Contracts",
+        "impact": "利好",
+        "reason": "Binance上线期货合约增加交易渠道"
+      },
+      {
+        "title": "BNB Smart Chain Trading Competition: Trade AOP, STBL and BLESS to Share $2M Worth of Rewards",
+        "impact": "利好",
+        "reason": "交易大赛激励短期交易量"
+      }
+    ],
+    "fundamentals": [
+      "去中心化非托管平台，发行稳定币USST和YLD",
+      "RWA（真实世界资产）支持，与Hamilton Lane、Securitize合作",
+      "总供应100亿枚，流通5亿枚，流通率仅5%",
+      "当前市值约1253万美元，FDV约2.5亿美元",
+      "项目于2025年9月左右开始活跃，但价格持续下跌"
+    ],
+    "marketRead": [
+      "24小时涨幅10.5%，但成交量仅373万美元，相对市值较小",
+      "DEX流动性极低（约4美元），价格容易被操纵",
+      "价格距历史高点跌超95%，处于长期下跌趋势",
+      "30日跌幅10.7%，无明显反转信号"
+    ],
+    "risks": [
+      "流动性极低，存在滑点和操纵风险",
+      "总供应巨大，未来解锁抛压严重",
+      "价格长期下跌，缺乏买盘支撑",
+      "新闻多为2025年旧闻，近期无实质催化",
+      "项目仍处于早期，RWA稳定币竞争激烈"
+    ],
+    "watchlist": [
+      "CEX上市公告（如Kraken、Binance现货）",
+      "真实成交量是否放大",
+      "供应解锁计划",
+      "RWA抵押品透明度"
+    ],
+    "sourceNotes": [
+      "DEX数据来自Orca，流动性极低，价格可能不准确",
+      "新闻多来自2025年，时效性不足",
+      "CoinMarketCap和CoinGecko数据存在差异，需交叉验证"
+    ]
+  },
+  "profile": {
+    "id": "stbl",
+    "symbol": "STBL",
+    "name": "STBL",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "BNB Chain Ecosystem",
+      "Real World Assets (RWA)",
+      "Stablecoin Issuer",
+      "Binance Alpha Spotlight"
+    ],
+    "homepage": [
+      "https://www.stbl.com/"
+    ],
+    "description": "STBL is a decentralized, non-custodial platform built to redefine stablecoin utility by combining yield, transparency, and real-world asset (RWA) backing. At its core, STBL is a mechanism to mint stablecoins — namely USST and YLD — with unique advantages that stand out in the DeFi ecosystem: yield without staking, no lockups, and RWA-powered growth.",
+    "marketCapRank": 1016,
+    "currentPriceUsd": 0.0250115,
+    "marketCapUsd": 12530347,
+    "fullyDilutedValuationUsd": 250606944,
+    "totalVolumeUsd": 3729891,
+    "priceChange24hPct": 10.55918,
+    "priceChange7dPct": -1.31107,
+    "priceChange14dPct": -1.97949,
+    "priceChange30dPct": -10.72094,
+    "athUsd": 0.599171,
+    "athChangePct": -95.82349,
+    "circulatingSupply": 500000000,
+    "totalSupply": 10000000000,
+    "maxSupply": 10000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 8872,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "STBL/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "D5hMvAoRU6QJgmq2RncnCfnxg75a8QbwXnqAFBWsvuwK",
+    "pairUrl": "https://dexscreener.com/solana/d5hmvaoru6qjgmq2rncncfnxg75a8qbwxnqafbwsvuwk",
+    "lastPrice": 0.2292,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 2291981372.88,
+    "fullyDilutedValuationUsd": 2292991005,
+    "marketCapUsd": 2292991005,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/d5hmvaoru6qjgmq2rncncfnxg75a8qbwxnqafbwsvuwk",
+    "pairAddress": "D5hMvAoRU6QJgmq2RncnCfnxg75a8QbwXnqAFBWsvuwK",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "BH8firpxE5sRQyCdPGof3Ped9fr6EU2FEDwDesuaQ6Pc",
+      "name": "STBL",
+      "symbol": "STBL"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.2292",
+    "priceUsd": "0.2292",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 2291981372.88,
+      "base": 9995596790,
+      "quote": 19.5443
+    },
+    "fdv": 2292991005,
+    "marketCap": 2292991005,
+    "pairCreatedAt": 1760022376000
+  },
+  "news": [
+    {
+      "title": "Convert STBL to ANG | STBL/ANG Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uX0JaUXAwXzE4LUZhR2hpV0hLaVdiZTJ0a0pfdF92Q0hMWUI0Q1NkN0lTR3NiTk5idngzYlpWYzNaUXpFME14Mi1vZW9keHlZTFVV?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Fri, 26 Jun 2026 15:51:39 GMT",
+      "snippet": "Convert STBL to ANG | STBL/ANG Conversion Calculator&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "STBL Price Today in India | STBL to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OQ2RtZGM1MmZaV0xrYUpoTGQwU2IwdzloRlFzX216UzFkb1RDbmhfQm1NLXhLT3lJRGdoRkwzdTdHTnE2WGZocG5CLTVlZUk1a0E?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 23 Jun 2026 20:01:00 GMT",
+      "snippet": "STBL Price Today in India | STBL to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "STBL Price: STBL/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84QVdoU1dKa0M3cmhpR2FIb1ZLSzcwM1h5dHB2VUlyaHZNVG00WmROM3pkMnJsMS1pallUUnd3RngySWFZMktYZlRnZTJ3b0VN?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 16 Sep 2025 15:18:19 GMT",
+      "snippet": "STBL Price: STBL/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "STBL price today, STBL to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MeFRSZkFJM2poSTNXdHFrMGZod2IzaGZRTndVb3d1SDV6anQ1clhObnAyYTdzVHhFTDVLdmxjbXF1U3NZUkFUbXBjSmh3RnczN3Ntaw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 11 Sep 2025 05:03:25 GMT",
+      "snippet": "STBL price today, STBL to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "STBL (STBL) Price Prediction 2025, 2026, 2027, 2028–2030 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HLXRIeUhERElWUzBZWXBHTng0cWt4emRRd3pncDBlazFzc1NrcXZqcnp4cF9xTHhqazBMbTR3ZEdfUjVJV3NXdzRzaDlmVnJiWkx2SG1VM3lYTW11ZWtOTE9TM1NPMm1pdmI0?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 19 Sep 2025 07:00:00 GMT",
+      "snippet": "STBL (STBL) Price Prediction 2025, 2026, 2027, 2028–2030&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "STBL Governance Token price today, STBL to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12RmlRaVhkRWItS2U0YkdMMzhzYjB1ekRUc3NPb1IweTk0cTJZbTFqSjVJZmN5UmlFNzAwVGZYYWs1Q2I4WVItVjlsMA?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 08 Oct 2025 15:14:29 GMT",
+      "snippet": "STBL Governance Token price today, STBL to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "STBL Price Explained: How This Second-Generation Stablecoin is Redefining the Market - OKX",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWcXAyUTJkS2llb3VVRUpLc29wUFdmWGxGUWdjV250X0VoVnFsNVJBQXNXN0Z5bks0d2lmN0VGSF9obkF0MlItR0JYWFVKV3ZkbTd4Xy1wMzJmLUFsNlVsVzdFMzYtTnd6V2xCMXJLVm9kcGs?oc=5",
+      "source": "OKX",
+      "publishedAt": "Tue, 30 Sep 2025 07:00:00 GMT",
+      "snippet": "STBL Price Explained: How This Second-Generation Stablecoin is Redefining the Market&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Reeve Collins Launches STBL Stablecoin For Yield Generation as MetaMask Token Is Confirmed - Tekedia",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUy1iUkxsODVLTkpQMndyY3BBcHVTTHhPR2FFdnNUZFplZmpZcnExclpXbUsyc3h1VDJmWEpLUnZLcUVrRDZEbnZJZTJzMllYTUN2U0hCMmh0aFphMlhkTm96ZDY0LWtLNDRoMzJIbnZlYjU1dFdtTDIxZ3RjYUtUR1UwMTZIdXh6bjJNSDk5QXRtU3BUQ0t1djhjSHItNWREWkhoSHR2Xy1jOWhkR3ozVmpUaDVBZw?oc=5",
+      "source": "Tekedia",
+      "publishedAt": "Tue, 23 Sep 2025 07:00:00 GMT",
+      "snippet": "Reeve Collins Launches STBL Stablecoin For Yield Generation as MetaMask Token Is Confirmed&nbsp;&nbsp;Tekedia"
+    },
+    {
+      "title": "What is STBL Crypto? A Complete Guide to the Next-Gen Yield-Bearing Stablecoin - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xdGZrN2J2VkJ3bUdSYTQ5YVNvbkkxSmpzYndSbkpKd0xJdGxRbnFtcFZsNEcxZFFxbnpGU0F6V1IxS21CbW5DWkhTS01RLUItMjFhVXREM1pHOVNMcXFqQkRJcGg3aEV6WGdjU2xyc9IBdEFVX3lxTE5KeFhuM0FHc0hiZDVld1QzMFBGNzQ0R3lLUGZIZjlPbi15bFg3MG9RX0ZZMDZlVW1YcGl2M0RsdUcyRGlqQkYta0lUUWZCcngyYlJvbXBYeUJnQTYzMUlDNjdzbUR1ZGkzdFZmeS1NQ0U2VVZW?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "snippet": "What is STBL Crypto? A Complete Guide to the Next-Gen Yield-Bearing Stablecoin&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "STBL Price | STBL Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE42MW9FMUJULXpYckZDdWJ5cF9sZ1VycC1DM3hIMG1zRGxrdTJwZ0hub0libE5fQWJ4aGpUaEVvYzRVV2NWX3U0?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 16 Sep 2025 17:27:26 GMT",
+      "snippet": "STBL Price | STBL Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Binance Airdrop Delayed, Is Kraken STBL Listing To Blame? - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVnBYeTlCZURaWnczZzZ0RzdrNDNaVTMxNHJGb08tRGVUMlNidHo0cUNSZ3Y5c2Y5NWx0Zm12WG9UTG1KMmhNemZ3XzdBNjJlZlZIZXpjazdMc19JcGt4cFhwVXNkLWFMX21JeEYtRUQyVHpPa1ZSbXI1dTJZNkdkbnVTblpEMTRCc0M3cEtyZWNUUUxiRDhqN1NodlUzLUR4c3lINVJ3?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "snippet": "Binance Airdrop Delayed, Is Kraken STBL Listing To Blame?&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "BNB Smart Chain Trading Competition: Trade AOP, STBL and BLESS to Share $2M Worth of Rewards - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0lhb291VUF3U01nRmY0WGpaa2drT3RPTTZqWTJRVFZyRGFrR3g3cUljenVURXRzdkRhbk1rQkhRaVpqem5JWkE5UWpUWVV2amdpbFdTM2NQRDhJSjhMY1RUMWdEUlZXUDdLZDNyUUVRNzlGaFRnMEFfQ3NvS0hoeXh1TTRLTEl6MGtSMFdhUlU?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 10 Oct 2025 07:00:00 GMT",
+      "snippet": "BNB Smart Chain Trading Competition: Trade AOP, STBL and BLESS to Share $2M Worth of Rewards&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Futures Will Launch USDⓈ-Margined TOSHIUSDT and STBLUSDT Perpetual Contracts (2025-09-17) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWF0ZDlwVGJSVzRmRERlQ3RkVk9XcG4tcXRpYi0zampUSHhGeGNDRkc2WHB4a202c3VIYzZaUk43QVp4UFBDVkRuRlVYSDRqOVlRbXpfdDllZ2tuT0RTQ1VzaGRKN1dPLVdNWkdmUkNPQk5uXzRjWFU3NVpCdTMzdldZTFFJU0lWX3ZSbkVfUEQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "snippet": "Binance Futures Will Launch USDⓈ-Margined TOSHIUSDT and STBLUSDT Perpetual Contracts (2025-09-17)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "OKX Ventures backs STBL in partnership with Hamilton Lane and Securitize - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeVpTQjRxQzlZbllZM19CVm1wSFB5U2Jody14NFJ3WEsxRy1iZDh4WU9hSTRmNDJRSlg0QXhWTTJvdDMtNnhVOFZUYjU5UVVvWVA4eEZVanQ1MW04aXhvekQ4VjRzMHJ5U1BHOVZubS1YNmJkMF84eU9aRHoyd2x3Y3hwS2M3WG5BZ2ljbWNYVFB1Uy1ZeklhWDZ5ZkdWa3dPZXdyWGJyM3RQQ1pKVXdCQnNNY0xvNEoz?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "snippet": "OKX Ventures backs STBL in partnership with Hamilton Lane and Securitize&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

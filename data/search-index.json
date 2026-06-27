@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-06-27T11:51:53.647Z",
+  "updatedAt": "2026-06-27T12:02:22.294Z",
   "results": [
+    {
+      "token": "QNTSTOCK",
+      "requestedInput": "QNTSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T12:02:15.865Z",
+      "latestPath": "data/results/QNTSTOCK-latest.json"
+    },
+    {
+      "token": "WIF",
+      "requestedInput": "WIF",
+      "name": "dogwifhat",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T12:02:20.054Z",
+      "latestPath": "data/results/WIF-latest.json"
+    },
+    {
+      "token": "GPS",
+      "requestedInput": "GPS",
+      "name": "GoPlus Security",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T12:02:21.333Z",
+      "latestPath": "data/results/GPS-latest.json"
+    },
+    {
+      "token": "STBL",
+      "requestedInput": "STBL",
+      "name": "STBL",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T12:02:20.478Z",
+      "latestPath": "data/results/STBL-latest.json"
+    },
+    {
+      "token": "MINDAI",
+      "requestedInput": "INDA",
+      "name": "MindAi",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T12:02:22.291Z",
+      "latestPath": "data/results/MINDAI-latest.json"
+    },
     {
       "token": "SOL",
       "requestedInput": "SOL",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T08:06:47.540Z",
       "latestPath": "data/results/LAYER-latest.json"
-    },
-    {
-      "token": "BAN",
-      "requestedInput": "BAN",
-      "name": "BAN",
-      "score": 2,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:06:53.341Z",
-      "latestPath": "data/results/BAN-latest.json"
-    },
-    {
-      "token": "SYN",
-      "requestedInput": "SYN",
-      "name": "Synapse",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:06:57.591Z",
-      "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "ACU",
-      "requestedInput": "ACU",
-      "name": "ACU",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T08:06:59.294Z",
-      "latestPath": "data/results/ACU-latest.json"
-    },
-    {
-      "token": "CARV",
-      "requestedInput": "CARV",
-      "name": "CARV",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:07:11.207Z",
-      "latestPath": "data/results/CARV-latest.json"
-    },
-    {
-      "token": "JTO",
-      "requestedInput": "JTO",
-      "name": "Jito",
-      "score": 65,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T08:07:08.199Z",
-      "latestPath": "data/results/JTO-latest.json"
     }
   ]
 }

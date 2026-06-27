@@ -1,0 +1,195 @@
+{
+  "token": "MINDAI",
+  "requestedInput": "INDA",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T12:02:22.291Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MINDAI",
+    "name": "MindAi",
+    "generatedAt": "2026-06-27T12:02:16.314Z",
+    "summary": "MINDAI是BSC链上PancakeSwap的极低市值代币，流动性仅2.1万美元，24小时交易量仅0.15美元，几乎无交易活动。无明确上涨催化剂，基本面薄弱，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现重大利好（如知名机构投资、实际应用落地），否则逻辑始终失效。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "MindAI price today, MDAI to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "仅为价格追踪页面，无实质内容。"
+      }
+    ],
+    "fundamentals": [
+      "代币名称MindAi，符号MINDAI，部署于BSC链。",
+      "创建于2025年2月14日，距今已超过1年。",
+      "总供应量与市值均为11,527美元，无流通量信息。",
+      "项目无官网、白皮书或社交媒体信息。"
+    ],
+    "marketRead": [
+      "当前价格0.00001152美元，24小时价格变化无数据。",
+      "24小时交易量仅0.15美元，流动性2.1万美元，但几乎无实际交易。",
+      "无历史价格数据，无法判断趋势。"
+    ],
+    "risks": [
+      "极低流动性：2.1万美元的流动性可能无法支撑大额交易，存在滑点和操纵风险。",
+      "无交易活动：24小时交易量几乎为零，代币可能已死亡。",
+      "信息不透明：无官网、白皮书、团队信息，项目背景不明。",
+      "合约风险：未开源或未审计，可能存在后门或漏洞。",
+      "市值极低：仅1.15万美元，极易被操纵或归零。"
+    ],
+    "watchlist": [
+      "关注是否有新的交易量或价格异动。",
+      "检查合约是否开源及审计报告。",
+      "留意项目方是否发布任何官方信息。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，缺乏其他可靠数据源。",
+      "新闻条目为CoinMarketCap的通用价格页面，无实质信息。"
+    ]
+  },
+  "profile": {
+    "id": "0xdb02b618e307bD13A7736Bd2E2bf47B0E200dBbc",
+    "symbol": "MINDAI",
+    "name": "MindAi",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x6006048663311d0281149d973caa014c01d6b5a8",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00001152,
+    "marketCapUsd": 11527,
+    "fullyDilutedValuationUsd": 11527,
+    "totalVolumeUsd": 0.15,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-02-14",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x6006048663311D0281149d973caa014C01d6b5a8",
+    "baseTokenAddress": "0xdb02b618e307bD13A7736Bd2E2bf47B0E200dBbc",
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "liquidityUsd": 21052.29,
+    "pairUrl": "https://dexscreener.com/bsc/0x6006048663311d0281149d973caa014c01d6b5a8",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "MindAi/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x6006048663311D0281149d973caa014C01d6b5a8",
+    "pairUrl": "https://dexscreener.com/bsc/0x6006048663311d0281149d973caa014c01d6b5a8",
+    "lastPrice": 0.00001152,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.15,
+    "liquidityUsd": 21052.29,
+    "fullyDilutedValuationUsd": 11527,
+    "marketCapUsd": 11527,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x6006048663311d0281149d973caa014c01d6b5a8",
+    "pairAddress": "0x6006048663311D0281149d973caa014C01d6b5a8",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0xdb02b618e307bD13A7736Bd2E2bf47B0E200dBbc",
+      "name": "MindAi",
+      "symbol": "MindAi"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.00000002047",
+    "priceUsd": "0.00001152",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.15,
+      "h6": 0.15,
+      "h1": 0.15,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 21052.29,
+      "base": 945423661,
+      "quote": 18.03806
+    },
+    "fdv": 11527,
+    "marketCap": 11527,
+    "pairCreatedAt": 1739516032000
+  },
+  "news": [
+    {
+      "title": "MindAI price today, MDAI to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11dWN5akRNQkZocUI2Ul9DWWRjMW5JMHg0TXVlSHB0OEhXYVV4V3UtajhQMXg4VWlNaW5NXzVWaEdkcE1oQ3dRcW1ZOWlOcnh0Q2JyNlhrWQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 21 Mar 2024 13:38:15 GMT",
+      "snippet": "MindAI price today, MDAI to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/vindax-coin?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}
