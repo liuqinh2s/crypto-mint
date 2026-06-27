@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-06-27T14:47:31.147Z",
+  "updatedAt": "2026-06-27T14:56:03.825Z",
   "results": [
     {
-      "token": "TIAN",
+      "token": "TIA",
       "requestedInput": "TIA",
-      "name": "TIA",
+      "name": "Tiamonds [OLD]",
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T14:47:14.996Z",
-      "latestPath": "data/results/TIAN-latest.json"
+      "generatedAt": "2026-06-27T14:55:47.338Z",
+      "latestPath": "data/results/TIA-latest.json"
     },
     {
       "token": "JST",
@@ -18,27 +18,27 @@
       "score": 45,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-27T14:47:17.063Z",
+      "generatedAt": "2026-06-27T14:55:49.627Z",
       "latestPath": "data/results/JST-latest.json"
     },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
+      "name": "Velodrome Finance",
+      "score": 35,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T14:47:15.363Z",
+      "action": "观察",
+      "generatedAt": "2026-06-27T14:55:45.771Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "GRASS",
       "requestedInput": "GRASS",
       "name": "Grass",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T14:47:19.660Z",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T14:55:47.233Z",
       "latestPath": "data/results/GRASS-latest.json"
     },
     {
@@ -48,7 +48,7 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T14:47:25.453Z",
+      "generatedAt": "2026-06-27T14:55:55.347Z",
       "latestPath": "data/results/SOON-latest.json"
     },
     {
@@ -58,8 +58,18 @@
       "score": 20,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T14:47:24.134Z",
+      "generatedAt": "2026-06-27T14:55:54.463Z",
       "latestPath": "data/results/STABLE-latest.json"
+    },
+    {
+      "token": "BR",
+      "requestedInput": "BR",
+      "name": "BR",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:55:54.201Z",
+      "latestPath": "data/results/BR-latest.json"
     },
     {
       "token": "MEW",
@@ -68,17 +78,27 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T14:47:24.100Z",
+      "generatedAt": "2026-06-27T14:55:57.034Z",
       "latestPath": "data/results/MEW-latest.json"
+    },
+    {
+      "token": "ALCH",
+      "requestedInput": "ALCH",
+      "name": "Alchemist AI",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:56:00.755Z",
+      "latestPath": "data/results/ALCH-latest.json"
     },
     {
       "token": "BICO",
       "requestedInput": "BICO",
       "name": "Biconomy",
-      "score": 5,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T14:47:28.389Z",
+      "generatedAt": "2026-06-27T14:56:03.381Z",
       "latestPath": "data/results/BICO-latest.json"
     },
     {
@@ -88,8 +108,18 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T14:47:31.145Z",
+      "generatedAt": "2026-06-27T14:56:03.822Z",
       "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "TIAN",
+      "requestedInput": "TIA",
+      "name": "TIA",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:47:14.996Z",
+      "latestPath": "data/results/TIAN-latest.json"
     },
     {
       "token": "UNH",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T10:17:10.423Z",
       "latestPath": "data/results/PANW-latest.json"
-    },
-    {
-      "token": "ETC",
-      "requestedInput": "ETC",
-      "name": "Ethereum Classic",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T10:17:11.400Z",
-      "latestPath": "data/results/ETC-latest.json"
-    },
-    {
-      "token": "RAY",
-      "requestedInput": "RAY",
-      "name": "Raydium",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T10:02:27.317Z",
-      "latestPath": "data/results/RAY-latest.json"
-    },
-    {
-      "token": "UNI",
-      "requestedInput": "UNI",
-      "name": "Uniswap",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T10:02:27.838Z",
-      "latestPath": "data/results/UNI-latest.json"
     }
   ]
 }
