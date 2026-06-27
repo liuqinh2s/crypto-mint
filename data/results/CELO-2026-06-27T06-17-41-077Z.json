@@ -1,0 +1,320 @@
+{
+  "token": "CELO",
+  "requestedInput": "CELO",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T06:17:41.077Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CELO",
+    "name": "Celo",
+    "generatedAt": "2026-06-27T06:17:32.056Z",
+    "summary": "CELO近期上涨主要受Tether USAT扩展至Celo网络、基金会回购计划以及Opera合作伙伴关系等利好驱动。但当前链上流动性极高（4.2亿美元），24小时交易量仅4.35美元，表明价格发现不足，存在操纵风险。基本面有移动端支付和稳定币生态支撑，但估值偏高（FDV 4.2亿美元），且缺乏近期价格动能。建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若24小时交易量持续低于100美元或出现大额解锁/抛售，则逻辑失效。"
+    },
+    "catalysts": [
+      "Tether USAT稳定币扩展至Celo网络（2026年3月）",
+      "Celo基金会提出CELO回购计划（2025年12月）",
+      "Opera浏览器深度合作提案（160M CELO赠款）",
+      "移动端支付应用增长及机构支持"
+    ],
+    "latestNews": [
+      {
+        "title": "Tether's USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo",
+        "impact": "利好",
+        "reason": "USAT上线Celo增加网络实用性和流动性，吸引用户和开发者。"
+      },
+      {
+        "title": "Transformative CELO Token Buyback: Celo Foundation’s Bold Plan to Boost Value",
+        "impact": "利好",
+        "reason": "回购计划减少流通供应，提振市场信心。"
+      },
+      {
+        "title": "Celo Proposes Shifting Opera to 'Long-Term Stakeholder' with 160M CELO Grant",
+        "impact": "利好",
+        "reason": "Opera作为浏览器拥有庞大用户基础，合作可带来大量新用户。"
+      }
+    ],
+    "fundamentals": [
+      "Celo是移动端优先的Layer1区块链，专注于支付和DeFi。",
+      "原生代币CELO用于治理、质押和交易费用。",
+      "生态包括cUSD、cEUR等稳定币，以及Moola Market等DeFi协议。",
+      "2021年获2000万美元机构投资，合作伙伴包括Opera、Tether等。",
+      "当前FDV约4.2亿美元，流通市值相同（假设全流通）。"
+    ],
+    "marketRead": [
+      "24小时价格变化-0.02%，几乎无波动。",
+      "24小时交易量仅4.35美元，流动性高达4.2亿美元，流动性/交易量比极高，暗示价格可能被操纵或缺乏真实交易。",
+      "无历史K线数据，无法判断趋势。"
+    ],
+    "risks": [
+      "交易量极低，价格容易被大单操纵。",
+      "链上流动性巨大但交易稀疏，可能存在虚假流动性。",
+      "代币全流通，无锁仓信息，存在抛售风险。",
+      "新闻多为预测性内容，实际进展不确定。",
+      "项目为Solana上的Meteora池，非原生Celo链，存在跨链风险。"
+    ],
+    "watchlist": [
+      "24小时交易量是否回升至正常水平（>10万美元）。",
+      "CELO回购计划的具体执行进展。",
+      "Opera合作提案的投票结果。",
+      "USAT在Celo上的实际使用数据。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，未验证链上流动性真实性。",
+      "新闻来源包括Bitget、Coinpedia等预测类文章，权威性一般。",
+      "无CEX交易数据，仅DEX数据。"
+    ]
+  },
+  "profile": {
+    "id": "AUEjGsBCNUeT3csScWTycvjgLjUPSrpWKKZA6Py5yzxy",
+    "symbol": "CELO",
+    "name": "Celo",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/4fkzvcu9gdfht6mv2oj47kg6nfxefto8pasrwmdpkwjt",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.4208,
+    "marketCapUsd": 420890362,
+    "fullyDilutedValuationUsd": 420890362,
+    "totalVolumeUsd": 4.35,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-02-05",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "4fKzVcU9gdfht6mv2oJ47Kg6NFxeFTo8pAsrwMDpkWJt",
+    "baseTokenAddress": "AUEjGsBCNUeT3csScWTycvjgLjUPSrpWKKZA6Py5yzxy",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 419890462.48,
+    "pairUrl": "https://dexscreener.com/solana/4fkzvcu9gdfht6mv2oj47kg6nfxefto8pasrwmdpkwjt",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "CELO/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "4fKzVcU9gdfht6mv2oJ47Kg6NFxeFTo8pAsrwMDpkWJt",
+    "pairUrl": "https://dexscreener.com/solana/4fkzvcu9gdfht6mv2oj47kg6nfxefto8pasrwmdpkwjt",
+    "lastPrice": 0.4208,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 4.35,
+    "liquidityUsd": 419890462.48,
+    "fullyDilutedValuationUsd": 420890362,
+    "marketCapUsd": 420890362,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/4fkzvcu9gdfht6mv2oj47kg6nfxefto8pasrwmdpkwjt",
+    "pairAddress": "4fKzVcU9gdfht6mv2oJ47Kg6NFxeFTo8pAsrwMDpkWJt",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "AUEjGsBCNUeT3csScWTycvjgLjUPSrpWKKZA6Py5yzxy",
+      "name": "Celo",
+      "symbol": "CELO"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.4208",
+    "priceUsd": "0.4208",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 2,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 4.35,
+      "h6": 3.99,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 419890462.48,
+      "base": 997624316,
+      "quote": 2.6653
+    },
+    "fdv": 420890362,
+    "marketCap": 420890362,
+    "pairCreatedAt": 1738723517000
+  },
+  "news": [
+    {
+      "title": "Celo (CELO) Price Prediction 2026, 2027 and 2030: How High Will CELO Go? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81NnVEYXFBMGRtMThLNnRmckdKUzF1SmtYQjJaV25aZEdyUEkyVVI2a1lBVk81a2Z5SGNxaWRMZ3haOUdmYWJELWFPSFcwV3ZJaEpRd0MxVzlHN3FDaHfSAWNBVV95cUxOTzdLT2xoN3BHbmpFR2pWMXQ3MC1RWlg4cWpGdUpqODU4S2xuYlZGZk10VEI2QjNmY3I5dDdYQ0pGbzBVMG05Z0hjdEhnb1d0bTdSOURlMzAxMElPcU5QejhabUE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "snippet": "Celo (CELO) Price Prediction 2026, 2027 and 2030: How High Will CELO Go?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Celo (CELO) Price Prediction 2026, 2027-2030: Is Now the Best Time to Accumulate CELO? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54M3BPeUx4djMwYTg0MmgxYmo2RGpFU2tlM3M5OGVnakNCNTB4QzhGUzJOd2hkUXgweGJNMUZNZEFZa0tEd2JPUjhJejVXMFJHbUVZNzJJT1BIejhndGRXRXVXS0hEdXpJdm1RUU1R0gFzQVVfeXFMTWszbUVVdFp1SlJLZzBQdWdYYmJRUUJaeWRCaHFMYkRtZmxPREp6c183azdNT25wNnFWenJWRXY2SjRwVk1BXzZPTEt6cXNuOXA3SUV1b2VlSTFvQzB3Z1VNcGE2SUUyeEJyaXhYeEF4c3NoSQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "snippet": "Celo (CELO) Price Prediction 2026, 2027-2030: Is Now the Best Time to Accumulate CELO?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Tether's USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXzY5YUJNRWNFUFV1cmllaXlEdFJ4NFhwM1QyS1ItV2JyOTl5dlg1T2NNRmJlMlhYUEZtcVoxNVF6M1JITk9WYVkyY25FaXBCRXBlSXZjMWRHNUhZejlRbnd4d3ZKQmpEWEtueDY2WEJLdmY4djJlTEZaaElZNUtEM0lSbzFlZ9IBjgFBVV95cUxPcmdEd0s2TndLeVhBNHlrV25aWG5hRHQ0NU1Xb3k3M0I4eWhYX09tZW1JUHZEV1pyUjVja3RMdk9EVUdob1JXRmJxd21UM1pVaGRhYzZld1NXRmlEUzFOSTBuWXZBdG1RakpXV1duNENmT3RTR1VPaEJNUkoxRTcyU2drcnNYWm9XY0lTU25R?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Tue, 31 Mar 2026 07:00:00 GMT",
+      "snippet": "Tether's USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "Transformative CELO Token Buyback: Celo Foundation’s Bold Plan to Boost Value - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FaUhEVFp1STVjazFZSlRFS2JESlQzQXo5RktLa3Q5dmhEdmlKTEJaSjlhVDVEUExFYmp6V1ZqdTlUN0NwczRNQmdkb1pWZi1FMlROTWdhdHNGbWpBeDhMUGwzV0hlTFFCc0xtM3ZqZUx0UGM?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "snippet": "Transformative CELO Token Buyback: Celo Foundation’s Bold Plan to Boost Value&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Celo Proposes Shifting Opera to 'Long-Term Stakeholder' with 160M CELO Grant - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEhibHlsZTVmTFFIcU05dlM3cWRPVkNGbFRkVGEyZWlyYmNOYVJ3cEVEbi1peUFQbFNTS0ZHVER0MUZHeXh3LUU1XzdGMXYtUEtQajdwX2t2S1VoXzM0aG5JZWdBRjJQeGN1cE82X3FwWGVJWTRXc05ZSURpNV9SS2gtZmZoM0tLSGhhUW94amVHdmpnQmdSckR6eEl0bjI0OFFtYlgyeXdWUDBzb2hFNld4SQ?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "snippet": "Celo Proposes Shifting Opera to 'Long-Term Stakeholder' with 160M CELO Grant&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Celo Price Prediction 2026-2030: The Strategic Guide to Accumulating CELO in the Mobile-First Era - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnFfNWI0bUJkZ3ZaeWlScXRzLVNBbFBmdlo2MlBSNU55WVhkb0ZLM2JWdFFHcFliVVdyRWYybHBTSjJJRERHaHp4WkFZTkcyZXR3amdaeEFyUERab25fdDJtcjJvbFZLQTc1WEw4R2pNakd0b0Y5M3Ryd3VwQ3dEd3lMeWUwalFm?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "snippet": "Celo Price Prediction 2026-2030: The Strategic Guide to Accumulating CELO in the Mobile-First Era&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Celo Price Prediction | Is Celo a Good Investment? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BaHFPeHZIYkVmZTA1T3lfbXNwd0R6Y3dJdjI0a1NIZ2otUXN0Wl83ZEN0Q3NSZnQ1VmFmaHhUdm92MVV4VVFQUFgtQ2VReHFvak1Td1pKMkRpV3JNbS1Tb19HSjVNQjgzc214X0dwb29UVWtQakw5WQ?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Tue, 06 May 2025 12:33:55 GMT",
+      "snippet": "Celo Price Prediction | Is Celo a Good Investment?&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "160M CELO Allocation Proposal To Grow Opera From Distribution Partner into Key Network Stakeholder - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeElZRThXUS11ZExkT1U2ZmlxOXFNZDVyVndaSlhEdlRmdFJFU25GSlBhLVo1WERwUmVwZW9GZ1dTV2VoejZIbTBZelVRaFVucENLY1Nwc1B2Q3ZfTmU3YXZPa2Q5V2hyR0RRcHZKOGN6ZGJhbEdGSkF1dmRvU1VqVFc2Tm1NTjVsOWFxQS1rbUxWUV91MXZVcW9sMnRCaWYtWW53OFQtSmNGTXNLbFlwQno5cW9hYkZMSV9NQ3d4Y2h5UHJLdUN5eVgyczU0MGtub3g3d1NsVGJMZG05aVZoQ0N1RGYyRWp0eHc?oc=5",
+      "source": "PR Newswire",
+      "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "snippet": "160M CELO Allocation Proposal To Grow Opera From Distribution Partner into Key Network Stakeholder&nbsp;&nbsp;PR Newswire"
+    },
+    {
+      "title": "Celo price today, CELO to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HZmkwblQyQV9Ub2pnelYyeC1CMnVHNWlONlRBUkoyd09fd3RvdzNQSVJ6NUI2SThGUDZYWldQUFhzWTNvMkN0aEkyYnFxRTYzQmxMXw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 22 May 2020 03:51:35 GMT",
+      "snippet": "Celo price today, CELO to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Celo Receives Additional $20 Million In Institutional Backing Amid Launch Of Global Payments Application And Exponential User Growth - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxON3ZwSGdjcnpiVUhHV2VidHdUOGxRazVaMm5iWDc4amVYdWp3OURqWjdQVm56UURmRHJPcDhsMER1LWJNS1czR0FEZDhVdzdWNC1EQ1pjR0dQYmh6Nng2V05UT1E3MGRySEJrX1FZczhwQU80Uzg3MGVuVVE4elk5aTlSRE02aVFhWXVQX0lFVDROa2xVNzV5RE11dFU5UEt3ZWNoZnNXZFlOYlFJaGRrcEdDYXppOHJWQUNMc3BYTU5TZzk3di1OaGtPMmo2ZW5CUGQ0ekhtQWM5UUVvQkNjMXBZNkNMcFhZbmN6czlLNE8wcHdIUHJ0eHdLUXhSM0JBVGFneXJGSnF6NkdYR2lVMUtIb0txZw?oc=5",
+      "source": "PR Newswire",
+      "publishedAt": "Wed, 10 Feb 2021 08:00:00 GMT",
+      "snippet": "Celo Receives Additional $20 Million In Institutional Backing Amid Launch Of Global Payments Application And Exponential User Growth&nbsp;&nbsp;PR Newswire"
+    },
+    {
+      "title": "How Does Celo Influence Litecoin Value?Key Market Factors - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVnA5VVdVbDNab1hBLWp5cmN3VGRzZnVxUHZ0NTFMenptbFdvVGFKWm42UEJyUEJOR1BMM2lSUjBHeFZ5MUZtRTQ3U1dUajNZMmxsTTItb1ZEcTZITXFmbGxSWUJDdEhjVnRjb1VKWXE1X3RMbTRIeElTanNQLVhVYU96SzFxY3lOMFNVbkxCZGhuQjhG?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sun, 21 Jun 2026 13:56:54 GMT",
+      "snippet": "How Does Celo Influence Litecoin Value?Key Market Factors&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Celo Guide: Learn to buy Celo Virtually - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OdUdiZ3gwazJuaUhMOUdXR0tldF9pdVE2VjZsbzhoZlBRSjFZZXBhdXd5djZSTGE0OEx4cEd6ZmxOQkFtb1czdW54TVFXLTNSWkpMUGotSVFldVVxVDRZZ0pVZE1Zd3FsWTlzX1o2Zw?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Tue, 16 Jun 2026 04:21:10 GMT",
+      "snippet": "Celo Guide: Learn to buy Celo Virtually&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "How to easily buy Celo with USDT: Complete Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5ZEFYX2w1Ym9PZ0FvQlp0ci1YbGhMbjY5YkJSbHJPYVUydkhYeFBhbmpCdlpVZUdTYkxSM1ZLOUUtSFQ3MlZER0NpRXpadmhEVGVSdXRIQkVzMHZUVWhFc3VHRnBQbHRpVnRodHNyWm4zLS16UnZINg?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 17 Jun 2026 15:31:56 GMT",
+      "snippet": "How to easily buy Celo with USDT: Complete Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Celo (CELO) Price Prediction 2026, 2027-2030: Is Now the Best Time to Accumulate CELO? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4R0FBaWwtbExURTlVYlpJcGlGTTl3aDAyU3VfcnE3SXgwRHFqZ1U5dEdnblA2WlNkbEZGSHN1QVd6V1FWNWFCQmN6V2xTUW1EanlkRE9qNy1fUENab3fSAWNBVV95cUxOcy1PRTJRT0RFTXAwNEVnMk41VDRka0xGUWRGMjdYbVBvQmJ3ZXRoMzdoSGZMdTgwd2VRWVZwTG5VUk12amFwQmxDaXh2b0lQb0ZmcVBIU0l1ejB3YmVXdDhkMUk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "snippet": "Celo (CELO) Price Prediction 2026, 2027-2030: Is Now the Best Time to Accumulate CELO?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Celo Tutorial: Value, Fees & How to Start - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5idXhGNF9TRU5QTkY0bGdVX3k2OE5PYk95aUNoUURvaWs3WFFReldRV0Y0LXFZdkowaXBpLUdnczkxNUcyRGhSa2txUmgxRUVKbmp5cGRub1Q0dlNUbnBVblZKNEdmbkR5QnJr?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Fri, 12 Jun 2026 23:37:37 GMT",
+      "snippet": "Celo Tutorial: Value, Fees & How to Start&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Learn to buy Celo with USDT: Full Walkthrough - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1STVVLWm1rdXpzMjdMejJ0eG91a045cHBjS0JwWlU5RzJyTVFqTzR3bnBBWDlPLXNyaC1GYndYdnEzaFFGaTk3eWNwVDdSeXl4MGJZb2hUeDZaalZmVXIxOWdnVTJLWDk1ZjFOdDQtR3pDczl5T1E?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Mon, 08 Jun 2026 12:12:31 GMT",
+      "snippet": "Learn to buy Celo with USDT: Full Walkthrough&nbsp;&nbsp;Kabul University"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/celo?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}
