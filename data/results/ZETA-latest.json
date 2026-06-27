@@ -1,0 +1,319 @@
+{
+  "token": "ZETA",
+  "requestedInput": "ZETA",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T00:32:00.273Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ZETA",
+    "name": "Zeta",
+    "generatedAt": "2026-06-27T00:31:52.411Z",
+    "summary": "ZETA 24小时涨幅31.62%，但流动性极低（仅2.48万美元），成交量仅1822美元，疑似小资金拉盘。基本面有ZetaChain生态进展（AI模型访问、Solv合作），但代币即将解锁约166万美元，存在抛压风险。当前高波动低流动性，不建议追高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性显著提升至100万美元以上且解锁抛压消化后，可重新评估。"
+    },
+    "catalysts": [
+      "ZetaChain允许ZETA质押者免费访问AI模型（利好生态）",
+      "Zeta Network与Solv Bitcoin合作建立2.3亿美元BTC和SolvBTC金库（长期利好）",
+      "RWA代币化战略聚焦（机构数字金库）"
+    ],
+    "latestNews": [
+      {
+        "title": "Zetachain enables free AI model access for ZETA stakers",
+        "impact": "利好",
+        "reason": "增加质押吸引力，可能提升代币需求。"
+      },
+      {
+        "title": "RootData：ZETA 将于一周后解锁价值约 166 万美元的代币",
+        "impact": "利空",
+        "reason": "解锁增加流通供应，可能引发抛售。"
+      },
+      {
+        "title": "Zeta Network partners with Solv Bitcoin to build out a $230 million BTC and SolvBTC treasury",
+        "impact": "利好",
+        "reason": "大额合作提升项目可信度和TVL。"
+      }
+    ],
+    "fundamentals": [
+      "ZetaChain是Layer1区块链，专注于全链互操作性，与LayerZero竞争。",
+      "代币ZETA用于质押、治理和Gas费。",
+      "市值约5211万美元，FDV约7490万美元。",
+      "代币供应数据未提供，但即将解锁166万美元（约占总流通市值0.3%）。"
+    ],
+    "marketRead": [
+      "24小时涨幅31.62%，但成交量仅1822美元，流动性仅2.48万美元，表明价格容易被少量资金操纵。",
+      "无历史价格数据（ATH等缺失），无法判断相对位置。",
+      "DEX交易对，链上深度极差，大额卖出可能导致价格暴跌。"
+    ],
+    "risks": [
+      "流动性极低（2.48万美元），滑点巨大，难以大额进出。",
+      "成交量极低（1822美元），价格发现失真。",
+      "一周后代币解锁约166万美元，可能引发抛压。",
+      "项目名称与ZetaChain（ZETA）及Zeta Markets（ZEX）易混淆，注意区分。",
+      "无CEX上市信息，仅DEX交易，合约风险存在。"
+    ],
+    "watchlist": [
+      "流动性是否增加至10万美元以上。",
+      "解锁后价格表现及成交量变化。",
+      "是否有CEX上市公告。",
+      "ZetaChain主网活跃度及TVL数据。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，缺乏CEX数据。",
+      "新闻中部分内容涉及不同项目（如Zeta Markets、Zeta Global），需甄别。",
+      "代币供应数据缺失，解锁信息来自RootData。"
+    ]
+  },
+  "profile": {
+    "id": "0xf091867EC603A6628eD83D274E835539D82e9cc8",
+    "symbol": "ZETA",
+    "name": "Zeta",
+    "categories": [
+      "ethereum",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on ethereum / uniswap. Pair URL: https://dexscreener.com/ethereum/0x011a8d01db299bd16b64e2a26c295566259b61d613c4253f317ab2fad88e1b0a",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.03566,
+    "marketCapUsd": 52116910,
+    "fullyDilutedValuationUsd": 74902292,
+    "totalVolumeUsd": 1822.05,
+    "priceChange24hPct": 31.62,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-01-30",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x011a8d01db299bd16b64e2a26c295566259b61d613c4253f317ab2fad88e1b0a",
+    "baseTokenAddress": "0xf091867EC603A6628eD83D274E835539D82e9cc8",
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "liquidityUsd": 24822.94,
+    "pairUrl": "https://dexscreener.com/ethereum/0x011a8d01db299bd16b64e2a26c295566259b61d613c4253f317ab2fad88e1b0a",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "ZETA/ETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x011a8d01db299bd16b64e2a26c295566259b61d613c4253f317ab2fad88e1b0a",
+    "pairUrl": "https://dexscreener.com/ethereum/0x011a8d01db299bd16b64e2a26c295566259b61d613c4253f317ab2fad88e1b0a",
+    "lastPrice": 0.03566,
+    "priceChange24hPct": 31.62,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 1822.05,
+    "liquidityUsd": 24822.94,
+    "fullyDilutedValuationUsd": 74902292,
+    "marketCapUsd": 52116910,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x011a8d01db299bd16b64e2a26c295566259b61d613c4253f317ab2fad88e1b0a",
+    "pairAddress": "0x011a8d01db299bd16b64e2a26c295566259b61d613c4253f317ab2fad88e1b0a",
+    "labels": [
+      "v4"
+    ],
+    "baseToken": {
+      "address": "0xf091867EC603A6628eD83D274E835539D82e9cc8",
+      "name": "Zeta",
+      "symbol": "ZETA"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "priceNative": "0.00002260",
+    "priceUsd": "0.03566",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 4,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 12,
+        "sells": 3
+      }
+    },
+    "volume": {
+      "h24": 1822.05,
+      "h6": 128.78,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": 3.04,
+      "h24": 31.62
+    },
+    "liquidity": {
+      "usd": 24822.94,
+      "base": 306207,
+      "quote": 8.8093
+    },
+    "fdv": 74902292,
+    "marketCap": 52116910,
+    "pairCreatedAt": 1769806199000
+  },
+  "news": [
+    {
+      "title": "ZetaChain (ZETA) Price Prediction 2026 2027 2028 - 2040 - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TQWhubmlzcHFtNnlGVC1SQVFxZTJCdmRmOXA2Y0VvYmxLaFJxZ0JZLUNCWlpXQjVSQjMtWm9TRmhHMWoyVXJmd1ZYVm9zSWEzX0NaNE1vZ2tDNjFsNExkVmJuVm5sbUhPRXdB?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Fri, 26 Jun 2026 22:55:14 GMT",
+      "snippet": "ZetaChain (ZETA) Price Prediction 2026 2027 2028 - 2040&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "RootData：ZETA 将于一周后解锁价值约 166 万美元的代币 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3QmRTTDczU0ctLW1RWnJTNWpTWGdQUkVvV1J1M0RRN3cybnJPYVdudEk0TzM1YTZ1cGhibm4tbjhEem54aDJickthSVcwTlM3Y1UyekppM28?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 24 Jun 2026 10:31:24 GMT",
+      "snippet": "RootData：ZETA 将于一周后解锁价值约 166 万美元的代币&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Zetachain enables free AI model access for ZETA stakers - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFZDdsbThJa2ZSdlhzd1FQb3VBdXZwdnRMSEticVo5R0U3TlNob2JqNGdfTWRvcElhLUF2VngxOHhId01Ydks2UU5xZkt2a2ZHaGJDQ1UtSFhqUE5UMmdkTVM2UdIBY0FVX3lxTFBFZDdsbThJa2ZSdlhzd1FQb3VBdXZwdnRMSEticVo5R0U3TlNob2JqNGdfTWRvcElhLUF2VngxOHhId01Ydks2UU5xZkt2a2ZHaGJDQ1UtSFhqUE5UMmdkTVM2UQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 25 Jun 2026 05:29:34 GMT",
+      "snippet": "Zetachain enables free AI model access for ZETA stakers&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "ZetaChain Price Today in India | ZETA to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sX2FCd2dpU1d3RzBIVzBTSW5MNlQxbk9veTFKQXFuUDJRdnJnV1JMT3YyQWNMUDZWYXplN3BzcGRYV29Ud0I0ZHktMGdKbVdsMkNlT1h2ZVk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 22 Jun 2026 05:45:00 GMT",
+      "snippet": "ZetaChain Price Today in India | ZETA to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "ZetaChain - ZETA - Stock Price & News - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6b216WkItNGNJSHRaZk9uWi1qQlVqc3pscU9SSWhRbDdDeFNZdGl1Mk5zcHBZR3VEQVhZaWxqNmgtVWIzS21Na2pYdGM4em9x?oc=5",
+      "source": "The Motley Fool",
+      "publishedAt": "Wed, 17 Sep 2025 16:26:48 GMT",
+      "snippet": "ZetaChain - ZETA - Stock Price & News&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "title": "Zeta Network partners with Solv Bitcoin to build out a $230 million BTC and SolvBTC treasury - The Block",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWHhaejFJRURCQzZLcGxCMkgwRURQQ2dvSWZOOHJTc3FqSWo3YVBmV2U4YzdBMmt5eDdtenR5c0V4cTJrMkhuTVlCZlBpdE5wZGRyUmpiczNjVV91cjJyZXU5MDVCcTdFbTYxV1JUanFXdk84RlplWUJkRENjdC01ZUpCUVRVMktGdTlOMkNTWFN6WHE4Zl9USmFudzVhZENBcG1KSkp5NjB0UTFsYzBBb2hibUpkcXliSVhLV0Q1a2FtZnFES3c?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "snippet": "Zeta Network partners with Solv Bitcoin to build out a $230 million BTC and SolvBTC treasury&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "$2.5B TVL: Zeta Network Group Partners with SOLV to Advance Bitcoin-Centric Finance Across Chains - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTEVpWG1JaHlFUU95Q3ltbXhNdUY0bEREdjNiYmJUVkdJSHBhYmR5emQwaGN6amVNYWx4R0NaLVpCSHBRNGFGaFY1UGpDQVk3SG9NTlBHazVYejBRbDlVNXVaRC11djVxT1BYMHVsNFlCMkU3Qi1LZUtTSmtLdlkyeVFBaGIzUkhyVUhiUkZfTy1YM3dhSkxNd2NpMDdLZFp4akl4SmFsQnFIYWZ3enhZU19PQXZyS29FQUJhcW04cw?oc=5",
+      "source": "Stock Titan",
+      "publishedAt": "Tue, 07 Oct 2025 07:00:00 GMT",
+      "snippet": "$2.5B TVL: Zeta Network Group Partners with SOLV to Advance Bitcoin-Centric Finance Across Chains&nbsp;&nbsp;Stock Titan"
+    },
+    {
+      "title": "ZetaChain (ZETA) is Now Listed on INDODAX! - INDODAX",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pVUlfSXE0ZGdDSXhqbFRFZXR1VlowQ3FOM3FNQlA2VFZXTmdldm9EeGF4T1RuNUNBcVRhUEtwdWtQSTdiWEJwa3NKRVMxeXpWaXBTQmNESm9qdmFLYVVJeUw3Y25NNVNaZFhReHI2ZkZCT0FhRFZfQ0xsTQ?oc=5",
+      "source": "INDODAX",
+      "publishedAt": "Tue, 05 Mar 2024 08:00:00 GMT",
+      "snippet": "ZetaChain (ZETA) is Now Listed on INDODAX!&nbsp;&nbsp;INDODAX"
+    },
+    {
+      "title": "Buy Zeta Markets in Myanmar: Best Ways, Fees & Method - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzRnY0ZnV4bW5BdXVjdWowS0hOTHNsa1VPZDA4ZlBtN1BCRlB5ek1hMmM4RlFlMWZTOVhQZUFUbk5zNHlQTWwxSWRLZF9ENkU4WmNUNWlBQ1VFa3lwSEY1NzcyN21reXFnWkRLQ0VnM2hsT2hldzFOUUwxNDNNelk?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Thu, 18 Jun 2026 03:00:24 GMT",
+      "snippet": "Buy Zeta Markets in Myanmar: Best Ways, Fees & Method&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Zeta Markets airdrops ZEX token, price leaps 132% - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ralpRekpIUkJGY2xBUG1uek1sYldzVzlrMDVRMmVYYzZXcElNNWdjTkJBQVZtbTkzNUxOa2VJNUdnTGZlUmt3SjZfaVRrRWJyc2VhS2VkLTlPdldYQUE?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Thu, 27 Jun 2024 07:00:00 GMT",
+      "snippet": "Zeta Markets airdrops ZEX token, price leaps 132%&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "ZetaChain - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBNLWZ1bXp4bmlvQUlQbV9KSU1vWDZ6NlNCVXlicGxqbE1Idi0zYWNmS3dVeFlmZzlHSHltdnpFZFM3aTNZZlE?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Thu, 01 Feb 2024 08:00:00 GMT",
+      "snippet": "ZetaChain&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Zeta is the biggest competitor of LayerZero. The two heroes compete for hegemony with full-chain interoperability. Brand airdrops. - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oWXBOSzJNa2RNZWZJYmRXeC14TzhlYVRWOTFhaWdkTTRpdjNUcTlkYmdhODdlVGhwcHQ0cFVrTEk2dllueTRqTGFLQUVkTjhQbG9UV282U1EzUQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 30 Aug 2023 07:00:00 GMT",
+      "snippet": "Zeta is the biggest competitor of LayerZero. The two heroes compete for hegemony with full-chain interoperability. Brand airdrops.&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Best App to buy Zeta Markets: Perks, Fees & Steps - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83Y1RJMGtIdjNFWUpFcEtINlFITkI3LW5vSlZ4YlgzeExodXJqaktyUFVHMkFFbUtUZWRtTmFJaEd2LS1VMGUwWmJYaENNdGhxMGdvbTB1SE5DQ19BRmhKYjhzX09vSDVlZFVXM1MyUFVzaTE3Y29FaVVR?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Mon, 08 Jun 2026 22:53:58 GMT",
+      "snippet": "Best App to buy Zeta Markets: Perks, Fees & Steps&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Zeta Airdrop Starts June 27: Here’s How to Claim $ZEX Tokens - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3FqcmpUbTUwOUNWMHpJSzBtWE9ZY0RsdDkyUkNMUzF5VUhVZjlsQTZ5M0N6Rmg3MzlKX05pbUwzaE9IMlNlVnBYcHJxX0lxdG1qZjk1OXNjWVRDSGhtUkF4WTdHUVVac1lyN3pZRFgtb2p5TVdNVDRLYVNhaWFTMHdfVXZGLTFyd1hQUllsT2JJQlJRYkQzelowcw?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Thu, 27 Jun 2024 07:00:00 GMT",
+      "snippet": "Zeta Airdrop Starts June 27: Here’s How to Claim $ZEX Tokens&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Zeta Network Group Outlines Strategic Focus on Real-World Asset Tokenisation as Part of Institutional Digital Treasury Strategy - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83TldsU2liNk5MZkMyU0lfVWNPTS03SUtLN0EtZHIxLVByeVZPdkFWWjNtQ0ZNNWFFV1JFT1dvRUhLZ0JnUlBTWm1yZTBjb0FTeTBwaVc5dTg2R1pnb1HSAWNBVV95cUxQMV9kMzdTbFg1N0R4OUZfVl9jY005VGRmUnN5U1FTNGtPT0ZILVlDMWlBWTZFVW5xY00zTjJJZHF2R2I4dUhqVGczRmNvRnFYRHJPQ19FV1g2UDJIWWg3Ui1tMUU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "Zeta Network Group Outlines Strategic Focus on Real-World Asset Tokenisation as Part of Institutional Digital Treasury Strategy&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Amplitude, Toast, Zeta Global, Teradata, and SoundHound AI Stocks Trade Down, What You Need To Know - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tVVhBYnFfOXQ2UjlIY25VTUhuazl2X3NSMmQ1bndFaGtQMjNnckZKMzMwV0t5VHhmSmxoOWV6S1VDU25rU09hY1A1THNZNDdTd2JReVdmejIzaGM4V2fSAWNBVV95cUxNMnRuQUw3dlhLdTNaOW51T21laDNWQlp3eTJnX1Q1Mm9FSmR6c2RPeW9MU2NZUzRVc09TZ1dYWnFzdmtrT1JfMGIzMW5EVzhjSEFOX1NLeEZHX2c3YUpDdC00REk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "Amplitude, Toast, Zeta Global, Teradata, and SoundHound AI Stocks Trade Down, What You Need To Know&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/zeta?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}
