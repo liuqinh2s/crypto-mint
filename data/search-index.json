@@ -1,24 +1,14 @@
 {
-  "updatedAt": "2026-06-27T21:32:24.512Z",
+  "updatedAt": "2026-06-27T21:47:00.223Z",
   "results": [
-    {
-      "token": "TIA",
-      "requestedInput": "TIA",
-      "name": "Tiamonds [OLD]",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T21:32:14.987Z",
-      "latestPath": "data/results/TIA-latest.json"
-    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 30,
+      "score": 35,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T21:32:16.755Z",
+      "action": "观察",
+      "generatedAt": "2026-06-27T21:46:56.470Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
@@ -28,7 +18,7 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T21:32:17.739Z",
+      "generatedAt": "2026-06-27T21:46:56.839Z",
       "latestPath": "data/results/NAORIS-latest.json"
     },
     {
@@ -38,7 +28,7 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T21:32:20.054Z",
+      "generatedAt": "2026-06-27T21:46:57.368Z",
       "latestPath": "data/results/KAITO-latest.json"
     },
     {
@@ -48,18 +38,28 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T21:32:21.236Z",
+      "generatedAt": "2026-06-27T21:46:54.455Z",
       "latestPath": "data/results/SQQQ-latest.json"
     },
     {
       "token": "TRB",
       "requestedInput": "TRB",
       "name": "Tellor Tributes",
-      "score": 20,
+      "score": 25,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-27T21:32:24.509Z",
+      "generatedAt": "2026-06-27T21:47:00.221Z",
       "latestPath": "data/results/TRB-latest.json"
+    },
+    {
+      "token": "TIA",
+      "requestedInput": "TIA",
+      "name": "Tiamonds [OLD]",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T21:32:14.987Z",
+      "latestPath": "data/results/TIA-latest.json"
     },
     {
       "token": "TIAN",
