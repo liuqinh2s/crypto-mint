@@ -1,0 +1,250 @@
+{
+  "token": "OPAI",
+  "requestedInput": "OPENAI",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T15:02:27.280Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "OPAI",
+    "name": "OpenAI",
+    "generatedAt": "2026-06-27T15:02:19.271Z",
+    "summary": "OPAI是Solana上PumpSwap的Meme币，与OpenAI同名但无官方关联。24小时涨幅188%，但流动性为0，市值仅89美元，成交量异常高（约11万美元），疑似拉高出货或交易机器人刷量。基本面极差，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性恢复且市值上升至合理水平，但当前无任何支撑"
+    },
+    "catalysts": [
+      "同名OpenAI品牌热度（但无官方关联）",
+      "Worldcoin等AI概念币上涨带动情绪"
+    ],
+    "latestNews": [
+      {
+        "title": "Worldcoin (WLD) Gains 40% After OpenAI Announces Social Media Platform Rivaling Elon Musk’s X",
+        "impact": "利好",
+        "reason": "OpenAI品牌新闻可能带动同名Meme币投机"
+      },
+      {
+        "title": "Worldcoin (WLD) Nears $4B Marketcap as Sam Altman’s OpenAI Seals $300B Oracle Deal",
+        "impact": "利好",
+        "reason": "OpenAI重大合作提升品牌关注度"
+      },
+      {
+        "title": "OpenAI condemns Robinhood’s ‘OpenAI tokens’",
+        "impact": "利空",
+        "reason": "OpenAI官方反对未经授权的代币，增加法律风险"
+      },
+      {
+        "title": "What Are These OpenAI and SpaceX Stock Tokens Robinhood Is Giving Away?",
+        "impact": "中性",
+        "reason": "Robinhood提供OpenAI股票代币，但非此链上代币"
+      },
+      {
+        "title": "Worldcoin Jumps 16% After Report OpenAI Is Exploring Proof of Personhood",
+        "impact": "利好",
+        "reason": "OpenAI探索新领域，可能吸引投机资金"
+      }
+    ],
+    "fundamentals": [
+      "代币名称与OpenAI公司同名，但无任何官方关联",
+      "部署于Solana的PumpSwap，属于Meme币",
+      "总供应量和流通量未披露",
+      "市值仅89美元，流动性为0",
+      "无官网、无白皮书、无团队信息"
+    ],
+    "marketRead": [
+      "24小时涨幅188%，但流动性为0，价格极易操纵",
+      "成交量高达109,909美元，但市值仅89美元，说明大量交易为机器人刷量或对倒",
+      "无历史K线数据，无法判断趋势",
+      "PumpSwap为高风险DEX，常有蜜罐和貔貅盘"
+    ],
+    "risks": [
+      "流动性为0，无法卖出",
+      "市值极低，高度控盘，随时归零",
+      "无官方背书，OpenAI可能采取法律行动",
+      "PumpSwap合约风险，可能存在后门",
+      "新闻关联性弱，仅为同名炒作"
+    ],
+    "watchlist": [
+      "流动性是否增加",
+      "是否有官方声明或法律行动",
+      "PumpSwap合约是否被审计",
+      "市值是否持续增长"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener，流动性为0，成交量异常",
+      "新闻均为OpenAI相关，非代币本身消息",
+      "无链上持仓分布数据，无法判断大户行为"
+    ]
+  },
+  "profile": {
+    "id": "8iRyXjGuPhFptEo91PV8SiqhB7NCbwJ1LzVoAP1KmKSY",
+    "symbol": "OPAI",
+    "name": "OpenAI",
+    "categories": [
+      "solana",
+      "pumpswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / pumpswap. Pair URL: https://dexscreener.com/solana/76u26pk49vamghj2vhc4wga16badzc9v5sncsuigmygz",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00004268,
+    "marketCapUsd": 89,
+    "fullyDilutedValuationUsd": 89,
+    "totalVolumeUsd": 109909.58,
+    "priceChange24hPct": 188,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-26",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "76u26Pk49vAmGhj2VhC4wGA16BAdzC9V5SnCsuigmyGz",
+    "baseTokenAddress": "8iRyXjGuPhFptEo91PV8SiqhB7NCbwJ1LzVoAP1KmKSY",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 0,
+    "pairUrl": "https://dexscreener.com/solana/76u26pk49vamghj2vhc4wga16badzc9v5sncsuigmygz",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pumpswap",
+    "pair": "OPAI/SOL",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "76u26Pk49vAmGhj2VhC4wGA16BAdzC9V5SnCsuigmyGz",
+    "pairUrl": "https://dexscreener.com/solana/76u26pk49vamghj2vhc4wga16badzc9v5sncsuigmygz",
+    "lastPrice": 0.00004268,
+    "priceChange24hPct": 188,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 109909.58,
+    "liquidityUsd": 0,
+    "fullyDilutedValuationUsd": 89,
+    "marketCapUsd": 89,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/76u26pk49vamghj2vhc4wga16badzc9v5sncsuigmygz",
+    "pairAddress": "76u26Pk49vAmGhj2VhC4wGA16BAdzC9V5SnCsuigmyGz",
+    "baseToken": {
+      "address": "8iRyXjGuPhFptEo91PV8SiqhB7NCbwJ1LzVoAP1KmKSY",
+      "name": "OpenAI",
+      "symbol": "OPAI"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.0000005950",
+    "priceUsd": "0.00004268",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 2101,
+        "sells": 788
+      }
+    },
+    "volume": {
+      "h24": 109909.58,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": 483,
+      "h24": 188
+    },
+    "liquidity": {
+      "usd": 0,
+      "base": 101.7236,
+      "quote": 0.000001391
+    },
+    "fdv": 89,
+    "marketCap": 89,
+    "pairCreatedAt": 1782502911000
+  },
+  "news": [
+    {
+      "title": "Worldcoin (WLD) Gains 40% After OpenAI Announces Social Media Platform Rivaling Elon Musk’s X - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnRsMWUyeC1YdFd5UlFBVVdTUmREUGFjTVE2M2RhYWsydEVDZ1N5WWtaajI1VUtURVItck5sMmstc3ZRRkJoV1A0M2Y4Z1oxRzVXWFNOWF9aMUc5UU5KQVlPQzZsOWR6TXdvTFVPazRaMG9MWXJPd3IxalEzeGlQRw?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "snippet": "Worldcoin (WLD) Gains 40% After OpenAI Announces Social Media Platform Rivaling Elon Musk’s X&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Worldcoin (WLD) Nears $4B Marketcap as Sam Altman’s OpenAI Seals $300B Oracle Deal - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmhfQ0RlcFhoaXppQXI3ZGxKOHFPOEdNMXR3WGQyS3ZYLUJoLXhTM2dFQXRYaUlhWk8xc25mWmpaWmxlVGVXaDFGLUZGbm9pR1U2UjdHV04zbXJOWVVWR29wUjZhXzJVNVlKTWdmRlBhMWhVS0JzWHVuUkh1am1sTmR2X3k?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 10 Sep 2025 07:00:00 GMT",
+      "snippet": "Worldcoin (WLD) Nears $4B Marketcap as Sam Altman’s OpenAI Seals $300B Oracle Deal&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "OpenAI condemns Robinhood’s ‘OpenAI tokens’ - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWFJZWFkMlU5RHJxTmZia0ZWY3FhbGFvMDlnSmpOOTRMdUdJOGdhclFBYllFZ2JGV0NZTkl5Vm8yRVB3Q09vZzJlcnpGRk93MHZha2JSejczelVyRDA2NVdfV1l1Zko0SFVTLW9IU25FblY4UUhDSGVNLUR4dGZPSzRrMWNQbmJwS2JTbll3?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 02 Jul 2025 07:00:00 GMT",
+      "snippet": "OpenAI condemns Robinhood’s ‘OpenAI tokens’&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "What Are These OpenAI and SpaceX Stock Tokens Robinhood Is Giving Away? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTUR2S2ZRbXZCNjJhbFo5R1V0el9fQndTVjN3OVVsazZnX1RXUW5OOHVOVXhTdi1LTnRrLTlFeHpqTUlYMnByWkplNFVvcnNuclZrdXdMZEpvenpEOFVNWWtPUWxzdUM1VlFLdVV5TUYzRFNkaDNOTFVZZm5UdmtvSGtMRkNiUWlacUE?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 03 Jul 2025 07:00:00 GMT",
+      "snippet": "What Are These OpenAI and SpaceX Stock Tokens Robinhood Is Giving Away?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Worldcoin Jumps 16% After Report OpenAI Is Exploring Proof of Personhood - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnBucW5WVG8zV3lIY3V5MTc3amQ3Q0VYSFgyUW9iQ1hxckJQYjFlS1BXRWF1ejd0SUNWWjNxSmtOaVlaXzU0UWtBaUFHV2VCR3dLQzJkeGRGSXUxUTJNZVhpMmFsT2IwOGFqVHZYMXZGVmhxdWJMSkxoWU41ckpVZ2J4V3c?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "snippet": "Worldcoin Jumps 16% After Report OpenAI Is Exploring Proof of Personhood&nbsp;&nbsp;Yahoo Finance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=OPENAI: Throttled\n"
+  ]
+}
