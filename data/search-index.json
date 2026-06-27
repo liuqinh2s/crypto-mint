@@ -1,15 +1,105 @@
 {
-  "updatedAt": "2026-06-27T19:17:23.575Z",
+  "updatedAt": "2026-06-27T19:32:41.474Z",
   "results": [
+    {
+      "token": "JST",
+      "requestedInput": "JST",
+      "name": "JUST",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T19:32:23.028Z",
+      "latestPath": "data/results/JST-latest.json"
+    },
+    {
+      "token": "ESP",
+      "requestedInput": "ESP",
+      "name": "Espresso",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T19:32:23.355Z",
+      "latestPath": "data/results/ESP-latest.json"
+    },
+    {
+      "token": "APE",
+      "requestedInput": "APE",
+      "name": "ApeCoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T19:32:22.170Z",
+      "latestPath": "data/results/APE-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
+      "name": "VelodromeV2",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T19:32:22.129Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "RAY",
+      "requestedInput": "RAY",
+      "name": "Raydium",
+      "score": 40,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-27T19:16:55.091Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-27T19:32:32.418Z",
+      "latestPath": "data/results/RAY-latest.json"
+    },
+    {
+      "token": "UNI",
+      "requestedInput": "UNI",
+      "name": "UNI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T19:32:36.060Z",
+      "latestPath": "data/results/UNI-latest.json"
+    },
+    {
+      "token": "NATGAS",
+      "requestedInput": "NATGAS",
+      "name": "Natural Gas (Derivatives)",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T19:32:31.545Z",
+      "latestPath": "data/results/NATGAS-latest.json"
+    },
+    {
+      "token": "MU",
+      "requestedInput": "MU",
+      "name": "MU",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T19:32:32.578Z",
+      "latestPath": "data/results/MU-latest.json"
+    },
+    {
+      "token": "CLANKER",
+      "requestedInput": "CLANKER",
+      "name": "Clanker",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T19:32:41.472Z",
+      "latestPath": "data/results/CLANKER-latest.json"
+    },
+    {
+      "token": "SYRUP",
+      "requestedInput": "SYRUP",
+      "name": "Syrup Token",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T19:32:40.868Z",
+      "latestPath": "data/results/SYRUP-latest.json"
     },
     {
       "token": "HOT",
@@ -910,96 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T17:02:13.126Z",
       "latestPath": "data/results/MASK-latest.json"
-    },
-    {
-      "token": "AIN",
-      "requestedInput": "AIN",
-      "name": "AI Network",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:02:14.621Z",
-      "latestPath": "data/results/AIN-latest.json"
-    },
-    {
-      "token": "PENDLE",
-      "requestedInput": "PENDLE",
-      "name": "Pendle",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:02:22.763Z",
-      "latestPath": "data/results/PENDLE-latest.json"
-    },
-    {
-      "token": "GE",
-      "requestedInput": "GE",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:02:20.318Z",
-      "latestPath": "data/results/GE-latest.json"
-    },
-    {
-      "token": "PANW",
-      "requestedInput": "PANW",
-      "name": "Palo Alto Networks",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:02:19.195Z",
-      "latestPath": "data/results/PANW-latest.json"
-    },
-    {
-      "token": "AERO",
-      "requestedInput": "AERO",
-      "name": "Aerodrome Finance",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T17:02:23.526Z",
-      "latestPath": "data/results/AERO-latest.json"
-    },
-    {
-      "token": "PWR",
-      "requestedInput": "POWER",
-      "name": "Power",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:02:28.483Z",
-      "latestPath": "data/results/PWR-latest.json"
-    },
-    {
-      "token": "EIGEN",
-      "requestedInput": "EIGEN",
-      "name": "Eigen",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T17:02:30.364Z",
-      "latestPath": "data/results/EIGEN-latest.json"
-    },
-    {
-      "token": "MMT",
-      "requestedInput": "MMT",
-      "name": "MMT",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T17:02:29.380Z",
-      "latestPath": "data/results/MMT-latest.json"
-    },
-    {
-      "token": "AAVE",
-      "requestedInput": "AAVE",
-      "name": "Aave",
-      "score": 65,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T17:02:39.847Z",
-      "latestPath": "data/results/AAVE-latest.json"
     }
   ]
 }
