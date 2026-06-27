@@ -1,15 +1,95 @@
 {
-  "updatedAt": "2026-06-27T14:32:38.049Z",
+  "updatedAt": "2026-06-27T14:47:31.147Z",
   "results": [
+    {
+      "token": "TIAN",
+      "requestedInput": "TIA",
+      "name": "TIA",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:47:14.996Z",
+      "latestPath": "data/results/TIAN-latest.json"
+    },
+    {
+      "token": "JST",
+      "requestedInput": "JST",
+      "name": "JUST",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T14:47:17.063Z",
+      "latestPath": "data/results/JST-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
+      "name": "VelodromeV2",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:47:15.363Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "GRASS",
+      "requestedInput": "GRASS",
+      "name": "Grass",
       "score": 30,
       "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T14:32:26.311Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:47:19.660Z",
+      "latestPath": "data/results/GRASS-latest.json"
+    },
+    {
+      "token": "SOON",
+      "requestedInput": "SOON",
+      "name": "SOON",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:47:25.453Z",
+      "latestPath": "data/results/SOON-latest.json"
+    },
+    {
+      "token": "STABLE",
+      "requestedInput": "STABLE",
+      "name": "STABLE",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:47:24.134Z",
+      "latestPath": "data/results/STABLE-latest.json"
+    },
+    {
+      "token": "MEW",
+      "requestedInput": "MEW",
+      "name": "Mew",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:47:24.100Z",
+      "latestPath": "data/results/MEW-latest.json"
+    },
+    {
+      "token": "BICO",
+      "requestedInput": "BICO",
+      "name": "Biconomy",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:47:28.389Z",
+      "latestPath": "data/results/BICO-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:47:31.145Z",
+      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "UNH",
@@ -50,16 +130,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T14:32:32.068Z",
       "latestPath": "data/results/Q-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T14:32:33.568Z",
-      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "AGLD",
@@ -930,76 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T10:02:27.838Z",
       "latestPath": "data/results/UNI-latest.json"
-    },
-    {
-      "token": "ORCA",
-      "requestedInput": "ORCA",
-      "name": "Orca",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T10:02:25.470Z",
-      "latestPath": "data/results/ORCA-latest.json"
-    },
-    {
-      "token": "LAB",
-      "requestedInput": "LAB",
-      "name": "LAB",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T10:02:33.014Z",
-      "latestPath": "data/results/LAB-latest.json"
-    },
-    {
-      "token": "ALICE",
-      "requestedInput": "ALICE",
-      "name": "ALICE",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T10:02:33.045Z",
-      "latestPath": "data/results/ALICE-latest.json"
-    },
-    {
-      "token": "UAI",
-      "requestedInput": "UAI",
-      "name": "UAI",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T10:02:35.218Z",
-      "latestPath": "data/results/UAI-latest.json"
-    },
-    {
-      "token": "ESP",
-      "requestedInput": "ESP",
-      "name": "Espresso",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:46:52.747Z",
-      "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "APE",
-      "requestedInput": "APE",
-      "name": "ApeCoin",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:46:52.113Z",
-      "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "IN",
-      "requestedInput": "IN",
-      "name": "INFINIT",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T09:46:50.606Z",
-      "latestPath": "data/results/IN-latest.json"
     }
   ]
 }
