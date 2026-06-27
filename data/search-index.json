@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-06-27T07:02:55.172Z",
+  "updatedAt": "2026-06-27T07:17:27.487Z",
   "results": [
+    {
+      "token": "RTXSTOCK",
+      "requestedInput": "RTXSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T07:17:06.208Z",
+      "latestPath": "data/results/RTXSTOCK-latest.json"
+    },
+    {
+      "token": "USELESS",
+      "requestedInput": "USELESS",
+      "name": "USELESS",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T07:17:15.242Z",
+      "latestPath": "data/results/USELESS-latest.json"
+    },
+    {
+      "token": "OP",
+      "requestedInput": "OP",
+      "name": "Optimism",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T07:17:12.100Z",
+      "latestPath": "data/results/OP-latest.json"
+    },
+    {
+      "token": "MASK",
+      "requestedInput": "MASK",
+      "name": "Mask Network",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T07:17:11.011Z",
+      "latestPath": "data/results/MASK-latest.json"
+    },
+    {
+      "token": "GE",
+      "requestedInput": "GE",
+      "name": "unknown",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T07:17:14.583Z",
+      "latestPath": "data/results/GE-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T07:17:17.882Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "MAGM",
+      "requestedInput": "MAGMA",
+      "name": "MAGMA",
+      "score": 2,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T07:17:17.114Z",
+      "latestPath": "data/results/MAGM-latest.json"
+    },
+    {
+      "token": "MEMES",
+      "requestedInput": "INDA",
+      "name": "MemeCoinDAOai",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T07:17:18.909Z",
+      "latestPath": "data/results/MEMES-latest.json"
+    },
+    {
+      "token": "MANTA",
+      "requestedInput": "MANTA",
+      "name": "Manta",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T07:17:27.485Z",
+      "latestPath": "data/results/MANTA-latest.json"
+    },
     {
       "token": "TRADOOR",
       "requestedInput": "TRADOOR",
@@ -80,26 +170,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T07:02:46.029Z",
       "latestPath": "data/results/ALICE-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T07:02:52.188Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
-      "token": "MAGM",
-      "requestedInput": "MAGMA",
-      "name": "MAGMA",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T07:02:50.784Z",
-      "latestPath": "data/results/MAGM-latest.json"
     },
     {
       "token": "UAI",
@@ -260,16 +330,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T06:32:31.317Z",
       "latestPath": "data/results/RESOLV-latest.json"
-    },
-    {
-      "token": "MEMES",
-      "requestedInput": "INDA",
-      "name": "MemeCoinDAOai",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:32:28.126Z",
-      "latestPath": "data/results/MEMES-latest.json"
     },
     {
       "token": "W",
@@ -940,66 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T05:02:42.561Z",
       "latestPath": "data/results/JUP-latest.json"
-    },
-    {
-      "token": "CRV",
-      "requestedInput": "CRV",
-      "name": "Curve DAO Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T05:02:42.242Z",
-      "latestPath": "data/results/CRV-latest.json"
-    },
-    {
-      "token": "MMT",
-      "requestedInput": "MMT",
-      "name": "MMT",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T05:02:44.868Z",
-      "latestPath": "data/results/MMT-latest.json"
-    },
-    {
-      "token": "ICNT",
-      "requestedInput": "ICNT",
-      "name": "ICNT",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T05:02:45.806Z",
-      "latestPath": "data/results/ICNT-latest.json"
-    },
-    {
-      "token": "AAVE",
-      "requestedInput": "AAVE",
-      "name": "Aave",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T05:02:52.646Z",
-      "latestPath": "data/results/AAVE-latest.json"
-    },
-    {
-      "token": "NATGAS",
-      "requestedInput": "NATGAS",
-      "name": "Natural Gas (Derivatives)",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T05:02:52.348Z",
-      "latestPath": "data/results/NATGAS-latest.json"
-    },
-    {
-      "token": "BLESS",
-      "requestedInput": "BLESS",
-      "name": "Bless",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T05:03:00.968Z",
-      "latestPath": "data/results/BLESS-latest.json"
     }
   ]
 }
