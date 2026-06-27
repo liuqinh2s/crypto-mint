@@ -1,0 +1,340 @@
+{
+  "token": "PIEVERSE",
+  "requestedInput": "PIEVERSE",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T00:47:06.998Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "PIEVERSE",
+    "name": "Pieverse Token",
+    "generatedAt": "2026-06-27T00:46:57.856Z",
+    "summary": "Pieverse 是一个基于 BSC 的 Web3 支付基础设施项目，近期获得 700 万美元融资，但流动性极低（仅 2.1 万美元），市值却高达 1.85 亿美元，存在严重高估风险。24 小时涨幅 4.7%，但成交量仅 1.6 万美元，流动性差，买卖滑点大。代币解锁和归属信息不透明，合约风险高。不建议买入。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性改善至百万美元级别、代币经济透明、有实际用户增长"
+    },
+    "catalysts": [
+      "700 万美元融资（2025年10月）",
+      "Web3 支付赛道热度",
+      "空投活动可能吸引短期关注"
+    ],
+    "latestNews": [
+      {
+        "title": "Revolutionary Web3 Payment Infrastructure Startup Pieverse Secures $7M Funding",
+        "impact": "利好",
+        "reason": "融资表明机构认可，但已是8个月前旧闻，市场已消化"
+      },
+      {
+        "title": "Pieverse (PIEVERSE) Token Unlocks and Vesting: Schedule and Tokenomics",
+        "impact": "利空",
+        "reason": "代币解锁和归属信息不透明，可能带来抛压"
+      },
+      {
+        "title": "Pieverse Price Prediction: Is PIEVERSE a Good Investment?",
+        "impact": "中性",
+        "reason": "普通预测文章，无实质信息"
+      }
+    ],
+    "fundamentals": [
+      "Web3 支付基础设施项目",
+      "2025年10月完成 700 万美元融资",
+      "代币总供应量和流通量未公开",
+      "完全稀释估值 6120 万美元，市值 1.85 亿美元，严重偏离",
+      "项目官网 nora.it.com 域名可疑"
+    ],
+    "marketRead": [
+      "24小时涨幅 4.7%，但成交量仅 1.6 万美元，流动性 2.1 万美元",
+      "市值 1.85 亿美元 vs 流动性 2.1 万美元，极不匹配",
+      "无历史价格数据，无法判断趋势",
+      "DEX 交易对，无 CEX 上市"
+    ],
+    "risks": [
+      "流动性极低，大额交易易滑点或无法成交",
+      "市值/流动性比率极高，疑似拉高出货或流动性陷阱",
+      "代币经济不透明，解锁和归属未知",
+      "合约风险：未开源或未审计",
+      "项目官网域名非主流，可信度低",
+      "新闻多为2025年，近期无新催化"
+    ],
+    "watchlist": [
+      "流动性是否增加",
+      "代币解锁和归属信息公布",
+      "CEX 上市公告",
+      "实际产品上线和用户数据"
+    ],
+    "sourceNotes": [
+      "数据来源仅为 DexScreener 和 Google News，无链上持仓分布",
+      "代币供应量数据缺失，市值计算可能不准确",
+      "新闻多为2025年，近期无重大更新"
+    ]
+  },
+  "profile": {
+    "id": "0x0E63B9C287E32A05E6b9AB8ee8dF88A2760225A9",
+    "symbol": "PIEVERSE",
+    "name": "Pieverse Token",
+    "categories": [
+      "bsc",
+      "uniswap"
+    ],
+    "homepage": [
+      "https://nora.it.com/pieverse_io"
+    ],
+    "description": "DexScreener pair on bsc / uniswap. Pair URL: https://dexscreener.com/bsc/0x5f983a39df8bfa0763cbf3fa4321edc4f7c4b18b Socials: twitter: https://x.com/pieverse_io",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.6737,
+    "marketCapUsd": 185104192,
+    "fullyDilutedValuationUsd": 61197911,
+    "totalVolumeUsd": 16007.14,
+    "priceChange24hPct": 4.7,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-11-14",
+    "chainId": "bsc",
+    "dexId": "uniswap",
+    "pairAddress": "0x5f983A39df8bFa0763cBf3FA4321EDc4f7c4B18b",
+    "baseTokenAddress": "0x0E63B9C287E32A05E6b9AB8ee8dF88A2760225A9",
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "liquidityUsd": 21457.92,
+    "pairUrl": "https://dexscreener.com/bsc/0x5f983a39df8bfa0763cbf3fa4321edc4f7c4b18b",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "PIEVERSE/USDT",
+    "chainId": "bsc",
+    "dexId": "uniswap",
+    "pairAddress": "0x5f983A39df8bFa0763cBf3FA4321EDc4f7c4B18b",
+    "pairUrl": "https://dexscreener.com/bsc/0x5f983a39df8bfa0763cbf3fa4321edc4f7c4b18b",
+    "lastPrice": 0.6737,
+    "priceChange24hPct": 4.7,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 16007.14,
+    "liquidityUsd": 21457.92,
+    "fullyDilutedValuationUsd": 61197911,
+    "marketCapUsd": 185104192,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/bsc/0x5f983a39df8bfa0763cbf3fa4321edc4f7c4b18b",
+    "pairAddress": "0x5f983A39df8bFa0763cBf3FA4321EDc4f7c4B18b",
+    "baseToken": {
+      "address": "0x0E63B9C287E32A05E6b9AB8ee8dF88A2760225A9",
+      "name": "Pieverse Token",
+      "symbol": "PIEVERSE"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceNative": "0.6737",
+    "priceUsd": "0.6737",
+    "txns": {
+      "m5": {
+        "buys": 6,
+        "sells": 2
+      },
+      "h1": {
+        "buys": 53,
+        "sells": 11
+      },
+      "h6": {
+        "buys": 112,
+        "sells": 64
+      },
+      "h24": {
+        "buys": 399,
+        "sells": 435
+      }
+    },
+    "volume": {
+      "h24": 16007.14,
+      "h6": 2576.81,
+      "h1": 912.07,
+      "m5": 192.45
+    },
+    "priceChange": {
+      "m5": 0.45,
+      "h1": 2.52,
+      "h6": 3.71,
+      "h24": 4.7
+    },
+    "liquidity": {
+      "usd": 21457.92,
+      "base": 22715,
+      "quote": 6153.8757
+    },
+    "fdv": 61197911,
+    "marketCap": 185104192,
+    "pairCreatedAt": 1763118298000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/ea5a18a8a33444f49d4a5669f2b4f4f010b50e5fd14783798e1103bae07bf1a5?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/3c99e827d89ef0d6ceffd5f937b70e8982358091f270dd2d18dcc8181da03807?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x0e63b9c287e32a05e6b9ab8ee8df88a2760225a9?timestamp=1782521100000",
+      "websites": [
+        {
+          "url": "https://nora.it.com/pieverse_io",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/pieverse_io",
+          "type": "twitter"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Pieverse Price Prediction: Is PIEVERSE a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVGVxcFZLbl9hYUNtMmNIWUR0RFpXR2xMSEFyZGVDQno4NGx4N29IMjljM182QUdvRC13czU5dUtldG5xaGgxZDJ0aDduU2Qtb3E0d3VnSWNTbVRCb3JxNWIwSF8yVG5yWXNhVXYzSE1wV3dvU0FYZG9ZbVdqVmJ1VlFYMHZWNklQbXc?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "snippet": "Pieverse Price Prediction: Is PIEVERSE a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Pieverse Price Today in India | PIEVERSE to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5NEF6aVhBVllpdnFrWjVmSGgtWm1GelVrNm83eDZfT3BUN2M5UnFXSmVwRU82ZnBhZTR0UFlqV3BRdHZXaFdEMU9oOHlQX2tfc2ZZdUcxZw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 22 Jun 2026 20:20:00 GMT",
+      "snippet": "Pieverse Price Today in India | PIEVERSE to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Will Pieverse soar or stumble? 2025 price outlook revealed! - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZeXdGWnN4MTJKcUlmanhNcm5rbm9fdWQ4RlVyQ1dzT0drSzF3bUFXYkdzM2F2bUZCd3M4VkFMUWx0SGFCLWxRXzJWMVU4eFZ6RjEyeXhuMTJIM0V1R0VLRWVVOG4xYkVITkN6QWtPaDNTdw?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Wed, 26 Nov 2025 08:00:00 GMT",
+      "snippet": "Will Pieverse soar or stumble? 2025 price outlook revealed!&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Pieverse Token price today, PIEVERSE to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCbTBSVnVBalB5TlpNNU5MT3FtdHlDekF5V0IzT2oxLTNQUG9yTUM1RXIteV9rSFEyN2p3U2xWMnotd0tRQ215bV9tTS1NbTYwdFg0ZzhnUC0?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 21 Nov 2025 06:59:19 GMT",
+      "snippet": "Pieverse Token price today, PIEVERSE to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Pieverse Price | PIEVERSE Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VNGhRYVZYMHRWcF9RSzBXTWtNWHBIQURqUkpZeGhseGh5X0lrNExPWl94MjNhcVdINFlIOGdpcUFMWktSN1ByS0phLVM?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 24 Sep 2025 20:04:35 GMT",
+      "snippet": "Pieverse Price | PIEVERSE Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Pieverse (PIEVERSE) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Nck1aRzZTU19SbUJIWXJZcXRfaWJmWHhLWWpuempESmwxNmpwaklVcnA2ZFNzRzV3VWZqaVhtSkdtZ1ZRVDFhZFZR?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 24 Oct 2025 09:03:21 GMT",
+      "snippet": "Pieverse (PIEVERSE) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Unlock Seamless Payments: Discover the Power of Pieverse on Phemex! - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GRXRoN3ZJbFo2UTlyMm9pZnpoUkJvckdVejZaeUthdEVsMjZQaWhrSzF5UjFHVWFUbmlXVk5yUzNOTUY3eDdIX2dqMW85MGdqREljcnNGcDJGWUdKeXFQNWdScXZyeV9jTzN3NjF1SFBIRFVJaTVGRkJB?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Sun, 16 Nov 2025 08:00:00 GMT",
+      "snippet": "Unlock Seamless Payments: Discover the Power of Pieverse on Phemex!&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Pieverse Price Today | PIEVERSE to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12UUhEOFVFVHNzUVZScjdXU0NzSFhaM0l5aTk2aGg0ZmpOV1c1OTdQMUswMllZU0NpOFlfcFZ4eDVGMmVKWWctR1pNYXB0ZzhOdjZwTU5mTQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 14 Jun 2026 22:15:00 GMT",
+      "snippet": "Pieverse Price Today | PIEVERSE to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "How to sell Pieverse (Pieverse) via a crypto wallet - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RRVFDSGo0bWpxR3dJdTZGaEFPY2dxX1RpSUxrNVRVS2cyUFkxZ3lsdFlzOFNpMTBUYTBhLWRRR3R5MHFSajlFT2tpYXNIeS1XQzgwRDc0eVpYNGtPRTdF?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 23 Oct 2025 22:06:58 GMT",
+      "snippet": "How to sell Pieverse (Pieverse) via a crypto wallet&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Revolutionary Web3 Payment Infrastructure Startup Pieverse Secures $7M Funding - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XeFhBRGN1eHU2c3RHRDZVUnVvSFpOaGdGNk5tZzhNb014X0E2cnRQMDBadk43bURSOWVfUkpkeWdVUWN1SG4tOGdYVGlxWGVnM0lNS2Z5b21oOHoyWWdYVmY4ME8ybWxiUHBITldlU3M2eHdNVFVZVWhDLTBQbE0?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "snippet": "Revolutionary Web3 Payment Infrastructure Startup Pieverse Secures $7M Funding&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Pieverse Price, pieverse to USD, Research, News & Fundraising - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UREFnc084YlRXekpwX3FkVTNsT3A5aE5vOExYa3hyT3d1TEh5cXNwUFVBT0dQUllJLXFhZnZnUTY3RVZnUVRJMWs1RQ?oc=5",
+      "source": "Messari",
+      "publishedAt": "Sun, 11 May 2025 10:41:59 GMT",
+      "snippet": "Pieverse Price, pieverse to USD, Research, News & Fundraising&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "How to sell pieverse_io@@-sol (PIEVERSE) via a crypto wallet - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBaEw1dng0RmU1dDlQVVhZVXRuY0cycGNOUUQ2ZTgwX3k3eWwyamlhOERKYnlKbWFWUlpwTnVPTFZhU1p4eEpqSnpia2c1YXo0b2t3ellzVkRiMEVmUHdHb2w3dS16V1ZfWXlR?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 29 Oct 2025 20:06:03 GMT",
+      "snippet": "How to sell pieverse_io@@-sol (PIEVERSE) via a crypto wallet&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Introducing Pieverse: Complete Guide to PIEVERSE and Airdrop Opportunities - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaU10cWtmc2RCRVhKRzVPOXZJZUh6NDBpRHcyQXBiT0FrYk1EZlZhc293UnE0aHg5YVJPM19sdFBlV0Vza3lJM0NTdXQycjVVajUtZmRfUTdGT2pxMk5mbEs4bTBhWmREekNPS0x6TWQ3dHFTZWZSaGZzSXphU0pMb1VKRUdwd3BuWjBjSF9YZFVkYzd4M2w3MlJVbVRIUzhUdWJ6TGtoYXhxeDIxaVluUnJ0Yw?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Fri, 31 Oct 2025 07:00:00 GMT",
+      "snippet": "Introducing Pieverse: Complete Guide to PIEVERSE and Airdrop Opportunities&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "How to Maximize Your PIEVERSE Airdrop Points: A Complete Guide - OKX",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kX214ODlxb0daYl9Ca0VvZ1ZPbzNGVGhGWS1zT2dxajQtanhWdGhKZnlFNFpfZ1B6cEpIQ1B1RkJPTzRzNkRSVzExV2w1NFhDcW5RRjNEUDF4eUg0M3I0MlJ2YzFCS2JKWnRla1U1WnF2dw?oc=5",
+      "source": "OKX",
+      "publishedAt": "Wed, 26 Nov 2025 08:00:00 GMT",
+      "snippet": "How to Maximize Your PIEVERSE Airdrop Points: A Complete Guide&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Pieverse (PIEVERSE) Token Unlocks and Vesting: Schedule and Tokenomics - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfNmJubVdaLTVIQk51aVJTUU9MWE1nOF9WVmJvZ2hZa0hCNUlXMmR3QUZnRWlSSFduSXoweUVEUnkyemxzaFBIbk9QOFJJQ25oa2lJQjdqaw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 27 Mar 2026 04:47:44 GMT",
+      "snippet": "Pieverse (PIEVERSE) Token Unlocks and Vesting: Schedule and Tokenomics&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What is the background of Pieverse, which caught the x402 trend just before Pre-TGE? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwTTU2SldxOWs0dXo5OERMaGNVUWtPOTFNdUMwRzNIM01SRFhyUXZmb196SjhmamJ5T2hRVXdlZHNJWXpnaHNXSU80LU1NRzBlZlVwcnRucWhMSzJXNlHSAWNBVV95cUxQcldBMFduQlVMdnRwaVlCcWhGOVBsTHJTWFFxbTNYZXRXREUteldGaDZtalFhS3FJVTJVRGlXRG5PczlvY2pBZVRWbnNyLUQzQ0hiNHRJNUcxN3lOVndvN04wZTg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "snippet": "What is the background of Pieverse, which caught the x402 trend just before Pre-TGE?&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/pieverse?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}
