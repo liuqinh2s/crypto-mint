@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-27T11:47:07.560Z",
+  "updatedAt": "2026-06-27T11:51:53.647Z",
   "results": [
+    {
+      "token": "SOL",
+      "requestedInput": "SOL",
+      "name": "Solana",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T11:51:53.645Z",
+      "latestPath": "data/results/SOL-latest.json"
+    },
+    {
+      "token": "BAS",
+      "requestedInput": "BAS",
+      "name": "BNB Attestation Service",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T11:51:50.234Z",
+      "latestPath": "data/results/BAS-latest.json"
+    },
+    {
+      "token": "USDC",
+      "requestedInput": "USDC",
+      "name": "USDC",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T11:51:51.138Z",
+      "latestPath": "data/results/USDC-latest.json"
+    },
+    {
+      "token": "MU",
+      "requestedInput": "MU",
+      "name": "Micron Technology (Backpack Securities)",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T11:51:50.953Z",
+      "latestPath": "data/results/MU-latest.json"
+    },
     {
       "token": "B2",
       "requestedInput": "B2",
@@ -960,46 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-27T08:07:08.199Z",
       "latestPath": "data/results/JTO-latest.json"
-    },
-    {
-      "token": "AXS",
-      "requestedInput": "AXS",
-      "name": "Axie Infinity",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T08:02:23.415Z",
-      "latestPath": "data/results/AXS-latest.json"
-    },
-    {
-      "token": "QNTSTOCK",
-      "requestedInput": "QNTSTOCK",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:02:15.207Z",
-      "latestPath": "data/results/QNTSTOCK-latest.json"
-    },
-    {
-      "token": "WIF",
-      "requestedInput": "WIF",
-      "name": "dogwifhat",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:02:25.076Z",
-      "latestPath": "data/results/WIF-latest.json"
-    },
-    {
-      "token": "GPS",
-      "requestedInput": "GPS",
-      "name": "GPS",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:02:30.227Z",
-      "latestPath": "data/results/GPS-latest.json"
     }
   ]
 }
