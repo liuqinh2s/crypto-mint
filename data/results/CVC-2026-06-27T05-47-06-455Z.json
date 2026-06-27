@@ -1,0 +1,242 @@
+{
+  "token": "CVC",
+  "requestedInput": "CVC",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T05:47:06.455Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CVC",
+    "name": "Civic",
+    "generatedAt": "2026-06-27T05:46:59.862Z",
+    "summary": "CVC近期无显著上涨，流动性高但交易量极低，基本面缺乏新催化，且面临Binance下架杠杆交易对等利空，建议观望。",
+    "rating": {
+      "score": 20,
+      "label": "观望",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确买入逻辑，无需设置失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Binance to Delist Four Cross-Margin Pairs Including CVC and RVN on June 19",
+        "impact": "利空",
+        "reason": "Binance下架CVC杠杆交易对，减少交易渠道，可能引发抛压"
+      },
+      {
+        "title": "Convert CVC to KYD | CVC/KYD Conversion Calculator - KuCoin",
+        "impact": "中性",
+        "reason": "仅为汇率转换工具，无实质影响"
+      }
+    ],
+    "fundamentals": [
+      "Civic是一个基于以太坊的身份验证项目，代币CVC用于支付验证服务",
+      "当前市值约2134万美元，FDV相同，无通胀压力",
+      "流动性约1067万美元，流动性充足",
+      "项目历史较久，但近期无重大更新或合作"
+    ],
+    "marketRead": [
+      "24小时交易量仅0.01美元，几乎无交易活动",
+      "价格0.02144美元，无近期价格变动数据",
+      "流动性高但交易量极低，表明市场关注度极低"
+    ],
+    "risks": [
+      "交易量极低，存在流动性风险，大额交易可能造成滑点",
+      "Binance下架杠杆交易对，可能进一步降低交易活跃度",
+      "项目缺乏新叙事或催化，市场兴趣低迷",
+      "代币价格长期无波动，可能被市场遗忘"
+    ],
+    "watchlist": [
+      "是否有新的项目合作或产品更新",
+      "Binance是否完全下架CVC现货交易对",
+      "交易量是否回升至正常水平"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，未包含CEX数据",
+      "新闻多为旧闻或无关内容，缺乏近期重大事件",
+      "价格变动数据缺失，无法判断短期趋势"
+    ]
+  },
+  "profile": {
+    "id": "0xB6e354fb565ceE051D00E1dc67376b06B2B5109D",
+    "symbol": "CVC",
+    "name": "Civic",
+    "categories": [
+      "ethereum",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on ethereum / uniswap. Pair URL: https://dexscreener.com/ethereum/0xb645b67f535ae6bc4abf5c1c44218a7f8f2f81e4",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.02144,
+    "marketCapUsd": 21340489,
+    "fullyDilutedValuationUsd": 21340489,
+    "totalVolumeUsd": 0.01,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-21",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0xb645b67f535AE6bC4ABF5C1c44218a7f8f2f81E4",
+    "baseTokenAddress": "0xB6e354fb565ceE051D00E1dc67376b06B2B5109D",
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "liquidityUsd": 10670244.39,
+    "pairUrl": "https://dexscreener.com/ethereum/0xb645b67f535ae6bc4abf5c1c44218a7f8f2f81e4",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "CVC/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0xb645b67f535AE6bC4ABF5C1c44218a7f8f2f81E4",
+    "pairUrl": "https://dexscreener.com/ethereum/0xb645b67f535ae6bc4abf5c1c44218a7f8f2f81e4",
+    "lastPrice": 0.02144,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.01,
+    "liquidityUsd": 10670244.39,
+    "fullyDilutedValuationUsd": 21340489,
+    "marketCapUsd": 21340489,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0xb645b67f535ae6bc4abf5c1c44218a7f8f2f81e4",
+    "pairAddress": "0xb645b67f535AE6bC4ABF5C1c44218a7f8f2f81E4",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0xB6e354fb565ceE051D00E1dc67376b06B2B5109D",
+      "name": "Civic",
+      "symbol": "CVC"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.00001365",
+    "priceUsd": "0.02144",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.01,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 10670244.39,
+      "base": 497650569,
+      "quote": 0.0001013
+    },
+    "fdv": 21340489,
+    "marketCap": 21340489,
+    "pairCreatedAt": 1782048971000
+  },
+  "news": [
+    {
+      "title": "Convert CVC to KYD | CVC/KYD Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IOThmSm5BRjlTMGxKSm1XNm9yYVRNVUVGcElQaS1rcy12amh4QzUwTGktRUhkMWR0QkJJYWUtTXl3dnk4eDZfbEh1QmhtTTVwVkE?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Tue, 23 Jun 2026 09:00:16 GMT",
+      "snippet": "Convert CVC to KYD | CVC/KYD Conversion Calculator&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Binance to Delist Four Cross-Margin Pairs Including CVC and RVN on June 19 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPby1IRHNQNkpmWTNpV0ZtOGZieFhXd3BWOTNnZVVoMXUwQmQ0ZEpDa1pMaloxZVhYNWwzZTQ3ZGtlVW1qVDl6cE1WNDJCSVRNeEdEWjdGaHZPVTFCY2U2TEdRcTk5TW9YXzJNcWRjSFgwNklIekc5eDFCQzZ5WC1XMTJOZGxIR3RJY1A5eXhqa2U?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 16 Jun 2026 05:08:20 GMT",
+      "snippet": "Binance to Delist Four Cross-Margin Pairs Including CVC and RVN on June 19&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Civic (CVC) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SZTl6NzdSdDZUNnMyZHBhT3Y5Yy1ZdVlTMW9Hd3lGZjNiZjktMHE2YXZKZjR2UGV3blJsX3lwMnR1Skk5WUQySE1ydnlpajY3YUJLa1VqMXlMOEFmeF8tTmRRc2Exdw?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 15 Sep 2022 21:31:29 GMT",
+      "snippet": "Civic (CVC) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Civic (CVC) Price Prediction 2026 2027 2028 - 2040 - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FTkZQNTYtS0kwSHJqcWpBenA1Z29WZE9pM3l5eDFHVXJ4Y08tbFpOUFBBSV9uazUxR2Z5b1ZmLW1BVXAtVWF4eUV2VHlQNlFQVVdxdGZ6LUdpczh3Y1RnNkxsRGZNUQ?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Fri, 30 Oct 2020 11:46:09 GMT",
+      "snippet": "Civic (CVC) Price Prediction 2026 2027 2028 - 2040&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "Civic Price Today | CVC to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4OV9YLXlUdlVJaDJ1UHZESW43WlNfb2p4eExubFJvV2dzV3o3cXRNUk1LM0xjbTlZamVkdmRGX2tOT2sxTUZqcVVmOHJxb1E?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 30 Dec 2021 17:16:36 GMT",
+      "snippet": "Civic Price Today | CVC to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Civic price today, CVC to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55NnUwczVCTENrLUlkTFA1YkU0aWRGMjZweTN4aGpoQlZkNzM5WWhJWGJxbGNldXV4V3k0cGhKUHNZMGlfV0FVdTFrbUQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 06 Apr 2021 13:07:16 GMT",
+      "snippet": "Civic price today, CVC to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "CVC/COP: Convert Civic (CVC) to Colombian Pesos (COP) - Revolut",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tYlZreTdlcmFtWEN0ZUtMRGxFT3poUldlR0pmUGN5VFFZZEMweE8tVFpPWWlrYkEzOUlOdkdtUlBBS2pHS25rbmt1V1hnX0ZxbnRqUnozdW83dEFCSDlPZGtoR3RmbXdrVDc1SDhBcFdLT2M?oc=5",
+      "source": "Revolut",
+      "publishedAt": "Mon, 07 Jul 2025 16:03:27 GMT",
+      "snippet": "CVC/COP: Convert Civic (CVC) to Colombian Pesos (COP)&nbsp;&nbsp;Revolut"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/civic?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}
