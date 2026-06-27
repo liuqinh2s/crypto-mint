@@ -1,0 +1,279 @@
+{
+  "token": "APR",
+  "requestedInput": "APR",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T16:17:31.878Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "APR",
+    "name": "aPriori",
+    "generatedAt": "2026-06-27T16:17:22.568Z",
+    "summary": "APR是Solana生态的MEV基础设施项目，获Pantera等机构投资，但近期无显著利好，价格24h微跌，流动性极低，成交量仅3.99美元，市场关注度极低。历史空投丑闻（60%被同一实体领取）严重损害社区信任。当前缺乏买入催化，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": null
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Bubblemaps: 60% of the APR Token Airdrop Claimed by the Same Entity via 14,000 Addresses",
+        "impact": "利空",
+        "reason": "空投被同一实体大量集中领取，表明代币分配高度集中，存在操纵风险，严重损害项目信誉。"
+      },
+      {
+        "title": "Pantera-backed aPriori silent after one entity claims 60% of airdrop",
+        "impact": "利空",
+        "reason": "项目方对空投丑闻保持沉默，缺乏透明度，进一步削弱投资者信心。"
+      },
+      {
+        "title": "aPriori denies insider role as mystery trader claims most of APR airdrop",
+        "impact": "利空",
+        "reason": "否认内幕交易但未提供证据，市场难以信任。"
+      }
+    ],
+    "fundamentals": [
+      "aPriori是Solana上的MEV基础设施项目，曾获Pantera Capital投资。",
+      "代币APR于2025年10月上线，初始流通量未知，总供应量10亿枚。",
+      "项目方否认空投丑闻中的内幕交易，但未提供详细解释。",
+      "代币上线Binance Alpha和Binance Futures，但后续交易量极低。"
+    ],
+    "marketRead": [
+      "当前价格0.006937美元，24h跌幅0.04%，价格几乎无波动。",
+      "24h成交量仅3.99美元，流动性池约6835万美元但实际交易量极低，表明市场深度极差，买卖价差可能巨大。",
+      "无历史价格数据（ATH、7d/14d/30d变化均为null），说明该代币几乎无交易活动。"
+    ],
+    "risks": [
+      "流动性极低：24h成交量不足5美元，实际可交易性极差，大额买卖可能导致价格剧烈波动。",
+      "空投丑闻：60%代币被同一实体控制，存在高度集中风险，可能随时抛售。",
+      "缺乏市场关注：无近期新闻、无社区活跃度，价格长期低迷。",
+      "合约风险：Solana链上代币，但无审计信息或安全报告。",
+      "估值虚高：FDV约6938万美元，但几乎无交易支撑，泡沫风险大。"
+    ],
+    "watchlist": [
+      "是否有新的交易所上市或做市商引入。",
+      "项目方是否发布路线图或更新。",
+      "空投地址是否开始移动代币。",
+      "成交量是否出现显著放大。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，无CEX交易数据。",
+      "新闻均为2025年10-11月旧闻，无近期动态。",
+      "市场数据中24h成交量极低，可能为机器人交易或错误数据。"
+    ]
+  },
+  "profile": {
+    "id": "F2BdkwbNDKRCfGAVKTpJv7YncBfbXAj5Gd4LYT4hSMnu",
+    "symbol": "APR",
+    "name": "aPriori",
+    "categories": [
+      "solana",
+      "orca"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / orca. Pair URL: https://dexscreener.com/solana/hs7cgszl5pyrnsjqvghbue7ffiouf5c6foohhwvddbsn",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.006937,
+    "marketCapUsd": 69379398,
+    "fullyDilutedValuationUsd": 69379398,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.04,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-10-07",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "Hs7cgszL5pyRNSJqvGHBue7FfioUF5C6FooHhwVdDBsN",
+    "baseTokenAddress": "F2BdkwbNDKRCfGAVKTpJv7YncBfbXAj5Gd4LYT4hSMnu",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 68359115.48,
+    "pairUrl": "https://dexscreener.com/solana/hs7cgszl5pyrnsjqvghbue7ffiouf5c6foohhwvddbsn",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "APR/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "Hs7cgszL5pyRNSJqvGHBue7FfioUF5C6FooHhwVdDBsN",
+    "pairUrl": "https://dexscreener.com/solana/hs7cgszl5pyrnsjqvghbue7ffiouf5c6foohhwvddbsn",
+    "lastPrice": 0.006937,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 68359115.48,
+    "fullyDilutedValuationUsd": 69379398,
+    "marketCapUsd": 69379398,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/hs7cgszl5pyrnsjqvghbue7ffiouf5c6foohhwvddbsn",
+    "pairAddress": "Hs7cgszL5pyRNSJqvGHBue7FfioUF5C6FooHhwVdDBsN",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "F2BdkwbNDKRCfGAVKTpJv7YncBfbXAj5Gd4LYT4hSMnu",
+      "name": "aPriori",
+      "symbol": "APR"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.006937",
+    "priceUsd": "0.006937",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 68359115.48,
+      "base": 9852076693,
+      "quote": 6000.2157
+    },
+    "fdv": 69379398,
+    "marketCap": 69379398,
+    "pairCreatedAt": 1759815751000
+  },
+  "news": [
+    {
+      "title": "aPriori Price: APR/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lVTFrQWN1UERvR0doUTJEYmlBTFVJeTlsN3NvNDdYb05Xc2tJZ3Azc1NuY1lyWDlpbGF4Ym55cWtHTHdvT1NUWnVvR04tVEJzcGMycA?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Wed, 22 Oct 2025 09:39:37 GMT",
+      "snippet": "aPriori Price: APR/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "aPriori Price Today | APR to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GcE5jMF93RzFZTDVZUVJoUmNUY0xZMkJTV3FURlBvYUxmOWVFU0FHVk1qX2tsa1BOcWtReC1wc2pQMmtxNVlJQnpYdXlPRkdmeW5zeGZ3?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 18 Jun 2026 10:11:00 GMT",
+      "snippet": "aPriori Price Today | APR to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "aPriori Price, APR Price, Live Charts, and Marketcap: vyantilacoinlaunchdate, apr price, apriori crypto - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84a3pxQWFabHQybjFpU2c0ZDJmSWFOU1JQQ2NtSktzWW00bGctZTQzVVFXQWFScTk0VFo2MUJZLWZTVlFRMkdzNUU1RXlBeWs?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Wed, 08 Oct 2025 04:47:20 GMT",
+      "snippet": "aPriori Price, APR Price, Live Charts, and Marketcap: vyantilacoinlaunchdate, apr price, apriori crypto&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "aPriori Price USD, APR Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rNGZRREVzZUhsVEJfTFF5STJVUlNNN0JraFdYUlk4a0x5Y3JHa0dQM0FPczlTbFVtQ1VxYnNkZmxNSWQySHRudGVoRFZuRGs1akE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 20 Oct 2025 16:00:52 GMT",
+      "snippet": "aPriori Price USD, APR Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Research Report｜In-Depth Analysis and Market Cap of aPriori (APR) - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CaWVhZ1RBTHBMVlF2ckNuYXJ4RzRHYjNTaE9GTHU1dW9JdUt6cjVVWkRzLUhOWHZvclA1cXZya3dwQTR1a3BIeF9RTk5ZN0tZYjloRHYwV2MzTDY3MUHSAWNBVV95cUxPclJNSHZKQ1hmZ1VwdjBRQVdSdkp4LWZCZUNkQTJZZHh2c3FOdDhfU25kRFZ2alUtVVR1a3Ryam1IalotS2F3UUMwWDhZbk9hNEFPZE9abHp4c01YUU11ZFJmOFk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "snippet": "Research Report｜In-Depth Analysis and Market Cap of aPriori (APR)&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Pantera-backed aPriori silent after one entity claims 60% of airdrop - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOXBpN3V2VDdyYW5WVnpZdWtvWUhlc2xNUUpUaDdMY0dwNjRxc3pPbnZRRDJ4bWtHMmhkdWUxS0VST0tYRnB2Tm52S0RVMjlpQy15czc4RklYa1c1ZFpfLUJfSTEzbVlxOHNrdE00bnBBVmg2bE1JMkduQjVpZlN5Z1lDb2U2TVM3LTc2TFhPTjZkbWthRkNYSnpqOE04Y2tuaWVSUm0tWHZTVnVNeElRMi1HaXVoVW5hYktfZU80NWRUYURlOF90ZHNyRQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "snippet": "Pantera-backed aPriori silent after one entity claims 60% of airdrop&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "What is aPriori (APR)? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tQXVCdE4tRWloRHE1cU00RHVSalNVSkVUYmJIOHBtN2ZpUDA0R25kWGVQM1RLMm1rQ281SWYyV2NHSlo3S1hUR3pUUGgzVFk1SWJHWW40UXVHTThJajN0c1lRdXE3MF9WN3JjTDgxcVJZb2dubEN5clNvNNIBgAFBVV95cUxOVGMwcjhaNmFiN2VVZmRqVkdmaVJ2ajV6cDQ4UzJKaDBxcTRndS00MlNKZmtqTG5rTExiSE5qT0lwMXpJVkF0U3o4TG5QY0dfTkFMa0hjc2VCSU9DNkt0SUxET0FheDNlU3YtUlZLc2F1bXNObVBuMEpwNzdDZGtqTA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "snippet": "What is aPriori (APR)?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bubblemaps: 60% of the APR Token Airdrop Claimed by the Same Entity via 14,000 Addresses - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSC1IS05JQ1h3WGZpMnhrckRsU2tRZlRJRmNra1FlNFlsdGRvMWt2YlptQ0txRkpqMGk2Um15eXhTNE1wSEt6b3FnZ3JaRm91em5NVFpxbkZmVEtXTWlONFpnOW9TS3MySkwzNTZhSFROcWZHaHcyTmhfaFcxTWltWExINVhRcWxwMlBJek96U1JYQU0tdTVVSE9PMVNIU1dXSUFpQ1VBTWZOTlZUOWxkbEdMMm45WlJNd3FXNGJwSXBkb3M?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Sun, 29 Mar 2026 07:00:00 GMT",
+      "snippet": "Bubblemaps: 60% of the APR Token Airdrop Claimed by the Same Entity via 14,000 Addresses&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Airdrop Weekly Report | Jupiter announces the 2026 Jupuary airdrop plan; aPriori denies the existence of insider trading in airdrops (11.17-11.23) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95a0Y2WUJvMmlaMElQSWVXT19rMWVpQU93YkVuSE9nWnlfaXNQR2wxTGhVb2VWOHE4d1haV3o2SzlwMnlWOG03NG1EWE9yZHBYWkVKTURkVjJZc3Q5QUM5QzlVSQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 23 Nov 2025 08:00:00 GMT",
+      "snippet": "Airdrop Weekly Report | Jupiter announces the 2026 Jupuary airdrop plan; aPriori denies the existence of insider trading in airdrops (11.17-11.23)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "aPriori denies insider role as mystery trader claims most of APR airdrop - Cryptopolitan",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByamQ0a2pLaVI4TDFOQjltWkR4MDNXQkUxbjJJWFVTR1dkbzlERlFOSVhhVUNGbXhVd3lma2tDNzVGaUFyb2xWR00wY096NGJ1bGhSLTJDQVJUd0FJMkZQWWl2bWhzakNtWjhxN3RWZTA3eHBETGJlRG9n?oc=5",
+      "source": "Cryptopolitan",
+      "publishedAt": "Fri, 21 Nov 2025 08:00:00 GMT",
+      "snippet": "aPriori denies insider role as mystery trader claims most of APR airdrop&nbsp;&nbsp;Cryptopolitan"
+    },
+    {
+      "title": "aPriori (APR) Will Be Available on Binance Alpha and Binance Futures (2025-10-23) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUEtLdkJXTEs0dnJjMTl1VG5CUWxIZ1RTd0tGck1FUlFuWkd6NW1MY0VhOURrQzBtbGlNTnJvM0ZHT01wMjQwczJ6ejRENFZocXV1WEgtRlEtRnNxc1FGWmVLelJOQWVqTnVJNGZfQVJCbTg1SnA5Yk9oUkhzbmctaGVRR1BpSHlHOUZ6UGRoYTg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "snippet": "aPriori (APR) Will Be Available on Binance Alpha and Binance Futures (2025-10-23)&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=APR: Throttled\n"
+  ]
+}

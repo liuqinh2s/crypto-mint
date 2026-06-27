@@ -1,0 +1,183 @@
+{
+  "token": "SQQQ",
+  "requestedInput": "SQQQ",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T16:17:47.341Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SQQQ",
+    "name": "SQQQUSDT",
+    "generatedAt": "2026-06-27T16:17:41.976Z",
+    "summary": "SQQQ是Solana链上PumpSwap的Meme币，24小时暴涨333%，市值仅34万美元，流动性6.8万美元。无基本面支撑，无新闻催化，纯投机炒作，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无逻辑可失效"
+    },
+    "catalysts": [
+      "无明确催化剂，可能为社区拉盘或机器人交易"
+    ],
+    "latestNews": [],
+    "fundamentals": [
+      "Solana链PumpSwap上的Meme币，无官网、无白皮书、无团队信息",
+      "市值34万美元，流动性6.8万美元，深度极差",
+      "24小时交易量184万美元，换手率极高，疑似对倒或机器人刷量",
+      "代币供应量未知，合约未开源或未验证"
+    ],
+    "marketRead": [
+      "24小时涨幅333%，但无K线数据，价格波动剧烈",
+      "流动性低，大额卖出极易造成滑点和价格暴跌",
+      "交易量远大于市值，可能为短期资金博弈"
+    ],
+    "risks": [
+      "合约风险：未开源或未审计，可能存在后门或貔貅盘",
+      "流动性风险：6.8万美元流动性，大额卖出将导致价格归零",
+      "Meme币生命周期极短，通常数小时至数天",
+      "无任何基本面支撑，纯投机"
+    ],
+    "watchlist": [
+      "关注流动性变化，若大幅下降需立即警惕",
+      "监控大额卖出交易"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他来源验证",
+      "无新闻、无社区信息，无法评估真实性"
+    ]
+  },
+  "profile": {
+    "id": "RiRuThNPQRFU8GR6ccSfe7jPFVi1rCyhLUyhruCnAsT",
+    "symbol": "SQQQ",
+    "name": "SQQQUSDT",
+    "categories": [
+      "solana",
+      "pumpswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / pumpswap. Pair URL: https://dexscreener.com/solana/5a6efc8umsr83ikof1xyitvzyddvxv57e9awrh2hqkdp",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.000003443,
+    "marketCapUsd": 344349,
+    "fullyDilutedValuationUsd": 344349,
+    "totalVolumeUsd": 1846465.35,
+    "priceChange24hPct": 333,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-27",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "5A6eFC8UMSr83iKof1XYiTvzYDdVXv57E9AwRh2HQkDp",
+    "baseTokenAddress": "RiRuThNPQRFU8GR6ccSfe7jPFVi1rCyhLUyhruCnAsT",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 68537.78,
+    "pairUrl": "https://dexscreener.com/solana/5a6efc8umsr83ikof1xyitvzyddvxv57e9awrh2hqkdp",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pumpswap",
+    "pair": "SQQQ/SOL",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "5A6eFC8UMSr83iKof1XYiTvzYDdVXv57E9AwRh2HQkDp",
+    "pairUrl": "https://dexscreener.com/solana/5a6efc8umsr83ikof1xyitvzyddvxv57e9awrh2hqkdp",
+    "lastPrice": 0.000003443,
+    "priceChange24hPct": 333,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 1846465.35,
+    "liquidityUsd": 68537.78,
+    "fullyDilutedValuationUsd": 344349,
+    "marketCapUsd": 344349,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/5a6efc8umsr83ikof1xyitvzyddvxv57e9awrh2hqkdp",
+    "pairAddress": "5A6eFC8UMSr83iKof1XYiTvzYDdVXv57E9AwRh2HQkDp",
+    "baseToken": {
+      "address": "RiRuThNPQRFU8GR6ccSfe7jPFVi1rCyhLUyhruCnAsT",
+      "name": "SQQQUSDT",
+      "symbol": "SQQQ"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.00000004737",
+    "priceUsd": "0.000003443",
+    "txns": {
+      "m5": {
+        "buys": 89,
+        "sells": 31
+      },
+      "h1": {
+        "buys": 1241,
+        "sells": 452
+      },
+      "h6": {
+        "buys": 7466,
+        "sells": 2748
+      },
+      "h24": {
+        "buys": 11687,
+        "sells": 4286
+      }
+    },
+    "volume": {
+      "h24": 1846465.35,
+      "h6": 1187325.78,
+      "h1": 196872.8,
+      "m5": 13481.17
+    },
+    "priceChange": {
+      "m5": 2.2,
+      "h1": 6.51,
+      "h6": 42.89,
+      "h24": 333
+    },
+    "liquidity": {
+      "usd": 68537.78,
+      "base": 9966730418,
+      "quote": 470.7955
+    },
+    "fdv": 344349,
+    "marketCap": 344349,
+    "pairCreatedAt": 1782543786000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=SQQQ: Throttled\n"
+  ]
+}

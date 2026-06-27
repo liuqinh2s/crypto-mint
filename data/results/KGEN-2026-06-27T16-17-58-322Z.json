@@ -1,0 +1,335 @@
+{
+  "token": "KGEN",
+  "requestedInput": "KGEN",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T16:17:58.322Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "KGEN",
+    "name": "KGeN",
+    "generatedAt": "2026-06-27T16:17:47.733Z",
+    "summary": "KGEN是Solana上的游戏/Web3项目，近期因Binance Alpha上线、空投活动、代币销毁及交易竞赛等利好而受到关注。但当前链上流动性极高（25亿美元），24小时交易量仅约4美元，价格波动极小，市场深度极差，实际交易几乎不可行。基本面有融资和合作伙伴支撑，但估值过高（市值25亿美元），且缺乏真实交易支撑。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现真实交易量显著放大且流动性合理，可重新评估，但当前数据不支持任何买入。"
+    },
+    "catalysts": [
+      "Binance Alpha上线及交易竞赛（$200K奖励）",
+      "KGEN销毁2200万代币并计划通缩回购",
+      "第二轮空投活动（6月9日）",
+      "累计融资超4300万美元",
+      "与Playnance等合作扩展Web3游戏分发网络"
+    ],
+    "latestNews": [
+      {
+        "title": "KGEN Burns 22 Million Tokens, Plans Deflationary Buyback Model",
+        "impact": "利好",
+        "reason": "减少流通供应，理论上支撑价格，但实际效果需观察执行情况。"
+      },
+      {
+        "title": "Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-06-25)",
+        "impact": "利好",
+        "reason": "吸引交易量，短期提升关注度。"
+      },
+      {
+        "title": "Join the Second Wave of Binance Alpha KGeN Airdrop On June 9. Claim 160 $KGEN Tokens",
+        "impact": "利好",
+        "reason": "空投活动增加用户参与和代币分发。"
+      },
+      {
+        "title": "KGeN Has Now Secured Over $43 Million",
+        "impact": "利好",
+        "reason": "融资表明机构信心，但估值已高。"
+      },
+      {
+        "title": "Playnance Partners With KGeN to Expand Web3 Gaming Distribution Network",
+        "impact": "利好",
+        "reason": "合作伙伴拓展生态应用场景。"
+      }
+    ],
+    "fundamentals": [
+      "项目定位：Web3游戏分发网络，已融资超4300万美元。",
+      "代币用途：治理、质押、生态激励。",
+      "已上线Binance Alpha、Bitget、MEXC等交易所。",
+      "总供应量未公开，但市值约25亿美元，FDV相同。",
+      "链上流动性极高（25亿美元），但24小时交易量仅约4美元，流动性严重失真。"
+    ],
+    "marketRead": [
+      "当前价格0.2511美元，24小时跌幅0.04%，几乎无波动。",
+      "24小时交易量仅3.99美元，市场深度极差，实际交易无法执行。",
+      "流动性高达25亿美元，但可能为虚假流动性或LP池异常，需警惕。",
+      "无历史K线数据，无法进行技术分析。"
+    ],
+    "risks": [
+      "流动性虚假：25亿美元流动性但交易量仅4美元，可能为LP池操纵或非真实流动性。",
+      "交易不可执行：极低交易量意味着买卖价差极大，实际成交困难。",
+      "估值过高：市值25亿美元但缺乏真实交易支撑，泡沫风险极高。",
+      "合约风险：Solana链上代币，需审计但未提供审计信息。",
+      "新闻时效性：多数利好为2025年10月，近期催化有限。",
+      "空投抛压：空投活动可能导致代币分发后抛售。"
+    ],
+    "watchlist": [
+      "真实交易量是否放大至百万美元级别。",
+      "流动性池构成及是否可正常交易。",
+      "项目方是否公布代币经济模型和总供应量。",
+      "Binance Alpha交易竞赛后的价格和交易量变化。",
+      "是否有新的重大合作或产品上线。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，流动性数据可能不准确。",
+      "新闻来源包括CryptoRank、Binance等，但部分新闻日期较早。",
+      "无链上交易量数据，无法验证实际交易活跃度。",
+      "项目官网和社交媒体信息未提供，需进一步核实。"
+    ]
+  },
+  "profile": {
+    "id": "Gupt28mmNnn16rjMDWaY4h6BcuZjvgLMtTB2FT6EvZ54",
+    "symbol": "KGEN",
+    "name": "KGeN",
+    "categories": [
+      "solana",
+      "orca"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / orca. Pair URL: https://dexscreener.com/solana/fjb2b7pwcgg9t7ejz4mrvcxfeap68qzh7oinkfzngzxk",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.2511,
+    "marketCapUsd": 2511937492,
+    "fullyDilutedValuationUsd": 2511937492,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.04,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-10-24",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "FjB2B7PWcgG9t7EjZ4MRvCXFeaP68qzH7oiNkfZngZxK",
+    "baseTokenAddress": "Gupt28mmNnn16rjMDWaY4h6BcuZjvgLMtTB2FT6EvZ54",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 2510917211.32,
+    "pairUrl": "https://dexscreener.com/solana/fjb2b7pwcgg9t7ejz4mrvcxfeap68qzh7oinkfzngzxk",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "KGEN/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "FjB2B7PWcgG9t7EjZ4MRvCXFeaP68qzH7oiNkfZngZxK",
+    "pairUrl": "https://dexscreener.com/solana/fjb2b7pwcgg9t7ejz4mrvcxfeap68qzh7oinkfzngzxk",
+    "lastPrice": 0.2511,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 2510917211.32,
+    "fullyDilutedValuationUsd": 2511937492,
+    "marketCapUsd": 2511937492,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/fjb2b7pwcgg9t7ejz4mrvcxfeap68qzh7oinkfzngzxk",
+    "pairAddress": "FjB2B7PWcgG9t7EjZ4MRvCXFeaP68qzH7oiNkfZngZxK",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "Gupt28mmNnn16rjMDWaY4h6BcuZjvgLMtTB2FT6EvZ54",
+      "name": "KGeN",
+      "symbol": "KGEN"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.2511",
+    "priceUsd": "0.2511",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 2510917211.32,
+      "base": 9995914385,
+      "quote": 6000.2726
+    },
+    "fdv": 2511937492,
+    "marketCap": 2511937492,
+    "pairCreatedAt": 1761296888000
+  },
+  "news": [
+    {
+      "title": "KGEN Burns 22 Million Tokens, Plans Deflationary Buyback Model - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1scmFvVWg3Z0hrOU5CR1ZNeWJUSTFYbWN1WERiMFNiMUVpcC1tZzhkZU5Rd1I0T1VyaXFOZS1VXzd1alo3MDV6dW9hZVk0UUdZM2NuOVZHMHV4bWM5dndDYUxKWWJVeUpnN0JOTW50S3llS3A0bFBkMklxUi0?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 25 Jun 2026 20:10:58 GMT",
+      "snippet": "KGEN Burns 22 Million Tokens, Plans Deflationary Buyback Model&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Convert KGEN to ANG | KGEN/ANG Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BZlJ4RGFGLXhxbGV5VUVzeDdsaFBnTUUzU0NXZlJCNzJBb0Y2VUU2OG45c2tQSXlTMS1RMl9RNUwyY244U1p0UWtaOEwwQjZJcDY0?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Thu, 25 Jun 2026 22:02:23 GMT",
+      "snippet": "Convert KGEN to ANG | KGEN/ANG Conversion Calculator&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "KGEN Listing & Airdrop Now Live: Price Prediction 2025 and Trading Insights - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwLWNYX1p0bUcxekxQUUtIUTJVa0llR2RvWjNWdEZlbkV4TXFkQUtvcDh2YXlrd3lXYW1feFdBcnFxLUVyN2xFMnNPZkVsTjFmcnJQTFhfcU4teFI0Uzlyc2UxT2d3TGZDLXBmLWZpSUNyWWFpV1hJYjBycw?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Tue, 07 Oct 2025 07:00:00 GMT",
+      "snippet": "KGEN Listing & Airdrop Now Live: Price Prediction 2025 and Trading Insights&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "KGeN Price Today | KGEN to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TWVk5anFJRkFUUkN3bjB0b3BlMzI3cmg5UlYzLWFiWWxQbXpDanpMUnNnOXRnaGxyeDZjNFBaaWh2VlBVTEI4WmRVbXFtQQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 07 Oct 2025 07:00:00 GMT",
+      "snippet": "KGeN Price Today | KGEN to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Alpha News: Boom Ignites 311% Rally as KGEN Futures Debut and Airdrops Heat Up - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcFF4dEQxenZveXZhT3d0U21IdWxLSzh5d0psN1ZHOVBTM1UzN09Na0lna3ZaVkQxQjJxVEZXWHRqN1pUemNYYk16WW1xWnJhZHpGZERhMU90R2wwRWZ0Tm5tOTFlZUVKdHpRaVJVYlVGUmFJMDhGSWRTQ3dROE9TSThmd0lhb3dDYW5WdjhSSmF4ZTg3dXpLRnJqeUpVeWxrMTBVRWZOb0RfY0ZtUWZaMGs2Y1Q1ZXl3dlNMa0M0S2toNUNUbUE4X2Zfa2R4dw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 10 Oct 2025 10:58:30 GMT",
+      "snippet": "Binance Alpha News: Boom Ignites 311% Rally as KGEN Futures Debut and Airdrops Heat Up&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "KGEN Crashes on Launch - New Crypto to Buy? - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTMwdWlRTFkySWVrMHR4NWk3SkpzU0p1UDZQRTFTN01uUkRlNEZ0bjVGU1RpSFV0ano2YjhMdFFZRmRORGhKNmllVjgwTjdsRDJxSWYxS2xncThqMXBnQXJ2WnNaTnlVMDBocWhiZ05nR1RCZXdscVc0N04wNVVYLVBtUVgxUFhpNDJqZV9RMUlQU1dDcjBzN0c5cjZRTzZZZng4?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "snippet": "KGEN Crashes on Launch - New Crypto to Buy?&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "KGEN Price Today: Live KGEN to USD Price Chart & Market Data in India - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzWUxmeXdHZWo0b0Q2N3lLUUs4aHVMc1BhQjUzQUNrRFRvdDFlZ04zTzZEaFlyb2tGLWp5REZlUnREWTY0Y09pdThIOXc?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Sun, 05 Oct 2025 14:02:09 GMT",
+      "snippet": "KGEN Price Today: Live KGEN to USD Price Chart & Market Data in India&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "What Is KGeN? Project, Token, Airdrop, Roadmap Explained - Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lZ1lwZlhHUUdtRERzTUstMW1jV2ZYTkRYLWpjRGtfdDNkc2tsYkFDOXoxR2lnWWh2MWVlV2FtZldaQTBNWnNnRy1TTWFfUdIBTkFVX3lxTE1lZ1lwZlhHUUdtRERzTUstMW1jV2ZYTkRYLWpjRGtfdDNkc2tsYkFDOXoxR2lnWWh2MWVlV2FtZldaQTBNWnNnRy1TTWFfUQ?oc=5",
+      "source": "Ventureburn",
+      "publishedAt": "Fri, 19 Jun 2026 12:17:20 GMT",
+      "snippet": "What Is KGeN? Project, Token, Airdrop, Roadmap Explained&nbsp;&nbsp;Ventureburn"
+    },
+    {
+      "title": "KGeN announced the completion of another $13.5M funding round - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVTcyTnptdE40dzZDQ09mekV1eDFUdEt1bmJJV3BhamxZRmF5WDJDX1hvcVo5YXQtajByQkJOMEV4WUxyRF9CYlJCV1VKeldfc3NkbmhScVJrRnlGTEVlQ3NxdUx4dUVIczNnWGQ5djY0S044UlN1QTdqUW1VQTFkNXB0dzM2WEg1a19heFBWRDJ5cnlzZnI3dzYtc2VYREpjMDFON05GWHltUQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 30 Sep 2025 07:00:00 GMT",
+      "snippet": "KGeN announced the completion of another $13.5M funding round&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What is KGEN? Is This the Next Big Crypto Play for 2025-2026? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbXZRS1BYcVByOFVfWFRwSk1tUUFERGpxNXowY21fVXNVU2tMR3lqLUY3aU92cnpOOE5GZC03QzBtal9vTkdZaTFRMkxKbzJFSG9vMGV2YWtQNVZlUlFnbmtySHA5VXN3cG9XSmFNNUwtTHRyNmJCRHhoTXJ6RVRTNDY0dmdTZ9IBiwFBVV95cUxQY2p3QndKREVZWFhPZ0N4OTJMbEo0NWVSeDZaRmY5cGRTbEk2RmM2bTBUV0dnQkNMdVg4RzB4a29uaVVSLVN1bFMyazB0WXBhT1VQMVdpaGVOV1M0amhRYjAwVkJCMXo4Vmg5cS1pM3UyQkxqREc3R1pOQVgtd3JNOWNLZGJNdF9BZVp3?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 20 Oct 2025 07:00:00 GMT",
+      "snippet": "What is KGEN? Is This the Next Big Crypto Play for 2025-2026?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Join the Second Wave of Binance Alpha KGeN Airdrop On June 9. Claim 160 $KGEN Tokens - Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EcTE5OW10b0lXN2hLT0pKaTBOOEZnVnJLbHl1MlA3d2JhTjk2Ri0xbnZQNHVLeE5IajhpMGRzY1UzdVNxMndGOFgxNHgtTnA1b2JjdFJUVFIxa3hXckdDQlZWaExhTzFlbkdiY2RaU2tqZ9IBckFVX3lxTE5EcTE5OW10b0lXN2hLT0pKaTBOOEZnVnJLbHl1MlA3d2JhTjk2Ri0xbnZQNHVLeE5IajhpMGRzY1UzdVNxMndGOFgxNHgtTnA1b2JjdFJUVFIxa3hXckdDQlZWaExhTzFlbkdiY2RaU2tqZw?oc=5",
+      "source": "Ventureburn",
+      "publishedAt": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "snippet": "Join the Second Wave of Binance Alpha KGeN Airdrop On June 9. Claim 160 $KGEN Tokens&nbsp;&nbsp;Ventureburn"
+    },
+    {
+      "title": "KGeN Has Now Secured Over $43 Million - games.gg",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZMjN4RDZPNkd1WW42YXlXZURkN01qc3hYODM5Qnd3OHB5TGxZSEk3ZHFGWl9Md2FKZllfVHhEanljQ1JCZ1RGLWE0b1Y2a2lsWktnZVNUcXlLbXpzZzJRQnVvN3Fhc0tHWlI0?oc=5",
+      "source": "games.gg",
+      "publishedAt": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "snippet": "KGeN Has Now Secured Over $43 Million&nbsp;&nbsp;games.gg"
+    },
+    {
+      "title": "[Initial Listing] Bitget Will List KGeN (KGEN) in the Innovation Zone - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nVnh1ZFZESG9pbWVyVDVKZ0w3U3FoVWlqQzEwUFVyUjl5WjAzZGV0QUM2LVVmWVJUMEhOVHdxMFBQeDBkcUFEUlhZZTVfOHBzdXVDREs5cXdHVWJfa0E?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "snippet": "[Initial Listing] Bitget Will List KGeN (KGEN) in the Innovation Zone&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Playnance Partners With KGeN to Expand Web3 Gaming Distribution Network\npost-159447\npost-159447\npost-159447 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFLS1UVmdDVlMwNGFPWUYxdnh6TDdrUEtYajJVejVFbko0ejVtcnVETF82X0wyUkJwSWZsaFV0STRXOE5MM3ZtV1BUdDYtVVFMNnhhWHppOUR1QnF2MVHSAWNBVV95cUxQbDRpNkRMVWFta0VwSUZDV3ZhazZGaU8wLTlhR0hmai1DRkRYcnVkTFU1STlPcnZJYmVlcGRqYm9YbkpTSTBrX05Jd0JnaTlLM19PU0JoQTZfTTJJbTFOUngwRlU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 15 Mar 2026 07:00:00 GMT",
+      "snippet": "Playnance Partners With KGeN to Expand Web3 Gaming Distribution Network\npost-159447\npost-159447\npost-159447&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-06-25) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFktTDNtSVZJek1SUkNEMVVCUkEyX0g4M1RMNWZZNDdDTmFLc3B2bEZxUFloaXZZdkFuSVllQlV5anFiN3hVdi1uWWJUWWN4LVdQVDVLbmQ5cW1hWFJEdGJ1RkRoMzNFZEpMbmw5ZGplNm5RSEt6a0htdVI5eTJUUGpHZGZUQzNEakZmWWtwNS0?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 25 Jun 2026 11:16:56 GMT",
+      "snippet": "Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-06-25)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "KGeN (KGEN) Will Be Available on Binance Alpha and Binance Futures (2025-10-07) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWJpTDc0LUxiTkdiTWh2OERZRmcwS05BbWJzREN6dUg4Y1lWZ0h6YUJ5cG9Lem9zaG1YNVVFZ25tUVJYcjZzQ2JOM1duVUdycV8zYlp6UWlyYl9zMHZoUzB5alQzYnc5TV9ucHlvRWcxTlZQdEZjbGFSWXJFZTRxOHlteC1haWZfUVpKcDkwc0Q?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 04 Oct 2025 07:00:00 GMT",
+      "snippet": "KGeN (KGEN) Will Be Available on Binance Alpha and Binance Futures (2025-10-07)&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/kgen?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

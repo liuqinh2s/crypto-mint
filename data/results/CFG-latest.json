@@ -1,0 +1,325 @@
+{
+  "token": "CFG",
+  "requestedInput": "CFG",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T16:17:36.352Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CFG",
+    "name": "Centrifuge",
+    "generatedAt": "2026-06-27T16:17:26.721Z",
+    "summary": "CFG近期因Binance和Upbit上线、RWA叙事及代币化S&P500产品等利好大幅上涨，但当前24h跌幅0.04%，成交量极低，流动性虽高但交易冷清。基本面为RWA协议，有实际用例，但估值已高，短期缺乏新催化，建议观望。",
+    "rating": {
+      "score": 40,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "价格跌破0.25美元或出现重大负面消息（如监管打击、团队抛售）"
+    },
+    "catalysts": [
+      "Binance和Upbit等主流CEX上线，带来流动性和曝光度",
+      "RWA（真实世界资产）赛道热度持续",
+      "代币化S&P500产品上线Base链，创新用例"
+    ],
+    "latestNews": [
+      {
+        "title": "Centrifuge's CFG Token Surges 60% on Binance Listing",
+        "impact": "利好",
+        "reason": "Binance上线是重大利好，带来大量新投资者和流动性"
+      },
+      {
+        "title": "Ethereum DeFi Project Centrifuge (CFG) Skyrockets 115% After Upbit Listing — Here's Why the Gains May Not Last",
+        "impact": "中性",
+        "reason": "Upbit上线推动大涨，但文章提示涨势可能不可持续"
+      },
+      {
+        "title": "Centrifuge (CFG) Price Breaks Out, Targets $0.31 After Launching Tokenized S&P 500 on Base",
+        "impact": "利好",
+        "reason": "代币化S&P500是创新产品，可能吸引传统资金"
+      },
+      {
+        "title": "Centrifuge down 14% as THIS sector sees massive plunge – When will bulls return?",
+        "impact": "利空",
+        "reason": "近期RWA板块回调，CFG跟随下跌14%"
+      }
+    ],
+    "fundamentals": [
+      "Centrifuge是RWA协议，将现实世界资产（如发票、房地产）代币化上链",
+      "与MakerDAO等DeFi协议合作，提供稳定币借贷",
+      "代币CFG用于治理、质押和费用支付",
+      "总供应量约5.66亿，当前流通量约5.66亿（全流通）",
+      "市值约1.65亿美元，FDV相同"
+    ],
+    "marketRead": [
+      "当前价格0.2912美元，24h跌幅0.04%，波动极小",
+      "24h成交量仅0.09美元，流动性池虽大（1.64亿美元）但交易极度冷清",
+      "缺乏近期价格数据（7d/14d/30d变化均为null），无法判断趋势",
+      "此前因上线Binance和Upbit曾暴涨，但当前热度消退"
+    ],
+    "risks": [
+      "成交量极低，可能存在流动性陷阱，大额交易易滑点",
+      "近期无新催化，价格可能继续横盘或下跌",
+      "RWA赛道竞争激烈，监管不确定性高",
+      "代币全流通，无解锁压力但缺乏通缩机制",
+      "新闻中提及板块大跌14%，市场情绪偏弱"
+    ],
+    "watchlist": [
+      "Binance/Upbit上CFG交易量是否回升",
+      "是否有新的RWA合作或产品上线",
+      "整体市场情绪和RWA板块走势",
+      "价格是否突破0.31美元阻力位或跌破0.25美元支撑"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，仅包含Solana/Orca链上数据，可能不反映CEX价格",
+      "新闻时间跨度大（2025-2026），部分已过时",
+      "缺乏完整K线数据，技术分析受限"
+    ]
+  },
+  "profile": {
+    "id": "HKhBJ1Fj3eC4PFJ8JbPpmS2rG9yVzFCN9nd2Sv83DMn2",
+    "symbol": "CFG",
+    "name": "Centrifuge",
+    "categories": [
+      "solana",
+      "orca"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / orca. Pair URL: https://dexscreener.com/solana/2t12ctgvbeiw871mswjawxgvvgdvm5rltuhjajv3nqwm",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.2912,
+    "marketCapUsd": 164846609,
+    "fullyDilutedValuationUsd": 164846609,
+    "totalVolumeUsd": 0.09,
+    "priceChange24hPct": -0.04,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-10-09",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "2t12CtGvBeiw871mSwJAwxgvVgdVm5rLTUHJaJv3nQwm",
+    "baseTokenAddress": "HKhBJ1Fj3eC4PFJ8JbPpmS2rG9yVzFCN9nd2Sv83DMn2",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 163826351.5,
+    "pairUrl": "https://dexscreener.com/solana/2t12ctgvbeiw871mswjawxgvvgdvm5rltuhjajv3nqwm",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "CFG/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "2t12CtGvBeiw871mSwJAwxgvVgdVm5rLTUHJaJv3nQwm",
+    "pairUrl": "https://dexscreener.com/solana/2t12ctgvbeiw871mswjawxgvvgdvm5rltuhjajv3nqwm",
+    "lastPrice": 0.2912,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.09,
+    "liquidityUsd": 163826351.5,
+    "fullyDilutedValuationUsd": 164846609,
+    "marketCapUsd": 164846609,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/2t12ctgvbeiw871mswjawxgvvgdvm5rltuhjajv3nqwm",
+    "pairAddress": "2t12CtGvBeiw871mSwJAwxgvVgdVm5rLTUHJaJv3nQwm",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "HKhBJ1Fj3eC4PFJ8JbPpmS2rG9yVzFCN9nd2Sv83DMn2",
+      "name": "Centrifuge",
+      "symbol": "CFG"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.2912",
+    "priceUsd": "0.2912",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 0.09,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 163826351.5,
+      "base": 562482063,
+      "quote": 2.3754
+    },
+    "fdv": 164846609,
+    "marketCap": 164846609,
+    "pairCreatedAt": 1760003119000
+  },
+  "news": [
+    {
+      "title": "Centrifuge's CFG Token Surges 60% on Binance Listing - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUp3WnJPSGtfc3dVWmloaHNaSlZwNzFkQ2xhRzI0a0FWQUxyeHpfQjlwSkc2bkpTNV9wcVBSRVhvWFpZTXQ4MFdmQmY2TU5OWnB1di1ReVVRSjRZR055M0VKTWhHVHFPWjAzUV9GRUxJUzM1MUw5Rk9QdUZhVjdCUFpCcjd0UQ?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "snippet": "Centrifuge's CFG Token Surges 60% on Binance Listing&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Ethereum DeFi Project Centrifuge (CFG) Skyrockets 115% After Upbit Listing — Here's Why the Gains May Not Last - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNczUybFNHdmJqVGlFNF9xQzVaUnM3djQ5ZnNTVElTdm9pVTFnSVZYejE0LWxRV3o3dHpwUUFYSmZpVDBzWm1scko4Q0VZQ1FQZl9uUS00N29WX2M0TUtlT0kzVkJjWHJhUmcwaUZvZktIN3RSNWItc0lfbXIyZDVXbmszRGRUemxDTHF6cENwY09vNjJhZ0xZ?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "snippet": "Ethereum DeFi Project Centrifuge (CFG) Skyrockets 115% After Upbit Listing — Here's Why the Gains May Not Last&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Centrifuge CFG Skyrockets 54% After Stunning Binance Listing Announcement - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3QmJVZzhnQ1NGYkNNOUZtR3VHVUp2TVRxeGF3YVU4VFlIWVhVRGNqRFJYaUJOb1B1b0hrTkttT2NXd01SV0JfMGJCdGpQSUszZDVQQXB4bGlwU3hUM2c5Uks0Ym5naFU2M1NpSWloalNUNGZqZVdXMi0xY2FWMEU?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "snippet": "Centrifuge CFG Skyrockets 54% After Stunning Binance Listing Announcement&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Centrifuge Price Prediction: How High Can CFG Coin Go? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTm1KNXBLYzYwanduUTBhQ1J0T3dKdmF2SVZSMFk0T2NDeFl1RHpDMnFKRlZvV3l5dWtyMnpJb01sbllmQ0FESUtGN0wzS0NES0g3ZGhxVlh3SGZHVmkzaFVYY0lkaDVSTldRNWw5ZHlVcUdDRGpnSUExdFdiRjFRdnBSQWxOUQ?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Wed, 03 Sep 2025 07:00:00 GMT",
+      "snippet": "Centrifuge Price Prediction: How High Can CFG Coin Go?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Centrifuge price today, CFG to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QUHVCSEpNazRsOUtNVUpLaTVBZXZYclFoVkhDUFdSaWRmMDZPQ2dQNlNfSllYaDgzVGwxMEVWRE9BMm5JTWxFRjcxYmh2U2dzTFBz?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 10 Sep 2025 13:50:24 GMT",
+      "snippet": "Centrifuge price today, CFG to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Centrifuge up 32% as volume reaches $1B: Is $0.35 next for CFG? - AMBCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcE5GRV9MV29LWWJJR0RqUHpSX05fNjdEZDFiTWZCenRBV3d2OXE0dnk2amJOYWg5ZUF2WTA5UVdFdkRNQ21kZzRFcG5QZGMtUHc5Y1lkYUc2SVJwUXRoT3Q4YUhudjZCOHFtbVNwTVdsR1A1Z0tTakZMU19OLTRNMUgyU3pvWURP0gGOAUFVX3lxTE5YNS1Ed09BYktiNFIzTVFFNmVpUFJIamVENGxqS3dFTHhjazBsdkJXaE5WTHh1MTRkN2djeDhqakpRNTROcFZzM1dvb1IyakZhMDR1M2R1aG1xeWREQkdTb0w1OXdPRDBoTWMwYTFkSVJSYm9hbl9acVJob211dWxKM1NqVE5IcWZ5clBGdHc?oc=5",
+      "source": "AMBCrypto",
+      "publishedAt": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "snippet": "Centrifuge up 32% as volume reaches $1B: Is $0.35 next for CFG?&nbsp;&nbsp;AMBCrypto"
+    },
+    {
+      "title": "Centrifuge (CFG) Price Breaks Out, Targets $0.31 After Launching Tokenized S&P 500 on Base - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMlRnTDJwRy16UV9Fb3ZpYnRNSE9xdnpYcngzZmpkcldPR0ZNN0F5cGY5RGRROUN0Z1M4dDhiV1ktYjItRnVNTnZ4QnF0S3BaMDZITjMwUlF4QWJ0V3hneHp0Z1NSZGNXZ2JGZjBZVlNoMlI3dlN2TThaY1VSeU9GNnhBeWxMMmF3VWNJNA?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "snippet": "Centrifuge (CFG) Price Breaks Out, Targets $0.31 After Launching Tokenized S&P 500 on Base&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "CFG Price Skyrockets 187% in Stunning Rally Ahead of Upbit Listing - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80Y1JUTFZPV2kweVFodWdYWTV2eW1HTHFtZUVYVVA4Z0tuUHdWaUpTQ3FVLS04UkdoYk9qc3EtZDQ5b20tQ3VlVk1YajBMZUlkUEt5T1pUNlUyQThlUUQtOG5VQ3ZUOHBSMkZJTU1FbzZSS0M4QXc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "snippet": "CFG Price Skyrockets 187% in Stunning Rally Ahead of Upbit Listing&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What Is Centrifuge (CFG)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHTzBSdkdDT2hqTGRpQ293Z2ZRX2pmb1FWcFpSUFFKbjlwZmhyMXpONkZobjNwRUI5Y3c4NzV5c2pOQmhlQUw2cUhBSTZQa01mTkhUVmt1Z0paN1RqUUZWUVVLdVdVRXZ0d3VQby0tTXBsY05O?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "snippet": "What Is Centrifuge (CFG)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What Is Centrifuge (CFG)? The RWA Protocol Bridging TradFi & DeFi - NFTevening",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRNGEwdXVNSTR5WGdEaldYLUEwR3hIVWNkSTdKOG12WkZ6bDFMTFRITXR6eTVrZ1gxQkc0M0RHSEUzNXN5bHRXRVRxZGN1cE1zVU1vSlpmNkVmZw?oc=5",
+      "source": "NFTevening",
+      "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "snippet": "What Is Centrifuge (CFG)? The RWA Protocol Bridging TradFi & DeFi&nbsp;&nbsp;NFTevening"
+    },
+    {
+      "title": "Centrifuge price today, CFG to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oUDdEdG1qM2d4a2ZDV0dXRlZ3YnZ5ZUZKVDFxZ01xd3Q2ei05YnZib2hUakRqQmdPSy04NktjMnpHOTNYczlFMzFzZUtUVWl2MlBUZzZmTlFqQU42?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 21 Oct 2020 00:44:35 GMT",
+      "snippet": "Centrifuge price today, CFG to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Centrifuge Price | CFG Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wTTNITTg0VzhFaGNhUGNpVF9xaFlaQ3JrdnNKSUVtbTdPVjB5Ul9xRFQyVHZPdG53ZFNoOWlETUhiUnRoUENVSFFyZjNDUzA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 07 May 2021 08:14:53 GMT",
+      "snippet": "Centrifuge Price | CFG Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Centrifuge - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fQkVUamhPTmMxVmdHTTBDUWZ0RjJHZ01ieGpZRXc0S2JySHdLVkhOREktbEJjWHU5TlEtVVdPR2FfRGphNnYw?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Wed, 20 Jan 2021 16:09:13 GMT",
+      "snippet": "Centrifuge&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Centrifuge (CFG) ICO Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4TmZyb2lzMURudEZ0bjljaFYydXBoLUtwY0VMYWVuR19FYlZiZjBxeTJsU09ER0hHdFBkNkVjaXVXckZzeGJfYklIRnI?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 08 May 2021 11:38:24 GMT",
+      "snippet": "Centrifuge (CFG) ICO Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Centrifuge Price Today in Australia | CFG to AUD Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xd0xXM0d6R3JHM1hRQTB5b1pwaExTSXhKYzRtemozWm15SXpRQnllMnBoSGRWaFNyVGZFcFpFcml3Mmx2ekhRQWIzTXlMc2E3T0ZvRXg5NTh4Zw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 26 Feb 2022 20:57:10 GMT",
+      "snippet": "Centrifuge Price Today in Australia | CFG to AUD Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Centrifuge down 14% as THIS sector sees massive plunge – When will bulls return? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1QUxib2tyeGp6bDd2Um81RVpRT29tNFNVVTdWOHQ2TmtoZFctdEI5bUZGTnVvSWNOWmViQkVVVElUTUxyOW1IWUc0Z1BsbEw5UU1uVk9sbGtILXNSVGfSAWNBVV95cUxQQlY3SlB1Y2JZTDZDZFhWM0dIOW41TlBGN0IzT1dJMjBqZnoyVnA2NkpFLXhpZHIwYmNrb2xLbDlOR25rcW1QeWpoU1JoX0FnUlZHckhMS2NWQmhBSWUxMzIwdjQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 06 Jun 2026 07:00:00 GMT",
+      "snippet": "Centrifuge down 14% as THIS sector sees massive plunge – When will bulls return?&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=CFG: Throttled\n"
+  ]
+}
