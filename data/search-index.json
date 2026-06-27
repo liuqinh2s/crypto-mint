@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-27T13:32:32.255Z",
+  "updatedAt": "2026-06-27T13:47:13.922Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T13:47:05.286Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "DYDX",
+      "requestedInput": "DYDX",
+      "name": "dYdX",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T13:47:05.570Z",
+      "latestPath": "data/results/DYDX-latest.json"
+    },
+    {
+      "token": "ACX",
+      "requestedInput": "ACX",
+      "name": "Across Protocol",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T13:47:04.512Z",
+      "latestPath": "data/results/ACX-latest.json"
+    },
+    {
+      "token": "G",
+      "requestedInput": "G",
+      "name": "Gravity (原Galxe)",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T13:47:04.411Z",
+      "latestPath": "data/results/G-latest.json"
+    },
+    {
+      "token": "ASTER",
+      "requestedInput": "ASTER",
+      "name": "Aster",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T13:47:13.920Z",
+      "latestPath": "data/results/ASTER-latest.json"
+    },
+    {
+      "token": "PIEVERSE",
+      "requestedInput": "PIEVERSE",
+      "name": "Pieverse",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T13:47:13.227Z",
+      "latestPath": "data/results/PIEVERSE-latest.json"
+    },
+    {
+      "token": "BRKB",
+      "requestedInput": "BRKB",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T13:47:08.242Z",
+      "latestPath": "data/results/BRKB-latest.json"
+    },
+    {
+      "token": "4",
+      "requestedInput": "4",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T13:47:09.150Z",
+      "latestPath": "data/results/4-latest.json"
+    },
     {
       "token": "TNSR",
       "requestedInput": "TNSR",
@@ -20,16 +100,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T13:32:25.172Z",
       "latestPath": "data/results/HIVE-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T13:32:20.378Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "NAORIS",
@@ -930,76 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T09:17:01.181Z",
       "latestPath": "data/results/XPL-latest.json"
-    },
-    {
-      "token": "SNOW",
-      "requestedInput": "SNOW",
-      "name": "SNOW",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:17:06.189Z",
-      "latestPath": "data/results/SNOW-latest.json"
-    },
-    {
-      "token": "WET",
-      "requestedInput": "WET",
-      "name": "HumidiFi",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:17:07.764Z",
-      "latestPath": "data/results/WET-latest.json"
-    },
-    {
-      "token": "LIT",
-      "requestedInput": "LIT",
-      "name": "Lighter",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T09:17:09.154Z",
-      "latestPath": "data/results/LIT-latest.json"
-    },
-    {
-      "token": "AGLD",
-      "requestedInput": "AGLD",
-      "name": "Adventure Gold",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:17:08.848Z",
-      "latestPath": "data/results/AGLD-latest.json"
-    },
-    {
-      "token": "CELO",
-      "requestedInput": "CELO",
-      "name": "Celo",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T09:17:18.820Z",
-      "latestPath": "data/results/CELO-latest.json"
-    },
-    {
-      "token": "TAC",
-      "requestedInput": "TAC",
-      "name": "TAC",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:02:24.064Z",
-      "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "ARK",
-      "requestedInput": "ARK",
-      "name": "ARK",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T09:02:22.695Z",
-      "latestPath": "data/results/ARK-latest.json"
     }
   ]
 }
