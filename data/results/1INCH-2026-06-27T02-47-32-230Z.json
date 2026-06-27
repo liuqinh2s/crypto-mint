@@ -1,0 +1,325 @@
+{
+  "token": "1INCH",
+  "requestedInput": "1INCH",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T02:47:32.230Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "1INCH",
+    "name": "1inch",
+    "generatedAt": "2026-06-27T02:47:23.032Z",
+    "summary": "1INCH在Solana链上Orca DEX的流动性池（1INCH/USDC）当前价格0.2539美元，24小时微跌0.04%，流动性高达3.8亿美元，但24小时交易量仅3.99美元，显示极度冷清。历史负面新闻包括团队疑似抛售、流动性危机、协议攻击等，近期无重大利好催化。基本面缺乏更新，市场情绪低迷。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现明确的协议升级、大规模采用或团队回购等强力催化，否则逻辑持续失效。"
+    },
+    "catalysts": [
+      "暂无明确上涨催化，历史负面新闻压制市场信心。"
+    ],
+    "latestNews": [
+      {
+        "title": "1INCH Price Crashes 20% to All-Time Low After Team Allegedly Dumps 15M Tokens",
+        "impact": "利空",
+        "reason": "团队疑似抛售导致价格暴跌，严重损害信任。"
+      },
+      {
+        "title": "1INCH Liquidity Crisis: Shocking 7% Plunge Triggered by Mere $2 Million Sell Order",
+        "impact": "利空",
+        "reason": "流动性深度不足，小单即可引发大幅波动。"
+      },
+      {
+        "title": "1inch Denies Protocol Exploit After Trusted Volumes Attack Drains $5.87 Million",
+        "impact": "利空",
+        "reason": "尽管否认，但攻击事件暴露安全风险。"
+      },
+      {
+        "title": "1inch launches Aqua: the first shared liquidity protocol, now open to developers",
+        "impact": "利好",
+        "reason": "新产品发布，但时间较早（2025年11月），市场反应平淡。"
+      },
+      {
+        "title": "State of 1inch Q3 2025",
+        "impact": "中性",
+        "reason": "常规季度报告，无重大更新。"
+      }
+    ],
+    "fundamentals": [
+      "1inch是知名的DEX聚合器，但此交易对为Solana链上Orca DEX的1INCH/USDC池，非原生以太坊版本。",
+      "总供应量和流通量未提供，市值约3.8亿美元，FDV相同。",
+      "流动性高达3.8亿美元，但交易量极低（24小时仅3.99美元），表明池子可能被废弃或存在异常。",
+      "代币于2025年10月9日创建，较新，但缺乏项目方官方背书。"
+    ],
+    "marketRead": [
+      "价格0.2539美元，24小时微跌，无显著波动。",
+      "24小时交易量仅3.99美元，流动性3.8亿美元，流动性/交易量比例极高，说明池子深度大但无人交易，可能为LP提供者持有但无实际需求。",
+      "无历史K线数据，无法判断趋势。"
+    ],
+    "risks": [
+      "交易量极低，存在流动性陷阱，买卖价差可能极大。",
+      "历史负面新闻（团队抛售、攻击、流动性危机）持续压制市场情绪。",
+      "代币创建时间短，项目方背景不明，存在合约风险。",
+      "Solana链上1INCH可能非官方跨链版本，需验证真实性。",
+      "无近期利好催化，价格可能持续低迷或归零。"
+    ],
+    "watchlist": [
+      "关注官方1inch团队是否承认该Solana代币的真实性。",
+      "观察交易量是否回升至正常水平。",
+      "留意是否有新的协议升级或合作公告。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，缺乏CoinGecko/CoinMarketCap等主流平台验证。",
+      "新闻时间跨度大（2023-2026），近期无重大利好。",
+      "流动性数据可能因池子异常而失真。"
+    ]
+  },
+  "profile": {
+    "id": "fzyxGLHCMJJ6qqnFYnEpMKuaFw2FWCHUvTNRm8LJ2me",
+    "symbol": "1INCH",
+    "name": "1inch",
+    "categories": [
+      "solana",
+      "orca"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / orca. Pair URL: https://dexscreener.com/solana/9gvbqnlsx98yadxvjnlnyqg4mxyjz1bzhkpn9eutkhar",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.2539,
+    "marketCapUsd": 380957855,
+    "fullyDilutedValuationUsd": 380957855,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.04,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-10-09",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "9GVbqNLsX98YadXvjnLnyqg4mxyjz1bZHKPn9EUTKHaR",
+    "baseTokenAddress": "fzyxGLHCMJJ6qqnFYnEpMKuaFw2FWCHUvTNRm8LJ2me",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 379948171.19,
+    "pairUrl": "https://dexscreener.com/solana/9gvbqnlsx98yadxvjnlnyqg4mxyjz1bzhkpn9eutkhar",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "1INCH/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "9GVbqNLsX98YadXvjnLnyqg4mxyjz1bZHKPn9EUTKHaR",
+    "pairUrl": "https://dexscreener.com/solana/9gvbqnlsx98yadxvjnlnyqg4mxyjz1bzhkpn9eutkhar",
+    "lastPrice": 0.2539,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 379948171.19,
+    "fullyDilutedValuationUsd": 380957855,
+    "marketCapUsd": 380957855,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/9gvbqnlsx98yadxvjnlnyqg4mxyjz1bzhkpn9eutkhar",
+    "pairAddress": "9GVbqNLsX98YadXvjnLnyqg4mxyjz1bZHKPn9EUTKHaR",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "fzyxGLHCMJJ6qqnFYnEpMKuaFw2FWCHUvTNRm8LJ2me",
+      "name": "1inch",
+      "symbol": "1INCH"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.2539",
+    "priceUsd": "0.2539",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 379948171.19,
+      "base": 1496024349,
+      "quote": 19.544
+    },
+    "fdv": 380957855,
+    "marketCap": 380957855,
+    "pairCreatedAt": 1759981195000
+  },
+  "news": [
+    {
+      "title": "1inch Network Token (1INCH) Price Prediction 2026, 2027-2030: Is a Massive DeFi Comeback Ahead? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBETS1Id01NZDMtb0xiNHB1eE5qalZhd0wyNndHS1dfMEdHTkhHcU9jX2tRdzBrUUpRQW1qWEM1TEpFODlaWTlFLUt5aGpNNnNuU2ZiMGRDNk5hUzY2c0RzejB4M0p6QzRPbU1raHJzWGwxdnNvVExRZk1B0gF_QVVfeXFMUEY5Qm82TDdXODNXYVBFWVd1R1ZHeG5EUW15M3dYeUJKQ3kwQlFxRV9ZYVg1UDJMNDNUdHNJcWh3MnV6Qk0tX2pMZnJBMXl0N3VSb0dMQWItMWZ4eWgwLUZNR1ZxbGdUczBsOEthcVJFLW5JQ280Uk9BMFExQlRyWQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Fri, 19 Jun 2026 08:06:00 GMT",
+      "snippet": "1inch Network Token (1INCH) Price Prediction 2026, 2027-2030: Is a Massive DeFi Comeback Ahead?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Convert 1INCH to MOP | 1INCH/MOP Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tOW5IdXZya1VobGFRT0RTUFh3VVVRRF9HN3pMOFhXVkJYWTYxa0E0ZjYtWFMxWEplS2JORG9kQlJuRDRidFh0Q1ZEeVhvR2h2MU5qMg?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Fri, 26 Jun 2026 09:00:57 GMT",
+      "snippet": "Convert 1INCH to MOP | 1INCH/MOP Conversion Calculator&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "1INCH Price Crashes 20% to All-Time Low After Team Allegedly Dumps 15M Tokens - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVNGbV9GM3g4bnVmTGIyWXhMUk9jWWQtcUo1UG1WaFl3RXIzdF9rNXBRTkxsTkdqUEJCUmhzdEozS0NVbExEcFc2cjVYQnFOa3g5Y2ZfcFJhWFozelA1STRRTkV3dkVDYkE0QlFYT3FDTWdEaDhHTXlPRk5XZFlkQVplUVhmWXd0MFo2YzNzRkRBY2R6dEtZTC03b3RZMG5nVmtYRktKMA?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "snippet": "1INCH Price Crashes 20% to All-Time Low After Team Allegedly Dumps 15M Tokens&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "1inch Price Today | 1INCH to AED Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3ejUyTXBmWWRVRHFxTUJwNmVuTFhOTy1vbFo2Y3pZc1R1ZktpTm1ZdTVJUzRPczZXUnQyX1NqTlN5MHFiZHBidTFyenA4QWxFajFF?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 21 Jun 2026 20:06:00 GMT",
+      "snippet": "1inch Price Today | 1INCH to AED Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "1INCH Liquidity Crisis: Shocking 7% Plunge Triggered by Mere $2 Million Sell Order - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aVW80aGRaMTA2QTItTTBHSVUwWXZpSm5GU2RzeUlDS0E4bmZlS1l5bjJBaUZLYXhMWmVwQzNOdHhreXREX1ZzUGE0VHZ0V2V3Z2MzTmVrbFdTbHpVTXdSVFdwN0NOTjByOGw1aDBfSFBWcnZDaTZnVA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "snippet": "1INCH Liquidity Crisis: Shocking 7% Plunge Triggered by Mere $2 Million Sell Order&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "1inch Network Price Prediction 2025, 2026 - 2030: Will 1INCH Price Reach $1? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BMVJ3MU1yekY3WFcxVnhhUlBFWTFGR1dMZ290c1kwV2p5YVBBOWV5MF95bUNralZUN1VzTk9DbnJVRjVKOHJEWXcwQnBLdEcxTEtOZ2FmTl8zQ25xNlHSAWNBVV95cUxPN3FpeHN5SlI1eW4yaG5FN1RlVXlvaWJlYzNIaGJHZXVreVNORXFXZmJoRF9MdHlBOHdvRXZvZ2M5ZFNEQzJ2c2FaZHM0MVVYaXh0ODJUbDNVdkhjR1ZOdzRfVDA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "snippet": "1inch Network Price Prediction 2025, 2026 - 2030: Will 1INCH Price Reach $1?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "1inch Network Price Prediction: Is 1INCH Coin a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWkwRURLV09FV1l4UllPZEpxLUdXV0xSOWxHSkdlTk1haXB6MWtqYjdyT1pucjludFF4WkVOYjNYQ1hSdUFQZnBDSGJnc190ZzNZNzBwRzhmMUpHMEM2VW1tRkh5Ui0zS3RTTXg2dWFSZ0hKNGdhX01NanJ3Q3dmZEFreUNvMVh5XzFNMTJFVDY0dEE?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Fri, 08 Aug 2025 07:00:00 GMT",
+      "snippet": "1inch Network Price Prediction: Is 1INCH Coin a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "1inch Denies Protocol Exploit After Trusted Volumes Attack Drains $5.87 Million - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWx3WXpSQUhELTJkS19tWVhERV9Dd3FkcnhKTkRWUlRmM1FmaGg1MW5Id0RlTzEyOG1sYlkwaFFBbFRCdnZmYnNHaUJyUndXbm8tOG1jZXpLWmtncmRfc0gtU3lxa1NLbXBNVGk1OFNZV0czeTM3Z29sNnR3VFN1dS1rVEdRWUhSUHhLMlE0Zmd1SEtuRGxBLUJpTdIBoAFBVV95cUxOQ2o5S3A3bjItRFcweklEenJ6T2JISTY5RHk0eVZhQk1ud1NoWE9wOVZhMXNBeUU1NC1QSFBOd3I2TS1sRTVCem5zMENCZGJKNlNIQ19JeENOS0JRT3NRd3EzQUZiWloybjRObzF0UzNvVEZ5anowRFdEVmQ4SmZ4X3VidzRwZnhLRnhyUzVieFlQbjI2NE5tcVh3Q2pQaHpY?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Thu, 07 May 2026 07:00:00 GMT",
+      "snippet": "1inch Denies Protocol Exploit After Trusted Volumes Attack Drains $5.87 Million&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "1inch price today, 1INCH to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95Nngyc3QwTEdsWWtBZDJLcEdpTHZ4aUtuYnBDY080UXJtMWVhb3pEb0F2ZVN3UXRDVmFiRmZuVEFrb0RteUFOVUZraWMxQ3pfa0ZaMHJB?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 23 Dec 2020 20:43:26 GMT",
+      "snippet": "1inch price today, 1INCH to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "State of 1inch Q3 2025 - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DNlBNV2x3dVBNdEVoV19JSVBlTmdEOTBFZk9XT0RpX2EtR01YQWtfV2wtUFFhSHRnWFo4RmNmQ3h0TEQyYklOV2oyNk5nMGVDNHVkYTBIeE5QNnFy?oc=5",
+      "source": "Messari",
+      "publishedAt": "Mon, 29 Dec 2025 08:00:00 GMT",
+      "snippet": "State of 1inch Q3 2025&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "Buy 1inch: Latest Value, Roadmap & Market Introduction - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2Fwd1o1ank0MUM0UmpjTVFLaXBXQ2tldDlULVJRZUozS3dXbEgyQmpmYkVkaFlMTVNDbEZoX0ZWNEdDQnExekwtZ2lETjVzMDdTR1dITklZVS01ZXVZb19wUVdpa2J1dW82d01xSXpPUE5DenBSZmZ4TmxIcTQ0QQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Tue, 09 Jun 2026 07:00:59 GMT",
+      "snippet": "Buy 1inch: Latest Value, Roadmap & Market Introduction&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Purchase 1inch with Card: Detailed Handbook - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Jd3d0MlpYY0p5Z3EtbmhCR29GVjZBQUhrVF8wN0tSWEd0V2w1QW9pSXBRb0c5eDV3M0xaaXh1T3N3YkR6MktBRVJCb0dvSWxpSUpnU1dHTENHV193UXRkbDd5aFJoNXBoUUJCem1JVGZIQW1JVkNpUHVjcmJtUQ?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Tue, 16 Jun 2026 18:27:57 GMT",
+      "snippet": "Purchase 1inch with Card: Detailed Handbook&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "1inch Network - CryptoSlate",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mRFB4SWJhYXo4andybVR5QUFaM3RzQ1hheldpQnRYUGkxVU5pVnQ2QTZkOWtZRTl4alpXRnJ4RFB2bUtrNXVkeHhtb1FYbHEyNW9FV3hEaEE1YXpN?oc=5",
+      "source": "CryptoSlate",
+      "publishedAt": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "snippet": "1inch Network&nbsp;&nbsp;CryptoSlate"
+    },
+    {
+      "title": "1inch launches Aqua: the first shared liquidity protocol, now open to developers - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tNUJORlQyUXdGdjl0VWw5MlBUMWpXMElqWHQ5OF9yMTdWNWU4QnVVVm5xVjdqdVVBNl9KTjdGWHFyQXcwRGJRUjVjd0pmQVlHUlcyWmE0THE2SWQ3ZFHSAWNBVV95cUxOSjFpRHdJT2xJdzJRVTk3bG9QY0w5UmdEUTh2ZjNLZUd4eVNPTG94NHpJRk51aExieUVpY0FVa2lBaG9pMW9PNDFBQ3Y5b0xRRWFnSk13SkVaTVB4NERoVzVUdXc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 17 Nov 2025 08:00:00 GMT",
+      "snippet": "1inch launches Aqua: the first shared liquidity protocol, now open to developers&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Lido Offers Fast ETH Exchange Service via 1inch to Bypass Withdrawal Queues - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEeEhndWVrQUZQa2dQZ19pdy1nTk1kWFVMYU9UUWw5WUtKZE0xcER2TTFMOHVDV3lDbGFqckMtSFBxaGJJTGx3VmpZS1pYaWhsWEhJYjNqNk8tQ0hiaEE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 21 Feb 2024 08:00:00 GMT",
+      "snippet": "Lido Offers Fast ETH Exchange Service via 1inch to Bypass Withdrawal Queues&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "1inch Wallet releases iOS 2.3.0 update, supports cloud snapshot function - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05T2NqMWxfejUxR2tTZWJKMVgyZFgzdlBnRUJoY1lXM3I2cVRMaG90N1JrZkY3MHpiNTU3dV9SeDZTX3pSdzlRaEQxa2ZSOWsyLUVxdjN0SEhBdFNINWfSAWNBVV95cUxQQkJUUmtkT0piSUVjVEFSdUg4VE8xQmZLeEVfZlZjUmNWRm1LZGRDZFpldldxdF8tZE9GRlpqNFpfSEpDdzd1VHJLQUtoRUZGdkRuWTdCZDhBY0ZCckQwcW1Mb1U?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 28 Dec 2023 08:00:00 GMT",
+      "snippet": "1inch Wallet releases iOS 2.3.0 update, supports cloud snapshot function&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/1inch?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

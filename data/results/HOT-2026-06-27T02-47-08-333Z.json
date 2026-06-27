@@ -1,0 +1,293 @@
+{
+  "token": "HOT",
+  "requestedInput": "HOLO",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T02:47:08.333Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "HOT",
+    "name": "Holo",
+    "generatedAt": "2026-06-27T02:46:59.759Z",
+    "summary": "HOT代币在Solana链Meteora DEX上交易，流动性极高（1.93亿美元），但24小时成交量仅约4美元，价格几乎无波动。新闻多为2025-2026年价格预测，缺乏近期实质性利好。基本面不清晰，项目描述仅提及DEX配对，无官方信息。风险极高，不建议买入。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无买入逻辑，无需设置失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Holo Price Prediction 2026,2027-2030: When Will $HOT Reach $1? - Coinpedia",
+        "impact": "中性",
+        "reason": "仅为价格预测文章，无实际事件驱动"
+      },
+      {
+        "title": "Holo Price Outlook 2026–2030: Can HOT Realistically Reach $1? - CryptoRank",
+        "impact": "中性",
+        "reason": "同样为预测内容，缺乏新信息"
+      },
+      {
+        "title": "Holo (HOT) Price Today: HOT Live Price, Charts, News - Crypto.com US",
+        "impact": "中性",
+        "reason": "常规行情报道，无实质影响"
+      },
+      {
+        "title": "Holo Price Prediction 2026,2027-2030: When Will $HOT Reach $1? - MEXC Exchange",
+        "impact": "中性",
+        "reason": "重复预测内容"
+      },
+      {
+        "title": "Holo Price Outlook 2026–2030: Can HOT Realistically Reach $1? - Bitcoin World",
+        "impact": "中性",
+        "reason": "重复预测内容"
+      },
+      {
+        "title": "Holo Price Prediction for 2025-2030: When Will $HOT Reach $1? - Binance",
+        "impact": "中性",
+        "reason": "重复预测内容"
+      },
+      {
+        "title": "Holo Price Prediction 2026-2030: Will HOT Reach $1? The Ultimate Forecast - CryptoRank",
+        "impact": "中性",
+        "reason": "重复预测内容"
+      },
+      {
+        "title": "Holochain price prediction: is HOT token cooling off? - Capital.com",
+        "impact": "中性",
+        "reason": "分析文章，无新催化"
+      },
+      {
+        "title": "Holo price today, HOT to USD live price, marketcap and chart - CoinDesk",
+        "impact": "中性",
+        "reason": "过时行情报道"
+      }
+    ],
+    "fundamentals": [
+      "项目名称Holo，但链上信息仅显示为Solana/Meteora上的DEX交易对，无官方项目网站或白皮书",
+      "代币供应量、流通量、最大供应量均未提供",
+      "市值约1.94亿美元，但流动性几乎等于市值，暗示可能为流动性池主导",
+      "24小时成交量仅3.99美元，表明几乎没有真实交易活动"
+    ],
+    "marketRead": [
+      "价格24小时变化-0.02%，几乎无波动",
+      "成交量极低（3.99美元），流动性极高（1.93亿美元），形成巨大背离，可能为虚假流动性或无人交易",
+      "无K线数据，无法分析趋势"
+    ],
+    "risks": [
+      "成交量极低，流动性可能为虚假或机器人提供，实际退出难度极大",
+      "项目信息缺失，无官方渠道，存在诈骗或貔貅盘风险",
+      "新闻均为价格预测，无实质性进展，市场关注度低",
+      "代币价格长期无波动，可能已被市场抛弃"
+    ],
+    "watchlist": [
+      "关注是否有官方公告或项目更新",
+      "观察成交量是否突然放大",
+      "检查流动性池是否真实（如LP构成）"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，缺乏项目官方信息",
+      "新闻均为第三方预测，无官方动态",
+      "链上数据可能不完整，建议进一步核实"
+    ]
+  },
+  "profile": {
+    "id": "AMRzzpp7LNj3RhXznJPV1CUCmKgdt4TNXFiCsKPiy1K6",
+    "symbol": "HOT",
+    "name": "Holo",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/9qgkkm77cvzzo5gmrwkvmgmaqu7z4bx4vmpj9f2lwt24",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.001111,
+    "marketCapUsd": 194615106,
+    "fullyDilutedValuationUsd": 194615106,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-08-17",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "9QgKkm77CVzZo5GMRwKVmGmAqU7z4bX4VMpj9F2LWt24",
+    "baseTokenAddress": "AMRzzpp7LNj3RhXznJPV1CUCmKgdt4TNXFiCsKPiy1K6",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 193615105.67,
+    "pairUrl": "https://dexscreener.com/solana/9qgkkm77cvzzo5gmrwkvmgmaqu7z4bx4vmpj9f2lwt24",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "HOT/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "9QgKkm77CVzZo5GMRwKVmGmAqU7z4bX4VMpj9F2LWt24",
+    "pairUrl": "https://dexscreener.com/solana/9qgkkm77cvzzo5gmrwkvmgmaqu7z4bx4vmpj9f2lwt24",
+    "lastPrice": 0.001111,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 193615105.67,
+    "fullyDilutedValuationUsd": 194615106,
+    "marketCapUsd": 194615106,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/9qgkkm77cvzzo5gmrwkvmgmaqu7z4bx4vmpj9f2lwt24",
+    "pairAddress": "9QgKkm77CVzZo5GMRwKVmGmAqU7z4bX4VMpj9F2LWt24",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "AMRzzpp7LNj3RhXznJPV1CUCmKgdt4TNXFiCsKPiy1K6",
+      "name": "Holo",
+      "symbol": "HOT"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.001111",
+    "priceUsd": "0.001111",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 193615105.67,
+      "base": 174118629952,
+      "quote": 10.7099
+    },
+    "fdv": 194615106,
+    "marketCap": 194615106,
+    "pairCreatedAt": 1755421153000
+  },
+  "news": [
+    {
+      "title": "Holo Price Prediction 2026,2027-2030: When Will $HOT Reach $1? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcTF6d0JSRl9EM18zNjg1eU5zOEtxcVVLQXJZZHhsUWlCTFRlREh2V1pxZzVzTzNURHlLRm5jekZDOWJZMEg5ZEFYQl9GQ1RaWkhLZG55YVZzTnh0d3BKT3lidGVfUUlfcHFlMWdkZHVlQkQ5eXY2cVBmNjhSVWdrMNIBhgFBVV95cUxNbWl3VFpkT0JZRUl6VkhoclB1N0lnRFdBck9nZUdFMWdoa05EbThBdnVqZ3Y0cnBnMW00U2tKOHVEWVMtTzQ3MFJCLWtBVWg5RTFyemt2VmdDN3VWU2FCaG9tM0lSc2tVZDN6MlN3OEFfWXRvYXBVeG5aN3g1cVVDM0RaRlQ0Zw?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Wed, 24 Jun 2026 06:46:00 GMT",
+      "snippet": "Holo Price Prediction 2026,2027-2030: When Will $HOT Reach $1?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Holo Price Outlook 2026–2030: Can HOT Realistically Reach $1? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeVhHZjhIWUYycnkyUnlJWFZ6eUhNbWI3TjZfUVZLTHhEVTY0UzhVdW90elA5Zm95TFc3UjhZZmdpeGRYbHp3UzZUaWg2SUZYOG4xdnpXckx3bWpoOGpvQWU4eE9pZEhJSXZHMTFHMjBuVlhKT1NLdUxLX0JKUHphbldBMA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 24 Jun 2026 13:06:06 GMT",
+      "snippet": "Holo Price Outlook 2026–2030: Can HOT Realistically Reach $1?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Holo (HOT) Price Today: HOT Live Price, Charts, News - Crypto.com US - Crypto.com",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wM2ZPdjc1TmdubzZEM0x4SUh1SjhSd2lnRUJtcDRYTnlqSENWaGUzSnhlZUNIX1M2dk4weVNWbEJYZ0UtYmtj?oc=5",
+      "source": "Crypto.com",
+      "publishedAt": "Wed, 05 Nov 2025 09:05:28 GMT",
+      "snippet": "Holo (HOT) Price Today: HOT Live Price, Charts, News - Crypto.com US&nbsp;&nbsp;Crypto.com"
+    },
+    {
+      "title": "Holo Price Prediction 2026,2027-2030: When Will $HOT Reach $1? - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5fSmdiZ2Z5VUh0VG5lZVBqUTlveFQwNUJkZ3NlLUw3MG9PYjVHNlpyWUJyNElrMWhfNnNrUkFwTXV0UlRTdWc?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "snippet": "Holo Price Prediction 2026,2027-2030: When Will $HOT Reach $1?&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Holo Price Outlook 2026–2030: Can HOT Realistically Reach $1? - Bitcoin World",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WQkZqRG9QSXBScC1hT1Y2bzN5S0xJVWRJRjA0Z1NPM3ppblUtY0V4dG5feWdrOEs1NllyVU9vLTliWXN0dE9aYWdoUVJlcjR5OHRMVjBkcmQ4M1NIVzhnVnAxak5KU1FKQVI4VHJYT3pyOG92X2c?oc=5",
+      "source": "Bitcoin World",
+      "publishedAt": "Wed, 24 Jun 2026 07:10:11 GMT",
+      "snippet": "Holo Price Outlook 2026–2030: Can HOT Realistically Reach $1?&nbsp;&nbsp;Bitcoin World"
+    },
+    {
+      "title": "Holo Price Prediction for 2025-2030: When Will $HOT Reach $1? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hN0FmTVdQWU14ZloyeEVodlhHbUVtSFRnTjRsOUVxU1Vpak1odDJaY1V4d1hlVjM2SF9KUE5QOEdlbl80c3ZqRkFLT1NEMEd3MVBwb1U4WlpzZUd0VXdCcVIzaw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 19 Apr 2025 07:00:00 GMT",
+      "snippet": "Holo Price Prediction for 2025-2030: When Will $HOT Reach $1?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Holo Price Prediction 2026-2030: Will HOT Reach $1? The Ultimate Forecast - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZenhXeW9mc1hBZFlhalQtZy1HU1lLWlRXNm9lS3A3TC1BSE1PUy1uc2JFd2Y1X1gwY1ZpNHF3RnI5Ny1SVl9oTmxiaUp0RVFrZk5ILS1kMXpOemw0a2ZWbkpITy1ESUlHRzkyLXdpWTBKS0h4QV9yZWltY24?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "snippet": "Holo Price Prediction 2026-2030: Will HOT Reach $1? The Ultimate Forecast&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Holochain price prediction: is HOT token cooling off? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVUo0ajJsVUN0dldsUVhfZFlUS0RLc2NFY051ZXhodlVDVkZLYlVTN1VrdmpwQW9YYVdvaWEwelhLR29BRWtkNExwSGpJSWdvWXBjZ29jUkxPNGp2cldMbTFTSEZjdjBqT09XUXR4cFI5NnA1Sk1UT0UtcVBkZmxsMUhR?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Tue, 06 May 2025 11:47:45 GMT",
+      "snippet": "Holochain price prediction: is HOT token cooling off?&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "Holo price today, HOT to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5QSUJQMFJSSFdQaWJNME9SZGg5YWR4RHlpbDB4WHU1c1RWMmRDTTdGOWlHM1VZNUtMeXBGSEhQNG1HZnFUQ3NsTlVn?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 04 Apr 2023 17:06:28 GMT",
+      "snippet": "Holo price today, HOT to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/holotoken?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}
