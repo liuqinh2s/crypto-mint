@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-06-27T17:32:37.876Z",
+  "updatedAt": "2026-06-27T17:47:15.321Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T17:46:53.917Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "AMD",
+      "requestedInput": "AMD",
+      "name": "AMD",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T17:46:56.547Z",
+      "latestPath": "data/results/AMD-latest.json"
+    },
+    {
+      "token": "XAN",
+      "requestedInput": "XAN",
+      "name": "Anoma",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T17:46:55.674Z",
+      "latestPath": "data/results/XAN-latest.json"
+    },
+    {
+      "token": "MET",
+      "requestedInput": "MET",
+      "name": "Meteora",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T17:46:55.440Z",
+      "latestPath": "data/results/MET-latest.json"
+    },
+    {
+      "token": "BRKB",
+      "requestedInput": "BRKB",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T17:46:56.528Z",
+      "latestPath": "data/results/BRKB-latest.json"
+    },
+    {
+      "token": "NAORIS",
+      "requestedInput": "NAORIS",
+      "name": "Naoris Protocol",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T17:47:02.481Z",
+      "latestPath": "data/results/NAORIS-latest.json"
+    },
+    {
+      "token": "KAITO",
+      "requestedInput": "KAITO",
+      "name": "Kaito",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T17:47:04.689Z",
+      "latestPath": "data/results/KAITO-latest.json"
+    },
+    {
+      "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
+      "requestedInput": "ICNT",
+      "name": "ICNT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T17:47:01.303Z",
+      "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
+    },
+    {
+      "token": "SQQQ",
+      "requestedInput": "SQQQ",
+      "name": "SQQQUSDT",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T17:47:01.521Z",
+      "latestPath": "data/results/SQQQ-latest.json"
+    },
+    {
+      "token": "TRB",
+      "requestedInput": "TRB",
+      "name": "Tellor Tributes",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T17:47:08.645Z",
+      "latestPath": "data/results/TRB-latest.json"
+    },
+    {
+      "token": "LIT",
+      "requestedInput": "LIT",
+      "name": "Lighter",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T17:47:15.319Z",
+      "latestPath": "data/results/LIT-latest.json"
+    },
     {
       "token": "XPIN",
       "requestedInput": "XPIN",
@@ -20,16 +130,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-27T17:32:17.421Z",
       "latestPath": "data/results/AWE-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:32:15.174Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "HOT",
@@ -70,16 +170,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T17:32:28.020Z",
       "latestPath": "data/results/TRUST-latest.json"
-    },
-    {
-      "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
-      "requestedInput": "ICNT",
-      "name": "ICNT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:32:24.662Z",
-      "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
     },
     {
       "token": "LIRA",
@@ -910,96 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-27T16:17:17.187Z",
       "latestPath": "data/results/TNSR-latest.json"
-    },
-    {
-      "token": "HIVE",
-      "requestedInput": "HIVE",
-      "name": "Hive",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T16:17:15.735Z",
-      "latestPath": "data/results/HIVE-latest.json"
-    },
-    {
-      "token": "SLX",
-      "requestedInput": "SLX",
-      "name": "Solstice",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T16:17:18.007Z",
-      "latestPath": "data/results/SLX-latest.json"
-    },
-    {
-      "token": "AXS",
-      "requestedInput": "AXS",
-      "name": "Axie Infinity",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T16:17:16.699Z",
-      "latestPath": "data/results/AXS-latest.json"
-    },
-    {
-      "token": "TSM",
-      "requestedInput": "TSM",
-      "name": "Tusima Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T16:17:22.184Z",
-      "latestPath": "data/results/TSM-latest.json"
-    },
-    {
-      "token": "OP",
-      "requestedInput": "OP",
-      "name": "OP",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T16:17:26.196Z",
-      "latestPath": "data/results/OP-latest.json"
-    },
-    {
-      "token": "GME",
-      "requestedInput": "GME",
-      "name": "GameStop",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T16:17:31.414Z",
-      "latestPath": "data/results/GME-latest.json"
-    },
-    {
-      "token": "APR",
-      "requestedInput": "APR",
-      "name": "aPriori",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T16:17:31.878Z",
-      "latestPath": "data/results/APR-latest.json"
-    },
-    {
-      "token": "CFG",
-      "requestedInput": "CFG",
-      "name": "Centrifuge",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T16:17:36.352Z",
-      "latestPath": "data/results/CFG-latest.json"
-    },
-    {
-      "token": "EWJ",
-      "requestedInput": "EWJ",
-      "name": "Earthworm jim",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T16:17:33.122Z",
-      "latestPath": "data/results/EWJ-latest.json"
     }
   ]
 }
