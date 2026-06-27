@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-06-27T08:47:27.733Z",
+  "updatedAt": "2026-06-27T09:02:34.191Z",
   "results": [
+    {
+      "token": "TAC",
+      "requestedInput": "TAC",
+      "name": "TAC",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:02:24.064Z",
+      "latestPath": "data/results/TAC-latest.json"
+    },
+    {
+      "token": "ARK",
+      "requestedInput": "ARK",
+      "name": "ARK",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T09:02:22.695Z",
+      "latestPath": "data/results/ARK-latest.json"
+    },
+    {
+      "token": "DYDX",
+      "requestedInput": "DYDX",
+      "name": "dYdX",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T09:02:23.616Z",
+      "latestPath": "data/results/DYDX-latest.json"
+    },
+    {
+      "token": "HOT",
+      "requestedInput": "HOLO",
+      "name": "Holo",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:02:24.091Z",
+      "latestPath": "data/results/HOT-latest.json"
+    },
+    {
+      "token": "ACX",
+      "requestedInput": "ACX",
+      "name": "Across Protocol",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T09:02:32.640Z",
+      "latestPath": "data/results/ACX-latest.json"
+    },
+    {
+      "token": "G",
+      "requestedInput": "G",
+      "name": "Gravity (原Galxe)",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T09:02:32.620Z",
+      "latestPath": "data/results/G-latest.json"
+    },
+    {
+      "token": "PIEVERSE",
+      "requestedInput": "PIEVERSE",
+      "name": "Pieverse Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:02:31.551Z",
+      "latestPath": "data/results/PIEVERSE-latest.json"
+    },
+    {
+      "token": "BRKB",
+      "requestedInput": "BRKB",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:02:27.025Z",
+      "latestPath": "data/results/BRKB-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T09:02:34.189Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
     {
       "token": "TNSR",
       "requestedInput": "TNSR",
@@ -20,16 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T08:47:09.819Z",
       "latestPath": "data/results/HIVE-latest.json"
-    },
-    {
-      "token": "HOT",
-      "requestedInput": "HOLO",
-      "name": "Holo",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T08:47:15.244Z",
-      "latestPath": "data/results/HOT-latest.json"
     },
     {
       "token": "NAORIS",
@@ -60,16 +140,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T08:47:22.250Z",
       "latestPath": "data/results/TRB-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:47:18.085Z",
-      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "VELVET",
@@ -930,76 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T06:17:22.154Z",
       "latestPath": "data/results/Q-latest.json"
-    },
-    {
-      "token": "RPL",
-      "requestedInput": "RPL",
-      "name": "Rocket Pool",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:17:28.638Z",
-      "latestPath": "data/results/RPL-latest.json"
-    },
-    {
-      "token": "XPL",
-      "requestedInput": "XPL",
-      "name": "XPL",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:17:27.615Z",
-      "latestPath": "data/results/XPL-latest.json"
-    },
-    {
-      "token": "SNOW",
-      "requestedInput": "SNOW",
-      "name": "SNOW",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:17:29.370Z",
-      "latestPath": "data/results/SNOW-latest.json"
-    },
-    {
-      "token": "WET",
-      "requestedInput": "WET",
-      "name": "WET",
-      "score": 2,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:17:31.360Z",
-      "latestPath": "data/results/WET-latest.json"
-    },
-    {
-      "token": "AGLD",
-      "requestedInput": "AGLD",
-      "name": "Adventure Gold",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:17:40.805Z",
-      "latestPath": "data/results/AGLD-latest.json"
-    },
-    {
-      "token": "CELO",
-      "requestedInput": "CELO",
-      "name": "Celo",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T06:17:41.077Z",
-      "latestPath": "data/results/CELO-latest.json"
-    },
-    {
-      "token": "TIA",
-      "requestedInput": "TIA",
-      "name": "Tiamonds [OLD]",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T06:02:23.766Z",
-      "latestPath": "data/results/TIA-latest.json"
     }
   ]
 }
