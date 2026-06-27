@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-27T11:32:04.339Z",
+  "updatedAt": "2026-06-27T11:47:07.560Z",
   "results": [
+    {
+      "token": "B2",
+      "requestedInput": "B2",
+      "name": "BSquared Network",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T11:47:05.616Z",
+      "latestPath": "data/results/B2-latest.json"
+    },
+    {
+      "token": "ARQQ",
+      "requestedInput": "ARQQ",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T11:47:01.486Z",
+      "latestPath": "data/results/ARQQ-latest.json"
+    },
+    {
+      "token": "AERO",
+      "requestedInput": "AERO",
+      "name": "Aerodrome Finance",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T11:47:06.999Z",
+      "latestPath": "data/results/AERO-latest.json"
+    },
+    {
+      "token": "SYRUP",
+      "requestedInput": "SYRUP",
+      "name": "Maple Finance",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T11:47:07.559Z",
+      "latestPath": "data/results/SYRUP-latest.json"
+    },
     {
       "token": "GRIFFAIN",
       "requestedInput": "GRIFFAIN",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T08:02:30.227Z",
       "latestPath": "data/results/GPS-latest.json"
-    },
-    {
-      "token": "SOL",
-      "requestedInput": "SOL",
-      "name": "Solana",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T08:02:37.260Z",
-      "latestPath": "data/results/SOL-latest.json"
-    },
-    {
-      "token": "BAS",
-      "requestedInput": "BAS",
-      "name": "BNB Attestation",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T08:02:38.386Z",
-      "latestPath": "data/results/BAS-latest.json"
-    },
-    {
-      "token": "USDC",
-      "requestedInput": "USDC",
-      "name": "USDC",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:02:42.881Z",
-      "latestPath": "data/results/USDC-latest.json"
-    },
-    {
-      "token": "MU",
-      "requestedInput": "MU",
-      "name": "MU",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:02:46.042Z",
-      "latestPath": "data/results/MU-latest.json"
     }
   ]
 }
