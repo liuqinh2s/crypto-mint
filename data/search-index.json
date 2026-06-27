@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-06-27T21:17:22.054Z",
+  "updatedAt": "2026-06-27T21:32:24.512Z",
   "results": [
+    {
+      "token": "TIA",
+      "requestedInput": "TIA",
+      "name": "Tiamonds [OLD]",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T21:32:14.987Z",
+      "latestPath": "data/results/TIA-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T21:32:16.755Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "NAORIS",
+      "requestedInput": "NAORIS",
+      "name": "Naoris Protocol",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T21:32:17.739Z",
+      "latestPath": "data/results/NAORIS-latest.json"
+    },
+    {
+      "token": "KAITO",
+      "requestedInput": "KAITO",
+      "name": "Kaito",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T21:32:20.054Z",
+      "latestPath": "data/results/KAITO-latest.json"
+    },
+    {
+      "token": "SQQQ",
+      "requestedInput": "SQQQ",
+      "name": "SQQQUSDT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T21:32:21.236Z",
+      "latestPath": "data/results/SQQQ-latest.json"
+    },
+    {
+      "token": "TRB",
+      "requestedInput": "TRB",
+      "name": "Tellor Tributes",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T21:32:24.509Z",
+      "latestPath": "data/results/TRB-latest.json"
+    },
     {
       "token": "TIAN",
       "requestedInput": "TIA",
@@ -30,16 +90,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T21:17:10.709Z",
       "latestPath": "data/results/AWE-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T21:17:07.441Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "LIT",
@@ -950,56 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T18:02:26.458Z",
       "latestPath": "data/results/CFG-latest.json"
-    },
-    {
-      "token": "EWJ",
-      "requestedInput": "EWJ",
-      "name": "Earthworm jim",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T18:02:21.183Z",
-      "latestPath": "data/results/EWJ-latest.json"
-    },
-    {
-      "token": "AMD",
-      "requestedInput": "AMD",
-      "name": "AMD",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:46:56.547Z",
-      "latestPath": "data/results/AMD-latest.json"
-    },
-    {
-      "token": "XAN",
-      "requestedInput": "XAN",
-      "name": "Anoma",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:46:55.674Z",
-      "latestPath": "data/results/XAN-latest.json"
-    },
-    {
-      "token": "MET",
-      "requestedInput": "MET",
-      "name": "Meteora",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:46:55.440Z",
-      "latestPath": "data/results/MET-latest.json"
-    },
-    {
-      "token": "BRKB",
-      "requestedInput": "BRKB",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:46:56.528Z",
-      "latestPath": "data/results/BRKB-latest.json"
     }
   ]
 }
