@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-27T23:17:17.528Z",
+  "updatedAt": "2026-06-27T23:32:14.985Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "VelodromeV2",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T23:32:12.035Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "IP",
+      "requestedInput": "IP",
+      "name": "Story",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T23:32:14.477Z",
+      "latestPath": "data/results/IP-latest.json"
+    },
+    {
+      "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
+      "requestedInput": "ICNT",
+      "name": "ICNT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T23:32:09.084Z",
+      "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
+    },
+    {
+      "token": "LAB",
+      "requestedInput": "LAB",
+      "name": "LAB",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T23:32:14.983Z",
+      "latestPath": "data/results/LAB-latest.json"
+    },
     {
       "token": "ARC",
       "requestedInput": "ARC",
@@ -20,16 +60,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T23:17:10.824Z",
       "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T23:17:09.615Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "DYDX",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T19:17:04.847Z",
       "latestPath": "data/results/GRASS-latest.json"
-    },
-    {
-      "token": "SOON",
-      "requestedInput": "SOON",
-      "name": "SOON",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:17:07.664Z",
-      "latestPath": "data/results/SOON-latest.json"
-    },
-    {
-      "token": "STABLE",
-      "requestedInput": "STABLE",
-      "name": "STABLE",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:17:07.864Z",
-      "latestPath": "data/results/STABLE-latest.json"
-    },
-    {
-      "token": "BR",
-      "requestedInput": "BR",
-      "name": "Bedrock",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T19:17:10.765Z",
-      "latestPath": "data/results/BR-latest.json"
     }
   ]
 }
