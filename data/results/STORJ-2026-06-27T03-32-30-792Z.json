@@ -1,0 +1,329 @@
+{
+  "token": "STORJ",
+  "requestedInput": "STORJ",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T03:32:30.792Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "STORJ",
+    "name": "Storj",
+    "generatedAt": "2026-06-27T03:32:22.467Z",
+    "summary": "STORJ近期无明显上涨催化，24h价格微跌，成交量极低，流动性虽高但交易冷清。基本面有收购利好但已过时，新闻多为旧闻或购买指南。当前价格0.383美元，市值1.54亿美元，估值偏高。建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [
+      "2025年10月Inveniam Capital Partners收购Storj，推进去中心化数据基础设施",
+      "部分新闻提及STORJ处于吸筹阶段"
+    ],
+    "latestNews": [
+      {
+        "title": "Storj Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast - Binance",
+        "impact": "中性",
+        "reason": "价格预测类新闻，无实质利好"
+      },
+      {
+        "title": "Storj Price Prediction 2026: 38% Surge, Eyes $0.17 - CoinDCX",
+        "impact": "中性",
+        "reason": "预测目标价0.17美元，低于当前价0.383美元，实际偏空"
+      },
+      {
+        "title": "10 Crypto Assets in Accumulation Phase: STORJ, VVV, TON, and More - Cryptonews.net",
+        "impact": "利好",
+        "reason": "提及STORJ处于吸筹阶段，可能吸引关注"
+      },
+      {
+        "title": "Inveniam Capital Partners Acquires Storj to Advance Decentralized Data Infrastructure - CoinDesk",
+        "impact": "利好",
+        "reason": "收购事件提升项目基本面，但已过去8个月"
+      },
+      {
+        "title": "The STORJ team transferred 2 million STORJ to the market maker GSR's CEX address - Bitget",
+        "impact": "利空",
+        "reason": "团队向做市商转移代币，可能为抛售做准备"
+      }
+    ],
+    "fundamentals": [
+      "Storj是去中心化云存储项目，主网已运行多年",
+      "2025年10月被Inveniam Capital Partners收购，获得资金和资源支持",
+      "代币总供应量4.25亿，当前流通约4.25亿（全流通）",
+      "项目有实际用例，但竞争激烈（Filecoin、Arweave等）"
+    ],
+    "marketRead": [
+      "当前价格0.383美元，24h跌幅0.02%，波动极小",
+      "24h成交量仅3.99美元，流动性极差，几乎无交易",
+      "流动性池规模1.527亿美元，但无交易量，说明资金沉淀但无人交易",
+      "市值1.54亿美元，FDV相同，估值处于中等水平"
+    ],
+    "risks": [
+      "成交量极低，存在流动性风险，大额买卖可能造成滑点",
+      "新闻多为旧闻或购买指南，缺乏近期实质性利好",
+      "团队曾向做市商转移代币，存在潜在抛压",
+      "价格预测目标价低于当前价，市场情绪偏空",
+      "DEX交易对，合约风险较低但需注意"
+    ],
+    "watchlist": [
+      "成交量是否回升",
+      "是否有新的合作或产品更新",
+      "团队或做市商地址动向",
+      "整体市场情绪和存储板块表现"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，仅包含Solana链上Meteora DEX的STORJ/USDC交易对",
+      "新闻来源Google News RSS，部分新闻日期较早",
+      "无CEX交易数据，无法对比价差"
+    ]
+  },
+  "profile": {
+    "id": "7Yr4SQ2CLqPY3NqLWsoP6NKnXNavJ67Co3WYYuHEqtZ4",
+    "symbol": "STORJ",
+    "name": "Storj",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/6thzfrp93ekzhu7olku65drrqcok5hthzxhfzeujpna4",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.383,
+    "marketCapUsd": 153743944,
+    "fullyDilutedValuationUsd": 153743944,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-02-18",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "6ThzfRp93ekZHu7oLKU65drRQCok5HtHZXHfzEUJpnA4",
+    "baseTokenAddress": "7Yr4SQ2CLqPY3NqLWsoP6NKnXNavJ67Co3WYYuHEqtZ4",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 152744025.07,
+    "pairUrl": "https://dexscreener.com/solana/6thzfrp93ekzhu7olku65drrqcok5hthzxhfzeujpna4",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "STORJ/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "6ThzfRp93ekZHu7oLKU65drRQCok5HtHZXHfzEUJpnA4",
+    "pairUrl": "https://dexscreener.com/solana/6thzfrp93ekzhu7olku65drrqcok5hthzxhfzeujpna4",
+    "lastPrice": 0.383,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 152744025.07,
+    "fullyDilutedValuationUsd": 153743944,
+    "marketCapUsd": 153743944,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/6thzfrp93ekzhu7olku65drrqcok5hthzxhfzeujpna4",
+    "pairAddress": "6ThzfRp93ekZHu7oLKU65drRQCok5HtHZXHfzEUJpnA4",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "7Yr4SQ2CLqPY3NqLWsoP6NKnXNavJ67Co3WYYuHEqtZ4",
+      "name": "Storj",
+      "symbol": "STORJ"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.3830",
+    "priceUsd": "0.3830",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 3.99,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -0.02,
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 152744025.07,
+      "base": 398750916,
+      "quote": 1.6022
+    },
+    "fdv": 153743944,
+    "marketCap": 153743944,
+    "pairCreatedAt": 1739855158000
+  },
+  "news": [
+    {
+      "title": "Storj Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkVnJjeTZRWHdNMEZqSUNxSXhyY0ViaXhxTTdHRUZoQVJJYnBuaUhJZXRWRTJta0xzSW1jZGVxbWk2ZlRRNm05dVdlQVB6V3o0MHpjMFNndnRwSElWajZQeVdR?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 22 Jun 2026 03:22:00 GMT",
+      "snippet": "Storj Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Storj (STORJ) Price Today: STORJ Live Price, Charts, News - Crypto.com",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RUE40Q1gybVRhUkQ4Rzg3VU5mTWRFaGd1Y1FWLVBzczhXaXlHNUc1d09YSFRubG9kWV9XSFNpTW12UXJjQVUzbQ?oc=5",
+      "source": "Crypto.com",
+      "publishedAt": "Tue, 23 Sep 2025 12:54:27 GMT",
+      "snippet": "Storj (STORJ) Price Today: STORJ Live Price, Charts, News&nbsp;&nbsp;Crypto.com"
+    },
+    {
+      "title": "Storj Price Prediction 2026: 38% Surge, Eyes $0.17 - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CQWFYZDNkVmpPalpxS2RIZlQ1cklVNUdvdllVMHhIdFFKeEFaTGJINFdVNVREZDg1SXBwd1YzczBIV1otVzVoSVpySjU3TnRYMTRlajg0blphaUFJODdKNFFGbU5IdUZsd3lnUzNvRXdyRG0t?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
+      "snippet": "Storj Price Prediction 2026: 38% Surge, Eyes $0.17&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "10 Crypto Assets in Accumulation Phase: STORJ, VVV, TON, and More - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oN3ZHUldsa2hjdHBNZkJ6MmhVOUczVWs1QWRsbmhZVHpnZzlzVXVpN2hwSWhpUzZjdWV2OGkxUkxLeGdRY2txd19sdHVsc3BObVpUaS1LemZBN0U?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "snippet": "10 Crypto Assets in Accumulation Phase: STORJ, VVV, TON, and More&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Inveniam Capital Partners Acquires Storj to Advance Decentralized Data Infrastructure - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcVdJS0oxNmVwQUowWU12Q1RGcnRWZEN6QWNFc1NMYlpldU50TFp1WGhYS0t5Nk9xR2dMN3J2RWpRaXpaUW5BS0xWWHVKTy00QW1SQTAtMThYZFJVREV2M1lZUHJybHFCb2hjbmVUTEFUdTZKSFFDbGZ4a2FBYm5OMUtDTndVd3BmbVBuUThES3d1YlMwN2xTTTF2MUdHWUt2Q2JZWFR3MURweS1sdGlCT1hIYS1nQ3BVclBjVnMzbWI0SHRRZ0dXeENn?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "snippet": "Inveniam Capital Partners Acquires Storj to Advance Decentralized Data Infrastructure&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Storj (STORJ) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95UVZnd05mWGtKMWt5TTVZbHdBS3ZWSnN4Y2gzaHVxS3RvNGNnbElwa1dBXzJOQmZsS21naWxPZHduZ1lMYVF3YUx1Z2RZc3VQTi1Kdmd0X1BwdUl3SkdRakM5WjNFSENq?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Fri, 16 Sep 2022 03:17:46 GMT",
+      "snippet": "Storj (STORJ) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "STORJ Review: What is STORJ? | Everything You Need to Know - Coin Bureau",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vbk5GTXN0QmNkMG0wYVpfcVJoSDU1M3BCMTF6QjAweDBGc19oYV9XZXVnaWZlMVVPTmc5WnVRNlpwNm5tc04zMG1mUQ?oc=5",
+      "source": "Coin Bureau",
+      "publishedAt": "Fri, 02 Aug 2024 21:29:15 GMT",
+      "snippet": "STORJ Review: What is STORJ? | Everything You Need to Know&nbsp;&nbsp;Coin Bureau"
+    },
+    {
+      "title": "Storj Price | STORJ Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fZC05RF9wTUwyVmZaX203S0VVNzJmanBYa3BPczZWbTVxbDEtMGt4c3Y1SGNOVVJaMFgzNnZ3U242ME9jSkkxVw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 07 Aug 2020 19:57:42 GMT",
+      "snippet": "Storj Price | STORJ Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Learn to buy Storj: Full Crypto Step Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aSEJkRGFSbkR2MzhFUWJUX3o2eUFWUzJyZU5xaFJxM1c5azRsSnIweGxGVDZvZkpTamdycFJwUG9kR3c5V1JLWVEwdW5aUnl2TVVLb3hvakJlb2VOb0hHNHRKYzdMMzdvaGdlRXZveUxqR3FoOVE?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Mon, 08 Jun 2026 21:46:16 GMT",
+      "snippet": "Learn to buy Storj: Full Crypto Step Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Buy Storj with Bank Card: Full How-To - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xdkZHLTNtS3pta3Nhbk5YVHRuSExMVUZzSU1kWi1TeEs2bkp4WjN5ZGJlUzMtYzVHNnprM0V3MjJNWVRDcHJwZGxybzRPRnBDanotZlRXbW8tWE9DaFdjbFhBX20tc2dMalo2QUZB?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Mon, 08 Jun 2026 08:37:26 GMT",
+      "snippet": "Buy Storj with Bank Card: Full How-To&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Buy Storj in Estonia: Best Ways, Fee & Checklist - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Y1F3b091YmRVN0JPOU5vbjNhNkE4TVBZejlnZTlHSWRqdEk2d2tIaFlMSS1XQ05XejA2cERTdFJvQ01BejVvWTlBT3VmZk53TVRMZFVWQ1VzSlBkaUtTSTJuay1sTGY1RGxVUmVTY1hwald4SnRIZU1B?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sun, 07 Jun 2026 00:14:39 GMT",
+      "snippet": "Buy Storj in Estonia: Best Ways, Fee & Checklist&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Buy Storj with Mastercard: Thorough Guide - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51ZWtTeDJpYVYxMUFMNzFLSTFfT3hOdkQwS1dyemt4Z2NHdFpvbm4tRzBsOExMczV0X0JBcENiNDV0aEp0WEJEYVUxMUtKZjlmVGtaeUVqeldPanBSQ2Nuc1d4cHRScTFDa0I2TERPREN2YXM?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Tue, 09 Jun 2026 19:02:08 GMT",
+      "snippet": "Buy Storj with Mastercard: Thorough Guide&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Learn to buy Storj: Full Crypto Walkthrough - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tQkQ4ODBnSFh1NHhzMzloOHBfWjNnMFIyNEVUellWX0VWVDhuZm9mS2NWc3JsQjBkY09UY0xaYUl0VTVxazUzZHdHUnRtUnNRNlF0LU1fbmdYVTlxVEJ0VFl3NEFHUHNrS1BSQTZ5dVFyYWJpWUE?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sun, 07 Jun 2026 16:45:15 GMT",
+      "snippet": "Learn to buy Storj: Full Crypto Walkthrough&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "How can I buy Storj: Value, Fee & Beginner Buying Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGV5MUVkT1hnZFg5TjlkczNtSFFYbWxtcFJxZEFkenpyb3M2U1VMdFdiWHgtcklyRnlmbzVXdEZGQ0J0X3lyLXdac3JtOXRMNTd1Wm1vS3oxSWtsS0hPTDF6a0txblVaMkNuRVpoZXpDbEJDUUM3TE1tbDNWNklEUDdR?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Thu, 04 Jun 2026 23:24:49 GMT",
+      "snippet": "How can I buy Storj: Value, Fee & Beginner Buying Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "How do I buy Storj in Bolivia: Detailed Primer - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkd2g5aXViM19xX09odlBYWGZWaTNPbTkyTWtkTmxJZmMxZHBJU2p1YXVIVW54TEJDZGJpeEd1VXRRLVpsRnN5dG5GeVlBa3FURnFxSGtScEllTG1mZ2FTNlhWNENtZk9BQV82Z2NXYXRqT2pnRFE?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sun, 14 Jun 2026 05:37:14 GMT",
+      "snippet": "How do I buy Storj in Bolivia: Detailed Primer&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "The STORJ team transferred 2 million STORJ to the market maker GSR's CEX address - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10ZVY1dGlyZWRMNHR5bENGVmVIXy1oV20wcnpQdkltTFRJa3V5NmFKSm5UVkhtZF9vOEVXbGVOUnU4MUFFTktvbHJoSVhDM2hQc1YzUVB4c0NxZmRMTlE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 29 Jan 2024 08:00:00 GMT",
+      "snippet": "The STORJ team transferred 2 million STORJ to the market maker GSR's CEX address&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/storj?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}
