@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-06-27T14:02:31.222Z",
+  "updatedAt": "2026-06-27T14:17:05.169Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T14:16:53.798Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "RPL",
+      "requestedInput": "RPL",
+      "name": "Rocket Pool Protocol",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T14:16:55.126Z",
+      "latestPath": "data/results/RPL-latest.json"
+    },
+    {
+      "token": "XPL",
+      "requestedInput": "XPL",
+      "name": "Pulse",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:16:56.188Z",
+      "latestPath": "data/results/XPL-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:16:55.339Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "RESOLV",
+      "requestedInput": "RESOLV",
+      "name": "Resolv",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:17:02.081Z",
+      "latestPath": "data/results/RESOLV-latest.json"
+    },
+    {
+      "token": "VELVET",
+      "requestedInput": "VELVET",
+      "name": "Velvet",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T14:17:05.167Z",
+      "latestPath": "data/results/VELVET-latest.json"
+    },
+    {
+      "token": "W",
+      "requestedInput": "W",
+      "name": "Wormhole",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T14:17:03.321Z",
+      "latestPath": "data/results/W-latest.json"
+    },
     {
       "token": "ARC",
       "requestedInput": "ARC",
@@ -22,16 +92,6 @@
       "latestPath": "data/results/TAC-latest.json"
     },
     {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T14:02:21.917Z",
-      "latestPath": "data/results/VELO-latest.json"
-    },
-    {
       "token": "SNOW",
       "requestedInput": "SNOW",
       "name": "SNOW",
@@ -50,16 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T14:02:29.261Z",
       "latestPath": "data/results/WET-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T14:02:30.559Z",
-      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "CELO",
@@ -950,56 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T09:32:18.474Z",
       "latestPath": "data/results/JST-latest.json"
-    },
-    {
-      "token": "UNH",
-      "requestedInput": "UNH",
-      "name": "UnitedHealth Group",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:32:16.147Z",
-      "latestPath": "data/results/UNH-latest.json"
-    },
-    {
-      "token": "HYPER",
-      "requestedInput": "HYPER",
-      "name": "Hyper",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:32:25.903Z",
-      "latestPath": "data/results/HYPER-latest.json"
-    },
-    {
-      "token": "TUT",
-      "requestedInput": "TUT",
-      "name": "Tutorial",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T09:32:26.139Z",
-      "latestPath": "data/results/TUT-latest.json"
-    },
-    {
-      "token": "SKYAI",
-      "requestedInput": "SKYAI",
-      "name": "SKYAI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:32:32.131Z",
-      "latestPath": "data/results/SKYAI-latest.json"
-    },
-    {
-      "token": "Q",
-      "requestedInput": "Q",
-      "name": "Quack AI",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:32:29.041Z",
-      "latestPath": "data/results/Q-latest.json"
     }
   ]
 }
