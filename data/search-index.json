@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-06-27T20:47:15.027Z",
+  "updatedAt": "2026-06-27T20:50:08.644Z",
   "results": [
+    {
+      "token": "QNTSTOCK",
+      "requestedInput": "QNTSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T20:49:57.939Z",
+      "latestPath": "data/results/QNTSTOCK-latest.json"
+    },
+    {
+      "token": "RTXSTOCK",
+      "requestedInput": "RTXSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T20:49:58.006Z",
+      "latestPath": "data/results/RTXSTOCK-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T20:50:02.396Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "KGEN",
+      "requestedInput": "KGEN",
+      "name": "KGeN",
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-27T20:47:05.467Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-27T20:50:03.774Z",
+      "latestPath": "data/results/KGEN-latest.json"
+    },
+    {
+      "token": "ETHFI",
+      "requestedInput": "ETHFI",
+      "name": "ether.fi",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T20:50:08.641Z",
+      "latestPath": "data/results/ETHFI-latest.json"
     },
     {
       "token": "WIF",
@@ -960,46 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-27T17:32:17.421Z",
       "latestPath": "data/results/AWE-latest.json"
-    },
-    {
-      "token": "FARTCOIN",
-      "requestedInput": "FARTCOIN",
-      "name": "Fartcoin",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T17:32:24.243Z",
-      "latestPath": "data/results/FARTCOIN-latest.json"
-    },
-    {
-      "token": "MOODENG",
-      "requestedInput": "MOODENG",
-      "name": "MooDeng",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:32:25.135Z",
-      "latestPath": "data/results/MOODENG-latest.json"
-    },
-    {
-      "token": "TRUST",
-      "requestedInput": "TRUST",
-      "name": "Trust",
-      "score": 2,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:32:28.020Z",
-      "latestPath": "data/results/TRUST-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T17:32:32.813Z",
-      "latestPath": "data/results/LIRA-latest.json"
     }
   ]
 }
