@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-06-27T12:47:24.745Z",
+  "updatedAt": "2026-06-27T13:02:30.143Z",
   "results": [
+    {
+      "token": "XPIN",
+      "requestedInput": "XPIN",
+      "name": "XPIN Network",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T13:02:25.160Z",
+      "latestPath": "data/results/XPIN-latest.json"
+    },
+    {
+      "token": "AWE",
+      "requestedInput": "AWE",
+      "name": "AWE",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T13:02:27.260Z",
+      "latestPath": "data/results/AWE-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "VelodromeV2",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T13:02:24.206Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "DEXE",
+      "requestedInput": "DEXE",
+      "name": "DeXe",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T13:02:24.189Z",
+      "latestPath": "data/results/DEXE-latest.json"
+    },
+    {
+      "token": "TRUST",
+      "requestedInput": "TRUST",
+      "name": "Trust",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T13:02:30.140Z",
+      "latestPath": "data/results/TRUST-latest.json"
+    },
     {
       "token": "HOT",
       "requestedInput": "HOLO",
@@ -922,16 +972,6 @@
       "latestPath": "data/results/NMR-latest.json"
     },
     {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T08:32:20.487Z",
-      "latestPath": "data/results/VELO-latest.json"
-    },
-    {
       "token": "XAN",
       "requestedInput": "XAN",
       "name": "Anoma",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T08:32:30.467Z",
       "latestPath": "data/results/ETHFI-latest.json"
-    },
-    {
-      "token": "KMNO",
-      "requestedInput": "KMNO",
-      "name": "Kamino Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:32:30.255Z",
-      "latestPath": "data/results/KMNO-latest.json"
-    },
-    {
-      "token": "LLY",
-      "requestedInput": "LLY",
-      "name": "Eli Lilly & Co.",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:32:31.424Z",
-      "latestPath": "data/results/LLY-latest.json"
-    },
-    {
-      "token": "1000RATS",
-      "requestedInput": "1000RATS",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:32:33.657Z",
-      "latestPath": "data/results/1000RATS-latest.json"
-    },
-    {
-      "token": "SLX",
-      "requestedInput": "SLX",
-      "name": "Solstice",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T08:17:01.570Z",
-      "latestPath": "data/results/SLX-latest.json"
     }
   ]
 }
