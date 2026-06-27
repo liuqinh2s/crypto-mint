@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-06-27T23:46:59.623Z",
+  "updatedAt": "2026-06-27T23:54:21.112Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 35,
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T23:54:19.312Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "GRASS",
+      "requestedInput": "GRASS",
+      "name": "Grass",
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-27T23:46:56.870Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-27T23:54:19.791Z",
+      "latestPath": "data/results/GRASS-latest.json"
+    },
+    {
+      "token": "SOON",
+      "requestedInput": "SOON",
+      "name": "SOON",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T23:54:21.111Z",
+      "latestPath": "data/results/SOON-latest.json"
+    },
+    {
+      "token": "STABLE",
+      "requestedInput": "STABLE",
+      "name": "Stable",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T23:54:19.240Z",
+      "latestPath": "data/results/STABLE-latest.json"
     },
     {
       "token": "IP",
@@ -970,36 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-27T19:32:40.868Z",
       "latestPath": "data/results/SYRUP-latest.json"
-    },
-    {
-      "token": "HOT",
-      "requestedInput": "HOLO",
-      "name": "Holo",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:16:58.697Z",
-      "latestPath": "data/results/HOT-latest.json"
-    },
-    {
-      "token": "ORCA",
-      "requestedInput": "ORCA",
-      "name": "Orca",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T19:17:01.921Z",
-      "latestPath": "data/results/ORCA-latest.json"
-    },
-    {
-      "token": "IN",
-      "requestedInput": "IN",
-      "name": "INFINIT",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "观察",
-      "generatedAt": "2026-06-27T19:16:58.593Z",
-      "latestPath": "data/results/IN-latest.json"
     }
   ]
 }
