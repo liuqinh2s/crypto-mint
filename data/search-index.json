@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T22:47:17.502Z",
+  "updatedAt": "2026-06-27T22:54:53.463Z",
   "results": [
     {
       "token": "VELO",
@@ -8,8 +8,58 @@
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-27T22:47:06.470Z",
+      "generatedAt": "2026-06-27T22:54:40.472Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T22:54:40.529Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "HYPER",
+      "requestedInput": "HYPER",
+      "name": "Hyper",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T22:54:43.941Z",
+      "latestPath": "data/results/HYPER-latest.json"
+    },
+    {
+      "token": "ACX",
+      "requestedInput": "ACX",
+      "name": "Across Protocol Token",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T22:54:42.379Z",
+      "latestPath": "data/results/ACX-latest.json"
+    },
+    {
+      "token": "STBL",
+      "requestedInput": "STBL",
+      "name": "STBL",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T22:54:53.461Z",
+      "latestPath": "data/results/STBL-latest.json"
+    },
+    {
+      "token": "MAGMA",
+      "requestedInput": "MAGMA",
+      "name": "Magma Token",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T22:54:52.746Z",
+      "latestPath": "data/results/MAGMA-latest.json"
     },
     {
       "token": "G",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T19:02:31.944Z",
       "latestPath": "data/results/DYDX-latest.json"
-    },
-    {
-      "token": "UNH",
-      "requestedInput": "UNH",
-      "name": "UnitedHealth Group",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T19:02:35.140Z",
-      "latestPath": "data/results/UNH-latest.json"
-    },
-    {
-      "token": "APR",
-      "requestedInput": "APR",
-      "name": "aPriori",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:02:39.917Z",
-      "latestPath": "data/results/APR-latest.json"
-    },
-    {
-      "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
-      "requestedInput": "ICNT",
-      "name": "ICNT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:02:36.903Z",
-      "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
-    },
-    {
-      "token": "ALICE",
-      "requestedInput": "ALICE",
-      "name": "ALICE",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:02:41.524Z",
-      "latestPath": "data/results/ALICE-latest.json"
-    },
-    {
-      "token": "BSV",
-      "requestedInput": "BSV",
-      "name": "BSV",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:02:44.614Z",
-      "latestPath": "data/results/BSV-latest.json"
     }
   ]
 }

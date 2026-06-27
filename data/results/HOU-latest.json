@@ -1,0 +1,188 @@
+{
+  "token": "HOU",
+  "requestedInput": "OUST",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T22:54:40.529Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "HOU",
+    "name": "Houston Token",
+    "generatedAt": "2026-06-27T22:54:33.390Z",
+    "summary": "HOU是Aptos链上DEX HoustonSwap的代币，但当前交易对在Solana链的pumpswap上，存在跨链混淆。价格24h跌32.58%，流动性极低（$9494），FDV仅$11024，无成交量数据，无新闻催化。项目基本面不明，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无买入逻辑，无需失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "HoustonSwap是Aptos链上首个采用CLMM模型的DEX，提供自动做市策略和借贷功能。",
+      "代币总供应量10亿，当前流通量为0，全部未解锁？",
+      "项目官网为houstonswap.io，但当前交易对在Solana链的pumpswap上，代币合约地址未验证，存在同名仿冒风险。"
+    ],
+    "marketRead": [
+      "24h价格下跌32.58%，成交量仅$4872，流动性$9494，属于极低流动性微盘。",
+      "无历史K线数据，无法判断趋势。",
+      "FDV仅$11024，市值极小，容易被操纵。"
+    ],
+    "risks": [
+      "跨链混淆：项目本在Aptos，但交易对在Solana，可能是仿冒代币。",
+      "流动性极低，滑点巨大，进出困难。",
+      "无成交量，无新闻，无社区热度，属于僵尸币。",
+      "合约未开源或未审计，存在Rug Pull风险。",
+      "24h跌幅大，抛压明显。"
+    ],
+    "watchlist": [
+      "确认代币合约是否与HoustonSwap官方一致。",
+      "关注Aptos链上官方流动性池是否启动。",
+      "观察是否有项目方公告或新闻。"
+    ],
+    "sourceNotes": [
+      "数据来自pumpswap DEX，非主流交易所，可靠性低。",
+      "项目资料来自CoinGecko，但当前交易对与项目描述链不一致。",
+      "新闻数据为空，无任何近期动态。"
+    ]
+  },
+  "profile": {
+    "id": "houston-token",
+    "symbol": "HOU",
+    "name": "Houston Token",
+    "categories": [
+      "Aptos Ecosystem"
+    ],
+    "homepage": [
+      "https://houstonswap.io/",
+      "https://app.houstonswap.io/swap"
+    ],
+    "description": "HoustonSwap is the first DEX to adopt the Concentrated Liquidity Market Making (CLMM) model on Aptos chain, providing automated liquidity provision strategies. The vision of HoustonSwap is to make better use of your capital — offering best trading rates for traders with low slippage equipped by CLMM, and minimizing impermanent losses for liquidity providers with best-in-class automated strategies, accompanied by the comprehensive borrowing functionality and automated bots.",
+    "marketCapRank": null,
+    "currentPriceUsd": null,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": null,
+    "priceChange24hPct": null,
+    "priceChange7dPct": 0,
+    "priceChange14dPct": 0,
+    "priceChange30dPct": 0,
+    "athUsd": null,
+    "athChangePct": 0,
+    "circulatingSupply": 0,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 112,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pumpswap",
+    "pair": "HOUSTON/SOL",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "DqJNRXJYJrBNxhNFzMYrfD2jXBdEKDDkbgUoupfckeD3",
+    "pairUrl": "https://dexscreener.com/solana/dqjnrxjyjrbnxhnfzmyrfd2jxbdekddkbguoupfcked3",
+    "lastPrice": 0.00001103,
+    "priceChange24hPct": -32.58,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 4872.27,
+    "liquidityUsd": 9494.04,
+    "fullyDilutedValuationUsd": 11024,
+    "marketCapUsd": 11024,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/dqjnrxjyjrbnxhnfzmyrfd2jxbdekddkbguoupfcked3",
+    "pairAddress": "DqJNRXJYJrBNxhNFzMYrfD2jXBdEKDDkbgUoupfckeD3",
+    "baseToken": {
+      "address": "EXrPSgaWtDDvFdHicFCJTDLiqiahpxea46QDWc4Efomo",
+      "name": "Houston",
+      "symbol": "HOUSTON"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.0000001558",
+    "priceUsd": "0.00001103",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 13,
+        "sells": 20
+      },
+      "h24": {
+        "buys": 35,
+        "sells": 40
+      }
+    },
+    "volume": {
+      "h24": 4872.27,
+      "h6": 2089.98,
+      "h1": 9.8,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -0.41,
+      "h6": -15.34,
+      "h24": -32.58
+    },
+    "liquidity": {
+      "usd": 9494.04,
+      "base": 429825183,
+      "quote": 67.1109
+    },
+    "fdv": 11024,
+    "marketCap": 11024,
+    "pairCreatedAt": 1777478560000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/gOlA09D-kPq-t_Kx?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/8JBZ9W5tb5Vo8av-?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/EXrPSgaWtDDvFdHicFCJTDLiqiahpxea46QDWc4Efomo?timestamp=1782600900000",
+      "websites": [],
+      "socials": [
+        {
+          "url": "https://x.com/dmmarx1307/status/2067378732742988261?s=46",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/HoustonFomo",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned HOUSTON for HOU; DEX profile ignored to avoid token mix-up."
+  ]
+}
