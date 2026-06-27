@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-06-27T01:17:32.433Z",
+  "updatedAt": "2026-06-27T01:29:09.149Z",
   "results": [
+    {
+      "token": "ESP",
+      "requestedInput": "ESP",
+      "name": "Espresso",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T01:28:48.675Z",
+      "latestPath": "data/results/ESP-latest.json"
+    },
+    {
+      "token": "STABLE",
+      "requestedInput": "STABLE",
+      "name": "Stable",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:28:48.337Z",
+      "latestPath": "data/results/STABLE-latest.json"
+    },
+    {
+      "token": "LAYER",
+      "requestedInput": "TRUST",
+      "name": "TRUST",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:28:45.666Z",
+      "latestPath": "data/results/LAYER-latest.json"
+    },
+    {
+      "token": "SKYAI",
+      "requestedInput": "SKYAI",
+      "name": "SkyAI",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T01:28:50.575Z",
+      "latestPath": "data/results/SKYAI-latest.json"
+    },
+    {
+      "token": "Q",
+      "requestedInput": "Q",
+      "name": "Quack AI",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:28:51.942Z",
+      "latestPath": "data/results/Q-latest.json"
+    },
+    {
+      "token": "RPL",
+      "requestedInput": "RPL",
+      "name": "Rocket Pool",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:28:57.024Z",
+      "latestPath": "data/results/RPL-latest.json"
+    },
+    {
+      "token": "XPL",
+      "requestedInput": "XPL",
+      "name": "XPL",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:28:59.948Z",
+      "latestPath": "data/results/XPL-latest.json"
+    },
+    {
+      "token": "SNOW",
+      "requestedInput": "SNOW",
+      "name": "SNOW",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:29:00.309Z",
+      "latestPath": "data/results/SNOW-latest.json"
+    },
+    {
+      "token": "WET",
+      "requestedInput": "WET",
+      "name": "WET",
+      "score": 2,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:29:00.776Z",
+      "latestPath": "data/results/WET-latest.json"
+    },
+    {
+      "token": "AGLD",
+      "requestedInput": "AGLD",
+      "name": "Adventure Gold",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:29:07.780Z",
+      "latestPath": "data/results/AGLD-latest.json"
+    },
+    {
+      "token": "CLANKER",
+      "requestedInput": "CLANKER",
+      "name": "Clanker",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T01:29:09.147Z",
+      "latestPath": "data/results/CLANKER-latest.json"
+    },
     {
       "token": "APE",
       "requestedInput": "APE",
@@ -60,16 +170,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T01:17:21.467Z",
       "latestPath": "data/results/CRV-latest.json"
-    },
-    {
-      "token": "LAYER",
-      "requestedInput": "TRUST",
-      "name": "TRUST",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T01:17:20.160Z",
-      "latestPath": "data/results/LAYER-latest.json"
     },
     {
       "token": "BRKB",
@@ -900,106 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-26T23:02:32.106Z",
       "latestPath": "data/results/GRIFFAIN-latest.json"
-    },
-    {
-      "token": "UNI",
-      "requestedInput": "UNI",
-      "name": "UNI",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T23:02:32.237Z",
-      "latestPath": "data/results/UNI-latest.json"
-    },
-    {
-      "token": "EUL",
-      "requestedInput": "EUL",
-      "name": "Euler",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T23:02:38.848Z",
-      "latestPath": "data/results/EUL-latest.json"
-    },
-    {
-      "token": "GMX",
-      "requestedInput": "GMX",
-      "name": "GMX",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:47:04.755Z",
-      "latestPath": "data/results/GMX-latest.json"
-    },
-    {
-      "token": "IN",
-      "requestedInput": "IN",
-      "name": "INFINIT",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T22:47:06.556Z",
-      "latestPath": "data/results/IN-latest.json"
-    },
-    {
-      "token": "GRASS",
-      "requestedInput": "GRASS",
-      "name": "Grass",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T22:47:06.370Z",
-      "latestPath": "data/results/GRASS-latest.json"
-    },
-    {
-      "token": "SOON",
-      "requestedInput": "SOON",
-      "name": "SOON",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-26T22:47:11.204Z",
-      "latestPath": "data/results/SOON-latest.json"
-    },
-    {
-      "token": "MEW",
-      "requestedInput": "MEW",
-      "name": "cat in a dogs world",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:47:12.469Z",
-      "latestPath": "data/results/MEW-latest.json"
-    },
-    {
-      "token": "INX",
-      "requestedInput": "INX",
-      "name": "Infinex",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-26T22:47:16.476Z",
-      "latestPath": "data/results/INX-latest.json"
-    },
-    {
-      "token": "RAY",
-      "requestedInput": "RAY",
-      "name": "Raydium",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T22:32:10.472Z",
-      "latestPath": "data/results/RAY-latest.json"
-    },
-    {
-      "token": "ORCA",
-      "requestedInput": "ORCA",
-      "name": "Orca",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-26T22:32:11.025Z",
-      "latestPath": "data/results/ORCA-latest.json"
     }
   ]
 }
