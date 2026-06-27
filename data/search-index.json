@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-06-27T13:07:51.753Z",
+  "updatedAt": "2026-06-27T13:17:23.980Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T13:17:13.964Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "XAN",
+      "requestedInput": "XAN",
+      "name": "Anoma",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T13:17:17.359Z",
+      "latestPath": "data/results/XAN-latest.json"
+    },
+    {
+      "token": "MET",
+      "requestedInput": "MET",
+      "name": "Meteora",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T13:17:16.359Z",
+      "latestPath": "data/results/MET-latest.json"
+    },
+    {
+      "token": "TRB",
+      "requestedInput": "TRB",
+      "name": "Tellor",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T13:17:13.746Z",
+      "latestPath": "data/results/TRB-latest.json"
+    },
+    {
+      "token": "ETHFI",
+      "requestedInput": "ETHFI",
+      "name": "ETHFI",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-27T13:17:23.390Z",
+      "latestPath": "data/results/ETHFI-latest.json"
+    },
+    {
+      "token": "NMR",
+      "requestedInput": "NMR",
+      "name": "Numeraire",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-27T13:17:23.978Z",
+      "latestPath": "data/results/NMR-latest.json"
+    },
     {
       "token": "SLX",
       "requestedInput": "SLX",
@@ -70,16 +130,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-27T13:02:27.260Z",
       "latestPath": "data/results/AWE-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T13:02:24.206Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "DEXE",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T09:02:27.025Z",
       "latestPath": "data/results/BRKB-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T09:02:34.189Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
-      "token": "TNSR",
-      "requestedInput": "TNSR",
-      "name": "Tensor",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T08:47:10.723Z",
-      "latestPath": "data/results/TNSR-latest.json"
-    },
-    {
-      "token": "HIVE",
-      "requestedInput": "HIVE",
-      "name": "Hive",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:47:09.819Z",
-      "latestPath": "data/results/HIVE-latest.json"
-    },
-    {
-      "token": "NAORIS",
-      "requestedInput": "NAORIS",
-      "name": "Naoris Protocol",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:47:09.538Z",
-      "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "KAITO",
-      "requestedInput": "KAITO",
-      "name": "KAITO",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T08:47:19.624Z",
-      "latestPath": "data/results/KAITO-latest.json"
     }
   ]
 }
