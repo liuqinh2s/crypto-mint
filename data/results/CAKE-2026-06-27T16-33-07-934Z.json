@@ -1,0 +1,324 @@
+{
+  "token": "CAKE",
+  "requestedInput": "CAKE",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T16:33:07.934Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CAKE",
+    "name": "CAKE",
+    "generatedAt": "2026-06-27T16:32:59.795Z",
+    "summary": "CAKE是PancakeSwap的治理代币，近期价格小幅波动，24小时下跌0.51%，市值约132万美元，流动性约20.8万美元。新闻多为价格预测和项目更新，无重大利好催化。当前缺乏明确上涨动力，建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大协议升级、TVL大幅增长或代币通缩加速，则逻辑可能变化。"
+    },
+    "catalysts": [
+      "PancakeSwap V4上线及空投（2024年3月已发生）",
+      "社区通过提案将最大供应量降至4.5亿（2023年12月）",
+      "BNB链生态整体上涨可能带动CAKE"
+    ],
+    "latestNews": [
+      {
+        "title": "PancakeSwap (CAKE) Price Prediction 2026, 2027-2030: Long-Term Forecast and Market Analysis - Coinpedia",
+        "impact": "中性",
+        "reason": "仅为价格预测，无实质利好"
+      },
+      {
+        "title": "CAKE Rises 3.2% Amid Broad Crypto Rebound and Short Squeeze - CoinMarketCap",
+        "impact": "中性",
+        "reason": "短期反弹，非基本面驱动"
+      },
+      {
+        "title": "PancakeSwap V4 Unveils $3M CAKE Airdrop with Platform Enhancement - Newswire Canada",
+        "impact": "利好",
+        "reason": "V4升级和空投曾提振市场情绪，但已过去较久"
+      },
+      {
+        "title": "The PancakeSwap community has passed the proposal to \"reduce the maximum supply of CAKE to 450 million coins\" - Bitget",
+        "impact": "利好",
+        "reason": "供应减少理论上利好价格，但已落地较久"
+      }
+    ],
+    "fundamentals": [
+      "PancakeSwap是BSC上最大的DEX，TVL曾超70亿美元",
+      "CAKE代币用于治理、质押和参与IFO",
+      "最大供应量已从7.5亿降至4.5亿（社区投票通过）",
+      "V4版本已上线，引入veCAKE模型和费用分成"
+    ],
+    "marketRead": [
+      "24小时成交量仅5570美元，流动性约20.8万美元，交易活跃度低",
+      "价格在0.029美元附近窄幅波动，无明显趋势",
+      "市值仅132万美元，属于小市值代币，波动风险大"
+    ],
+    "risks": [
+      "流动性低，容易产生滑点和操纵",
+      "新闻多为旧闻或预测，缺乏近期实质性催化",
+      "代币供应仍较大（4.5亿），通胀压力存在",
+      "DEX竞争激烈（Uniswap、Trader Joe等），PancakeSwap市场份额可能下滑"
+    ],
+    "watchlist": [
+      "PancakeSwap TVL变化",
+      "CAKE代币销毁或供应减少进展",
+      "BSC链整体活跃度",
+      "是否有新的协议升级或合作公告"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener，仅包含BSC链PancakeSwap交易对",
+      "新闻来源为Google News聚合，部分内容可能过时",
+      "无链上持仓分布或大户数据"
+    ]
+  },
+  "profile": {
+    "id": "0xB9d1b6F9794CEe6eA127efa62faa631Cd072279c",
+    "symbol": "CAKE",
+    "name": "CAKE",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x3f6fda6b19cd4523072181c4cbb2507193bc087f",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.02915,
+    "marketCapUsd": 1322750,
+    "fullyDilutedValuationUsd": 1322750,
+    "totalVolumeUsd": 5570.57,
+    "priceChange24hPct": -0.51,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-11-27",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x3F6fDa6B19cd4523072181C4CBB2507193bc087f",
+    "baseTokenAddress": "0xB9d1b6F9794CEe6eA127efa62faa631Cd072279c",
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "liquidityUsd": 207936.21,
+    "pairUrl": "https://dexscreener.com/bsc/0x3f6fda6b19cd4523072181c4cbb2507193bc087f",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "CAKE/USDT",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x3F6fDa6B19cd4523072181C4CBB2507193bc087f",
+    "pairUrl": "https://dexscreener.com/bsc/0x3f6fda6b19cd4523072181c4cbb2507193bc087f",
+    "lastPrice": 0.02915,
+    "priceChange24hPct": -0.51,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 5570.57,
+    "liquidityUsd": 207936.21,
+    "fullyDilutedValuationUsd": 1322750,
+    "marketCapUsd": 1322750,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x3f6fda6b19cd4523072181c4cbb2507193bc087f",
+    "pairAddress": "0x3F6fDa6B19cd4523072181C4CBB2507193bc087f",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0xB9d1b6F9794CEe6eA127efa62faa631Cd072279c",
+      "name": "CAKE",
+      "symbol": "CAKE"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceNative": "0.02915",
+    "priceUsd": "0.02915",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 3
+      },
+      "h6": {
+        "buys": 28,
+        "sells": 27
+      },
+      "h24": {
+        "buys": 84,
+        "sells": 123
+      }
+    },
+    "volume": {
+      "h24": 5570.57,
+      "h6": 1313.07,
+      "h1": 106.27,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": 0.2,
+      "h6": 2.82,
+      "h24": -0.51
+    },
+    "liquidity": {
+      "usd": 207936.21,
+      "base": 3565767,
+      "quote": 103968
+    },
+    "fdv": 1322750,
+    "marketCap": 1322750,
+    "pairCreatedAt": 1764217887000
+  },
+  "news": [
+    {
+      "title": "PancakeSwap (CAKE) Price Prediction 2026, 2027-2030: Long-Term Forecast and Market Analysis - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WeWQ3UkczVjFWdkNzVmFJc0tsSFQ0cGNpWUM1SDI1clRRV0V0SmVpbm52X3I2aEN1RVJGNFJzc3I0VVRRNHJfT01OWFJyM3BKd0FlTURFSlNyTkNxaEpHSWs3T1luVkFKMlZNdVZrMGhUMW9Ya2xqUmNGNmwtZ9IBgwFBVV95cUxOcm4yazZsNUhhOUtndmZZNUxHVU12S1VKZTU1SUktclBfX2JEOWp1UnBlSTZMeENHajBPcEpsTVAycV93Q2pDOEd4V0ZMZmZyVTBpeDlpSG03ODhrY2loWHVlbEJxb1BZdnJiQjJBeE10WFdxMkFTWHh5dXJ1ZXpNaEdJWQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "snippet": "PancakeSwap (CAKE) Price Prediction 2026, 2027-2030: Long-Term Forecast and Market Analysis&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Convert CAKE to ZMW | CAKE/ZMW Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uY25EVHNqQ1BCX0t2OGVYaHJHaDV1SmNfS2VwQ1hyTE9FM1F2eVdUT2VKdWFvaUtwS3UyOGo2OG9Na045ZmF5ZFBtVjA1UnJiZlZz?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Tue, 23 Jun 2026 22:00:58 GMT",
+      "snippet": "Convert CAKE to ZMW | CAKE/ZMW Conversion Calculator&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "CAKE Rises 3.2% Amid Broad Crypto Rebound and Short Squeeze - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiOUs2S051dVVTWFFEdXE3RHRKNVFtcDh5WmNiVmNBVUNLMkV1LTF5LVAzNElmczIwdlRzTTREcjdiZUl4b2hpOC1hSjRyZ19uQ3RHVFEtaTV6SkdBdlo3ME8wcU9OWjM3bWg0MmZ0SS0?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sun, 07 Jun 2026 07:00:00 GMT",
+      "snippet": "CAKE Rises 3.2% Amid Broad Crypto Rebound and Short Squeeze&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "PancakeSwap Price Prediction: Will CAKE Coin Hit $10? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeGdUZGI1NWRXd09LUjRkdkNSenZqbE5TMFVrVHRfd1F6RlE2UklJWlBaWEdZdURJZnh0TkRSYjBHa3p3a19nX1Q0aUw2QVowTVVzRWNzdllvSzJ6SDhqSG8yMWhSUi1pNVNiVHRpNUFkUmVZUEhOME5QdlhWcHJBenR5WQ?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Tue, 07 Oct 2025 07:00:00 GMT",
+      "snippet": "PancakeSwap Price Prediction: Will CAKE Coin Hit $10?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "PancakeSwap (CAKE) price rally explained: BNB ATH, fee orders, and $772B volumes | Altcoin DeFi - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT3RyRkhFYW1rS2JEWXllRnVzVXd4UVJzbEV4Q2NHb3B0N2hrSTdUMGFpb3k4N2RmNjV0Nk13Q2g3TzNnN2RvN2VyYk43eHc5MDhnUHE2UFQ0bzlPbHlrVmxtRTRZQjRFZzlmSHJtT3VLS1lpZ3ZicEZLS2oyWnJGdTVVNGdFSXlyeFlCWjhVMjV5RFp0bmtZY2JNeW5qejd1ZHd0RDF4M3JvdFVvd3lRR1dB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 03 Oct 2025 07:00:00 GMT",
+      "snippet": "PancakeSwap (CAKE) price rally explained: BNB ATH, fee orders, and $772B volumes | Altcoin DeFi&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "PancakeSwap (CAKE) Price Prediction 2026 to 2030 - Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DbEpEV1IxMnB0SmhoR29xdUs2ZUx2c1hIZzFPLW80T1lJYldlVDhqWkJpeGltaVBXOFZOUlBld1RGOS11M3VPb09HeDljYXZaOXVpY2RDWThwckdIZU9VSThjU0LSAWRBVV95cUxOQ2xKRFdSMTJwdEpoaEdvcXVLNmVMdnNYSGcxTy1vNE9ZSWJXZVQ4alpCaXhpbWlQVzhWTlJQZXdURjktdTN1T29PR3g5Y2F2Wjl1aWNkQ1k4cHJHSGVPVUk4Y1NC?oc=5",
+      "source": "Ventureburn",
+      "publishedAt": "Sat, 07 Feb 2026 08:00:00 GMT",
+      "snippet": "PancakeSwap (CAKE) Price Prediction 2026 to 2030&nbsp;&nbsp;Ventureburn"
+    },
+    {
+      "title": "PancakeSwap Price Prediction 2025-2030: Will CAKE Hit $5? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mZ3BONElBejI3WTNwNUR4RjM4ZlpSR3VpSUxGbWdLT1l3N3Q2MEhiZi00RzRlVTBnTmdFcTdRQkFIVU9vUmtaZEVOd3RYX1U3ck9MbFRUc0Q2RXV1ekhjNHl6cHI2WXVCc2lja2ZR?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "snippet": "PancakeSwap Price Prediction 2025-2030: Will CAKE Hit $5?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "PancakeSwap (CAKE) Price Prediction 2025: $5 Target? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0dVS1FQZFBDaGJSMW1RQW96eFFOXzFVT2VoMllobGRNZVNfVkZ6dW1EWHNDRS1XSVdKUVdIbnJQWUZkaEFiMXlTbGJoLWNsQUVaWkFsWVJ4RnpUbk9reVRPUGhJWkdQZG1YR3JSVDF6dy1DdzNPX0dJNlRwMHBXUVMyTlBaSEtOd213a3c5QThfN1ZpUS1F0gGcAUFVX3lxTE81a0RyNVVFUkdlN3VLSmVmY1hkMFp4c1dDcmZMN1NqSmRYNGpubmFGcWNMUFR3bXA1N1E5bjNsSlpIM0JCUEdsTDFFdlBqcGtZSjM0SkthRlBlR2x5S3VQUi16b2JUWXpKbGFfLS1wanFoa3NneFBadXRZSGg0VFhpZWVpQmVtVVhNeWt2VERpVm9Ya0lpSnd0Nm52Yw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 03 Oct 2025 07:00:00 GMT",
+      "snippet": "PancakeSwap (CAKE) Price Prediction 2025: $5 Target?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "The PancakeSwap (CAKE) Airdrop - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yNFBNT0ZHUUZCbDE1ZERONS1ocGRSSDJSa1ozaGlIWk5ma1h6LVFieFFuZGtnLThNSlU2MndnSmpUZ1NZZWoxd19ldDNON284NmNPNFJ3WHVwR0ZqN3BKbjdpTQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 19 Oct 2024 07:00:00 GMT",
+      "snippet": "The PancakeSwap (CAKE) Airdrop&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Singapore-based Cake DeFi Launches $100M in Capital for Venture Arm - Blockworks",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUGdoZG1kaGtvT1kwV0FoVGx3allMZm9ySnIyQTFxSnZhbzM5RkhqZ3pPczJ5UkJaOXlvcmQxQjBadkdQNzYyMEFBeG81V2dnWGJZLUlVX0lLSXpqM1hMYjJUM3hVZDZFTVVlckJONTlmRWl6WkkwZVBFMXZUcEtvRWR0UFpmcGRDSWMwNVo1MnE5WWFxaVQwWDhB?oc=5",
+      "source": "Blockworks",
+      "publishedAt": "Wed, 09 Mar 2022 08:00:00 GMT",
+      "snippet": "Singapore-based Cake DeFi Launches $100M in Capital for Venture Arm&nbsp;&nbsp;Blockworks"
+    },
+    {
+      "title": "What Is Cake DeFi: Blockchain Financial Services for the Bitcoin Ecosystem - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kYS04UnVINGNCX0hONEZRejZrcnBudnR2cU0wNlFZU0NrRTcxMnVlQ0hxN3c5dTh2YWtmYjc1TDhsR3dDV3Bhd3F5bFllUnMzZ0JLcnBnSQ?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Thu, 07 Oct 2021 07:00:00 GMT",
+      "snippet": "What Is Cake DeFi: Blockchain Financial Services for the Bitcoin Ecosystem&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "PancakeSwap V4 Unveils $3M CAKE Airdrop with Platform Enhancement - Newswire Canada",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRXRNek5vVHJ2aHZfYlRDLS1UVG9XMnpZU0FJektkdmFsTUJvbTk0R3BSbDNXZnE2MVNVZDE2Y24xcUxSbTFYR2ZwQkwzSmpDMU5VOE5Dd1FaWHdfektmZW8xdVpCTzNjV0docG8xU2E3RnZaWnFwckZKMXVNaldzWnNra0RQUzlrek5PSjlsa0ZPZUpnYWVrSjlKdVIxcmRyczVpUk9ObGRqQ0pPX2hKRUtSSUVlNnpu?oc=5",
+      "source": "Newswire Canada",
+      "publishedAt": "Mon, 11 Mar 2024 07:00:00 GMT",
+      "snippet": "PancakeSwap V4 Unveils $3M CAKE Airdrop with Platform Enhancement&nbsp;&nbsp;Newswire Canada"
+    },
+    {
+      "title": "PancakeSwap Price Prediction 2024-2030: Will CAKE Price Hit $10 Soon? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XQ3I3cWlaeGEta3pmQXZHVkFWSGl5UDNDU0RDcFFKOWRYaXFSbHZWQXJmb2dxamxNWG5ldEpZUWdWZll2LXN3djhrbi1WYVBhbVcwc0daSmhHQjdJSXc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 22 Mar 2024 07:00:00 GMT",
+      "snippet": "PancakeSwap Price Prediction 2024-2030: Will CAKE Price Hit $10 Soon?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "The PancakeSwap community has passed the proposal to \"reduce the maximum supply of CAKE to 450 million coins\" - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42OVE1TkMtbnVxZEdTeVlIZHcwTzRBT3dPUmVHcDg2SWgwT3AtZnB6eHhCVWR3Vk5RNldmX0pZbUUwVi1qaERiRFZUTXpDczlpS0JtS2RucDVjSFpqOWfSAWNBVV95cUxPZUFtZWFjV3FoZHhpOVlkVHotMnVxdUFNTEF2MVpjVmhBWm90YlRoaGQyZ282dV9QYTlCUWl0NWdIRU15eGRGM0pNRW41RHdQV2ZXUWJ4U3Vmeldhb2ViLUM5VUk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 29 Dec 2023 08:00:00 GMT",
+      "snippet": "The PancakeSwap community has passed the proposal to \"reduce the maximum supply of CAKE to 450 million coins\"&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "CAKE Price Prediction 2025-35: Will It Hit $300 by 2035? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoaXk2amlQSEg0VUUzUjEydXgycllwdFVfZ1BWeXFjWVhCRWI5NzZRbFdKY0I3MmxzckM0RGdyckxXa2VCX0NqdGZ6SU9Fay0wZWYwRkhEVUJVV1Y5WHfSAWNBVV95cUxPUXdhNUNEbTJlRlB0ZVpBVmszVTlwajhoYkRpTkxQV3BuNDRJTzFBdlhmcF9xXzNPR0dES1ViZWwzSW9jbjFrdENNYk9yMkRJQnNWNnhUNG82cHJacGtZT1hjU0k?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 14 Mar 2025 07:00:00 GMT",
+      "snippet": "CAKE Price Prediction 2025-35: Will It Hit $300 by 2035?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "PancakeSwap launches Swap Bot on Telegram - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rTndlNmcxOUlNTnlIdHBkR05tMDA2ZHB1UHQ3dXRORTlxb3R0M2FpQlRzVTFJTTdQVEZRVWlsZjd2TXBYNlhnT2tlY0sxUjhMZTFrR0VMSmo1Mklkb0E?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 14 Nov 2024 08:00:00 GMT",
+      "snippet": "PancakeSwap launches Swap Bot on Telegram&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/pancakeswap-token?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

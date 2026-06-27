@@ -1,0 +1,246 @@
+{
+  "token": "OMIKAMI",
+  "requestedInput": "AMAT",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T16:32:42.411Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "OMIKAMI",
+    "name": "Amaterasu Omikami",
+    "generatedAt": "2026-06-27T16:32:35.115Z",
+    "summary": "OMIKAMI是Solana链Meteora上的一个代币，流动性约1527万美元，市值约1627万美元，但24小时成交量仅3.99美元，价格几乎无波动。新闻多为旧闻或聚合页面，缺乏近期实质性催化。代币基本面不明，无明确上涨理由，流动性虽高但交易极度冷清，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，不适用"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Amaterasu Omikami Price Today in India | OMIKAMI to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格页面，无实质内容"
+      },
+      {
+        "title": "AMATERASU OMIKAMI (OMIKAMI) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+        "impact": "中性",
+        "reason": "Forbes数据页面，非新闻"
+      },
+      {
+        "title": "Amaterasu Omikami price today, OMIKAMI to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "CoinMarketCap页面，无新信息"
+      },
+      {
+        "title": "Amaterasu Omikami Price Today | OMIKAMI to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "Binance价格页面"
+      },
+      {
+        "title": "Ryoshi: The Visionary Behind Omikami Ecosystem - Binance",
+        "impact": "中性",
+        "reason": "2024年旧文，与当前价格无关"
+      }
+    ],
+    "fundamentals": [
+      "代币创建于2025-11-10，链上Solana，DEX为Meteora",
+      "流动性1527万美元，市值1627万美元，但24小时成交量仅3.99美元",
+      "无官网、无白皮书、无团队信息",
+      "总供应量和流通量未知，FDV等于市值，可能全流通"
+    ],
+    "marketRead": [
+      "24小时价格变化-0.02%，几乎无波动",
+      "24小时成交量3.99美元，流动性极高但交易量极低，说明无人交易",
+      "无历史价格数据，无K线，无法判断趋势"
+    ],
+    "risks": [
+      "成交量极低，流动性可能为虚假或机器人提供，难以退出",
+      "无任何基本面支撑，项目信息缺失",
+      "新闻均为旧闻或聚合页面，无近期催化",
+      "代币可能为meme币或骗局，合约风险高",
+      "价格长期无波动，可能已被市场遗忘"
+    ],
+    "watchlist": [
+      "成交量是否突然放大",
+      "是否有新公告或社区活动",
+      "流动性是否变化"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他来源验证",
+      "新闻均为聚合页面，无原创内容",
+      "缺乏链上持仓分布和交易者数据"
+    ]
+  },
+  "profile": {
+    "id": "8jzfd1Nsoh2j7E4bJFS54JyfxjQsJmw5bqZvALSu7fY5",
+    "symbol": "OMIKAMI",
+    "name": "Amaterasu Omikami",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/5mqdzdnwttdd6qoo2y1kqwglybaubv6rwsnzvjva3zg6",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.01627,
+    "marketCapUsd": 16272843,
+    "fullyDilutedValuationUsd": 16272843,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-11-10",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "5mqDzDnwtTDd6qoo2y1KQwgLYbaUBv6rWsnZvjvA3ZG6",
+    "baseTokenAddress": "8jzfd1Nsoh2j7E4bJFS54JyfxjQsJmw5bqZvALSu7fY5",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 15272854,
+    "pairUrl": "https://dexscreener.com/solana/5mqdzdnwttdd6qoo2y1kqwglybaubv6rwsnzvjva3zg6",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "OMIKAMI/USDC",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "5mqDzDnwtTDd6qoo2y1KQwgLYbaUBv6rWsnZvjvA3ZG6",
+    "pairUrl": "https://dexscreener.com/solana/5mqdzdnwttdd6qoo2y1kqwglybaubv6rwsnzvjva3zg6",
+    "lastPrice": 0.01627,
+    "priceChange24hPct": -0.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 15272854,
+    "fullyDilutedValuationUsd": 16272843,
+    "marketCapUsd": 16272843,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/5mqdzdnwttdd6qoo2y1kqwglybaubv6rwsnzvjva3zg6",
+    "pairAddress": "5mqDzDnwtTDd6qoo2y1KQwgLYbaUBv6rWsnZvjvA3ZG6",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "8jzfd1Nsoh2j7E4bJFS54JyfxjQsJmw5bqZvALSu7fY5",
+      "name": "Amaterasu Omikami",
+      "symbol": "OMIKAMI"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.01627",
+    "priceUsd": "0.01627",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.02
+    },
+    "liquidity": {
+      "usd": 15272854,
+      "base": 938179833,
+      "quote": 6000.7329
+    },
+    "fdv": 16272843,
+    "marketCap": 16272843,
+    "pairCreatedAt": 1762755426000
+  },
+  "news": [
+    {
+      "title": "Amaterasu Omikami Price Today in India | OMIKAMI to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83SHlKUFdfal9OZnE5OHA2TXdOdFlYYWZRcmRQNksyeDliTi1PNmRrU1RXaEw2Vllia09JZ3YzYXhsUjNVakdnd3l1TGtLS3NpZk5STnVGOXVLOEZuUUlyZTdLbw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 19 Jun 2026 07:17:00 GMT",
+      "snippet": "Amaterasu Omikami Price Today in India | OMIKAMI to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "AMATERASU OMIKAMI (OMIKAMI) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PcGt6eVBLTWE4ZlE4dnU1cEFOVFh1QlZEQ0Z5RGFnaTBnNVVHQ0tfT18yWGVzTFZvb1k5ZUJQd3JDY2hFSmVWOGQxODFaWWhrS0tfLUJpNExIWHd3eTJ2clNwcnVGc2puYVRFRlB0SzVFX3EwUV94aU12bw?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Sat, 18 Mar 2023 17:09:48 GMT",
+      "snippet": "AMATERASU OMIKAMI (OMIKAMI) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Amaterasu Omikami price today, OMIKAMI to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10UXBJZ1ZqekJLaE0wMXVUaEJuX1pBX0YxQ3dzRVRNMmpjR1I3VW9GSnBVOG1KYUh0QkV6NU9qbE9pdHVFLXAyUy1vb05yN1l3Zm42TUhwWlJrSWwxS3Y4YmJhQnNYUQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 20 Sep 2023 21:16:48 GMT",
+      "snippet": "Amaterasu Omikami price today, OMIKAMI to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Amaterasu Omikami Price Today | OMIKAMI to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoRDhDQkdoaWRNVGI5VzdKX0lMNW1hdVRzR0RSeUF4S0FmY19hYmNQMG9TdjhZUFlhcHJ2RUNORjdYRXhEbVd1VTdCQ3lfa2lmREQxQUxRRXFiYTdBd21n?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 22 Sep 2023 08:56:34 GMT",
+      "snippet": "Amaterasu Omikami Price Today | OMIKAMI to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Ryoshi: The Visionary Behind Omikami Ecosystem - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zS1h0bDJNb0pOOXllX1NSSE5YVWlDTUJYdFdvd2s3U25lSzN5RGpYR1RMRnBRTjJ2ZWNWcFlNRHlmRVo4cjcxWG1reHZMck43Q041R2lDUXNHSklpQjJnb1FB?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 10 Jun 2024 07:00:00 GMT",
+      "snippet": "Ryoshi: The Visionary Behind Omikami Ecosystem&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=AMAT: Throttled\n"
+  ]
+}
