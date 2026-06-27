@@ -1,0 +1,319 @@
+{
+  "token": "ME",
+  "requestedInput": "ME",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T02:17:17.361Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ME",
+    "name": "Magic Eden",
+    "generatedAt": "2026-06-27T02:17:09.629Z",
+    "summary": "ME是Magic Eden生态代币，近期因平台宣布回购和质押奖励而受到关注，但面临6月10日17%代币解锁的供应冲击风险，且平台钱包服务即将关闭，基本面偏空。当前价格0.4561美元，24小时微跌0.04%，流动性极低（仅3.99美元交易量），市场深度不足，不适合交易。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [
+      "平台宣布回购和质押奖励计划（2026年1月）",
+      "历史上涨67.3%的通道突破（2026年2月）"
+    ],
+    "latestNews": [
+      {
+        "title": "Magic Eden plans a 17% token unlock on June 10, risking market supply shock and price volatility.",
+        "impact": "利空",
+        "reason": "大量解锁将增加流通供应，对价格形成压力。"
+      },
+      {
+        "title": "ME Token Slumps After Magic Eden Announces Buybacks, Staking Rewards",
+        "impact": "利空",
+        "reason": "回购消息未能提振价格，市场反应消极。"
+      },
+      {
+        "title": "Magic Eden Shutting Down? Why the Platform Is Sunsetting Services",
+        "impact": "利空",
+        "reason": "平台服务关闭引发对项目持续性的担忧。"
+      },
+      {
+        "title": "Magic Eden’s Wallet Service Nears Shutdown…Users Urged to Move Assets",
+        "impact": "利空",
+        "reason": "钱包服务关闭影响用户体验和生态活跃度。"
+      }
+    ],
+    "fundamentals": [
+      "Magic Eden是跨链NFT市场，支持Solana、Ethereum、Bitcoin等。",
+      "ME代币于2024年12月空投发行，总供应量未公布，但FDV约4.56亿美元。",
+      "代币经济包括回购和质押奖励，但具体机制不透明。",
+      "平台正逐步关闭部分服务，项目前景不明。"
+    ],
+    "marketRead": [
+      "当前价格0.4561美元，24小时交易量仅3.99美元，流动性极差。",
+      "市场深度不足，大额交易易导致价格剧烈波动。",
+      "无历史价格数据（7日、14日、30日变化均为null），无法判断趋势。"
+    ],
+    "risks": [
+      "6月10日17%代币解锁，供应冲击风险高。",
+      "平台服务关闭，项目可能逐步退出。",
+      "流动性极低，存在操纵和滑点风险。",
+      "新闻多为利空，市场情绪悲观。",
+      "无可靠价格历史，技术分析失效。"
+    ],
+    "watchlist": [
+      "6月10日代币解锁后的市场反应。",
+      "平台是否发布新的发展计划或合作。",
+      "交易量和流动性是否改善。"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，流动性数据可能因低交易量而不准确。",
+      "新闻时间跨度大（2024-2026），部分可能已过时。",
+      "无CEX上市信息，仅DEX交易。"
+    ]
+  },
+  "profile": {
+    "id": "4KMzfU14kUqQG44QuCbCpELKsSrf678SH98Xehkrgakp",
+    "symbol": "ME",
+    "name": "Magic Eden",
+    "categories": [
+      "solana",
+      "orca"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / orca. Pair URL: https://dexscreener.com/solana/dqancfuaaqfuq5a1lru7wyuglkdh7ffjucp2nrr3gvzr",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.4561,
+    "marketCapUsd": 456137695,
+    "fullyDilutedValuationUsd": 456137695,
+    "totalVolumeUsd": 3.99,
+    "priceChange24hPct": -0.04,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-10-16",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "DQAnCFuaaqFuq5a1LrU7WyUgLkDH7ffJUcp2NRR3Gvzr",
+    "baseTokenAddress": "4KMzfU14kUqQG44QuCbCpELKsSrf678SH98Xehkrgakp",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 455127945.38,
+    "pairUrl": "https://dexscreener.com/solana/dqancfuaaqfuq5a1lru7wyuglkdh7ffjucp2nrr3gvzr",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "ME/USDC",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "DQAnCFuaaqFuq5a1LrU7WyUgLkDH7ffJUcp2NRR3Gvzr",
+    "pairUrl": "https://dexscreener.com/solana/dqancfuaaqfuq5a1lru7wyuglkdh7ffjucp2nrr3gvzr",
+    "lastPrice": 0.4561,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.99,
+    "liquidityUsd": 455127945.38,
+    "fullyDilutedValuationUsd": 456137695,
+    "marketCapUsd": 456137695,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/dqancfuaaqfuq5a1lru7wyuglkdh7ffjucp2nrr3gvzr",
+    "pairAddress": "DQAnCFuaaqFuq5a1LrU7WyUgLkDH7ffJUcp2NRR3Gvzr",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "4KMzfU14kUqQG44QuCbCpELKsSrf678SH98Xehkrgakp",
+      "name": "Magic Eden",
+      "symbol": "ME"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.4561",
+    "priceUsd": "0.4561",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 455127945.38,
+      "base": 997786263,
+      "quote": 19.545
+    },
+    "fdv": 456137695,
+    "marketCap": 456137695,
+    "pairCreatedAt": 1760615855000
+  },
+  "news": [
+    {
+      "title": "Convert ME to BSD | ME/BSD Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wQ1FDV3lzckNIaXBJTEdtSDNEYjN5QkVwaVVvaDhENHFzZEl5ZTlSTE5IVWpDOGtCWEVhRFNqb0dLcmtCeXpOTDhqZ3EyNjZJ?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Fri, 26 Jun 2026 09:00:57 GMT",
+      "snippet": "Convert ME to BSD | ME/BSD Conversion Calculator&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Magic Eden Shutting Down? Why the Platform Is Sunsetting Services - CryptoTicker",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wMjJkT2lyekVkT2dmbXdwam9mQ0dkRzF5bW9fNzRsSmJnOFBaRml5NVI1TVBmNHRraUJoLU5WRWRvRDgyb2VFQUw1VnlWRFZQSUxzZHdmalNSNjJwbzk5QzY4TTZCem9zc0VsZE4zYw?oc=5",
+      "source": "CryptoTicker",
+      "publishedAt": "Sat, 11 Apr 2026 07:00:00 GMT",
+      "snippet": "Magic Eden Shutting Down? Why the Platform Is Sunsetting Services&nbsp;&nbsp;CryptoTicker"
+    },
+    {
+      "title": "Magic Eden plans a 17% token unlock on June 10, risking market supply shock and price volatility. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QNlQ2SndpdTJSTW5OOU53Q1UyYVlTVTdVV0NVandsRDhrQXptdklucmprWFVzVXNMWXMwbTBraFRMUDE5cVRGcHdiLUpOaDJ3cWQ5cHNWcnpDb1BfWjk4aVIyYzVaZVBSaUw3TWlhNW5ZQWFHTzl2UF9jRVNSRWM?oc=5",
+      "source": "Pluang",
+      "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "snippet": "Magic Eden plans a 17% token unlock on June 10, risking market supply shock and price volatility.&nbsp;&nbsp;Pluang"
+    },
+    {
+      "title": "ME Token Slumps After Magic Eden Announces Buybacks, Staking Rewards - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0p5Q1BteVpRa1RIMk5GZGt4WTVnVUpRNTRQMWw1R1RoOEhJWHRSRHhEM3ROQXFPMkpJSm5OQktqZTJYc00yNzh0WC1xSnpleDRlQkVqZC12Y2tXZ09yRll0c2Vwa19rcWY2NlNUbE9yYms1QU9LcG45OGRYcnkzc0JZLXhldThiWFE?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "snippet": "ME Token Slumps After Magic Eden Announces Buybacks, Staking Rewards&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Magic Eden Price Today in India | ME to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qZW96SDU0TkJMZnV0Q1lJRlpoa1VGcXVFc0hXXzBBSkRvZURFLTh1dThzN3dvM1lJUWVmWkNOZUNmNXRlMTRsbVRreEMwM0NOYnJWU3FlWUg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 19 Jun 2026 16:00:00 GMT",
+      "snippet": "Magic Eden Price Today in India | ME to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Magic Eden’s Wallet Service Nears Shutdown…Users Urged to Move Assets - bloomingbit",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lTUxnMXZVY1k5cVRWMFAwZ2NiU2MzV1VxaHE2eV9rNVdJQmdHLWRJQ05aSjN2NU5lbk1wNWljWlVyc0Jiem5NdGlQNVJkWTlFcWpWUA?oc=5",
+      "source": "bloomingbit",
+      "publishedAt": "Tue, 31 Mar 2026 07:00:00 GMT",
+      "snippet": "Magic Eden’s Wallet Service Nears Shutdown…Users Urged to Move Assets&nbsp;&nbsp;bloomingbit"
+    },
+    {
+      "title": "ME Skyrockets 67.3% As Ascending Channel Predicts Signals Continued Market Rally: Analyst - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HSmJfVFUxN2tGMkNBOUJXVUZIZm9SMEx4Zl9ucFA4RDVHSVlHTTJEWk9zS0t2enJaQTJhQnZVSTA4UklhY1oxekVQZzNjeWlFMVFJWklXUnlFVzdzc2fSAWNBVV95cUxNS2lST1F0WjktMDgyYlZWSWp4NEg2ejY5SzJTOFZoNEZCcF9lQlNtMU56VThSc3Q0bk5nQkkwcG5DNTZfak5tSEV2NXZiQTUyT3d1MU1paTI0UEJPUjM5REZxN1U?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "ME Skyrockets 67.3% As Ascending Channel Predicts Signals Continued Market Rally: Analyst&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Magic Eden price today, ME to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnRnQ4aFhHa0NqN0lzb28wS0lmMTFQTnIyUFRmb004S0xxQnRGeTFMaEJaUWJmenRvQ0pYUDR6cFRhcDRHU0kzV29pd2xfRzF0ZURoZUZEczdOQ2s?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 12 Jul 2024 10:27:39 GMT",
+      "snippet": "Magic Eden price today, ME to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Magic Eden airdrops ME token to NFT users across Bitcoin, Ethereum, Solana and Polygon ecosystems - The Block",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUSmdXV2ZxUWppSWJtTi1RaDRIWC03MkZRb2k1VEdBMnZRenRJZnl1QjRmSEhFZlljYnkxcWZpZTg4NzBJbG1aNVBuYnNUd0hJM1E4VnBkNWtHUDM2ZTNvR2xjaTNFSHlBOHVSV3hqdVFQdzN5bDZGM09jMmhiTVU?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 10 Dec 2024 08:00:00 GMT",
+      "snippet": "Magic Eden airdrops ME token to NFT users across Bitcoin, Ethereum, Solana and Polygon ecosystems&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Magic Eden Launches Native Ecosystem Token and Airdrop - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVkpvMjhIdTFYLXZjVElKdkxJM05iaWwwSU01TGZoQWZ6Z05nUXJFdGp1c1EtSGJ0N2V5bnNqNHJXZGlBMmgxbkkyUzhiSzZSSVphUlVaZWU5akZkNVc1RjlraW1yRlhGcnNsS0FWc3I4OExiTXhtOThNdlp6VE1sMnZqc1VYU0Q3OG9tQndiRjdobHg2N1Vjd0JXTQ?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Tue, 10 Dec 2024 08:00:00 GMT",
+      "snippet": "Magic Eden Launches Native Ecosystem Token and Airdrop&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "What Is Magic Eden (ME)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Vb2xTcnM5SGZOVXlZR1JXMEdwdEM1OFg1LVFDSF92Rm5zVDNKcmZfVFNuUjc5dW1SZDVmTGlVa2k5UEZTMndESEtSZkNMWDlhLXNNVU55UVZud0J3ck5oWHFvYnlwa1VBSnNLajFDSGJIUE0?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "snippet": "What Is Magic Eden (ME)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Everything You Need to Know About Magic Eden’s $ME Token Airdrop - NFT Now",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TSGh1d1dTQnNadTVhNWJFU3c5MHg4V0Y1d2hlZzRHOWhDRUxDMTBtQTZ6Z3h1SFpLX0N2YVBlZjktZXdVR1FRRlRKVmpTcjZDM0hoUkE3VThnSC05Skk2MExtaEZVeTF1ZEE?oc=5",
+      "source": "NFT Now",
+      "publishedAt": "Tue, 10 Dec 2024 08:00:00 GMT",
+      "snippet": "Everything You Need to Know About Magic Eden’s $ME Token Airdrop&nbsp;&nbsp;NFT Now"
+    },
+    {
+      "title": "Magic Eden Unveils $ME Tokenomics - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT295TU1NaDNKaUo4bFA0R3pjMEg3SS1tX040eVV3ME5FTXJOc0MyaEtoNjBicGNHYmxDaFA5ZllIR2w5bmhya3VZd2k4UExHYkJ0bExTNm9yMDI2dXcyc0NydmFzOFpETVRZQTZkUm51amwxeU1vbF9uay1WTWNxLVFn?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Mon, 18 Nov 2024 08:00:00 GMT",
+      "snippet": "Magic Eden Unveils $ME Tokenomics&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Magic Eden Staking Explained: A Complete Guide - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSeHVMMmFGWWM5ekQwUXpzTDRHb2dvZlI1d3ZqWHQ4eGY4YU0xM0RBaUJKOGlScXBGbVZVMS11MDVDMFVWQ2dzZ01JZzZYX3NzOHdIY2ZpY19KZHZQemfSAWNBVV95cUxPSG1TU0t5VktCb0VTRXIyUE9YTXpUdU4yUHhBaGVGVzBVcURzVGx5elMwR1huWlh3Z1BFUGZ5NVN1QUI0c3VON2s0SDJEVWw3MUdBSnNKWU5Xb24zeGJRemt6elU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 17 Dec 2024 08:00:00 GMT",
+      "snippet": "Magic Eden Staking Explained: A Complete Guide&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Magic Eden Airdrop Guide: How to Claim Magic Eden Token - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsTXhITGJJWnlGUVZQMWZ6bGFWYWlTa0NqNDBlSnRKa0VTeTRjSlpPMEdac1VTVGg2RThoNWEwZWVnMFR3MGtWNndzeG5kUk9kMWZNblFFdnNNLUs2TEHSAWNBVV95cUxQRXpja1R2UEtuUzVyQ3VwT2lZbk1GbS1FdXdFLUdDUVpTQllFWU1qNHBtUmNzQzBMeWIxdE8wclBzbWxmajY3d2cwN0xkWmRHRnBoNVBQUUhKTWpFM0poWXdTajg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 06 Dec 2024 08:00:00 GMT",
+      "snippet": "Magic Eden Airdrop Guide: How to Claim Magic Eden Token&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Detailed explanation of Magic Eden (ME) airdrop rules, claiming steps and future plans - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KcThDc0JESUtEVEdHT01kWXZjNm9NdXE1QWtFMEV2U1VDTmxzYU5UaHhVY2lPa3I4cy1JYW1SYVhPZHpoV3JBMl80SDZKVm5xOFoyU19oWmx5OUk0MFHSAWNBVV95cUxNLUc1SmZDZXdzbjRUTk82TTA5RGhFMk94ejRBMjdyc0lSZ2M1cWYwYkFTMnZWdk8wQjlxd2pyV0hHZ2t1OHJJSU5tU2JGeldtbDREcExyaEhsTDBUOHgyb3dNREk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 05 Dec 2024 08:00:00 GMT",
+      "snippet": "Detailed explanation of Magic Eden (ME) airdrop rules, claiming steps and future plans&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

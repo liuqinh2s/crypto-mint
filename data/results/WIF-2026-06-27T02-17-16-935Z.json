@@ -1,0 +1,312 @@
+{
+  "token": "WIF",
+  "requestedInput": "WIF",
+  "exchange": "other",
+  "generatedAt": "2026-06-27T02:17:16.935Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "WIF",
+    "name": "dogwifhat",
+    "generatedAt": "2026-06-27T02:17:09.623Z",
+    "summary": "WIF 24小时涨幅14%，但流动性极低（仅1.2万美元），交易量极小，价格容易被操纵。基本面仍是纯Meme币，无实质价值支撑。近期催化来自Upbit上线等新闻，但已消化。当前价格较ATH跌96.7%，处于深度熊市。风险极高，不建议买入。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": null
+    },
+    "catalysts": [
+      "Upbit上线WIF（2026年5月）",
+      "Meme板块情绪反弹",
+      "鲸鱼地址持续增持（CoinDesk报道）"
+    ],
+    "latestNews": [
+      {
+        "title": "Why is Dogwifhat rising? - FXStreet",
+        "impact": "中性",
+        "reason": "新闻标题但无实质新信息"
+      },
+      {
+        "title": "Upbit’s Dogwifhat Listing Jolts WIF As Traders Chase Solana Memecoins - DailyCoin",
+        "impact": "利好",
+        "reason": "韩国头部交易所上线带来短期买盘"
+      },
+      {
+        "title": "dogwifhat: WIF jumps 44%, breaks April’s $0.225 high on Upbit news - AMBCrypto",
+        "impact": "利好",
+        "reason": "Upbit上线后价格突破前高"
+      }
+    ],
+    "fundamentals": [
+      "Solana链上Meme币，无团队、无VC、无实际用途",
+      "总供应量约9.99亿枚，全流通",
+      "社区驱动，无正式治理",
+      "当前市值约1.57亿美元（CoinGecko排名197）",
+      "ATH 4.83美元，当前0.1577美元，跌幅96.7%"
+    ],
+    "marketRead": [
+      "24小时涨幅14%，但交易量仅669美元，流动性仅1.26万美元（VVS Finance DEX）",
+      "价格波动极易被大单操纵，实际市场深度极差",
+      "30日跌幅15.7%，整体处于下行趋势"
+    ],
+    "risks": [
+      "流动性极低，滑点巨大，无法大额交易",
+      "纯Meme币，无基本面支撑，价格归零风险高",
+      "已从ATH跌去96.7%，反弹空间有限",
+      "新闻催化已消化，缺乏新叙事",
+      "DEX交易对可能存在合约风险"
+    ],
+    "watchlist": [
+      "Upbit等CEX是否增加交易对",
+      "Meme板块整体情绪",
+      "鲸鱼地址动向",
+      "Solana链上活跃度"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko和DexScreener，流动性数据仅反映VVS Finance DEX，可能不全面",
+      "新闻时间跨度大，部分为2024-2025年旧闻"
+    ]
+  },
+  "profile": {
+    "id": "dogwifcoin",
+    "symbol": "WIF",
+    "name": "dogwifhat",
+    "categories": [
+      "Solana Ecosystem",
+      "Meme",
+      "Dog-Themed",
+      "Solana Meme",
+      "GMCI Meme Index",
+      "GMCI Index",
+      "Unichain Ecosystem"
+    ],
+    "homepage": [
+      "https://dogwifcoin.org",
+      "https://dogwifhat.us/"
+    ],
+    "description": "dogwifhat (WIF) is a Solana-based memecoin featuring a Shiba Inu dog wearing a pink knitted hat that has become a central figure in the 2024-2026 market. Originally launched anonymously in late 2023, the project operates on a decentralized, community-driven model with no formal venture capital backing or complex tokenomics. It represents a cultural phenomenon on the Solana blockchain that celebrates whimsy and simplicity over technical complexity, focusing on its identity as a playful mascot for the digital finance era. The project’s main value proposition is its \"Pure Meme Identity,\" as it maintains a strict focus on its meme origins without forced utility or a pivot toward DeFi and gaming. The project embodies the community-driven nature of the Solana ecosystem, prioritizing \"vibes\" and meme-sharing as its primary growth drivers. It follows a \"hat stays on\" philosophy, maintaining a singular focus on its core meme rather than building a complex ecosystem. While the project does not have a formal governance structure or DAO, decisions are largely driven by social consensus among the community and key influencers. Notable community initiatives include the \"Sphere Wif Hat\" campaign,",
+    "marketCapRank": 197,
+    "currentPriceUsd": 0.157666,
+    "marketCapUsd": 157484842,
+    "fullyDilutedValuationUsd": 157484842,
+    "totalVolumeUsd": 52164780,
+    "priceChange24hPct": 13.63678,
+    "priceChange7dPct": -2.47507,
+    "priceChange14dPct": -1.01891,
+    "priceChange30dPct": -15.66899,
+    "athUsd": 4.83,
+    "athChangePct": -96.74173,
+    "circulatingSupply": 998926392,
+    "totalSupply": 998926392,
+    "maxSupply": 998926392,
+    "sentimentVotesUpPct": 80,
+    "watchlistUsers": 118909,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "vvsfinance",
+    "pair": "WIF/WCRO",
+    "chainId": "cronos",
+    "dexId": "vvsfinance",
+    "pairAddress": "0x3916153D25077b2eDF8d8fd5eFc4D34C92665405",
+    "pairUrl": "https://dexscreener.com/cronos/0x3916153d25077b2edf8d8fd5efc4d34c92665405",
+    "lastPrice": 0.1575,
+    "priceChange24hPct": 14.3,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 668.98,
+    "liquidityUsd": 12638.96,
+    "fullyDilutedValuationUsd": 95332,
+    "marketCapUsd": 95332,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "cronos",
+    "dexId": "vvsfinance",
+    "url": "https://dexscreener.com/cronos/0x3916153d25077b2edf8d8fd5efc4d34c92665405",
+    "pairAddress": "0x3916153D25077b2eDF8d8fd5eFc4D34C92665405",
+    "baseToken": {
+      "address": "0x25e8C72D267b96E757875d8b565A42c0e3B8f12f",
+      "name": "WIF",
+      "symbol": "WIF"
+    },
+    "quoteToken": {
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "name": "Wrapped CRO",
+      "symbol": "WCRO"
+    },
+    "priceNative": "2.8591",
+    "priceUsd": "0.1575",
+    "txns": {
+      "m5": {
+        "buys": 2,
+        "sells": 1
+      },
+      "h1": {
+        "buys": 2,
+        "sells": 2
+      },
+      "h6": {
+        "buys": 7,
+        "sells": 6
+      },
+      "h24": {
+        "buys": 36,
+        "sells": 20
+      }
+    },
+    "volume": {
+      "h24": 668.98,
+      "h6": 229.61,
+      "h1": 112.1,
+      "m5": 110.05
+    },
+    "priceChange": {
+      "m5": 0.34,
+      "h1": 0.27,
+      "h6": 1.16,
+      "h24": 14.3
+    },
+    "liquidity": {
+      "usd": 12638.96,
+      "base": 40105,
+      "quote": 114667
+    },
+    "fdv": 95332,
+    "marketCap": 95332,
+    "pairCreatedAt": 1721210179000
+  },
+  "news": [
+    {
+      "title": "Why is Dogwifhat rising? - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS2JBY0ZsWnNjS3JSakdYQmlTNGNHUDFRWktNbWJUYXREYlNLNll0YTZ5TUFyXzBZN1FkMXY0TGpiNHNUSzI1WlRWbXQxMzJra0VhTGcwNUlxanM2bTBtYTZiVlh0azVLdkdhYUpvV0U0ZWZxckVVRnRwbnFQRWFnSmJpUlpGODEyVllaSFBUMjFRNVljeWFjM2NuVzlaeU45WTZtRWJITzZJWmpJYXBCVnlQNTI0UjUwZ1FSc1NrU1BzZUZuSjlsTXdlM04?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "Tue, 05 May 2026 07:00:00 GMT",
+      "snippet": "Why is Dogwifhat rising?&nbsp;&nbsp;FXStreet"
+    },
+    {
+      "title": "Dogwifhat (WIF) Price Prediction 2026, 2027 – 2030: How High Can This Solana Memecoin Go? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BT0I2a3pDMGZEcEtESXd3MlZuNzFURlh1WVhDMmJBczV6YkllSnJlc2NTNE1mTzRrTl9VNFItU0p4M1N5RUtBSUppR29fQWpNcEVxd3hjdVFhQUtUZmfSAWNBVV95cUxOSVFYaW5XckozdmlKdmFtMnI2OElsYUhoX1JVYmJsNDkzcVJVcmRWclptSFBSUHFxcFRrcHM4RjFOYW9BTXRRdUR1V0hQa2lDUmdmS2JjejBxZnpkaUlVeGQ4aW8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "snippet": "Dogwifhat (WIF) Price Prediction 2026, 2027 – 2030: How High Can This Solana Memecoin Go?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Dogwifhat Price Prediction: A Realistic 2026-2030 Outlook for the Solana Memecoin’s Astonishing Trajectory - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51c2hZMXozS05XUWtGaDhRVVduVXhZcDBIRU5SN2txOFBuQmRvOHFnN3M5ckZITmFyclFyRV9yazVHalg2UjR6b3puc1JURFJyWU5fc2xabDdiOGlLRnM1dEl6UnBqWEo2LWVJSlA2eW1fTENvY3BtbHJzdjc0UQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "snippet": "Dogwifhat Price Prediction: A Realistic 2026-2030 Outlook for the Solana Memecoin’s Astonishing Trajectory&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Upbit’s Dogwifhat Listing Jolts WIF As Traders Chase Solana Memecoins - DailyCoin",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXNaaTVraVpoZ3ZaX1JYT25RZTBNdUNkVEJpWHUyMHYzcmt6a1h4akxMYWE1TWRZcGJQLURmVzA4LWp6MFdNcWVGZjNmWjJiNm1oRllmSjAzSzJVOW9jbmV1SXFiMlZ4bzNvQTQ4RWhSbWhzaW1FeFQ1QnI3YkZIR29TbUtPY2JPNElWSWFJMUxVNmpZc3c?oc=5",
+      "source": "DailyCoin",
+      "publishedAt": "Fri, 08 May 2026 07:00:00 GMT",
+      "snippet": "Upbit’s Dogwifhat Listing Jolts WIF As Traders Chase Solana Memecoins&nbsp;&nbsp;DailyCoin"
+    },
+    {
+      "title": "dogwifhat: WIF jumps 44%, breaks April’s $0.225 high on Upbit news - AMBCrypto",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYktRWkdUZlhKMHV6Z2Q1X2N5YUI5UDlmbXBQUWotNGFUOW5yLWFqVXU4ZzZSd1RJWGVvWEVqRFpha0pWYThtOWREMWJQRlYxRDVWSkZIcXVUQXBZTzlkeVpYUkJNX1BFR1oxeXA1NF9vLTVsUFRTU2tURk1aRnhsQXRIMkVEUGl4OHRQTNIBkgFBVV95cUxOZWRLOWo2VjRkX1Q3d2xpZlhnd1J1WVlmQlMxYkhnajJWM0FZNEtEanNFY0RqMHlVa0duZXIwTGxnckZLaXVvSDd4M0M2Z3RDa1huampJNFJuZURPRWN4ckhnZkNZNXpBMzR1QmdPVGFKWFgzQUhIcjcyTWRNX2tLYzFGaFJwQTc5czNIVWpfc3o4Zw?oc=5",
+      "source": "AMBCrypto",
+      "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
+      "snippet": "dogwifhat: WIF jumps 44%, breaks April’s $0.225 high on Upbit news&nbsp;&nbsp;AMBCrypto"
+    },
+    {
+      "title": "Dogwifhat Price Prediction 2025-2030: How Soon Will WIF Price Hit $2 in 2025? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HUkhCa1Y3ZElwX0x6ZWllZmg4WG84Sm9XLUFjZHNsUkI5QWNVOGx0TmVJZV95Q0tOemZMNXNoS3BuV191U081b0ZUUDlYWThXQThUMEttMWhiNWZ0ZXlKb0QyNWpwUXlTd0ZBMDRCd18?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "snippet": "Dogwifhat Price Prediction 2025-2030: How Soon Will WIF Price Hit $2 in 2025?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Dogwifhat WIF Price: Key Insights, Technical Analysis, and Future Predictions - OKX",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qOGJfQWRKeFVJNV9JUWNQYnl5TnU2NTVJZHZjcWtuLXU3ZDZ4dUMyNlpJVXZqRlY2YkZTaWItelNUaGVBU1hkSVJ1Wlk3Z1d4X0NOQ0hkWWRWbUpGZDMyZTNRcmtZV3dpblhIUmt6V0picFVB?oc=5",
+      "source": "OKX",
+      "publishedAt": "Fri, 05 Sep 2025 07:00:00 GMT",
+      "snippet": "Dogwifhat WIF Price: Key Insights, Technical Analysis, and Future Predictions&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Dogwifhat (WIF) Price Holds Firm as Whale Wallets Continue Accumulating Dogwifhat - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2Z1VW1vSGswM3ZSWnUtd0tvbDdpamNGR1RPT1BMOEUwN3drbXlzZ2VIaHpUWHFFR2pzZDdaOWx6Mmc0TnNEV0RhREFyU1Rsa2xWaVdTMjdXLWNoM1BWYzZacnVSeGJ2YUFGNEFsZ1pWMk5VWjZhV2xvOXNHNEVLU3Q3YzRnelEzV1NsdG41RjhiNDRPUzZFeVptcUZzTjBfZ2ppRQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sat, 05 Jul 2025 07:00:00 GMT",
+      "snippet": "Dogwifhat (WIF) Price Holds Firm as Whale Wallets Continue Accumulating Dogwifhat&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Trading for JUP, W, WIF and more starts now in the United Kingdom - Kraken Blog",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1J4V1VFNVFqWTZaOHlqOC11OERuT0k5OE1UekU0cWcxMlhRZ2dVQ2lUcnRjMzVmdmt1bzBfMm9WZFExaHJQcjFJS3N2MWRfZ2w3Vm1PR1JkeFR2VnVucXE3cXRzNTR4TmcxWlc0NTRCSUpFdURsWHgzU19YMk9FNmdfelZ6VnVscGwwUnZEbDdGdXJaVk1yY3U3bk1TdFNwTjViSFRiX2NyQTdPQ1lj?oc=5",
+      "source": "Kraken Blog",
+      "publishedAt": "Fri, 19 Apr 2024 07:00:00 GMT",
+      "snippet": "Trading for JUP, W, WIF and more starts now in the United Kingdom&nbsp;&nbsp;Kraken Blog"
+    },
+    {
+      "title": "Dogwifhat (WIF): Is This Solana Meme Coin the Best Buy Amidst a 113% Price Surge? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oMk5vTElRVWpXRU1ta2JWNW9JQVZCcHZxRENmTVZzUDU4WmJqMjZlbXFOM3ZCc29Pdko5Tmh2SEZsMDdRMlZmcDhfMGd5cllnTzhWUm55Wk9Da2Z0U3FFbHJ0OUk4NHNUZjBEeWNUbWxqRl9HX0hxSnhjN0xsQQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 14 May 2025 07:00:00 GMT",
+      "snippet": "Dogwifhat (WIF): Is This Solana Meme Coin the Best Buy Amidst a 113% Price Surge?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Crypto Price Analysis 4-7: BITCOIN: BTC, ETHEREUM: ETH, SOLANA: SOL, DOGECOIN: DOGE, DOGWIFHAT: WIF, CELESTIA: TIA, ARBITRUM: ARB - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52MndRSEdPQ2NpTl9jeHBnQXpLVXFqQUxYV2lYV0JxTjc4b2JZRlFfbVRrVDhPS3kzOUdmNllDYm9CYjdQblNRaTRtOGJYaVlGNzZvNmFKWEUzanY3VlHSAWNBVV95cUxPYkxlUmJ2bFlIa1dyNG41NjR6Z3JVenhHUTR4ZG1RWmRKTzZucDVGS3ZIRWJJTFpuMlMwTGRrQlhHMHpPaVljekdac0VIZlE2UDVkZ3lPbk9wcTV0M1RwTXFXZ00?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 06 Apr 2025 07:00:00 GMT",
+      "snippet": "Crypto Price Analysis 4-7: BITCOIN: BTC, ETHEREUM: ETH, SOLANA: SOL, DOGECOIN: DOGE, DOGWIFHAT: WIF, CELESTIA: TIA, ARBITRUM: ARB&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "The Meme coin sector rebounds and generally rises, with WIF's 24-hour increase of 31.4% - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GMXZoenppcndIaW9HTUZ0RXZGLUNEUHowcXc3UzI0Qk1ZRklOVHpLTkZtVXF6MUc3UTd0dHVZWlU1amR0UGRjSTdiWUxvT2dKRmU0b1dNZ0JYWTdCdkE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 17 Mar 2024 07:00:00 GMT",
+      "snippet": "The Meme coin sector rebounds and generally rises, with WIF's 24-hour increase of 31.4%&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Crypto Price Analysis 11-21: BITCOIN: BTC, ETHEREUM: ETH, SOLANA: SOL, RIPPLE: XRP, DOGWIFHAT: WIF - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01Zjd5SVFvMnhNU0JiejA0VFhPbVB1VEdXTmRnLXZOQjdiRkpMeVBzNlBjbmFVYnhwMm9CMDl1UC1yd2Z6U2wwTGt5VjBmY3VFZ3VpQ3NuSDVvdE5pVlHSAWNBVV95cUxNNDdDalhtRTBxRUlWaE1fRVhRcDRlTEZWajdqcjlpUzdBWmJMSGdRNm13SXVzeW53VlBsejBlcGV2MVVhQUpZM1Q0NVI1X3htT1hxb0h1WmFEZFotQzlkaU55RTg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "snippet": "Crypto Price Analysis 11-21: BITCOIN: BTC, ETHEREUM: ETH, SOLANA: SOL, RIPPLE: XRP, DOGWIFHAT: WIF&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Pink Shiba Inu Hat Associated With Dogwifhat Sells For $799K at Auction - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEUW1BWVdKU09VMkxmbXpkeUhXMm1OLVJPbDJ1R1N4eHlJQkZOLVpDNFNQZTduazI0TVhIa29KVlZRaTd0VkI0aTJfaUV3X2FneG5BMHVZd1lZeV9nQmfSAWNBVV95cUxNSGFXQjhqMVNKV3RfUDUyWGlQQ0ZTdy0yckhZTUpXMGFUZ2k0cUZlTklRTEpGUlVoSGZaTHVxN1hSUVZfdmZwdTZBOUV0aDV5dC1QcVpmVWtiVzJSTDVkUmJUcFk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 07 Aug 2025 07:00:00 GMT",
+      "snippet": "Pink Shiba Inu Hat Associated With Dogwifhat Sells For $799K at Auction&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "WIF Price Crashes 11.1% Amid Meme Coin Sell-Off – Is Dogwifhat in Serious Trouble? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zVWxOeWFGWUZ1RWpqRGFoNjJEVUlwSVZuTmZPREdjV0x2VVNSUWVLRllXMXU4VEl2cmVEY0Zsc0EwRktCYjBtSU0xamoweU5Ra0lNMTlkM1VhUzd6TVHSAWNBVV95cUxNa09fVlhwNS1lRkVvajExaERfMDY4V25FSU1qZmVJeWtiMkpEdW96akx0T2VtS0N4bnd5Mm9nMTQzRU90M2ExM2lWMzB2bTFCSkJkZDYxQWtiOWctVmQ2UjZFTlE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 22 Oct 2024 07:00:00 GMT",
+      "snippet": "WIF Price Crashes 11.1% Amid Meme Coin Sell-Off – Is Dogwifhat in Serious Trouble?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Will List Dogwifhat (WIF) with Seed Tag Applied - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUWd0VjJVRVhNenFjR2UyNDBZVUwyVlBKdkk0ZUlrMlB2aW0ta0xkSGNDUU80OXhUS2V2ei1kRm1halFidTRLajNBMnZwMjIya0o1TUdCNzFOcG9fZU5FLTVaU1R1S0JaRGlNbF9SR1JRMzJDM3RlQUxNMUs1Q3FRUGRJdFB5M0c0ZGlqR3VxelI?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 05 Mar 2024 08:00:00 GMT",
+      "snippet": "Binance Will List Dogwifhat (WIF) with Seed Tag Applied&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
