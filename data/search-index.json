@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-27T23:32:14.985Z",
+  "updatedAt": "2026-06-27T23:46:59.623Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
+      "name": "Velodrome Finance",
+      "score": 35,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T23:32:12.035Z",
+      "action": "观察",
+      "generatedAt": "2026-06-27T23:46:56.870Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
@@ -18,8 +18,28 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T23:32:14.477Z",
+      "generatedAt": "2026-06-27T23:46:55.894Z",
       "latestPath": "data/results/IP-latest.json"
+    },
+    {
+      "token": "ICNT",
+      "requestedInput": "ICNT",
+      "name": "Impossible Cloud Network Token",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-27T23:46:59.621Z",
+      "latestPath": "data/results/ICNT-latest.json"
+    },
+    {
+      "token": "LAB",
+      "requestedInput": "LAB",
+      "name": "LAB",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-27T23:46:55.748Z",
+      "latestPath": "data/results/LAB-latest.json"
     },
     {
       "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
@@ -30,16 +50,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T23:32:09.084Z",
       "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
-    },
-    {
-      "token": "LAB",
-      "requestedInput": "LAB",
-      "name": "LAB",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T23:32:14.983Z",
-      "latestPath": "data/results/LAB-latest.json"
     },
     {
       "token": "ARC",
@@ -990,16 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T19:16:58.593Z",
       "latestPath": "data/results/IN-latest.json"
-    },
-    {
-      "token": "GRASS",
-      "requestedInput": "GRASS",
-      "name": "Grass",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:17:04.847Z",
-      "latestPath": "data/results/GRASS-latest.json"
     }
   ]
 }
