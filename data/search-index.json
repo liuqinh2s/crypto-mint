@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T07:48:01.715Z",
+  "updatedAt": "2026-06-28T08:03:15.492Z",
   "results": [
     {
       "token": "TIA",
@@ -8,28 +8,88 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T07:47:43.525Z",
+      "generatedAt": "2026-06-28T08:02:58.307Z",
       "latestPath": "data/results/TIA-latest.json"
     },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
+      "name": "VelodromeV2",
       "score": 30,
       "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T07:47:44.667Z",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:02:58.470Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "GRIFFAIN",
       "requestedInput": "GRIFFAIN",
       "name": "GRIFFAIN",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T08:03:05.150Z",
+      "latestPath": "data/results/GRIFFAIN-latest.json"
+    },
+    {
+      "token": "B2",
+      "requestedInput": "B2",
+      "name": "BSquared Token",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T08:03:00.839Z",
+      "latestPath": "data/results/B2-latest.json"
+    },
+    {
+      "token": "ARQQ",
+      "requestedInput": "ARQQ",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:03:02.532Z",
+      "latestPath": "data/results/ARQQ-latest.json"
+    },
+    {
+      "token": "AMD",
+      "requestedInput": "AMD",
+      "name": "AMD",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:03:11.827Z",
+      "latestPath": "data/results/AMD-latest.json"
+    },
+    {
+      "token": "LLY",
+      "requestedInput": "LLY",
+      "name": "Eli Lilly & Co.",
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T07:47:46.516Z",
-      "latestPath": "data/results/GRIFFAIN-latest.json"
+      "generatedAt": "2026-06-28T08:03:15.180Z",
+      "latestPath": "data/results/LLY-latest.json"
+    },
+    {
+      "token": "1000RATS",
+      "requestedInput": "1000RATS",
+      "name": "1000RATS",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:03:08.547Z",
+      "latestPath": "data/results/1000RATS-latest.json"
+    },
+    {
+      "token": "USDC",
+      "requestedInput": "USDC",
+      "name": "USDC",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:03:15.490Z",
+      "latestPath": "data/results/USDC-latest.json"
     },
     {
       "token": "CHILLGUY",
@@ -42,26 +102,6 @@
       "latestPath": "data/results/CHILLGUY-latest.json"
     },
     {
-      "token": "B2",
-      "requestedInput": "B2",
-      "name": "BSquared Token",
-      "score": 40,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T07:47:51.332Z",
-      "latestPath": "data/results/B2-latest.json"
-    },
-    {
-      "token": "ARQQ",
-      "requestedInput": "ARQQ",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T07:47:46.505Z",
-      "latestPath": "data/results/ARQQ-latest.json"
-    },
-    {
       "token": "AERO",
       "requestedInput": "AERO",
       "name": "Aerodrome Finance",
@@ -72,16 +112,6 @@
       "latestPath": "data/results/AERO-latest.json"
     },
     {
-      "token": "AMD",
-      "requestedInput": "AMD",
-      "name": "AMD",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T07:47:56.202Z",
-      "latestPath": "data/results/AMD-latest.json"
-    },
-    {
       "token": "SAPM",
       "requestedInput": "SAMSUNG",
       "name": "Samsung Phone Ai Mirror⚡",
@@ -90,36 +120,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T07:47:52.014Z",
       "latestPath": "data/results/SAPM-latest.json"
-    },
-    {
-      "token": "LLY",
-      "requestedInput": "LLY",
-      "name": "Eli Lilly & Co.",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T07:48:00.175Z",
-      "latestPath": "data/results/LLY-latest.json"
-    },
-    {
-      "token": "1000RATS",
-      "requestedInput": "1000RATS",
-      "name": "Ordinals RATS",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T07:47:57.080Z",
-      "latestPath": "data/results/1000RATS-latest.json"
-    },
-    {
-      "token": "USDC",
-      "requestedInput": "USDC",
-      "name": "USDC",
-      "score": 10,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T07:48:01.713Z",
-      "latestPath": "data/results/USDC-latest.json"
     },
     {
       "token": "TRADOOR",
