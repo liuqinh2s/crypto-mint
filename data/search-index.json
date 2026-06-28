@@ -1,6 +1,186 @@
 {
-  "updatedAt": "2026-06-28T14:03:34.132Z",
+  "updatedAt": "2026-06-28T14:17:50.683Z",
   "results": [
+    {
+      "token": "AXS",
+      "requestedInput": "AXS",
+      "name": "Axie Infinity",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T14:17:20.576Z",
+      "latestPath": "data/results/AXS-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T14:17:15.479Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "HOLO",
+      "requestedInput": "HOLO",
+      "name": "Holoworld AI",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T14:17:14.535Z",
+      "latestPath": "data/results/HOLO-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T14:17:15.272Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "ORCA",
+      "requestedInput": "ORCA",
+      "name": "Orca",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T14:17:23.541Z",
+      "latestPath": "data/results/ORCA-latest.json"
+    },
+    {
+      "token": "IN",
+      "requestedInput": "IN",
+      "name": "INFINIT",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T14:17:25.334Z",
+      "latestPath": "data/results/IN-latest.json"
+    },
+    {
+      "token": "GRASS",
+      "requestedInput": "GRASS",
+      "name": "Grass",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T14:17:23.206Z",
+      "latestPath": "data/results/GRASS-latest.json"
+    },
+    {
+      "token": "MEW",
+      "requestedInput": "MEW",
+      "name": "mew",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T14:17:30.111Z",
+      "latestPath": "data/results/MEW-latest.json"
+    },
+    {
+      "token": "MMT",
+      "requestedInput": "MMT",
+      "name": "MMT",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T14:17:36.074Z",
+      "latestPath": "data/results/MMT-latest.json"
+    },
+    {
+      "token": "1000SATS",
+      "requestedInput": "1000SATS",
+      "name": "SATS (Ordinals)",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T14:17:31.215Z",
+      "latestPath": "data/results/1000SATS-latest.json"
+    },
+    {
+      "token": "ICNT",
+      "requestedInput": "ICNT",
+      "name": "Impossible Cloud Network Token",
+      "score": 65,
+      "label": "可以买但严控仓位",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T14:17:34.974Z",
+      "latestPath": "data/results/ICNT-latest.json"
+    },
+    {
+      "token": "AAVE",
+      "requestedInput": "AAVE",
+      "name": "AAVE",
+      "score": 40,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T14:17:39.329Z",
+      "latestPath": "data/results/AAVE-latest.json"
+    },
+    {
+      "token": "NATGAS",
+      "requestedInput": "NATGAS",
+      "name": "Natural Gas (Derivatives)",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T14:17:37.905Z",
+      "latestPath": "data/results/NATGAS-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T14:17:43.821Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "SAPM",
+      "requestedInput": "SAMSUNG",
+      "name": "Samsung Phone Ai Mirror⚡",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T14:17:42.073Z",
+      "latestPath": "data/results/SAPM-latest.json"
+    },
+    {
+      "token": "LTC",
+      "requestedInput": "LTC",
+      "name": "LTC",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T14:17:48.160Z",
+      "latestPath": "data/results/LTC-latest.json"
+    },
+    {
+      "token": "BAS",
+      "requestedInput": "BAS",
+      "name": "BAS",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T14:17:47.555Z",
+      "latestPath": "data/results/BAS-latest.json"
+    },
+    {
+      "token": "UAI",
+      "requestedInput": "UAI",
+      "name": "UnifAI Network",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T14:17:50.682Z",
+      "latestPath": "data/results/UAI-latest.json"
+    },
     {
       "token": "ARC",
       "requestedInput": "ARC",
@@ -20,16 +200,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T14:03:01.366Z",
       "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T14:03:00.597Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "DYDX",
@@ -102,16 +272,6 @@
       "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
     },
     {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T14:03:19.560Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
       "token": "MEME",
       "requestedInput": "MEME",
       "name": "MEME",
@@ -120,16 +280,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T14:03:21.256Z",
       "latestPath": "data/results/MEME-latest.json"
-    },
-    {
-      "token": "SAPM",
-      "requestedInput": "SAMSUNG",
-      "name": "Samsung Phone Ai Mirror⚡",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T14:03:22.259Z",
-      "latestPath": "data/results/SAPM-latest.json"
     },
     {
       "token": "BASED",
@@ -220,16 +370,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T13:47:19.718Z",
       "latestPath": "data/results/TSM-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T13:47:21.926Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "G",
@@ -860,146 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T12:47:49.625Z",
       "latestPath": "data/results/JST-latest.json"
-    },
-    {
-      "token": "ESP",
-      "requestedInput": "ESP",
-      "name": "Espresso",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T12:47:49.429Z",
-      "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "APE",
-      "requestedInput": "APE",
-      "name": "Ape",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T12:47:47.077Z",
-      "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "GPS",
-      "requestedInput": "GPS",
-      "name": "GoPlus Security",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T12:47:56.497Z",
-      "latestPath": "data/results/GPS-latest.json"
-    },
-    {
-      "token": "MASK",
-      "requestedInput": "MASK",
-      "name": "MASK",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T12:47:57.220Z",
-      "latestPath": "data/results/MASK-latest.json"
-    },
-    {
-      "token": "RAY",
-      "requestedInput": "RAY",
-      "name": "Raydium",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T12:47:57.704Z",
-      "latestPath": "data/results/RAY-latest.json"
-    },
-    {
-      "token": "UNI",
-      "requestedInput": "UNI",
-      "name": "UNI",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T12:48:06.755Z",
-      "latestPath": "data/results/UNI-latest.json"
-    },
-    {
-      "token": "JUP",
-      "requestedInput": "JUP",
-      "name": "JUP",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T12:48:08.446Z",
-      "latestPath": "data/results/JUP-latest.json"
-    },
-    {
-      "token": "GE",
-      "requestedInput": "GE",
-      "name": "GE Aerospace",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T12:48:06.933Z",
-      "latestPath": "data/results/GE-latest.json"
-    },
-    {
-      "token": "PANW",
-      "requestedInput": "PANW",
-      "name": "Palo Alto Networks (股票代码，非加密货币)",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T12:48:03.453Z",
-      "latestPath": "data/results/PANW-latest.json"
-    },
-    {
-      "token": "ID",
-      "requestedInput": "ID",
-      "name": "SPACE ID",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T12:48:12.128Z",
-      "latestPath": "data/results/ID-latest.json"
-    },
-    {
-      "token": "EIGEN",
-      "requestedInput": "EIGEN",
-      "name": "Eigen",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T12:48:20.290Z",
-      "latestPath": "data/results/EIGEN-latest.json"
-    },
-    {
-      "token": "SYN",
-      "requestedInput": "SYN",
-      "name": "Synapse",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T12:48:15.434Z",
-      "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "ACU",
-      "requestedInput": "ACU",
-      "name": "ACU",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T12:48:19.742Z",
-      "latestPath": "data/results/ACU-latest.json"
-    },
-    {
-      "token": "USDC",
-      "requestedInput": "USDC",
-      "name": "USDC",
-      "score": 10,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T12:48:23.168Z",
-      "latestPath": "data/results/USDC-latest.json"
     }
   ]
 }
