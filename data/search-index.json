@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-06-28T01:32:33.392Z",
+  "updatedAt": "2026-06-28T01:47:24.221Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
+      "name": "VelodromeV2",
+      "score": 25,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-28T01:32:24.751Z",
+      "generatedAt": "2026-06-28T01:47:09.246Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "POWR",
+      "requestedInput": "POWR",
+      "name": "Powerledger",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T01:47:11.752Z",
+      "latestPath": "data/results/POWR-latest.json"
     },
     {
       "token": "USELESS",
@@ -18,17 +28,17 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T01:32:24.509Z",
+      "generatedAt": "2026-06-28T01:47:11.361Z",
       "latestPath": "data/results/USELESS-latest.json"
     },
     {
       "token": "MASK",
       "requestedInput": "MASK",
-      "name": "Mask Network",
-      "score": 10,
+      "name": "MASK",
+      "score": 2,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T01:32:23.367Z",
+      "generatedAt": "2026-06-28T01:47:14.134Z",
       "latestPath": "data/results/MASK-latest.json"
     },
     {
@@ -38,17 +48,17 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T01:32:25.442Z",
+      "generatedAt": "2026-06-28T01:47:18.231Z",
       "latestPath": "data/results/AIN-latest.json"
     },
     {
       "token": "PANW",
       "requestedInput": "PANW",
-      "name": "Palo Alto Networks (股票代码)",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T01:32:29.222Z",
+      "name": "Palo Alto Networks",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T01:47:17.153Z",
       "latestPath": "data/results/PANW-latest.json"
     },
     {
@@ -58,17 +68,17 @@
       "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T01:32:32.623Z",
+      "generatedAt": "2026-06-28T01:47:21.155Z",
       "latestPath": "data/results/BAS-latest.json"
     },
     {
       "token": "JTO",
       "requestedInput": "JTO",
       "name": "Jito",
-      "score": 55,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T01:32:33.390Z",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T01:47:24.219Z",
       "latestPath": "data/results/JTO-latest.json"
     },
     {
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T20:17:22.729Z",
       "latestPath": "data/results/USDC-latest.json"
-    },
-    {
-      "token": "UAI",
-      "requestedInput": "UAI",
-      "name": "UnifAI",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T20:17:21.627Z",
-      "latestPath": "data/results/UAI-latest.json"
     }
   ]
 }

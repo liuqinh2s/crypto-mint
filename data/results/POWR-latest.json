@@ -1,0 +1,250 @@
+{
+  "token": "POWR",
+  "requestedInput": "POWR",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T01:47:11.752Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "POWR",
+    "name": "Powerledger",
+    "generatedAt": "2026-06-28T01:47:01.093Z",
+    "summary": "POWR 24小时涨幅18.7%，但链上交易量极低（仅0.14美元），流动性虽高但实际交易稀疏。基本面为能源区块链项目，代币用于平台许可，但无近期重大利好新闻。估值约5000万美元FDV，处于历史低位。上涨可能由小资金拉盘或市场情绪驱动，持续性存疑。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现实质性合作或产品落地新闻，可重新评估。"
+    },
+    "catalysts": [
+      "24小时价格大幅上涨，可能吸引短期投机者",
+      "DePIN赛道热度持续，能源板块有叙事潜力",
+      "代币价格接近历史低位，部分交易者可能博弈反弹"
+    ],
+    "latestNews": [
+      {
+        "title": "Powerledger (POWR) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+        "impact": "中性",
+        "reason": "仅为价格跟踪页面，无新增信息"
+      },
+      {
+        "title": "Powerledger (POWR) Price Prediction 2026 2027 2028 - 2040 - Changelly",
+        "impact": "中性",
+        "reason": "第三方预测，非官方消息"
+      },
+      {
+        "title": "POWR Price: POWR/AUD - Revolut",
+        "impact": "中性",
+        "reason": "交易所价格展示，无实质内容"
+      }
+    ],
+    "fundamentals": [
+      "项目定位：能源交易区块链平台，支持分布式能源追踪与交易",
+      "代币用途：POWR是ERC-20代币，企业需持有POWR作为访问平台许可，未来可用于支付交易费",
+      "双链架构：以太坊发行代币，Solana链处理高频能源交易",
+      "团队位于瑞士，运营超过10个国家",
+      "总供应量10亿，流通约5.3亿，FDV约5000万美元",
+      "2017年上线，历史最高价1.89美元，当前跌幅超97%"
+    ],
+    "marketRead": [
+      "24小时涨幅18.7%，但链上DEX交易量仅0.14美元，流动性池2.5亿美元，实际交易极不活跃",
+      "价格变动可能由小单或外部交易所（如Binance）驱动，但数据未提供CEX交易量",
+      "30日跌幅16.4%，长期趋势仍偏空",
+      "链上深度好，但缺乏真实买盘支撑"
+    ],
+    "risks": [
+      "链上交易量极低，价格容易被操纵",
+      "无近期实质性利好，上涨缺乏基本面支撑",
+      "项目历史较长但采用率有限，能源区块链赛道竞争激烈",
+      "代币供应量较大，解锁风险未知（但已全流通？需确认）",
+      "SEC曾将POWR列为疑似证券，监管风险"
+    ],
+    "watchlist": [
+      "关注是否有官方合作或产品更新公告",
+      "观察CEX（如Binance）交易量是否同步放大",
+      "监控链上大额转账或持仓变化",
+      "DePIN赛道整体情绪"
+    ],
+    "sourceNotes": [
+      "新闻均为价格聚合页面，无独家消息",
+      "DEX数据中24小时交易量极低，可能数据延迟或异常",
+      "CEX数据缺失，无法全面评估市场热度"
+    ]
+  },
+  "profile": {
+    "id": "power-ledger",
+    "symbol": "POWR",
+    "name": "Powerledger",
+    "categories": [
+      "Energy",
+      "Ethereum Ecosystem",
+      "DePIN",
+      "Alleged SEC Securities",
+      "Energi Ecosystem",
+      "GMCI DePIN Index",
+      "Blockchain Capital Portfolio",
+      "GMCI Index"
+    ],
+    "homepage": [
+      "https://powerledger.io/"
+    ],
+    "description": "Powerledger (POWR) is a technology company that builds software for distributed and decentralised energy markets for a sustainable future. It has developed a blockchain-based platform that enables the tracking and trading of energy, flexibility services and environmental commodities. Its goal is to provide the platform for a fully modernised, market-driven grid that offers consumers a choice in their energy while driving the democratisation of power. Headquartered in Zug, Switzerland, Powerledger operates in more than 10 countries. Powerledger operates on two blockchain layers; the POWR token is issued on Ethereum as an ERC-20 token, and the Powerledger blockchain - a native Solana based blockchain to process energy transactions on a more scalable network. The POWR token is an ERC-20 token that acts as a licence required for businesses such as; utilities, renewable energy operators, microgrids, companies committed to 100% renewable energy and property developers to access Powerledger’s platform, and will be able to be used to pay for transactions on the Powerledger blockchain in future. In 2015, 30 countries had reached grid parity, meaning that the price of solar-generated energy ",
+    "marketCapRank": 674,
+    "currentPriceUsd": 0.050001,
+    "marketCapUsd": 26486865,
+    "fullyDilutedValuationUsd": 49972988,
+    "totalVolumeUsd": 11342752,
+    "priceChange24hPct": 18.70186,
+    "priceChange7dPct": 6.21941,
+    "priceChange14dPct": 1.45775,
+    "priceChange30dPct": -16.375,
+    "athUsd": 1.89,
+    "athChangePct": -97.3936,
+    "circulatingSupply": 529761884.726046,
+    "totalSupply": 999506122.99937,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 21519,
+    "genesisDate": "2017-06-03"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "POWR/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x4fbB504045d48CA6Bd2D1012B4A641EFb16E9a86",
+    "pairUrl": "https://dexscreener.com/ethereum/0x4fbb504045d48ca6bd2d1012b4a641efb16e9a86",
+    "lastPrice": 0.0499,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.14,
+    "liquidityUsd": 24951634.81,
+    "fullyDilutedValuationUsd": 49903270,
+    "marketCapUsd": 49903270,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x4fbb504045d48ca6bd2d1012b4a641efb16e9a86",
+    "pairAddress": "0x4fbB504045d48CA6Bd2D1012B4A641EFb16E9a86",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0xB06ADdC2Cbff60eBF2b088Fe0C8e15F190d61138",
+      "name": "Powerledger",
+      "symbol": "POWR"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.00003150",
+    "priceUsd": "0.04990",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.14,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 24951634.81,
+      "base": 499999997,
+      "quote": 0.00009118
+    },
+    "fdv": 49903270,
+    "marketCap": 49903270,
+    "pairCreatedAt": 1782533435000
+  },
+  "news": [
+    {
+      "title": "Powerledger (POWR) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5udkhpeGctMGFBcF9HaWk1ZXFXcURKTkNiM0N2YjdRdC1DRmhMcGtvVWM1MXhoandkQTZyR0xIcjcwQ3FHVU96VUVNdW9Qd2g4TGpaTEh6cklfUmxhNS1ENFVYb1lvcVN6RG9FaFhNaw?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Wed, 24 Jan 2024 12:42:53 GMT",
+      "snippet": "Powerledger (POWR) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Powerledger (POWR) Price Prediction 2026 2027 2028 - 2040 - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IM0hUdzQ2ZlpjeUg1WEtZRmVxMXJON05TbFdZbFhwWGVUREhLZDN1LW5zTlhFSTBzbGx5RzY2TmJ0VVd2Z1dmRTI1elM0NHVfUWpya2pVbm10d1ZGdkdvX2VTcFdkZ1N5bmtVVE5R?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Tue, 23 Jan 2024 04:29:43 GMT",
+      "snippet": "Powerledger (POWR) Price Prediction 2026 2027 2028 - 2040&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "Powerledger price today, POWR to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03NkZlbWtXRzZ5N2lTTkdDaDJuT2EwTDB0YnYtZnc4Y2xfUmZRNXo1TFFPNDA0cFlCTTM1RFFJT0JDQ05sc2duWkFIMnBfU0lIYXFrc1Q4OFM2eVh0LUZV?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 01 Nov 2017 17:15:59 GMT",
+      "snippet": "Powerledger price today, POWR to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Power Ledger price today, POWR to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qR3BaVGUwRV9RMTZHZnhkbFIzV0ZtTHVUeF8zMGxPMlEyYlZrdkczVUdWTHc0cXRud3ZmcGljbjd4bzdYSWw1Nkp1WHVxMlhUbkJfRw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sun, 02 Jul 2023 11:55:08 GMT",
+      "snippet": "Power Ledger price today, POWR to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Powerledger Price: POWR/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lWTF3Um5pTDhzeEo5RV9VUGRfdXhOMmFKdUEzVzQwYnpsUS1fVEUyYmRyRHplU3lxNlB0MVlpZDZoMEpwcHJrMVBSM3Y0eXFKM3c2bTlXVnA0ZEE?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 09 Nov 2017 19:06:35 GMT",
+      "snippet": "Powerledger Price: POWR/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Powerledger Price Today | POWR to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ZmFLTXdJaVFsNnN5bGhLYmxncExxa1AxNDVsQlE3VlRIUnk0Nm9rZGoyV3JVZEVLVndnRlhrVmp1SlRHMFNxRXhnUHNxLXowNzIxdm1mQ2w?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 30 Dec 2021 19:34:28 GMT",
+      "snippet": "Powerledger Price Today | POWR to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "POWR Price: POWR/AUD - Revolut",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQcHRHUEQ3ZTlHRjZTQnE0ZFZVbEh5TEE3R1loYmFValNpVzh0VjNPMEZtLWRldlBlVW1GaHpsNHpiRGtvMEwtb0JjMllEWFRoZC0xYXV1UElLTmxh?oc=5",
+      "source": "Revolut",
+      "publishedAt": "Thu, 03 Jul 2025 19:25:17 GMT",
+      "snippet": "POWR Price: POWR/AUD&nbsp;&nbsp;Revolut"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
