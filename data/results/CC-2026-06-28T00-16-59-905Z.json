@@ -1,0 +1,332 @@
+{
+  "token": "CC",
+  "requestedInput": "CC",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T00:16:59.905Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CC",
+    "name": "CC",
+    "generatedAt": "2026-06-28T00:16:51.294Z",
+    "summary": "CC是Canton Network的原生代币，近期因Bithumb上线韩元市场、ETF申请、机构合作及Palladium Labs创世基金等利好持续上涨，但当前价格较24小时前微跌0.11%，流动性较低，需警惕回调风险。",
+    "rating": {
+      "score": 55,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 20,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若跌破0.0010美元支撑位或出现重大负面新闻（如监管打击、团队抛售），则逻辑失效。"
+    },
+    "catalysts": [
+      "Bithumb上线CC韩元市场，带来零售流动性",
+      "ETF申请消息提振市场情绪",
+      "Palladium Labs启动创世基金加速生态建设",
+      "机构合作（如Fireblocks集成）增强可信度",
+      "通缩机制（机构销毁）推动价格"
+    ],
+    "latestNews": [
+      {
+        "title": "Canton (CC) Price Up 3.1% on Positive Fundamentals, Tokenomics",
+        "impact": "利好",
+        "reason": "基本面积极，代币经济受认可"
+      },
+      {
+        "title": "Is CC Price Poised For $0.20 With Rising Institutional Interest?",
+        "impact": "利好",
+        "reason": "机构兴趣上升，目标价看高"
+      },
+      {
+        "title": "Bithumb Lists Canton (CC) in Korean Won Market as Institutional Blockchain Eyes Retail Liquidity",
+        "impact": "利好",
+        "reason": "上线主流交易所增加流动性"
+      },
+      {
+        "title": "Palladium Labs launches Genesis Fund to accelerate builder growth on Canton",
+        "impact": "利好",
+        "reason": "生态基金促进开发者增长"
+      },
+      {
+        "title": "Canton (CC) Surges 4.51% on ETF Filing and Institutional News",
+        "impact": "利好",
+        "reason": "ETF申请和机构消息推动上涨"
+      }
+    ],
+    "fundamentals": [
+      "Canton Network是专注于机构级资产代币化（RWA）的区块链",
+      "CC代币用于网络Gas费、质押和治理",
+      "总供应量约5.28亿枚，当前流通市值约66万美元",
+      "近期获得3550万美元融资，机构参与度高",
+      "已集成Fireblocks，增强机构托管能力"
+    ],
+    "marketRead": [
+      "24小时价格微跌0.11%，成交量仅26.32美元，流动性极低（约9.1万美元）",
+      "近期新闻面利好密集，但价格反应温和，可能已部分消化",
+      "DEX交易对（PancakeSwap）深度不足，大额交易易滑点"
+    ],
+    "risks": [
+      "流动性极低，买卖价差大，容易操纵",
+      "DEX交易对，合约风险（未开源或审计不明）",
+      "市值仅66万美元，属于极小市值代币，波动剧烈",
+      "新闻热度可能已过，追高有回调风险",
+      "代币解锁或团队抛售风险未知"
+    ],
+    "watchlist": [
+      "Bithumb上线后成交量变化",
+      "是否有更多CEX上线公告",
+      "ETF申请进展",
+      "链上大额转账或持仓变化",
+      "整体市场情绪和BTC走势"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，仅包含PancakeSwap交易对，未包含CEX数据",
+      "新闻标题来自Google News RSS，内容未核实",
+      "基本面信息来自新闻摘要，未验证官方文档"
+    ]
+  },
+  "profile": {
+    "id": "0xddb341E88Bb2dd7cB56e3C62991c5aD3911518cc",
+    "symbol": "CC",
+    "name": "CC",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x9b10878e2abd0b8e4ecc329342a0e9f75ec48150",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.001252,
+    "marketCapUsd": 661497,
+    "fullyDilutedValuationUsd": 661497,
+    "totalVolumeUsd": 26.32,
+    "priceChange24hPct": -0.11,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2023-12-30",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x9b10878e2AbD0B8E4ECc329342a0e9f75eC48150",
+    "baseTokenAddress": "0xddb341E88Bb2dd7cB56e3C62991c5aD3911518cc",
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "liquidityUsd": 91166.07,
+    "pairUrl": "https://dexscreener.com/bsc/0x9b10878e2abd0b8e4ecc329342a0e9f75ec48150",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "CC/USDT",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x9b10878e2AbD0B8E4ECc329342a0e9f75eC48150",
+    "pairUrl": "https://dexscreener.com/bsc/0x9b10878e2abd0b8e4ecc329342a0e9f75ec48150",
+    "lastPrice": 0.001252,
+    "priceChange24hPct": -0.11,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 26.32,
+    "liquidityUsd": 91166.07,
+    "fullyDilutedValuationUsd": 661497,
+    "marketCapUsd": 661497,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x9b10878e2abd0b8e4ecc329342a0e9f75ec48150",
+    "pairAddress": "0x9b10878e2AbD0B8E4ECc329342a0e9f75eC48150",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0xddb341E88Bb2dd7cB56e3C62991c5aD3911518cc",
+      "name": "CC",
+      "symbol": "CC"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceNative": "0.001252",
+    "priceUsd": "0.001252",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 5
+      }
+    },
+    "volume": {
+      "h24": 26.32,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.11
+    },
+    "liquidity": {
+      "usd": 91166.07,
+      "base": 36406414,
+      "quote": 45583
+    },
+    "fdv": 661497,
+    "marketCap": 661497,
+    "pairCreatedAt": 1703926860000
+  },
+  "news": [
+    {
+      "title": "Canton (CC) Price Up 3.1% on Positive Fundamentals, Tokenomics - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wdGZyeGlaZHN6d2hDeXZCekFTZ2FMSVdGMkNfeFA0MnJWX0dzczFGbHlOOWJXcFJrR0FtTW1lMGRsbFczc01SS2tXdkwtckZYR3h3cnk5UmtiRDZueEhIdkU5NElXa0R0SUtUZEZXaGo?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 26 Jun 2026 20:05:00 GMT",
+      "snippet": "Canton (CC) Price Up 3.1% on Positive Fundamentals, Tokenomics&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Is CC Price Poised For $0.20 With Rising Institutional Interest? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0xuVlVzQ3kwM0FqR0J3RXE1QjFHRDN4eFZYYWtVWXdWWldMQnoxcF8tb3pXT1M5ZE5hM2hvZThHLUZULUlFM0VFd2V4aVczamh4cTBCYm84c3I0cHktM2NjZzN2MnpHUEpTc2hqcWE1RWMzY3FKUXhYRnRzUHotUHctSnFwVFlkMDlrNW9ybGZsU2ZsTW5Oa21za2xhbWNIdWc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 22 Jun 2026 23:24:18 GMT",
+      "snippet": "Is CC Price Poised For $0.20 With Rising Institutional Interest?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Bithumb Lists Canton (CC) in Korean Won Market as Institutional Blockchain Eyes Retail Liquidity - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kRDlGMHFZVE1DbXktN3EtTjBveWM0RGljY3Vsd1hJc2RjV0VKRkM5MGNJRU5yQWg4cVpPUk92cmV6alNQcW5sQ2xHamFpcWNtdGpQQXZhZw?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Tue, 23 Jun 2026 04:40:00 GMT",
+      "snippet": "Bithumb Lists Canton (CC) in Korean Won Market as Institutional Blockchain Eyes Retail Liquidity&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Here’s why Canton (CC) is defying the broader crypto downturn - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVdwdXR6elZwWkhobXh2c2FXWTBSYW5ROVNEN1ZhbEpDWGJPQXY5N0p6UmN1QzdyZmhhUWxSaWNQbEJxbVhTNVNDU0V0NlIySk5CbGROYUlueU5vSmdtckVTN2RxY1FBTm1WNjE3YXpDb1Bta21Hd0UzLWQ4Yk1ya091NG1GRVJRd04zRG4zcFA4c2lfVXczSUxCcktEd29UNkF6a2Q4QUhKcFBGRC1IR0UyTEMybFk?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "snippet": "Here’s why Canton (CC) is defying the broader crypto downturn&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Ondo, CC sidestep macro concerns with institutional deals as BTC, ETH prices slide: Crypto Daybook Americas - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUw1TmFSQV80eWVYZTVmY05wMU9iVXZDSTFSbG52R3NoWG5XbkR5dFcyNC12Z1FoaldiZnZ5elZ2RS1YRS0xSUtlY0JJRHRScVBKd0hsSnpGWFRiUThzTkFBNGE1MlREdzZUbFJMVjB1NER4Zjc4UE1EZUdZbkdsZVd4c1h3Rm13b3RsY3Jmc1owS0FJMUdfTnBta2xuTXhGU2hxTmprYkplTlFMQ2VmZW9PZDZIdTBVbEo5a2lDeHRMc3RfRDNhb05B?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 27 Mar 2026 07:00:00 GMT",
+      "snippet": "Ondo, CC sidestep macro concerns with institutional deals as BTC, ETH prices slide: Crypto Daybook Americas&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Zcash Privacy Coin Narrative Sparks Canton (CC) 50% Breakout as Altcoin Targets ATH - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEQwbkRGU2FFY2o3bzl2eDFlNEp1VEZ5bWtrUld4Szh1RXJWSW9nR1pyQUcyNWNQcW5UeVNDTTBRN2ZXSnRTY3JQaXFPdHdZRnBVdklWbUNQRm1jM2RmTkZoOGhXMFpxU29OaDZiWkxLbmJHME9OOXVYTlpyWjF5MkdESmc5eUp4WWE1Z1R2MVc?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Mon, 29 Dec 2025 08:00:00 GMT",
+      "snippet": "Zcash Privacy Coin Narrative Sparks Canton (CC) 50% Breakout as Altcoin Targets ATH&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Canton (CC) Surges 4.51% on ETF Filing and Institutional News - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zSXQ4Q1B4QnVYYUtUSjNrWmZfcVhGZG14a2kteXJIb18taUpvU0JCT0xZSVlRS25TWGlveDlQdjVCenM2Y25RN0pVc2dXRm9fX3NXZ2xRaWZGaTAwUE9McENWYUdhVU1zQ01Gc085V0g?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "snippet": "Canton (CC) Surges 4.51% on ETF Filing and Institutional News&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "While Crypto Market Slips Stargate(STG), Ondo Finance, Canton (CC) Turn To Be Gainers - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzNrRzhWd2gzOHRHbzFJZ051clFEdmdDQkxpWnk1cmlrN3Btbjl4YUZkbS1ra2dIenc3N3E4T1FzNXV4elZuU0M0Q1h2bU93aTVBUm9lTG0zNFMtb1RZeDhUR3BmeU5yMHBZclJqUHFJckhoclNxcmljSDVoaHV3LTJxeVZURXBuTldXSzlLbVNBeHdFalNmWXFZRzNYUGVsV3VIbDJaMEFjaDFwOGxNeC14UHZmbVlY0gG-AUFVX3lxTE5vQV9pcVBjaFZ6T0o3UnpnQy1EdWx0WjVlVzEyMDY0Q3hLV2Z2aUFEcjgycEVuZS1hZlkzWEplcHlQRmFGMGF4dWNQUmtvMHlnbVdnM2dBMUtHQXJnbHNXQ0VfVk40OTZ6bUxlN1Myc3pQLWwzMl9LdjFPU1ZHN213dEUzcl9USDFhNUpQYXNOODN0RnhBM0gtSUVnQmQ0UkQ2dE1KWjR2TExYVlNUMWlSWDVPZGVSQTJPVGR6UEE?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Fri, 27 Mar 2026 07:00:00 GMT",
+      "snippet": "While Crypto Market Slips Stargate(STG), Ondo Finance, Canton (CC) Turn To Be Gainers&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Palladium Labs launches Genesis Fund to accelerate builder growth on Canton - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUp6TkxVSHUxU1E3UmIwRFZJb3AwU1BlT2JMcFpINDB2MGRRWUZJMEpBS253S2plUEtEak5iaGdrVUVpU0V5bFQtd1F5VnBiVlN5RnNLdlg5cVd3SWNQQVdmNTNjZS1pUTl6VVlfaDlBb3FnZmF2cnI4R2R4ZGFYekR6T0pzLWVDQndvMWNpUlozWkMxRU1kMzl6WElFYTR2dXYwMHdR?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Tue, 23 Jun 2026 12:00:10 GMT",
+      "snippet": "Palladium Labs launches Genesis Fund to accelerate builder growth on Canton&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "Canton (CC) Surges 3.17% on $355M Funding, Institutional Moves - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGQ3B1elhlQ283YzlaZVdVNnpHSWNXanhPcXRabVB6Rk5jWi1uX201bXhMRTUtV2w5am5iY0pqUzdmeGFqV2xvU1p5TjFCRm5fUnpKMmZLX0UwYWpDazczeTUyekZEb0daQ1lIYWZ1QnE?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "snippet": "Canton (CC) Surges 3.17% on $355M Funding, Institutional Moves&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "What Is Canton Network (CC)? Guide to RWA Blockchain Token 2025 - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WNzh0Y1ktMlA3cDNYVnJZMmlpclp4cG5RTHZhel9TblhlbWFlSmVqdktGcXllblo0bkVWMnNJRXVqMk1KQ0t4Nld3cUc4WjdKTlIyYkJrcjBZbVBCRmM2cS1R?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "snippet": "What Is Canton Network (CC)? Guide to RWA Blockchain Token 2025&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Canton Network (CC) - All information about Canton Network ICO (Token Sale) - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4b29GODZMZGhrcUtCX215R3R1WWxzd2g1aGdaMzB0LVFsTEJjc3lORWZ4MEFVY0xhcXNhRVEwRS1oU05HR2gzTXk1R2k?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Sat, 04 Oct 2025 14:05:44 GMT",
+      "snippet": "Canton Network (CC) - All information about Canton Network ICO (Token Sale)&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "Canton Network Strengthens Institutional Stack as CC Price Strongly Reacts to Fireblocks Integration - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IanVJMXZLSFNWYmU0RWVhQTJFa1lvUUJLUUF3MmhZZDk4TEJuMDdIUndLSm45aG1NajZIOFJXencwOG93ckZXa2g2ZVBPRl9HNWhVTDRYT0lMYlBSdmfSAWNBVV95cUxPSTJXSEdicG1abHBxTUVKQmFFd1FJY1h0WnZ4N0JReGpaR2ptR1MzZnpzcWFUTVgyQXNPQTlQbE5WTncyRnpXRFNyY2x1NnRONkJVSHc2TEtlMkhCRVlucUh0VGc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "snippet": "Canton Network Strengthens Institutional Stack as CC Price Strongly Reacts to Fireblocks Integration&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Here’s why Canton (CC) is defying the broader crypto downturn - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lVkcteVhOSzNSaHBoTlhYbTAtNGJmQUE4eVc0SGNBemZjbDd6REJ0UGxldVAtWk1WNm5NYTR4SVBNME1MTDQyZ1BSLXlDLTR4ekpUdks3Mmd5V1dkdFHSAWNBVV95cUxQbnVPREx4X0ZyVkRwa1JWX1hiVl9LZW1MYnBNbzhSM1ZORVpMbnhQbWt6czdmZExWMnAtbHhFcU1aSGV1cVl4cTB4MndsU2ZBYWpkcnJWcGpkUXhYb01NZ3VCbkk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "snippet": "Here’s why Canton (CC) is defying the broader crypto downturn&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Canton Price Prediction: CC Jumps 75% As Institutional Burns Push Toward Deflation - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84blFuaGFRYUtUU3BYNDBFWG4zeC1lQUkzN1YxVnVuRVdZN0RGVGlKRDd3TFR3RmMxVnRlUEhsVUcxaDJfcDI2SGpiQUcydXdWRjN2eUJZZVd0cFBqZ3fSAWNBVV95cUxOdlRnaW4xZ3dRNnJOak9JZWNjYzM5VWUyUU8xdnZSQXF2LTMyVE9LempwMmVnVHNfOHJkNVBlSDVPNnpTTk5EX0ZFRnVqN19KX0pjZEZ5aGE0VEFFbVhXakFWTmM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "snippet": "Canton Price Prediction: CC Jumps 75% As Institutional Burns Push Toward Deflation&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Is CC Price Starting A Bigger Breakout If Jumps $0.16? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OblZsMFFBazFhVmhkcm1qZGlTeFlYN0lIaWFWSkVJVFh2NFNlZFhuSGVRVXVIMVlwU0xwWElrTlB1YUVRNF9fenRXMlJuT1Y0S2pZS0hFTUZFSGZhV0HSAWNBVV95cUxPTWFyVWQ2OWRHYVlJc0JTeW1mb0RiOF9zT1JxSTBXa2V0dTVwVlFJNm9IR3dQcjFEejFtYVB4eTk3Y0t1Q3lrWk00M29ZSFBKLTFMbnM4dk5mZEZZX1pCcldTUnM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 09 May 2026 07:00:00 GMT",
+      "snippet": "Is CC Price Starting A Bigger Breakout If Jumps $0.16?&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/canton-network?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

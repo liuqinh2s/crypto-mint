@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T00:02:11.448Z",
+  "updatedAt": "2026-06-28T00:17:02.014Z",
   "results": [
     {
       "token": "VELO",
@@ -8,8 +8,58 @@
       "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T00:02:10.498Z",
+      "generatedAt": "2026-06-28T00:16:50.585Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "ORCA",
+      "requestedInput": "ORCA",
+      "name": "Orca",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T00:16:57.136Z",
+      "latestPath": "data/results/ORCA-latest.json"
+    },
+    {
+      "token": "IN",
+      "requestedInput": "IN",
+      "name": "INFINIT",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T00:16:52.035Z",
+      "latestPath": "data/results/IN-latest.json"
+    },
+    {
+      "token": "HOT",
+      "requestedInput": "HOT",
+      "name": "Holo",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T00:16:51.571Z",
+      "latestPath": "data/results/HOT-latest.json"
+    },
+    {
+      "token": "CC",
+      "requestedInput": "CC",
+      "name": "CC",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T00:16:59.905Z",
+      "latestPath": "data/results/CC-latest.json"
+    },
+    {
+      "token": "CARV",
+      "requestedInput": "CARV",
+      "name": "CARV",
+      "score": 15,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T00:17:02.012Z",
+      "latestPath": "data/results/CARV-latest.json"
     },
     {
       "token": "GRASS",
@@ -950,56 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T19:32:32.418Z",
       "latestPath": "data/results/RAY-latest.json"
-    },
-    {
-      "token": "UNI",
-      "requestedInput": "UNI",
-      "name": "UNI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:32:36.060Z",
-      "latestPath": "data/results/UNI-latest.json"
-    },
-    {
-      "token": "NATGAS",
-      "requestedInput": "NATGAS",
-      "name": "Natural Gas (Derivatives)",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:32:31.545Z",
-      "latestPath": "data/results/NATGAS-latest.json"
-    },
-    {
-      "token": "MU",
-      "requestedInput": "MU",
-      "name": "MU",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:32:32.578Z",
-      "latestPath": "data/results/MU-latest.json"
-    },
-    {
-      "token": "CLANKER",
-      "requestedInput": "CLANKER",
-      "name": "Clanker",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:32:41.472Z",
-      "latestPath": "data/results/CLANKER-latest.json"
-    },
-    {
-      "token": "SYRUP",
-      "requestedInput": "SYRUP",
-      "name": "Syrup Token",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T19:32:40.868Z",
-      "latestPath": "data/results/SYRUP-latest.json"
     }
   ]
 }
