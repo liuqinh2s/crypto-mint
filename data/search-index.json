@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-06-28T10:47:33.549Z",
+  "updatedAt": "2026-06-28T11:04:03.539Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "VelodromeV2",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:03:44.896Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "GRIFFAIN",
+      "requestedInput": "GRIFFAIN",
+      "name": "GRIFFAIN",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:03:46.473Z",
+      "latestPath": "data/results/GRIFFAIN-latest.json"
+    },
+    {
+      "token": "B2",
+      "requestedInput": "B2",
+      "name": "BSquared Token",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T11:03:45.451Z",
+      "latestPath": "data/results/B2-latest.json"
+    },
+    {
+      "token": "ARQQON",
+      "requestedInput": "ARQQ",
+      "name": "Arqit Quantum (Ondo Tokenized)",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:03:44.541Z",
+      "latestPath": "data/results/ARQQON-latest.json"
+    },
+    {
+      "token": "AMD",
+      "requestedInput": "AMD",
+      "name": "AMD",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:03:57.150Z",
+      "latestPath": "data/results/AMD-latest.json"
+    },
+    {
+      "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
+      "requestedInput": "ICNT",
+      "name": "ICNT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:03:52.360Z",
+      "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:03:54.007Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "SAPM",
+      "requestedInput": "SAMSUNG",
+      "name": "Samsung Phone Ai Mirror⚡",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:03:52.958Z",
+      "latestPath": "data/results/SAPM-latest.json"
+    },
+    {
+      "token": "LLY",
+      "requestedInput": "LLY",
+      "name": "Eli Lilly & Co.",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:04:03.537Z",
+      "latestPath": "data/results/LLY-latest.json"
+    },
+    {
+      "token": "1000RATS",
+      "requestedInput": "1000RATS",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:03:56.147Z",
+      "latestPath": "data/results/1000RATS-latest.json"
+    },
     {
       "token": "TRADOOR",
       "requestedInput": "TRADOOR",
@@ -10,16 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T10:47:19.092Z",
       "latestPath": "data/results/TRADOOR-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T10:47:17.347Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "ACT",
@@ -60,36 +150,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T10:47:25.400Z",
       "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
-      "requestedInput": "ICNT",
-      "name": "ICNT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T10:47:25.538Z",
-      "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T10:47:25.318Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
-      "token": "SAPM",
-      "requestedInput": "SAMSUNG",
-      "name": "Samsung Phone Ai Mirror⚡",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T10:47:28.647Z",
-      "latestPath": "data/results/SAPM-latest.json"
     },
     {
       "token": "USDC",
@@ -940,66 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T08:18:01.345Z",
       "latestPath": "data/results/TRUST-latest.json"
-    },
-    {
-      "token": "POPCAT",
-      "requestedInput": "POPCAT",
-      "name": "Popcat",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T08:17:57.208Z",
-      "latestPath": "data/results/POPCAT-latest.json"
-    },
-    {
-      "token": "LUMIA",
-      "requestedInput": "LUMIA",
-      "name": "Lumia Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T08:17:58.401Z",
-      "latestPath": "data/results/LUMIA-latest.json"
-    },
-    {
-      "token": "KGEN",
-      "requestedInput": "KGEN",
-      "name": "KGEN",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T08:18:01.233Z",
-      "latestPath": "data/results/KGEN-latest.json"
-    },
-    {
-      "token": "ETHFI",
-      "requestedInput": "ETHFI",
-      "name": "ether.fi governance token",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T08:18:06.202Z",
-      "latestPath": "data/results/ETHFI-latest.json"
-    },
-    {
-      "token": "KMNO",
-      "requestedInput": "KMNO",
-      "name": "Kamino",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T08:18:07.421Z",
-      "latestPath": "data/results/KMNO-latest.json"
-    },
-    {
-      "token": "TIA",
-      "requestedInput": "TIA",
-      "name": "Tiamonds [OLD]",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T08:02:58.307Z",
-      "latestPath": "data/results/TIA-latest.json"
     }
   ]
 }
