@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T05:02:19.972Z",
+  "updatedAt": "2026-06-28T05:17:14.853Z",
   "results": [
     {
       "token": "VELO",
@@ -8,47 +8,47 @@
       "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T05:02:04.941Z",
+      "generatedAt": "2026-06-28T05:16:59.846Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "ACX",
       "requestedInput": "ACX",
       "name": "Across Protocol",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T05:02:07.788Z",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T05:17:02.039Z",
       "latestPath": "data/results/ACX-latest.json"
     },
     {
       "token": "STBL",
       "requestedInput": "STBL",
       "name": "STBL",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T05:02:04.801Z",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T05:17:01.535Z",
       "latestPath": "data/results/STBL-latest.json"
     },
     {
       "token": "G",
       "requestedInput": "G",
       "name": "Gravity (原Galxe)",
-      "score": 25,
+      "score": 30,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T05:02:05.356Z",
+      "action": "观察",
+      "generatedAt": "2026-06-28T05:17:00.943Z",
       "latestPath": "data/results/G-latest.json"
     },
     {
       "token": "PIEVERSE",
       "requestedInput": "PIEVERSE",
       "name": "Pieverse",
-      "score": 20,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T05:02:14.515Z",
+      "generatedAt": "2026-06-28T05:17:07.548Z",
       "latestPath": "data/results/PIEVERSE-latest.json"
     },
     {
@@ -58,7 +58,7 @@
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T05:02:12.379Z",
+      "generatedAt": "2026-06-28T05:17:07.725Z",
       "latestPath": "data/results/RPL-latest.json"
     },
     {
@@ -68,17 +68,17 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T05:02:14.322Z",
+      "generatedAt": "2026-06-28T05:17:08.766Z",
       "latestPath": "data/results/BICO-latest.json"
     },
     {
       "token": "XPL",
       "requestedInput": "XPL",
       "name": "XPL",
-      "score": 5,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T05:02:17.845Z",
+      "generatedAt": "2026-06-28T05:17:11.247Z",
       "latestPath": "data/results/XPL-latest.json"
     },
     {
@@ -88,8 +88,18 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T05:02:19.970Z",
+      "generatedAt": "2026-06-28T05:17:14.356Z",
       "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "MAGMA",
+      "requestedInput": "MAGMA",
+      "name": "Magma Token",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T05:17:14.850Z",
+      "latestPath": "data/results/MAGMA-latest.json"
     },
     {
       "token": "TNSR",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T23:17:11.508Z",
       "latestPath": "data/results/ARC-latest.json"
-    },
-    {
-      "token": "TAC",
-      "requestedInput": "TAC",
-      "name": "TAC Token",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T23:17:10.824Z",
-      "latestPath": "data/results/TAC-latest.json"
     }
   ]
 }
