@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-06-28T06:47:18.746Z",
+  "updatedAt": "2026-06-28T07:02:28.775Z",
   "results": [
+    {
+      "token": "POWR",
+      "requestedInput": "POWR",
+      "name": "Powerledger",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T07:02:23.581Z",
+      "latestPath": "data/results/POWR-latest.json"
+    },
+    {
+      "token": "GPS",
+      "requestedInput": "GPS",
+      "name": "GoPlus Security",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T07:02:24.542Z",
+      "latestPath": "data/results/GPS-latest.json"
+    },
+    {
+      "token": "MASK",
+      "requestedInput": "MASK",
+      "name": "Mask Network",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T07:02:22.916Z",
+      "latestPath": "data/results/MASK-latest.json"
+    },
+    {
+      "token": "AIN",
+      "requestedInput": "AIN",
+      "name": "Infinity Ground AI",
+      "score": 35,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T07:02:22.202Z",
+      "latestPath": "data/results/AIN-latest.json"
+    },
+    {
+      "token": "PANW",
+      "requestedInput": "PANW",
+      "name": "Palo Alto Networks (股票)",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T07:02:28.773Z",
+      "latestPath": "data/results/PANW-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
@@ -10,26 +60,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T06:47:12.159Z",
       "latestPath": "data/results/VELO-latest.json"
-    },
-    {
-      "token": "MASK",
-      "requestedInput": "MASK",
-      "name": "Mask Network",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T06:47:13.461Z",
-      "latestPath": "data/results/MASK-latest.json"
-    },
-    {
-      "token": "AIN",
-      "requestedInput": "AIN",
-      "name": "Infinity Ground AI",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T06:47:12.864Z",
-      "latestPath": "data/results/AIN-latest.json"
     },
     {
       "token": "PANWON",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T02:32:20.920Z",
       "latestPath": "data/results/USDC-latest.json"
-    },
-    {
-      "token": "TRADOOR",
-      "requestedInput": "TRADOOR",
-      "name": "Tradoor",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T02:17:16.242Z",
-      "latestPath": "data/results/TRADOOR-latest.json"
-    },
-    {
-      "token": "JUP",
-      "requestedInput": "JUP",
-      "name": "Jupiter",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T02:17:16.937Z",
-      "latestPath": "data/results/JUP-latest.json"
-    },
-    {
-      "token": "ID",
-      "requestedInput": "ID",
-      "name": "ID",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T02:17:15.820Z",
-      "latestPath": "data/results/ID-latest.json"
     }
   ]
 }
