@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-06-28T16:32:44.184Z",
+  "updatedAt": "2026-06-28T16:48:14.578Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T16:48:06.775Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "CHILLGUY",
+      "requestedInput": "CHILLGUY",
+      "name": "Just a chill guy",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T16:48:11.721Z",
+      "latestPath": "data/results/CHILLGUY-latest.json"
+    },
+    {
+      "token": "SKHYNIX",
+      "requestedInput": "SKHYNIX",
+      "name": "SK Hynix",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T16:48:07.915Z",
+      "latestPath": "data/results/SKHYNIX-latest.json"
+    },
+    {
+      "token": "OPENAI",
+      "requestedInput": "OPENAI",
+      "name": "OpenAI PreStocks",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T16:48:08.268Z",
+      "latestPath": "data/results/OPENAI-latest.json"
+    },
+    {
+      "token": "MAGMA",
+      "requestedInput": "MAGMA",
+      "name": "Magma Finance",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T16:48:14.576Z",
+      "latestPath": "data/results/MAGMA-latest.json"
+    },
     {
       "token": "JST",
       "requestedInput": "JST",
@@ -30,16 +80,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T16:32:22.894Z",
       "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:32:27.190Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "BAN",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T15:03:30.607Z",
       "latestPath": "data/results/ALICE-latest.json"
-    },
-    {
-      "token": "WET",
-      "requestedInput": "WET",
-      "name": "HumidiFi",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T15:03:36.874Z",
-      "latestPath": "data/results/WET-latest.json"
-    },
-    {
-      "token": "RESOLV",
-      "requestedInput": "RESOLV",
-      "name": "Resolv",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:03:37.842Z",
-      "latestPath": "data/results/RESOLV-latest.json"
-    },
-    {
-      "token": "BSV",
-      "requestedInput": "BSV",
-      "name": "BSV",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:03:42.559Z",
-      "latestPath": "data/results/BSV-latest.json"
-    },
-    {
-      "token": "VELVET",
-      "requestedInput": "VELVET",
-      "name": "Velvet",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:03:47.060Z",
-      "latestPath": "data/results/VELVET-latest.json"
     }
   ]
 }
