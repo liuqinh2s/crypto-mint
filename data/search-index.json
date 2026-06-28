@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T06:02:12.388Z",
+  "updatedAt": "2026-06-28T06:17:18.955Z",
   "results": [
     {
       "token": "VELO",
@@ -8,8 +8,58 @@
       "score": 25,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-28T06:02:02.254Z",
+      "generatedAt": "2026-06-28T06:17:10.020Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "UNI",
+      "requestedInput": "UNI",
+      "name": "Uniswap",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "观察",
+      "generatedAt": "2026-06-28T06:17:13.399Z",
+      "latestPath": "data/results/UNI-latest.json"
+    },
+    {
+      "token": "NATGAS",
+      "requestedInput": "NATGAS",
+      "name": "Natural Gas (Derivatives)",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T06:17:11.686Z",
+      "latestPath": "data/results/NATGAS-latest.json"
+    },
+    {
+      "token": "MU",
+      "requestedInput": "MU",
+      "name": "Micron Technology (Backpack Securities)",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T06:17:11.152Z",
+      "latestPath": "data/results/MU-latest.json"
+    },
+    {
+      "token": "CLANKER",
+      "requestedInput": "CLANKER",
+      "name": "Clanker",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T06:17:17.768Z",
+      "latestPath": "data/results/CLANKER-latest.json"
+    },
+    {
+      "token": "SYRUP",
+      "requestedInput": "SYRUP",
+      "name": "Syrup Token",
+      "score": 65,
+      "label": "可以买但严控仓位",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T06:17:18.953Z",
+      "latestPath": "data/results/SYRUP-latest.json"
     },
     {
       "token": "ORCA",
@@ -950,56 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T01:17:25.056Z",
       "latestPath": "data/results/EIGEN-latest.json"
-    },
-    {
-      "token": "MMT",
-      "requestedInput": "MMT",
-      "name": "MMT",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T01:17:29.708Z",
-      "latestPath": "data/results/MMT-latest.json"
-    },
-    {
-      "token": "JST",
-      "requestedInput": "JST",
-      "name": "JUST",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T01:02:32.361Z",
-      "latestPath": "data/results/JST-latest.json"
-    },
-    {
-      "token": "APE",
-      "requestedInput": "APE",
-      "name": "ApeCoin",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T01:02:31.455Z",
-      "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "RAY",
-      "requestedInput": "RAY",
-      "name": "Raydium",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T01:02:31.564Z",
-      "latestPath": "data/results/RAY-latest.json"
-    },
-    {
-      "token": "AAVE",
-      "requestedInput": "AAVE",
-      "name": "Aave",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T01:02:43.456Z",
-      "latestPath": "data/results/AAVE-latest.json"
     }
   ]
 }
