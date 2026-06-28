@@ -1,0 +1,129 @@
+{
+  "token": "PANWON",
+  "requestedInput": "PANW",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T01:17:13.403Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "PANWON",
+    "name": "Palo Alto Networks (Ondo Tokenized Stock)",
+    "generatedAt": "2026-06-28T01:17:07.697Z",
+    "summary": "PANWON是Ondo发行的代币化股票，追踪PANW股价。近期上涨主要受PANW正股带动，但流动性极低，市值仅219万，成交量5.3万，不适合大资金参与。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "PANW正股趋势逆转或代币流动性枯竭"
+    },
+    "catalysts": [
+      "PANW正股近期上涨（30日+17%）",
+      "RWA赛道热度",
+      "Ondo平台合规背书"
+    ],
+    "latestNews": [],
+    "fundamentals": [
+      "代币化股票，1:1锚定PANW正股",
+      "总供应7235.9枚，全流通",
+      "市值219万，流动性极差",
+      "支持24/5交易，但仅限非美国用户"
+    ],
+    "marketRead": [
+      "24h涨幅15.8%，7日涨幅5.65%，30日涨幅17%",
+      "成交量仅5.3万美元，买卖价差可能很大",
+      "无交易所深度数据，实际交易困难"
+    ],
+    "risks": [
+      "流动性风险：极低成交量可能导致滑点巨大",
+      "监管风险：代币化股票合规性存疑",
+      "锚定风险：若Ondo平台出问题，代币可能脱锚",
+      "市场风险：PANW正股回调将直接拖累"
+    ],
+    "watchlist": [
+      "PANW正股价格走势",
+      "Ondo平台流动性变化",
+      "是否有更多交易所上线"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko，无交易所实时数据",
+      "新闻数据为空，缺乏近期催化信息"
+    ]
+  },
+  "profile": {
+    "id": "palo-alto-networks-ondo-tokenized-stock",
+    "symbol": "PANWON",
+    "name": "Palo Alto Networks (Ondo Tokenized Stock)",
+    "categories": [
+      "Tokenized Assets",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Ondo Tokenized Assets"
+    ],
+    "homepage": [
+      "https://app.ondo.finance/assets/panwon"
+    ],
+    "description": "PANWon is the Ondo Tokenized version of Palo Alto Networks, giving tokenholders economic exposure similar to holding PANW and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
+    "marketCapRank": 2130,
+    "currentPriceUsd": 302.57,
+    "marketCapUsd": 2189399,
+    "fullyDilutedValuationUsd": 2189399,
+    "totalVolumeUsd": 53113,
+    "priceChange24hPct": 0.15806,
+    "priceChange7dPct": 5.65042,
+    "priceChange14dPct": 8.19011,
+    "priceChange30dPct": 16.99979,
+    "athUsd": 330.06,
+    "athChangePct": -8.46956,
+    "circulatingSupply": 7235.895384944417,
+    "totalSupply": 7235.895384944417,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 30,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "PANWONUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PANWONUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PANWONFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PANWONFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PANWONUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PANWONUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "PANWONBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=PANWONBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

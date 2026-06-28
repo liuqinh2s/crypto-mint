@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-06-28T01:02:43.458Z",
+  "updatedAt": "2026-06-28T01:17:29.710Z",
   "results": [
+    {
+      "token": "ESP",
+      "requestedInput": "ESP",
+      "name": "Espresso",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T01:17:16.326Z",
+      "latestPath": "data/results/ESP-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T01:17:14.773Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "GE",
+      "requestedInput": "GE",
+      "name": "GE Aerospace",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T01:17:18.625Z",
+      "latestPath": "data/results/GE-latest.json"
+    },
+    {
+      "token": "PANWON",
+      "requestedInput": "PANW",
+      "name": "Palo Alto Networks (Ondo Tokenized Stock)",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T01:17:13.403Z",
+      "latestPath": "data/results/PANWON-latest.json"
+    },
+    {
+      "token": "EIGEN",
+      "requestedInput": "EIGEN",
+      "name": "Eigen",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T01:17:25.056Z",
+      "latestPath": "data/results/EIGEN-latest.json"
+    },
+    {
+      "token": "MMT",
+      "requestedInput": "MMT",
+      "name": "MMT",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T01:17:29.708Z",
+      "latestPath": "data/results/MMT-latest.json"
+    },
     {
       "token": "JST",
       "requestedInput": "JST",
@@ -20,16 +80,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T01:02:31.455Z",
       "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T01:02:33.939Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "RAY",
@@ -950,56 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T19:51:57.099Z",
       "latestPath": "data/results/TRADOOR-latest.json"
-    },
-    {
-      "token": "USELESS",
-      "requestedInput": "USELESS",
-      "name": "Useless Coin",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:51:53.367Z",
-      "latestPath": "data/results/USELESS-latest.json"
-    },
-    {
-      "token": "MASK",
-      "requestedInput": "MASK",
-      "name": "MASK",
-      "score": 2,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:51:56.507Z",
-      "latestPath": "data/results/MASK-latest.json"
-    },
-    {
-      "token": "BAS",
-      "requestedInput": "BAS",
-      "name": "BNB Attestation",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T19:52:01.940Z",
-      "latestPath": "data/results/BAS-latest.json"
-    },
-    {
-      "token": "JTO",
-      "requestedInput": "JTO",
-      "name": "Jito",
-      "score": 65,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T19:52:02.649Z",
-      "latestPath": "data/results/JTO-latest.json"
-    },
-    {
-      "token": "AIN",
-      "requestedInput": "AIN",
-      "name": "AI Network",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T19:46:57.689Z",
-      "latestPath": "data/results/AIN-latest.json"
     }
   ]
 }
