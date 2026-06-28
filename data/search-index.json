@@ -1,25 +1,85 @@
 {
-  "updatedAt": "2026-06-28T01:47:24.221Z",
+  "updatedAt": "2026-06-28T02:02:39.742Z",
   "results": [
+    {
+      "token": "TRADOOR",
+      "requestedInput": "TRADOOR",
+      "name": "Tradoor",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T02:02:27.619Z",
+      "latestPath": "data/results/TRADOOR-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
+      "name": "Velodrome Finance",
+      "score": 30,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T01:47:09.246Z",
+      "action": "观察",
+      "generatedAt": "2026-06-28T02:02:26.268Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "POWR",
       "requestedInput": "POWR",
       "name": "Powerledger",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T02:02:26.417Z",
+      "latestPath": "data/results/POWR-latest.json"
+    },
+    {
+      "token": "JUP",
+      "requestedInput": "JUP",
+      "name": "Jupiter",
+      "score": 55,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T02:02:26.542Z",
+      "latestPath": "data/results/JUP-latest.json"
+    },
+    {
+      "token": "ID",
+      "requestedInput": "ID",
+      "name": "ID",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T02:02:33.269Z",
+      "latestPath": "data/results/ID-latest.json"
+    },
+    {
+      "token": "US",
+      "requestedInput": "US",
+      "name": "US",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T02:02:31.840Z",
+      "latestPath": "data/results/US-latest.json"
+    },
+    {
+      "token": "SYN",
+      "requestedInput": "SYN",
+      "name": "Synapse",
       "score": 25,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T01:47:11.752Z",
-      "latestPath": "data/results/POWR-latest.json"
+      "action": "观察",
+      "generatedAt": "2026-06-28T02:02:33.780Z",
+      "latestPath": "data/results/SYN-latest.json"
+    },
+    {
+      "token": "ACU",
+      "requestedInput": "ACU",
+      "name": "ACU",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T02:02:39.740Z",
+      "latestPath": "data/results/ACU-latest.json"
     },
     {
       "token": "USELESS",
@@ -940,66 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T20:47:15.025Z",
       "latestPath": "data/results/LLY-latest.json"
-    },
-    {
-      "token": "GRIFFAIN",
-      "requestedInput": "GRIFFAIN",
-      "name": "GRIFFAIN",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T20:17:15.216Z",
-      "latestPath": "data/results/GRIFFAIN-latest.json"
-    },
-    {
-      "token": "B2",
-      "requestedInput": "B2",
-      "name": "BSquared Network",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T20:17:13.249Z",
-      "latestPath": "data/results/B2-latest.json"
-    },
-    {
-      "token": "ARQQ",
-      "requestedInput": "ARQQ",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T20:17:07.028Z",
-      "latestPath": "data/results/ARQQ-latest.json"
-    },
-    {
-      "token": "AERO",
-      "requestedInput": "AERO",
-      "name": "Aerodrome Finance",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T20:17:17.938Z",
-      "latestPath": "data/results/AERO-latest.json"
-    },
-    {
-      "token": "1000RATS",
-      "requestedInput": "1000RATS",
-      "name": "Ordinals RATS",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T20:17:13.305Z",
-      "latestPath": "data/results/1000RATS-latest.json"
-    },
-    {
-      "token": "USDC",
-      "requestedInput": "USDC",
-      "name": "USDC",
-      "score": 10,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T20:17:22.729Z",
-      "latestPath": "data/results/USDC-latest.json"
     }
   ]
 }
