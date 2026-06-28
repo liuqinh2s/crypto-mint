@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-06-28T06:17:18.955Z",
+  "updatedAt": "2026-06-28T06:32:07.861Z",
   "results": [
+    {
+      "token": "JST",
+      "requestedInput": "JST",
+      "name": "JUST",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T06:31:58.345Z",
+      "latestPath": "data/results/JST-latest.json"
+    },
+    {
+      "token": "APE",
+      "requestedInput": "APE",
+      "name": "Ape",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T06:31:56.259Z",
+      "latestPath": "data/results/APE-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
+      "name": "VelodromeV2",
       "score": 25,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-28T06:17:10.020Z",
+      "generatedAt": "2026-06-28T06:31:55.716Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "RAY",
+      "requestedInput": "RAY",
+      "name": "Raydium",
+      "score": 35,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T06:31:58.377Z",
+      "latestPath": "data/results/RAY-latest.json"
+    },
+    {
+      "token": "MMT",
+      "requestedInput": "MMT",
+      "name": "MMT",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T06:32:04.140Z",
+      "latestPath": "data/results/MMT-latest.json"
+    },
+    {
+      "token": "AAVE",
+      "requestedInput": "AAVE",
+      "name": "Aave",
+      "score": 65,
+      "label": "可以买但严控仓位",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T06:32:07.859Z",
+      "latestPath": "data/results/AAVE-latest.json"
+    },
+    {
+      "token": "BASED",
+      "requestedInput": "BASED",
+      "name": "BASED",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T06:32:05.542Z",
+      "latestPath": "data/results/BASED-latest.json"
     },
     {
       "token": "UNI",
@@ -940,66 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T01:47:17.153Z",
       "latestPath": "data/results/PANW-latest.json"
-    },
-    {
-      "token": "BAS",
-      "requestedInput": "BAS",
-      "name": "BNB Attestation",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T01:47:21.155Z",
-      "latestPath": "data/results/BAS-latest.json"
-    },
-    {
-      "token": "JTO",
-      "requestedInput": "JTO",
-      "name": "Jito",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T01:47:24.219Z",
-      "latestPath": "data/results/JTO-latest.json"
-    },
-    {
-      "token": "ESP",
-      "requestedInput": "ESP",
-      "name": "Espresso",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T01:17:16.326Z",
-      "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "GE",
-      "requestedInput": "GE",
-      "name": "GE Aerospace",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T01:17:18.625Z",
-      "latestPath": "data/results/GE-latest.json"
-    },
-    {
-      "token": "PANWON",
-      "requestedInput": "PANW",
-      "name": "Palo Alto Networks (Ondo Tokenized Stock)",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T01:17:13.403Z",
-      "latestPath": "data/results/PANWON-latest.json"
-    },
-    {
-      "token": "EIGEN",
-      "requestedInput": "EIGEN",
-      "name": "Eigen",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T01:17:25.056Z",
-      "latestPath": "data/results/EIGEN-latest.json"
     }
   ]
 }
