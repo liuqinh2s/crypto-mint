@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T21:17:46.486Z",
+  "updatedAt": "2026-06-28T21:19:47.696Z",
   "results": [
     {
       "token": "VELO",
@@ -8,8 +8,28 @@
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T21:17:42.297Z",
+      "generatedAt": "2026-06-28T21:19:42.378Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "MEME",
+      "requestedInput": "MEME",
+      "name": "Memecoin",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T21:19:47.694Z",
+      "latestPath": "data/results/MEME-latest.json"
+    },
+    {
+      "token": "BASED",
+      "requestedInput": "BASED",
+      "name": "Based",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T21:19:42.306Z",
+      "latestPath": "data/results/BASED-latest.json"
     },
     {
       "token": "ACX",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T15:33:00.105Z",
       "latestPath": "data/results/GWEI-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:33:06.156Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
-      "token": "COOKIE",
-      "requestedInput": "COOKIE",
-      "name": "Cookie",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T15:33:08.231Z",
-      "latestPath": "data/results/COOKIE-latest.json"
     }
   ]
 }
