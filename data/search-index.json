@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-28T17:35:34.699Z",
+  "updatedAt": "2026-06-28T17:47:48.832Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 30,
+      "score": 25,
       "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T17:35:33.736Z",
+      "action": "不买",
+      "generatedAt": "2026-06-28T17:47:44.729Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
@@ -18,17 +18,17 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T17:35:34.697Z",
+      "generatedAt": "2026-06-28T17:47:47.039Z",
       "latestPath": "data/results/SNOW-latest.json"
     },
     {
       "token": "LAB",
       "requestedInput": "LAB",
       "name": "LAB",
-      "score": 15,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T17:35:34.585Z",
+      "generatedAt": "2026-06-28T17:47:48.830Z",
       "latestPath": "data/results/LAB-latest.json"
     },
     {
