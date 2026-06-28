@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T03:02:30.783Z",
+  "updatedAt": "2026-06-28T03:17:00.304Z",
   "results": [
     {
       "token": "QNTSTOCK",
@@ -8,8 +8,68 @@
       "score": 0,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T03:02:22.565Z",
+      "generatedAt": "2026-06-28T03:16:47.749Z",
       "latestPath": "data/results/QNTSTOCK-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "VelodromeV2",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:16:50.988Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "FARTCOIN",
+      "requestedInput": "FARTCOIN",
+      "name": "Fartcoin",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:16:51.826Z",
+      "latestPath": "data/results/FARTCOIN-latest.json"
+    },
+    {
+      "token": "MOODENG",
+      "requestedInput": "MOODENG",
+      "name": "Moo Deng",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:16:52.231Z",
+      "latestPath": "data/results/MOODENG-latest.json"
+    },
+    {
+      "token": "TRUST",
+      "requestedInput": "TRUST",
+      "name": "Trust",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:16:59.072Z",
+      "latestPath": "data/results/TRUST-latest.json"
+    },
+    {
+      "token": "BAN",
+      "requestedInput": "BAN",
+      "name": "Comedian",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:16:58.257Z",
+      "latestPath": "data/results/BAN-latest.json"
+    },
+    {
+      "token": "KGEN",
+      "requestedInput": "KGEN",
+      "name": "KGEN",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T03:17:00.302Z",
+      "latestPath": "data/results/KGEN-latest.json"
     },
     {
       "token": "RTXSTOCK",
@@ -20,46 +80,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T03:02:22.580Z",
       "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T03:02:26.447Z",
-      "latestPath": "data/results/VELO-latest.json"
-    },
-    {
-      "token": "FARTCOIN",
-      "requestedInput": "FARTCOIN",
-      "name": "Fartcoin",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T03:02:29.355Z",
-      "latestPath": "data/results/FARTCOIN-latest.json"
-    },
-    {
-      "token": "TRUST",
-      "requestedInput": "TRUST",
-      "name": "Trust",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T03:02:29.215Z",
-      "latestPath": "data/results/TRUST-latest.json"
-    },
-    {
-      "token": "KGEN",
-      "requestedInput": "KGEN",
-      "name": "KGEN",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T03:02:30.781Z",
-      "latestPath": "data/results/KGEN-latest.json"
     },
     {
       "token": "WIF",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T21:46:57.368Z",
       "latestPath": "data/results/KAITO-latest.json"
-    },
-    {
-      "token": "SQQQ",
-      "requestedInput": "SQQQ",
-      "name": "SQQQUSDT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T21:46:54.455Z",
-      "latestPath": "data/results/SQQQ-latest.json"
-    },
-    {
-      "token": "TRB",
-      "requestedInput": "TRB",
-      "name": "Tellor Tributes",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T21:47:00.221Z",
-      "latestPath": "data/results/TRB-latest.json"
     }
   ]
 }
