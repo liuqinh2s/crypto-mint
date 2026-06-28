@@ -1,14 +1,24 @@
 {
-  "updatedAt": "2026-06-28T18:33:05.752Z",
+  "updatedAt": "2026-06-28T18:47:20.981Z",
   "results": [
+    {
+      "token": "SLX",
+      "requestedInput": "SLX",
+      "name": "Solstice",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T18:47:20.972Z",
+      "latestPath": "data/results/SLX-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 35,
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T18:33:00.035Z",
+      "generatedAt": "2026-06-28T18:47:20.980Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
@@ -990,16 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-28T15:33:16.756Z",
       "latestPath": "data/results/SYRUP-latest.json"
-    },
-    {
-      "token": "JTO",
-      "requestedInput": "JTO",
-      "name": "JITO",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T15:33:25.721Z",
-      "latestPath": "data/results/JTO-latest.json"
     }
   ]
 }
