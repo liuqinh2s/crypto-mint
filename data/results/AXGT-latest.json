@@ -1,0 +1,219 @@
+{
+  "token": "AXGT",
+  "requestedInput": "AXON",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T16:03:09.340Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AXGT",
+    "name": "AxonDAO Governance Token [OLD]",
+    "generatedAt": "2026-06-28T16:03:00.508Z",
+    "summary": "AXGT是AxonDAO的旧治理代币，当前流动性极低（约1.7万美元），24小时成交量仅0.01美元，价格较历史高点下跌99.4%。项目属于DeSci赛道，但代币经济不明，无流通市值数据，且新闻停留在2024年，缺乏近期催化。短期上涨动力不足，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "除非出现重大利好（如新融资、上线主流交易所、项目重启），否则逻辑持续失效。"
+    },
+    "catalysts": [
+      "DeSci赛道热度回升",
+      "AxonDAO新项目进展或代币迁移"
+    ],
+    "latestNews": [
+      {
+        "title": "AxonDAO Governance Token [OLD] (AXGT) Price Today, News & Live Chart | Forbes Crypto Market Data",
+        "impact": "中性",
+        "reason": "仅为价格跟踪页面，无实质内容。"
+      },
+      {
+        "title": "AxonDAO Governance Token Price, axgt to USD, Research, News & Fundraising - Messari",
+        "impact": "中性",
+        "reason": "Messari研究页面，但数据陈旧。"
+      },
+      {
+        "title": "AxonDAO Governance Token Price: AXGT/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+        "impact": "中性",
+        "reason": "CoinGecko价格页面，无新信息。"
+      }
+    ],
+    "fundamentals": [
+      "AxonDAO是一个去中心化科学（DeSci）组织，利用AI和生物特征算法。",
+      "代币总供应量10亿，无流通供应数据，可能全部未解锁或已废弃。",
+      "项目涉及Arbitrum、Ethereum、Base等多个生态。",
+      "旧代币（AXGT）可能已被新代币替代或迁移。"
+    ],
+    "marketRead": [
+      "当前价格0.000000202美元，24小时无有效价格变动数据。",
+      "流动性仅1.7万美元，极易被操纵或出现滑点。",
+      "24小时成交量0.01美元，几乎无交易活动。",
+      "完全稀释估值约2万美元，但无实际市值支撑。"
+    ],
+    "risks": [
+      "流动性极低，买卖价差巨大，无法正常交易。",
+      "代币可能已废弃或迁移，存在归零风险。",
+      "无近期新闻或开发进展，项目活跃度存疑。",
+      "合约风险：旧代币可能被弃用，持有者需迁移。",
+      "市场关注度低，watchlist人数虽多但无实际交易。"
+    ],
+    "watchlist": [
+      "AxonDAO官方公告是否推出新代币或迁移计划。",
+      "流动性是否显著增加（如超过10万美元）。",
+      "是否有新交易所上线或做市商介入。"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko和DexScreener，流动性数据仅限Base链Uniswap池。",
+      "新闻均为2024年，无近期信息，可靠性低。",
+      "代币名称含[OLD]，暗示已过时，需谨慎。"
+    ]
+  },
+  "profile": {
+    "id": "axondao-governance-token",
+    "symbol": "AXGT",
+    "name": "AxonDAO Governance Token [OLD]",
+    "categories": [
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "DePIN",
+      "Base Ecosystem",
+      "Decentralized Science (DeSci)",
+      "Made in USA",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://axondao.io"
+    ],
+    "description": "AxonDAO Funds, Builds, and Supports DeSci using AI &amp; Biometric Algorithms ",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00582362,
+    "marketCapUsd": 0,
+    "fullyDilutedValuationUsd": 5823621,
+    "totalVolumeUsd": 27.05,
+    "priceChange24hPct": -0.49927,
+    "priceChange7dPct": 1.34202,
+    "priceChange14dPct": 7.82297,
+    "priceChange30dPct": -17.43591,
+    "athUsd": 0.971095,
+    "athChangePct": -99.4003,
+    "circulatingSupply": 0,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 11164,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "AXON/WETH",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x70315392e331f683421a7978713031273aab55819f06276af5ee2a9979cc640c",
+    "pairUrl": "https://dexscreener.com/base/0x70315392e331f683421a7978713031273aab55819f06276af5ee2a9979cc640c",
+    "lastPrice": 2.02e-7,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.01,
+    "liquidityUsd": 17171.84,
+    "fullyDilutedValuationUsd": 20202,
+    "marketCapUsd": 20202,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "base",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/base/0x70315392e331f683421a7978713031273aab55819f06276af5ee2a9979cc640c",
+    "pairAddress": "0x70315392e331f683421a7978713031273aab55819f06276af5ee2a9979cc640c",
+    "labels": [
+      "v4"
+    ],
+    "baseToken": {
+      "address": "0xEd7a2b98fBdc75D755B95aD55D92Fc95c03B4ba3",
+      "name": "AXON",
+      "symbol": "AXON"
+    },
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.0000000001280",
+    "priceUsd": "0.0000002020",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 0.01,
+      "h6": 0.01,
+      "h1": 0.01,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 17171.84,
+      "base": 84999953748,
+      "quote": 0.000005962
+    },
+    "fdv": 20202,
+    "marketCap": 20202,
+    "pairCreatedAt": 1782662051000
+  },
+  "news": [
+    {
+      "title": "AxonDAO Governance Token [OLD] (AXGT) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSnRrTTFzT1dLUFh4emFxTnhXOS14MEtaalZTOWtGNGo5dkxyZVM3MG5YNG9FWTJVVnE1bWFUcnRoTmJMUnRFQlhFYzY2dlJQeGNwT1FDQ2hqRVhPNmU2S3drUzdpX0R6QndsSnNpVlFkRDZXV0Z2WUdJWDBMYndPdg?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Wed, 01 May 2024 10:45:37 GMT",
+      "snippet": "AxonDAO Governance Token [OLD] (AXGT) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "AxonDAO Governance Token Price, axgt to USD, Research, News & Fundraising - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51M1N1cGUxcjJkUXpXS1J2SHl3dGdZZXBWRUNQaW40UFZ2UGpGb3VKc3NIN1h2TTRFblkyVHBKanJVTUtJZDBvdlF2OHdCdWZzVFQzczd4M0ljUDVDVGZmNg?oc=5",
+      "source": "Messari",
+      "publishedAt": "Mon, 11 Mar 2024 18:59:36 GMT",
+      "snippet": "AxonDAO Governance Token Price, axgt to USD, Research, News & Fundraising&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "AxonDAO Governance Token Price: AXGT/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14WEhTRDRabFZIOU80YXo5TWRrdmFHLU5UM0RGeWZUTUdPck5laFZkTXlDVHlUWWF1bDIyTjB6VWlySkdLY2FTWWRILTFuWHBoZ1VNejhxMVF0QXI1WUtFWG5vOWRNd0I2S3lZ?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 16 Feb 2024 09:43:58 GMT",
+      "snippet": "AxonDAO Governance Token Price: AXGT/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned AXON for AXGT; DEX profile ignored to avoid token mix-up."
+  ]
+}

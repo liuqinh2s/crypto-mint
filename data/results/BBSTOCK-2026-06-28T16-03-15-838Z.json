@@ -1,0 +1,78 @@
+{
+  "token": "BBSTOCK",
+  "requestedInput": "BBSTOCK",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T16:03:15.838Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BBSTOCK",
+    "name": "unknown",
+    "generatedAt": "2026-06-28T16:03:12.382Z",
+    "summary": "代币BBSTOCK在Binance上无法获取行情数据，且无新闻和项目资料，无法分析上涨原因或给出投资建议。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无数据，逻辑自动失效"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [],
+    "marketRead": [],
+    "risks": [
+      "无市场数据，无法评估流动性；可能为低流动性或已下架代币；存在数据不可靠风险"
+    ],
+    "watchlist": [
+      "需确认代币是否仍在交易，以及获取更多数据来源"
+    ],
+    "sourceNotes": [
+      "Binance API返回451错误，可能因地域限制；无其他数据源补充"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "BBSTOCKUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BBSTOCKUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BBSTOCKFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BBSTOCKFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BBSTOCKUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BBSTOCKUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "BBSTOCKBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=BBSTOCKBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=BBSTOCK: Throttled\n"
+  ]
+}

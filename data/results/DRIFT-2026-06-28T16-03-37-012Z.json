@@ -1,0 +1,336 @@
+{
+  "token": "DRIFT",
+  "requestedInput": "DRIFT",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T16:03:37.012Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "DRIFT",
+    "name": "Drift",
+    "generatedAt": "2026-06-28T16:03:26.956Z",
+    "summary": "DRIFT 近期因黑客事件和韩国交易所下架而大幅下跌，当前价格处于历史低位，24小时涨幅6.69%但流动性极低。基本面严重受损，团队虽提出IOU空投补偿但信任度低。不建议买入，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非团队公布可信的赔偿方案且交易所重新上架，否则逻辑持续失效。"
+    },
+    "catalysts": [
+      "黑客事件后团队提出IOU空投补偿计划，可能短期提振情绪",
+      "价格已跌至历史低位，部分投机者可能博弈反弹"
+    ],
+    "latestNews": [
+      {
+        "title": "Solana Platform Drift Loses $250 Million In Hack",
+        "impact": "利空",
+        "reason": "重大安全事件导致资金损失，信任崩塌。"
+      },
+      {
+        "title": "DRIFT Delisting Confirmed: Upbit, Bithumb, Coinone Remove Token on June 1",
+        "impact": "利空",
+        "reason": "韩国三大交易所下架，流动性进一步枯竭。"
+      },
+      {
+        "title": "Drift Discusses Airdrop After $285 Million Hack",
+        "impact": "中性",
+        "reason": "补偿计划尚在讨论，实际执行存疑。"
+      }
+    ],
+    "fundamentals": [
+      "Drift 是 Solana 上的永续合约 DEX，曾获知名投资。",
+      "2026年4月遭社会工程攻击，损失约2.85亿美元。",
+      "团队暂停存款提款，后恢复但用户信心受创。",
+      "韩国三大交易所（Upbit、Bithumb、Coinone）于6月1日下架 DRIFT。",
+      "当前市值约1017万美元，流动性仅3.17万美元。"
+    ],
+    "marketRead": [
+      "24小时涨幅6.69%，但成交量仅15.2万美元，流动性极低，价格容易被操纵。",
+      "无7日/30日数据，近期走势不明，但历史高点后跌幅巨大。",
+      "FDV 约1664万美元，但实际流通量未知，可能存在解锁压力。"
+    ],
+    "risks": [
+      "黑客事件后项目信誉归零，用户资金损失未完全补偿。",
+      "韩国交易所下架导致主要流动性来源消失。",
+      "流动性极低，滑点大，难以大额进出。",
+      "团队可能发行IOU代币，但价值不确定。",
+      "合约风险：虽然经过审计，但已发生攻击。"
+    ],
+    "watchlist": [
+      "团队是否公布具体赔偿方案及时间表。",
+      "是否有其他交易所重新上架或做市商支持。",
+      "链上活跃度和TVL变化。",
+      "黑客资金是否追回。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener和新闻聚合，未验证链上数据。",
+      "部分新闻标题可能不准确，但整体事件可信。",
+      "无完整K线数据，技术分析受限。"
+    ]
+  },
+  "profile": {
+    "id": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
+    "symbol": "DRIFT",
+    "name": "Drift",
+    "categories": [
+      "solana",
+      "orca"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / orca. Pair URL: https://dexscreener.com/solana/9kx6chcktgqdymq4kphpxfczorgjzdfxt9a5ijx9s1ab Socials: twitter: https://x.com/DriftProtocol; telegram: https://t.me/+G4i0AZcHf6cxNDll",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.01664,
+    "marketCapUsd": 10175891,
+    "fullyDilutedValuationUsd": 16640436,
+    "totalVolumeUsd": 152313.06,
+    "priceChange24hPct": 6.69,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2024-05-16",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "9kx6CHCKtGqDYMq4KPhpxFCZorgJZDFXT9a5iJx9S1Ab",
+    "baseTokenAddress": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 31765.61,
+    "pairUrl": "https://dexscreener.com/solana/9kx6chcktgqdymq4kphpxfczorgjzdfxt9a5ijx9s1ab",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "orca",
+    "pair": "DRIFT/SOL",
+    "chainId": "solana",
+    "dexId": "orca",
+    "pairAddress": "9kx6CHCKtGqDYMq4KPhpxFCZorgJZDFXT9a5iJx9S1Ab",
+    "pairUrl": "https://dexscreener.com/solana/9kx6chcktgqdymq4kphpxfczorgjzdfxt9a5ijx9s1ab",
+    "lastPrice": 0.01664,
+    "priceChange24hPct": 6.69,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 152313.06,
+    "liquidityUsd": 31765.61,
+    "fullyDilutedValuationUsd": 16640436,
+    "marketCapUsd": 10175891,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "orca",
+    "url": "https://dexscreener.com/solana/9kx6chcktgqdymq4kphpxfczorgjzdfxt9a5ijx9s1ab",
+    "pairAddress": "9kx6CHCKtGqDYMq4KPhpxFCZorgJZDFXT9a5iJx9S1Ab",
+    "labels": [
+      "wp"
+    ],
+    "baseToken": {
+      "address": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
+      "name": "Drift",
+      "symbol": "DRIFT"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.0002314",
+    "priceUsd": "0.01664",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 26,
+        "sells": 50
+      },
+      "h6": {
+        "buys": 252,
+        "sells": 319
+      },
+      "h24": {
+        "buys": 839,
+        "sells": 888
+      }
+    },
+    "volume": {
+      "h24": 152313.06,
+      "h6": 71269.48,
+      "h1": 11119.77,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -0.57,
+      "h6": -1.37,
+      "h24": 6.69
+    },
+    "liquidity": {
+      "usd": 31765.61,
+      "base": 1506666,
+      "quote": 93.1148
+    },
+    "fdv": 16640436,
+    "marketCap": 10175891,
+    "pairCreatedAt": 1715839063000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/q9IkTyPMVGJqA8m4?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/hfPfC4qcQzvKOGFi?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7?timestamp=1782662700000",
+      "websites": [],
+      "socials": [
+        {
+          "url": "https://x.com/DriftProtocol",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/+G4i0AZcHf6cxNDll",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Solana News: XRP Debuts, Drift Recovers as Solana Gains Speed - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVlNT0lWQWtVd2xCWFRnRFRMcDhLVVRFaFZuOW5LdlpsUEIyeFowdWV3TzE2cjhYcXN0RlRrdDMyaXg1SWpPWVhvTUdNcV9lVlhUbUFUWEdkRmtodjFMQWVZRkZpMTJ6Q0ZBLVp0UV9RSTlXQ0JmdTEtbG15T0hSaHNiRGJmVDlUWTVZd2g5QXFvQkpFT3dHVGhBU0VKUGZRaDRN?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 22 Jun 2026 16:30:27 GMT",
+      "snippet": "Solana News: XRP Debuts, Drift Recovers as Solana Gains Speed&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Solana Platform Drift Loses $250 Million In Hack - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd21aaEt2dld4RFhZUEVSV0RVNUdSQVh0MWwxS0JDUjdDMU92R3hqSzRMRGRIMXVjSzRYZ2lnY3VNMGEwanlXTDIxU3VUVEF2QThjUk5CT183a01Ma1pJTGRZemU0SUlOOXFUZ2VTWUN3dkppX0xvMi1pMFZBdDVEUU1KTG1rZnZqa2FQNDRjYnN4YkFCNm1QTW9lVXQ?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "Solana Platform Drift Loses $250 Million In Hack&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Drift Protocol says deposits and withdrawals suspended amid active attack - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMkdPR2hZN1JiZWFrazVPQlJubXh3dmJUMUEyV0R1dTFSM3NnSEdXLWZaeXBHZVNyUmFrVzJsbkpZS1JEWnVvZE5PNHBVdzdLa1B6TG5QSV9aVFZzaHdDUm1IMWdrZVg3bEJxMnZTQ3I1eDhsczVUaVRCLWlJNFFISERjZFdoSGNRdlo3ZGxxNlU3eGR2VlhTYVQyMU9rSUZlMEg0TlRaYUJ6Wi1kN3JLM3l5RFNsOVFGR0R0eTIwX1dQeUotOWU2bUF4dlNBUzBHVDdr?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "snippet": "Drift Protocol says deposits and withdrawals suspended amid active attack&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Solana (SOL) DeFi platform Drift investigates suspicious activity, tells users to halt deposits - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmlqa0x2RmIxOHhPMGFTS3dDUVpyY3lLbzY1cThGMGFkMG96UEt5aVM1QWE2WXVGRVBiczZOaS13WDUzUUJ2N0otOHZUVjloNTlSdkZ5aXNrXy0wbE1fbWJSV09KSi1JbmVxOF9heFlqZVNaOWszdUFoaFFVQkZJZktFSHJFOHVsTTRIWjVMY2IyWWdpRVc4VjhQcmp3UVV5OGh0S0UxQUpJRi1DbWVnTXJiUGZBYkpHOWhMb3VndTN0QzVOOFJ1Yw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "snippet": "Solana (SOL) DeFi platform Drift investigates suspicious activity, tells users to halt deposits&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Pi Network consolidates around $0.18 as market weighs long-term narrative against near-term drift - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVHBUNkNUX05zaGxxaTN2d2hNQzN2OF9hUnVrOTczbThIODlzQ2RLSHlDRk9OekQyOXFFNkc0NTRKSWpfMlBFSW5OaElZeWNaVGQ4Q0hsb0FzcV83U1NRWWVhRlJBZkdJTmdWLU9tS2hTd05pazllRlNWTnN2SU8wbXhIUFRnY25Nel9IcGN2THJMSkRpV1doZUdJZm9rVkFGMDVUdEZReElETVhyTHhkaUFiZGhRLWxi?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Thu, 07 May 2026 07:00:00 GMT",
+      "snippet": "Pi Network consolidates around $0.18 as market weighs long-term narrative against near-term drift&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Drift Protocol (DRIFT) Hits All-Time Low as Price Tumbles 40% After $285M Exploit: Is Recovery Possible? - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQTNTQTlEc01XbmhJN1V0VENvN0NQX2N5dV9LY3FTNDhiVFNvdWdoS1RpYmVQczdCSG9vMlV1cnRELUJFTXdsZ3pFaWlHVEk2MzZ2RjFGNXctMHhDbUxhS3RaRnRKclMxLTZnMXRsUktNd1V1UWpSWHV0el9xd0lEUmtLblZtR2pmUTVpMjRBMGdKZUVSRmc2VkhMdnBqZjl1SUFrR0hZbw?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "Drift Protocol (DRIFT) Hits All-Time Low as Price Tumbles 40% After $285M Exploit: Is Recovery Possible?&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "DRIFT Delisting Confirmed: Upbit, Bithumb, Coinone Remove Token on June 1 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQkVRenZHTG1ia2NNeEpuX2RRamhCakxLZXlOY0JDYTdmcjNrbXVsSEZ4dDNoa1g2SkIzc1FCM3l6VDUwbjNnTmd5S0EzYXptbzZ1SXdaY0hESTJHRmhVdEVVSVZyTFpVbUlEdmEtcHQ5cXpMWm5XeDQxa0hpeVg5ZQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "snippet": "DRIFT Delisting Confirmed: Upbit, Bithumb, Coinone Remove Token on June 1&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Circle Shares Tumble 10% on “Sell” Rating, Drift Protocol Scandal - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWpZeWFTa3V5bXJIVDNuRDZnNjI2cHFrSFBkcHpFNjZjQ3lyUjVXTUFtVnZTbUs1cUJ6bkZtRnlINHZpbWVVRmZ2djItNVdkb2tJZXRvd1JHZ1dhRGpaMlRtYkFXSkZoTG1NT3B5b0twOFBKeXp2a3hSWmwxWVBHUW9jNDlXMjhzODFCbTdaQ0pLbk3SAZgBQVVfeXFMUGhuWXF5LV9RMWZNMldhSHhFcnljV2p6UDNzZFQ4NE9qWXIycUtXaVlXN1JFclhwaHF0OEpDdnJ5bjMzVDVQekZTLTlTeFluTG9WVWJkMWx6aTRXQzVmUnJVdmdDcEZUaGdldnpVYzdCMV9UN2ZnMzlvMzlnVFB1LXl5N19PNkJyOHplSFBjUnhjcDRfcndwaWU?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "snippet": "Circle Shares Tumble 10% on “Sell” Rating, Drift Protocol Scandal&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Drift Discusses Airdrop After $285 Million Hack - Coinspot.io",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczBBYzVBZ2ZvUkRSMlZDUUJXSHN5bTY1cFhqTF92N3FtYmRSLWxldnpDSTZiajVjS0dzTjlRMmlHa09OTE9wTXQwNktyVXlDUnF6d0tfNWRaSkZHenZOLURfNW9IRzFkdlpreXpYTHVfaVp6TGlDWjlnN0o2LWlEWVZ0a0JEQQ?oc=5",
+      "source": "Coinspot.io",
+      "publishedAt": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "snippet": "Drift Discusses Airdrop After $285 Million Hack&nbsp;&nbsp;Coinspot.io"
+    },
+    {
+      "title": "THE DRIFT DILEMMA: RECOVERY PLAN FLOATS \"IOU AIRDROP\" AMIDST $285M EXPLOIT FURY - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5POG9IX3ZnQ0dHemplMDluZ09WUk1NZ1M4S1VKQW1lYWdfOGhVS3J1Wk5UaFhJM1JzQUZZUEFKR2NfX1h4U3NqeEdfdUNVS2Rldl9zR3h2dG50WjdEY3NsOWhxcWg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 05 Apr 2026 07:00:00 GMT",
+      "snippet": "THE DRIFT DILEMMA: RECOVERY PLAN FLOATS \"IOU AIRDROP\" AMIDST $285M EXPLOIT FURY&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Drift Protocol Manual: Price, Pricing and How to Start - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONy11OGdTTXZyUHN6UHNRSks2N0Z0UjNJY0x1bVN0dkYtY2tQTXFDYWo1UVdtVV9CTmRMTHUwSHNKUUtPZTBWOUxQVDB4blFnU0o3NjRRRU5rS2xfWlNYanVodU5Ha1plbGdnTHJsUU96U1N5X2RUMkg0ZFdwclo2TlZaaw?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 10 Jun 2026 12:15:21 GMT",
+      "snippet": "Drift Protocol Manual: Price, Pricing and How to Start&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Drift Protocol Handbook: Value, Charges and How to Start - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmgyU1JzbFU1ZDZ6aDBjQnR3NWc3Z3FjSnVncUY2Tmt2d3djTVBGOTlhTG91OFBqdmxjU21wQWRpUW9RaHJKdkR4ZFhPWEd5aERXZ1Q5Yk5jZkFIektYZ2ZXdDgzMUdtZklmdFB3eGtmTy1VRmVLZVd3czQxam82UFVXYU50Zw?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Wed, 17 Jun 2026 20:18:00 GMT",
+      "snippet": "Drift Protocol Handbook: Value, Charges and How to Start&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Drift Protocol Hack Explained: Six-Month Social Engineering Led to $285M Solana DeFi Exploit - BitPinas",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbkhId1k2enBvWXNYQmNfMnQ5dUROeEJzeklqR195bnUwaktwUHM2eS1kOVZKUDREaEhJQjgzc3NGeUhmSTRSSUExMGJkY3RwU2o3NWxkb21JRlZZb0tNcFZqTElUbXlUd3lj?oc=5",
+      "source": "BitPinas",
+      "publishedAt": "Sun, 05 Apr 2026 07:00:00 GMT",
+      "snippet": "Drift Protocol Hack Explained: Six-Month Social Engineering Led to $285M Solana DeFi Exploit&nbsp;&nbsp;BitPinas"
+    },
+    {
+      "title": "How to buy Drift Protocol Safe: A Newcomer Manual - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01bElkeERIMGYzZVJyaDd0Q2ZqaDlXdXVqS3MtbEtVSDB2djRNTUhnQ2FBSkJlNHNFcEdkd21ldDRNS19tZjkxTHNsVWpfN2xMWl9TV2tzN2VWckZsV0tXUjEzQ2VQOXhJUEd4MkxLUElTNExKbUNjaGEtNFV4QQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sun, 07 Jun 2026 07:44:59 GMT",
+      "snippet": "How to buy Drift Protocol Safe: A Newcomer Manual&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "AUD/USD may drift lower and test 0.6670 – UOB Group - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45S3RhLTZaUE8tb0lraS14em0wc3lsUS03S0J0ZTB0TmNadXNzM0FLcEdJWVJFU0pMZ1JKbVNwRUVhWDlMRWNqcW8xaGV3ODh2YmEwN3pLbFVrMGt2bWfSAWNBVV95cUxOc3ZmblZJWWtFc29yd3RLdm9CMEdFOG0tZ1RzcUNKSVZuWDhTSmZpcXhSTjl6UkZtaVZ4NkhrRFlRb19MUlg2VzdTUG1YTVgtZmpxbXlCbDNIYnMzQUtRSTNyUlE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 05 Jan 2026 08:00:00 GMT",
+      "snippet": "AUD/USD may drift lower and test 0.6670 – UOB Group&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "BNB and Zcash Drift Sideways as 400x ROI Projections Drive Investors to Zero Knowledge Proof’s Presale Auction - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OV29PSnMwUHRHcGEzUFBlOHlldEd6Y3JGNGd0MDc3VzcwRE9taUZpU3NFREhpZm5EamxvNlp2ZWxoSnlHMGQ1ZVYtY3RHYXQ1NDBrcDJhM1dUNmEtSkHSAWNBVV95cUxQOHNTX0M0Y0FicHRkbS1DLUlSaThRNWhUTG1mRVN4dFI1NUoyNjVRNGN6akQ3dkdILTRhR2RyTENZcnNIelJMZDV1MHBIN1BoYk85OWlUMG94cjV0djRWTWJLWEk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "snippet": "BNB and Zcash Drift Sideways as 400x ROI Projections Drive Investors to Zero Knowledge Proof’s Presale Auction&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=DRIFT: Throttled\n"
+  ]
+}
