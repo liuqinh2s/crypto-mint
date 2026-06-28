@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-06-28T22:35:41.529Z",
+  "updatedAt": "2026-06-28T22:47:52.466Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 25,
+      "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T22:35:41.527Z",
+      "generatedAt": "2026-06-28T22:47:50.427Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "INFQ",
+      "requestedInput": "INFQ",
+      "name": "Infleqtion Inc (Derivatives)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T22:47:52.463Z",
+      "latestPath": "data/results/INFQ-latest.json"
     },
     {
       "token": "MEME",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T15:32:57.401Z",
       "latestPath": "data/results/HYPER-latest.json"
-    },
-    {
-      "token": "GWEI",
-      "requestedInput": "GWEI",
-      "name": "ETHGas",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:33:00.105Z",
-      "latestPath": "data/results/GWEI-latest.json"
     }
   ]
 }
