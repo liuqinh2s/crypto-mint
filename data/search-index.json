@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-06-28T03:17:00.304Z",
+  "updatedAt": "2026-06-28T03:32:19.067Z",
   "results": [
+    {
+      "token": "XPIN",
+      "requestedInput": "XPIN",
+      "name": "XPIN Network",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T03:32:11.309Z",
+      "latestPath": "data/results/XPIN-latest.json"
+    },
+    {
+      "token": "AWE",
+      "requestedInput": "AWE",
+      "name": "AWE",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:32:10.208Z",
+      "latestPath": "data/results/AWE-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "VelodromeV2",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:32:07.862Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "MOODENG",
+      "requestedInput": "MOODENG",
+      "name": "MooDeng",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:32:13.916Z",
+      "latestPath": "data/results/MOODENG-latest.json"
+    },
+    {
+      "token": "BAN",
+      "requestedInput": "BAN",
+      "name": "Comedian",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:32:16.888Z",
+      "latestPath": "data/results/BAN-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:32:19.065Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
     {
       "token": "QNTSTOCK",
       "requestedInput": "QNTSTOCK",
@@ -10,16 +70,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T03:16:47.749Z",
       "latestPath": "data/results/QNTSTOCK-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T03:16:50.988Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "FARTCOIN",
@@ -32,16 +82,6 @@
       "latestPath": "data/results/FARTCOIN-latest.json"
     },
     {
-      "token": "MOODENG",
-      "requestedInput": "MOODENG",
-      "name": "Moo Deng",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T03:16:52.231Z",
-      "latestPath": "data/results/MOODENG-latest.json"
-    },
-    {
       "token": "TRUST",
       "requestedInput": "TRUST",
       "name": "Trust",
@@ -50,16 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T03:16:59.072Z",
       "latestPath": "data/results/TRUST-latest.json"
-    },
-    {
-      "token": "BAN",
-      "requestedInput": "BAN",
-      "name": "Comedian",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T03:16:58.257Z",
-      "latestPath": "data/results/BAN-latest.json"
     },
     {
       "token": "KGEN",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T21:54:35.898Z",
       "latestPath": "data/results/BRKB-latest.json"
-    },
-    {
-      "token": "AT",
-      "requestedInput": "AT",
-      "name": "AT",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T21:54:41.143Z",
-      "latestPath": "data/results/AT-latest.json"
-    },
-    {
-      "token": "NAORIS",
-      "requestedInput": "NAORIS",
-      "name": "Naoris Protocol",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T21:46:56.839Z",
-      "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "KAITO",
-      "requestedInput": "KAITO",
-      "name": "Kaito",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T21:46:57.368Z",
-      "latestPath": "data/results/KAITO-latest.json"
     }
   ]
 }
