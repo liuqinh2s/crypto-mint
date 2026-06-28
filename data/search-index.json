@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-06-28T09:03:25.840Z",
+  "updatedAt": "2026-06-28T09:18:04.773Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T09:17:44.675Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "ACX",
+      "requestedInput": "ACX",
+      "name": "Across Protocol",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T09:17:46.094Z",
+      "latestPath": "data/results/ACX-latest.json"
+    },
+    {
+      "token": "STBL",
+      "requestedInput": "STBL",
+      "name": "STBL",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T09:17:47.664Z",
+      "latestPath": "data/results/STBL-latest.json"
+    },
+    {
+      "token": "G",
+      "requestedInput": "G",
+      "name": "Gravity (原Galxe)",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T09:17:46.323Z",
+      "latestPath": "data/results/G-latest.json"
+    },
+    {
+      "token": "PIEVERSE",
+      "requestedInput": "PIEVERSE",
+      "name": "Pieverse",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T09:17:53.481Z",
+      "latestPath": "data/results/PIEVERSE-latest.json"
+    },
+    {
+      "token": "RPL",
+      "requestedInput": "RPL",
+      "name": "Rocket Pool Protocol",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T09:17:53.448Z",
+      "latestPath": "data/results/RPL-latest.json"
+    },
+    {
+      "token": "BICO",
+      "requestedInput": "BICO",
+      "name": "Biconomy Token",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T09:17:53.976Z",
+      "latestPath": "data/results/BICO-latest.json"
+    },
+    {
+      "token": "XPL",
+      "requestedInput": "XPL",
+      "name": "XPL",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T09:17:58.288Z",
+      "latestPath": "data/results/XPL-latest.json"
+    },
+    {
+      "token": "ALICE",
+      "requestedInput": "ALICE",
+      "name": "ALICE",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T09:18:01.116Z",
+      "latestPath": "data/results/ALICE-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T09:18:01.960Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "BSV",
+      "requestedInput": "BSV",
+      "name": "BSV",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T09:18:02.016Z",
+      "latestPath": "data/results/BSV-latest.json"
+    },
+    {
+      "token": "SAPM",
+      "requestedInput": "SAMSUNG",
+      "name": "Samsung Phone Ai Mirror⚡",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T09:18:04.771Z",
+      "latestPath": "data/results/SAPM-latest.json"
+    },
     {
       "token": "TNSR",
       "requestedInput": "TNSR",
@@ -30,16 +150,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-28T09:03:04.939Z",
       "latestPath": "data/results/SLX-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T09:03:01.973Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "TSM",
@@ -200,16 +310,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T08:48:02.623Z",
       "latestPath": "data/results/CAKE-latest.json"
-    },
-    {
-      "token": "SAPM",
-      "requestedInput": "SAMSUNG",
-      "name": "Samsung Phone Ai Mirror⚡",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T08:48:01.009Z",
-      "latestPath": "data/results/SAPM-latest.json"
     },
     {
       "token": "CELO",
@@ -900,106 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T06:02:12.301Z",
       "latestPath": "data/results/HOT-latest.json"
-    },
-    {
-      "token": "ARC",
-      "requestedInput": "ARC",
-      "name": "ARC",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T05:47:02.411Z",
-      "latestPath": "data/results/ARC-latest.json"
-    },
-    {
-      "token": "SOON",
-      "requestedInput": "SOON",
-      "name": "SOON",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T05:47:01.658Z",
-      "latestPath": "data/results/SOON-latest.json"
-    },
-    {
-      "token": "STABLE",
-      "requestedInput": "STABLE",
-      "name": "Stable",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T05:46:59.782Z",
-      "latestPath": "data/results/STABLE-latest.json"
-    },
-    {
-      "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
-      "requestedInput": "ICNT",
-      "name": "ICNT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T05:47:05.700Z",
-      "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
-    },
-    {
-      "token": "LAB",
-      "requestedInput": "LAB",
-      "name": "LAB",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T05:47:11.464Z",
-      "latestPath": "data/results/LAB-latest.json"
-    },
-    {
-      "token": "EUL",
-      "requestedInput": "EUL",
-      "name": "Euler",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T05:47:13.161Z",
-      "latestPath": "data/results/EUL-latest.json"
-    },
-    {
-      "token": "TAC",
-      "requestedInput": "TAC",
-      "name": "TAC Token",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T05:32:06.703Z",
-      "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "DYDX",
-      "requestedInput": "DYDX",
-      "name": "dYdX",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T05:32:09.288Z",
-      "latestPath": "data/results/DYDX-latest.json"
-    },
-    {
-      "token": "UNH",
-      "requestedInput": "UNH",
-      "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T05:32:08.158Z",
-      "latestPath": "data/results/UNH-latest.json"
-    },
-    {
-      "token": "HYPER",
-      "requestedInput": "HYPER",
-      "name": "Hyperlane",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T05:32:17.281Z",
-      "latestPath": "data/results/HYPER-latest.json"
     }
   ]
 }
