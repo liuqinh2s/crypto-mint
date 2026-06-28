@@ -1,0 +1,103 @@
+{
+  "token": "1000XEC",
+  "requestedInput": "1000XEC",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T13:33:05.495Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "1000XEC",
+    "name": "eCash",
+    "generatedAt": "2026-06-28T13:33:00.194Z",
+    "summary": "1000XEC是eCash的杠杆代币，近期因币安宣布将于2025年6月14日下架其永续合约而受到关注。目前缺乏实时行情数据，且存在下架风险，基本面偏空。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若币安取消下架计划或出现重大利好，但当前无迹象。"
+    },
+    "catalysts": [
+      "币安下架永续合约可能引发短期波动，但方向不确定。"
+    ],
+    "latestNews": [
+      {
+        "title": "Crucial Binance Delisting: MYRO and 1000XEC Perpetual Futures Removal on June 14",
+        "impact": "利空",
+        "reason": "币安下架永续合约将减少交易量和流动性，对价格构成压力。"
+      }
+    ],
+    "fundamentals": [
+      "1000XEC是eCash（XEC）的杠杆代币，追踪XEC价格的三倍做多或做空。",
+      "eCash是比特币现金的分叉，主打快速低费支付，但采用率有限。",
+      "代币供应量巨大，通胀率较高。"
+    ],
+    "marketRead": [
+      "由于API限制，无法获取实时行情数据。",
+      "下架消息可能导致交易量萎缩，价格波动加剧。"
+    ],
+    "risks": [
+      "币安下架永续合约导致流动性枯竭。",
+      "杠杆代币存在磨损和清算风险。",
+      "基本面疲软，缺乏采用。"
+    ],
+    "watchlist": [
+      "币安是否完全下架现货交易对。",
+      "XEC价格走势及链上活动。"
+    ],
+    "sourceNotes": [
+      "行情数据因地理位置限制无法获取，仅依赖新闻。",
+      "新闻日期为2025年11月，可能已过时。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "1000XECUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=1000XECUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "1000XECFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=1000XECFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "1000XECUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=1000XECUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "1000XECBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=1000XECBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "Crucial Binance Delisting: MYRO and 1000XEC Perpetual Futures Removal on June 14 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hS2lheG85c3AtUWQwMlVuNHVBdDFleW1DSjV6bXh1a3dYeTNUZ0d3WUhFY1ZXSDBLMjF6ZHhPWnlja01rbXlGX1VyTXBaanlOUVZScUJhNmNtUVJvMEhEaC1kTFdBc0pMUnVtZHlvR2VxSVFYaUF3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "snippet": "Crucial Binance Delisting: MYRO and 1000XEC Perpetual Futures Removal on June 14&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
