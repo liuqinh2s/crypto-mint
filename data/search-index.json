@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-28T04:17:08.671Z",
+  "updatedAt": "2026-06-28T04:32:20.514Z",
   "results": [
+    {
+      "token": "TNSR",
+      "requestedInput": "TNSR",
+      "name": "Tensor",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T04:32:02.295Z",
+      "latestPath": "data/results/TNSR-latest.json"
+    },
+    {
+      "token": "HIVE",
+      "requestedInput": "HIVE",
+      "name": "HIVE",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:32:07.457Z",
+      "latestPath": "data/results/HIVE-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "VelodromeV2",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:32:00.950Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "SNOW",
+      "requestedInput": "SNOW",
+      "name": "Snow",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:32:02.507Z",
+      "latestPath": "data/results/SNOW-latest.json"
+    },
+    {
+      "token": "WET",
+      "requestedInput": "WET",
+      "name": "HumidiFi",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T04:32:11.868Z",
+      "latestPath": "data/results/WET-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:32:14.224Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "RESOLV",
+      "requestedInput": "RESOLV",
+      "name": "Resolv",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:32:10.102Z",
+      "latestPath": "data/results/RESOLV-latest.json"
+    },
+    {
+      "token": "VELVET",
+      "requestedInput": "VELVET",
+      "name": "Velvet",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:32:20.512Z",
+      "latestPath": "data/results/VELVET-latest.json"
+    },
     {
       "token": "SLX",
       "requestedInput": "SLX",
@@ -10,16 +90,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-28T04:16:52.434Z",
       "latestPath": "data/results/SLX-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T04:16:51.611Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "TSM",
@@ -50,16 +120,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T04:17:00.788Z",
       "latestPath": "data/results/CFG-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T04:17:00.129Z",
-      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "CELO",
@@ -940,66 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T22:54:53.461Z",
       "latestPath": "data/results/STBL-latest.json"
-    },
-    {
-      "token": "MAGMA",
-      "requestedInput": "MAGMA",
-      "name": "Magma Token",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T22:54:52.746Z",
-      "latestPath": "data/results/MAGMA-latest.json"
-    },
-    {
-      "token": "G",
-      "requestedInput": "G",
-      "name": "Gravity (原Galxe)",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T22:47:07.322Z",
-      "latestPath": "data/results/G-latest.json"
-    },
-    {
-      "token": "PIEVERSE",
-      "requestedInput": "PIEVERSE",
-      "name": "Pieverse",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T22:47:07.525Z",
-      "latestPath": "data/results/PIEVERSE-latest.json"
-    },
-    {
-      "token": "RPL",
-      "requestedInput": "RPL",
-      "name": "Rocket Pool",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T22:47:07.141Z",
-      "latestPath": "data/results/RPL-latest.json"
-    },
-    {
-      "token": "BICO",
-      "requestedInput": "BICO",
-      "name": "Biconomy",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T22:47:17.500Z",
-      "latestPath": "data/results/BICO-latest.json"
-    },
-    {
-      "token": "XPL",
-      "requestedInput": "XPL",
-      "name": "Pulse",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T22:47:16.810Z",
-      "latestPath": "data/results/XPL-latest.json"
     }
   ]
 }
