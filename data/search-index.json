@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-06-28T17:17:26.036Z",
+  "updatedAt": "2026-06-28T17:32:36.335Z",
   "results": [
+    {
+      "token": "QNTSTOCK",
+      "requestedInput": "QNTSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T17:32:23.292Z",
+      "latestPath": "data/results/QNTSTOCK-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
+      "name": "Velodrome Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T17:32:36.333Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "FARTCOIN",
+      "requestedInput": "FARTCOIN",
+      "name": "Fartcoin",
       "score": 25,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-28T17:17:16.443Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-28T17:32:26.999Z",
+      "latestPath": "data/results/FARTCOIN-latest.json"
+    },
+    {
+      "token": "WIF",
+      "requestedInput": "WIF",
+      "name": "dogwifhat",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T17:32:29.729Z",
+      "latestPath": "data/results/WIF-latest.json"
     },
     {
       "token": "ARQQ",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T15:17:44.501Z",
       "latestPath": "data/results/XPL-latest.json"
-    },
-    {
-      "token": "SNOW",
-      "requestedInput": "SNOW",
-      "name": "Snow",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:17:43.434Z",
-      "latestPath": "data/results/SNOW-latest.json"
-    },
-    {
-      "token": "LAB",
-      "requestedInput": "LAB",
-      "name": "LAB",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:17:50.896Z",
-      "latestPath": "data/results/LAB-latest.json"
-    },
-    {
-      "token": "TIA",
-      "requestedInput": "TIA",
-      "name": "Tiamonds [OLD]",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:03:15.457Z",
-      "latestPath": "data/results/TIA-latest.json"
     }
   ]
 }
