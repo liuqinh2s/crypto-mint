@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-06-28T01:17:29.710Z",
+  "updatedAt": "2026-06-28T01:32:33.392Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T01:32:24.751Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "USELESS",
+      "requestedInput": "USELESS",
+      "name": "Useless Coin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T01:32:24.509Z",
+      "latestPath": "data/results/USELESS-latest.json"
+    },
+    {
+      "token": "MASK",
+      "requestedInput": "MASK",
+      "name": "Mask Network",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T01:32:23.367Z",
+      "latestPath": "data/results/MASK-latest.json"
+    },
+    {
+      "token": "AIN",
+      "requestedInput": "AIN",
+      "name": "AI Network",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T01:32:25.442Z",
+      "latestPath": "data/results/AIN-latest.json"
+    },
+    {
+      "token": "PANW",
+      "requestedInput": "PANW",
+      "name": "Palo Alto Networks (股票代码)",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T01:32:29.222Z",
+      "latestPath": "data/results/PANW-latest.json"
+    },
+    {
+      "token": "BAS",
+      "requestedInput": "BAS",
+      "name": "BNB Attestation",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T01:32:32.623Z",
+      "latestPath": "data/results/BAS-latest.json"
+    },
+    {
+      "token": "JTO",
+      "requestedInput": "JTO",
+      "name": "Jito",
+      "score": 55,
+      "label": "可以买但严控仓位",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T01:32:33.390Z",
+      "latestPath": "data/results/JTO-latest.json"
+    },
     {
       "token": "ESP",
       "requestedInput": "ESP",
@@ -10,16 +80,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T01:17:16.326Z",
       "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T01:17:14.773Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "GE",
@@ -940,66 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T20:17:21.627Z",
       "latestPath": "data/results/UAI-latest.json"
-    },
-    {
-      "token": "JUP",
-      "requestedInput": "JUP",
-      "name": "Jupiter",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T20:02:30.053Z",
-      "latestPath": "data/results/JUP-latest.json"
-    },
-    {
-      "token": "ID",
-      "requestedInput": "ID",
-      "name": "ID",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T20:02:39.870Z",
-      "latestPath": "data/results/ID-latest.json"
-    },
-    {
-      "token": "US",
-      "requestedInput": "US",
-      "name": "US",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T20:02:27.418Z",
-      "latestPath": "data/results/US-latest.json"
-    },
-    {
-      "token": "SYN",
-      "requestedInput": "SYN",
-      "name": "Synapse",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T20:02:35.327Z",
-      "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "ACU",
-      "requestedInput": "ACU",
-      "name": "ACU",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T20:02:37.171Z",
-      "latestPath": "data/results/ACU-latest.json"
-    },
-    {
-      "token": "TRADOOR",
-      "requestedInput": "TRADOOR",
-      "name": "Tradoor",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T19:51:57.099Z",
-      "latestPath": "data/results/TRADOOR-latest.json"
     }
   ]
 }
