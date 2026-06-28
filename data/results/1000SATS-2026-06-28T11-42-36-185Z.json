@@ -1,0 +1,174 @@
+{
+  "token": "1000SATS",
+  "requestedInput": "1000SATS",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T11:42:36.185Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "1000SATS",
+    "name": "SATS (Ordinals)",
+    "generatedAt": "2026-06-28T11:42:30.298Z",
+    "summary": "1000SATS是BRC-20代币，代表比特币的最小单位聪，近期因Binance下架部分交易对及整体市场情绪低迷而承压。缺乏实时行情数据，新闻多为旧闻或预测，无明确上涨催化剂。",
+    "rating": {
+      "score": 20,
+      "label": "强烈回避",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Binance Delisting Shakes Markets: 23 Spot Trading Pairs Including 1000SATS/FDUSD to Be Removed",
+        "impact": "利空",
+        "reason": "交易对下架减少流动性，可能引发抛售压力"
+      },
+      {
+        "title": "Binance Will List BRC-20 Sats (1000SATS) with Seed Tag Applied",
+        "impact": "中性",
+        "reason": "历史新闻，已反映在价格中"
+      },
+      {
+        "title": "SATS (1000SATS) Price Prediction 2026 2027 2028 - 2040 - Changelly",
+        "impact": "中性",
+        "reason": "预测类新闻，无实质影响"
+      }
+    ],
+    "fundamentals": [
+      "BRC-20代币，代表比特币聪，与Ordinals协议相关",
+      "Binance上市并带有种子标签，风险较高",
+      "供应量2100万亿，流通量大",
+      "近期有交易对下架，流动性可能下降"
+    ],
+    "marketRead": [
+      "因地理位置限制，无法获取实时行情数据",
+      "新闻显示近期有下架事件，可能对价格产生负面影响",
+      "缺乏成交量数据，无法判断市场情绪"
+    ],
+    "risks": [
+      "Binance下架交易对导致流动性风险",
+      "BRC-20代币整体热度下降",
+      "种子标签代币波动性大",
+      "缺乏实时数据，分析不完整"
+    ],
+    "watchlist": [
+      "Binance是否进一步下架1000SATS相关交易对",
+      "BRC-20生态发展动态",
+      "比特币价格走势对SATS的联动影响"
+    ],
+    "sourceNotes": [
+      "无法获取Binance实时行情数据（地理位置限制）",
+      "新闻来源主要为聚合器，时效性差",
+      "无链上数据，无法评估DEX交易情况"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "1000SATSUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=1000SATSUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "1000SATSFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=1000SATSFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "1000SATSUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=1000SATSUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "1000SATSBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=1000SATSBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "SATS (Ordinals) Price Today | 1000SATS to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lVldqS3hiNU5ubEFYUnhkZDR6WHlOQXZrb2huWjMyUVAzRV93NWYtbHRZVFJPc3oydlI1ZzFESk8xYW9hYTdNaVp1NnpsSnJCZ0RpYzlOa1BLRmQ5Mmc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 25 Jun 2026 05:24:00 GMT",
+      "snippet": "SATS (Ordinals) Price Today | 1000SATS to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "SATS (1000SATS) Price Prediction 2026 2027 2028 - 2040 - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nM3l1QUJoaDJILXFaQmp2OGR2VXhCOTFDRHduVzBadE9XRnFTMEFNazVtSFJtZXpacVJCUUpBS3hhaWF2czJKWE9YZ1I3VHhHanNuemlOMlpkUWtpc1pYRzFvWnFnbU9jLUE?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Tue, 09 Jan 2024 13:07:23 GMT",
+      "snippet": "SATS (1000SATS) Price Prediction 2026 2027 2028 - 2040&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "SATS (1000SATS) Price Prediction - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOendTSHBycTVyYm1rd253SzFPekZhakJYUU5xdmZydzQ1RlpRbkM5eTBBUVBvR2U1RVBrUUJjVnFoeS0zN0tOSUlMcFlXRzU0cVdUTERlWVNzTmc3MHVueWVWQWwwdmJ2ZzNnOEE3OEJSVW80ck83SVJRbVRDY0dvQW9ueWhjOEdVU0ZTbllBYWxQaDFW?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 19 Dec 2024 08:00:00 GMT",
+      "snippet": "SATS (1000SATS) Price Prediction&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "SATS price today, 1000SATS to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3cjZsSE0xU3E3Wkp4LXdSSFJsMFAwRzVlclNreXJESWJMaWU1ZldSaWxfU3VKZjAwb0Z3bWx6V2pOeHczMF9ueFNSR2xwdXM5?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sun, 24 Nov 2024 22:21:38 GMT",
+      "snippet": "SATS price today, 1000SATS to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Binance Delisting Shakes Markets: 23 Spot Trading Pairs Including 1000SATS/FDUSD to Be Removed - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYVkyeHNaQnYwSDgzR3NjUzNqaTZpNnVfUTNTQkEwckRwUnNRZTVSWEk5dk1VeWhDcE5RVmxFby1PUWc2THJNRFBhbFlMemNRUGh0TTB3S3VLb2VLdmdLTVRFZnczYy0zaTVRNXBVbnliSUxFUHNPRUhjVTl5UjQtWg?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 08 Jan 2026 08:00:00 GMT",
+      "snippet": "Binance Delisting Shakes Markets: 23 Spot Trading Pairs Including 1000SATS/FDUSD to Be Removed&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "SATS Price Prediction 2024: 1000SATS Price Analysis - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NQzhnODlvT3Vmem1VNW1pTkVLZ2NPUExNYmZYcVcwQzR2bmxwNlR6NWs2WGk2Rzh6T0JkQnEzOTBZUXJNdWdNZ0EwS3EtczRua0xDWEhneGxXOXlQSmhWUA?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Mon, 22 Jul 2024 07:00:00 GMT",
+      "snippet": "SATS Price Prediction 2024: 1000SATS Price Analysis&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "1000SATS (Ordinals) (1000SATS) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82NWwwOUZFMEduZFBQU2UyOXNjakg2TmhVc3hqcUVtNlg5MU41UmdmdmpyRXp3OUhaLUZuSkNiNUpnYzlaNHFCREtDSWZqV3RSQVhfcjNJc2s1SjN5YnhxRmxvWG9mMGdHRWY5UnBtYmI0MmZHVkVZVzVCaHlzUGs?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Wed, 04 Jun 2025 11:46:13 GMT",
+      "snippet": "1000SATS (Ordinals) (1000SATS) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Binance Will List BRC-20 Sats (1000SATS) with Seed Tag Applied - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUlY3SFR0REU4ODR3OElnQlpnZE5oUl9ST0hmY2E5dVc3TERrT0FyYkpCNy0wUGQ4eEV6b3FlMFBnbjlJdGVpOU9PSUdBZlljUG1NdUtZcUlKNm96cmd3LTcxM1RCM1dKdk1wWmljYzUyeExLa1NfckEtYlhHamV3QldEUzU4YUNHT0ZodURyVC0?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 11 Dec 2023 08:00:00 GMT",
+      "snippet": "Binance Will List BRC-20 Sats (1000SATS) with Seed Tag Applied&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Adds AEUR, 1000SATS & More Pairs on Cross Margin and Isolated Margin - Binance",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRlJ6enQyRU9hX1ZKYmgxT0U2YjhRZGI4YmRTN0pmRTdLWUNQNjFRbzlKenp4VEhxQlo4U05Ta21oWnJmbTVOaHVjeVJSS0wtb3M0dkJJSzY4bGJQclVremtJc21hblBLbzVvdVlGSzhPYjlqdDBGSGRRY2c2WUdiM1FiSEg2eUtXdktwZzZtMzdwSXdDRzNrYWxGSFBXOGdkaE5fN0FPMWZGSjBtMVB3ZllKaVlvaUhxTF9jY3dZb29TQ09MaVo4bkFYSWRSV0RzYkpxaC1UU0ZyeUpNSE1IS2FKMnJVdTBtNVE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 13 Dec 2023 08:00:00 GMT",
+      "snippet": "Binance Adds AEUR, 1000SATS & More Pairs on Cross Margin and Isolated Margin&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/1000sats-ordinals?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}
