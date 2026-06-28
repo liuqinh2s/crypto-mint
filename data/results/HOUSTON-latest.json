@@ -1,0 +1,286 @@
+{
+  "token": "HOUSTON",
+  "requestedInput": "OUST",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T11:17:22.827Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "HOUSTON",
+    "name": "Houston",
+    "generatedAt": "2026-06-28T11:17:13.154Z",
+    "summary": "HOUSTON是Solana链上pumpswap的MEME币，市值仅约9774美元，流动性极低（8978美元）。24小时跌幅23.76%，无明确上涨催化。新闻多为无关体育或负面欺诈报道。不推荐买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Houston vs Detroit: Total Runs - Coinbase",
+        "impact": "中性",
+        "reason": "体育赛事预测市场新闻，与HOUSTON代币无关。"
+      },
+      {
+        "title": "Texas oil and gas regulator Wayne Christian peddles oil-backed crypto coin - Houston Public Media",
+        "impact": "利空",
+        "reason": "提及官员推广其他加密币，可能混淆或分散注意力。"
+      },
+      {
+        "title": "World Cup 2026 fever hits Houston as Netherlands fans descend for Sweden clash, and crypto markets are paying attention - Crypto Briefing",
+        "impact": "中性",
+        "reason": "世界杯相关，但未提及HOUSTON代币。"
+      },
+      {
+        "title": "Houston vs Detroit | Prediction Markets - Coinbase",
+        "impact": "中性",
+        "reason": "预测市场新闻，与代币无关。"
+      },
+      {
+        "title": "Houston man convicted in $14 million crypto fraud scheme: officials - FOX 32 Chicago",
+        "impact": "利空",
+        "reason": "休斯顿男子因加密欺诈被判刑，可能对同名代币产生负面情绪。"
+      },
+      {
+        "title": "Bitcoin price falls below pre-Trump second term levels, now hovering below $67,000 - Click2Houston",
+        "impact": "利空",
+        "reason": "比特币下跌，整体市场情绪偏空。"
+      },
+      {
+        "title": "Houston vs Detroit: Extra Innings - Coinbase",
+        "impact": "中性",
+        "reason": "体育赛事新闻，无关。"
+      }
+    ],
+    "fundamentals": [
+      "Solana链pumpswap上的MEME币，无实际用途。",
+      "市值仅9774美元，流动性8978美元，极易被操纵。",
+      "总供应量与市值一致，无锁仓信息。",
+      "创建于2026年4月29日，已存在约2个月。",
+      "社交媒体：Twitter和Telegram，但未提供活跃度数据。"
+    ],
+    "marketRead": [
+      "24小时跌幅23.76%，成交量5522美元，流动性8978美元，交易深度极差。",
+      "无历史价格数据（ATH、7日、14日、30日变化均为null），无法判断趋势。",
+      "DEX交易对，无CEX上市，流动性风险极高。"
+    ],
+    "risks": [
+      "流动性极低（8978美元），大额卖出可导致价格归零。",
+      "MEME币无基本面支撑，价格完全依赖社区热度。",
+      "新闻关联负面欺诈报道，可能损害代币声誉。",
+      "无知名KOL或机构背书，社区规模未知。",
+      "合约风险：pumpswap为小型DEX，可能存在安全漏洞。"
+    ],
+    "watchlist": [
+      "关注社交媒体（Twitter/Telegram）活跃度是否提升。",
+      "是否有新的大额流动性注入或CEX上市公告。",
+      "监控链上大额转账或持仓集中度变化。"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，缺乏CEX数据。",
+      "新闻标题与代币关联性弱，多为地名相关。",
+      "无历史K线，无法进行技术分析。"
+    ]
+  },
+  "profile": {
+    "id": "EXrPSgaWtDDvFdHicFCJTDLiqiahpxea46QDWc4Efomo",
+    "symbol": "HOUSTON",
+    "name": "Houston",
+    "categories": [
+      "solana",
+      "pumpswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / pumpswap. Pair URL: https://dexscreener.com/solana/dqjnrxjyjrbnxhnfzmyrfd2jxbdekddkbguoupfcked3 Socials: twitter: https://x.com/dmmarx1307/status/2067378732742988261?s=46; telegram: https://t.me/HoustonFomo",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.000009783,
+    "marketCapUsd": 9774,
+    "fullyDilutedValuationUsd": 9774,
+    "totalVolumeUsd": 5522.06,
+    "priceChange24hPct": -23.76,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-04-29",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "DqJNRXJYJrBNxhNFzMYrfD2jXBdEKDDkbgUoupfckeD3",
+    "baseTokenAddress": "EXrPSgaWtDDvFdHicFCJTDLiqiahpxea46QDWc4Efomo",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 8978.14,
+    "pairUrl": "https://dexscreener.com/solana/dqjnrxjyjrbnxhnfzmyrfd2jxbdekddkbguoupfcked3",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pumpswap",
+    "pair": "HOUSTON/SOL",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "DqJNRXJYJrBNxhNFzMYrfD2jXBdEKDDkbgUoupfckeD3",
+    "pairUrl": "https://dexscreener.com/solana/dqjnrxjyjrbnxhnfzmyrfd2jxbdekddkbguoupfcked3",
+    "lastPrice": 0.000009783,
+    "priceChange24hPct": -23.76,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 5522.06,
+    "liquidityUsd": 8978.14,
+    "fullyDilutedValuationUsd": 9774,
+    "marketCapUsd": 9774,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/dqjnrxjyjrbnxhnfzmyrfd2jxbdekddkbguoupfcked3",
+    "pairAddress": "DqJNRXJYJrBNxhNFzMYrfD2jXBdEKDDkbgUoupfckeD3",
+    "baseToken": {
+      "address": "EXrPSgaWtDDvFdHicFCJTDLiqiahpxea46QDWc4Efomo",
+      "name": "Houston",
+      "symbol": "HOUSTON"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.0000001370",
+    "priceUsd": "0.000009783",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 6,
+        "sells": 10
+      },
+      "h24": {
+        "buys": 36,
+        "sells": 43
+      }
+    },
+    "volume": {
+      "h24": 5522.06,
+      "h6": 1000.76,
+      "h1": 16.61,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -1.48,
+      "h6": -7.71,
+      "h24": -23.76
+    },
+    "liquidity": {
+      "usd": 8978.14,
+      "base": 456824280,
+      "quote": 63.1505
+    },
+    "fdv": 9774,
+    "marketCap": 9774,
+    "pairCreatedAt": 1777478560000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/gOlA09D-kPq-t_Kx?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/8JBZ9W5tb5Vo8av-?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/EXrPSgaWtDDvFdHicFCJTDLiqiahpxea46QDWc4Efomo?timestamp=1782645300000",
+      "websites": [],
+      "socials": [
+        {
+          "url": "https://x.com/dmmarx1307/status/2067378732742988261?s=46",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/HoustonFomo",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Houston vs Detroit: Total Runs - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94RFNQREN6ZTlobmZxVDhRZFNyZC1EeEFZdnc4NUtnekktWTktZDRQTE0zR0VTbkY4c2F4YnREYlpIaGdUWW94UEt1cEV0RTlfckNydU92MEFvY3ctYV83c0dmQVkxMHdaaVJ6NkZZeG9aUHNBOU9vSDZqUQ?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Thu, 25 Jun 2026 19:50:00 GMT",
+      "snippet": "Houston vs Detroit: Total Runs&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Texas oil and gas regulator Wayne Christian peddles oil-backed crypto coin - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUW5mUXR3YnYxR1ZMc2g2dlJNX2dlWlprQWFpcDRVd0dnazF0N3NSZ2o5WVU2bkdIenViQmpSaEdMMy1nQmhZODdlR1RvckpQcjZtSWNmOHpmNGE4VWJxdXZlZ1E0d0NIVVNyUlB5Z0pnbi1sR19NRTNmZmt0UGRndEdfTUJfd0ZZZzk3aUItNmNlb1lVUFg0N0EtRFVCbTdaeTdqVFZReS1xOUVTMzUwUkFOTWtscTBmOFJOcDM5UEEtOWc1MzZYM0xPbFd6TFpReEVhZnhNNXJncXFqa2FaeFdnMkEzQdIB7gFBVV95cUxPeUFvekY5YUU4SEZoQlBHcG12b1lxbXFiUW9ZWFJibHZibzJJZUdpODVRS1FQRi1yQV9FNkRyU25CSFdqd2l3RnpsOGhUMi1TT2FwNDh3akVsSzNKd3BYbXU5eUlXUHRNSFptNnZ4Y0Nzc21fU1pSZWlCZ3NWUV9uNHRRNWlCMmdIaVJJRE0xaDNvUUc2TDlENkhmOU5lcG5QMUhicE04ekNGNkd4VDJWU2xEeFdrOG45S0dfbUNub2N3Rzd2SE53VDV0U0w4d0xvUC1wWWRfb2F0d083MlJYek9PMGFrZF9wOXg3OWdR?oc=5",
+      "source": "Houston Public Media",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "Texas oil and gas regulator Wayne Christian peddles oil-backed crypto coin&nbsp;&nbsp;Houston Public Media"
+    },
+    {
+      "title": "World Cup 2026 fever hits Houston as Netherlands fans descend for Sweden clash, and crypto markets are paying attention - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxc01jaUZXaDRxdWpJbHpUQS1JSHZvVVhGVGhlNUhXbzY5YzRGaFRZMWZ0UkFLSEdMMUNEOWRzdGZoR3EzX1ZqVnZvTVhqallXbFpaN2RJMTgxMzlwaTFpVG1jdWI3RkppNnV2ZnFzR2kxWHFrTk4w?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Sat, 20 Jun 2026 16:39:55 GMT",
+      "snippet": "World Cup 2026 fever hits Houston as Netherlands fans descend for Sweden clash, and crypto markets are paying attention&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "Houston vs Detroit | Prediction Markets - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMzN0NC1pY3FUN2tSU1pod2Qyb1BNT3VfUmRjSUVVYkdzaUp6SUtqZ2N5N0dWTEdVQU9YMzBvdGZmU2NXSFNaQWJQWHByUUlFT0NDdDluSF83OU9QeGRTTjVQdFMwTmV4LWlqd2g4Z1BRX2hEaG1nM1FEUFhHaXlSeWt3?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Thu, 25 Jun 2026 16:12:25 GMT",
+      "snippet": "Houston vs Detroit | Prediction Markets&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Houston man convicted in $14 million crypto fraud scheme: officials - FOX 32 Chicago",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNE5rbjFQbHNvYVpzUVN4OWNuZlY5ZFVETDQ2eG0zMzZla3BKU2hnRWZ6cloxSGRWRExIMXQ5ZWZtSTl2eUhBdFhySG9iZ0ZfUk9CUS1CajlkcllIQnRvVDdVLU1JeXdtZEx0cHZQd0g5SmVZTnRNNVQxLXdNN2JGMmYyOXBXVWFIM2xya2dkYmlGa3E5a05ZdDlHUjPSAaIBQVVfeXFMTWlURHl3eHF2ZlJ3V21TcFNPMFpjNURUaHBOaERkZG5weWZvV2NHSDVzMzJxSU5rd1Q1bk1lMGlBWUZiZDZDcldZVHdGQ1ZZY0FxRHExcjgyNThwQWQ5THE1OGVjQXBOTVR1RmhkSUhhdlVvQXdiZHhpNkJtMTNKaGw3Z05tMmhyRWlTMnp0S3dpOEJYd2pIZG5Eb1BJMnZ3U2hR?oc=5",
+      "source": "FOX 32 Chicago",
+      "publishedAt": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "snippet": "Houston man convicted in $14 million crypto fraud scheme: officials&nbsp;&nbsp;FOX 32 Chicago"
+    },
+    {
+      "title": "Bitcoin price falls below pre-Trump second term levels, now hovering below $67,000 - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ2UzSHYzY2Z4RGpOYWZsUWhhS0MzOFI1WHBZamxwZEEtd1d3Z3huV05EZXpSOTRxZEM0Q0p2aFNQTlJKRWphVEdKVE4xZnJRWWtqdXprUzNzTDFMZHQtem9ZUTNtaWMtOU5EWGs0Z2tKUmZfV1ZTOGtBRDFSN3k3UkRZMDRmNllZUWJqLXAtWk1vdjdvRVBCaUtKTllqb3A1WW10UU9HdFRCeklpYVJpWDNLaXhJbFA2OFRDOGZTQTNjUDBYTDU3ZDZ3?oc=5",
+      "source": "Click2Houston",
+      "publishedAt": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "snippet": "Bitcoin price falls below pre-Trump second term levels, now hovering below $67,000&nbsp;&nbsp;Click2Houston"
+    },
+    {
+      "title": "Houston vs Detroit: Extra Innings - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41NFVCRmdwT2pxQ3p1Tmw2dDJ4NHNKaWY2TUJoV0ZaSkRkTElpNERtb2NxemZzVU5WSGtPeTY1dDZHQjRmMU0ySjZMd3dwMmhEMUxjdzJkNjJPOHcyamRPcmdvZzVzTlJpamQ5VG0yZGNaVTlJZVRqMTlBY0k?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Fri, 26 Jun 2026 05:23:51 GMT",
+      "snippet": "Houston vs Detroit: Extra Innings&nbsp;&nbsp;Coinbase"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/houston-token?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}
