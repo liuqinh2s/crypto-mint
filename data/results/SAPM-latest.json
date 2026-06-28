@@ -1,0 +1,181 @@
+{
+  "token": "SAPM",
+  "requestedInput": "SAMSUNG",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T07:47:52.014Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SAPM",
+    "name": "Samsung Phone Ai Mirror⚡",
+    "generatedAt": "2026-06-28T07:47:46.822Z",
+    "summary": "SAPM是Solana链上pumpswap的Meme币，今日上线，24小时涨幅117%，市值约2000万美元，但流动性为0，存在极高风险。无新闻、无基本面支撑，上涨可能由短期投机资金推动。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性为0，任何买入都可能无法卖出，逻辑立即失效。"
+    },
+    "catalysts": [
+      "Meme币炒作，名称蹭三星和AI热点",
+      "新上线pumpswap，可能吸引短期投机"
+    ],
+    "latestNews": [],
+    "fundamentals": [
+      "项目无官网、无白皮书、无团队信息",
+      "仅上线pumpswap，流动性为0美元",
+      "市值2000万美元但无实际交易深度",
+      "代币供应量未知，存在增发或砸盘风险"
+    ],
+    "marketRead": [
+      "24小时涨幅117%，但成交量仅2.6万美元，流动性为0，价格极易被操纵",
+      "无历史K线，无法判断趋势",
+      "高市值低流动性，典型的拉高出货模式"
+    ],
+    "risks": [
+      "流动性为0，无法卖出，存在归零风险",
+      "Meme币无实际价值，炒作后可能迅速崩盘",
+      "新上线项目，合约未审计，可能存在后门",
+      "市值与成交量严重不匹配，高度控盘"
+    ],
+    "watchlist": [
+      "流动性是否增加",
+      "是否有新地址买入或卖出",
+      "项目方是否发布任何信息"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，流动性显示为0，可能数据延迟或确实无流动性",
+      "无新闻来源，无法验证项目真实性"
+    ]
+  },
+  "profile": {
+    "id": "C7qQRyYnZEWTfuHv3UDPPA7xoonb6g9ydNbyXtFopump",
+    "symbol": "SAPM",
+    "name": "Samsung Phone Ai Mirror⚡",
+    "categories": [
+      "solana",
+      "pumpswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / pumpswap. Pair URL: https://dexscreener.com/solana/j5nzekcf1ktm5x47njgdf4c6hhcrhvuw5glfjyfawwxx",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.02,
+    "marketCapUsd": 20000346,
+    "fullyDilutedValuationUsd": 20000346,
+    "totalVolumeUsd": 26474.83,
+    "priceChange24hPct": 117,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-28",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "J5nZeKcF1kTm5X47nJGDF4c6hhcrhVUW5gLfjyFAwWXx",
+    "baseTokenAddress": "C7qQRyYnZEWTfuHv3UDPPA7xoonb6g9ydNbyXtFopump",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 0,
+    "pairUrl": "https://dexscreener.com/solana/j5nzekcf1ktm5x47njgdf4c6hhcrhvuw5glfjyfawwxx",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pumpswap",
+    "pair": "Sapm/SOL",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "J5nZeKcF1kTm5X47nJGDF4c6hhcrhVUW5gLfjyFAwWXx",
+    "pairUrl": "https://dexscreener.com/solana/j5nzekcf1ktm5x47njgdf4c6hhcrhvuw5glfjyfawwxx",
+    "lastPrice": 0.02,
+    "priceChange24hPct": 117,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 26474.83,
+    "liquidityUsd": 0,
+    "fullyDilutedValuationUsd": 20000346,
+    "marketCapUsd": 20000346,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/j5nzekcf1ktm5x47njgdf4c6hhcrhvuw5glfjyfawwxx",
+    "pairAddress": "J5nZeKcF1kTm5X47nJGDF4c6hhcrhVUW5gLfjyFAwWXx",
+    "baseToken": {
+      "address": "C7qQRyYnZEWTfuHv3UDPPA7xoonb6g9ydNbyXtFopump",
+      "name": "Samsung Phone Ai Mirror⚡",
+      "symbol": "Sapm"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.0002819",
+    "priceUsd": "0.02000",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 290,
+        "sells": 83
+      },
+      "h24": {
+        "buys": 290,
+        "sells": 83
+      }
+    },
+    "volume": {
+      "h24": 26474.83,
+      "h6": 26474.83,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": 117,
+      "h24": 117
+    },
+    "liquidity": {
+      "usd": 0,
+      "base": 0.002634,
+      "quote": 7.45e-7
+    },
+    "fdv": 20000346,
+    "marketCap": 20000346,
+    "pairCreatedAt": 1782615806000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

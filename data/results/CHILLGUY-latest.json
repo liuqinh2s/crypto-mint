@@ -1,0 +1,295 @@
+{
+  "token": "CHILLGUY",
+  "requestedInput": "CHILLGUY",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T07:47:43.642Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CHILLGUY",
+    "name": "CHILLGUY",
+    "generatedAt": "2026-06-28T07:47:36.425Z",
+    "summary": "CHILLGUY 是 XRPL 链上的一个低市值迷因币，24小时涨幅16%，但流动性仅$5622，成交量极低（$16），基本面薄弱，无实际用例。新闻多为旧闻或预测，缺乏近期实质催化。风险极高，不建议买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性增加至$50k以上且有新叙事或社区增长时重新评估"
+    },
+    "catalysts": [
+      "迷因币情绪回暖（如新闻提及的春季反弹）",
+      "TikTok 等社交媒体病毒式传播"
+    ],
+    "latestNews": [
+      {
+        "title": "Is CHILLGUY Crypto Back? +32% Surge Primes for Memecoin Spring Rally",
+        "impact": "中性",
+        "reason": "新闻发布于2026年4月，已过时，且当前价格未延续涨势"
+      },
+      {
+        "title": "Just a chill guy (CHILLGUY) Price Prediction 2026, 2027-2030: Will the Memecoin Bounce Back?",
+        "impact": "中性",
+        "reason": "预测类新闻，无实质催化，且来源为聚合网站"
+      },
+      {
+        "title": "Just a chill guy Price Today in India | CHILLGUY to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格追踪页面，无新增信息"
+      }
+    ],
+    "fundamentals": [
+      "XRPL 链上迷因币，无实际用例",
+      "总供应量未知，市值仅$26,514",
+      "流动性极低（$5,622），存在滑点和操纵风险",
+      "创建于2024年12月，已过半年，热度消退"
+    ],
+    "marketRead": [
+      "24小时涨幅16%，但成交量仅$16，表明流动性极差，价格容易被少量资金操控",
+      "无7日/30日价格数据，无法判断趋势",
+      "市值仅$26k，属于微盘币，风险极高"
+    ],
+    "risks": [
+      "流动性极低，大额卖出可能导致价格暴跌",
+      "迷因币生命周期短，缺乏持续叙事",
+      "无团队信息，合约风险未知",
+      "新闻多为旧闻，无近期利好",
+      "XRPL 链上 DEX 交易量小，退出困难"
+    ],
+    "watchlist": [
+      "流动性是否增加至$50k以上",
+      "是否有新社区活动或社交媒体热度",
+      "是否有中心化交易所上线"
+    ],
+    "sourceNotes": [
+      "数据来源仅为 DexScreener，无链上持仓分布或交易者分析",
+      "新闻来源多为聚合网站，时效性差",
+      "无 KYC 或审计信息"
+    ]
+  },
+  "profile": {
+    "id": "4348494C4C475559000000000000000000000000.rnMFxp6fBSzDm13MgKDNKbVy1z2gjiLCh8",
+    "symbol": "CHILLGUY",
+    "name": "CHILLGUY",
+    "categories": [
+      "xrpl",
+      "xrpl"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on xrpl / xrpl. Pair URL: https://dexscreener.com/xrpl/4348494c4c475559000000000000000000000000.rnmfxp6fbszdm13mgkdnkbvy1z2gjilch8_xrp Socials: twitter: https://x.com/ChillguyXRPL; telegram: https://t.me/chillguyXRPL",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00004487,
+    "marketCapUsd": 26514,
+    "fullyDilutedValuationUsd": 26514,
+    "totalVolumeUsd": 16.06,
+    "priceChange24hPct": 0.16,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2024-12-01",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "4348494C4C475559000000000000000000000000.rnMFxp6fBSzDm13MgKDNKbVy1z2gjiLCh8_XRP",
+    "baseTokenAddress": "4348494C4C475559000000000000000000000000.rnMFxp6fBSzDm13MgKDNKbVy1z2gjiLCh8",
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "liquidityUsd": 5622.64,
+    "pairUrl": "https://dexscreener.com/xrpl/4348494c4c475559000000000000000000000000.rnmfxp6fbszdm13mgkdnkbvy1z2gjilch8_xrp",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "xrpl",
+    "pair": "CHILLGUY/XRP",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "4348494C4C475559000000000000000000000000.rnMFxp6fBSzDm13MgKDNKbVy1z2gjiLCh8_XRP",
+    "pairUrl": "https://dexscreener.com/xrpl/4348494c4c475559000000000000000000000000.rnmfxp6fbszdm13mgkdnkbvy1z2gjilch8_xrp",
+    "lastPrice": 0.00004487,
+    "priceChange24hPct": 0.16,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 16.06,
+    "liquidityUsd": 5622.64,
+    "fullyDilutedValuationUsd": 26514,
+    "marketCapUsd": 26514,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "url": "https://dexscreener.com/xrpl/4348494c4c475559000000000000000000000000.rnmfxp6fbszdm13mgkdnkbvy1z2gjilch8_xrp",
+    "pairAddress": "4348494C4C475559000000000000000000000000.rnMFxp6fBSzDm13MgKDNKbVy1z2gjiLCh8_XRP",
+    "baseToken": {
+      "address": "4348494C4C475559000000000000000000000000.rnMFxp6fBSzDm13MgKDNKbVy1z2gjiLCh8",
+      "name": "CHILLGUY",
+      "symbol": "CHILLGUY"
+    },
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "priceNative": "0.00004286",
+    "priceUsd": "0.00004487",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 6,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 16.06,
+      "h6": 5.1,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -1.09,
+      "h24": 0.16
+    },
+    "liquidity": {
+      "usd": 5622.64,
+      "base": 62642168,
+      "quote": 2685.122
+    },
+    "fdv": 26514,
+    "marketCap": 26514,
+    "pairCreatedAt": 1733012011000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/352a805c0b023a3052f6050aec114d4b9f9ceb13f249e794cf9c41768c7cef0d?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/e4d822c0947d1d615d68850411a3ccb97e024aa6f7be44aaffd241c653097138?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/xrpl/4348494c4c475559000000000000000000000000.rnmfxp6fbszdm13mgkdnkbvy1z2gjilch8?timestamp=1782632700000",
+      "websites": [],
+      "socials": [
+        {
+          "url": "https://x.com/ChillguyXRPL",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/chillguyXRPL",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Just a chill guy Price Today in India | CHILLGUY to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VRElGTy1vWlliM1h6XzRZM0ZiLU9wbkpmZ3hxUlFObk10NG5iMGxQdjJpOERJZUhLY19KNW0taGJZWXY4TDVEemJ4NlduaXhhbDVxV0JINjhDX0pzSWFNRUJB?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 25 Jun 2026 21:02:00 GMT",
+      "snippet": "Just a chill guy Price Today in India | CHILLGUY to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Just a chill guy (CHILLGUY) Price Prediction 2026, 2027-2030: Will the Memecoin Bounce Back? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTl9YTXV0ZU1yOEhaZXZvS0owZ0g1dzlZazRfX3YtUTdnVDQzdnk3dGNUSTkya0FZc3BLU1ZVLXZJNnJMWWpSdldCTUJSVVB4U3JIdF8xclc1RkU0b2VJOGNncUVYUmJCT3pvMnphV3AxMWducWI1ZGdzdTNHbE1COUY3MzhwbG1EY2fSAY8BQVVfeXFMTjBXNnMtbFFLckpYRlU5NFNhcnY1a2tkY18yWXRxOUpyVzZPT0JjelJZTkFDY1BRaGxJNURYMUN2YmM2cGdWRDJZQk51bkRqbkwySC1ScHhtUi1yYmJDN1FOT2hyd2lLOUpvc3hsT1BjR2RnZzJyN2xVVXZ4bnNlTHh2WV9TVl9rcXBpcU9tRWM?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "snippet": "Just a chill guy (CHILLGUY) Price Prediction 2026, 2027-2030: Will the Memecoin Bounce Back?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Is CHILLGUY Crypto Back? +32% Surge Primes for Memecoin Spring Rally - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeEN6bHh1WnhOQW8wNmJ3RVZ2ZENCenE1MVFsdWJacE43dm90R3ZGLTMtc3ZqZjRSWW9SaG12ay1oZWZYQXNlR0o3VTNVTzdMNk5LSDJSQ09Qam1FeVpyRjdqYXQtNGY2TGVWS2hJbzBGZXp4WXNzY3lBYTQxcGdjMHJyS2pJYVFrdG1sck5R?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "snippet": "Is CHILLGUY Crypto Back? +32% Surge Primes for Memecoin Spring Rally&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Just a chill guy price prediction | CHILLGUY price analysis - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BRUJ6TlpDYnM2cXZmVGlBV1FUbDNVbUk0QnpNVjB4UHNtSHpPQkpsZVd6QXlqR2FMLWVMQS1hcFEyaFJfRm1vSzZUOWVUMS1ERWI4VlpDOFE1WFlsQUMwSUxCenM?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Mon, 02 Jun 2025 07:00:00 GMT",
+      "snippet": "Just a chill guy price prediction | CHILLGUY price analysis&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Just a chill guy (CHILLGUY) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54ZTZVMWQteVdsczd5R01ZZUNhUUc4aXBDQlNHdDlDNjRtYk5NWHZkRXRXWFMyVWwtV0VnU0JQb3RhUC01UWwxU2FJbzZ4azBxcDE0OVFRaXVwc09uV1V5cDhpYkpaamRxM1RPLVp0TDZLcTViUFRmOHlYSQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Wed, 27 Nov 2024 20:14:25 GMT",
+      "snippet": "Just a chill guy (CHILLGUY) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Just a Chill Guy (CHILLGUY) Price Prediction 2026, 2027 – 2030 - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUXBvbDdBLS1ISTZZVzA4ZGpGOVNFZVd4NmJJRTNacFN3OVpCVURSWnJ1aW9jRXp3Mmg2dE82SHBzdDI3YnFNd0w4MVhWanN0alo1SVA1SUswSzdKbTE2Ykh6eWd1Tk5xdl9seFUybnc4TlUtZ3F1X25vekJacVdxeA?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Fri, 29 Nov 2024 12:12:38 GMT",
+      "snippet": "Just a Chill Guy (CHILLGUY) Price Prediction 2026, 2027 – 2030&nbsp;&nbsp;Cryptonews"
+    },
+    {
+      "title": "Just a chill guy (CHILLGUY) Price Prediction 2024-2030: Will CHILLGUY Hit $1 Soon? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEcxbzRTbzBWZ2NNUTAzcFhXbEllb0lTM3QxbzFoZEpiLXhBVlRDR19KV2F3bGNIaU9JemluMTFtRnVoV2dMMTc5UkhuRXgyNFFJY1pEN25ud2EzYjJ2ZEkxMllRUzRoR095SjQ3dU50Nlc2QjhOVnZrbEdWbVQ5Y2xXbnJqRmM?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 27 Nov 2024 08:00:00 GMT",
+      "snippet": "Just a chill guy (CHILLGUY) Price Prediction 2024-2030: Will CHILLGUY Hit $1 Soon?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Just a chill guy (CHILLGUY) Price Prediction 2026, 2027-2030: Will the Memecoin Bounce Back? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52ZlVyOTZVZ19BUGJMWF9hMWllZnBuX0VabDZFWm1YeDRTampDVGxrNkIydGlreWo1bzNBQW5QSVMtbFpFZHpJdnhOTVdPWTFGR0ZzTFA3MFFHcVpvVWfSAWNBVV95cUxPdXlzOTFkdjd5NjBnOUxHTzdWM0FqMXczQm1SaFhSYnNNUEw5MFAxMk01bzYyYmQ1N2hNRmIxRTk1UnBKSDI0VVdJOFNGYzdhbG50N19fN3FwVWxmSlltT2RsYUk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "snippet": "Just a chill guy (CHILLGUY) Price Prediction 2026, 2027-2030: Will the Memecoin Bounce Back?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "The popular TikTok meme has a value of 600 million dollars in the cryptocurrency world, reviewing Chillguy's rapid rise to fame - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CaHZzQzNpb1ZVUC05Q0VLME5uMnYtOWlXeE11YmVzREJiM0RlcFZMLUdlZW9CT193VGVadkVkZ1pCLXRtLW5YWlJ1bHpIbVg4Y0ZZeHphWWxNbFlVV1HSAWNBVV95cUxOSmw4QXladmtzb2M5M3phVjBZcERRakxhYV9iNUdnb21DNTJJWnNteFVCN0xyX1lSdGJBZmZYWElZUGh0UHhfNmpHZ3FINVRDWF9lRVNCR0RiQUFSZWJNQUFLZjA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 21 Nov 2024 08:00:00 GMT",
+      "snippet": "The popular TikTok meme has a value of 600 million dollars in the cryptocurrency world, reviewing Chillguy's rapid rise to fame&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Meme Coin Promotion Shifts to TikTok as CHILLGUY Goes Viral - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85QnNmVGNlNC02RnJyRmZuZ1NMUm51cTRubXAwdE5SXzJJR256Yy1kZDVvSkRjc0RZNngwc2ZNTWFuNVlNZGNlcmVtTkRUeHBRaFdJaTZqOFpHdnpDSnc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 20 Nov 2024 08:00:00 GMT",
+      "snippet": "Meme Coin Promotion Shifts to TikTok as CHILLGUY Goes Viral&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Just a chill guy Price: CHILLGUY Price Index and Live Chart - The Block",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94T3BFVFNpZTJuZEU2SUt3bTlyZmFqQzlIdnZNb1RfbF9YVjBKUVUxeXhBQzRwajdLaXR3VGsxa19nVlRQS2NBZmlwN0ttU245RjN4ZnRqc2ZVdEpSVk9Ick5QRXBWb3draEpBUUxDbXc4VXlj?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 24 Jul 2025 19:30:52 GMT",
+      "snippet": "Just a chill guy Price: CHILLGUY Price Index and Live Chart&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/chill-guy?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}
