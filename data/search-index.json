@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T02:02:39.742Z",
+  "updatedAt": "2026-06-28T02:17:32.854Z",
   "results": [
     {
       "token": "TRADOOR",
@@ -7,8 +7,8 @@
       "name": "Tradoor",
       "score": 25,
       "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T02:02:27.619Z",
+      "action": "不买",
+      "generatedAt": "2026-06-28T02:17:16.242Z",
       "latestPath": "data/results/TRADOOR-latest.json"
     },
     {
@@ -18,8 +18,68 @@
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T02:02:26.268Z",
+      "generatedAt": "2026-06-28T02:17:14.500Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "JUP",
+      "requestedInput": "JUP",
+      "name": "Jupiter",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T02:17:16.937Z",
+      "latestPath": "data/results/JUP-latest.json"
+    },
+    {
+      "token": "ID",
+      "requestedInput": "ID",
+      "name": "ID",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T02:17:15.820Z",
+      "latestPath": "data/results/ID-latest.json"
+    },
+    {
+      "token": "US",
+      "requestedInput": "US",
+      "name": "US",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T02:17:29.947Z",
+      "latestPath": "data/results/US-latest.json"
+    },
+    {
+      "token": "SYN",
+      "requestedInput": "SYN",
+      "name": "Synapse",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T02:17:32.852Z",
+      "latestPath": "data/results/SYN-latest.json"
+    },
+    {
+      "token": "ACU",
+      "requestedInput": "ACU",
+      "name": "ACU",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T02:17:31.513Z",
+      "latestPath": "data/results/ACU-latest.json"
+    },
+    {
+      "token": "UAI",
+      "requestedInput": "UAI",
+      "name": "UnifAI Network",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T02:17:31.596Z",
+      "latestPath": "data/results/UAI-latest.json"
     },
     {
       "token": "POWR",
@@ -30,56 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T02:02:26.417Z",
       "latestPath": "data/results/POWR-latest.json"
-    },
-    {
-      "token": "JUP",
-      "requestedInput": "JUP",
-      "name": "Jupiter",
-      "score": 55,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T02:02:26.542Z",
-      "latestPath": "data/results/JUP-latest.json"
-    },
-    {
-      "token": "ID",
-      "requestedInput": "ID",
-      "name": "ID",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T02:02:33.269Z",
-      "latestPath": "data/results/ID-latest.json"
-    },
-    {
-      "token": "US",
-      "requestedInput": "US",
-      "name": "US",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T02:02:31.840Z",
-      "latestPath": "data/results/US-latest.json"
-    },
-    {
-      "token": "SYN",
-      "requestedInput": "SYN",
-      "name": "Synapse",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T02:02:33.780Z",
-      "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "ACU",
-      "requestedInput": "ACU",
-      "name": "ACU",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T02:02:39.740Z",
-      "latestPath": "data/results/ACU-latest.json"
     },
     {
       "token": "USELESS",
@@ -990,16 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-27T20:47:14.422Z",
       "latestPath": "data/results/KMNO-latest.json"
-    },
-    {
-      "token": "LLY",
-      "requestedInput": "LLY",
-      "name": "Eli Lily",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T20:47:15.025Z",
-      "latestPath": "data/results/LLY-latest.json"
     }
   ]
 }
