@@ -1,44 +1,54 @@
 {
-  "updatedAt": "2026-06-28T04:32:20.514Z",
+  "updatedAt": "2026-06-28T04:47:41.574Z",
   "results": [
     {
       "token": "TNSR",
       "requestedInput": "TNSR",
       "name": "Tensor",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T04:32:02.295Z",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T04:47:15.733Z",
       "latestPath": "data/results/TNSR-latest.json"
     },
     {
       "token": "HIVE",
       "requestedInput": "HIVE",
       "name": "HIVE",
-      "score": 20,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T04:32:07.457Z",
+      "generatedAt": "2026-06-28T04:47:18.436Z",
       "latestPath": "data/results/HIVE-latest.json"
     },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 20,
+      "name": "Velodrome Finance",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:47:14.035Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "ACT",
+      "requestedInput": "ACT",
+      "name": "Act I The AI Prophecy",
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T04:32:00.950Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-28T04:47:15.039Z",
+      "latestPath": "data/results/ACT-latest.json"
     },
     {
       "token": "SNOW",
       "requestedInput": "SNOW",
       "name": "Snow",
-      "score": 5,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T04:32:02.507Z",
+      "generatedAt": "2026-06-28T04:47:22.976Z",
       "latestPath": "data/results/SNOW-latest.json"
     },
     {
@@ -48,7 +58,7 @@
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T04:32:11.868Z",
+      "generatedAt": "2026-06-28T04:47:27.451Z",
       "latestPath": "data/results/WET-latest.json"
     },
     {
@@ -58,7 +68,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T04:32:14.224Z",
+      "generatedAt": "2026-06-28T04:47:23.655Z",
       "latestPath": "data/results/LIRA-latest.json"
     },
     {
@@ -68,17 +78,27 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T04:32:10.102Z",
+      "generatedAt": "2026-06-28T04:47:27.851Z",
       "latestPath": "data/results/RESOLV-latest.json"
+    },
+    {
+      "token": "MEME",
+      "requestedInput": "MEME",
+      "name": "MEME",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:47:37.232Z",
+      "latestPath": "data/results/MEME-latest.json"
     },
     {
       "token": "VELVET",
       "requestedInput": "VELVET",
       "name": "Velvet",
-      "score": 15,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T04:32:20.512Z",
+      "generatedAt": "2026-06-28T04:47:41.572Z",
       "latestPath": "data/results/VELVET-latest.json"
     },
     {
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T22:54:43.941Z",
       "latestPath": "data/results/HYPER-latest.json"
-    },
-    {
-      "token": "ACX",
-      "requestedInput": "ACX",
-      "name": "Across Protocol Token",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T22:54:42.379Z",
-      "latestPath": "data/results/ACX-latest.json"
-    },
-    {
-      "token": "STBL",
-      "requestedInput": "STBL",
-      "name": "STBL",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T22:54:53.461Z",
-      "latestPath": "data/results/STBL-latest.json"
     }
   ]
 }

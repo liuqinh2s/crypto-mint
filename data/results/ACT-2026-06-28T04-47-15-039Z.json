@@ -1,0 +1,303 @@
+{
+  "token": "ACT",
+  "requestedInput": "ACT",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T04:47:15.039Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ACT",
+    "name": "Act I The AI Prophecy",
+    "generatedAt": "2026-06-28T04:47:05.731Z",
+    "summary": "ACT是Solana上的AI Meme代币，24小时涨幅31.6%，但流动性极低（仅50美元），且价格较ATH跌去98.9%。新闻多为旧闻或无关内容，缺乏近期实质催化。当前上涨可能由少量资金推动，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性显著提升至百万美元级别且有新叙事出现"
+    },
+    "catalysts": [
+      "无明确近期催化，旧闻提及Binance上架（2024年11月）已过时"
+    ],
+    "latestNews": [
+      {
+        "title": "Act I : The AI Prophecy Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast",
+        "impact": "中性",
+        "reason": "价格预测类文章，无实质利好"
+      },
+      {
+        "title": "XRP Price Prediction: Can the CLARITY Act Drive Ripple to $5? Why AlphaPepe’s Shibarium-Engineered Tech is Already Delivering 85% Staking Yield",
+        "impact": "中性",
+        "reason": "无关新闻，提及CLARITY Act但与ACT无关"
+      },
+      {
+        "title": "The Cryptocurrency Industry Pushes Clarity Act Amendments Ahead of the Senate Draft",
+        "impact": "中性",
+        "reason": "监管新闻，不直接涉及ACT"
+      }
+    ],
+    "fundamentals": [
+      "Solana生态Meme币，无实际用例",
+      "总供应量10亿枚，当前流通约9.48亿枚",
+      "ATH为0.9198美元，当前价格0.01047美元，跌幅98.9%",
+      "市值约993万美元，但DEX流动性仅50美元，严重不匹配"
+    ],
+    "marketRead": [
+      "24小时涨幅31.6%，但成交量2353万美元与流动性50美元严重背离，暗示交易可能集中在CEX或存在刷量",
+      "DEX上ACT/ETH交易对流动性极低，价格容易被操纵",
+      "价格远低于ATH，长期处于下跌趋势"
+    ],
+    "risks": [
+      "流动性极低（50美元），滑点巨大，无法大额交易",
+      "合约风险：Meme币无审计，存在Rug pull可能",
+      "价格操纵风险：低流动性下少量资金即可拉盘或砸盘",
+      "叙事陈旧：AI Meme热度已过，缺乏新故事",
+      "供应接近上限，无通缩机制"
+    ],
+    "watchlist": [
+      "DEX流动性是否增加",
+      "是否有新CEX上架或做市商入驻",
+      "项目方是否发布新动态或合作"
+    ],
+    "sourceNotes": [
+      "数据来源为CoinGecko和DexScreener，DEX数据仅限BSC上的ACT/ETH对，可能不反映主要交易场所",
+      "新闻多为2024年旧闻，近期无实质更新"
+    ]
+  },
+  "profile": {
+    "id": "act-i-the-ai-prophecy",
+    "symbol": "ACT",
+    "name": "Act I The AI Prophecy",
+    "categories": [
+      "Solana Ecosystem",
+      "Meme",
+      "Solana Meme",
+      "AI Meme",
+      "Pump.fun Ecosystem"
+    ],
+    "homepage": [
+      "https://pump.fun/GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump"
+    ],
+    "description": "",
+    "marketCapRank": 1154,
+    "currentPriceUsd": 0.01047445,
+    "marketCapUsd": 9932291,
+    "fullyDilutedValuationUsd": 9932291,
+    "totalVolumeUsd": 23530461,
+    "priceChange24hPct": 31.63667,
+    "priceChange7dPct": 15.1268,
+    "priceChange14dPct": 0.88253,
+    "priceChange30dPct": -10.81094,
+    "athUsd": 0.919768,
+    "athChangePct": -98.89126,
+    "circulatingSupply": 948240328.267513,
+    "totalSupply": 948240328.267513,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 14088,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "ACT/ETH",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x3C5d4cc22E96Dce55fAcC2ea723dac3292790f61",
+    "pairUrl": "https://dexscreener.com/bsc/0x3c5d4cc22e96dce55facc2ea723dac3292790f61",
+    "lastPrice": 1.93,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.09,
+    "liquidityUsd": 50.1,
+    "fullyDilutedValuationUsd": 19374,
+    "marketCapUsd": 19374,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x3c5d4cc22e96dce55facc2ea723dac3292790f61",
+    "pairAddress": "0x3C5d4cc22E96Dce55fAcC2ea723dac3292790f61",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x867aa3eCfcBC1c01BFD079A0069D04A21B5FA436",
+      "name": "ACT",
+      "symbol": "ACT"
+    },
+    "quoteToken": {
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "name": "Ethereum Token",
+      "symbol": "ETH"
+    },
+    "priceNative": "0.001214",
+    "priceUsd": "1.93",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 0.09,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 50.1,
+      "base": 12.9301,
+      "quote": 0.01569
+    },
+    "fdv": 19374,
+    "marketCap": 19374,
+    "pairCreatedAt": 1731584204000
+  },
+  "news": [
+    {
+      "title": "The AI Prophecy Coin Price Prediction 2025-2030: ACT Eyes 120% Potential Growth - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kNWx4dUlRNVJMVEdEeXh3WWFYLWdWSExCZU9GVHplQmM4bGdVZGp1Y1ZqZ2x6Njk2d1VkZHQ2eUptN0hXTzd4QXNMejdQR3ByN1oxd1NOb3JOSm9PRXVGMEsydUJpRGEzUWhhU3BFMkZSd2c?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "snippet": "The AI Prophecy Coin Price Prediction 2025-2030: ACT Eyes 120% Potential Growth&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "XRP Price Prediction: Can the CLARITY Act Drive Ripple to $5? Why AlphaPepe’s Shibarium-Engineered Tech is Already Delivering 85% Staking Yield - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MVnYzVW55RVVGTXcweGRoYkVkQ0tQTmpEdkYzMUY4TzMzRVU2aHZ4c3VKamVwV2ZNZDFhOWRWQUkxeG1CWkE?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "snippet": "XRP Price Prediction: Can the CLARITY Act Drive Ripple to $5? Why AlphaPepe’s Shibarium-Engineered Tech is Already Delivering 85% Staking Yield&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "The Cryptocurrency Industry Pushes Clarity Act Amendments Ahead of the Senate Draft - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PemNrNGhybUFEekFtR3docHE2NUY1bWV2QWtxV0ppY0tHWm9VOFBfMUFUMW9aV21YZlVVcmFsejdUbi1CM0E?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Sat, 28 Mar 2026 07:00:00 GMT",
+      "snippet": "The Cryptocurrency Industry Pushes Clarity Act Amendments Ahead of the Senate Draft&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Act I: The AI Prophecy Price Prediction 2024-2030: WIll ACT Hit $10 Soon? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamctSDZsdHJEaDRGZlNZWU9HazByTm9HcnZOeWt1M1p3MmtBZ0tab1VJUGhFX0VkMkFkdENCQnJUV2d3cjhDcERQSl8zWTBOcG5qUjFtWUcyNUYzS1BqNDZCTVRHQS1sRTBwcHNPMTV3bVpXTUNmVk5jbVkydXpLa1NR?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 14 Nov 2024 08:00:00 GMT",
+      "snippet": "Act I: The AI Prophecy Price Prediction 2024-2030: WIll ACT Hit $10 Soon?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Act I The AI Prophecy (ACT) - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oV0Jtd3dFcktybWRFbEJPLXVEcmp4UXdsbXNSYU1CTU5MeXBEVmRsUFpfTFFTN3pIVndIbXMtTDBUZi1rMDBCdU9oNHRaY3dxanFzczlkT2lKNTk0SktsZ09zNHdjWHRDM19NdnVXYWRVRjJ3bE9nSFJjUQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 24 Oct 2024 06:03:12 GMT",
+      "snippet": "Act I The AI Prophecy (ACT)&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Act I : The AI Prophecy Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast - Binance",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QX2NUVGtNcF9Na0laMHllb3pRdTd0LUI4Z2F5M0JndVZkRmp6NEp6c0tUVEFHRmQzTmkyOUQ1TWticEZuN05ZUTQta3FPcThmMlQ3b1Vra3J0bUl0OG1FdGdzaUxtU21VcV9vSGhYa2JjcEhLUUpN?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 25 Jun 2026 17:43:00 GMT",
+      "snippet": "Act I : The AI Prophecy Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Crypto sector reassured as the CLARITY Act fails to pass, Perkins says - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FNjdUWkdnQllKNkNNS3VubmdYZHR5ajFEWmRITjRNc0htUnZnN1VkaXlDek4wZWxlRUJIUXpkSDY0QW5RSThZ?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Sun, 03 May 2026 07:00:00 GMT",
+      "snippet": "Crypto sector reassured as the CLARITY Act fails to pass, Perkins says&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "New listings on Binance: AI Prophecy (ACT) Squirrel (PNUT). - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OaHFwVlFWc1JKTGFUeVllZ3phMmZQRWk5RjdxNGhBTEhvdUZ6bHF3RmtOa3hPVVVGY0w5bVpFU2pkWXVheVhyTmt2bGtJRExMY0tkakpwc3NlWmg1d3BabEtBZw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 11 Nov 2024 08:00:00 GMT",
+      "snippet": "New listings on Binance: AI Prophecy (ACT) Squirrel (PNUT).&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Best Crypto to Buy Now as CLARITY Act Nears: Is Pepeto the Pick? - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vRmhQUnZsd2djUm5DZVJ6eDlrTE9nX0pJNTZMcXBKRGtIdjREdFFFY3J4bFZGUGNpUzRLQzRfblFBR3Jaam9z?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "snippet": "Best Crypto to Buy Now as CLARITY Act Nears: Is Pepeto the Pick?&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Act I : The AI Prophecy Price Today | ACT to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNaEN4Z0NFQVNCY3Z3S1FMTDN3d1MyY1BVWXIxZ01jdF8zRXJvbDZNQjZwT1hXclpHMEhHSl9XQWVYRkJlZUVQNTlSQVo1ZGtWZ2JBMkhkTXlOOVRlVi1ld2pXamY?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 22 Oct 2024 16:12:44 GMT",
+      "snippet": "Act I : The AI Prophecy Price Today | ACT to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Bitget Announces the Listing of Act I: The AI Prophecy (ACT) in AI & Meme Zone with Airdrops in Rewards - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLVN0bnBpOXBURnFtMkJNOGhKdGhHaDVtRXp2MGNUNjNaQkJxQ2RzX29XSGxzSHZ5VmpCVHZfYVN4TGJLVm1yZldCSzhRdks1ZEx0YllMX25PUG1iOVB3bl9zcWtzWDlTZ1czbHNMNUp5LXg5UXpZNW5lVUpTN0ItcE05cw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 30 Oct 2024 07:00:00 GMT",
+      "snippet": "Bitget Announces the Listing of Act I: The AI Prophecy (ACT) in AI & Meme Zone with Airdrops in Rewards&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What Is Act I: The AI Prophecy (ACT)? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORW5lYndJLXFldmY1Z3lJd0JVNVZNZ1ZNaHVxNWVuUS1laDFxN1V2WDdKX19fVEtkSjVQTjlqRnRXNmxZSmdzTE8td2Q3NGRpZ01SY1o5cE03ZXdlM2NqZ2FwWktSbW1hUnJqWmNaV1E2QURDcHItazJaZk1obDJNRl8tc2x5NDhvZ0xXMEln0gGTAUFVX3lxTE12Z1J5UEZHOHRFU0xnOEM4NGdzdkpNc2dQd3d0S3RfamJLWDJjUnRZb3Y3b0tVX2JjTHFKVmJZbGdpT2hMY1Q3RXliV0tUOVRGYWZqN0JJNmZNTWkwRGxBSDZPNHFFSHN5cTY0QTdZS0FEcXFndkxPekgtNFF5VG5EOXd1QXl3TkNyVXU4UjdxMl9BZw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 29 Oct 2024 07:00:00 GMT",
+      "snippet": "What Is Act I: The AI Prophecy (ACT)?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Act I : The AI Prophecy Price Today in India | ACT to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXYlgybXE1eFhaYUgxNndneGtLajRTTDRXd0hnaWw0SUtDU3NZQWFoczE1cnFBeXl4UEJ3cXpiM21NZ0hzSTZObjFNZ3N4YlN3NWF1YW5hWjdWbEJqOFBEeUJIZUVZMkxo?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 22 Oct 2024 18:21:45 GMT",
+      "snippet": "Act I : The AI Prophecy Price Today in India | ACT to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Bitget Announces the Listing of Act I: The AI Prophecy (ACT) in AI & Meme Zone with Airdrops in Rewards - Crypto Reporter",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRnNudVNJam5paDN2WTFULTJ3WUtqVVNjZzVIQ2NRbGpobHk0VUVKbW9DclZDMTNEYTNDWUdEalhHcGVZVEVwSGwxNi1sWkF5aFJpb05nbi1YTm9kZUxueWx5eWNuc3NCNE1QMDFiNXFqX0ZXNXBDakxPWHFJY3ZqQ2ZKRXZNY3IzSUNUeE15SzFtQ0RQZk1PclNZbEo2NUxwcnpmTXJyTmdGWGVtTW1zNkloUXF5ZE1zNFM2UndxNVl6M25TdEZrYzktSW9WVE81UmdpYkJfQmM5UzRwTndr?oc=5",
+      "source": "Crypto Reporter",
+      "publishedAt": "Wed, 30 Oct 2024 07:00:00 GMT",
+      "snippet": "Bitget Announces the Listing of Act I: The AI Prophecy (ACT) in AI & Meme Zone with Airdrops in Rewards&nbsp;&nbsp;Crypto Reporter"
+    },
+    {
+      "title": "Binance Will Add Act I : The AI Prophecy (ACT) and Peanut the Squirrel (PNUT) on Earn, Buy Crypto, Convert, Margin & Futures | Binance announcement - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGVUdmVTRGJ0MTFLUHI1RHA5eXNMbGdrbldQamtGTmd2UzM1Ukp1SlVBRXM1VTllZjFuazdBSW5BZF9vV2ZUY3VGamJxel93d18zNTl2VWNtSTA4WG1vZWF6Z1ZVTjdQZmZXV2p2ek41cjhlWFJxb1pfRlpHNnVBUHVoQnlCMVNyMkJwRUFEeUk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 11 Nov 2024 08:00:00 GMT",
+      "snippet": "Binance Will Add Act I : The AI Prophecy (ACT) and Peanut the Squirrel (PNUT) on Earn, Buy Crypto, Convert, Margin & Futures | Binance announcement&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Will List Act I : The AI Prophecy (ACT) and Peanut the Squirrel (PNUT) with Seed Tag Applied - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDNSNG9HYVBVcS1pTUJoVWU1T3BkdE9MSmxyQ054eFcyVWFKVGxnOGxJQ0ZoV2c0V1lQcE5MNkw0SUZaRTlKVGpsM255bGI5YndBV204Yjl2X0ZSRk1QQVV2Q180OTB0ZW1kM2xObV81Q1JsTlNmQWhzR1RtVzA4S1BLeXc4ZkpBMVlaTjJ1LUw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 10 Nov 2024 08:00:00 GMT",
+      "snippet": "Binance Will List Act I : The AI Prophecy (ACT) and Peanut the Squirrel (PNUT) with Seed Tag Applied&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

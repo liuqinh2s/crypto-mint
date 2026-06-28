@@ -1,0 +1,377 @@
+{
+  "token": "MEME",
+  "requestedInput": "MEME",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T04:47:37.232Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MEME",
+    "name": "MEME",
+    "generatedAt": "2026-06-28T04:47:23.744Z",
+    "summary": "MEME是XRP链上的低市值meme币，24小时价格微跌，流动性极低，交易量仅0.75美元，无明确上涨催化剂。新闻多为meme币板块整体波动，无直接利好。基本面薄弱，风险极高，不建议买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无买入逻辑，无需设置失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "SOL Price is Down 20% But Solana Network Activity is Climbing on Meme Coins",
+        "impact": "中性",
+        "reason": "新闻提及Solana链上meme币活跃，但MEME在XRP链，无直接关联。"
+      },
+      {
+        "title": "Meme News: Memecore Surges, RAVE Crashes as Memes Lose Momentum",
+        "impact": "利空",
+        "reason": "meme币整体失去动力，板块情绪偏空。"
+      },
+      {
+        "title": "Meme Coins News: Pepeto Presale Passes $10.28 Million as",
+        "impact": "中性",
+        "reason": "其他meme币预售消息，与MEME无关。"
+      },
+      {
+        "title": "MemeCore Token Drops Below $1 Billion Market Cap After 76% Crash",
+        "impact": "利空",
+        "reason": "meme币龙头暴跌，板块情绪恶化。"
+      },
+      {
+        "title": "Meme News: Pump.fun Burns $370M in PUMP, Launches ‘Charity Coins’ as Memes Rebound",
+        "impact": "中性",
+        "reason": "Solana生态meme币消息，与XRP链MEME无关。"
+      },
+      {
+        "title": "PEPE price prediction 2026-2030: the first meme ETF test",
+        "impact": "中性",
+        "reason": "PEPE相关，非MEME。"
+      },
+      {
+        "title": "SIREN Crypto: The AI Meme Coin That Pumped 6,800% Then Crashed 90%",
+        "impact": "利空",
+        "reason": "meme币高波动风险案例，警示作用。"
+      },
+      {
+        "title": "MemeCore $M Token Analysis",
+        "impact": "中性",
+        "reason": "旧闻，与MEME无关。"
+      },
+      {
+        "title": "Binance airdrops $45M in BNB to memecoin traders hit by market crash",
+        "impact": "中性",
+        "reason": "交易所空投，非MEME直接利好。"
+      },
+      {
+        "title": "Best Solana Meme Coins to Invest in for 2026",
+        "impact": "中性",
+        "reason": "Solana链meme币推荐，非XRP链。"
+      },
+      {
+        "title": "BONK: From Meme Coin to Utility Flywheel",
+        "impact": "中性",
+        "reason": "BONK分析，与MEME无关。"
+      },
+      {
+        "title": "10 Promising Low Cap Meme Coins Rise While APEMARS’ 1,350+ Holder Surge Sparks ‘Next Crypto to Hit $1’ Talk",
+        "impact": "中性",
+        "reason": "低市值meme币列表，未提及MEME。"
+      },
+      {
+        "title": "Buttcoin meme coin market cap briefly rebounds to $30 million, up 36% in 24 hours",
+        "impact": "中性",
+        "reason": "其他meme币反弹，非MEME。"
+      },
+      {
+        "title": "Meme coin chaos: TST, VINE, and BROCCOLI see extreme volatility on BNB Chain",
+        "impact": "利空",
+        "reason": "meme币极端波动，风险警示。"
+      },
+      {
+        "title": "Dogecoin rises 4% as trading volume surges driven by \"meme season\"",
+        "impact": "中性",
+        "reason": "DOGE上涨，但MEME无关联。"
+      },
+      {
+        "title": "Meme Coins To Hit $1 Trillion Market Cap In Coming Years? Analyst Thinks It Is Possible – Here’s Why",
+        "impact": "中性",
+        "reason": "长期乐观预测，但无短期催化。"
+      }
+    ],
+    "fundamentals": [
+      "XRP链上的meme币，无官网、无白皮书、无团队信息。",
+      "市值仅3.46万美元，流动性3.6万美元，24小时交易量0.75美元，几乎无交易。",
+      "创建于2023年5月，但至今无任何发展迹象。",
+      "无社交媒体或社区活跃度数据。"
+    ],
+    "marketRead": [
+      "价格24小时微跌0.66%，波动极小。",
+      "成交量极低（0.75美元），表明无人交易，价格可能为虚假报价。",
+      "流动性池仅3.6万美元，极易被操纵或rug pull。",
+      "无历史K线数据，无法分析趋势。"
+    ],
+    "risks": [
+      "流动性极低，滑点极高，难以实际成交。",
+      "无任何基本面支撑，纯meme币，价值归零风险极大。",
+      "XRP链上meme币生态薄弱，缺乏关注度。",
+      "无任何新闻或社区催化，上涨动力缺失。",
+      "可能为蜜罐或貔貅盘，合约风险未知。"
+    ],
+    "watchlist": [
+      "关注是否有新地址买入或流动性增加。",
+      "观察XRP链上meme币整体热度。",
+      "若出现官方公告或社区活动，需重新评估。"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他来源验证。",
+      "新闻均为meme币板块通用新闻，无MEME专属信息。",
+      "无链上持仓分布或交易记录数据。"
+    ]
+  },
+  "profile": {
+    "id": "4D454D4500000000000000000000000000000000.rs98d8usUqkf9Wuww6MgMghSdQpvMmVFt4",
+    "symbol": "MEME",
+    "name": "MEME",
+    "categories": [
+      "xrpl",
+      "xrpl"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on xrpl / xrpl. Pair URL: https://dexscreener.com/xrpl/4d454d4500000000000000000000000000000000.rs98d8usuqkf9wuww6mgmghsdqpvmmvft4_xrp",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.0003581,
+    "marketCapUsd": 34633,
+    "fullyDilutedValuationUsd": 34633,
+    "totalVolumeUsd": 0.75,
+    "priceChange24hPct": -0.66,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2023-05-24",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "4D454D4500000000000000000000000000000000.rs98d8usUqkf9Wuww6MgMghSdQpvMmVFt4_XRP",
+    "baseTokenAddress": "4D454D4500000000000000000000000000000000.rs98d8usUqkf9Wuww6MgMghSdQpvMmVFt4",
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "liquidityUsd": 35956.72,
+    "pairUrl": "https://dexscreener.com/xrpl/4d454d4500000000000000000000000000000000.rs98d8usuqkf9wuww6mgmghsdqpvmmvft4_xrp",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "xrpl",
+    "pair": "MEME/XRP",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "4D454D4500000000000000000000000000000000.rs98d8usUqkf9Wuww6MgMghSdQpvMmVFt4_XRP",
+    "pairUrl": "https://dexscreener.com/xrpl/4d454d4500000000000000000000000000000000.rs98d8usuqkf9wuww6mgmghsdqpvmmvft4_xrp",
+    "lastPrice": 0.0003581,
+    "priceChange24hPct": -0.66,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.75,
+    "liquidityUsd": 35956.72,
+    "fullyDilutedValuationUsd": 34633,
+    "marketCapUsd": 34633,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "url": "https://dexscreener.com/xrpl/4d454d4500000000000000000000000000000000.rs98d8usuqkf9wuww6mgmghsdqpvmmvft4_xrp",
+    "pairAddress": "4D454D4500000000000000000000000000000000.rs98d8usUqkf9Wuww6MgMghSdQpvMmVFt4_XRP",
+    "baseToken": {
+      "address": "4D454D4500000000000000000000000000000000.rs98d8usUqkf9Wuww6MgMghSdQpvMmVFt4",
+      "name": "MEME",
+      "symbol": "MEME"
+    },
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "priceNative": "0.0003414",
+    "priceUsd": "0.0003581",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 3,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.75,
+      "h6": 0.2,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -0.77,
+      "h24": -0.66
+    },
+    "liquidity": {
+      "usd": 35956.72,
+      "base": 50192167,
+      "quote": 17138
+    },
+    "fdv": 34633,
+    "marketCap": 34633,
+    "pairCreatedAt": 1684953531000
+  },
+  "news": [
+    {
+      "title": "SOL Price is Down 20% But Solana Network Activity is Climbing on Meme Coins - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEZBdkhMblJ0dFc2M2kwSXhQWnFaVjV0OFozUUJqSm1jem0xOXZLV0pCSHlrQWxZbnh6WFhlRWdsLW5mVlJiQXQ4NXNXaV9zdlRjb1dKMXN2NHR0NHkyVE9YMVVQazk5SXFVRTloUkRuUnpLSUF0NWd6R2VBSGZvemhBdWxQVExvRU5j?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Thu, 25 Jun 2026 20:54:00 GMT",
+      "snippet": "SOL Price is Down 20% But Solana Network Activity is Climbing on Meme Coins&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Meme News: Memecore Surges, RAVE Crashes as Memes Lose Momentum - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2EwcTZ2NE9tbU1hVTBQMXJjd1ptREZtbHhNM0JLZVpIellaYnRMVmxSODRqTE5WT0UyREFTYnJCRm5xT0lKNXhvQ1A3dk1hYmNtT2tsU2xpUUNSejkzUGtkR09xeWhmTVRGb2Jscndzcm41dGZOcHpVbW5oYU1qOHg2OUVTXzByM09tRzNycFpNbGQ3YjZYVVJ6UUJ2WEpDUmQ4Q0FB?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 25 Jun 2026 10:17:12 GMT",
+      "snippet": "Meme News: Memecore Surges, RAVE Crashes as Memes Lose Momentum&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Meme Coins News: Pepeto Presale Passes $10.28 Million as - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPS3gtZWNmcEt4QWdfREFwNjRJQ0RzWlQxVDFNZEthMkFuM1hxb2k3ZllQR2NzYmJBMlpjMzl0Q01YdmdEMDBUMEw4UUUyY0xoOTVobG9RWEJzWWV5VmQ0S2h5eThrSFFCYjBpbnpBUW9TWU9KOThCdHFrQmFxSmswaTViZlF1QlFTMHN5Q1dMM2dTYzhfWlFxMG9LLXkzVmNHQl93ejZFczhCWVFVTTZPemxPakY5TmVtcnFWcnR2R0dxSkZrdHpmMkpyTUU0Z3pFMUZOTXI5VjZ3VHd1dFJwXzRCeWhza3A3SkMyNDFVQWRrY3NZU0xVLWgtMEdjaDlIaHpkLUg1eTdaTllRN3JKLWtRWkEyVm1xVVJVeQ?oc=5",
+      "source": "GlobeNewswire",
+      "publishedAt": "Wed, 17 Jun 2026 22:00:00 GMT",
+      "snippet": "Meme Coins News: Pepeto Presale Passes $10.28 Million as&nbsp;&nbsp;GlobeNewswire"
+    },
+    {
+      "title": "MemeCore Token Drops Below $1 Billion Market Cap After 76% Crash - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CWlBSU1JubjRycVZWOV8tekp3WUhVYmJQWlY4amNtckEwRjJVVWMtZjIzWGFaY1ItT1FsMW92a29qdmRVTUZzelJwcXdNREVDRmhNTkJ5ZzFlUlRUT2c?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Thu, 25 Jun 2026 08:07:00 GMT",
+      "snippet": "MemeCore Token Drops Below $1 Billion Market Cap After 76% Crash&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Meme News: Pump.fun Burns $370M in PUMP, Launches ‘Charity Coins’ as Memes Rebound - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWko1MmdDSzJ3ckQ4aXZyNVpZN1lnLVJMOVRBdDRGaXpXNl9EaU4zUmJlUzhEckhST2dHYXk0Z1dybEJMWFM4Ul9KVWZlTFUwM3Rmc19SMFVPYmhKYW1jbXFkaW9JWm9TNTlseFIyb2lyMVV3YjZEM2t1SzExNlBjUkhxZVVSTFBFVV9HVHBTbkNlMWM?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "snippet": "Meme News: Pump.fun Burns $370M in PUMP, Launches ‘Charity Coins’ as Memes Rebound&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "PEPE price prediction 2026-2030: the first meme ETF test - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3RDTUlhXzYwZGs5UVlIU0gxcFUtSi1vbmNnQ0IyWDBNZWRyT0xvckgzRDZ1TGFuSXhSeVlVLUhSeTA5bzVCdkZ3ZEdpZnlfaUJyRmlrcDJ2aFlLaENDZkRPeTljV0lXbnZhSlU5OEpURWJubU9mVFJKT1luS2tKa0F3?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "snippet": "PEPE price prediction 2026-2030: the first meme ETF test&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "SIREN Crypto: The AI Meme Coin That Pumped 6,800% Then Crashed 90% - CryptoTicker",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FeHlIZnFaT3hNd1kzV29FS1BFQW85bjN3MVhCUDQ1N2xFejVQdHVLeEMybGtodHJwVDNBanAtcHZIVjVwREQtRUVMaV9CMG85SUlDeGo0aFRRdFRVMEktQVA5Zw?oc=5",
+      "source": "CryptoTicker",
+      "publishedAt": "Sat, 13 Jun 2026 07:00:00 GMT",
+      "snippet": "SIREN Crypto: The AI Meme Coin That Pumped 6,800% Then Crashed 90%&nbsp;&nbsp;CryptoTicker"
+    },
+    {
+      "title": "MemeCore $M Token Analysis - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3Z3JwWmVpRkNjems5R0I0b1pCRUsyQURsU0t1N2pDenNYczJTN1JDclZoeEcydTBtYkJXVWE3MEp6dFdXRlBVU1FudE94bGRNdXQxTS1xdzBxQ3IyaVNsdjNPNA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 23 Jul 2025 07:00:00 GMT",
+      "snippet": "MemeCore $M Token Analysis&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance airdrops $45M in BNB to memecoin traders hit by market crash - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeU0xZDlfSUhYV0FsTWVuS1YwZVlRU3l6RUxadTNPZ2ctTk54R1R4bXFmSXRoTVJvQ0lrd0wzSEtYZVg3cVhaYWhiRnZlSS1CMm9sYzVwZjlDRHhHRmRWcE41V3NULUw1UFVBZXlNN2IzQzlod3ZHdGdLaGdYbG1MNmtrMW9vem92dWxOeWx2UmVmUDNTWTV3U3lLSGtyT0FNNl9hOFkzMU5ZV2RReXlWeHBDMGVrNjJGUXNWakF5dmRvS3Mwc1RHMW9lMA?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Mon, 13 Oct 2025 07:00:00 GMT",
+      "snippet": "Binance airdrops $45M in BNB to memecoin traders hit by market crash&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Best Solana Meme Coins to Invest in for 2026 - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iZ09BUEJIcDYxZUk3a3o0MGFpd0F2a0g3TnF2MEI1M3o5YlFQNmppSm9IVG5kbWM2VFZiZmVNZHVvQjJlRGJLSnR6c2U0TzFKaFRMZ0tqMUNsMFZ3OENUTjdMelVpZm5WdFVnbkp3?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "snippet": "Best Solana Meme Coins to Invest in for 2026&nbsp;&nbsp;Cryptonews"
+    },
+    {
+      "title": "BONK: From Meme Coin to Utility Flywheel - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ndTN6SHUxOUNEMFFWbmFrVWJKSGw2WDYtb21OR0NJQzZlRTdYS1FERXJ5dEh0S3RtelBsd3RndVpKdG1ISGhRTFh6RHJ0dUhFdUpWd29YV1ZISnVDb2fSAWNBVV95cUxNUGs0Tmx6aHBocDlrZkM5MUZvaTg2S0dkejR6VEViRmVzekRzQkVsWjJRclkzY29WWF9NOE4wVEgySHZERzlvQkZyZEdHNzVmWmhKUE1Xc3h6S1ctMWZxLUg3TEU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 26 Nov 2025 08:00:00 GMT",
+      "snippet": "BONK: From Meme Coin to Utility Flywheel&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "10 Promising Low Cap Meme Coins Rise While APEMARS’ 1,350+ Holder Surge Sparks ‘Next Crypto to Hit $1’ Talk - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4ybDJaSm1LRllmQ0tmZk9tcjl6VFV2NEZKcUNLYkk5LWZOemtvb1IzM0l4TTdaeTdXYTUtMEpvRHNCSHFiRGxNSDRDelhSV012QVU0ZHgwcHY0MVNKSUHSAWNBVV95cUxQb2QxRnRrMVhMUHlZN1hSV0pPdldxYTUzTjdIZUhpTjBRS0QzZUFHajBicHJpekR3UDdrbzNuRlFHV3hQdHNDNHZHT1NRTGRsc1BPX1NwTS1HbG5oQnNMSklYTGs?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "snippet": "10 Promising Low Cap Meme Coins Rise While APEMARS’ 1,350+ Holder Surge Sparks ‘Next Crypto to Hit $1’ Talk&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Buttcoin meme coin market cap briefly rebounds to $30 million, up 36% in 24 hours - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyOGxFOS16Z1NiMGNadlFQTjNGYkJ0VVJBdnZxMENzRjRCQmt4c2NfVmJjQy1reWtlSVU4dG9nbkxxWFE4RHZoRmhDOVBnN0lOUzAyV1pWb2Z2WXNJbXfSAWNBVV95cUxNWW5vSkt3SWltMFJpOVRqOGNpSHgyQWlDWjNwdnhHZFJNR3VFT1Z2S1ZmazQ1TXQ3cWE5S3NnX1o5S0RPdXVrdHFfbEVnUURQaEhKOHZFb2J6SzV6U1hVWDY2ZkU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "snippet": "Buttcoin meme coin market cap briefly rebounds to $30 million, up 36% in 24 hours&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Meme coin chaos: TST, VINE, and BROCCOLI see extreme volatility on BNB Chain - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4a0k3X1UxRmRkUjFJUXc2MmV6OVYwdGNrTDJ3ZjhRN3dCeUREdEZpYWZNQlBGTXE4a1ZZOEdWbXFqaGxEUWtodlFIUzRKTGhWX1I4Ry1Jbjc5OUFEemc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 06 May 2025 07:00:00 GMT",
+      "snippet": "Meme coin chaos: TST, VINE, and BROCCOLI see extreme volatility on BNB Chain&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Dogecoin rises 4% as trading volume surges driven by \"meme season\" - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KWTc0bTZkLWc4UHozSzJmd1NUcXpzMDNxVmxlZ1I1YzAxdjIxRnhGOFNMTlBLYnd4aXFLTTQtOGhtZTkwSW5xNEdEa1VKMEF0QXRoSGt1Z0FuOUZMYXfSAWNBVV95cUxNdzBEQ2dsYjlCanZpeThfeVZDbnZWZ3hkNk9na2pyUm5LelpIRWdVUWRMQ0EwaGt5Y1NZSEpMbFlZNGNyVzNpTkFfNHZMMS1WZjlDaXlfbUpPQzlqNkhQdDZmQmM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 04 Jan 2026 08:00:00 GMT",
+      "snippet": "Dogecoin rises 4% as trading volume surges driven by \"meme season\"&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Meme Coins To Hit $1 Trillion Market Cap In Coming Years? Analyst Thinks It Is Possible – Here’s Why - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MazdjWVJNelBxYTNvMnowNTRCb1BWWEdOZmNkdXcwbHh1X2F0TXd6bVBqNEtaR0trWVVmUFNWZ2VsT2VtU1VYcjMtYkljc0tHNjBPUklpQ0p3VjU1c2fSAWNBVV95cUxPeDgxenE5Q2tUWHp6MFFNWFk5ZW9WeTdaOVRIT3daam0yemRPN19oNGtqWDdEc3RjSlZMWUc0ZGNXMVRTVDkzdUFKZ0l4UXktTFdmcXhJbjVYei1qa0FjQ1liQWM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 09 Oct 2024 07:00:00 GMT",
+      "snippet": "Meme Coins To Hit $1 Trillion Market Cap In Coming Years? Analyst Thinks It Is Possible – Here’s Why&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/memecoin-2?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}
