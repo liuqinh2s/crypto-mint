@@ -1,0 +1,294 @@
+{
+  "token": "USUAL",
+  "requestedInput": "USUAL",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T18:17:27.100Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "USUAL",
+    "name": "USUAL",
+    "generatedAt": "2026-06-28T18:17:20.203Z",
+    "summary": "USUAL是Usual Labs发行的稳定币协议治理代币，近期价格无明显波动，流动性较高但交易量极低，缺乏短期催化剂。项目基本面尚可，但当前市场情绪平淡，建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大利好（如新合作、TVL大幅增长）或价格放量突破，可重新评估。"
+    },
+    "catalysts": [
+      "Binance现货上市（2024年12月）已过，短期无新催化",
+      "稳定币协议TVL增长可能带动代币需求",
+      "未来可能的空投或质押激励"
+    ],
+    "latestNews": [
+      {
+        "title": "DeFi Protocol Usual's Surge Catapults Hashnote's Tokenized Treasury Over BlackRock's BUIDL",
+        "impact": "利好",
+        "reason": "显示Usual生态增长，TVL超越BlackRock产品"
+      },
+      {
+        "title": "Binance Will End the Usual (USUAL) Pre-Market and List Usual (USUAL) with Seed Tag Applied",
+        "impact": "中性",
+        "reason": "上市事件已过去，影响已消化"
+      }
+    ],
+    "fundamentals": [
+      "Usual Labs开发，获700万美元融资",
+      "稳定币USD0的治理代币，TVL曾达7500万美元",
+      "代币总供应量未公开，但FDV约2892万美元",
+      "Binance Launchpool项目，有Seed Tag"
+    ],
+    "marketRead": [
+      "当前价格0.01708美元，24小时无价格变动数据",
+      "流动性1446万美元，但24小时交易量仅0.01美元，极度冷清",
+      "市值约2892万美元，FDV相同，无解锁压力数据"
+    ],
+    "risks": [
+      "交易量极低，流动性陷阱风险",
+      "缺乏近期新闻和催化剂",
+      "代币经济模型不透明，总供应量未知",
+      "DEX交易对，合约风险存在"
+    ],
+    "watchlist": [
+      "TVL变化",
+      "是否有新交易所上市或合作公告",
+      "代币解锁或供应变化"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，价格和成交量数据可能不完整",
+      "新闻多为2024年，时效性差"
+    ]
+  },
+  "profile": {
+    "id": "0x49692d047288B80DEf66A57c4EFf081cB9CAAD5f",
+    "symbol": "USUAL",
+    "name": "USUAL",
+    "categories": [
+      "ethereum",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on ethereum / uniswap. Pair URL: https://dexscreener.com/ethereum/0xaef0909dabdc05b3569011f41fa014aab9e75376",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.01708,
+    "marketCapUsd": 28925080,
+    "fullyDilutedValuationUsd": 28925080,
+    "totalVolumeUsd": 0.01,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-03-08",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0xAef0909dabdc05B3569011F41fa014AAb9E75376",
+    "baseTokenAddress": "0x49692d047288B80DEf66A57c4EFf081cB9CAAD5f",
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "liquidityUsd": 14462540.19,
+    "pairUrl": "https://dexscreener.com/ethereum/0xaef0909dabdc05b3569011f41fa014aab9e75376",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "USUAL/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0xAef0909dabdc05B3569011F41fa014AAb9E75376",
+    "pairUrl": "https://dexscreener.com/ethereum/0xaef0909dabdc05b3569011f41fa014aab9e75376",
+    "lastPrice": 0.01708,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.01,
+    "liquidityUsd": 14462540.19,
+    "fullyDilutedValuationUsd": 28925080,
+    "marketCapUsd": 28925080,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0xaef0909dabdc05b3569011f41fa014aab9e75376",
+    "pairAddress": "0xAef0909dabdc05B3569011F41fa014AAb9E75376",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0x49692d047288B80DEf66A57c4EFf081cB9CAAD5f",
+      "name": "USUAL",
+      "symbol": "USUAL"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.00001087",
+    "priceUsd": "0.01708",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.01,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 14462540.19,
+      "base": 846467552,
+      "quote": 0.0004027
+    },
+    "fdv": 28925080,
+    "marketCap": 28925080,
+    "pairCreatedAt": 1773003971000
+  },
+  "news": [
+    {
+      "title": "Demands for Trump ‘crypto’ probes spread beyond usual suspects - CoinGeek",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDU2dktOa2tlaFktalhrYUpDV0hCY1hzcGdyY1J5VURGR0ZIX1VIdHhXRTRzdmE1VzVrQ29pTU5BX0NOSkRvbGp0OFEwcEJVLVZkX3U4VGxtWU5jNnlPYjRtaDhuLUZuZFRiRkViMUxlN3I3dEw3UDJTYWxuM1JBSmlyTXdYVV9COXc?oc=5",
+      "source": "CoinGeek",
+      "publishedAt": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "snippet": "Demands for Trump ‘crypto’ probes spread beyond usual suspects&nbsp;&nbsp;CoinGeek"
+    },
+    {
+      "title": "Bitcoin Price Falls — And As Usual, Nobody Knows Why - Bitcoin Magazine",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lRklVTHZNRDFrZkFYSW90clJCRk93clpJTHRBSkJDd1N2TlJsTHhfSmhFSU9admNOUWhZQUtlcmxBZjFRYTZoVWtaOVBpYThTelpOY2pFS1NfM18yZlpEYjNuc0ppckZoT1ZQVjF3TmlMVjduNHU5WERHUUg?oc=5",
+      "source": "Bitcoin Magazine",
+      "publishedAt": "Thu, 21 Aug 2025 07:00:00 GMT",
+      "snippet": "Bitcoin Price Falls — And As Usual, Nobody Knows Why&nbsp;&nbsp;Bitcoin Magazine"
+    },
+    {
+      "title": "Usual price today, USUAL to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOWUNsdzMzLWFaTWNZYjYwNDJBTldneTdEeFZoVEZ3UWdYZ291N0VDWUVFWnN5N0JMVklmQktJNWNTa3N0S3BlSFJaenV3cVh6Ujh0eldR?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 22 Jul 2024 03:58:06 GMT",
+      "snippet": "Usual price today, USUAL to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "What Is Usual and How to Earn Pills for the USUAL Airdrop - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WVy1mRllkZ3o2Yko2SENqT3NFZlo3eERETERQa3Y0MlJ4dU5uLWNzYVRBQzcxVjNSWWt1U1ZhU09MYzlncVR1MTdpNlc3M1laMVRVQ3NBM0R1U2pqYmo3Vk50QndueGwtZ1QxaTludi1ILXlKcEpWWnNR?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 15 Nov 2024 08:00:00 GMT",
+      "snippet": "What Is Usual and How to Earn Pills for the USUAL Airdrop&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Usual (USUAL): A New Model of Collateralized Stablecoin Ownership - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTUXA0ak1wUTducEgwemhwRnNSRzFkS0dWQnpFZy13YWE1SngwaFdwajJqN2pVbFNvRnRmMXdjV3FUUG12TVRsbkp6aXVfRnhKYklQa3pDOE5tSUFOZ20teW5QRmdJTjdrN1E?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Mon, 02 Dec 2024 08:00:00 GMT",
+      "snippet": "Usual (USUAL): A New Model of Collateralized Stablecoin Ownership&nbsp;&nbsp;Bybit Learn"
+    },
+    {
+      "title": "Usual Labs Announces Public Pre-Launch Phase After Securing $75M in TVL for USD0 During Private Phase - Chainwire",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWmRnQkpSSHJ0cWxiVkNxR3FtY29YQzFGUVU5cG1Xa0JvVVozWXNiTV8yakRlZjItZnZYZ1JyZWF1T2JfelpYWUtMXzlpUmx3eUl4cmZLa3dWeGJKMUZEN1U4dmZOZnBCUm5TdDZGa05nVkM4QnlqOVMtY3hPel80cWd0UWczZjN1NUlJSW4tYVBBRG53bU1wSjJlM1hmSFJqdFUtREtocU9DdmlOYkhqenh4cUpoZW5ubHgtM3FTNkdMMzRsRVFPeW9pWVNjcXc?oc=5",
+      "source": "Chainwire",
+      "publishedAt": "Wed, 10 Jul 2024 07:00:00 GMT",
+      "snippet": "Usual Labs Announces Public Pre-Launch Phase After Securing $75M in TVL for USD0 During Private Phase&nbsp;&nbsp;Chainwire"
+    },
+    {
+      "title": "Usual (USUAL) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vdjRqRHFvMi02VjdmWkd6b3YxaWwtRGM4Wm1BSXFWLXFnOGZrOGw1djNXX2ZxMDZWSXF2YmM3eW1ydUlIZ0E?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 17 Apr 2024 15:16:46 GMT",
+      "snippet": "Usual (USUAL) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Stablecoin developer Usual Labs receives $7 million in funding - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUTFsT2RaaDJ1MzkxVUZLcEE5TWJnVzcwRlFPY014bTRaR2piaDZPY3ZPYXpBVnRQdTg4N3NqNGNWVnd2NE5FV0RvSm9GcnhNMFNnVDBYMmt5S0JEWGfSAWNBVV95cUxPRk1CX2EtRWs2eHJSY0xiM3JpMnV0WjFUWGpxYUVzdmtOckVVVnJTYzlvcWFLMG56ZmIxbmlXOEhzM0t5RlVveGhwSTV5ME9oUVI2Rk1XbVlxREx2NlR4WjhIem8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 17 Apr 2024 07:00:00 GMT",
+      "snippet": "Stablecoin developer Usual Labs receives $7 million in funding&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Will End the Usual (USUAL) Pre-Market and List Usual (USUAL) with Seed Tag Applied - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDVJdFFsbGFOa3FXQVAtUHVWd0RfaDh0YWdvR1F4NFc5aTNhZW5xdnRIM2Y3UGlFeENKMENfTHZFR3BvUzR4eHA5NndNZ3REMTZndUhPNFhRX3hpSW9ITnB5bWwtUXpKd0ZXbG1iODdwVHlDZkVHeEZLNnl2VXZLeEVvbkI5WEJRMEwzWERhT28?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 12 Dec 2024 08:00:00 GMT",
+      "snippet": "Binance Will End the Usual (USUAL) Pre-Market and List Usual (USUAL) with Seed Tag Applied&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Introducing Usual (USUAL) on Binance Launchpool and Pre-Market! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPejRLcWllN1RzQkpkRUMwYzYwdmJldTU2UktqdmFkb09KTG5ZRko1bjQ0VFRpY1BOemQxYkxMWXF1c1hxalFfbVQ0cUI2NFdhX0swY2wtSWxxekF4alN2UE43ZC1kcmc0eVVjWkpfdWY1VUlJMkVyRkkxa0tqUTZ0ck9RSTZud2QtTmo1S2RabW8?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 13 Nov 2024 08:00:00 GMT",
+      "snippet": "Introducing Usual (USUAL) on Binance Launchpool and Pre-Market!&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "DeFi Protocol Usual's Surge Catapults Hashnote's Tokenized Treasury Over BlackRock's BUIDL - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORFBUVG1uMGRXd3lzMmRGV2JaTF9wWXZWdkloNDlPZENlQ3pvMG1acGlIUmZnRG5BMXNzaDR1b28tYU00cG9wcEhrNTNKY2xpTUNJN1pUWWUtUm1mVG1NSGVyUlpOam9ZNEdiSjFtc2ZmeHluUDhOV19ySUhmaEtEbGFkSy14YnpqODNJcjNmOUhUd2tKVmhuX3RJSEoxUmZHOTNVOVZ5eVZtLXhNSzU1UWFQOXBxcTQ5dS14dm9lSmtsU2xKUHo0dkdNNzI4QQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 20 Dec 2024 08:00:00 GMT",
+      "snippet": "DeFi Protocol Usual's Surge Catapults Hashnote's Tokenized Treasury Over BlackRock's BUIDL&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "What Causes a Crypto Flash Crash? Sometimes, Business as Usual - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWVItUmpVN1A5MEw3cW8xWjlRejhaSU03Q1hfazdPN1RnNnNUV0VmbnlLQWp4c3EyeWowd3NLbWtYNnFKekJwbF9pMVhlZ3A0MVlET3QtdHM1bDJHRUhiRFlWeVIzZjU3NHFqZW5ZcWlZUHg2dU9MRWZBMTRkYm5RZ2E3blJYNWk0M2hPajlQaVZJN0RBcEkxcnlNU2F5R1lneGttNEpydw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 05 Mar 2021 08:00:00 GMT",
+      "snippet": "What Causes a Crypto Flash Crash? Sometimes, Business as Usual&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Usual USD Price - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByZzFHTzlGRUczNUdYenFxWlFUaHh5ckJPZ3BvbktvYWhfeDVMRTh0aWlLT3NLSS03LWRQbzVLdjVvc1RMZmRmNW5n?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Tue, 27 Aug 2024 21:58:02 GMT",
+      "snippet": "Usual USD Price&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "Usual price today, USUAL to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBITzJfOTNVWHNSRmpJWGxjclF2VG1GdVQ0TTlrWDNZRjdnb0NqaTE4MW5sSHY0dHZRNzRDSkN0Z0pTcG5CZk1WVXA0TUI?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 23 Sep 2025 19:11:43 GMT",
+      "snippet": "Usual price today, USUAL to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/usual?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}
