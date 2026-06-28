@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-06-28T00:47:03.644Z",
+  "updatedAt": "2026-06-28T01:02:43.458Z",
   "results": [
     {
       "token": "JST",
       "requestedInput": "JST",
       "name": "JUST",
-      "score": 35,
+      "score": 40,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T00:46:55.707Z",
+      "generatedAt": "2026-06-28T01:02:32.361Z",
       "latestPath": "data/results/JST-latest.json"
     },
     {
       "token": "APE",
       "requestedInput": "APE",
-      "name": "Ape",
-      "score": 5,
+      "name": "ApeCoin",
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T00:46:54.320Z",
+      "generatedAt": "2026-06-28T01:02:31.455Z",
       "latestPath": "data/results/APE-latest.json"
     },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 30,
+      "score": 35,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T00:46:54.035Z",
+      "action": "观察",
+      "generatedAt": "2026-06-28T01:02:33.939Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "RAY",
       "requestedInput": "RAY",
       "name": "Raydium",
-      "score": 45,
+      "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T00:46:54.245Z",
+      "generatedAt": "2026-06-28T01:02:31.564Z",
       "latestPath": "data/results/RAY-latest.json"
     },
     {
@@ -48,7 +48,7 @@
       "score": 45,
       "label": "谨慎试仓",
       "action": "小仓试错",
-      "generatedAt": "2026-06-28T00:47:03.642Z",
+      "generatedAt": "2026-06-28T01:02:43.456Z",
       "latestPath": "data/results/AAVE-latest.json"
     },
     {
