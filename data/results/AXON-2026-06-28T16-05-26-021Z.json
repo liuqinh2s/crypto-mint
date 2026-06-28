@@ -1,0 +1,285 @@
+{
+  "token": "AXON",
+  "requestedInput": "AXON",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T16:05:26.021Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AXON",
+    "name": "AXON",
+    "generatedAt": "2026-06-28T16:05:15.647Z",
+    "summary": "AXON是Base链上Uniswap的一个新代币，市值仅2万美元，流动性约1.7万美元，24小时交易量几乎为零。新闻提及的“Axon”均为美股上市公司Axon Enterprise（泰瑟枪制造商），与链上AXON代币无关。代币无官网、无社区信息，极可能是同名蹭热点项目，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现官方认证的合约地址、项目方公开信息或真实交易量，否则逻辑持续失效。"
+    },
+    "catalysts": [
+      "无实质催化剂，仅可能因同名美股Axon Enterprise的新闻被误炒。"
+    ],
+    "latestNews": [
+      {
+        "title": "Taser maker Axon pops nearly 18% as AI boosts demand for its software tools",
+        "impact": "中性",
+        "reason": "新闻对象为美股上市公司Axon Enterprise，与链上AXON代币无关，但可能误导投资者。"
+      },
+      {
+        "title": "Axon: Q1 Earnings Snapshot",
+        "impact": "中性",
+        "reason": "同样指美股Axon Enterprise，对链上代币无直接影响。"
+      },
+      {
+        "title": "Axon Shoots Down AI Fears, Targets $6 Billion In '28 Sales",
+        "impact": "中性",
+        "reason": "美股公司新闻，与链上代币无关。"
+      },
+      {
+        "title": "Axon Stock Pops After Trump Administration Moves To Deploy Body Cameras In Minneapolis",
+        "impact": "中性",
+        "reason": "美股公司新闻，与链上代币无关。"
+      },
+      {
+        "title": "How to sell Axon AI (AXON) via a crypto wallet",
+        "impact": "中性",
+        "reason": "教程类文章，未提供项目实质信息。"
+      },
+      {
+        "title": "Taser maker Axon plunges 9% after earnings fall short due to tariff hit",
+        "impact": "中性",
+        "reason": "美股公司新闻，与链上代币无关。"
+      },
+      {
+        "title": "Axon Enterprise Inc. initially rose about 1% at the start of U.S. trading, then fell nearly 5%, currently showing a V-shaped trend.",
+        "impact": "中性",
+        "reason": "美股公司股价波动，与链上代币无关。"
+      },
+      {
+        "title": "AxonDAO Governance Token price today, AXON to USD live price, marketcap and chart",
+        "impact": "中性",
+        "reason": "可能指另一个同名项目AxonDAO，但链上代币无相关信息。"
+      }
+    ],
+    "fundamentals": [
+      "代币合约地址：0xEd7a2b98fBdc75D755B95aD55D92Fc95c03B4ba3",
+      "链：Base，DEX：Uniswap",
+      "市值：约2万美元，流动性：约1.7万美元",
+      "24小时交易量：0.01美元，几乎无交易",
+      "无官网、无社交媒体、无项目描述",
+      "创建日期：2026-06-28（当天）",
+      "总供应量与流通量未披露"
+    ],
+    "marketRead": [
+      "价格2.02e-7美元，24小时无价格变动数据",
+      "流动性低，交易量极低，市场深度差",
+      "无历史K线，无法判断趋势"
+    ],
+    "risks": [
+      "同名蹭热点风险：新闻中的Axon均为美股上市公司，与链上代币无关",
+      "流动性风险：仅1.7万美元，大额卖出易滑点或无法成交",
+      "合约风险：未开源或未审计，可能存在后门",
+      "无社区/无项目方：极可能是蜜罐或貔貅盘",
+      "新代币无历史数据，无法评估"
+    ],
+    "watchlist": [
+      "关注是否有官方渠道发布合约地址",
+      "观察是否有真实交易量出现",
+      "检查合约是否可交易（如买卖税、黑名单等）"
+    ],
+    "sourceNotes": [
+      "所有新闻均指向美股Axon Enterprise，非链上AXON代币",
+      "链上数据仅来自DexScreener，无其他来源验证",
+      "代币信息极度匮乏，建议回避"
+    ]
+  },
+  "profile": {
+    "id": "0xEd7a2b98fBdc75D755B95aD55D92Fc95c03B4ba3",
+    "symbol": "AXON",
+    "name": "AXON",
+    "categories": [
+      "base",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on base / uniswap. Pair URL: https://dexscreener.com/base/0x70315392e331f683421a7978713031273aab55819f06276af5ee2a9979cc640c",
+    "marketCapRank": null,
+    "currentPriceUsd": 2.02e-7,
+    "marketCapUsd": 20202,
+    "fullyDilutedValuationUsd": 20202,
+    "totalVolumeUsd": 0.01,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-28",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x70315392e331f683421a7978713031273aab55819f06276af5ee2a9979cc640c",
+    "baseTokenAddress": "0xEd7a2b98fBdc75D755B95aD55D92Fc95c03B4ba3",
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "liquidityUsd": 17171.84,
+    "pairUrl": "https://dexscreener.com/base/0x70315392e331f683421a7978713031273aab55819f06276af5ee2a9979cc640c",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "AXON/WETH",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x70315392e331f683421a7978713031273aab55819f06276af5ee2a9979cc640c",
+    "pairUrl": "https://dexscreener.com/base/0x70315392e331f683421a7978713031273aab55819f06276af5ee2a9979cc640c",
+    "lastPrice": 2.02e-7,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.01,
+    "liquidityUsd": 17171.84,
+    "fullyDilutedValuationUsd": 20202,
+    "marketCapUsd": 20202,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "base",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/base/0x70315392e331f683421a7978713031273aab55819f06276af5ee2a9979cc640c",
+    "pairAddress": "0x70315392e331f683421a7978713031273aab55819f06276af5ee2a9979cc640c",
+    "labels": [
+      "v4"
+    ],
+    "baseToken": {
+      "address": "0xEd7a2b98fBdc75D755B95aD55D92Fc95c03B4ba3",
+      "name": "AXON",
+      "symbol": "AXON"
+    },
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.0000000001280",
+    "priceUsd": "0.0000002020",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 0.01,
+      "h6": 0.01,
+      "h1": 0.01,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 17171.84,
+      "base": 84999953748,
+      "quote": 0.000005962
+    },
+    "fdv": 20202,
+    "marketCap": 20202,
+    "pairCreatedAt": 1782662051000
+  },
+  "news": [
+    {
+      "title": "Taser maker Axon pops nearly 18% as AI boosts demand for its software tools - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWTEh1RzdhdmFwS0VaQmN5UlpDcDBoemZSUzRtSlVXdm9QV2JqZHpwZnRoQzdwS21pT2RKbm1wdGQyVENHQzhjVmg5S1Jtd3M3TXdkX2pkQ0c1bU9iWWdWVUN5T3otMjNsRjUzRE80QXBBeVl2ZGMxNlVpc3NVWkHSAYQBQVVfeXFMTnI2LUFVOEpTUC04RzVNVVo0UkktbnFJY242QS1IWFZwcFZBcDhQbktsX3NYdkpKYTdLX3ZfUUlkZFd2N1hGb2NoeWhBbHlzaTl2WjhoMVpudXkxXzM4X21BMi1COHRwSlF6SkVER09CZzdBRExyUUhER0pacVdyMlk2LWRB?oc=5",
+      "source": "CNBC",
+      "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "snippet": "Taser maker Axon pops nearly 18% as AI boosts demand for its software tools&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "Axon: Q1 Earnings Snapshot - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb29hMG9uQmFJNlRMTFJOZEg0Mms3X0lUMGZKRGN5Q2dpSjlvekVWMmRONVFLTWs3Q3Y4WC03WVZnNW4wbEFwczFySl94TS16TmZiVWp3anZ0RTA0cmRPOTV0akRjM25zMFZXb0JhTHlaZENld0pIQjF1WlFWUVJLblNCYjI?oc=5",
+      "source": "marketscreener.com",
+      "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
+      "snippet": "Axon: Q1 Earnings Snapshot&nbsp;&nbsp;marketscreener.com"
+    },
+    {
+      "title": "Axon Shoots Down AI Fears, Targets $6 Billion In '28 Sales - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSGc2VUxNS0hiandRU1RLTEJXRGhjalJvWmdERGlCVkZEeTlhcERoaHRnQzNMQkZnU2R1dU5rWnplVlBVY2tsc3dZVUc3ZGgyX2RiQzZfMk9yZXV5eDNoajUzUTc2Y0F3SWV6dl90NFZ0VGI0aWpVOEFRdFdxSi01cTJEVTlrZw?oc=5",
+      "source": "Investor's Business Daily",
+      "publishedAt": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "snippet": "Axon Shoots Down AI Fears, Targets $6 Billion In '28 Sales&nbsp;&nbsp;Investor's Business Daily"
+    },
+    {
+      "title": "Axon Stock Pops After Trump Administration Moves To Deploy Body Cameras In Minneapolis - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYllXTEljWHNlX3ladTN6aFNTMkJCZWFlb3F4S0M1b2g2TmQ4eFNxU3J1RFNaZlowclRLMnUzVkRQX2ZCMXRDVXlHeFVBa2VlY28yaEZBcmx1R0IyNURjR3JaZ3FLQ25jMDB0VVkzY0owSUxUb2d2UnhPYVZCVVBsTFBob2hZTXB1LVFGVXlFTFRCN1VjRl9QUlJGVGt5eE94T1hxMjFISkxZanZZRnBNeUVCY2duWVpRQ292MzlYekZrTGNXUVJiTzFJZUpHRmZ6cy0yQzEtaXhzcmJr?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Sun, 01 Feb 2026 08:00:00 GMT",
+      "snippet": "Axon Stock Pops After Trump Administration Moves To Deploy Body Cameras In Minneapolis&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "How to sell Axon AI (AXON) via a crypto wallet - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwTVhKMWJPOW9yRWxLVHZPRnk1UXEzX3UzeEMtTkRZZlFSeEs4dEZ1bkxXSzFRYXhULUFpU0xoSE9qZms1eF9HUnUwNGdGbUxZUnAtSmRpRlZtQ20xUWc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 01 Sep 2025 09:44:20 GMT",
+      "snippet": "How to sell Axon AI (AXON) via a crypto wallet&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Taser maker Axon plunges 9% after earnings fall short due to tariff hit - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEaEVwenFrUUk0NVRnU1plZGZ1SlBlb2piblhvRkxnTE82RjI5SHd1c1dEUlkxc1Q1R2Ric1FXUDRwTnhEUlYySGl4eTF1YnZVaEtxMVl4Tkd3NDNIVzhKSGhZa05TX1Q1bkI5T2NQelRQcU5ydFdjYtIBfkFVX3lxTE9lX3FNZ3RVVXVUbU1VM2RSRU5iMnlKOHg3eEdSTUtkc3RqM3lraU9VTjNid3B0eHdUeGpJV3JMWWs3endtOFhmTS0wYl90WDI4a1E3M0tmejFxSDNxQ1hMVGs2LTlDM1F2Skk0bWxSZDZram80SUJpVGtQcGdFdw?oc=5",
+      "source": "CNBC",
+      "publishedAt": "Wed, 05 Nov 2025 08:00:00 GMT",
+      "snippet": "Taser maker Axon plunges 9% after earnings fall short due to tariff hit&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "Axon Enterprise Inc. initially rose about 1% at the start of U.S. trading, then fell nearly 5%, currently showing a V-shaped trend. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KOTlET2JkM290Wk55SGVnN3NZNXRBWWFUeUdwTTlIU3pWRV9GanQ4WTRLVlZaeHVzMWEtZG5uNV9SZXFjeE5sc0Mxb1c3YzBkVkdmQ2JQV1BMNlRjeHfSAWNBVV95cUxPYXhFS19tR3RUTWh6WjF6YUlqNUlhcmJySmFPUDc5ZEJHWVNBdTNBWFZveWlQZEc2dkM0Zi1kVjdBbVR2OEkycnBpdDQ1S3VXMGxWVUNkeXBhNEZNT2NldEJSTms?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 18 Jun 2026 06:44:45 GMT",
+      "snippet": "Axon Enterprise Inc. initially rose about 1% at the start of U.S. trading, then fell nearly 5%, currently showing a V-shaped trend.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "AxonDAO Governance Token price today, AXON to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lZVdiUVpqTWZaZllxNS1UVzUyUmlkMU9yMkQtSkFMSnUxbHVLaGRfbnFCVDR3VDg1eEZnZGZzb1dMM1NWZnVVdENmTQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 20 Feb 2026 21:04:08 GMT",
+      "snippet": "AxonDAO Governance Token price today, AXON to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=AXON: Throttled\n"
+  ]
+}
