@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-06-28T05:32:22.473Z",
+  "updatedAt": "2026-06-28T05:47:13.163Z",
   "results": [
+    {
+      "token": "ARC",
+      "requestedInput": "ARC",
+      "name": "ARC",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T05:47:02.411Z",
+      "latestPath": "data/results/ARC-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T05:47:00.973Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "SOON",
+      "requestedInput": "SOON",
+      "name": "SOON",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T05:47:01.658Z",
+      "latestPath": "data/results/SOON-latest.json"
+    },
+    {
+      "token": "STABLE",
+      "requestedInput": "STABLE",
+      "name": "Stable",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T05:46:59.782Z",
+      "latestPath": "data/results/STABLE-latest.json"
+    },
+    {
+      "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
+      "requestedInput": "ICNT",
+      "name": "ICNT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T05:47:05.700Z",
+      "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
+    },
+    {
+      "token": "LAB",
+      "requestedInput": "LAB",
+      "name": "LAB",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T05:47:11.464Z",
+      "latestPath": "data/results/LAB-latest.json"
+    },
+    {
+      "token": "EUL",
+      "requestedInput": "EUL",
+      "name": "Euler",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T05:47:13.161Z",
+      "latestPath": "data/results/EUL-latest.json"
+    },
     {
       "token": "TAC",
       "requestedInput": "TAC",
@@ -10,16 +80,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T05:32:06.703Z",
       "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T05:32:06.574Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "DYDX",
@@ -940,66 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-28T00:32:21.105Z",
       "latestPath": "data/results/SYRUP-latest.json"
-    },
-    {
-      "token": "ORCA",
-      "requestedInput": "ORCA",
-      "name": "Orca",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T00:16:57.136Z",
-      "latestPath": "data/results/ORCA-latest.json"
-    },
-    {
-      "token": "IN",
-      "requestedInput": "IN",
-      "name": "INFINIT",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T00:16:52.035Z",
-      "latestPath": "data/results/IN-latest.json"
-    },
-    {
-      "token": "HOT",
-      "requestedInput": "HOT",
-      "name": "Holo",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T00:16:51.571Z",
-      "latestPath": "data/results/HOT-latest.json"
-    },
-    {
-      "token": "CC",
-      "requestedInput": "CC",
-      "name": "CC",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T00:16:59.905Z",
-      "latestPath": "data/results/CC-latest.json"
-    },
-    {
-      "token": "CARV",
-      "requestedInput": "CARV",
-      "name": "CARV",
-      "score": 15,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T00:17:02.012Z",
-      "latestPath": "data/results/CARV-latest.json"
-    },
-    {
-      "token": "GRASS",
-      "requestedInput": "GRASS",
-      "name": "Grass",
-      "score": 35,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T00:02:09.707Z",
-      "latestPath": "data/results/GRASS-latest.json"
     }
   ]
 }
