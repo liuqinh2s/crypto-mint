@@ -1,0 +1,332 @@
+{
+  "token": "TOSHI",
+  "requestedInput": "TOSHI",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T12:32:30.776Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TOSHI",
+    "name": "Toshi",
+    "generatedAt": "2026-06-28T12:32:22.174Z",
+    "summary": "TOSHI是Base链上的猫主题Meme币，24小时涨幅约18%，市值约5446万美元，流动性充足。近期无重大利好新闻，上涨可能由市场情绪或短期资金推动。基本面薄弱，无实际应用，风险较高。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现实质性利好（如CEX上线、生态合作）可重新评估，否则持续回避。"
+    },
+    "catalysts": [
+      "Meme币市场情绪回暖",
+      "Base链生态热度",
+      "社区活跃度较高（8.91万关注）"
+    ],
+    "latestNews": [
+      {
+        "title": "Why is TOSHI memecoin likely to continue its rally? - FXStreet",
+        "impact": "中性",
+        "reason": "分析文章，无新信息，仅提供观点。"
+      },
+      {
+        "title": "TOSHI Price Analysis: Exploring Meme Coin Volatility and Ecosystem Growth - OKX",
+        "impact": "中性",
+        "reason": "交易所分析，无实质催化。"
+      },
+      {
+        "title": "Toshi (TOSHI) - Binance.US Listing - 07 Aug 2025 - TradingView",
+        "impact": "利好",
+        "reason": "曾于2025年8月上线Binance.US，但已过去近一年，影响消退。"
+      }
+    ],
+    "fundamentals": [
+      "Base链上的猫主题Meme币，无实际用例。",
+      "总供应量4206.9亿枚，已全部流通，无解锁压力。",
+      "市值约5446万美元，流动性约5304万美元（PancakeSwap TOSHI/VIRTUAL池）。",
+      "社区关注度较高（8.91万用户），但价格距历史高点跌超94%。"
+    ],
+    "marketRead": [
+      "24小时涨幅约18%，但7日涨幅仅2.6%，30日跌幅13.2%，短期反弹但中期疲软。",
+      "成交量约1361万美元，流动性充足，但DEX交易深度一般。",
+      "价格远低于ATH，可能吸引抄底资金，但缺乏持续上涨动力。"
+    ],
+    "risks": [
+      "Meme币高度投机，无基本面支撑。",
+      "价格波动剧烈，历史最大回撤超94%。",
+      "新闻多为旧闻或预测，缺乏近期实质催化。",
+      "DEX交易，存在合约风险（但流动性池较大）。"
+    ],
+    "watchlist": [
+      "是否有新CEX上线公告",
+      "Base链整体活跃度",
+      "TOSHI官方社交媒体动态",
+      "大户持仓变化"
+    ],
+    "sourceNotes": [
+      "数据来源：CoinGecko、DexScreener、Google News。",
+      "新闻时效性较差，多为2025年内容。",
+      "市场数据截至2026-06-28，可能已变化。"
+    ]
+  },
+  "profile": {
+    "id": "toshi",
+    "symbol": "TOSHI",
+    "name": "Toshi",
+    "categories": [
+      "BNB Chain Ecosystem",
+      "Launchpad",
+      "Meme",
+      "Base Ecosystem",
+      "Cat-Themed",
+      "Base Meme",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://www.toshithecat.com/"
+    ],
+    "description": "",
+    "marketCapRank": 414,
+    "currentPriceUsd": 0.00012948,
+    "marketCapUsd": 54463953,
+    "fullyDilutedValuationUsd": 54463953,
+    "totalVolumeUsd": 13617067,
+    "priceChange24hPct": 17.95309,
+    "priceChange7dPct": 2.64832,
+    "priceChange14dPct": -2.11155,
+    "priceChange30dPct": -13.20035,
+    "athUsd": 0.00226012,
+    "athChangePct": -94.45282,
+    "circulatingSupply": 420690000000,
+    "totalSupply": 420690000000,
+    "maxSupply": 420690000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 89100,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "TOSHI/VIRTUAL",
+    "chainId": "base",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xCDBA300Fffb66499339182339d2CBc19313580DB",
+    "pairUrl": "https://dexscreener.com/base/0xcdba300fffb66499339182339d2cbc19313580db",
+    "lastPrice": 53038.72,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 53038723.98,
+    "fullyDilutedValuationUsd": null,
+    "marketCapUsd": null,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "base",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/base/0xcdba300fffb66499339182339d2cbc19313580db",
+    "pairAddress": "0xCDBA300Fffb66499339182339d2CBc19313580DB",
+    "baseToken": {
+      "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+      "name": "Toshi",
+      "symbol": "TOSHI"
+    },
+    "quoteToken": {
+      "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+      "name": "Virtual Protocol",
+      "symbol": "VIRTUAL"
+    },
+    "priceNative": "100009.8900",
+    "priceUsd": "53038.72",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 53038723.98,
+      "base": 1000.000009998,
+      "quote": 0.0000104
+    },
+    "pairCreatedAt": 1761992771000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/81335196ed123df49cf07f60a69d9101630ca6a150edf22130bd46542e60bdca?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/9ea4b6e246d0e161aadc4d976258c7d85765f7cfec696134c720108205427a40?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4?timestamp=1782649800000",
+      "websites": [
+        {
+          "url": "https://www.toshithecat.com/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/Toshi",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/toshibase",
+          "type": "telegram"
+        },
+        {
+          "url": "https://www.tiktok.com/@toshionbase?lang=en",
+          "type": "tiktok"
+        },
+        {
+          "url": "https://www.instagram.com/toshionbase/",
+          "type": "instagram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Convert TOSHI to AWG | TOSHI/AWG Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94RFI5MHJTQTVwRmw0Z05reDRwRTNQUzdhZUlza3JIZjVjcnJqVm5nZmFFZGE5QkhMRXFtQzRiTy0xeFJ5eXlad29IVXpMY1kyV2RSVw?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Fri, 26 Jun 2026 09:00:57 GMT",
+      "snippet": "Convert TOSHI to AWG | TOSHI/AWG Conversion Calculator&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Toshi (TOSHI) Crypto Price Prediction 2025–2030: Latest News, Analysis & How to Buy - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1JSaDlBY2cyR3paV2NoQTEwcEtURDNLRmtfUXJEeFFzbExNNmZ6RzdILVNxNWp0clZPRUs4Tkx4RVplbkg4UEVSdlhGWXJkczdJRDVrZTU4N3l6MkJzekdLTGgxSno2Q1RzWVpMcUVVQm1pS1dvcThNYVNMR2pfMkJ5Q2Mtb21lVFpkYjBtWkllNkE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 20 Sep 2025 07:00:00 GMT",
+      "snippet": "Toshi (TOSHI) Crypto Price Prediction 2025–2030: Latest News, Analysis & How to Buy&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Toshi Price Today in Australia | TOSHI to AUD Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHVzRpUTNMM1FpNXVnMjhLMTktbG9Ga1VpU3ctdllkSUpuLUJ6NXBMWkRGWm5DcUxkdUtSeWk0aUR6MkxXRVhad0Z1NXJJd0RydjJEN083R0lLdlk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 20 Jun 2026 16:34:00 GMT",
+      "snippet": "Toshi Price Today in Australia | TOSHI to AUD Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Toshi Price Prediction: Will TOSHI Coin Reach $1? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhWEZoWnFOeFFwQjYzcnlBU3M5WXA1OFVST3VDVmdfVWY0Z0VZeHB2YmhLaWc5WnliLUhGNmdiem54dGJSSWNKajhuVWstVF8zd0M3QnVwNDkxcUlCN2J1cmVUOGZFSVZ1LV9pMTZuYWhFQmFJM3hmMlp1VHB0Zw?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Wed, 13 Aug 2025 07:00:00 GMT",
+      "snippet": "Toshi Price Prediction: Will TOSHI Coin Reach $1?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Toshi Price Prediction 2025-2030: Will TOSHI Price Reach $0.002 in 2025? - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sOFFtenBmXzVfRXZrdnVvb0I5WlhQcGl1Qy1kc05SUzRVN1BaZHVuVUhGZmZIY1ZqTVB1clpaeF9JaklTZWNIc2UzRU1hZTdwLVdRdHpsZzNVYUJTQ3Fwdjg3UU1KMnBnallnY25yeDhKcnAt?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Thu, 18 Sep 2025 07:00:00 GMT",
+      "snippet": "Toshi Price Prediction 2025-2030: Will TOSHI Price Reach $0.002 in 2025?&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Why is TOSHI memecoin likely to continue its rally? - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPXzg5Q0lTblotcmNjU0dsdnlFc3o5UUFjNHRtbVBLV1ZBNnB2am84ZURTNHVrX2xkRDE1WmxsNk0zLTdCQUNkSXRvNW1UOTRjWXNzZ0JWM3A0UmlVS1BVck5tSVJGX0RaYllQZmVmVUtSRHg3bVE5UVcyOUpWbDExdTdua3dTdl85Q3NINzFsVDd4cUJ2YmRIRUc1cFRuM2R2TTBOMDVCNzhKaDFZeDhlQVJVTWU0TEhvVndlc3VMQXB6eGlCNWFwZkgxdU5LNWVD0gHWAUFVX3lxTE1BdEhwS21qWmVxamctZkVhWW0tczAtWlJIRjF4TEVwVkJjSEU2VlFpc0JKZ3c4LURZbTdmY052TFVzYVRmSjdKd2ZSdW9mRnIwQVFWSXRrdEhjbU9iVTQ0RmZMeVRmY3BWTU82OHplbVVLMzRQVlNLRkt4NUZfOEhLT0o0a3JKdDRTVWw4eW1Ralp1NDY5d0I0NzdlOGZrRWZNRXJfTklQZzRDcGpvS1Z1RGpSNWpaNkNvakxJNmZQc3BQelVKQ2UyeFhLZkpUN2tmQi1tUVE?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "Wed, 10 Sep 2025 07:00:00 GMT",
+      "snippet": "Why is TOSHI memecoin likely to continue its rally?&nbsp;&nbsp;FXStreet"
+    },
+    {
+      "title": "TOSHI Price Analysis: Exploring Meme Coin Volatility and Ecosystem Growth - OKX",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nRm1wR2FKOGlMOUNieEkzWEFpQkFsdUp0YXVOVXA0dFhkdVR1U1hnSGsyV2k5b0tTOTNXdVJIWTRvVllydDViSkhHYXFsMkVPSlFmVjFaellPaVVNNTFmeWR5UTU3UkJMNGtmenhPcnhoellRLVp1Yg?oc=5",
+      "source": "OKX",
+      "publishedAt": "Sun, 14 Sep 2025 07:00:00 GMT",
+      "snippet": "TOSHI Price Analysis: Exploring Meme Coin Volatility and Ecosystem Growth&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Toshi (TOSHI) - Binance.US Listing - 07 Aug 2025 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVc3ZDlyRVZfT3JIUHNPMjhzTGFJbzVXc25HbHlGSmhoUUJzNmRkOXB4WkVZSGM4UzVkbVc1NHNhdjRPamtzU21lMV9aRms3VkJrYTRsM053QkJsZGxvSDRiYmZpY25iSHlfYm9WT04yWGsxMkh5UXdDVkdLMGZXRGRNNTNSdTlubjE3UlZtSjJxTk96NjRIdGFCcmVIcUNYVGw0MUNmcjFJdw?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "snippet": "Toshi (TOSHI) - Binance.US Listing - 07 Aug 2025&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "What is Toshi (TOSHI)? A Comprehensive Guide to the Meme Coin - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4T3lzMlktQ21GbmpHckJOQ2ZfNUVPZ2FhWlF4T2tsdGhSZXZ4bEtDVlFoZWp1cGJVaWgtT2t5eXJCSDk5eUdXZjRGOWtVZ2tjeE9WN3JReWxCNVdNWHdNczEtSWfSAWpBVV95cUxNbWdmZi1fNjU4cjJsVXdEZEQwME1rMVNQdVIyaWh5VW1rLUpEeEc2Uko5Y1U5RERaTWFxb3Znd0djWG1zUkdIWXBNU2NkUm1WZnF3QlJ0c3daNHRqS01ZRTY2TnVUeG4tWWpR?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 11 May 2025 07:00:00 GMT",
+      "snippet": "What is Toshi (TOSHI)? A Comprehensive Guide to the Meme Coin&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "How can I buy Toshi: Thorough Crypto Primer - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhQUtSRGg1RU5VczhUM210SEdkZ254Z0p2ZUdQVGF1QW8wc01rUkRULWZNeXo1cXFfMjg1MTM5YXotd2FOS09xT2JmdDN3djJJNDcwcE51ekVwakZfazFPRHRaMTNDaG9CUWxYNUF1MGNtdw?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 17 Jun 2026 03:27:15 GMT",
+      "snippet": "How can I buy Toshi: Thorough Crypto Primer&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Toshi How-To: How can I purchase Toshi Online - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91RzdtaE5CdGJBUHFyODhWODludW40cy1FcThMNTJ5cllKN2l0UGs3QmtuVmx3ZUd2b3E0bkl0Z054am9oTDFyNVUxZmtfb0dOdnZSSXg4c19SenpPdno0SDQ2T05VQlhCclBtZkNoUHVBYU1TVkE?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Tue, 16 Jun 2026 15:26:25 GMT",
+      "snippet": "Toshi How-To: How can I purchase Toshi Online&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "TOSHI vs DOGE: Who Will Win Your Heart in the Meme Coin Race? - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NT2lhZmc4NzNaMkhfbkhsQW5JaXczWFZVcW0wVTVpbUludnhGNXE4NWJuVkVjdzZhdWE0cVNhU2x4alVDMHBBcnRnYXp3T2NiR1VjQTVQRE9CMnpzbG9rXzY5cDJXUnU4WG15STJlQUFwbVZkYUpF?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "snippet": "TOSHI vs DOGE: Who Will Win Your Heart in the Meme Coin Race?&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Toshi Guide: How to easily purchase Toshi Virtually - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1WVNCcjNadWNWQ0wybk1xNFRXeXQwaTFsbDZHTFc5X0w4LWY1UWNZNV9adU1VbDZrYlR6M2YzVE16a1JUblZEMW42UXhjNjRMMnU2aTR2R0dOOTJwUmI2a1pZZ092QVJ2SWNmTzZuZ2ZFSzZhUlFoWF82TjFIZw?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Fri, 12 Jun 2026 09:55:07 GMT",
+      "snippet": "Toshi Guide: How to easily purchase Toshi Virtually&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Breaking News: Toshi.bet Launches Its Own Token – Set to Revolutionize Crypto Gaming - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHRhc0htMlJvNTlDYS0wTVRfYjg5NmRuZ3ByN3I2YlF2bXo5UFJocFRxdXlEX0RRSVJaelNDZE1BRjhuTmNMVG9FNjZNNE16M3dTOXZ1ZWlmSGQzTkRueXZVbjFkWGFEblBlMVFXQzlPY1JfVEZwNmhFRzV4VXNXd2hPemxYZ9IBiwFBVV95cUxOamI3NXY5cElGbkUtTTdhZXhiSmlBNmVpNE1vaWphemh6RXNWZll6ZW9GSUg1MEl6QkJ6bWFDWEY2c0VDX0VUc3BYdFhBU0FlNmJWV2p2RHlaWmk3SXBGRjczVy1WQWxNanRnOGhnSmg4b3RvcnVYVFhRcjlGM3prLU0zOXVhSkU4Y29F?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Tue, 25 Feb 2025 08:00:00 GMT",
+      "snippet": "Breaking News: Toshi.bet Launches Its Own Token – Set to Revolutionize Crypto Gaming&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "How can I purchase Toshi with Prepaid Card: Full Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWt3ZDdGemdyU3dsZGt2dWxZNnQxc0xhc3dWOWNJVG1uVWM3Q180QWlHa0gxdE5KNVZuZ21pOUN6andIcWhWd2RwMDY3a3pvODl1U3hxTGpvb3MxOHFMSm1KNTliRXpqY1BKM0VMTWM5d3lWcnF1Y3VId0Z4R1BLUw?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Tue, 09 Jun 2026 05:31:04 GMT",
+      "snippet": "How can I purchase Toshi with Prepaid Card: Full Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Toshi (TOSHI) Price Prediction 2025-2030: Will TOSHI Price Hit $2 Soon? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SQllSWERmS2o4eEh0LUVsUUE5WEJMM1d5ejlBT3RNOHBQX0tsWC1lc0lqblZlcEprMDEwQ1FsV1dLS0N5ZlhXaEk5WV90RGhyb2lPV1c5RmV3RWphT1E?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 09 Feb 2025 08:00:00 GMT",
+      "snippet": "Toshi (TOSHI) Price Prediction 2025-2030: Will TOSHI Price Hit $2 Soon?&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
