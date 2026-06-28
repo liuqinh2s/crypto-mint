@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T18:50:58.574Z",
+  "updatedAt": "2026-06-28T19:02:56.601Z",
   "results": [
     {
       "token": "VELO",
@@ -8,8 +8,18 @@
       "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T18:50:57.481Z",
+      "generatedAt": "2026-06-28T19:02:56.243Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "SYRUP",
+      "requestedInput": "SYRUP",
+      "name": "Maple Finance",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T19:02:56.599Z",
+      "latestPath": "data/results/SYRUP-latest.json"
     },
     {
       "token": "JTO",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T15:33:20.110Z",
       "latestPath": "data/results/MU-latest.json"
-    },
-    {
-      "token": "CLANKER",
-      "requestedInput": "CLANKER",
-      "name": "tokenbot",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:33:15.431Z",
-      "latestPath": "data/results/CLANKER-latest.json"
     }
   ]
 }
