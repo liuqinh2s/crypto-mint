@@ -1,6 +1,146 @@
 {
-  "updatedAt": "2026-06-28T08:33:11.906Z",
+  "updatedAt": "2026-06-28T08:48:09.309Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:47:48.743Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "GME",
+      "requestedInput": "GME",
+      "name": "GME",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:47:47.139Z",
+      "latestPath": "data/results/GME-latest.json"
+    },
+    {
+      "token": "CFG",
+      "requestedInput": "CFG",
+      "name": "Centrifuge",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T08:47:49.917Z",
+      "latestPath": "data/results/CFG-latest.json"
+    },
+    {
+      "token": "EWJ",
+      "requestedInput": "EWJ",
+      "name": "iShares MSCI Japan ETF",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T08:47:47.724Z",
+      "latestPath": "data/results/EWJ-latest.json"
+    },
+    {
+      "token": "XAN",
+      "requestedInput": "XAN",
+      "name": "XAN",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:47:54.829Z",
+      "latestPath": "data/results/XAN-latest.json"
+    },
+    {
+      "token": "MET",
+      "requestedInput": "MET",
+      "name": "Meteora",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:47:59.718Z",
+      "latestPath": "data/results/MET-latest.json"
+    },
+    {
+      "token": "BRKB",
+      "requestedInput": "BRKB",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:47:52.010Z",
+      "latestPath": "data/results/BRKB-latest.json"
+    },
+    {
+      "token": "DRAM",
+      "requestedInput": "DRAM",
+      "name": "DRAM",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:47:57.069Z",
+      "latestPath": "data/results/DRAM-latest.json"
+    },
+    {
+      "token": "TRB",
+      "requestedInput": "TRB",
+      "name": "TRB",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:47:58.575Z",
+      "latestPath": "data/results/TRB-latest.json"
+    },
+    {
+      "token": "CAKE",
+      "requestedInput": "CAKE",
+      "name": "CAKE",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:48:02.623Z",
+      "latestPath": "data/results/CAKE-latest.json"
+    },
+    {
+      "token": "SAPM",
+      "requestedInput": "SAMSUNG",
+      "name": "Samsung Phone Ai Mirror⚡",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:48:01.009Z",
+      "latestPath": "data/results/SAPM-latest.json"
+    },
+    {
+      "token": "CELO",
+      "requestedInput": "CELO",
+      "name": "Celo",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:48:07.666Z",
+      "latestPath": "data/results/CELO-latest.json"
+    },
+    {
+      "token": "W",
+      "requestedInput": "W",
+      "name": "Wormhole",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T08:48:05.994Z",
+      "latestPath": "data/results/W-latest.json"
+    },
+    {
+      "token": "MANTA",
+      "requestedInput": "MANTA",
+      "name": "Manta Network",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T08:48:09.307Z",
+      "latestPath": "data/results/MANTA-latest.json"
+    },
     {
       "token": "XPIN",
       "requestedInput": "XPIN",
@@ -30,16 +170,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T08:32:50.089Z",
       "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T08:32:54.447Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "MOODENG",
@@ -320,16 +450,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T07:47:52.992Z",
       "latestPath": "data/results/AERO-latest.json"
-    },
-    {
-      "token": "SAPM",
-      "requestedInput": "SAMSUNG",
-      "name": "Samsung Phone Ai Mirror⚡",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T07:47:52.014Z",
-      "latestPath": "data/results/SAPM-latest.json"
     },
     {
       "token": "TRADOOR",
@@ -880,126 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T05:17:11.247Z",
       "latestPath": "data/results/XPL-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T05:17:14.356Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
-      "token": "MAGMA",
-      "requestedInput": "MAGMA",
-      "name": "Magma Token",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T05:17:14.850Z",
-      "latestPath": "data/results/MAGMA-latest.json"
-    },
-    {
-      "token": "TNSR",
-      "requestedInput": "TNSR",
-      "name": "Tensor",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T04:47:15.733Z",
-      "latestPath": "data/results/TNSR-latest.json"
-    },
-    {
-      "token": "HIVE",
-      "requestedInput": "HIVE",
-      "name": "HIVE",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T04:47:18.436Z",
-      "latestPath": "data/results/HIVE-latest.json"
-    },
-    {
-      "token": "ACT",
-      "requestedInput": "ACT",
-      "name": "Act I The AI Prophecy",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T04:47:15.039Z",
-      "latestPath": "data/results/ACT-latest.json"
-    },
-    {
-      "token": "SNOW",
-      "requestedInput": "SNOW",
-      "name": "Snow",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T04:47:22.976Z",
-      "latestPath": "data/results/SNOW-latest.json"
-    },
-    {
-      "token": "WET",
-      "requestedInput": "WET",
-      "name": "HumidiFi",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T04:47:27.451Z",
-      "latestPath": "data/results/WET-latest.json"
-    },
-    {
-      "token": "RESOLV",
-      "requestedInput": "RESOLV",
-      "name": "Resolv",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T04:47:27.851Z",
-      "latestPath": "data/results/RESOLV-latest.json"
-    },
-    {
-      "token": "MEME",
-      "requestedInput": "MEME",
-      "name": "MEME",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T04:47:37.232Z",
-      "latestPath": "data/results/MEME-latest.json"
-    },
-    {
-      "token": "VELVET",
-      "requestedInput": "VELVET",
-      "name": "Velvet",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T04:47:41.572Z",
-      "latestPath": "data/results/VELVET-latest.json"
-    },
-    {
-      "token": "SLX",
-      "requestedInput": "SLX",
-      "name": "Solstice",
-      "score": 35,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T04:16:52.434Z",
-      "latestPath": "data/results/SLX-latest.json"
-    },
-    {
-      "token": "TSM",
-      "requestedInput": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T04:16:52.819Z",
-      "latestPath": "data/results/TSM-latest.json"
     }
   ]
 }
