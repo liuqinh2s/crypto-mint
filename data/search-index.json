@@ -1,64 +1,54 @@
 {
-  "updatedAt": "2026-06-28T07:17:50.352Z",
+  "updatedAt": "2026-06-28T07:32:38.854Z",
   "results": [
-    {
-      "token": "TIAN",
-      "requestedInput": "TIA",
-      "name": "TIA",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T07:17:37.521Z",
-      "latestPath": "data/results/TIAN-latest.json"
-    },
     {
       "token": "TRADOOR",
       "requestedInput": "TRADOOR",
       "name": "Tradoor",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T07:17:39.782Z",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T07:32:26.945Z",
       "latestPath": "data/results/TRADOOR-latest.json"
     },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
+      "name": "Velodrome Finance",
+      "score": 35,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T07:17:38.625Z",
+      "action": "观察",
+      "generatedAt": "2026-06-28T07:32:25.500Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "JUP",
       "requestedInput": "JUP",
-      "name": "Jupiter",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "观察",
-      "generatedAt": "2026-06-28T07:17:39.921Z",
+      "name": "JUP",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T07:32:26.424Z",
       "latestPath": "data/results/JUP-latest.json"
     },
     {
       "token": "ID",
       "requestedInput": "ID",
       "name": "SPACE ID",
-      "score": 25,
+      "score": 20,
       "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T07:17:45.507Z",
+      "action": "不买",
+      "generatedAt": "2026-06-28T07:32:26.625Z",
       "latestPath": "data/results/ID-latest.json"
     },
     {
       "token": "SYN",
       "requestedInput": "SYN",
       "name": "Synapse",
-      "score": 25,
-      "label": "观望",
+      "score": 15,
+      "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T07:17:46.403Z",
+      "generatedAt": "2026-06-28T07:32:35.655Z",
       "latestPath": "data/results/SYN-latest.json"
     },
     {
@@ -68,18 +58,28 @@
       "score": 25,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-28T07:17:47.111Z",
+      "generatedAt": "2026-06-28T07:32:35.918Z",
       "latestPath": "data/results/ACU-latest.json"
     },
     {
       "token": "UAI",
       "requestedInput": "UAI",
       "name": "UnifAI Network",
-      "score": 20,
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T07:17:50.350Z",
+      "generatedAt": "2026-06-28T07:32:38.853Z",
       "latestPath": "data/results/UAI-latest.json"
+    },
+    {
+      "token": "TIAN",
+      "requestedInput": "TIA",
+      "name": "TIA",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T07:17:37.521Z",
+      "latestPath": "data/results/TIAN-latest.json"
     },
     {
       "token": "POWR",
