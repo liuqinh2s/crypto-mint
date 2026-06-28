@@ -1,15 +1,105 @@
 {
-  "updatedAt": "2026-06-28T03:47:02.258Z",
+  "updatedAt": "2026-06-28T04:02:23.622Z",
   "results": [
+    {
+      "token": "TIAN",
+      "requestedInput": "TIA",
+      "name": "TIA",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:02:08.227Z",
+      "latestPath": "data/results/TIAN-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 35,
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:02:08.017Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "HOLO",
+      "requestedInput": "HOLO",
+      "name": "holo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:02:08.348Z",
+      "latestPath": "data/results/HOLO-latest.json"
+    },
+    {
+      "token": "EWJ",
+      "requestedInput": "EWJ",
+      "name": "未知（疑似ETF代币化合约）",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:02:07.767Z",
+      "latestPath": "data/results/EWJ-latest.json"
+    },
+    {
+      "token": "XAN",
+      "requestedInput": "XAN",
+      "name": "Anoma",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:02:18.062Z",
+      "latestPath": "data/results/XAN-latest.json"
+    },
+    {
+      "token": "MET",
+      "requestedInput": "MET",
+      "name": "Meteora",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T04:02:17.882Z",
+      "latestPath": "data/results/MET-latest.json"
+    },
+    {
+      "token": "BRKB",
+      "requestedInput": "BRKB",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:02:11.649Z",
+      "latestPath": "data/results/BRKB-latest.json"
+    },
+    {
+      "token": "TRB",
+      "requestedInput": "TRB",
+      "name": "Tellor Tributes",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:02:14.455Z",
+      "latestPath": "data/results/TRB-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T04:02:19.314Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "SIGN",
+      "requestedInput": "SIGN",
+      "name": "Sign",
+      "score": 25,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T03:46:54.289Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-28T04:02:23.620Z",
+      "latestPath": "data/results/SIGN-latest.json"
     },
     {
       "token": "TUT",
@@ -60,16 +150,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T03:46:59.885Z",
       "latestPath": "data/results/SQQQ-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T03:47:02.256Z",
-      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "XPIN",
@@ -920,86 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-27T22:17:23.500Z",
       "latestPath": "data/results/AGLD-latest.json"
-    },
-    {
-      "token": "CELO",
-      "requestedInput": "CELO",
-      "name": "Celo",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T22:17:22.331Z",
-      "latestPath": "data/results/CELO-latest.json"
-    },
-    {
-      "token": "W",
-      "requestedInput": "W",
-      "name": "Wormhole",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T22:17:29.221Z",
-      "latestPath": "data/results/W-latest.json"
-    },
-    {
-      "token": "MANTA",
-      "requestedInput": "MANTA",
-      "name": "Manta",
-      "score": 15,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T22:17:34.741Z",
-      "latestPath": "data/results/MANTA-latest.json"
-    },
-    {
-      "token": "SLX",
-      "requestedInput": "SLX",
-      "name": "Solstice",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-27T22:02:13.008Z",
-      "latestPath": "data/results/SLX-latest.json"
-    },
-    {
-      "token": "TSM",
-      "requestedInput": "TSM",
-      "name": "Tusima Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T22:02:11.327Z",
-      "latestPath": "data/results/TSM-latest.json"
-    },
-    {
-      "token": "GME",
-      "requestedInput": "GME",
-      "name": "GameStop",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T22:02:17.359Z",
-      "latestPath": "data/results/GME-latest.json"
-    },
-    {
-      "token": "CFG",
-      "requestedInput": "CFG",
-      "name": "Centrifuge",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T22:02:21.032Z",
-      "latestPath": "data/results/CFG-latest.json"
-    },
-    {
-      "token": "ETN",
-      "requestedInput": "ETN",
-      "name": "Electroneum",
-      "score": 15,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T22:02:24.914Z",
-      "latestPath": "data/results/ETN-latest.json"
     }
   ]
 }
