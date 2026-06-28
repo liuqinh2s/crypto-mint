@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-28T19:02:56.601Z",
+  "updatedAt": "2026-06-28T19:17:48.456Z",
   "results": [
+    {
+      "token": "ELSA",
+      "requestedInput": "ELSA",
+      "name": "Elsa",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T19:17:48.454Z",
+      "latestPath": "data/results/ELSA-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
@@ -8,7 +18,7 @@
       "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T19:02:56.243Z",
+      "generatedAt": "2026-06-28T19:17:46.274Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T15:33:14.846Z",
       "latestPath": "data/results/BASED-latest.json"
-    },
-    {
-      "token": "MU",
-      "requestedInput": "MU",
-      "name": "Mu",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:33:20.110Z",
-      "latestPath": "data/results/MU-latest.json"
     }
   ]
 }

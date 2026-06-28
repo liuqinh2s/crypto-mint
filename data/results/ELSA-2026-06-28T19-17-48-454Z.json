@@ -1,0 +1,295 @@
+{
+  "token": "ELSA",
+  "requestedInput": "ELSA",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T19:17:48.454Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ELSA",
+    "name": "Elsa",
+    "generatedAt": "2026-06-28T19:17:39.251Z",
+    "summary": "ELSA近期因Bithumb、Coinbase等交易所上线及Binance期货合约推出而获得关注，但价格自ATH下跌89%，30日跌幅31%，当前市值约991万美元，流动性充足。项目为AI驱动的链上执行平台，基本面扎实，但代币全稀释估值较高，且近期无重大新催化，短期上涨动力不足。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若出现新的交易所上线或产品重大更新，可重新评估。"
+    },
+    "catalysts": [
+      "Bithumb上线KRW交易对（2026年1月）",
+      "Coinbase上线（2026年1月）",
+      "Binance期货合约上线（2026年1月）",
+      "AI叙事热度"
+    ],
+    "latestNews": [
+      {
+        "title": "Bithumb Listing SENT and ELSA for KRW Trading Sparks Market Excitement",
+        "impact": "利好",
+        "reason": "韩国头部交易所上线提供法币交易对，增加流动性和曝光度。"
+      },
+      {
+        "title": "Coinbase ELSA Listing: Strategic Expansion Unlocks New Trading Opportunities",
+        "impact": "利好",
+        "reason": "Coinbase上线提升项目可信度和用户基础。"
+      },
+      {
+        "title": "Binance Futures Will Launch USDⓈ-Margined ELSAUSDT Perpetual Contract",
+        "impact": "利好",
+        "reason": "衍生品上线增加交易工具和投机需求。"
+      },
+      {
+        "title": "HeyElsa Drama Finally Over: Airdrop Settled, Biconomy Listing Live",
+        "impact": "中性",
+        "reason": "空投纠纷解决，但市场已消化。"
+      }
+    ],
+    "fundamentals": [
+      "HeyElsa是AI驱动的链上执行平台，支持自然语言交互执行DeFi操作。",
+      "项目覆盖Mantle、Base等生态，定位DeFAI赛道。",
+      "代币总供应量10亿，流通量2.29亿，流通率22.9%。",
+      "全稀释估值约4330万美元，当前市值约991万美元。",
+      "项目有Binance Alpha、Coinbase等背书。"
+    ],
+    "marketRead": [
+      "24小时涨幅3.6%，但30日跌幅31%，处于下跌趋势。",
+      "DEX流动性约3374万美元，深度良好。",
+      "成交量约451万美元，相对市值活跃度一般。",
+      "价格自ATH 0.4美元下跌89%，当前0.043美元。"
+    ],
+    "risks": [
+      "代币全稀释估值较高，大量未解锁代币可能带来抛压。",
+      "近期无重大新催化，利好已兑现。",
+      "AI赛道竞争激烈，项目需持续迭代。",
+      "价格处于长期下跌通道，动量偏空。"
+    ],
+    "watchlist": [
+      "是否有新的CEX上线或做市商合作",
+      "产品用户增长数据",
+      "代币解锁时间表",
+      "整体市场情绪和AI板块表现"
+    ],
+    "sourceNotes": [
+      "新闻时间集中在2026年1月，距今已5个月，时效性不足。",
+      "DEX价格与CEX价格可能存在差异，此处使用DEX价格。",
+      "市场数据来自DexScreener，可能不包含所有交易量。"
+    ]
+  },
+  "profile": {
+    "id": "elsa",
+    "symbol": "ELSA",
+    "name": "Elsa",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "Mantle Ecosystem",
+      "Base Ecosystem",
+      "AI Agents",
+      "Binance Alpha Spotlight",
+      "DeFAI",
+      "x402 Ecosystem",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://heyelsa.ai"
+    ],
+    "description": "HeyElsa is an AI-powered on-chain execution platform designed to simplify how users and applications interact with crypto and decentralized finance. The platform converts user intent, expressed through natural language or structured inputs, into deterministic on-chain actions such as swaps, bridging, staking, yield optimization, and automated portfolio execution across multiple blockchain networks and protocols. HeyElsa operates through both a consumer-facing AI Copilot and a business-to-business infrastructure offering, including widgets, SDKs, and agent execution APIs that can be embedded into wallets and applications. The core purpose of the project is to abstract fragmented DeFi interfaces and execution complexity, while maintaining transparency, security, and user control. HeyElsa focuses on real usage, automation, and reliable execution rather than speculative features, aiming to make crypto transactions seamless and operationally efficient.",
+    "marketCapRank": 1152,
+    "currentPriceUsd": 0.04330223,
+    "marketCapUsd": 9916008,
+    "fullyDilutedValuationUsd": 43305127,
+    "totalVolumeUsd": 4509015,
+    "priceChange24hPct": 3.59727,
+    "priceChange7dPct": 0.43225,
+    "priceChange14dPct": -6.40677,
+    "priceChange30dPct": -31.05597,
+    "athUsd": 0.400424,
+    "athChangePct": -89.30167,
+    "circulatingSupply": 228980000,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 1005,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "ELSA/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0xae1124Ecb153265BD295F54BBC567cb6CB002ED0",
+    "pairUrl": "https://dexscreener.com/ethereum/0xae1124ecb153265bd295f54bbc567cb6cb002ed0",
+    "lastPrice": 0.06749,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.01,
+    "liquidityUsd": 33747089.03,
+    "fullyDilutedValuationUsd": 67494178,
+    "marketCapUsd": 67494178,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0xae1124ecb153265bd295f54bbc567cb6cb002ed0",
+    "pairAddress": "0xae1124Ecb153265BD295F54BBC567cb6CB002ED0",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0xC0DE6a569b082CD72B08F770E771F0cd9F9B0994",
+      "name": "Elsa",
+      "symbol": "ELSA"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.00004294",
+    "priceUsd": "0.06749",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.01,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 33747089.03,
+      "base": 499999990,
+      "quote": 0.0004158
+    },
+    "fdv": 67494178,
+    "marketCap": 67494178
+  },
+  "news": [
+    {
+      "title": "Elsa Jacquemot vs Naomi Osaka: Set 1 Winner - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaU5odHA1Y2lTVVNaQXVXZk5xY0pnczliVDJpR0lNRHBkOUZ3TFMwTFdGVl9JV2N4SDI4cThZQmZ6Wk9raThxcmJJcFU0TEpfQmdzd2tnWkNwd19qT3h0STYwbGM0b2lYVmlfSm50eVJhcW1pbUUxLXBWMEpFUFo3VUh4MmtLQQ?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Sun, 28 Jun 2026 01:58:17 GMT",
+      "snippet": "Elsa Jacquemot vs Naomi Osaka: Set 1 Winner&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "How to sell HeyElsa (ELSA) via a crypto wallet - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRLU9kTkJmS1B3cjhITkk3VXp0M3JnYlJvbWRJSXVhMHZsM3duVnRKTVpXZnhvRFhLbEp0d2VEUVhmX19lYWh3OFk2RkVaWnltaTNLQVJ5bkFqQTVCc0E?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 26 Jun 2026 00:00:00 GMT",
+      "snippet": "How to sell HeyElsa (ELSA) via a crypto wallet&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Alpha News: ELSA and FIGHT Launch Drive Activity Amid Broader Market Weakness - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNjhTTFg3Z2JGbHJwZDNOY0dUdExaOTVBN2ZZVFVKclRkN0YwamdFNWViMmlWS2theWNQNEotc1JHUko5Qk1LM0VkcVRJNWVNY09mYVh5Z3RLTzRtajlzVm16Z3NBbFhtcEV6S1g2MGE0YjUzaGZMUGZJTjQ4XzVMQVZiVEpxQWlNQlNNM3JFbnVqV1RLUzdpTU9R?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Fri, 23 Jan 2026 08:00:00 GMT",
+      "snippet": "Binance Alpha News: ELSA and FIGHT Launch Drive Activity Amid Broader Market Weakness&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Convert ELSA to FJD | ELSA/FJD Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CMGVZMTgxblpybkswUkNfaHo0LThpT0RaZGVnQkluRVJOS3A3SmJRUW90aXBIVGtleVRkZ0llR2ZVNEhuaUNIcTdla0p0b3J2SmYw?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Fri, 26 Jun 2026 09:00:57 GMT",
+      "snippet": "Convert ELSA to FJD | ELSA/FJD Conversion Calculator&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "HeyElsa Price Today in India | ELSA to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcEFfVzVyOC1RNkNVLXF3WGxGRi1OUVFBZmNvUTVHb282WTZaVGtIS0dNcEMyUS1BbXpZQ3hkejl0RWZrYUpFeTY1eEpubkZQWXNHZEpn?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 25 Jun 2026 06:17:00 GMT",
+      "snippet": "HeyElsa Price Today in India | ELSA to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Coinbase ELSA Listing: Strategic Expansion Unlocks New Trading Opportunities for Digital Asset Investors - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EX08temNvdktseGlvZVlOcWZoejNxLWFNMzgwNWlpU1F0TUtUZm9TSVI3Q1Ntd1JnMVlyTkdUVTc0d2tEem85MHc4YjB0Nk03NmhHd2RaWE1LZzc4N3duRzBfZDVhUDNWclNNMEVIVWtRSWxlWF9tdVNYcGI?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "snippet": "Coinbase ELSA Listing: Strategic Expansion Unlocks New Trading Opportunities for Digital Asset Investors&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Elsa Jacquemot vs Naomi Osaka: Set 2 Winner - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaEpnZnU1SFlybFdVS1gxX0FReEtsOFpLYzAySERrTVQ3UC1fVTFXaFZpVGdCbjdMWTNTVl9DeDIxRkhQUXFabjh6dG9oVnpjVU5INmJ0OGFfbEtBa2hlOWs4dkt0cWRHMmxXRnVIVUhXZWpxbXpJeFJvRmlYZVpqMjFWZzM2QQ?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Sat, 27 Jun 2026 17:24:52 GMT",
+      "snippet": "Elsa Jacquemot vs Naomi Osaka: Set 2 Winner&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Bithumb Listing SENT and ELSA for KRW Trading Sparks Market Excitement - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rRnBkMGt1WFExSHlDZHpCQ29QakdiRFN6SUFSYXZ2WkNMU1pocFNmUEtQVVFWSDRUWUZ6dHVYWnhUMzJzVEkzc2RDcDhEZllTdWZnZkpFU1N5TGxUemZBZ25ST1lFbkx6X0pzVW5xY2RLcXhDNkE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "snippet": "Bithumb Listing SENT and ELSA for KRW Trading Sparks Market Excitement&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "HeyElsa (ELSA) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OT2pIbVFsYl9McGVRMkRrdTZ5ejlSRGdKaUJyN08taUN6RGVGdVRTTmFoTkw2WHlnMWw3RGZPR0FYY3Eybk1kTw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 05 Jun 2025 14:52:56 GMT",
+      "snippet": "HeyElsa (ELSA) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "HeyElsa (ELSA) - All information about HeyElsa ICO (Token Sale) - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ORVBocHl2Vl9sTjJlUXdVdXhOejlWVURxYVk0YkIyMHRmOE4zNWZBbWlVb3JuQk5BNkxidE1PVW51Y0k?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Thu, 05 Jun 2025 21:50:58 GMT",
+      "snippet": "HeyElsa (ELSA) - All information about HeyElsa ICO (Token Sale)&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "HeyElsa Airdrop Meets Listing Day: Is $ELSA Token Price Surge Coming? - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQzdSeW5IN25yMG1WVm11Vktid0VBRS0xRGhkVVM2WG5jME56ckdSUFhGaFJaVF9xMnROVnA1Vzc3MnhaOEZEZHNtRWpONnJULWw5cnljSFhmcHY4ZXQ1SlJ0N1NneE9UZ3JIci1iZVJRb3N6ZlNIZE1sWGxkTEFpWnY2dVA5ZjFYREJ2UGxYUHNJcnNoNC1lX0RzZ1BpcUgzazk3ODlIS0tzdHp5Zi1aYkZ6Tmg?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Fri, 23 Jan 2026 08:00:00 GMT",
+      "snippet": "HeyElsa Airdrop Meets Listing Day: Is $ELSA Token Price Surge Coming?&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "HeyElsa Drama Finally Over: Airdrop Settled, Biconomy Listing Live — Is $ELSA Ready to Pump? - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82NXVqV1pGR0FhWjZ0Q25YdEd2dmFpTVdXMGtaRHBzOXdGeEtOTi14SE5hMXRhYVE1c2JHRG9nV2hZLVl3Q1ZJ?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "snippet": "HeyElsa Drama Finally Over: Airdrop Settled, Biconomy Listing Live — Is $ELSA Ready to Pump?&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Binance Futures Will Launch USDⓈ-Margined ELSAUSDT Perpetual Contract (2026-01-22) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNenNCZ1p1dVhZbG5yeVRrZEkwbjM1emx0TG9FLW9WSmQ4NDZjbnhUTmlFOEZ4Y1c1WDhNUXVkZEdSUExJZGdJb1hfaEd6YzJOVnZHaDFYX1RhMl9acjNwN3VTYXh4YlplU3lMOXA3cVB3SkdtMGJEZUdkWEkzRU1DMDJmUm14Q0NDNVgtVG93azc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Binance Futures Will Launch USDⓈ-Margined ELSAUSDT Perpetual Contract (2026-01-22)&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
