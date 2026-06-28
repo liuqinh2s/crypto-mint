@@ -1,0 +1,322 @@
+{
+  "token": "GAS",
+  "requestedInput": "GAS",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T18:03:03.414Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "GAS",
+    "name": "GAS",
+    "generatedAt": "2026-06-28T18:02:56.699Z",
+    "summary": "GAS是Solana链上pumpswap的Meme币，市值仅1.6万美元，流动性约1.2万美元，24小时成交量几乎为零。新闻关联性极低，多为天然气期货或以太坊Gas费无关内容。无基本面支撑，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无买入逻辑，无需设置失效条件"
+    },
+    "catalysts": [
+      "无明确上涨催化，可能为随机拉盘或机器人交易"
+    ],
+    "latestNews": [
+      {
+        "title": "Natural Gas Prices Supported by Extreme Heat and Grid Outages: Commerzbank",
+        "impact": "中性",
+        "reason": "新闻内容为天然气价格，与GAS代币无关"
+      },
+      {
+        "title": "What GAS Token’s 500% Surge Reveals About Crypto’s New Emerging Meta",
+        "impact": "中性",
+        "reason": "提及GAS代币但为2026年1月旧闻，且可能指不同项目"
+      },
+      {
+        "title": "Ontology Gas Price Today | ONG to USD Live Price, Market Cap & Chart",
+        "impact": "中性",
+        "reason": "ONT Gas（ONG）与GAS无关"
+      }
+    ],
+    "fundamentals": [
+      "Solana链上pumpswap的Meme币，无官网和白皮书",
+      "总供应量10亿枚，市值仅1.6万美元",
+      "流动性约1.2万美元，深度极差",
+      "创建于2026年2月18日，已存在4个月但几乎无交易量"
+    ],
+    "marketRead": [
+      "24小时价格变化无数据，成交量仅0.45美元，流动性低",
+      "无K线数据，无法判断趋势",
+      "可能为无人问津的僵尸币"
+    ],
+    "risks": [
+      "流动性极低，大额卖出易造成滑点和价格崩溃",
+      "无社区热度或社交媒体关注",
+      "新闻关联性弱，无实际催化",
+      "合约风险：pumpswap上代币可能存在后门或貔貅风险",
+      "市值极小，归零风险极高"
+    ],
+    "watchlist": [
+      "关注是否有新地址买入或社交媒体提及",
+      "观察流动性是否增加",
+      "检查合约是否可交易（防貔貅）"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，新闻来自Google News RSS，部分新闻标题与代币无关",
+      "无链上交易量数据，24小时变化为空",
+      "建议使用RugCheck等工具进一步验证合约安全性"
+    ]
+  },
+  "profile": {
+    "id": "25E8X8fPnT9AdU1nA78snybnzVxkDvv5rK663Ngrpump",
+    "symbol": "GAS",
+    "name": "GAS",
+    "categories": [
+      "solana",
+      "pumpswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / pumpswap. Pair URL: https://dexscreener.com/solana/8yzsdkhycwn9s2i1vvbydpfyjovs3ufzzlareuhlhxuk Socials: twitter: https://x.com/gaspoweredco",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00001643,
+    "marketCapUsd": 16438,
+    "fullyDilutedValuationUsd": 16438,
+    "totalVolumeUsd": 0.45,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-02-18",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "8yzSDkHycwN9S2i1vvByDPfyJovS3UfZzLareuHLhxuK",
+    "baseTokenAddress": "25E8X8fPnT9AdU1nA78snybnzVxkDvv5rK663Ngrpump",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 11914.7,
+    "pairUrl": "https://dexscreener.com/solana/8yzsdkhycwn9s2i1vvbydpfyjovs3ufzzlareuhlhxuk",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pumpswap",
+    "pair": "GAS/SOL",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "8yzSDkHycwN9S2i1vvByDPfyJovS3UfZzLareuHLhxuK",
+    "pairUrl": "https://dexscreener.com/solana/8yzsdkhycwn9s2i1vvbydpfyjovs3ufzzlareuhlhxuk",
+    "lastPrice": 0.00001643,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.45,
+    "liquidityUsd": 11914.7,
+    "fullyDilutedValuationUsd": 16438,
+    "marketCapUsd": 16438,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/8yzsdkhycwn9s2i1vvbydpfyjovs3ufzzlareuhlhxuk",
+    "pairAddress": "8yzSDkHycwN9S2i1vvByDPfyJovS3UfZzLareuHLhxuK",
+    "baseToken": {
+      "address": "25E8X8fPnT9AdU1nA78snybnzVxkDvv5rK663Ngrpump",
+      "name": "GAS",
+      "symbol": "GAS"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.0000002338",
+    "priceUsd": "0.00001643",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 0.45,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 11914.7,
+      "base": 360139038,
+      "quote": 85.2958
+    },
+    "fdv": 16438,
+    "marketCap": 16438,
+    "pairCreatedAt": 1771373686000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/01jVdYv25Xux9AeX?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/ORWvWLRMcrJdajm4?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/25E8X8fPnT9AdU1nA78snybnzVxkDvv5rK663Ngrpump?timestamp=1782669900000",
+      "websites": [],
+      "socials": [
+        {
+          "url": "https://x.com/gaspoweredco",
+          "type": "twitter"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Natural Gas Prices Supported by Extreme Heat and Grid Outages: Commerzbank - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVZk1aTVE4Nko1WnRwVW9fblozMVZKQnQ0clNFR1JOYVppc1UyUkNpaXZnS3U3aVNTdWhwaHJjTnNscmkycngwVTdnNEtSaHZLY0dVLXBHd2p5Ym5hS2hSTW0zbkpCN1RVV0N5N29KNTBrNV9TdWN6dXI3THFNOEE?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "snippet": "Natural Gas Prices Supported by Extreme Heat and Grid Outages: Commerzbank&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What GAS Token’s 500% Surge Reveals About Crypto’s New Emerging Meta - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ldWdnYnR6UkNfcVZBU2Npek92NVpQclBxX1ZqTm5uRl85TWE1dHl1ZDFDdWlxc1FlOWxrZl8wbjREaGJ0ZHFBLW1SMTRmZm9yOUNjNE9aS2QzSXBWR0wyN2NCVlJ6cDRsSTZEU3o3cERtQ0lNSzdxeXNONkE5Zw?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "snippet": "What GAS Token’s 500% Surge Reveals About Crypto’s New Emerging Meta&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Ontology Gas Price Today | ONG to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82V1ZFYzZCSGlqN1VWU3J0SDJ0RWxLd3J6bDU3YTFyM3VCTEpLaHhZVHJSdXJoZUhsYlRHZjBqT2lvb0Iwb0VZVHllUWhIRktnRWExU1pCZERrRzFW?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 25 Jun 2026 16:27:00 GMT",
+      "snippet": "Ontology Gas Price Today | ONG to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Texas oil and gas regulator Wayne Christian peddles oil-backed crypto coin - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUW5mUXR3YnYxR1ZMc2g2dlJNX2dlWlprQWFpcDRVd0dnazF0N3NSZ2o5WVU2bkdIenViQmpSaEdMMy1nQmhZODdlR1RvckpQcjZtSWNmOHpmNGE4VWJxdXZlZ1E0d0NIVVNyUlB5Z0pnbi1sR19NRTNmZmt0UGRndEdfTUJfd0ZZZzk3aUItNmNlb1lVUFg0N0EtRFVCbTdaeTdqVFZReS1xOUVTMzUwUkFOTWtscTBmOFJOcDM5UEEtOWc1MzZYM0xPbFd6TFpReEVhZnhNNXJncXFqa2FaeFdnMkEzQdIB7gFBVV95cUxPeUFvekY5YUU4SEZoQlBHcG12b1lxbXFiUW9ZWFJibHZibzJJZUdpODVRS1FQRi1yQV9FNkRyU25CSFdqd2l3RnpsOGhUMi1TT2FwNDh3akVsSzNKd3BYbXU5eUlXUHRNSFptNnZ4Y0Nzc21fU1pSZWlCZ3NWUV9uNHRRNWlCMmdIaVJJRE0xaDNvUUc2TDlENkhmOU5lcG5QMUhicE04ekNGNkd4VDJWU2xEeFdrOG45S0dfbUNub2N3Rzd2SE53VDV0U0w4d0xvUC1wWWRfb2F0d083MlJYek9PMGFrZF9wOXg3OWdR?oc=5",
+      "source": "Houston Public Media",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "Texas oil and gas regulator Wayne Christian peddles oil-backed crypto coin&nbsp;&nbsp;Houston Public Media"
+    },
+    {
+      "title": "Natural Gas (Derivatives) price today, NATGAS to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByVU04eXl6VXgxaVpxamhPbkF3ZU9wTzFvbEwweWU2ZENsQTFjU1IzQ0wyRWdRRVRlRXd1NXpmalg0a0d1cjJZZ0NKUHVCc1Fyc25adnBoZWlfTF83ejNlNzRLaUhJMzA2SXFUYjJR?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 28 Jan 2026 14:22:33 GMT",
+      "snippet": "Natural Gas (Derivatives) price today, NATGAS to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Ontology Gas (ONG) Price Tests a Pivotal Resistance—Is a 150% Rebound Setup in Play? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTVBLNW1NZW9TbHF5VlNIZGpETlVxSUd4bVZQNUtMSEQ4TmhGRmdBcE9rZXZQTmxXVWhob3BxYjFDUmxwRDQya1JnaXZyaVJRUWo4Y2ZybzZKaVpFY0dRd0JXN3pqWDB5Z2Nyc0cxbDY0Yk52c2tkTlpxaEFsaEVGdjRNYmQ3blVMQWRhLTR5WE8tUUZpd045RnhYQ3V2THQ3U1diRnA1WVdac3hHQjAzdFZyOERWQjdoUV9CM01wcUp4UHA3THFUWGVMdzUzTjBaOGxBalRsYw?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "snippet": "Ontology Gas (ONG) Price Tests a Pivotal Resistance—Is a 150% Rebound Setup in Play?&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Gas Price Today in Australia | GAS to AUD Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95ZEVNb2pxQWgzYlBzRWJYMGJZQjQxMUpvVlFGZDhzX0tqWGpPblh6YTBrT25ZeHlaLXl1UzM2TFMzYlZiMlQ4dzliVW9UX1hU?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 24 Jun 2026 04:33:00 GMT",
+      "snippet": "Gas Price Today in Australia | GAS to AUD Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What Are Ethereum Gas Fees? ETH Fees Explained - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zejk2MXpzaUZwcl95MVVxSDU5dk5XdWR1bkdWS3RxMzVHU3ZXX1poLTE0bEd6ODdvSEdVSFhaaDZJa18zVDVMd0o4dV9KSzBpLTVCbVVzeE1rWWh6d0E?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "snippet": "What Are Ethereum Gas Fees? ETH Fees Explained&nbsp;&nbsp;Cryptonews"
+    },
+    {
+      "title": "Ethereum's Glamsterdam Upgrade Enters Final Devnet Phase With 200M Gas-Limit Target - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTNheDdlYmFLbnV3N2lJUGw3QkVrUnFudGlKelUxSlFpcERBMHNhWmQ5RWRtcFM5ejgwREZ2NHUybHBxZUlSMktEVDdtWDVHd0gxZ3p3cWpmYVdZSG96Sk5kWjU1djVXWTI4RlNpTFhlM25UQ1VXM2l6VU9wcmJTak5hUy0tVkt2MjloMUhFcFVxUkp6MnJGdG9B?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "snippet": "Ethereum's Glamsterdam Upgrade Enters Final Devnet Phase With 200M Gas-Limit Target&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "How Do Gas Fees Work on Ethereum? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR2huMEMtU1lWVGtfbngzMHh3UHlvRG5mYnB6V293U3pfNmJuUktJbnZpSERFcG1WeF85eVVhYy1fekFmOXVCWlF0c0tuVzE1TFZiblMzbFE5OC1XZ3p6Q0w4SWhNS1B5N1NSdEZiRjZjLWRqbkoyTmpwb2dHMjJ2Si13?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
+      "snippet": "How Do Gas Fees Work on Ethereum?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Rising oil and gas prices worsen France's trade deficit in the first quarter - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QRDRwMVdnZG1LWDY5LXRVUXpPNjE0Ml9kelhSdlVISGdVanRtTmxjNkpiUDlkX1Z2eW8tanhGVWd3YWE0alpZY01OSGlvc0xjTWJhZWxNTjdJUmpqblHSAWNBVV95cUxQY1NnRUZPVi1MMDI0Tk1MVXZuSFo1NS1oVkNha2huQjhQTDJDa3JtSDBzQkhfcWtrSkFHeWxfdE8xRUp1Rk5VZVQ2OWlfMmR3ODdwdjJsSHAxTjJLZm9GSFM2bHc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 08 May 2026 07:00:00 GMT",
+      "snippet": "Rising oil and gas prices worsen France's trade deficit in the first quarter&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "U.S. natural gas futures rose more than 3.00% intraday, currently quoted at $3.330 per million BTU. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ka0tVWnRxYUZGT3VYRnhyNjdSbUZtOTNrMUhHbXlvRVlkelBDaEtkb3JfLVNQUzNUWFR5X05SVXhmNlNma1lIcXhRdGZKbDItVUtEWTBUTlJ5LXZwcGfSAWNBVV95cUxQYURLdGt6dE55ckk5S0t2MHRlN3p4U2JCcm93V2w3akNubFRUeEYyVnMzTnFuWXczWEVnTTN2X2dMWkszX3dSeTU3VHpzb0I0U3BtTWtEdjdMaGo4R2J0NW9ESUk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 22 Jun 2026 00:10:04 GMT",
+      "snippet": "U.S. natural gas futures rose more than 3.00% intraday, currently quoted at $3.330 per million BTU.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "U.S. natural gas futures prices extend gains to 5% - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44S1dJNTFXclhMZ2JaVEdZTUExN2FPRFE0UnJfVVV4YzE3RE1YUVJSWjZzWE1vbTQ0ZVJkWWhHR0R0MWo2ckdEYzUwa3lmUlp1UU1JTVZhNldLUTRpa3fSAWNBVV95cUxQUHFyNzdRS2FodFoxR1lOMF9MS2l2QVFrQS1LRnNhR2x1ZWdPSTN6T1VDNEpiTWs5SDNPMHRPZ3JuWllkT21SWDdTcGFETEtHV1RZc1o1T2tTSk5Jb0lLTkhrUVU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "snippet": "U.S. natural gas futures prices extend gains to 5%&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bitget Wallet launches Polygon cross-chain interaction with zero Gas fees - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qNjdrY1NSQ0RBYzZVcnBOWEctc25nclRMelhwS3E0aE5Mc1NURVk4QTFfVmNiLUd5NFdsWGE2Zkk4c0dTMkQxT1l4TkZKc3FMUlVCUHpuZ3ByUThCMkHSAWNBVV95cUxORU5YZkZXd3pXdXZDd2c1R3pvYTFId0l0TFFQLVQ5a2VHclhJVjBpQW43d2Y3UVNybVlTZG4zMWVLeTRhMkdMUmFvNG1xWEtxSmFtZDBLOXZ4ak5NUF9qc1FBNmc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 29 Sep 2025 07:00:00 GMT",
+      "snippet": "Bitget Wallet launches Polygon cross-chain interaction with zero Gas fees&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "US natural gas futures remain flat as the market awaits guidance from the inventory report - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11dU9JekZuNjNhNVZtN1lBYW12NE1hRGFGems0WUVya2tCXzZtZW9qaU83T2Z1aTVJWC1YQXI5VUd6VWJ6ekRWdVBsRkhvdHAyZmhWeDlHVlNZanN4RWfSAWNBVV95cUxON1pQeDY4aWtlTURSQnA1VGViUTVGQ1VNY1dVekhFOUZVY2RoSExlWFMza01KWTVjbFp6ejRNcHNtclVXdXlXNlFHYUpLczQ3ZUxTSjhpRW54ZUhEUHNULUlncGs?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 18 Jun 2026 05:17:52 GMT",
+      "snippet": "US natural gas futures remain flat as the market awaits guidance from the inventory report&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Ralph and Gas Town: AI developers discover crypto financing - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92NXZEcWFSX0RWQXhzaF9ZLUxMTElXUGhFeHdjUnhNc3I4ZlpWQmlTM3ZWRTVYZEJUUEhkX0gwaWluRDRqYXpvWFRJdXl3V1F6ZHR6YS1UdHEzWW9kT0HSAWNBVV95cUxPQlJFOG9DaGFaYjlNUUQxNFNuRjNUbklqcXF1M3RLaFotVmxnU1JSVmN2WUZfdy1Kc3Y2V1hkTnpSUFhhQy1LaTBOX1lSZEw0V0VHd3BUdHNSQk5TWU9NaGJ3akE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "snippet": "Ralph and Gas Town: AI developers discover crypto financing&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/gas?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-06-28T17:47:48.832Z",
+  "updatedAt": "2026-06-28T18:03:12.027Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 25,
+      "score": 30,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T17:47:44.729Z",
+      "action": "观察",
+      "generatedAt": "2026-06-28T18:03:04.377Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "GAS",
+      "requestedInput": "GAS",
+      "name": "GAS",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T18:03:03.414Z",
+      "latestPath": "data/results/GAS-latest.json"
+    },
+    {
+      "token": "STBL",
+      "requestedInput": "STBL",
+      "name": "STBL",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T18:03:05.139Z",
+      "latestPath": "data/results/STBL-latest.json"
+    },
+    {
+      "token": "RPL",
+      "requestedInput": "RPL",
+      "name": "Rocket Pool",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T18:03:05.765Z",
+      "latestPath": "data/results/RPL-latest.json"
+    },
+    {
+      "token": "AGLD",
+      "requestedInput": "AGLD",
+      "name": "Adventure Gold",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T18:03:12.025Z",
+      "latestPath": "data/results/AGLD-latest.json"
     },
     {
       "token": "SNOW",
@@ -960,46 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T15:17:34.602Z",
       "latestPath": "data/results/CFG-latest.json"
-    },
-    {
-      "token": "STABLE",
-      "requestedInput": "STABLE",
-      "name": "STABLE",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:17:32.791Z",
-      "latestPath": "data/results/STABLE-latest.json"
-    },
-    {
-      "token": "EWJ",
-      "requestedInput": "EWJ",
-      "name": "iShares MSCI Japan ETF",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:17:35.131Z",
-      "latestPath": "data/results/EWJ-latest.json"
-    },
-    {
-      "token": "PIEVERSE",
-      "requestedInput": "PIEVERSE",
-      "name": "PIEVERSE",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:17:36.079Z",
-      "latestPath": "data/results/PIEVERSE-latest.json"
-    },
-    {
-      "token": "PNUT",
-      "requestedInput": "PNUT",
-      "name": "PNUT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:17:42.091Z",
-      "latestPath": "data/results/PNUT-latest.json"
     }
   ]
 }
