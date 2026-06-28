@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-06-28T21:02:36.217Z",
+  "updatedAt": "2026-06-28T21:17:46.486Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 35,
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T21:02:36.215Z",
+      "generatedAt": "2026-06-28T21:17:42.297Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "ACX",
+      "requestedInput": "ACX",
+      "name": "Across Protocol",
+      "score": 40,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T21:17:43.507Z",
+      "latestPath": "data/results/ACX-latest.json"
+    },
+    {
+      "token": "EIGEN",
+      "requestedInput": "EIGEN",
+      "name": "Eigen",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T21:17:46.484Z",
+      "latestPath": "data/results/EIGEN-latest.json"
     },
     {
       "token": "ELSA",
@@ -980,26 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T15:33:08.231Z",
       "latestPath": "data/results/COOKIE-latest.json"
-    },
-    {
-      "token": "MEME",
-      "requestedInput": "MEME",
-      "name": "MEME",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:33:07.585Z",
-      "latestPath": "data/results/MEME-latest.json"
-    },
-    {
-      "token": "BASED",
-      "requestedInput": "BASED",
-      "name": "BASED",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:33:14.846Z",
-      "latestPath": "data/results/BASED-latest.json"
     }
   ]
 }
