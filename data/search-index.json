@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-06-28T17:32:36.335Z",
+  "updatedAt": "2026-06-28T17:35:34.699Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T17:35:33.736Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "SNOW",
+      "requestedInput": "SNOW",
+      "name": "Snowman",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T17:35:34.697Z",
+      "latestPath": "data/results/SNOW-latest.json"
+    },
+    {
+      "token": "LAB",
+      "requestedInput": "LAB",
+      "name": "LAB",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T17:35:34.585Z",
+      "latestPath": "data/results/LAB-latest.json"
+    },
     {
       "token": "QNTSTOCK",
       "requestedInput": "QNTSTOCK",
@@ -10,16 +40,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T17:32:23.292Z",
       "latestPath": "data/results/QNTSTOCK-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T17:32:36.333Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "FARTCOIN",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T15:17:42.091Z",
       "latestPath": "data/results/PNUT-latest.json"
-    },
-    {
-      "token": "RPL",
-      "requestedInput": "RPL",
-      "name": "Rocket Pool Protocol",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:17:42.766Z",
-      "latestPath": "data/results/RPL-latest.json"
-    },
-    {
-      "token": "XPL",
-      "requestedInput": "XPL",
-      "name": "XPL",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:17:44.501Z",
-      "latestPath": "data/results/XPL-latest.json"
     }
   ]
 }
