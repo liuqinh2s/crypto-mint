@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-06-28T18:47:20.981Z",
+  "updatedAt": "2026-06-28T18:50:58.574Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T18:50:57.481Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "JTO",
+      "requestedInput": "JTO",
+      "name": "Jito",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T18:50:58.572Z",
+      "latestPath": "data/results/JTO-latest.json"
+    },
     {
       "token": "SLX",
       "requestedInput": "SLX",
@@ -10,16 +30,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T18:47:20.972Z",
       "latestPath": "data/results/SLX-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T18:47:20.980Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "GME",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T15:33:15.431Z",
       "latestPath": "data/results/CLANKER-latest.json"
-    },
-    {
-      "token": "SYRUP",
-      "requestedInput": "SYRUP",
-      "name": "Syrup Token",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T15:33:16.756Z",
-      "latestPath": "data/results/SYRUP-latest.json"
     }
   ]
 }
