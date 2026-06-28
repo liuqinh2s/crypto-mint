@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-06-28T02:47:05.476Z",
+  "updatedAt": "2026-06-28T03:02:30.783Z",
   "results": [
+    {
+      "token": "QNTSTOCK",
+      "requestedInput": "QNTSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:02:22.565Z",
+      "latestPath": "data/results/QNTSTOCK-latest.json"
+    },
+    {
+      "token": "RTXSTOCK",
+      "requestedInput": "RTXSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:02:22.580Z",
+      "latestPath": "data/results/RTXSTOCK-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
@@ -8,8 +28,38 @@
       "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T02:46:54.531Z",
+      "generatedAt": "2026-06-28T03:02:26.447Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "FARTCOIN",
+      "requestedInput": "FARTCOIN",
+      "name": "Fartcoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:02:29.355Z",
+      "latestPath": "data/results/FARTCOIN-latest.json"
+    },
+    {
+      "token": "TRUST",
+      "requestedInput": "TRUST",
+      "name": "Trust",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T03:02:29.215Z",
+      "latestPath": "data/results/TRUST-latest.json"
+    },
+    {
+      "token": "KGEN",
+      "requestedInput": "KGEN",
+      "name": "KGEN",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T03:02:30.781Z",
+      "latestPath": "data/results/KGEN-latest.json"
     },
     {
       "token": "WIF",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-27T21:47:00.221Z",
       "latestPath": "data/results/TRB-latest.json"
-    },
-    {
-      "token": "TIA",
-      "requestedInput": "TIA",
-      "name": "Tiamonds [OLD]",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T21:32:14.987Z",
-      "latestPath": "data/results/TIA-latest.json"
-    },
-    {
-      "token": "TIAN",
-      "requestedInput": "TIA",
-      "name": "TIA",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-27T21:17:06.798Z",
-      "latestPath": "data/results/TIAN-latest.json"
-    },
-    {
-      "token": "XPIN",
-      "requestedInput": "XPIN",
-      "name": "XPIN Network",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T21:17:11.076Z",
-      "latestPath": "data/results/XPIN-latest.json"
-    },
-    {
-      "token": "AWE",
-      "requestedInput": "AWE",
-      "name": "AWE Network",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T21:17:10.709Z",
-      "latestPath": "data/results/AWE-latest.json"
-    },
-    {
-      "token": "LIT",
-      "requestedInput": "LIT",
-      "name": "Lighter",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T21:17:22.051Z",
-      "latestPath": "data/results/LIT-latest.json"
     }
   ]
 }
