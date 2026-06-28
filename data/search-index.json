@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-28T18:17:27.745Z",
+  "updatedAt": "2026-06-28T18:33:05.752Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T18:33:00.035Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "GME",
+      "requestedInput": "GME",
+      "name": "GME",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T18:33:02.561Z",
+      "latestPath": "data/results/GME-latest.json"
+    },
+    {
+      "token": "G",
+      "requestedInput": "G",
+      "name": "Gravity (原Galxe)",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T18:33:01.798Z",
+      "latestPath": "data/results/G-latest.json"
+    },
+    {
+      "token": "SOON",
+      "requestedInput": "SOON",
+      "name": "SOON",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T18:33:05.750Z",
+      "latestPath": "data/results/SOON-latest.json"
+    },
     {
       "token": "TOSHI",
       "requestedInput": "TOSHI",
@@ -10,16 +50,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T18:17:22.806Z",
       "latestPath": "data/results/TOSHI-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T18:17:18.061Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "LYN",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T15:33:25.721Z",
       "latestPath": "data/results/JTO-latest.json"
-    },
-    {
-      "token": "SLX",
-      "requestedInput": "SLX",
-      "name": "Solstice",
-      "score": 40,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T15:17:16.375Z",
-      "latestPath": "data/results/SLX-latest.json"
-    },
-    {
-      "token": "XPIN",
-      "requestedInput": "XPIN",
-      "name": "XPIN Network",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T15:17:15.577Z",
-      "latestPath": "data/results/XPIN-latest.json"
-    },
-    {
-      "token": "AWE",
-      "requestedInput": "AWE",
-      "name": "AWE Network",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T15:17:17.452Z",
-      "latestPath": "data/results/AWE-latest.json"
     }
   ]
 }
