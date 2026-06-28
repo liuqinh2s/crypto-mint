@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-06-27T23:54:21.112Z",
+  "updatedAt": "2026-06-28T00:02:11.448Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 30,
+      "score": 35,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-27T23:54:19.312Z",
+      "action": "观察",
+      "generatedAt": "2026-06-28T00:02:10.498Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "GRASS",
       "requestedInput": "GRASS",
       "name": "Grass",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-27T23:54:19.791Z",
+      "score": 35,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T00:02:09.707Z",
       "latestPath": "data/results/GRASS-latest.json"
     },
     {
       "token": "SOON",
       "requestedInput": "SOON",
       "name": "SOON",
-      "score": 30,
+      "score": 25,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-27T23:54:21.111Z",
+      "generatedAt": "2026-06-28T00:02:11.446Z",
       "latestPath": "data/results/SOON-latest.json"
     },
     {
@@ -38,7 +38,7 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-27T23:54:19.240Z",
+      "generatedAt": "2026-06-28T00:02:09.688Z",
       "latestPath": "data/results/STABLE-latest.json"
     },
     {
