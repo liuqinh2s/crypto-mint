@@ -1,0 +1,355 @@
+{
+  "token": "COOKIE",
+  "requestedInput": "COOKIE",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T15:33:08.231Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "COOKIE",
+    "name": "Cookie",
+    "generatedAt": "2026-06-28T15:32:59.314Z",
+    "summary": "COOKIE 24小时涨幅25%，市值约800万美元，流动性仅21万美元，存在较高风险。项目为BSC上的Cookie DAO，涉及MarketingFi和预测市场概念，近期有利好新闻（如Fortune预测市场上线、Moltbook应用、空投与质押挂钩），但缺乏基本面数据支撑，且流动性极低，易被操纵。建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "流动性持续低迷或价格大幅回调跌破0.009美元"
+    },
+    "catalysts": [
+      "Fortune预测市场协议上线BSC，结合Cookie元素",
+      "Moltbook代理追踪应用发布",
+      "空投与质押奖励挂钩，价值捕获新阶段",
+      "InfoFi概念热度（Kaito、Polymarket等）"
+    ],
+    "latestNews": [
+      {
+        "title": "Fortune, the first prediction market protocol on BSC combining fortune cookie elements, has officially launched its website.",
+        "impact": "利好",
+        "reason": "新协议上线可能带动COOKIE代币需求"
+      },
+      {
+        "title": "Cookie DAO launches Moltbook proxy tracking application",
+        "impact": "利好",
+        "reason": "生态应用扩展，增加代币实用性"
+      },
+      {
+        "title": "Cookie Dao Update: Airdrop to be Pegged to Staking Rewards, Value Capture Enters New Phase?",
+        "impact": "利好",
+        "reason": "空投与质押挂钩可能激励持有和质押"
+      }
+    ],
+    "fundamentals": [
+      "项目为Cookie DAO，代币COOKIE，BSC链PancakeSwap交易",
+      "官网：cookie.fun，社区：Twitter/Telegram/Discord",
+      "市值约800万美元，FDV约796万美元，流动性仅21万美元",
+      "总供应量和流通量未披露",
+      "2024年6月13日创建，距今约2年",
+      "曾获550万美元融资（2024年6月）"
+    ],
+    "marketRead": [
+      "24小时涨幅25.36%，成交量27.3万美元，流动性21万美元，换手率约1.3倍",
+      "流动性极低，大额买卖易导致价格剧烈波动",
+      "无历史价格数据（ATH、7日/30日变化均无），难以判断趋势"
+    ],
+    "risks": [
+      "流动性极低（21万美元），存在滑点和操纵风险",
+      "市值仅800万美元，属于小市值代币，波动大",
+      "无总供应量和流通量数据，可能存在解锁抛压",
+      "新闻多为聚合器内容，缺乏实质性进展验证",
+      "BSC链上项目，合约风险需自行评估"
+    ],
+    "watchlist": [
+      "流动性是否增加",
+      "是否有新的交易所上线或做市商入驻",
+      "Fortune预测市场实际用户和交易量",
+      "代币解锁和质押数据",
+      "社区活跃度和社交媒体热度"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，仅包含BSC PancakeSwap交易对",
+      "新闻标题来自Google News RSS，内容未验证",
+      "无CEX上市信息，仅DEX交易"
+    ]
+  },
+  "profile": {
+    "id": "0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
+    "symbol": "COOKIE",
+    "name": "Cookie",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [
+      "https://www.cookie.fun/",
+      "https://docs.cookie.community/cookie-dao",
+      "https://www.cookie.community/"
+    ],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0xd4fb9d253739c5db6aad90ad2409757d224ccc0c Socials: twitter: https://twitter.com/cookiedotfun; telegram: https://t.me/cookie_dao; discord: https://discord.com/invite/XKhHrHtSHK",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.0103,
+    "marketCapUsd": 8008580,
+    "fullyDilutedValuationUsd": 7956633,
+    "totalVolumeUsd": 272881.21,
+    "priceChange24hPct": 25.36,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2024-06-13",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xD4fB9d253739C5dB6aAD90aD2409757d224CCc0C",
+    "baseTokenAddress": "0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "liquidityUsd": 211139.61,
+    "pairUrl": "https://dexscreener.com/bsc/0xd4fb9d253739c5db6aad90ad2409757d224ccc0c",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "COOKIE/USDT",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xD4fB9d253739C5dB6aAD90aD2409757d224CCc0C",
+    "pairUrl": "https://dexscreener.com/bsc/0xd4fb9d253739c5db6aad90ad2409757d224ccc0c",
+    "lastPrice": 0.0103,
+    "priceChange24hPct": 25.36,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 272881.21,
+    "liquidityUsd": 211139.61,
+    "fullyDilutedValuationUsd": 7956633,
+    "marketCapUsd": 8008580,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0xd4fb9d253739c5db6aad90ad2409757d224ccc0c",
+    "pairAddress": "0xD4fB9d253739C5dB6aAD90aD2409757d224CCc0C",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
+      "name": "Cookie",
+      "symbol": "COOKIE"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceNative": "0.01030",
+    "priceUsd": "0.01030",
+    "txns": {
+      "m5": {
+        "buys": 46,
+        "sells": 14
+      },
+      "h1": {
+        "buys": 337,
+        "sells": 300
+      },
+      "h6": {
+        "buys": 1511,
+        "sells": 1383
+      },
+      "h24": {
+        "buys": 1672,
+        "sells": 1582
+      }
+    },
+    "volume": {
+      "h24": 272881.21,
+      "h6": 251292.25,
+      "h1": 48105.17,
+      "m5": 6157.71
+    },
+    "priceChange": {
+      "m5": 3.88,
+      "h1": 9.01,
+      "h6": 25.33,
+      "h24": 25.36
+    },
+    "liquidity": {
+      "usd": 211139.61,
+      "base": 10569770,
+      "quote": 102249
+    },
+    "fdv": 7956633,
+    "marketCap": 8008580,
+    "pairCreatedAt": 1718273561000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/d490df45e4b2394ea4ae8cd129bf1d9709c005f73e77cbe7dc75063fdce2b38b?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/f368665c23e13376b59a2739e8cbbafc4969ecf0fb83ff99b11ed10deb5432a6?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0xc0041ef357b183448b235a8ea73ce4e4ec8c265f?timestamp=1782660900000",
+      "websites": [
+        {
+          "url": "https://www.cookie.fun/",
+          "label": "Website"
+        },
+        {
+          "url": "https://docs.cookie.community/cookie-dao",
+          "label": "Docs"
+        },
+        {
+          "url": "https://www.cookie.community/",
+          "label": "Website:"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://twitter.com/cookiedotfun",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/cookie_dao",
+          "type": "telegram"
+        },
+        {
+          "url": "https://discord.com/invite/XKhHrHtSHK",
+          "type": "discord"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Cookie DAO price today, COOKIE to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWLXBBRFNrTTBWSGktREtmamtXaHBucVg1Ulh2NEZOSDhjV09zUGZhcXZoYUsyRlhrOHVkUE5vVXVkdmJMdmlxSUUwQjAyazhsWVdIZ0FuWQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 14 Jun 2024 11:06:09 GMT",
+      "snippet": "Cookie DAO price today, COOKIE to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Cookie DAO Price Prediction: Is COOKIE Coin a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGlJYVJ0RzRON2hoU2hLUjhqbXRHQVNQbU4yaThLWWxaa1VPQmlYTldhaE9BZlczVlg0bTgtY0FfaTZpbG10aUZLSVV6N3I5d2ZubjFDdFVKZkVzOVFhUi1mUEoyMzZNdEJjZFBSbElnc3A4REpjOFNVZUdpbGQ5T2NoemV3bGo2ZWszREZvdDU?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Tue, 17 Jun 2025 07:00:00 GMT",
+      "snippet": "Cookie DAO Price Prediction: Is COOKIE Coin a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Cookie DAO Price: COOKIE/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96ZFhXbDE3N0hpQmNLMlNrQndOeGdjT2FZLUFfUVd6VXVaRkVxYXg2VEt4SFpFSGZSMXZxSmhOZ2p3YkZVNjdQX1F4cE5kQjFJaUtj?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Wed, 05 Jun 2024 09:34:04 GMT",
+      "snippet": "Cookie DAO Price: COOKIE/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Cookie DAO (COOKIE) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85Y1NZWGtMYm9qZkFZbjJpSklZbUliUDdyWURURGx6bGVsNnMzOTBaYmxDZ1BTcE9iREpvR3Q1WVFyX25YSktnQzgxdEp1Rm9UbGwwWk9KZFVFOWcxd1pZN3UtRmZ2VGgxU3YwcDhIYjc?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Tue, 03 Dec 2024 06:51:14 GMT",
+      "snippet": "Cookie DAO (COOKIE) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Cookie DAO Price, COOKIE Price, Live Charts, and Marketcap: cookie dao, cookie dao crypto, cookies coin - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzRlppdFhxTlpzUHkyQ0dib1R5U2xCeEhRd1A0dFNNWDVSVzZxTXBuRUpZSnp4WUt5UVFTWFFEYzhXX0owMmU2MEpsYWRLTW5aSG44djJZNjBPN0k?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Thu, 06 Feb 2025 23:03:17 GMT",
+      "snippet": "Cookie DAO Price, COOKIE Price, Live Charts, and Marketcap: cookie dao, cookie dao crypto, cookies coin&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Cookie DAO Price | COOKIE Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QNDRiaEZlY2dncmpNeFR1M1ZKV3RHZFBsVTlRUTVNUzk4ekZVMUpfXzkxNHQ0SWRHa3B3Y0VQa3ZCVmNxRFVRUnpfbFJVUQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 13 Feb 2025 15:51:51 GMT",
+      "snippet": "Cookie DAO Price | COOKIE Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Cookie DAO Price Today | COOKIE to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jNlZfNjAzblUtYWRoRVNuMUtlS1FGX1BkMjVzQm1jTUhkaUwxbUZLV3FncGl4NFNJblRlclR1emRqVktjMEpsclRPSHU1TzNr?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 15 Jun 2024 04:32:05 GMT",
+      "snippet": "Cookie DAO Price Today | COOKIE to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Cookie DAO Price, COOKIE Price, Live Charts, and Marketcap - Coinbase Australia - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTZTJfdUlXS00wenQyZTdKRWp5X1dRZ25yUThacGgteGszVm1nczB2N2w0ZEVmWG1oZFdsU3pydlduSnI1QVVZbmhZNXVxWEktdGtMTU8yZ1oxaDhna0xjRnQ3aw?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Wed, 19 Feb 2025 08:39:20 GMT",
+      "snippet": "Cookie DAO Price, COOKIE Price, Live Charts, and Marketcap - Coinbase Australia&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "A Complete Guide to InfoFi: Kaito, Polymarket, Cookie3, Galxe - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1lVbDZhNFA1VUhLOU90emFRSzA2UDdKTGhsOWp5Y1RFS0lXbUg3TXlWeXNGaHU2VlUzbVI1ZmRZRWpkWGtPaXIyYWN3ak9neE1QZExtamE3eWJKRmdxSkRQejZLWDAwajZjdlR6cnBPcFlDMEFTNzladjdmSVB2NWlvYmxxVVJSUE5yRnZXRnVBYzJjLVVrcWxn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 22 Aug 2025 07:00:00 GMT",
+      "snippet": "A Complete Guide to InfoFi: Kaito, Polymarket, Cookie3, Galxe&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Estonian startup secures $5.5M to launch $COOKIE governance and utility token - ArcticStartup - ArcticStartup",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQM1FPSTlBeGZSZzhkYkdEU3pzelVsQU9DZGdVZE02T29FYU9fVnpPVTcwSkduMUJmYzJUOWtRZTQ3YTIxemRuUURTMVlxQ2ZrYjRPTWlBWlplbW1HZHlzWNIBYEFVX3lxTFBQM1FPSTlBeGZSZzhkYkdEU3pzelVsQU9DZGdVZE02T29FYU9fVnpPVTcwSkduMUJmYzJUOWtRZTQ3YTIxemRuUURTMVlxQ2ZrYjRPTWlBWlplbW1HZHlzWA?oc=5",
+      "source": "ArcticStartup",
+      "publishedAt": "Tue, 18 Jun 2024 07:00:00 GMT",
+      "snippet": "Estonian startup secures $5.5M to launch $COOKIE governance and utility token - ArcticStartup&nbsp;&nbsp;ArcticStartup"
+    },
+    {
+      "title": "Cookie DAO Price Prediction: Unraveling the Future - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sQlVEYjN5MEQ1X2NPVGYxVFlucXpoazkzQkR1S1Fsc0pGc18xZ2ZDYVV2aFREWGpHNms0T0ZDbmJXaWliS3hXMGMyclA4U21yNlFiZmlHRW1jQTE3bVlYbzlpWmMwUQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 06 Jun 2025 04:16:07 GMT",
+      "snippet": "Cookie DAO Price Prediction: Unraveling the Future&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "$COOKIE, the Cookie3 MarketingFi Ecosystem Token, will Launch on ChainGPT Pad and Polkastarter - Chainwire",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbElPTktNR2ZPa25QaEFaZ0NnU3ZIT1M4Q2ozck1pYTNkUkVITnc2bDBkVnJGTU9fNUM3Z0xIT3doUUhRTUNCb2VQVF8wNS1fVXBZbEpFUjdfcnV1WkZ6RGowMlo4Nk81UGk5bllaOEY3QVlQQ2psWDU2OEs1OHp1anVxMEtVbU5PZlFwLWVUV3U5bklYNlRka1JXa0xaSlFnWmFPYnVtb01qaGpzbm1SYUFLSXo2THR1TjFFWF9yQzZEZjA?oc=5",
+      "source": "Chainwire",
+      "publishedAt": "Tue, 26 Mar 2024 07:00:00 GMT",
+      "snippet": "$COOKIE, the Cookie3 MarketingFi Ecosystem Token, will Launch on ChainGPT Pad and Polkastarter&nbsp;&nbsp;Chainwire"
+    },
+    {
+      "title": "Fortune, the first prediction market protocol on BSC combining fortune cookie elements, has officially launched its website. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZbUtLeFlic1F6dHV4cjgzU1U0Z3h1aUJlbXk2N3ZRb2tkZlF4V29NUlJBdHI5NVRWb29lYnF4clZEMzA4Z2M2QW5INFE5dUJUV2pCM2pLQXFHRjVPRWfSAWNBVV95cUxNdnBfdHFmTU1odkVWRW9tY20xYTA5TXVXeDdrcm9yS1R2aHJ0dzViQWFfTGdQYlJIWGdERkpReFlHWFp1SUNjRkxUbmNCVUtHS2hVUDByT2ItVXJPQUNuQXc4cVE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "snippet": "Fortune, the first prediction market protocol on BSC combining fortune cookie elements, has officially launched its website.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Cookie DAO launches Moltbook proxy tracking application - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLM0N5andlNFNkQmJtNndNcXZmX0VodzM1X3gyOEphSjUzd3FVY1J1QjZhQS0wVno0S1J0UHJWOF9pV3NwZFZCcS1JcE5UTG5oa21kMkFFYzNYSzhNR2fSAWNBVV95cUxOVUJncWh1YnowNDNMWld6cXpfVHc0ZzVGcmxkTUtVX2F5YmVhWXNEMzg1YmVqcVR4TnNFMDEtVU1NWTNzcFVsX0tFdC1CbFFqUlpTNDRfRTdlRmw3R2hhNFh6MTg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "snippet": "Cookie DAO launches Moltbook proxy tracking application&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Cookie Dao Update: Airdrop to be Pegged to Staking Rewards, Value Capture Enters New Phase? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4VWFGcmJ3aUpJTU91VUJYRXJnR21Tdk1mSVI1blQwNmVYSUJXMzFEWGk5b29MS3JHdWRFc3ZBZzRGajkwNmh2V2ktXzFUWTlkRjVrLTJTeDhFT3ZJN1HSAWNBVV95cUxQQU5ZdEcwdk95SGtLcHV1QUxwSjViX0tteDJCTFE5MVpoN2R0SGlRTXNCeVlPdE91eGZmQ0RLVXBvREcxNHQyQzY3cDFwbFJ4Y0h4bmRrbm1pY2I4SUFfeV9XSms?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 11 Jul 2025 07:00:00 GMT",
+      "snippet": "Cookie Dao Update: Airdrop to be Pegged to Staking Rewards, Value Capture Enters New Phase?&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/cookie-2?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}
