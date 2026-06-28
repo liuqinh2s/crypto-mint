@@ -1,0 +1,308 @@
+{
+  "token": "AEVO",
+  "requestedInput": "AEVO",
+  "exchange": "other",
+  "generatedAt": "2026-06-28T17:03:01.136Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AEVO",
+    "name": "Aevo",
+    "generatedAt": "2026-06-28T17:02:53.879Z",
+    "summary": "AEVO 24小时涨幅约9%，但基本面疲弱：曾遭Oracle攻击损失270万美元，价格较ATH跌99.5%，流通供应量大，DEX流动性仅46万美元。上涨缺乏明确催化剂，可能为短期资金博弈。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [
+      "无明确近期利好催化剂"
+    ],
+    "latestNews": [
+      {
+        "title": "Aevo's Ribbon Vaults Lose $2.7M in Oracle Exploit",
+        "impact": "利空",
+        "reason": "安全事件损害项目信誉，可能导致用户流失"
+      },
+      {
+        "title": "Aevo Staking Guide: How to Earn Up to 50% APY on Pionex",
+        "impact": "中性",
+        "reason": "质押教程，但高APY可能源于通胀，非实质性利好"
+      }
+    ],
+    "fundamentals": [
+      "Aevo 是一个基于以太坊的衍生品交易平台，使用自己的L2 rollup",
+      "总供应量10亿枚，流通约9.17亿枚，全稀释估值约1870万美元",
+      "曾获DragonFly Capital、Pantera Capital投资",
+      "2025年12月Ribbon Vaults遭Oracle攻击损失270万美元",
+      "价格从ATH 3.76美元下跌99.5%，当前0.0187美元"
+    ],
+    "marketRead": [
+      "24小时涨幅9.14%，但7日、30日均为下跌趋势",
+      "DEX流动性仅46.5万美元，容易产生滑点和操纵",
+      "24小时交易量13.7万美元，流动性低，交易不活跃"
+    ],
+    "risks": [
+      "安全事件历史，合约风险高",
+      "流动性极低，大额买卖易导致价格剧烈波动",
+      "供应量大，解锁压力未知（总供应10亿，流通9.17亿）",
+      "价格长期下跌趋势，无反转迹象",
+      "新闻多为旧闻或无关内容，缺乏实质性利好"
+    ],
+    "watchlist": [
+      "是否有新合作或产品更新",
+      "团队是否对安全事件有进一步回应",
+      "解锁/代币释放计划"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko和DexScreener，新闻来源多为聚合站，可靠性一般",
+      "无CEX交易数据，仅DEX数据"
+    ]
+  },
+  "profile": {
+    "id": "aevo-exchange",
+    "symbol": "AEVO",
+    "name": "Aevo",
+    "categories": [
+      "Smart Contract Platform",
+      "Decentralized Finance (DeFi)",
+      "Binance Launchpool",
+      "Derivatives",
+      "Perpetuals",
+      "Ethereum Ecosystem",
+      "Layer 2 (L2)",
+      "DragonFly Capital Portfolio",
+      "Pantera Capital Portfolio"
+    ],
+    "homepage": [
+      "https://www.aevo.xyz/"
+    ],
+    "description": "",
+    "marketCapRank": 876,
+    "currentPriceUsd": 0.01871473,
+    "marketCapUsd": 17149826,
+    "fullyDilutedValuationUsd": 18699067,
+    "totalVolumeUsd": 9061472,
+    "priceChange24hPct": 8.83637,
+    "priceChange7dPct": -5.30744,
+    "priceChange14dPct": -4.04527,
+    "priceChange30dPct": -21.89101,
+    "athUsd": 3.76,
+    "athChangePct": -99.50248,
+    "circulatingSupply": 917148750.1106241,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 25597,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "AEVO/USDC",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x62e0d3fD804dfBf02d08eE632E9634dBa5c00D03",
+    "pairUrl": "https://dexscreener.com/ethereum/0x62e0d3fd804dfbf02d08ee632e9634dba5c00d03",
+    "lastPrice": 0.01875,
+    "priceChange24hPct": 9.14,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 137236.14,
+    "liquidityUsd": 465160.82,
+    "fullyDilutedValuationUsd": 17371293,
+    "marketCapUsd": 17205231,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x62e0d3fd804dfbf02d08ee632e9634dba5c00d03",
+    "pairAddress": "0x62e0d3fD804dfBf02d08eE632E9634dBa5c00D03",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0xB528edBef013aff855ac3c50b381f253aF13b997",
+      "name": "Aevo",
+      "symbol": "AEVO"
+    },
+    "quoteToken": {
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.01875",
+    "priceUsd": "0.01875",
+    "txns": {
+      "m5": {
+        "buys": 3,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 32,
+        "sells": 41
+      },
+      "h6": {
+        "buys": 182,
+        "sells": 124
+      },
+      "h24": {
+        "buys": 225,
+        "sells": 166
+      }
+    },
+    "volume": {
+      "h24": 137236.14,
+      "h6": 117893.95,
+      "h1": 25379.94,
+      "m5": 2065.39
+    },
+    "priceChange": {
+      "m5": 0.7,
+      "h1": 0.92,
+      "h6": 9.55,
+      "h24": 9.14
+    },
+    "liquidity": {
+      "usd": 465160.82,
+      "base": 16168769,
+      "quote": 161842
+    },
+    "fdv": 17371293,
+    "marketCap": 17205231,
+    "pairCreatedAt": 1727326547000
+  },
+  "news": [
+    {
+      "title": "Convert AEVO to KYD | AEVO/KYD Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vbFBRTWQwVzF3SU41UWpWS000dl9uV1Z5cmppZm8yWThoOTZ0akZsZ1RHRlE5WVVSN0JaSVA2R3dXX01ZYWJveUZrSmxoOFJJNGNV?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Fri, 26 Jun 2026 00:14:53 GMT",
+      "snippet": "Convert AEVO to KYD | AEVO/KYD Conversion Calculator&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Aevo's Ribbon Vaults Lose $2.7M in Oracle Exploit - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0N3NUVpRXVsR0JOU25PeFZKVjdXcjlUQ1NmekV5R0ZwNEFtUkJLVi1sZ3hZYUtQck5JSDBzdl9pSXZITC1TX1lNTTdGM3RvM0Jjd1dOUllHdHRrczAydm9qVE40V1UxQkxfOHNNMzdNUjQzVTZJU3ZhMjZRcUwyRjVscG83cWZmQkJvV2FYWVRlZ0FvbVdfUmRR?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 15 Dec 2025 19:35:12 GMT",
+      "snippet": "Aevo's Ribbon Vaults Lose $2.7M in Oracle Exploit&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Aevo's legacy Ribbon DOV vaults exploited for $2.7 million following oracle upgrade - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVQtWFlxQ2JkbGJWSVhOalNvYUFtVXMzZUE3ZzBMeEVmRFZIVDRVRlZwWnhZcV8zbWxxSU1QcnhnVVFScmF0V0VtUUhPZkFMbDZmYlFCT3gyTFFFTXVBZnRpVENTWDUwLUFTVnY4a0xiM3dJUXFhTl9uSkFNdGFDcEVGNE1lYU5iaWlWNUFqVlkteVEtbFdWV0FlRHpUcFhfSk9SXzZSVjB2NFJTcjJKQk9wQkJlM2Nh?oc=5",
+      "source": "The Block",
+      "publishedAt": "Sun, 14 Dec 2025 08:00:00 GMT",
+      "snippet": "Aevo's legacy Ribbon DOV vaults exploited for $2.7 million following oracle upgrade&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Aevo (AEVO) Price Prediction 2026 2027 2028 - 2040 - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZZ2xiM00zWGo1Q1lMMkdYTWhPMHE5M1FhQkRXS01lNnJjdEFpbHFDdXk2OE5JQ0ZoMy1jWlYzTVowaTR3RGFtUXFzSXRvcjZfd0N3Qll2RzBxbjg1blFrYjhZSlY?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Mon, 01 Apr 2024 19:07:11 GMT",
+      "snippet": "Aevo (AEVO) Price Prediction 2026 2027 2028 - 2040&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "Aevo (AEVO) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tVjlMNUlxVHhEdzZuSG1SOTZteDVnaU9GdkVsSmFUU3dBdWNWMDF0dEJ6TURKQXgxY0Ywd2FWR19maDVBNW9CaUlsTXg0RjktMDZSbml1V2ZqY0xVOXNVSlFrZGVaUQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 14 Mar 2024 07:46:04 GMT",
+      "snippet": "Aevo (AEVO) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Aevo price today, AEVO to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tT1pCLVg5a0VrNUozNGxaS1VEMXVNZTNaUzdiMjVSUWVLWFdhSlFhLWhZZmhuSjJkVUpzcThEQ0VWbHlaNkkyOUhQOA?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 25 Nov 2024 01:34:13 GMT",
+      "snippet": "Aevo price today, AEVO to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Aevo price today, AEVO to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0X2p4aE9QeFgxLWp0Vkx3OEpBcXdrc0F1YklBWlFWX09Jc0RvcWxFT3RsY1VlQnBKMXVaQVZZMlhTMVdVWE85WEVLTzVUbk5jRk9LYw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 06 Mar 2024 15:05:25 GMT",
+      "snippet": "Aevo price today, AEVO to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "AEVO: All you need to know! (GUIDE) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JLUlhN1R1Ymp3OE96NGExTnlHR3hyNW10VmFGTF9PanpiMy1YQnFpV3lnRmM1b2xNT3ViYzByb0hEd3BQaF9EQkwzbXpZQV8ydWNzSFdBVWtRLWxXanZ0OWt3?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 07 Mar 2024 08:00:00 GMT",
+      "snippet": "AEVO: All you need to know! (GUIDE)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What is Aevo (AEVO)? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GVm51a2NBb1BZbUp0Nnh6LVd4MVplZF9UNE9DR00wRXBzMzY5dkt0OTdJaW5ZZC1ubW44ME1Vb2t6Wll0OEctcllJZlBjVXZrTV9sVU9LZmVCWk9ucTZqMEF4OG1IbjRod1JXaVM0WDg5d9IBd0FVX3lxTE4yaFFoZmt0OVFtY2c4MEdndTVPVUtSaENRUkNLZWd5SXA1Nzh3Y3lIS0lGOERoZndELXUzQXRlbUl0eHlXVkZZNWRWVUZkdzhqQ2VPM3RKYUdaTWYtcDUtN0ZPMHRUM2ZSTDVaNERLcFhmM1FfdzV3?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 13 Mar 2024 07:00:00 GMT",
+      "snippet": "What is Aevo (AEVO)?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Aevo Staking Guide: How to Earn Up to 50% APY on Pionex - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVDhpTXo1MmNEbU1VRGZXby1Zb2owVHdSUUx5YVBHVGNoSmxUa1pZTUpsU2dSbWFGR0NXRDl2Sm53WG5Zd05sdGJUZUFkRkwxQnNZYzlCSWRIaU93WTF6LXJXN1ZHWjFqeHRmNUN3STNyakJFekk1Rm5pR3BXUEdoOWtSQQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sat, 20 Jun 2026 11:45:50 GMT",
+      "snippet": "Aevo Staking Guide: How to Earn Up to 50% APY on Pionex&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Purchase Aevo in Uganda: Best Ways, Pricing & Roadmap - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVlR6OWpSNFdTcTFPRUItcmlTQUFGVWtraGxDcHdha2lSYktWOGZKRnpqS0FoZEx4bEdiaDhHVFRoR0pXM2JBakRVRzI1WnF3MWxaWVI4UlNnT1RzUlp2Q3c3SC05VjA5bTFNdUtvUUxPUHQ3cWNWdkotdkpQcDVFYldad0pKT21hWnc?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Wed, 17 Jun 2026 04:51:35 GMT",
+      "snippet": "Purchase Aevo in Uganda: Best Ways, Pricing & Roadmap&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Aevo Manual: Price, Fee & How to Start - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0ZGlYZGYxcDZqY25fNER5SUY1c0doYUdFalcxVEFya0J6QnJCbEJLX1h1akdrZWdiLTd2Vk9td3psRnJOU0lqMnRJS2ozY3E2dnRpbDgydmtiTTVscmlVTlpQelRoRV9f?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Thu, 18 Jun 2026 13:57:32 GMT",
+      "snippet": "Aevo Manual: Price, Fee & How to Start&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Buy Aevo with Card: Comprehensive Primer - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJbWluYV93VDU0VUFYQUp5YU9ManA2R3hycnFXOUVSNEZNNVJKNDBZTzNtTVVkYmE5T3NRbE85STgyM0t1cTE4bF9OaEVzV1F4a2FEOG9yVW42ZXNFRzVpSU8tTTMwTV8ybXhjRGZIeU5jQQ?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Thu, 11 Jun 2026 11:50:24 GMT",
+      "snippet": "Buy Aevo with Card: Comprehensive Primer&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Aevo Primer: How do I buy Aevo Virtually - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pQ1R6VXdqY2FmaV9aaGZuSndSY2k5aG53em94c3pEOWY5a2tXZE9fRWlRWE1jWXdPb3VrblF1d1Y2U0xUdWI1UW04MUt6Y25nQTJwbXhRRDVtVmVzYzJyYmJ5NXhwMU41c25Ubl9ZWUFXUQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Fri, 19 Jun 2026 04:00:52 GMT",
+      "snippet": "Aevo Primer: How do I buy Aevo Virtually&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "How can I purchase Aevo: Full Crypto Guide - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUEJmaUJWUDI3OWV5S3loM1BHa29ZbEdPS29aMkpKNERXWkNvYlZwZVFzNDh2a2EtcDhUd2c0anNELWRjOWx0dWVWZjRQcHcxcjVPSFNnSzZhU0MyOU5xVUJpdjVpNTJkSUlSVHVTa19KeFNVemxN?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Sat, 06 Jun 2026 23:59:00 GMT",
+      "snippet": "How can I purchase Aevo: Full Crypto Guide&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Aevo intends to open up its rollup for other protocols to build on it - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFN1SkpoeXpLRFRVMERwX2MxUmhhamJDNnlNYy0xeWd0X0hIR2ptWFpfdmdOVnIyaTY5UzVZTXBPZUhlSkdfb3FlM2ZNMlotV2lYbG5WcXZmbXhNVHN2eE5DMXhQS2NwQlRCY3ZtTVFnMERQZjRVRXoycDBKdGYwQ0F3ZTRENVAwVVpWaEYwN1RTRjVpeWdrQVNzYjVqSTVRR1hiVGNqZG4?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 23 Jan 2024 08:00:00 GMT",
+      "snippet": "Aevo intends to open up its rollup for other protocols to build on it&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

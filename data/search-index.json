@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T16:48:14.578Z",
+  "updatedAt": "2026-06-28T17:03:11.807Z",
   "results": [
     {
       "token": "VELO",
@@ -8,8 +8,48 @@
       "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T16:48:06.775Z",
+      "generatedAt": "2026-06-28T17:03:01.316Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "AEVO",
+      "requestedInput": "AEVO",
+      "name": "Aevo",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T17:03:01.136Z",
+      "latestPath": "data/results/AEVO-latest.json"
+    },
+    {
+      "token": "RESOLV",
+      "requestedInput": "RESOLV",
+      "name": "Resolv",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T17:03:02.063Z",
+      "latestPath": "data/results/RESOLV-latest.json"
+    },
+    {
+      "token": "BSV",
+      "requestedInput": "BSV",
+      "name": "Bitcoin SV",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T17:03:03.486Z",
+      "latestPath": "data/results/BSV-latest.json"
+    },
+    {
+      "token": "VELVET",
+      "requestedInput": "VELVET",
+      "name": "Velvet",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T17:03:11.805Z",
+      "latestPath": "data/results/VELVET-latest.json"
     },
     {
       "token": "CHILLGUY",
@@ -960,46 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T15:03:26.939Z",
       "latestPath": "data/results/SOL-latest.json"
-    },
-    {
-      "token": "ARQQ",
-      "requestedInput": "ARQQ",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:03:20.220Z",
-      "latestPath": "data/results/ARQQ-latest.json"
-    },
-    {
-      "token": "XAN",
-      "requestedInput": "XAN",
-      "name": "XAN",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:03:28.216Z",
-      "latestPath": "data/results/XAN-latest.json"
-    },
-    {
-      "token": "MET",
-      "requestedInput": "MET",
-      "name": "Meteora",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:03:32.085Z",
-      "latestPath": "data/results/MET-latest.json"
-    },
-    {
-      "token": "ALICE",
-      "requestedInput": "ALICE",
-      "name": "ALICE",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:03:30.607Z",
-      "latestPath": "data/results/ALICE-latest.json"
     }
   ]
 }
