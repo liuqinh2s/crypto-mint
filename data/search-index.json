@@ -1,15 +1,145 @@
 {
-  "updatedAt": "2026-06-28T16:05:51.171Z",
+  "updatedAt": "2026-06-28T16:18:21.256Z",
   "results": [
+    {
+      "token": "ESP",
+      "requestedInput": "ESP",
+      "name": "Espresso",
+      "score": 25,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T16:17:47.260Z",
+      "latestPath": "data/results/ESP-latest.json"
+    },
+    {
+      "token": "APE",
+      "requestedInput": "APE",
+      "name": "ApeCoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T16:17:47.016Z",
+      "latestPath": "data/results/APE-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 35,
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T16:17:45.666Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "HOLO",
+      "requestedInput": "HOLO",
+      "name": "Holoworld AI",
+      "score": 25,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-28T16:05:13.541Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-28T16:17:51.703Z",
+      "latestPath": "data/results/HOLO-latest.json"
+    },
+    {
+      "token": "ACT",
+      "requestedInput": "ACT",
+      "name": "ACT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T16:17:59.142Z",
+      "latestPath": "data/results/ACT-latest.json"
+    },
+    {
+      "token": "GRIFFAIN",
+      "requestedInput": "GRIFFAIN",
+      "name": "GRIFFAIN",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T16:17:57.469Z",
+      "latestPath": "data/results/GRIFFAIN-latest.json"
+    },
+    {
+      "token": "B2",
+      "requestedInput": "B2",
+      "name": "BSquared Token",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T16:17:57.289Z",
+      "latestPath": "data/results/B2-latest.json"
+    },
+    {
+      "token": "POPCAT",
+      "requestedInput": "POPCAT",
+      "name": "Popcat",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T16:18:06.530Z",
+      "latestPath": "data/results/POPCAT-latest.json"
+    },
+    {
+      "token": "KAITO",
+      "requestedInput": "KAITO",
+      "name": "Kaito",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T16:18:09.632Z",
+      "latestPath": "data/results/KAITO-latest.json"
+    },
+    {
+      "token": "MAGIC",
+      "requestedInput": "MAGIC",
+      "name": "MAGIC",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T16:18:13.722Z",
+      "latestPath": "data/results/MAGIC-latest.json"
+    },
+    {
+      "token": "4",
+      "requestedInput": "4",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T16:18:02.997Z",
+      "latestPath": "data/results/4-latest.json"
+    },
+    {
+      "token": "KGEN",
+      "requestedInput": "KGEN",
+      "name": "KGEN",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T16:18:13.676Z",
+      "latestPath": "data/results/KGEN-latest.json"
+    },
+    {
+      "token": "PREOPENAI",
+      "requestedInput": "OPENAI",
+      "name": "OpenAI",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T16:18:13.702Z",
+      "latestPath": "data/results/PREOPENAI-latest.json"
+    },
+    {
+      "token": "LLY",
+      "requestedInput": "LLY",
+      "name": "Eli Lilly & Co.",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T16:18:21.254Z",
+      "latestPath": "data/results/LLY-latest.json"
     },
     {
       "token": "POWR",
@@ -150,16 +280,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T16:05:40.891Z",
       "latestPath": "data/results/ACU-latest.json"
-    },
-    {
-      "token": "PREOPENAI",
-      "requestedInput": "OPENAI",
-      "name": "OpenAI",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:05:38.490Z",
-      "latestPath": "data/results/PREOPENAI-latest.json"
     },
     {
       "token": "BLESS",
@@ -880,126 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T14:58:27.057Z",
       "latestPath": "data/results/AMAT-latest.json"
-    },
-    {
-      "token": "BAN",
-      "requestedInput": "BAN",
-      "name": "Comedian",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T14:58:28.956Z",
-      "latestPath": "data/results/BAN-latest.json"
-    },
-    {
-      "token": "TURBO",
-      "requestedInput": "TURBO",
-      "name": "Turbo",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T14:58:33.603Z",
-      "latestPath": "data/results/TURBO-latest.json"
-    },
-    {
-      "token": "BRKB",
-      "requestedInput": "BRKB",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T14:58:30.337Z",
-      "latestPath": "data/results/BRKB-latest.json"
-    },
-    {
-      "token": "DRAM",
-      "requestedInput": "DRAM",
-      "name": "Roundhill Investments",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T14:58:34.183Z",
-      "latestPath": "data/results/DRAM-latest.json"
-    },
-    {
-      "token": "NAORIS",
-      "requestedInput": "NAORIS",
-      "name": "Naoris Protocol",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T14:58:37.497Z",
-      "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "TRB",
-      "requestedInput": "TRB",
-      "name": "TRB",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T14:58:40.233Z",
-      "latestPath": "data/results/TRB-latest.json"
-    },
-    {
-      "token": "EUL",
-      "requestedInput": "EUL",
-      "name": "Euler",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T14:58:43.751Z",
-      "latestPath": "data/results/EUL-latest.json"
-    },
-    {
-      "token": "CELO",
-      "requestedInput": "CELO",
-      "name": "Celo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T14:58:48.403Z",
-      "latestPath": "data/results/CELO-latest.json"
-    },
-    {
-      "token": "W",
-      "requestedInput": "W",
-      "name": "Wormhole",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T14:58:48.396Z",
-      "latestPath": "data/results/W-latest.json"
-    },
-    {
-      "token": "MANTA",
-      "requestedInput": "MANTA",
-      "name": "Manta",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T14:58:52.203Z",
-      "latestPath": "data/results/MANTA-latest.json"
-    },
-    {
-      "token": "JST",
-      "requestedInput": "JST",
-      "name": "JUST",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T14:47:53.594Z",
-      "latestPath": "data/results/JST-latest.json"
-    },
-    {
-      "token": "TRADOOR",
-      "requestedInput": "TRADOOR",
-      "name": "Tradoor",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T14:47:55.794Z",
-      "latestPath": "data/results/TRADOOR-latest.json"
     }
   ]
 }
