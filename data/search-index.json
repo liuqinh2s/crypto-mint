@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T11:17:46.703Z",
+  "updatedAt": "2026-06-28T11:33:25.933Z",
   "results": [
     {
       "token": "TIAN",
@@ -8,7 +8,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T11:17:19.684Z",
+      "generatedAt": "2026-06-28T11:32:55.685Z",
       "latestPath": "data/results/TIAN-latest.json"
     },
     {
@@ -18,7 +18,7 @@
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T11:17:20.548Z",
+      "generatedAt": "2026-06-28T11:32:55.143Z",
       "latestPath": "data/results/VELO-latest.json"
     },
     {
@@ -28,7 +28,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T11:17:22.827Z",
+      "generatedAt": "2026-06-28T11:32:57.250Z",
       "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
@@ -38,7 +38,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T11:17:23.558Z",
+      "generatedAt": "2026-06-28T11:32:56.824Z",
       "latestPath": "data/results/CHILLGUY-latest.json"
     },
     {
@@ -48,7 +48,7 @@
       "score": 0,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T11:17:23.175Z",
+      "generatedAt": "2026-06-28T11:32:58.586Z",
       "latestPath": "data/results/ARQQ-latest.json"
     },
     {
@@ -58,18 +58,108 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T11:17:31.147Z",
+      "generatedAt": "2026-06-28T11:33:04.963Z",
       "latestPath": "data/results/SKHYNIX-latest.json"
+    },
+    {
+      "token": "AERO",
+      "requestedInput": "AERO",
+      "name": "Aerodrome Finance",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:33:07.873Z",
+      "latestPath": "data/results/AERO-latest.json"
+    },
+    {
+      "token": "GOAT",
+      "requestedInput": "GOAT",
+      "name": "Goat",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:33:05.400Z",
+      "latestPath": "data/results/GOAT-latest.json"
     },
     {
       "token": "POPCAT",
       "requestedInput": "POPCAT",
       "name": "Popcat",
-      "score": 15,
+      "score": 20,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T11:17:29.976Z",
+      "generatedAt": "2026-06-28T11:33:08.078Z",
       "latestPath": "data/results/POPCAT-latest.json"
+    },
+    {
+      "token": "ICNT",
+      "requestedInput": "ICNT",
+      "name": "Impossible Cloud Network Token",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T11:33:16.250Z",
+      "latestPath": "data/results/ICNT-latest.json"
+    },
+    {
+      "token": "LUMIA",
+      "requestedInput": "LUMIA",
+      "name": "Lumia Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:33:14.442Z",
+      "latestPath": "data/results/LUMIA-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:33:14.643Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
+    {
+      "token": "KGEN",
+      "requestedInput": "KGEN",
+      "name": "KGEN",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-28T11:33:17.900Z",
+      "latestPath": "data/results/KGEN-latest.json"
+    },
+    {
+      "token": "ETHFI",
+      "requestedInput": "ETHFI",
+      "name": "ether.fi governance token",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T11:33:24.639Z",
+      "latestPath": "data/results/ETHFI-latest.json"
+    },
+    {
+      "token": "SAPM",
+      "requestedInput": "SAMSUNG",
+      "name": "Samsung Phone Ai Mirror⚡",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T11:33:20.339Z",
+      "latestPath": "data/results/SAPM-latest.json"
+    },
+    {
+      "token": "KMNO",
+      "requestedInput": "KMNO",
+      "name": "Kamino",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T11:33:25.931Z",
+      "latestPath": "data/results/KMNO-latest.json"
     },
     {
       "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
@@ -80,66 +170,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T11:17:29.278Z",
       "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
-    },
-    {
-      "token": "LUMIA",
-      "requestedInput": "LUMIA",
-      "name": "Lumia Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:17:33.180Z",
-      "latestPath": "data/results/LUMIA-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:17:39.021Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
-      "token": "KGEN",
-      "requestedInput": "KGEN",
-      "name": "KGEN",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T11:17:36.503Z",
-      "latestPath": "data/results/KGEN-latest.json"
-    },
-    {
-      "token": "ETHFI",
-      "requestedInput": "ETHFI",
-      "name": "ether.fi governance token",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T11:17:40.529Z",
-      "latestPath": "data/results/ETHFI-latest.json"
-    },
-    {
-      "token": "SAPM",
-      "requestedInput": "SAMSUNG",
-      "name": "Samsung Phone Ai Mirror⚡",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:17:38.002Z",
-      "latestPath": "data/results/SAPM-latest.json"
-    },
-    {
-      "token": "KMNO",
-      "requestedInput": "KMNO",
-      "name": "Kamino",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T11:17:46.701Z",
-      "latestPath": "data/results/KMNO-latest.json"
     },
     {
       "token": "GRIFFAIN",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T08:32:50.089Z",
       "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "MOODENG",
-      "requestedInput": "MOODENG",
-      "name": "MooDeng",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T08:33:00.847Z",
-      "latestPath": "data/results/MOODENG-latest.json"
-    },
-    {
-      "token": "TUT",
-      "requestedInput": "TUT",
-      "name": "Tutorial",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T08:33:02.599Z",
-      "latestPath": "data/results/TUT-latest.json"
-    },
-    {
-      "token": "AMAT",
-      "requestedInput": "AMAT",
-      "name": "Applied Materials Inc. Common Stock",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T08:33:05.325Z",
-      "latestPath": "data/results/AMAT-latest.json"
     }
   ]
 }
