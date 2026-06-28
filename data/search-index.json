@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-06-28T13:03:05.883Z",
+  "updatedAt": "2026-06-28T13:06:33.360Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T13:06:07.654Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T13:06:05.345Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "CHILLGUY",
+      "requestedInput": "CHILLGUY",
+      "name": "CHILLGUY",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T13:06:10.326Z",
+      "latestPath": "data/results/CHILLGUY-latest.json"
+    },
+    {
+      "token": "TUT",
+      "requestedInput": "TUT",
+      "name": "Tutorial",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T13:06:06.462Z",
+      "latestPath": "data/results/TUT-latest.json"
+    },
+    {
+      "token": "ARQQON",
+      "requestedInput": "ARQQ",
+      "name": "Arqit Quantum (Ondo Tokenized)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T13:06:13.940Z",
+      "latestPath": "data/results/ARQQON-latest.json"
+    },
+    {
+      "token": "SKHYNIX",
+      "requestedInput": "SKHYNIX",
+      "name": "SK Hynix",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T13:06:13.972Z",
+      "latestPath": "data/results/SKHYNIX-latest.json"
+    },
+    {
+      "token": "AERO",
+      "requestedInput": "AERO",
+      "name": "Aerodrome Finance",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T13:06:18.248Z",
+      "latestPath": "data/results/AERO-latest.json"
+    },
+    {
+      "token": "TRUST",
+      "requestedInput": "TRUST",
+      "name": "Intuition",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T13:06:19.213Z",
+      "latestPath": "data/results/TRUST-latest.json"
+    },
+    {
+      "token": "AMAT",
+      "requestedInput": "AMAT",
+      "name": "Applied Materials Inc. Common Stock",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T13:06:21.520Z",
+      "latestPath": "data/results/AMAT-latest.json"
+    },
+    {
+      "token": "BAN",
+      "requestedInput": "BAN",
+      "name": "Comedian",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T13:06:21.559Z",
+      "latestPath": "data/results/BAN-latest.json"
+    },
+    {
+      "token": "NAORIS",
+      "requestedInput": "NAORIS",
+      "name": "Naoris Protocol",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T13:06:27.044Z",
+      "latestPath": "data/results/NAORIS-latest.json"
+    },
+    {
+      "token": "KAITO",
+      "requestedInput": "KAITO",
+      "name": "Kaito",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T13:06:29.394Z",
+      "latestPath": "data/results/KAITO-latest.json"
+    },
+    {
+      "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
+      "requestedInput": "ICNT",
+      "name": "ICNT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T13:06:28.229Z",
+      "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
+    },
+    {
+      "token": "SQQQ",
+      "requestedInput": "SQQQ",
+      "name": "SQQQUSDT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T13:06:27.766Z",
+      "latestPath": "data/results/SQQQ-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T13:06:33.357Z",
+      "latestPath": "data/results/LIRA-latest.json"
+    },
     {
       "token": "TRADOOR",
       "requestedInput": "TRADOOR",
@@ -10,16 +160,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T13:02:32.339Z",
       "latestPath": "data/results/TRADOOR-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "VelodromeV2",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T13:02:32.726Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "ACT",
@@ -92,16 +232,6 @@
       "latestPath": "data/results/POPCAT-latest.json"
     },
     {
-      "token": "IMPOSSIBLECLOUDNETWORKTOKEN",
-      "requestedInput": "ICNT",
-      "name": "ICNT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T13:02:46.886Z",
-      "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
-    },
-    {
       "token": "LUMIA",
       "requestedInput": "LUMIA",
       "name": "Lumia Token",
@@ -110,16 +240,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T13:02:50.696Z",
       "latestPath": "data/results/LUMIA-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T13:02:54.584Z",
-      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "KGEN",
@@ -880,126 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T11:47:28.907Z",
       "latestPath": "data/results/MET-latest.json"
-    },
-    {
-      "token": "BRKB",
-      "requestedInput": "BRKB",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:47:24.483Z",
-      "latestPath": "data/results/BRKB-latest.json"
-    },
-    {
-      "token": "DRAM",
-      "requestedInput": "DRAM",
-      "name": "Roundhill Investments",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:47:31.566Z",
-      "latestPath": "data/results/DRAM-latest.json"
-    },
-    {
-      "token": "TRB",
-      "requestedInput": "TRB",
-      "name": "TRB",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:47:33.291Z",
-      "latestPath": "data/results/TRB-latest.json"
-    },
-    {
-      "token": "CELO",
-      "requestedInput": "CELO",
-      "name": "Celo",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:47:40.622Z",
-      "latestPath": "data/results/CELO-latest.json"
-    },
-    {
-      "token": "W",
-      "requestedInput": "W",
-      "name": "Wormhole",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T11:47:41.343Z",
-      "latestPath": "data/results/W-latest.json"
-    },
-    {
-      "token": "MANTA",
-      "requestedInput": "MANTA",
-      "name": "Manta",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:47:42.846Z",
-      "latestPath": "data/results/MANTA-latest.json"
-    },
-    {
-      "token": "TIA",
-      "requestedInput": "TIA",
-      "name": "Tiamonds [OLD]",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:42:16.889Z",
-      "latestPath": "data/results/TIA-latest.json"
-    },
-    {
-      "token": "QNTSTOCK",
-      "requestedInput": "QNTSTOCK",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:42:12.648Z",
-      "latestPath": "data/results/QNTSTOCK-latest.json"
-    },
-    {
-      "token": "FARTCOIN",
-      "requestedInput": "FARTCOIN",
-      "name": "Fartcoin",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:42:18.219Z",
-      "latestPath": "data/results/FARTCOIN-latest.json"
-    },
-    {
-      "token": "MOODENG",
-      "requestedInput": "MOODENG",
-      "name": "MooDeng",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:42:22.358Z",
-      "latestPath": "data/results/MOODENG-latest.json"
-    },
-    {
-      "token": "WIF",
-      "requestedInput": "WIF",
-      "name": "WIF",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:42:20.387Z",
-      "latestPath": "data/results/WIF-latest.json"
-    },
-    {
-      "token": "SOL",
-      "requestedInput": "SOL",
-      "name": "SOL",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T11:42:29.793Z",
-      "latestPath": "data/results/SOL-latest.json"
     }
   ]
 }
