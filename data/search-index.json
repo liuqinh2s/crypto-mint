@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-28T19:17:48.456Z",
+  "updatedAt": "2026-06-28T19:32:59.820Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-28T19:32:59.819Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
     {
       "token": "ELSA",
       "requestedInput": "ELSA",
@@ -10,16 +20,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T19:17:48.454Z",
       "latestPath": "data/results/ELSA-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T19:17:46.274Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "SYRUP",
