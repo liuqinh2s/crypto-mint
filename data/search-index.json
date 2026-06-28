@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T10:32:47.127Z",
+  "updatedAt": "2026-06-28T10:47:33.549Z",
   "results": [
     {
       "token": "TRADOOR",
@@ -8,47 +8,57 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T10:32:31.767Z",
+      "generatedAt": "2026-06-28T10:47:19.092Z",
       "latestPath": "data/results/TRADOOR-latest.json"
     },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 35,
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-28T10:32:30.491Z",
+      "generatedAt": "2026-06-28T10:47:17.347Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "ACT",
+      "requestedInput": "ACT",
+      "name": "ACT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-28T10:47:15.822Z",
+      "latestPath": "data/results/ACT-latest.json"
     },
     {
       "token": "JUP",
       "requestedInput": "JUP",
-      "name": "Jupiter",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T10:32:31.963Z",
+      "name": "JUP",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T10:47:18.771Z",
       "latestPath": "data/results/JUP-latest.json"
     },
     {
       "token": "ID",
       "requestedInput": "ID",
       "name": "SPACE ID",
-      "score": 25,
-      "label": "观望",
+      "score": 15,
+      "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T10:32:29.646Z",
+      "generatedAt": "2026-06-28T10:47:22.987Z",
       "latestPath": "data/results/ID-latest.json"
     },
     {
       "token": "SYN",
       "requestedInput": "SYN",
       "name": "Synapse",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T10:32:36.748Z",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-28T10:47:25.400Z",
       "latestPath": "data/results/SYN-latest.json"
     },
     {
@@ -58,7 +68,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T10:32:37.346Z",
+      "generatedAt": "2026-06-28T10:47:25.538Z",
       "latestPath": "data/results/IMPOSSIBLECLOUDNETWORKTOKEN-latest.json"
     },
     {
@@ -68,7 +78,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T10:32:40.080Z",
+      "generatedAt": "2026-06-28T10:47:25.318Z",
       "latestPath": "data/results/LIRA-latest.json"
     },
     {
@@ -78,7 +88,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-28T10:32:37.947Z",
+      "generatedAt": "2026-06-28T10:47:28.647Z",
       "latestPath": "data/results/SAPM-latest.json"
     },
     {
@@ -86,9 +96,9 @@
       "requestedInput": "USDC",
       "name": "USDC",
       "score": 10,
-      "label": "强烈回避",
+      "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-28T10:32:47.125Z",
+      "generatedAt": "2026-06-28T10:47:33.547Z",
       "latestPath": "data/results/USDC-latest.json"
     },
     {
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T08:02:58.307Z",
       "latestPath": "data/results/TIA-latest.json"
-    },
-    {
-      "token": "GRIFFAIN",
-      "requestedInput": "GRIFFAIN",
-      "name": "GRIFFAIN",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T08:03:05.150Z",
-      "latestPath": "data/results/GRIFFAIN-latest.json"
     }
   ]
 }
