@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-29T00:47:53.740Z",
+  "updatedAt": "2026-06-29T01:02:57.839Z",
   "results": [
+    {
+      "token": "TAC",
+      "requestedInput": "TAC",
+      "name": "TAC",
+      "score": 20,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-29T01:02:57.836Z",
+      "latestPath": "data/results/TAC-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
@@ -8,8 +18,18 @@
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-29T00:47:51.522Z",
+      "generatedAt": "2026-06-29T01:02:55.867Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "DYDX",
+      "requestedInput": "DYDX",
+      "name": "dYdX",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-29T01:02:57.726Z",
+      "latestPath": "data/results/DYDX-latest.json"
     },
     {
       "token": "UNH",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T15:48:16.935Z",
       "latestPath": "data/results/BAS-latest.json"
-    },
-    {
-      "token": "TNSR",
-      "requestedInput": "TNSR",
-      "name": "Tensor",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:32:48.820Z",
-      "latestPath": "data/results/TNSR-latest.json"
-    },
-    {
-      "token": "HIVE",
-      "requestedInput": "HIVE",
-      "name": "Hive",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T15:32:51.302Z",
-      "latestPath": "data/results/HIVE-latest.json"
     }
   ]
 }
