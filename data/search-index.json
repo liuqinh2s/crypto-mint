@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T08:19:01.040Z",
+  "updatedAt": "2026-06-29T08:34:02.036Z",
   "results": [
     {
       "token": "VELO",
@@ -8,8 +8,28 @@
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-29T08:19:01.038Z",
+      "generatedAt": "2026-06-29T08:34:00.718Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "BR",
+      "requestedInput": "BR",
+      "name": "Bedrock",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-29T08:34:02.034Z",
+      "latestPath": "data/results/BR-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T08:34:01.445Z",
+      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "SYN",
@@ -20,16 +40,6 @@
       "action": "不买",
       "generatedAt": "2026-06-29T08:19:00.178Z",
       "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T08:19:00.218Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "ORDI",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T16:05:24.658Z",
       "latestPath": "data/results/GE-latest.json"
-    },
-    {
-      "token": "AXON",
-      "requestedInput": "AXON",
-      "name": "AXON",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:05:26.021Z",
-      "latestPath": "data/results/AXON-latest.json"
     }
   ]
 }
