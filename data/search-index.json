@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-06-28T23:47:45.376Z",
+  "updatedAt": "2026-06-29T00:02:37.372Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 25,
+      "score": 30,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-28T23:47:45.375Z",
+      "generatedAt": "2026-06-29T00:02:37.370Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "AXL",
+      "requestedInput": "AXL",
+      "name": "Axelar",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T00:02:36.967Z",
+      "latestPath": "data/results/AXL-latest.json"
     },
     {
       "token": "INFQ",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T15:32:58.775Z",
       "latestPath": "data/results/UNH-latest.json"
-    },
-    {
-      "token": "HYPER",
-      "requestedInput": "HYPER",
-      "name": "Hyper",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:32:57.401Z",
-      "latestPath": "data/results/HYPER-latest.json"
     }
   ]
 }

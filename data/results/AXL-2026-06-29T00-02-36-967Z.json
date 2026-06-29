@@ -1,0 +1,325 @@
+{
+  "token": "AXL",
+  "requestedInput": "AXL",
+  "exchange": "other",
+  "generatedAt": "2026-06-29T00:02:36.967Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AXL",
+    "name": "Axelar",
+    "generatedAt": "2026-06-29T00:02:26.352Z",
+    "summary": "AXL近期因Circle收购开发团队但未纳入代币而暴跌，随后出现技术性反弹，但基本面恶化，代币价值支撑减弱。当前价格较ATH跌超98%，市场情绪悲观，成交量低迷，建议回避。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非Circle宣布将AXL纳入其生态或推出新的代币用途，否则逻辑失效。"
+    },
+    "catalysts": [
+      "Circle收购开发团队后，市场预期AXL可能被弃用，导致恐慌性抛售",
+      "技术性超跌反弹，但缺乏基本面支撑",
+      "跨链技术本身仍有价值，但代币与项目脱钩"
+    ],
+    "latestNews": [
+      {
+        "title": "AXL Price Crashes 18% as Circle Abandons Token after Acquiring Axelar Network Developer",
+        "impact": "利空",
+        "reason": "Circle收购开发团队但未提及AXL代币，市场解读为代币被抛弃"
+      },
+      {
+        "title": "Is This the End for AXL Token Holders? Axelar Without Its Creators",
+        "impact": "利空",
+        "reason": "核心团队被收购后，AXL代币的未来用途不明"
+      },
+      {
+        "title": "Axelar Delivers First Crosschain Connectivity for the New XRP Ledger EVM Sidechain",
+        "impact": "中性",
+        "reason": "技术进展仍在继续，但代币价值未直接受益"
+      }
+    ],
+    "fundamentals": [
+      "Axelar是跨链通信协议，曾获CoinList Launchpad支持",
+      "Circle收购了开发团队Interop Labs，但AXL代币未被纳入",
+      "代币主要用于治理和网络费用，但用户无需持有",
+      "总供应约12.45亿，流通约11.94亿，通胀机制存在",
+      "ATH为2.64美元，当前价格0.0419美元，跌幅超98%"
+    ],
+    "marketRead": [
+      "24小时涨幅约3%，但7日跌幅4.4%，30日跌幅24.9%",
+      "DEX流动性约2718万美元，但24小时交易量仅0.14美元（疑似数据异常）",
+      "市场情绪极低，看涨投票100%但样本量小",
+      "价格处于历史低位，但缺乏买盘支撑"
+    ],
+    "risks": [
+      "核心团队被收购后，代币价值支撑消失",
+      "Circle可能推出新代币或直接使用USDC，AXL被边缘化",
+      "通胀机制持续稀释持有者",
+      "流动性低，大额卖出可能导致价格剧烈波动",
+      "监管风险：跨链桥可能面临合规审查"
+    ],
+    "watchlist": [
+      "Circle是否发布关于AXL的官方声明",
+      "AXL是否被主要交易所下架",
+      "开发团队是否继续维护Axelar网络",
+      "跨链赛道竞争格局变化"
+    ],
+    "sourceNotes": [
+      "DEX交易量数据异常，可能不准确",
+      "新闻主要来自12月收购事件，近期缺乏新催化",
+      "市场数据截至2026-06-29，价格可能已变化"
+    ]
+  },
+  "profile": {
+    "id": "axelar",
+    "symbol": "AXL",
+    "name": "Axelar",
+    "categories": [
+      "Infrastructure",
+      "BNB Chain Ecosystem",
+      "Avalanche Ecosystem",
+      "Polygon Ecosystem",
+      "Fantom Ecosystem",
+      "Arbitrum Ecosystem",
+      "Moonbeam Ecosystem",
+      "Ethereum Ecosystem",
+      "Optimism Ecosystem",
+      "Interoperability",
+      "Bridge Governance Tokens",
+      "Base Ecosystem",
+      "Osmosis Ecosystem",
+      "Cross-chain Communication",
+      "Secret Ecosystem",
+      "Galaxy Digital Portfolio",
+      "Polychain Capital Portfolio",
+      "Made in USA",
+      "CoinList Launchpad"
+    ],
+    "homepage": [
+      "https://axelar.network/",
+      "https://satellite.money/",
+      "https://github.com/axelarnetwork/audits"
+    ],
+    "description": "Axelar delivers secure interchain communication. That means dApp users can interact with any asset, any application, on any chain, with one click. You can think of it as Stripe for Web3. Developers interact with a simple API atop a permissionless network that routes messages and ensures network security via proof-of-stake consensus. Axelar is a blockchain that connects blockchains. To do this securely, Axelar network uses proof-of-stake consensus. Network validators produce new blocks, participate in multiparty signing and vote on external chain states. Tokenholders stake the AXL token, delegating tokens to a validator’s staking pool and receiving rewards, minus the validator’s commission. The AXL token is used for governance and to pay network transaction fees to validators and tokenholders. However, users of the Axelar network do not need to hold the token. Conversions into AXL tokens and destination-chain tokens are handled on the back end, so that users need only pay gas once, in the source-chain token. Axelar network rewards are “inflationary” — they increase the total supply of AXL — but there is potential for supply to become deflationary based on the transaction fee mechani",
+    "marketCapRank": 434,
+    "currentPriceUsd": 0.04186957,
+    "marketCapUsd": 50017309,
+    "fullyDilutedValuationUsd": 52169458,
+    "totalVolumeUsd": 2737347,
+    "priceChange24hPct": 0.03029,
+    "priceChange7dPct": -4.4369,
+    "priceChange14dPct": -9.97206,
+    "priceChange30dPct": -24.9358,
+    "athUsd": 2.64,
+    "athChangePct": -98.41759,
+    "circulatingSupply": 1194229358.481203,
+    "totalSupply": 1245614778.130161,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 44583,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "AXL/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x00dE2417323a3bda4E49681dB2FD60c56dAce7eA",
+    "pairUrl": "https://dexscreener.com/ethereum/0x00de2417323a3bda4e49681db2fd60c56dace7ea",
+    "lastPrice": 0.04619,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.14,
+    "liquidityUsd": 27187539.51,
+    "fullyDilutedValuationUsd": 54375079,
+    "marketCapUsd": 54375079,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x00de2417323a3bda4e49681db2fd60c56dace7ea",
+    "pairAddress": "0x00dE2417323a3bda4E49681dB2FD60c56dAce7eA",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0x34433326d15573d30525949028387Ee032B64f2C",
+      "name": "Axelar",
+      "symbol": "AXL"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.00002946",
+    "priceUsd": "0.04619",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.14,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 27187539.51,
+      "base": 588492404,
+      "quote": 0.00008952
+    },
+    "fdv": 54375079,
+    "marketCap": 54375079,
+    "pairCreatedAt": 1782665219000
+  },
+  "news": [
+    {
+      "title": "AXL Price Crashes 18% as Circle Abandons Token after Acquiring Axelar Network Developer - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2TFR2VnBsNk1FU1dBWUZxZFZxSUl5S29jemFob1NDbmp4LVBRSkw3d1hsbUJ4QW41U1QySWd0bXBGLWxwYnlGelFoSkJaMXdoYTF2QzFtMGR3a1JIZGRHQkZHTFBGdjRLeThweEhSVHhnV0tEel91RHhYQnZzZw?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "snippet": "AXL Price Crashes 18% as Circle Abandons Token after Acquiring Axelar Network Developer&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Is This the End for AXL Token Holders? Axelar Without Its Creators - - Altcoin Buzz",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0c2ZDJpVU03UXpoSE14eUduakhXUjJ3T0JZaXZXck9zYWh3c3E1Yld5bHM0VUFpcXNMQ3cwYkxISDFCVDRhcU5KWkEzWFdSUHFUV1YtcVVmUHNnYkZjQUtkYURJUDFWZHhkMldLX0tBVEptOEFXWXl6NmhmWHJKOGNzNVJYNkZKQ1FhWm1XdV9TUGVBQ2I1S2ZIVlpzZVNOSWg0dm5ZdnM?oc=5",
+      "source": "Altcoin Buzz",
+      "publishedAt": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "snippet": "Is This the End for AXL Token Holders? Axelar Without Its Creators -&nbsp;&nbsp;Altcoin Buzz"
+    },
+    {
+      "title": "Axelar token investors cry foul as Circle’s Interop Labs acquisition cuts them out - dlnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTBuSnhOTjZqYW5Hd1ppZHRrUUNKZGpTbHFUODZsaTZDWDZGTXBpSzZ3cGVCenVVQURodHQzcDExSHBEMDJ3eHljY2lqQUV5bXVud2ZSVkJ0YTFxaU5PeUpsX25uc05QclBpcmEzVVhHc1B6SGlSNUw4RHdMMjBrM1BCeTdEZjRtMmN6YXZnV0FOc190UFR0VUNZbFBiRXVyNGJWLVVrZENyV2xpaUFKNjB0cVBXU3lU?oc=5",
+      "source": "dlnews.com",
+      "publishedAt": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "snippet": "Axelar token investors cry foul as Circle’s Interop Labs acquisition cuts them out&nbsp;&nbsp;dlnews.com"
+    },
+    {
+      "title": "Alexar (ALX) News: Token Slides 15% after Circle deal takes the developer team, leaves AXL behind - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZnhvOU1CWFk4SWNUNXZjLWw1RXhnZ3BXWkE5c25BZHZMNDc3cXRNQ19Wc2xBd2tOTDRKMndEbHdlRVZIZU9YZ3BKT0RTZmI2UkNLbmIyVDEzZ3FVc0xHY3pDQno0X09pVEpWTEdoM1Rfb1c2UzhMSnNuaUxIalFQTFlZX2NEVDRxOEh1NUxqdzJtNVJxcVJ4VHotNUlIR0NOT0FpZ2kyNUlUcTNMeHNtWk0xek5oUEI3b0R2dHZXYktiNVJN?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "snippet": "Alexar (ALX) News: Token Slides 15% after Circle deal takes the developer team, leaves AXL behind&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Circle’s Acquisition Of Axelar’s Developers Stirs Up Crypto Community – AXL Price Falls Over 16% - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVlRuUTZOaFRZd1RyMjlyVkxNV1RFaHBkenlTRHJ3SHV1NWlzRU9xTWtHN1pDeWFRMjRhTlNmMUlIRXotVkRGRUtwQ1J5WFZzYUp4WXh6ejZSdDdfUXlIMVQ0VDJEVTc4MnlDRzg0M1ZFdnhxSGMzczZ0N25rS3VYTU91NjVtc3IxVmd3all5ZWRycnl4cWVxTjhQYmRJTHFIdGNfOTB5dWE5VGxtWVR1SEp6d3RrZDJPUEx3eWZMQ0MySEFXUTBUdmV4TGNYaloxMzFjQzZWb3gyeExHY3A2T3hJdGR3LXBVM1hXYnlENE9hZHl6NEhsWg?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Sat, 13 Dec 2025 08:00:00 GMT",
+      "snippet": "Circle’s Acquisition Of Axelar’s Developers Stirs Up Crypto Community – AXL Price Falls Over 16%&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Axelar Token Drops Nearly 18% Following Circle Deal - ForkLog",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tOVJGYTk1QzU0T1BqR196TXNDdk9pWk1Ed0hMdXJLWmdWX01WZVBZZWppcUtWRnoybFJlSWlRV2FOUGtmUWhBeEhqZnhpMlF5LW5Ub3BIQkNuaVFBZHdtTXFmZG1PbTJKVjhWZmgzbmVPR0EzZ0o0d2Iza2tlcFk?oc=5",
+      "source": "ForkLog",
+      "publishedAt": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "snippet": "Axelar Token Drops Nearly 18% Following Circle Deal&nbsp;&nbsp;ForkLog"
+    },
+    {
+      "title": "Circle acquires Axelar development team: A strategic masterstroke for USDC dominance - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVXZkb01CY0tVakRJajlSRDZqRzRDYk5XNHgwb2ttci1nRlhQaG52NDBPQzBoR2wwLURkSVZfeEtfeUdMU3pJYktLekdUaFZERk5QUjJIS0Q5LS0tcEhwVnIyZG43Sk9OUzFOTmg4RlVneElMT29mR1JDRExzZHFPUlVlSQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "snippet": "Circle acquires Axelar development team: A strategic masterstroke for USDC dominance&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Axelar [AXL]: 19% rally meets bearish market structure – Here’s what’s next! - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ienVDNlp4WVpXdFdfZkJWc2c0TnUtc2hoNHpnMmUtT0gtVFpxQ2NrcjBndHNORk5RN0RKTHA0NzhjLWZMaHY4Yk5rRF92RGF5UjRpcnNlODItaTgtbUHSAWNBVV95cUxQYjRaeWNUX1hRd0lJYXdFV2d0Z0YzMWNaRGFYWkxSYjlmQ2J1SmhSSjdpT1pkc3BTSFJaR1ZFczJGNFd3T0RCRDRPOExYaGMwTTZkOFpMa0JDZl9RZzFrbG9Cd0E?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 26 Jan 2026 08:00:00 GMT",
+      "snippet": "Axelar [AXL]: 19% rally meets bearish market structure – Here’s what’s next!&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Axelar Delivers First Crosschain Connectivity for the New XRP Ledger EVM Sidechain - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQck04cEwxdHUyNm4tdUFJQjVodWdsLXVkQkxjbHNicHplT1BDaHpiM1RlQnZBZnFYSzQwZ1hzSmVGOVJ1cTdFWTBSRGdCSFliSTQwUTVzZXJpU0dWSjZwZVFJUmhFbVpDQ2d5SFlFeVJqY3M1NkVRRENtOHd3dlk3QTRvVmtoMUpvSTVHRldUOWNpX2pKZXQybEJzRFlTazFHejVVZ2dMM3pidnNuNWNsakNKcHZKRVhfOTMxaERtQWZlQTBwdVJQUGZ6Mkg1OVItNmVoUHVR?oc=5",
+      "source": "Business Wire",
+      "publishedAt": "Mon, 30 Jun 2025 07:00:00 GMT",
+      "snippet": "Axelar Delivers First Crosschain Connectivity for the New XRP Ledger EVM Sidechain&nbsp;&nbsp;Business Wire"
+    },
+    {
+      "title": "Axelar price today, AXL to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03Q0pST2E3QkJNWVplamp6RElRUm84bWhmMjFIZnlRNldDbTliVFpXVFVjQUdpekZsWEswbm5MVFB2X3VIbk04V0NkQzliQmV1MkttNDM2WQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 02 Feb 2022 09:44:30 GMT",
+      "snippet": "Axelar price today, AXL to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Axelar Integrates Hedera to Expand Cross-Chain Access for Onchain Finance - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZaVF2cTc1eERPU3lLVElBNU5PMVF0YUVPVVAwcUdSMHBoTlNkekhibWN2OFAyLU81MGF0VExWZmZ1eEdUY19saWJHN2dEQnF3YkZvcEthUU5ydzc2WmfSAWNBVV95cUxOMW5Ia2RlLW1OQzlCejVEeEdfeGQ5VmxobnhsQm4zSTZzOEdtRmkzM0ZaenJKdXNSMDhoRDRzMnJhN1B6SjUxb2RIQ2dIX2pNUTZ2QnpUMUtwNFU3VWxZNUZXcUU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "snippet": "Axelar Integrates Hedera to Expand Cross-Chain Access for Onchain Finance&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Axelar (AXL) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5T1dGU3J3cjVzLTB6M1BTZGFVSjl2MldkVHlJLUtYOTVqR0NwWEkwYVlhcWk3dXFjUFRTT1F1UUEzNGlhSF9n?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 04 Mar 2022 14:53:47 GMT",
+      "snippet": "Axelar (AXL) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Axelar (AXL): Building Interoperability for the Crypto World - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBQ1Q2WWF1RjktZV9XS051UWc1eVRzX0d3cTBFYVdPRV9MYlVuTjc2RjdxWVBLT0ZNTjAyMEhJYm9JdndheG5Bck9RRUNaeVA1d1NDaUxKd2RwNnlHOGpyNS10Tk9PU3dwU1pMTExnUkJSTjJlVGpWZQ?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Thu, 21 Dec 2023 08:00:00 GMT",
+      "snippet": "Axelar (AXL): Building Interoperability for the Crypto World&nbsp;&nbsp;Bybit Learn"
+    },
+    {
+      "title": "Axelar Price Prediction 2025-35: Will It Hit $50 by 2035? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YWHhoTVZtUFNOOTJnZEpUZk40OUc2N1RUTnJYd3F5QXZjM1Bua0F3bHdaYXBZaDRydEVxZ0gtNDdlQUxPaEJNQkRwdGtydFliMWhvYTZaVTJzNktwSHfSAWNBVV95cUxOYWpUeDJ4cjI4aFVSTnc4VmcwYTUxRTQ2T3dkUW4xeTFvQ3MzS25Rb1pVeFItMFRZZWpqV241UG9BNzF0WV9zTF96czNYbk5BRXhxLVVfM1psSUJObW1WdWppenc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 16 Jun 2025 07:00:00 GMT",
+      "snippet": "Axelar Price Prediction 2025-35: Will It Hit $50 by 2035?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Axelar Network Connects With Solana Via The Interchain Amplifier, Unlocking Web3 Cross-Chain Liquidity - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpeURhdy1ZQTF3UUJ0Qm5UOEhVcHROOUJlbDk2UGZ0ZFU1SWpmZEdrTENJdnFDU3NuMWJ0aVZuYldGUFVlUzkyOHd6a0xvcVZZVVNOOC03eG5BNVpEYkHSAWNBVV95cUxNczJOdC1RY2F2Rm1QU2cxOFR2ajdBZENjZW9SV3BxbFU2aXl5cm4tcjhtV005bW1VR3BwMGNGa0RtMURtdEpSU1lIdUEtZ1BvSEtKQ3pMVTNnYWdNSkNJNmljSTQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "snippet": "Axelar Network Connects With Solana Via The Interchain Amplifier, Unlocking Web3 Cross-Chain Liquidity&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Axelar Kurs Prognose, Axelar prognose 2025 - 2030 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05YkdMcEdsdHFkbkRoMHFRMWVUbVAxNDZSdkh4R19QQWpDRmpSOUY3cl9KY3daTjBVLWR3VWI3YnpaMVBhakk5OUpJNU44dGxWUFRwREt6Zks3RlBNVkRXbTJ2MTFoQQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 19 Oct 2023 05:38:32 GMT",
+      "snippet": "Axelar Kurs Prognose, Axelar prognose 2025 - 2030&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
