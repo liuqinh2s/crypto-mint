@@ -1,0 +1,310 @@
+{
+  "token": "AR",
+  "requestedInput": "AR",
+  "exchange": "other",
+  "generatedAt": "2026-06-29T09:18:06.988Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AR",
+    "name": "Arweave",
+    "generatedAt": "2026-06-29T09:17:57.978Z",
+    "summary": "AR近期24h上涨5.6%，但7/14/30日均为下跌，整体处于下跌趋势。链上DEX流动性极低（仅17.2万美元），交易量仅394美元，存在极高操纵风险。基本面有AO主网上线、AR.IO等利好，但价格未反映。当前价格距ATH跌97.8%，估值偏低但缺乏短期催化。建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若流动性持续低迷或出现负面消息（如再次停机），则逻辑失效。"
+    },
+    "catalysts": [
+      "AO计算平台主网上线（2025年2月）",
+      "AR.IO永久云存储网络主网及TGE（2025年2月）",
+      "Meta曾使用Arweave存储Instagram NFT（2022年）",
+      "价格预测文章提及目标$15-$50"
+    ],
+    "latestNews": [
+      {
+        "title": "Arweave (AR) Price Prediction 2026, 2027-2030: Can AR Rally to $15 This Year?",
+        "impact": "利好",
+        "reason": "价格预测文章可能吸引投机者关注，但实际影响有限。"
+      },
+      {
+        "title": "Arweave Block Production Halted: Critical 24-Hour Outage Stuns Permanent Web",
+        "impact": "利空",
+        "reason": "2026年2月曾发生24小时停机，损害网络可靠性声誉。"
+      },
+      {
+        "title": "Arweave's computing platform AO goes live on mainnet",
+        "impact": "利好",
+        "reason": "AO主网上线扩展了Arweave生态，可能带来新用例和需求。"
+      },
+      {
+        "title": "Arweave-based 'permanent cloud' storage network AR.IO launches mainnet and TGE",
+        "impact": "利好",
+        "reason": "AR.IO主网上线及代币生成事件，增加生态活跃度。"
+      }
+    ],
+    "fundamentals": [
+      "永久数据存储协议，采用Proof of Access共识",
+      "总供应量6600万，当前流通6565万，接近全流通",
+      "市值1.28亿美元，排名213",
+      "ATH 89.24美元，当前1.95美元，跌幅97.8%",
+      "获Coinbase Ventures、Multicoin、a16z、Blockchain Capital投资",
+      "AO计算平台和AR.IO网络是近期主要进展"
+    ],
+    "marketRead": [
+      "24h涨幅5.6%，但7日跌1.9%，30日跌16.3%，整体下行",
+      "链上DEX（PancakeSwap BSC）流动性仅17.2万美元，24h交易量394美元，极低流动性易被操纵",
+      "CEX数据未提供，但链上数据表明实际交易活跃度极低",
+      "价格远低于ATH，但缺乏反弹动力"
+    ],
+    "risks": [
+      "链上流动性极低，存在拉盘砸盘风险",
+      "2026年2月曾发生24小时停机，技术风险",
+      "价格持续下跌，市场情绪偏空",
+      "新闻多为价格预测，缺乏实质性利好",
+      "DEX交易对为AR/ASTER，非主流交易对，可能存在合约风险"
+    ],
+    "watchlist": [
+      "CEX（如Binance、Coinbase）上的AR交易量和价格",
+      "AO和AR.IO的采用数据",
+      "是否有新的合作伙伴或集成",
+      "链上流动性是否改善"
+    ],
+    "sourceNotes": [
+      "数据主要来自CoinGecko profile和DexScreener，CEX数据缺失",
+      "新闻来源为Google News聚合，部分为价格预测文章，可靠性一般",
+      "链上DEX数据仅代表BSC上的AR/ASTER交易对，非主流交易对"
+    ]
+  },
+  "profile": {
+    "id": "arweave",
+    "symbol": "AR",
+    "name": "Arweave",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "Smart Contract Platform",
+      "Storage",
+      "Layer 1 (L1)",
+      "DePIN",
+      "Coinbase Ventures Portfolio",
+      "Multicoin Capital Portfolio",
+      "Andreessen Horowitz (a16z) Portfolio",
+      "Blockchain Capital Portfolio"
+    ],
+    "homepage": [
+      "https://arweave.org/"
+    ],
+    "description": "Welcome to the future of data storage A new data storage blockchain protocol based on a novel proof of access consensus mechanism that creates truly permanent data storage for the first time. Now data is finally permanent, low-cost, and truly censorship free. Arweave has solved the millennia old problem of decentralised data availability. Pay Once, Store Forever. Arweave makes permanent data storage a reality for the very first time. As the $3 trillion data-storage industry is growing, the need for cheap, distributed, permanent data-storage on the blockchain has become an urgent necessity.",
+    "marketCapRank": 213,
+    "currentPriceUsd": 1.95,
+    "marketCapUsd": 128295781,
+    "fullyDilutedValuationUsd": 128295781,
+    "totalVolumeUsd": 11006604,
+    "priceChange24hPct": 5.58917,
+    "priceChange7dPct": -1.91925,
+    "priceChange14dPct": -7.57426,
+    "priceChange30dPct": -16.28884,
+    "athUsd": 89.24,
+    "athChangePct": -97.8263,
+    "circulatingSupply": 65652466,
+    "totalSupply": 65652466,
+    "maxSupply": 66000000,
+    "sentimentVotesUpPct": 50,
+    "watchlistUsers": 107402,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "AR/ASTER",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x528f7144a1AD78E05c7226ffbcBeF9eE9223F382",
+    "pairUrl": "https://dexscreener.com/bsc/0x528f7144a1ad78e05c7226ffbcbef9ee9223f382",
+    "lastPrice": 0.003199,
+    "priceChange24hPct": 4.48,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 394.6,
+    "liquidityUsd": 172204.38,
+    "fullyDilutedValuationUsd": 179185,
+    "marketCapUsd": 179185,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x528f7144a1ad78e05c7226ffbcbef9ee9223f382",
+    "pairAddress": "0x528f7144a1AD78E05c7226ffbcBeF9eE9223F382",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x19943c027d8DEb171E91315cFCB446B9DCC16d25",
+      "name": "AR",
+      "symbol": "AR"
+    },
+    "quoteToken": {
+      "address": "0x000Ae314E2A2172a039B26378814C252734f556A",
+      "name": "Aster",
+      "symbol": "ASTER"
+    },
+    "priceNative": "0.005059",
+    "priceUsd": "0.003199",
+    "txns": {
+      "m5": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 48,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 207,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 577,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 394.6,
+      "h6": 221.64,
+      "h1": 15.61,
+      "m5": 0.11
+    },
+    "priceChange": {
+      "h1": 0.11,
+      "h6": 1.31,
+      "h24": 4.48
+    },
+    "liquidity": {
+      "usd": 172204.38,
+      "base": 26909396,
+      "quote": 136145
+    },
+    "fdv": 179185,
+    "marketCap": 179185,
+    "pairCreatedAt": 1777902568000
+  },
+  "news": [
+    {
+      "title": "Arweave (AR) Price Prediction 2026, 2027-2030: Can AR Rally to $15 This Year? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pTWhmTE1lMDFOa3hzb19XcjlmU2g1eDNHQkhUYnhyNjZwUEllV25SR2NjYmY1Rnhqc0laVG1TMDgtRS1ESk1WeC1hUzM5MHNiZTQyY3FrdERObk5kTU1RbWR6bzhIVEN1M09STl9ybjRZdXBPU0HSAXtBVV95cUxQOVFUZ01EVkZpSG5pMTQ5cWVNVTVIQVhJNlY3U01WN05IWl9XbkdXcUNpYUNJd3FXcWh6LXRfLTgwNV9lV0V4U0ptaVRrSjJRcTNaXzM4emxCc0FwWDlzX0plazlIc1pTZm13ZnI5ZVU4VW5sMWFFa0xNRXM?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Sat, 11 Apr 2026 07:00:00 GMT",
+      "snippet": "Arweave (AR) Price Prediction 2026, 2027-2030: Can AR Rally to $15 This Year?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Arweave Price Prediction 2026-2030: The Critical Analysis Behind a Potential $15 Rally - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13U2NDMHBTWV8yaDJhQnMtQklwc0N3LUI1X2hIZEFfeU50VGFsMGZWM2lnU1lsY3J3ZjVmNjF1ODV5MW1TNUQ5a2YtUEtFRm4tbjBXekU0dVB5bTRCZWh1dzVIdi10R3pOX0gwZ0JyX2hjT1plTVpSOXJkakRBcVU?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 11 Apr 2026 07:00:00 GMT",
+      "snippet": "Arweave Price Prediction 2026-2030: The Critical Analysis Behind a Potential $15 Rally&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Arweave Price Prediction 2025, 2026 - 2030: Will AR Price Hit $50? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdzBUWHI0MmtCYjhLSkd1Y185d2hYN0NfMFctd2VtZFBadWNocG1waGVzUTdGMjFzLVFicERITEJNWE1YeXlwMkhmS2FndjVzV1dzY01YZFVQWlZnV0HSAWNBVV95cUxQdDhZay1LcDNPT050dk1VdXZDNlU4SkU4NjJUODVvblpTSFA3U3lWWjVpYWR1RFgwTmVRYTZiVDMtcUZTMTF6Y0dnTEpqRks2c3o5Wm41cFFNUlBvdzhpS0tWWm8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "Arweave Price Prediction 2025, 2026 - 2030: Will AR Price Hit $50?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Arweave Block Production Halted: Critical 24-Hour Outage Stuns Permanent Web - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWXZxekZjRVFpOUlwQTZLRzd5MHZ0dkg1T1NUMFVwejU0Vi1MWlgtNTZjM1NKOVVGV2Q3SkM1ZW0xUVNQUFJBcGVnb0dUa1BmazZHYzVvcUJrSVhKLUNvMlFPMG1XeGRDYnM4OUN6TkhMeFJVbGpiQU52MzZEZTVoZ2xR?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 07 Feb 2026 08:00:00 GMT",
+      "snippet": "Arweave Block Production Halted: Critical 24-Hour Outage Stuns Permanent Web&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Arweave price prediction | Is Arweave a Good Investment? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvTEloN2tuRlpGWFlUZTVtcUduVzBmS2NodHRVQXlaQU44SndsN3Z0R3o0TkNLUzFLVjBTRzh4dHgxV01FallXM2lydjctVmxBTUs4Z0QzODQwTnFYOGkxelpNU0RuWUZaN0U0WnQ1V2g?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Tue, 06 May 2025 10:10:59 GMT",
+      "snippet": "Arweave price prediction | Is Arweave a Good Investment?&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "Arweave (AR) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OdUQ1cUFiaWlVUFlkZkl4dDdyc0dmMHhDZDJiMWFMOHNJWU9kX2FIanhpU1ZWR0JQOC1VdVNOYkhXWmZjRVRPd2hMQTBMUGtsTDJoLWtxRlJyZF9sSF90dUNHejk4aE0?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Sat, 02 Apr 2022 03:34:45 GMT",
+      "snippet": "Arweave (AR) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Arweave Review in 2026 - What Type of Trader is Made For? - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xa2pFTF9VeUc2bEw1aHVIRVpDOHBaY185TjlmZHFJaWJjQ1dhM1VLN1VJRmJ2NmRoMjdoOXN5UlM5bS00VGw1d1pQVm5hX0psbEhFZXVRSHNFNnFTbUlnTmRObw?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "snippet": "Arweave Review in 2026 - What Type of Trader is Made For?&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Is Arweave's Computing Platform AO the Future? Mainnet Launch Explained - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hNVRocDRfb2xkVEtiWENNbnQ0bzlWTjRYem5JZUs2a1FJQ2VBVTg4WkdEMnRMOGxqMHZrQ1lJS1JvOTVGM09pN3EwU0VCcGZENVhsM1otTS1fLU51N3fSAWNBVV95cUxQa3FhV1R1TERpRnNzZ2lsSkVtaURJVmtFcHZTUm5zOG9xVFl1Y3lHVG1pdktfZHlFNk9XZXB1TVVWdTVyTy0zTHlpRzRLZE1IcnN1MzNob1RtWnZFMFFoYUdsT0U?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 09 Feb 2025 08:00:00 GMT",
+      "snippet": "Is Arweave's Computing Platform AO the Future? Mainnet Launch Explained&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Arweave Price Prediction 2025-35: Will It Hit $300 by 2035? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBReFBCMTMtRnZRNUNkdFdjLWNHUmtzUmNHOVFaMnBQQVZCa3VVdjduc084azBlYWFrbDhFekRJWXhyQVNFdW00eHlWdmdqTDdXVjQxcUFYUUJON3dUbmfSAWNBVV95cUxQT3h3VHM2YVhWeUhFQ1BBVmtWWlp5T3A0ZDNjSGRBU3lCRXhQanA5aWVLR2EwMU1sanV3QWZiMGFna1ZZNE5fVUpQR1p6SnNhbFBxd2kxUUlVUnpLNkNlRVRHVnc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 02 Jun 2025 07:00:00 GMT",
+      "snippet": "Arweave Price Prediction 2025-35: Will It Hit $300 by 2035?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Arweave's computing platform AO goes live on mainnet - The Block",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYjF5MFUzQ1I2NUYtekZMRVNrMmI3cXNYendZY3FsMjNlTzAzMGprLWRsb0xfX0F4OFV2aFNtN2xlS1I1cU9TQTN0NWVYSHAzbG4xNWhqby1MMXNCMUgtWktycmdLcTU1UzNtSHNyOWl2Q3VVckRMNU41cDhqU2c2VnM0dmJiN3JDZE9tb3Vwemc?oc=5",
+      "source": "The Block",
+      "publishedAt": "Sat, 08 Feb 2025 08:00:00 GMT",
+      "snippet": "Arweave's computing platform AO goes live on mainnet&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Arweave-based 'permanent cloud' storage network AR.IO launches mainnet and TGE - The Block",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2ZsQlhxQ0hETHhucGJnbjdXVW15eVBZelVOOFkySElyVHAyakRiRjJNNDgwME9VVlBXblQ3SXByelhQYXpDaG1xWDR0Q285eE9vMVRwOEc2Z01KeG9fTHRrcTkyS2tSLXBWMXRSenpDRGlMdW5mYkl2ZDVwX2JrYmJaUG9IMnlFRENneUw1SjZQWHN6QlNYOVdBcnU1aEQ3cnFTa1lVNG5BWXJoc1AtbDBn?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 20 Feb 2025 08:00:00 GMT",
+      "snippet": "Arweave-based 'permanent cloud' storage network AR.IO launches mainnet and TGE&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Meta to use decentralized data storage protocol Arweave to store NFTs from Instagram - The Block",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EaTJXVnppcXlBZ0lZb2podWJ6WktMLXJXeURRc1BFdVlWVm5oOWQ0Q25pQ25jUzBidTdVNnRWUTlzS0NXWEZ0T1doSWZtd3JTNE55NnVtUU01b0RaWXRRd1Z5dDdtMFdhOW9IZ2Z6Skg?oc=5",
+      "source": "The Block",
+      "publishedAt": "Thu, 03 Nov 2022 07:00:00 GMT",
+      "snippet": "Meta to use decentralized data storage protocol Arweave to store NFTs from Instagram&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Arweave Price - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5uTzJEeE1SSVlkTHBHVmpqWXRIUXl4cURzUDlCb1hQbk11eVNPNVJUeFlxT2F3aGpKUjJMNUpPX0lFQ3U1dUZv?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Wed, 18 Aug 2021 12:28:11 GMT",
+      "snippet": "Arweave Price&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "Arweave price today, AR to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sWVNfc0lxMDBCLUxONGRRWnBseGszYWUwT2FJT0xzcmp0UHRqWlFPelVpY1FZVE01VVAyeHBZYUFucS1mN1JYLTJDTTRhdDg?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 21 Mar 2024 17:14:30 GMT",
+      "snippet": "Arweave price today, AR to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

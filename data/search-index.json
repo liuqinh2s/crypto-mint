@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-06-29T09:04:11.639Z",
+  "updatedAt": "2026-06-29T09:18:06.991Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-29T09:18:04.514Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "AR",
+      "requestedInput": "AR",
+      "name": "Arweave",
       "score": 25,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-29T09:04:11.637Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "action": "观察",
+      "generatedAt": "2026-06-29T09:18:06.988Z",
+      "latestPath": "data/results/AR-latest.json"
     },
     {
       "token": "",
@@ -18,7 +28,7 @@
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-29T09:04:11.335Z",
+      "generatedAt": "2026-06-29T09:18:04.356Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T16:05:21.666Z",
       "latestPath": "data/results/DEXE-latest.json"
-    },
-    {
-      "token": "GE",
-      "requestedInput": "GE",
-      "name": "GE Aerospace",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:05:24.658Z",
-      "latestPath": "data/results/GE-latest.json"
     }
   ]
 }
