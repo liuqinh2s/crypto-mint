@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-29T04:03:21.273Z",
+  "updatedAt": "2026-06-29T04:18:59.952Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-29T04:18:59.950Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
     {
       "token": "ARC",
       "requestedInput": "ARC",
@@ -10,16 +20,6 @@
       "action": "不买",
       "generatedAt": "2026-06-29T04:03:18.508Z",
       "latestPath": "data/results/ARC-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T04:03:14.760Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "LIT",
