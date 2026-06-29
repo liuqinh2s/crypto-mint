@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-06-29T08:34:02.036Z",
+  "updatedAt": "2026-06-29T08:48:06.928Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 30,
+      "score": 25,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-29T08:34:00.718Z",
+      "generatedAt": "2026-06-29T08:48:06.707Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T08:48:06.926Z",
+      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "BR",
@@ -20,16 +30,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-29T08:34:02.034Z",
       "latestPath": "data/results/BR-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T08:34:01.445Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "SYN",
