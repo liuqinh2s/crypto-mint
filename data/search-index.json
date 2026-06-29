@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-06-29T04:18:59.952Z",
+  "updatedAt": "2026-06-29T04:33:52.303Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 25,
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-29T04:18:59.950Z",
+      "generatedAt": "2026-06-29T04:33:47.354Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "ORCA",
+      "requestedInput": "ORCA",
+      "name": "Orca",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-29T04:33:52.301Z",
+      "latestPath": "data/results/ORCA-latest.json"
     },
     {
       "token": "ARC",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T16:05:40.891Z",
       "latestPath": "data/results/ACU-latest.json"
-    },
-    {
-      "token": "BLESS",
-      "requestedInput": "BLESS",
-      "name": "Bless",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:05:45.696Z",
-      "latestPath": "data/results/BLESS-latest.json"
     }
   ]
 }
