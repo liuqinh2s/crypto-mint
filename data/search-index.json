@@ -1,15 +1,85 @@
 {
-  "updatedAt": "2026-06-29T07:48:57.145Z",
+  "updatedAt": "2026-06-29T08:04:06.896Z",
   "results": [
+    {
+      "token": "ORDI",
+      "requestedInput": "ORDI",
+      "name": "ORDI",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-29T08:03:57.713Z",
+      "latestPath": "data/results/ORDI-latest.json"
+    },
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 30,
+      "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-29T07:48:57.143Z",
+      "generatedAt": "2026-06-29T08:03:56.243Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "GWEI",
+      "requestedInput": "GWEI",
+      "name": "ETHGas",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-29T08:03:57.636Z",
+      "latestPath": "data/results/GWEI-latest.json"
+    },
+    {
+      "token": "AVAX",
+      "requestedInput": "AVAX",
+      "name": "Avalanche (Wormhole)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T08:03:56.356Z",
+      "latestPath": "data/results/AVAX-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T08:04:03.318Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "BLESS",
+      "requestedInput": "BLESS",
+      "name": "Bless Token",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T08:04:05.408Z",
+      "latestPath": "data/results/BLESS-latest.json"
+    },
+    {
+      "token": "RAVE",
+      "requestedInput": "RAVE",
+      "name": "RAVE",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T08:04:06.894Z",
+      "latestPath": "data/results/RAVE-latest.json"
+    },
+    {
+      "token": "UAI",
+      "requestedInput": "UAI",
+      "name": "AImerica",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T08:04:03.923Z",
+      "latestPath": "data/results/UAI-latest.json"
     },
     {
       "token": "ORCA",
@@ -930,76 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T16:05:24.534Z",
       "latestPath": "data/results/MEW-latest.json"
-    },
-    {
-      "token": "SYN",
-      "requestedInput": "SYN",
-      "name": "Synapse",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:05:29.193Z",
-      "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "1000XEC",
-      "requestedInput": "1000XEC",
-      "name": "eCash",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:05:32.078Z",
-      "latestPath": "data/results/1000XEC-latest.json"
-    },
-    {
-      "token": "GOAT",
-      "requestedInput": "GOAT",
-      "name": "Goat",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:05:31.783Z",
-      "latestPath": "data/results/GOAT-latest.json"
-    },
-    {
-      "token": "BBSTOCK",
-      "requestedInput": "BBSTOCK",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:05:29.409Z",
-      "latestPath": "data/results/BBSTOCK-latest.json"
-    },
-    {
-      "token": "TRX",
-      "requestedInput": "TRX",
-      "name": "TRX",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:05:36.640Z",
-      "latestPath": "data/results/TRX-latest.json"
-    },
-    {
-      "token": "1000SATS",
-      "requestedInput": "1000SATS",
-      "name": "SATS (Ordinals)",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:05:38.721Z",
-      "latestPath": "data/results/1000SATS-latest.json"
-    },
-    {
-      "token": "ACU",
-      "requestedInput": "ACU",
-      "name": "ACU",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:05:40.891Z",
-      "latestPath": "data/results/ACU-latest.json"
     }
   ]
 }

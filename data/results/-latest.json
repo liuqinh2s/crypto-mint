@@ -1,0 +1,296 @@
+{
+  "token": "",
+  "requestedInput": "龙虾",
+  "exchange": "other",
+  "generatedAt": "2026-06-29T08:04:03.318Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "",
+    "name": "龙虾",
+    "generatedAt": "2026-06-29T08:03:56.684Z",
+    "summary": "龙虾是BSC上的meme币，近期24小时涨幅31%，市值约1178万美元，流动性约68万美元。项目无实际基本面，依赖社区和交易所上线预期。新闻显示Binance曾上线永续合约，但无近期重大利好。风险极高，建议观望。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，不参与"
+    },
+    "catalysts": [
+      "Binance曾上线永续合约（2026-03-11）",
+      "MEXC等交易所上线",
+      "meme币情绪炒作"
+    ],
+    "latestNews": [
+      {
+        "title": "Binance Futures Will Launch USDⓈ-Margined 龙虾USDT Perpetual Contract (2026-03-11)",
+        "impact": "利好",
+        "reason": "Binance上线永续合约增加流动性和曝光，但已是3个月前旧闻"
+      },
+      {
+        "title": "龙虾 to PGK: Convert 龙虾 to Papua New Guinean Kina | Live 龙虾 Price in PGK | MEXC",
+        "impact": "中性",
+        "reason": "MEXC上线交易对，但非重大利好"
+      }
+    ],
+    "fundamentals": [
+      "meme币，无实际应用",
+      "官网rawdogsol.lol，但项目名称为龙虾，存在不一致",
+      "总供应量未披露，市值与FDV相同，可能无锁仓",
+      "创建于2026-02-27，历史约4个月"
+    ],
+    "marketRead": [
+      "24小时涨幅31%，但成交量仅61万美元，流动性68万美元，深度差",
+      "无7日/30日价格数据，无法判断趋势",
+      "市值1178万美元，属于小市值meme币"
+    ],
+    "risks": [
+      "meme币高度投机，无基本面支撑",
+      "流动性低，容易滑点和操纵",
+      "新闻多为旧闻或无关内容，缺乏近期催化",
+      "合约风险：BSC链上PancakeSwap交易，需注意合约安全",
+      "团队匿名，项目不透明"
+    ],
+    "watchlist": [
+      "是否有新的交易所上线公告",
+      "社交媒体热度变化",
+      "链上大额买入/卖出动向"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，新闻来自Google News RSS，部分新闻标题与龙虾无关",
+      "无完整K线数据，技术分析受限"
+    ]
+  },
+  "profile": {
+    "id": "0xeCCBb861c0dda7eFd964010085488B69317e4444",
+    "symbol": "",
+    "name": "龙虾",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [
+      "https://rawdogsol.lol"
+    ],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x22af7297243c4eef12e2d5a4f888b92e56bf127c Socials: twitter: https://x.com/lobstercoinbnb",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.01178,
+    "marketCapUsd": 11785136,
+    "fullyDilutedValuationUsd": 11785136,
+    "totalVolumeUsd": 611503.11,
+    "priceChange24hPct": 31.16,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-02-27",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x22af7297243c4eEF12E2D5A4f888b92E56BF127C",
+    "baseTokenAddress": "0xeCCBb861c0dda7eFd964010085488B69317e4444",
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "liquidityUsd": 681472.61,
+    "pairUrl": "https://dexscreener.com/bsc/0x22af7297243c4eef12e2d5a4f888b92e56bf127c",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "龙虾/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x22af7297243c4eEF12E2D5A4f888b92E56BF127C",
+    "pairUrl": "https://dexscreener.com/bsc/0x22af7297243c4eef12e2d5a4f888b92e56bf127c",
+    "lastPrice": 0.01178,
+    "priceChange24hPct": 31.16,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 611503.11,
+    "liquidityUsd": 681472.61,
+    "fullyDilutedValuationUsd": 11785136,
+    "marketCapUsd": 11785136,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x22af7297243c4eef12e2d5a4f888b92e56bf127c",
+    "pairAddress": "0x22af7297243c4eEF12E2D5A4f888b92E56BF127C",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0xeCCBb861c0dda7eFd964010085488B69317e4444",
+      "name": "龙虾",
+      "symbol": "龙虾"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.00002128",
+    "priceUsd": "0.01178",
+    "txns": {
+      "m5": {
+        "buys": 34,
+        "sells": 12
+      },
+      "h1": {
+        "buys": 948,
+        "sells": 528
+      },
+      "h6": {
+        "buys": 2616,
+        "sells": 2161
+      },
+      "h24": {
+        "buys": 3302,
+        "sells": 2786
+      }
+    },
+    "volume": {
+      "h24": 611503.11,
+      "h6": 477598.61,
+      "h1": 134559.83,
+      "m5": 3812.46
+    },
+    "priceChange": {
+      "m5": 0.49,
+      "h1": 1.42,
+      "h6": 24.9,
+      "h24": 31.16
+    },
+    "liquidity": {
+      "usd": 681472.61,
+      "base": 28912377,
+      "quote": 615.3696
+    },
+    "fdv": 11785136,
+    "marketCap": 11785136,
+    "pairCreatedAt": 1772182240000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/I9w6KPafQUayZqKy?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/CoQuO_I_9OZQLq2O?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0xeccbb861c0dda7efd964010085488b69317e4444?timestamp=1782720300000",
+      "websites": [
+        {
+          "url": "https://rawdogsol.lol",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/lobstercoinbnb",
+          "type": "twitter"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "龙虾 (Lobster) Price Today in India | 龙虾 to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYaTk5WEx5Q0VOMWFBZFg3dHFfZnV2SzhGVkREV09WVnMxQ1JKMUJMWHJjWlg3TnlVcm1pMlFzUUFwaDVHY1M3SmI1RmR1UUhkMmhBWE9PVkY?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 23 Jun 2026 13:07:00 GMT",
+      "snippet": "龙虾 (Lobster) Price Today in India | 龙虾 to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "龙虾 (Lobster) Price Today | 龙虾 to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kMzBqYTBuelBoT2d2YlBPbEhhbE0wX0FLX1FhdW05TWwtR1BzV2ZMMEFlV1JHd3U1SU9IeDZxNlVmV1VxRHNqal9qLWtFeUtMYWdtQQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "snippet": "龙虾 (Lobster) Price Today | 龙虾 to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Tokenizing Power Generation Assets for Global Export: Selling China’s Electricity to the World - 深潮TechFlow",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VLS1pRktTUDZKc0Q1YzFfUDRDemo2M2NVQ292Z01Semdhemt5eC1rRFBTVWdvZ21jdFBLdXpNMUotd2NITnd0XzRnR2xZS3p5Nmcxb0d0RmpyQUo2?oc=5",
+      "source": "深潮TechFlow",
+      "publishedAt": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "snippet": "Tokenizing Power Generation Assets for Global Export: Selling China’s Electricity to the World&nbsp;&nbsp;深潮TechFlow"
+    },
+    {
+      "title": "龙虾 to PGK: Convert 龙虾 to Papua New Guinean Kina | Live 龙虾 Price in PGK | MEXC - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2anBrUWJoX2dybnJ4YXNRb0ROVzctWWM2TWZjVzhpT0NXRjYtMU5vQzBudEpSbWtaTG5NS18zcTJSMDg3M3lzUEw3eE4xbUtOSUNRbVVaczZwUEx3QlBLcWl6cXY?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Sun, 21 Jun 2026 05:44:16 GMT",
+      "snippet": "龙虾 to PGK: Convert 龙虾 to Papua New Guinean Kina | Live 龙虾 Price in PGK | MEXC&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "龙虾 to KYD: Convert 龙虾 to Cayman Islands Dollar | Live 龙虾 Price in KYD | MEXC - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NX1NmeFExSDY4VDhyMzV5QTM2TVJ4TFI3dnlYT085UUpORUp3emlDQ1RMc0JFbWZ4UFgzRWVWZnlwQUZJM0ItQ3ZmT3F4Y19xOVlDUTNMZ0c1OFNvSmlWbW4zRXM?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "snippet": "龙虾 to KYD: Convert 龙虾 to Cayman Islands Dollar | Live 龙虾 Price in KYD | MEXC&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "PancakeSwap V2 Exchange live Markets and Listings - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55UlpLVEtwSWViNUh1Vm1fZ3hwWk9YaUxMeUNfY3JLVUVkSUZiMVNDbkV0MDZhcGtoS0RLRVBhZjVlcHlfTTJNOVNYOHcteUNhS2tPX2V5UQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 05 Mar 2021 00:05:24 GMT",
+      "snippet": "PancakeSwap V2 Exchange live Markets and Listings&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "龙虾 to BZD: Convert 龙虾 to Belize Dollar | Live 龙虾 Price in BZD | MEXC - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJOTVCY1pTM0U1aGdnRmdTeVFZWTJiV3phSVBmQkFhLTVON2lkMnFzRmlHOEZsU2JZMFJVdXZQdDU3MlFYeVJacVRaemM4MmxUVnJabGlObmNxMkNj?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Fri, 22 May 2026 07:00:00 GMT",
+      "snippet": "龙虾 to BZD: Convert 龙虾 to Belize Dollar | Live 龙虾 Price in BZD | MEXC&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "Binance Futures Will Launch USDⓈ-Margined 龙虾USDT Perpetual Contract (2026-03-11) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzBXSEtiUlE5NkxBYXBfT0dka1h2WG1Pei12Z1hseXhpRlJVblFhU3ZVTkxkZkFaNVNWUkw5WlF0SFF3SS1kMHpKMTgzNHoxT25SY0o3dzJaOTZpZDJvallOZnJheVlXeERJQTJyR2szTlBvWHpNRjd4aS00OFB3OTJMaVdXQlJoWEo3bDVVd0c?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "snippet": "Binance Futures Will Launch USDⓈ-Margined 龙虾USDT Perpetual Contract (2026-03-11)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Support Center - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5bDJiQ1k2X0swNU1ia0NWa1ltd0dncW9nVmZxajNHYTVOYXREc2U2ekJlMWVUdmoxbmdCWndDcXlKUThKNmkweGdWT1Z6a2d5VXVqb25OdGR0U21zVGF1cGRTOVk0QQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 20 Feb 2025 13:12:30 GMT",
+      "snippet": "Support Center&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Announcement - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxc1FtRHBNUFhTSkE1UU9mT25EUkNaakRPQzZGbVNpWWltZ0FENmxjako3WGw4UlNzRFBYbmtCWkREbWZJNzdCeHRueGE3WEZoWVhtQjd4YWpxaTA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 20 May 2020 14:07:45 GMT",
+      "snippet": "Announcement&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "CoinDesk Memecoin Index (CDMEME) Index Constituents - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sNGh2cG9DSmg4NzdNUS1GR3k1REJaWTE4NzA2aE5GUnNYenJmQ2xkNHFlYzlWMS15UUNEQUhNSnFJcnFvb09oSzhMSjFFdTlldmVKWi1ocHc1RkQwZ29B?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 03 Jul 2025 23:54:21 GMT",
+      "snippet": "CoinDesk Memecoin Index (CDMEME) Index Constituents&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

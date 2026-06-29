@@ -1,0 +1,287 @@
+{
+  "token": "ORDI",
+  "requestedInput": "ORDI",
+  "exchange": "other",
+  "generatedAt": "2026-06-29T08:03:57.713Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ORDI",
+    "name": "ORDI",
+    "generatedAt": "2026-06-29T08:03:49.078Z",
+    "summary": "ORDI是BRC-20代币龙头，近期因比特币生态叙事和铭文板块热度回升而上涨，但价格已从ATH下跌96%，当前市值约7100万美元，流动性充足。新闻多为2026年4月旧闻，近期缺乏新催化，上涨持续性存疑。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若比特币生态叙事降温或价格跌破3美元支撑，则逻辑失效。"
+    },
+    "catalysts": [
+      "比特币生态叙事回暖",
+      "铭文/BRC-20板块轮动",
+      "ORDI作为龙头历史涨幅记忆"
+    ],
+    "latestNews": [
+      {
+        "title": "Ordinals (ORDI) Price Prediction 2026, 2027-2030: Can ORDI Surge 100x Again?",
+        "impact": "中性",
+        "reason": "价格预测类新闻，无实质催化。"
+      },
+      {
+        "title": "ORDI Surges 200% Amid Altcoin Rally, Prints God Candle",
+        "impact": "利好",
+        "reason": "2026年4月旧闻，反映当时大涨，但已过时。"
+      },
+      {
+        "title": "Bitcoin Ordinals BRC-20 Token ORDI Surges 100% to Yearly High — This Is What Could Be Next",
+        "impact": "利好",
+        "reason": "同样为4月旧闻，当前价格已回落。"
+      },
+      {
+        "title": "ORDI Breaks Out Against A Flat Bitcoin — Is The Ordinals Season Starting Again?",
+        "impact": "利好",
+        "reason": "4月突破消息，但后续未持续。"
+      },
+      {
+        "title": "Binance Will List ORDI (ORDI) with Seed Tag Applied",
+        "impact": "利好",
+        "reason": "2023年11月旧闻，已充分反映。"
+      }
+    ],
+    "fundamentals": [
+      "ORDI是BRC-20标准下的首个代币，总供应量2100万枚，已全流通。",
+      "基于比特币Ordinals协议，属于铭文赛道龙头。",
+      "市值约7100万美元，FDV相同，无解锁压力。",
+      "在Uniswap上流动性约3648万美元，流动性充足。"
+    ],
+    "marketRead": [
+      "24小时涨幅4.83%，7日涨幅3.38%，30日涨幅1.32%，近期走势平淡。",
+      "价格从ATH 95.52美元下跌96%，当前3.4美元。",
+      "成交量约1678万美元，相对市值活跃度一般。",
+      "DEX上ORDI/WETH对流动性高，但24小时交易量仅0.16美元，实际交易可能集中在CEX。"
+    ],
+    "risks": [
+      "BRC-20/铭文叙事热度已大幅下降，缺乏新应用场景。",
+      "价格从ATH跌幅巨大，套牢盘沉重，反弹抛压大。",
+      "新闻多为2-3个月前旧闻，近期无新催化。",
+      "市场情绪偏弱，比特币生态板块未现持续资金流入。"
+    ],
+    "watchlist": [
+      "比特币生态相关新项目或协议进展",
+      "ORDI价格能否站稳3.5美元上方",
+      "成交量是否放大",
+      "社交媒体讨论热度"
+    ],
+    "sourceNotes": [
+      "数据来源：CoinGecko profile, DexScreener market, Google News。",
+      "DEX交易量极低，实际价格发现可能依赖CEX，但未提供CEX数据。",
+      "新闻时效性差，多为2026年4月旧闻。"
+    ]
+  },
+  "profile": {
+    "id": "ordinals",
+    "symbol": "ORDI",
+    "name": "ORDI",
+    "categories": [
+      "Solana Ecosystem",
+      "Meme",
+      "BRC-20",
+      "Bitcoin Ecosystem",
+      "Inscriptions"
+    ],
+    "homepage": [],
+    "description": "",
+    "marketCapRank": 331,
+    "currentPriceUsd": 3.4,
+    "marketCapUsd": 71361127,
+    "fullyDilutedValuationUsd": 71361127,
+    "totalVolumeUsd": 16785268,
+    "priceChange24hPct": 4.83294,
+    "priceChange7dPct": 3.38186,
+    "priceChange14dPct": -3.16194,
+    "priceChange30dPct": 1.31536,
+    "athUsd": 95.52,
+    "athChangePct": -96.45513,
+    "circulatingSupply": 21000000,
+    "totalSupply": 21000000,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 44192,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "ORDI/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x3D8eE3c1df5b38a50DfDf6B90bEA6fA94db5d76d",
+    "pairUrl": "https://dexscreener.com/ethereum/0x3d8ee3c1df5b38a50dfdf6b90bea6fa94db5d76d",
+    "lastPrice": 3.51,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.16,
+    "liquidityUsd": 36480223.31,
+    "fullyDilutedValuationUsd": 72960447,
+    "marketCapUsd": 72960447,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x3d8ee3c1df5b38a50dfdf6b90bea6fa94db5d76d",
+    "pairAddress": "0x3D8eE3c1df5b38a50DfDf6B90bEA6fA94db5d76d",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0x9c5bED0c06570E0333469ae6C279f4635336C05A",
+      "name": "ORDI",
+      "symbol": "ORDI"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.002225",
+    "priceUsd": "3.51",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.16,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 36480223.31,
+      "base": 10373218,
+      "quote": 0.0001057
+    },
+    "fdv": 72960447,
+    "marketCap": 72960447,
+    "pairCreatedAt": 1782661799000
+  },
+  "news": [
+    {
+      "title": "Ordinals (ORDI) Price Prediction 2026, 2027-2030: Can ORDI Surge 100x Again? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xQ3BJMFFYdWxaUUt6Y2kzMklPWkFBaFBUX2lzRnZMcXhYS0FiTDl4X0o0aXhMLWZxZXVkVDVscEM2STlVVlQ5YTB5RVBIYlhOM1ZROWRPZkJxS3VMenNpOW52cjZNUHA1WkJ0NWpn0gFzQVVfeXFMTTc2VUY4RHF0ZnB3S3Zva1BXajFQVFZyVTg2UFktSzJETjZCaV9DSk94UGN1M3lFMkUzSW5URUt3QTB6Mlc4VXAxQU1HUm5KM3V2U2NZWkROU2NTbWNycHdnZHUzLU1mOVF6X3NzSHZPZmR1NA?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Sat, 20 Jun 2026 07:55:00 GMT",
+      "snippet": "Ordinals (ORDI) Price Prediction 2026, 2027-2030: Can ORDI Surge 100x Again?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "ORDI Surges 200% Amid Altcoin Rally, Prints God Candle - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtOG05ZWx1aXFZTmg5WlhtOU1GN0dmTmZaWDhuSGtqR183S2x4MURWV0hJSHE4b1FxNTV1VE1oMDJjX3lUeDBZWjI1T19FYnZwbVNSYldFai1FNTByR3B2SQ?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "ORDI Surges 200% Amid Altcoin Rally, Prints God Candle&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Bitcoin Ordinals BRC-20 Token ORDI Surges 100% to Yearly High — This Is What Could Be Next - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTTZxUWEzR2Jtc1V0UHAzOXFQV1pfMnduRUxCdUQtRTkyaEIyMUZfekg1alItSXk1YVNJc3Z0dXdNanVhQVB4YVBvT002NmxWWXJmd3hHVUFIVm5WNEpZVzEyTTlyNVd6S3VDTTVJM3pOZ1RaT2ZudzlMaEJwZmRVRmwzZTFnZEowbldJX3hvQ2dDVE93VmhzQUwtdjF5SVUx?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "Bitcoin Ordinals BRC-20 Token ORDI Surges 100% to Yearly High — This Is What Could Be Next&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Ordinals (ORDI) Price Prediction 2026-2030: Can This Token Achieve a Stunning 100x Surge Again? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50SHVlTEJOeEh5ZGdUWlR6S0k3R0NlS29kYlRiZDdONzZHd2NPYXdIbVB2aDYyNWQ3Q0RnZGh4cnVLRGRsNEZ2MTBvTmJDQzlLMUVrSE9ubDlxQmpOdUFnTmdMVDcwdVJqRnlSOVRadmlfeHBuWlRUWUZqVWljQQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "snippet": "Ordinals (ORDI) Price Prediction 2026-2030: Can This Token Achieve a Stunning 100x Surge Again?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "ORDI Breaks Out Against A Flat Bitcoin — Is The Ordinals Season Starting Again? - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vQUNhV1pxYU9sLVVha2pJTEZ2ak12THJlZjl0ODU2RjJkNTZZMHI5WWx5OHBCVFJnMl9wNFFZZ3dYWXdlcFp3MmJBUnRFX0Q0N3Y5OXZCX3NvR284dEZwRFFxaHJaUmJVSjVsTXhR?oc=5",
+      "source": "Yellow.com",
+      "publishedAt": "Sun, 19 Apr 2026 07:00:00 GMT",
+      "snippet": "ORDI Breaks Out Against A Flat Bitcoin — Is The Ordinals Season Starting Again?&nbsp;&nbsp;Yellow.com"
+    },
+    {
+      "title": "ORDI Price Just Pumped 90%: Here’s Why Traders Are Watching Closely - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43NmFSaERGUV9zaU5wRFRGWGNHeFBfNTRQNE1jZk5DaVdkX3ljX3BTQUhrNHBQeWpqOTNNM3VhWlMyejhHN0hIdEdMODRGbm54WGcxLUQyeWZPRkpWNnfSAWNBVV95cUxORXprMG5mTVdBVUhVWEhCSUFRMlo1cWdlUEszNVB4ZTM0WFItQUtlT3lndnlSZlVnNDZZUHdadVFtbEtCdUcxMFphWTlfX0FCTDlKYmRWTFh3SVNvUENzQ2V0a2s?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "ORDI Price Just Pumped 90%: Here’s Why Traders Are Watching Closely&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Is BRC-20 Back? ORDI Explodes +88% Overnight – Bitcoin Layer 2 Next? - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MeEtBb1FJeVBJc3hGcWdhcUZhaGZlb1pYUC0zUzh4ZDJzdWpNV1Y4X1pMNFVvWlRnLUloUDNiaUZSN1Z3QzVtcnJlRW5mNTUta2dqcXVBT2Zjc3JwRFN5X2x4SDBhWUNMUmZMMA?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "Is BRC-20 Back? ORDI Explodes +88% Overnight – Bitcoin Layer 2 Next?&nbsp;&nbsp;Cryptonews"
+    },
+    {
+      "title": "3X in 3 Days. ORDI Completely Ignites Inscriptions Sector, Will It Boost Bitcoin Prices? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV0dYX05WZUxyUVhBdm9qRkhEMXYzZTlycE5tdnpXdDVjOWYxSHJVVDM5eGw1a1dXRjd2b01YcTduOXpEODZadDhYX1hac3Zoc1IzSncxOGFlRnhyYUxHX2FkWjk5VEVNWC1EeVhGNEN1U2l5ejZqQ2FIa1hHTFc2VE5LNWVFOGltOWIyZ2FqR1R5MU1sUVJqM1UwdWZhMENOQ2RDdGV3WnV0QQ?oc=5",
+      "source": "TradingKey",
+      "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "snippet": "3X in 3 Days. ORDI Completely Ignites Inscriptions Sector, Will It Boost Bitcoin Prices?&nbsp;&nbsp;TradingKey"
+    },
+    {
+      "title": "What is Ordi Crypto: Exploring Its Impact on Blockchain - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53MUVFQ1NDOHJWMlpTa0RTVkpRMjRLVW1rb3JVZjBIc3RJaHQzalVqejk0Nk5Lb2MyYzZQMXBLUVB1VkV5dXJVRmFzOVIwMTNPRlhrTU1SODA0UE0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 27 Jan 2025 06:56:58 GMT",
+      "snippet": "What is Ordi Crypto: Exploring Its Impact on Blockchain&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Ordinals (ORDI) Price Prediction 2026, 2027-2030: Can ORDI Surge 100x Again? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wM00yQ3EwU1VIVkk4TGFjbXlEMDFGXzZPY3BwQTRwSnFFVlZhYmNEaDgtYlhQUTR2dVY5RF8wREMwWU5ySlBkWFJCeVR2dnlCSTdNdHlIaUd4RzFRUkHSAWNBVV95cUxQc2RDTnNBbThkUHl0MHJIYUZFT1hQQnhUcUNabVMzd083TW11UzZ1UnQzRk9pRURLTmdjcGlZZHVVajl6RWR4R2g2QjBlb21tWHRwaFpKNndsN055Rmd2NzRnUzQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "snippet": "Ordinals (ORDI) Price Prediction 2026, 2027-2030: Can ORDI Surge 100x Again?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "After breaking the main cost line, BIO has doubled! Will ORDI be next? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RU0xLcHFfRzZESTlnaHRiaXk0U0JTVUM4SkhkRExEREExSjRIRXNfUTZjSGZhS2w4VU9OM2c4NGJQenhjaEwtMXAwNjhlanE4NldxQkR2YTFuSHUyYlHSAWNBVV95cUxQTnZ1ZUZDeXZvSV9SaWV5MVFYdTFvbmxLbU55c1o1a1J0RmpnWmNNck5VN3llUFRnYjE4OFU2Y1BDQng3MFRyUWxubFhIYlRiUEsxSDZROWFSUDNGb0J1V25jVXc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "After breaking the main cost line, BIO has doubled! Will ORDI be next?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Will List ORDI (ORDI) with Seed Tag Applied - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUERWa0otNzY5TE9yd1VabFZ5bzV5OFc2a2ozY1l5R3pxQ1lYRUllVk5XcHJkSlpWVE1tRm1WbGR1Rk9CM3ljUFlOUmlBbHVab3ppMUd4b1F6LU83dUg3WktjNzlZV2ZlQy1LMjZvOXBSdHZDZ2tKT1NKUnlkMkxnNFEtM1VIRTNSUUw3eFNCOGU?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 06 Nov 2023 08:00:00 GMT",
+      "snippet": "Binance Will List ORDI (ORDI) with Seed Tag Applied&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

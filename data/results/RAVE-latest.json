@@ -1,0 +1,327 @@
+{
+  "token": "RAVE",
+  "requestedInput": "RAVE",
+  "exchange": "other",
+  "generatedAt": "2026-06-29T08:04:06.894Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "RAVE",
+    "name": "RAVE",
+    "generatedAt": "2026-06-29T08:03:58.128Z",
+    "summary": "RAVE是Solana上的一个音乐主题DAO代币，近期价格从历史高点暴跌后有所反弹，但基本面疲软，存在市场操纵指控和交易所调查，风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "任何买入逻辑均不成立，除非出现明确的基本面改善和监管澄清。"
+    },
+    "catalysts": [
+      "短期持有者数量增加和买入量上升可能带来短暂反弹",
+      "新闻提及价格跳涨近20%"
+    ],
+    "latestNews": [
+      {
+        "title": "RAVE token jumps nearly 20% as holder count and buying volume surge, signaling strong investor confidence. - Pluang",
+        "impact": "利好",
+        "reason": "短期价格反弹，但缺乏持续性支撑。"
+      },
+      {
+        "title": "Meme News: Memecore Surges, RAVE Crashes as Memes Lose Momentum - CoinMarketCap",
+        "impact": "利空",
+        "reason": "表明meme币整体失去动力，RAVE可能继续下跌。"
+      },
+      {
+        "title": "Binance and Bitget to investigate Rave token market manipulation claims - dlnews.com",
+        "impact": "利空",
+        "reason": "交易所调查市场操纵，增加监管风险。"
+      },
+      {
+        "title": "Here’s why the RaveDAO price surged and then crashed 95% - TradingView",
+        "impact": "利空",
+        "reason": "历史价格崩溃，表明高风险。"
+      },
+      {
+        "title": "RaveDAO (RAVE) Drops 79% Since Pump-and-Dump Accusations—Bears Eye New All-Time Low as Sell-Off Deepens - CCN.com",
+        "impact": "利空",
+        "reason": "持续下跌，市场看空。"
+      }
+    ],
+    "fundamentals": [
+      "RaveDAO是一个音乐主题的DAO项目，但缺乏明确的收入或产品。",
+      "代币经济模型不透明，总供应量和流通量未公开。",
+      "存在市场操纵指控，Binance和Bitget已展开调查。",
+      "价格曾从高点暴跌95%以上，历史表现极差。"
+    ],
+    "marketRead": [
+      "当前价格22.46美元，24小时微跌0.04%，但流动性高达474万美元，可能为机器人或做市商提供。",
+      "24小时交易量仅7.1万美元，相对于市值670万美元极低，表明市场兴趣不足。",
+      "无历史价格数据（ATH等缺失），无法判断趋势。"
+    ],
+    "risks": [
+      "市场操纵指控和交易所调查可能导致下架或法律风险。",
+      "代币供应不透明，可能存在大量未解锁代币。",
+      "meme币整体热度下降，RAVE缺乏实际用例。",
+      "流动性虽高但可能为虚假深度，实际滑点大。",
+      "价格波动极端，曾单日暴跌90%。"
+    ],
+    "watchlist": [
+      "交易所调查结果及是否下架。",
+      "代币解锁或增发公告。",
+      "项目方是否有实际产品更新。",
+      "持有者数量变化和成交量是否持续。"
+    ],
+    "sourceNotes": [
+      "数据主要来自DexScreener和新闻聚合，缺乏官方项目信息。",
+      "价格和市值数据可能因流动性池深度而失真。",
+      "新闻来源包括Pluang、CoinMarketCap等，但部分为旧闻。"
+    ]
+  },
+  "profile": {
+    "id": "62PZsoMrcv2JesVfPghDutuKtPjm83owSWQBkw8bMY44",
+    "symbol": "RAVE",
+    "name": "RAVE",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/72vpp9orejxomx8ydjjoawxfugamsndpzynx8e4he7wd",
+    "marketCapRank": null,
+    "currentPriceUsd": 22.46,
+    "marketCapUsd": 6740753,
+    "fullyDilutedValuationUsd": 6740753,
+    "totalVolumeUsd": 71666.31,
+    "priceChange24hPct": -0.04,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-04-18",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "72Vpp9oREJxomx8yDjjoAWXfUgaMsNdPzyNx8e4He7wd",
+    "baseTokenAddress": "62PZsoMrcv2JesVfPghDutuKtPjm83owSWQBkw8bMY44",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 4741049.2,
+    "pairUrl": "https://dexscreener.com/solana/72vpp9orejxomx8ydjjoawxfugamsndpzynx8e4he7wd",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "RAVE/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "72Vpp9oREJxomx8yDjjoAWXfUgaMsNdPzyNx8e4He7wd",
+    "pairUrl": "https://dexscreener.com/solana/72vpp9orejxomx8ydjjoawxfugamsndpzynx8e4he7wd",
+    "lastPrice": 22.46,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 71666.31,
+    "liquidityUsd": 4741049.2,
+    "fullyDilutedValuationUsd": 6740753,
+    "marketCapUsd": 6740753,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/72vpp9orejxomx8ydjjoawxfugamsndpzynx8e4he7wd",
+    "pairAddress": "72Vpp9oREJxomx8yDjjoAWXfUgaMsNdPzyNx8e4He7wd",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "62PZsoMrcv2JesVfPghDutuKtPjm83owSWQBkw8bMY44",
+      "name": "RAVE",
+      "symbol": "RAVE"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "22.4691",
+    "priceUsd": "22.46",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 8,
+        "sells": 9
+      }
+    },
+    "volume": {
+      "h24": 71666.31,
+      "h6": 20966.95,
+      "h1": 10063.49,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 4741049.2,
+      "base": 211001,
+      "quote": 26.7026
+    },
+    "fdv": 6740753,
+    "marketCap": 6740753,
+    "pairCreatedAt": 1776505895000
+  },
+  "news": [
+    {
+      "title": "RAVE token jumps nearly 20% as holder count and buying volume surge, signaling strong investor confidence. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc28zbWNGeTB6NzYzSFRnQWJOMTltWkZBWFlZcEhDWkw3RU9ZOVJHenE0TlA4UGdxSGZ6dVVCc1NUQjR2T2pQcnUyczVEd3R1aTBkZ1RpSHNUMlZUa2dvbnlac3R6QlRBWDVua0lMYTFkTFpIb2Myd0pxclYzOWxtdndLR0tvWEIzdktjN0tmQUVoSjNz?oc=5",
+      "source": "Pluang",
+      "publishedAt": "Sun, 28 Jun 2026 21:35:47 GMT",
+      "snippet": "RAVE token jumps nearly 20% as holder count and buying volume surge, signaling strong investor confidence.&nbsp;&nbsp;Pluang"
+    },
+    {
+      "title": "Meme News: Memecore Surges, RAVE Crashes as Memes Lose Momentum - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2EwcTZ2NE9tbU1hVTBQMXJjd1ptREZtbHhNM0JLZVpIellaYnRMVmxSODRqTE5WT0UyREFTYnJCRm5xT0lKNXhvQ1A3dk1hYmNtT2tsU2xpUUNSejkzUGtkR09xeWhmTVRGb2Jscndzcm41dGZOcHpVbW5oYU1qOHg2OUVTXzByM09tRzNycFpNbGQ3YjZYVVJ6UUJ2WEpDUmQ4Q0FB?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 25 Jun 2026 10:17:12 GMT",
+      "snippet": "Meme News: Memecore Surges, RAVE Crashes as Memes Lose Momentum&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "RaveDAO Price Today | RAVE to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lcmF5MzRDMGVKOV9wenVuTVFkNG02UXNYcnhaU1ZQVHM3QTdxeXBRM2dqTmpicWtvMkNIMnVONjdyQ3hBUjZ0WGc2RHExMHRINjdGMS1R?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 25 Jun 2026 22:44:00 GMT",
+      "snippet": "RaveDAO Price Today | RAVE to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "RaveDAO (RAVE) Surges 180% to Record High: Why Are Analysts Sounding the Alarm? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbDB1R0E2amxuVzZqZEVoV2lTaEc3TGFHRVd2MTNUdlRtcmNkY0NQUTVjeXZEektJdFpOcTFaWlV2V0RfRGpoOFFhOWU2Y01ERTVySUNnUUt4SWpmU0NHMGx6WXk1eWloLTZKUDBnX2xnc1Z6SFJZM1hWdUh6LU5COWliVnRUVVV1UUIzeVpoVVpnVldaZE1ONGRJNA?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Sun, 12 Apr 2026 07:00:00 GMT",
+      "snippet": "RaveDAO (RAVE) Surges 180% to Record High: Why Are Analysts Sounding the Alarm?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Binance and Bitget to investigate Rave token market manipulation claims - dlnews.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmt6cU1lelQtMDBCVGlvMmp5SmVGWFJTV09zbGhqNi11TW00cUZEeS1jNDFxN0xSbDJfNlMyTVFiXzdHRVFTXzNhMWhvbmRWQ2pkb1RRWmtKa1ltbnFJdnJ2RlJYOFN4ckZHYm8waDJxYzk4YkFPbENjdHNqaFFZLU9Sem5hN2hOOFRQTE9jZ0ltVUE4?oc=5",
+      "source": "dlnews.com",
+      "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "snippet": "Binance and Bitget to investigate Rave token market manipulation claims&nbsp;&nbsp;dlnews.com"
+    },
+    {
+      "title": "Here’s why the RaveDAO price surged and then crashed 95% - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdm5ncW9ianlrYkJUQWQ5WGtXY2RHYkdtMjg2R2hDMXRjZGRoNVZPaFBxaGNjQjNubU5IcWpMQjYyRGtxaGhIZklLZGFGWGNrdUdwV3ZMOGVXZVdoNzlxd1FpdnNBODA3NnpCeUNQZ0Nua3NudDZydGFna2FCUndTRzcwMFVwMUh4NTFWUUhUUmhENXVoUHhGQk1LejJrZGFjTS1SdWpicmRaeUlKd1N3UUtB?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Sat, 18 Apr 2026 07:00:00 GMT",
+      "snippet": "Here’s why the RaveDAO price surged and then crashed 95%&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "RaveDAO (RAVE) Drops 79% Since Pump-and-Dump Accusations—Bears Eye New All-Time Low as Sell-Off Deepens - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtZ09ROHRyTEpTTld6WTZIVTdiQzQxSzUydWpIcWNHR1owRkVYeC1wMWRKc1ZxVnBMWXE2dlFmVE1lcHMyTW5lMXZJU2xOcEI4U3VrWWNwdU1RWHZHclRKMnNkZG56X180OW1XT1ZCZDc5NGJRZXpyUFVCRzlkdFE?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
+      "snippet": "RaveDAO (RAVE) Drops 79% Since Pump-and-Dump Accusations—Bears Eye New All-Time Low as Sell-Off Deepens&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "RaveDAO's RAVE token collapses 90% in a day as exchange probes widen - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHplOG5MaE5xdVJPNm04N29qWGNwakJJSkRNWE5yZHhfa1Zka3FfWGpmaWdBSnJHakhMa2FhbFA5ZXVRM0k5QWZ4bHFBZ2xZYURFYURWdjRGSFpDRlNFQjk1bzBjVFhXa1VWejV6dWZ5ZGU5Q1BkLXVrb3dNRlZTWmVOeXpSZXI0UFdjVWxPUlNoM3ZXN3BIc3htNU9JYTd6N1RSYWxvNnlpMTVFTU5ZVQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sun, 19 Apr 2026 07:00:00 GMT",
+      "snippet": "RaveDAO's RAVE token collapses 90% in a day as exchange probes widen&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "RaveDAO (RAVE) Price Prediction Following 3,200% Pump - MEXC Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1DNHhVcTQ5aElHRXRHbmFUbmJVdXdVZXluT0NjdnJ2V1Nfem1Bbk0xZjNHV1d0RnRfdW50S0VfalJUNnpmMDJv?oc=5",
+      "source": "MEXC Exchange",
+      "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "snippet": "RaveDAO (RAVE) Price Prediction Following 3,200% Pump&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "title": "RaveDAO ( $RAVE ) Pre-Listing Research - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KVFNPY1VIdnZ1QzJNWUlZSDA5ckhBeEg4V3FHYzZ3bEdBeUtpNlY2Z2dqX1ZWTHZRSEdVMXJqVEFQWnFabUlMLTIzYmgtZHZONzByVE9Pa3hNQjRiUzdDYjBTUQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "snippet": "RaveDAO ( $RAVE ) Pre-Listing Research&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "$RAVE unveils tokenomics, igniting the decentralized cultural engine of global entertainment - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vbU5HNkItNUlYNDdZaF9TTWQ3bmZFZGx3TUhlN25hVC03SlNqcml4d1lsaG5DbTRlb0hlRHc3VkZvS0tUUTRleXZBOVJwVm5LeXA4U1BwNjNCODhaSkHSAWNBVV95cUxOd3FLbUFMT01zYkVRVDNZckptTmdaaTZVVTFsdHlNT3NIdjNiWHdVZWtrcUVCY0cyTXhvOUhzQWEyNHFNTjBWVUd3Yk1uOG9wQ3ltV3BGRlRIamg1Wkt1cDdGSEU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 11 Nov 2025 08:00:00 GMT",
+      "snippet": "$RAVE unveils tokenomics, igniting the decentralized cultural engine of global entertainment&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "RaveDAO (RAVE) Token Unlocks and Vesting: Schedule and Tokenomics - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12elRFakswaGtZNnZUNGZtWnZoWFlYVlA3dEdHX1Z3eUxGSVRWSjNSOXpUSDFGeGoxVGVDQkc1STRoZE5WOTdyYkdtdFhLZVNkTjk3Mk9R?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 10 Dec 2025 16:21:11 GMT",
+      "snippet": "RaveDAO (RAVE) Token Unlocks and Vesting: Schedule and Tokenomics&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What is RaveDAO (RAVE)? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RLWFub3Znc3J0b1dSWVNNYkZLLVBwUnNUX1BhU0hSRXBTNGJxV3E5MjFuTWxxRDNJWkJFYWJlOWtyb2xvOEt0Y1UyNm9tWHJrc2xFWGhEdjTSAV5BVV95cUxQODlSdkN5aFg2RVR6LTBpZl9TeWQ0SG1ySHUtQ3pCX25jRWgzMnhqTWhVMktRNGRtLUNpbFRKbzRLcm5VT1RoMTB3UXE0bEVwbUlOeXdrRkh0ZWxoeVRB?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "snippet": "What is RaveDAO (RAVE)?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Feel the Beat: Discover RaveDao—Where Music Meets Crypto Magic - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tZ21oWUxGTi13c1FUSVNjeXBndm94MHBhSGIwSlhtdHNhc0R6QW1pTGtYY24wXy1ZT3R1MzRhdnltejN1T0ItdHN0SjVtQVYzZV95cmF1MU9mZw?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "snippet": "Feel the Beat: Discover RaveDao—Where Music Meets Crypto Magic&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Here’s why RAVE crypto rallied over 270% today - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XRVJIb2ZwaVAzejNwOXdCdVpzc0s0UmxWRG92TVFmTmNtRmhZTWhVa2lqa0JkdWNGUkJYNTBIWjNiUmF2OEJyNmhJdUxpY1czUURwcF9DeDBhRWxlX3fSAWNBVV95cUxOX1RSOFBJb1NKai1JYzJRcTdBQjNQWV9qMFBmRXlYdGpuakp2MlRXcjNTVDQ1ZFdzZW1UMzNtWlpvTEprQkp6QkhseHRTWU1ObEFFaXQ1WFZEMkZMMmZJb0tLV28?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "snippet": "Here’s why RAVE crypto rallied over 270% today&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "RaveDAO Price Prediction: Will RAVE Hold Breakout or Pull Back Hard? - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXlqRWdSN3hPY3hNekEwMjhPRzkwQ3VZNjFJMGZLbTlqOUFEX1FOajZpNkhxQ0t4Z2huTlJHNkswWXlYbTJLYUFpakFHZ21rNGRMUWMzbjI4M1JGeHZ1M0EyeWJqdnNoNmJXTnJLTWpUTnQ4RnZxT0ZxWnNEWEFFS2Q0OHRZMzcwdDhhTmp5a0dMS0VQTVNXUlFFZkVYc3BMdmh1TGNrUQ?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Mon, 29 Jun 2026 05:55:00 GMT",
+      "snippet": "RaveDAO Price Prediction: Will RAVE Hold Breakout or Pull Back Hard?&nbsp;&nbsp;Coin Gabbar"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/krav?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}
