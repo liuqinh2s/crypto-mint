@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-06-29T01:02:57.839Z",
+  "updatedAt": "2026-06-29T01:17:21.766Z",
   "results": [
+    {
+      "token": "TNSR",
+      "requestedInput": "TNSR",
+      "name": "Tensor",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T01:17:21.764Z",
+      "latestPath": "data/results/TNSR-latest.json"
+    },
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-29T01:17:20.406Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
     {
       "token": "TAC",
       "requestedInput": "TAC",
@@ -10,16 +30,6 @@
       "action": "观察",
       "generatedAt": "2026-06-29T01:02:57.836Z",
       "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T01:02:55.867Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "DYDX",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T15:48:11.109Z",
       "latestPath": "data/results/SAPM-latest.json"
-    },
-    {
-      "token": "BAS",
-      "requestedInput": "BAS",
-      "name": "BAS",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:48:16.935Z",
-      "latestPath": "data/results/BAS-latest.json"
     }
   ]
 }
