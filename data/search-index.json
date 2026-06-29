@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-06-29T08:04:06.896Z",
+  "updatedAt": "2026-06-29T08:19:01.040Z",
   "results": [
+    {
+      "token": "VELO",
+      "requestedInput": "VELODROME",
+      "name": "Velodrome Finance",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-29T08:19:01.038Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "SYN",
+      "requestedInput": "SYN",
+      "name": "Synapse",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T08:19:00.178Z",
+      "latestPath": "data/results/SYN-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T08:19:00.218Z",
+      "latestPath": "data/results/-latest.json"
+    },
     {
       "token": "ORDI",
       "requestedInput": "ORDI",
@@ -10,16 +40,6 @@
       "action": "观察",
       "generatedAt": "2026-06-29T08:03:57.713Z",
       "latestPath": "data/results/ORDI-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T08:03:56.243Z",
-      "latestPath": "data/results/VELO-latest.json"
     },
     {
       "token": "GWEI",
@@ -40,16 +60,6 @@
       "action": "不买",
       "generatedAt": "2026-06-29T08:03:56.356Z",
       "latestPath": "data/results/AVAX-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T08:04:03.318Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "BLESS",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T16:05:26.021Z",
       "latestPath": "data/results/AXON-latest.json"
-    },
-    {
-      "token": "MEW",
-      "requestedInput": "MEW",
-      "name": "mew",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:05:24.534Z",
-      "latestPath": "data/results/MEW-latest.json"
     }
   ]
 }
