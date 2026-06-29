@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T03:17:25.019Z",
+  "updatedAt": "2026-06-29T03:32:57.669Z",
   "results": [
     {
       "token": "VELO",
@@ -8,8 +8,68 @@
       "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-29T03:17:16.710Z",
+      "generatedAt": "2026-06-29T03:32:47.490Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "PNUT",
+      "requestedInput": "PNUT",
+      "name": "Pnut",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T03:32:54.362Z",
+      "latestPath": "data/results/PNUT-latest.json"
+    },
+    {
+      "token": "ICNT",
+      "requestedInput": "ICNT",
+      "name": "Impossible Cloud Network Token",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-29T03:32:49.404Z",
+      "latestPath": "data/results/ICNT-latest.json"
+    },
+    {
+      "token": "AAVE",
+      "requestedInput": "AAVE",
+      "name": "Aave",
+      "score": 65,
+      "label": "可以买但严控仓位",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-29T03:32:49.909Z",
+      "latestPath": "data/results/AAVE-latest.json"
+    },
+    {
+      "token": "NATGAS",
+      "requestedInput": "NATGAS",
+      "name": "NATURAL GAS",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T03:32:54.954Z",
+      "latestPath": "data/results/NATGAS-latest.json"
+    },
+    {
+      "token": "TRB",
+      "requestedInput": "TRB",
+      "name": "TRB",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T03:32:56.725Z",
+      "latestPath": "data/results/TRB-latest.json"
+    },
+    {
+      "token": "LIRA",
+      "requestedInput": "LIT",
+      "name": "LIT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T03:32:57.667Z",
+      "latestPath": "data/results/LIRA-latest.json"
     },
     {
       "token": "SOL",
@@ -940,66 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T15:47:45.315Z",
       "latestPath": "data/results/ARC-latest.json"
-    },
-    {
-      "token": "AXS",
-      "requestedInput": "AXS",
-      "name": "Axie Infinity",
-      "score": 35,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T15:47:48.007Z",
-      "latestPath": "data/results/AXS-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:47:53.605Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "ORCA",
-      "requestedInput": "ORCA",
-      "name": "Orca",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T15:47:57.950Z",
-      "latestPath": "data/results/ORCA-latest.json"
-    },
-    {
-      "token": "IN",
-      "requestedInput": "IN",
-      "name": "INFINIT",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T15:47:56.309Z",
-      "latestPath": "data/results/IN-latest.json"
-    },
-    {
-      "token": "GRASS",
-      "requestedInput": "GRASS",
-      "name": "Grass",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:47:55.532Z",
-      "latestPath": "data/results/GRASS-latest.json"
-    },
-    {
-      "token": "MMT",
-      "requestedInput": "MMT",
-      "name": "MMT",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:48:02.457Z",
-      "latestPath": "data/results/MMT-latest.json"
     }
   ]
 }
