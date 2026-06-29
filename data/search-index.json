@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-06-29T00:17:46.927Z",
+  "updatedAt": "2026-06-29T00:32:23.585Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-29T00:32:23.141Z",
+      "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "WET",
+      "requestedInput": "WET",
+      "name": "HumidiFi",
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-29T00:17:46.925Z",
-      "latestPath": "data/results/VELO-latest.json"
+      "generatedAt": "2026-06-29T00:32:23.582Z",
+      "latestPath": "data/results/WET-latest.json"
     },
     {
       "token": "AXL",
@@ -990,16 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T15:32:58.668Z",
       "latestPath": "data/results/DYDX-latest.json"
-    },
-    {
-      "token": "UNH",
-      "requestedInput": "UNH",
-      "name": "UNH",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T15:32:58.775Z",
-      "latestPath": "data/results/UNH-latest.json"
     }
   ]
 }
