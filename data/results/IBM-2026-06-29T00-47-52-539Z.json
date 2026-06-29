@@ -1,0 +1,294 @@
+{
+  "token": "IBM",
+  "requestedInput": "IBM",
+  "exchange": "other",
+  "generatedAt": "2026-06-29T00:47:52.539Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "IBM",
+    "name": "I Bought More",
+    "generatedAt": "2026-06-29T00:47:44.558Z",
+    "summary": "IBM代币是Solana链上PumpSwap的MEME币，市值仅5940美元，流动性7203美元，24小时交易量91美元，价格下跌2.87%。新闻内容均为传统IBM公司相关，与代币无关。项目无基本面，高度投机，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "任何买入逻辑均不成立，代币无价值支撑。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "IBM Defends After 13% Anthropic-Fueled Stock Drop: ‘New AI Tools Emerge Every Week,’ Cobol Modernization Challenges Remain - Stocktwits",
+        "impact": "中性",
+        "reason": "新闻内容为传统IBM公司，与代币无关。"
+      },
+      {
+        "title": "IBM stock just got powerful new price target from Wall Street - thestreet.com",
+        "impact": "中性",
+        "reason": "传统IBM公司新闻，不涉及代币。"
+      },
+      {
+        "title": "IBM partners with OpenAI to bring AI security tools to enterprise clients - CryptoRank",
+        "impact": "中性",
+        "reason": "传统IBM公司新闻，不涉及代币。"
+      },
+      {
+        "title": "Bitcoin price news: BTC tumbles back to $64,000 as IBM becomes latest AI target - CoinDesk",
+        "impact": "中性",
+        "reason": "传统IBM公司新闻，不涉及代币。"
+      },
+      {
+        "title": "The financial world is tokenizing. Blink and you’ll miss it. - IBM",
+        "impact": "中性",
+        "reason": "传统IBM公司新闻，不涉及代币。"
+      },
+      {
+        "title": "IBM Stock Jumped 13%, Then an Old Trump Clip Surfaced: What’s Next for Price? - BeInCrypto",
+        "impact": "中性",
+        "reason": "传统IBM公司新闻，不涉及代币。"
+      },
+      {
+        "title": "Tradr Set to Launch Leveraged ETFs on AMZN, AAOI, HL and IBM - Bitget",
+        "impact": "中性",
+        "reason": "传统IBM公司新闻，不涉及代币。"
+      },
+      {
+        "title": "IBM Opens Quantum Hardware to Researchers as Bitcoin Security Threat Looms - Decrypt",
+        "impact": "中性",
+        "reason": "传统IBM公司新闻，不涉及代币。"
+      }
+    ],
+    "fundamentals": [
+      "代币名称I Bought More，无实际项目背景。",
+      "创建于2026-05-30，已超过一个月，但市值极低。",
+      "无供应量信息，可能为全流通或无限供应。",
+      "社区仅有一个Twitter社区链接，无其他社交或开发活动。"
+    ],
+    "marketRead": [
+      "24小时交易量仅91美元，流动性7203美元，市场深度极差。",
+      "价格24小时下跌2.87%，无上涨动力。",
+      "无历史价格数据，无法判断趋势。"
+    ],
+    "risks": [
+      "极低流动性和交易量，容易发生滑点和操纵。",
+      "无基本面支撑，纯MEME币，价值归零风险极高。",
+      "新闻内容与代币无关，无任何利好催化。",
+      "合约地址未开源或未验证，存在Rug Pull风险。"
+    ],
+    "watchlist": [
+      "关注是否有社区活动或项目方动作。",
+      "监控流动性变化，若大幅下降则立即规避。"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，新闻来源Google News RSS，新闻均为传统IBM公司，与代币无关。",
+      "代币信息有限，无法进行深入分析。"
+    ]
+  },
+  "profile": {
+    "id": "3Hvxn5wa5F7ysyY1uQVQsLVmmpEdN5XJcGjSXUgnSdPv",
+    "symbol": "IBM",
+    "name": "I Bought More",
+    "categories": [
+      "solana",
+      "pumpswap"
+    ],
+    "homepage": [
+      "https://x.com/i/communities/1969247486318350719"
+    ],
+    "description": "DexScreener pair on solana / pumpswap. Pair URL: https://dexscreener.com/solana/49npsquoc7zufhh5zjnx8zkuvi8jmydars9jz12ledj1 Socials: twitter: https://x.com/jimothy_phd/status/2060810273997328844",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.000007473,
+    "marketCapUsd": 5940,
+    "fullyDilutedValuationUsd": 5940,
+    "totalVolumeUsd": 91.05,
+    "priceChange24hPct": -2.87,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-05-30",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "49nPSQUoC7ZuFhH5Zjnx8zKuvi8jmyDaRs9Jz12LedJ1",
+    "baseTokenAddress": "3Hvxn5wa5F7ysyY1uQVQsLVmmpEdN5XJcGjSXUgnSdPv",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 7203.03,
+    "pairUrl": "https://dexscreener.com/solana/49npsquoc7zufhh5zjnx8zkuvi8jmydars9jz12ledj1",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pumpswap",
+    "pair": "IBM/SOL",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "49nPSQUoC7ZuFhH5Zjnx8zKuvi8jmyDaRs9Jz12LedJ1",
+    "pairUrl": "https://dexscreener.com/solana/49npsquoc7zufhh5zjnx8zkuvi8jmydars9jz12ledj1",
+    "lastPrice": 0.000007473,
+    "priceChange24hPct": -2.87,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 91.05,
+    "liquidityUsd": 7203.03,
+    "fullyDilutedValuationUsd": 5940,
+    "marketCapUsd": 5940,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/49npsquoc7zufhh5zjnx8zkuvi8jmydars9jz12ledj1",
+    "pairAddress": "49nPSQUoC7ZuFhH5Zjnx8zKuvi8jmyDaRs9Jz12LedJ1",
+    "baseToken": {
+      "address": "3Hvxn5wa5F7ysyY1uQVQsLVmmpEdN5XJcGjSXUgnSdPv",
+      "name": "I Bought More",
+      "symbol": "IBM"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.0000001055",
+    "priceUsd": "0.000007473",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 3,
+        "sells": 8
+      }
+    },
+    "volume": {
+      "h24": 91.05,
+      "h6": 12.73,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": 0.37,
+      "h24": -2.87
+    },
+    "liquidity": {
+      "usd": 7203.03,
+      "base": 481345525,
+      "quote": 50.8982
+    },
+    "fdv": 5940,
+    "marketCap": 5940,
+    "pairCreatedAt": 1780170863000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/AxZewquuYXiBdzht?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/wZy3MEtDQLHL5sFA?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/3Hvxn5wa5F7ysyY1uQVQsLVmmpEdN5XJcGjSXUgnSdPv?timestamp=1782694200000",
+      "websites": [
+        {
+          "url": "https://x.com/i/communities/1969247486318350719",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/jimothy_phd/status/2060810273997328844",
+          "type": "twitter"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "IBM Defends After 13% Anthropic-Fueled Stock Drop: ‘New AI Tools Emerge Every Week,’ Cobol Modernization Challenges Remain - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMGl4RUZ3NVBKakNZRWIyZmVkNFlvQ0FiQUZ2dGt4RUM4bldva1dKbU9JcE9rdThUMjV0NVhjU1Frc0hKOWpON2hZMUlmV094ZEdoY1JPcWVDckFVdm4yQ1Y0d0ZxWFZ5SWx6a0xsb21YX1FyT2NFeWVtVFZ4YlNfY09yaFdIdWpNZWdNR002UFl1QkVUZlF4eDRkdnpTLUs1em1ubjZ2MktjWm1oRTFvM3N2MGdPTzVZYVE3blNWMVJlSzFNbUdLZ3Q2cFpELU9nVFFNTkg4OU4tbldsOU40Q0RRd2k4RlRERmVDVWR1SWJQdGJoZmdoTHBBcFlISXhIYlRPU2F0VlNMT05lZEE?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Sun, 28 Jun 2026 15:16:25 GMT",
+      "snippet": "IBM Defends After 13% Anthropic-Fueled Stock Drop: ‘New AI Tools Emerge Every Week,’ Cobol Modernization Challenges Remain&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "IBM stock just got powerful new price target from Wall Street - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkVSVVpUdnB1LW1yU3RwZ3BCbUx1Z0lDazVTNTIzbVBvdUNSdW8zQ3BER2NBNTIxeU4ybWIzaTljUlBTUGhqMlotNEFETmE3d2ZOOXE0TVVaNVVaTlBZVy1KNW1mMkNCYkIzUmxFSUV2b2RxQmxycFdWZ1JrSTBpNV91WW0yY01URTZoSnV3NjAtVTg4RXJCaUswSm54R05INGxQRnd6NnlwOG1JcGlUdWY0VHQtTktSSUlwNWd2bU9rblRtSi1YTTF6blBGUzFvcGhHQ2JiWVhqY1drQktN?oc=5",
+      "source": "thestreet.com",
+      "publishedAt": "Thu, 25 Jun 2026 13:17:00 GMT",
+      "snippet": "IBM stock just got powerful new price target from Wall Street&nbsp;&nbsp;thestreet.com"
+    },
+    {
+      "title": "IBM partners with OpenAI to bring AI security tools to enterprise clients - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWpvd3V1bUpDSHFnbno2RWd4cnY5UnNsOTBvVmFQejhZcG1nWHZydXVmVUZHUDBsVWhmNUFiU25Jc0lPYlp1WlJhelZtMEpISFdla0wxSWZ2a1o0VXFrNW5zdzB5NEFaaFlPdXFLN21ZVk1qX3RqajEyM25wcHFydi03NkZBUkU?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "snippet": "IBM partners with OpenAI to bring AI security tools to enterprise clients&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Bitcoin price news: BTC tumbles back to $64,000 as IBM becomes latest AI target - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemtjZzNCUUs3WFcwdlRGTkpPMW5jdGJicWtGV2Y1TjdWZDhJSzU4ekw3dFlYWW9lVXd5azVYa3dOV1BucXhBcDNsRzZBQ0xkcHpHdTl1LUkxNnlTS0VvMTVrR1pEUU55ckl5eWpjMDh4dC05OTZCNWlJUWVkXzFoTTF0cDlnSklDQ1NYZVp1Vm9vcllnOXAtTmx2ZGJrT2ZJazNPV0htMkdtWjQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "snippet": "Bitcoin price news: BTC tumbles back to $64,000 as IBM becomes latest AI target&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "The financial world is tokenizing. Blink and you’ll miss it. - IBM",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1adUJnb0dXY2VsT0VVSEpnTHEtckFNOVRuVUNMVlpzOHU3VzViTGFzaTMxUmd5UjNyR1B6TDNDREtrRXEwSGZGVE9KUlB3aVBFM1ZkSEhzYUo0aHBHR0ZOTWdPb3RnZWRk?oc=5",
+      "source": "IBM",
+      "publishedAt": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "snippet": "The financial world is tokenizing. Blink and you’ll miss it.&nbsp;&nbsp;IBM"
+    },
+    {
+      "title": "IBM Stock Jumped 13%, Then an Old Trump Clip Surfaced: What’s Next for Price? - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1peVBXY1ZLdGtyRldTcWdnZnFhZmpQVkJEMVpFcVoxWnFMQzNaWFFWYkdScTZ1NFczbmNaUW56cEFmRDVnZkVnZkk4U09mbXRPMjE0QXBsc1dUQk9aX2ltaW0zaXdtUQ?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "snippet": "IBM Stock Jumped 13%, Then an Old Trump Clip Surfaced: What’s Next for Price?&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Tradr Set to Launch Leveraged ETFs on AMZN, AAOI, HL and IBM - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfTzhXcm41M0dPQU9PRkVDcHRzU0JZMDZROUlnSk5salNQQlFIcWhjNGxjMy1IUkRMTzVnUk5ENXFWdUpMcS1FVnREUlBTY2R2UUtyV1VKbkFoM2VyYWfSAWNBVV95cUxPMmtiaDlmUEtNNEtZcTZiUGh1b0pZbUdubURMUmVzcEpJT0tMR0YzeWRaZnNUc3NZWnpzbzBtdmxjSDlqSnM3QzJPanJING5UVkF6V0llNW9lWHBLUEpIR1M2ZkE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "snippet": "Tradr Set to Launch Leveraged ETFs on AMZN, AAOI, HL and IBM&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "IBM Opens Quantum Hardware to Researchers as Bitcoin Security Threat Looms - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa2FPdGZUcE5Pb2c4TmoxbC1GRkhDc3JDdU41Z2U0MmNOVnhrOXZ4ellucWo1S1FMdnBrbzlFcVhPX0IwMTRfeFcxdnlvTFpYbnAydmI1Vk9SSGZIN1pXR0QyanhFOXVUc0U0SzJsam5wSHZyZkNENzh0LTU1M2k2clM2WlVja0pEN3RqM2hPOXpQd9IBmgFBVV95cUxOX0xkNGs2dGpYcEk5aEVRUVg3aGMtQUM4TDlrLXhiQlYyZWl2cjNKU1VhYlBpQVRLUU9RMFhiLXlkdFBCTHVvekRsNndvMTNVYmktUlo2U1R3N3h3cS1JQVBjM01vRHZIcWNsSnVnNEdjQndMcnJPLUhWTzdVYkxrUmhyNnZGNkh1SmRGTkFDTDhIUFhqajNSUnVR?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "snippet": "IBM Opens Quantum Hardware to Researchers as Bitcoin Security Threat Looms&nbsp;&nbsp;Decrypt"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

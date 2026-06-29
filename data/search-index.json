@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-06-29T00:32:23.585Z",
+  "updatedAt": "2026-06-29T00:47:53.740Z",
   "results": [
     {
       "token": "VELO",
       "requestedInput": "VELODROME",
       "name": "Velodrome Finance",
-      "score": 25,
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-29T00:32:23.141Z",
+      "generatedAt": "2026-06-29T00:47:51.522Z",
       "latestPath": "data/results/VELO-latest.json"
+    },
+    {
+      "token": "UNH",
+      "requestedInput": "UNH",
+      "name": "UNH",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T00:47:53.738Z",
+      "latestPath": "data/results/UNH-latest.json"
+    },
+    {
+      "token": "IBM",
+      "requestedInput": "IBM",
+      "name": "I Bought More",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-29T00:47:52.539Z",
+      "latestPath": "data/results/IBM-latest.json"
     },
     {
       "token": "WET",
@@ -980,26 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T15:32:51.302Z",
       "latestPath": "data/results/HIVE-latest.json"
-    },
-    {
-      "token": "TAC",
-      "requestedInput": "TAC",
-      "name": "TAC",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T15:32:49.995Z",
-      "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "DYDX",
-      "requestedInput": "DYDX",
-      "name": "dYdX",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T15:32:58.668Z",
-      "latestPath": "data/results/DYDX-latest.json"
     }
   ]
 }
