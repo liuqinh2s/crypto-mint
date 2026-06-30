@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-06-30T19:49:15.325Z",
+  "updatedAt": "2026-06-30T20:04:13.575Z",
   "results": [
+    {
+      "token": "XAN",
+      "requestedInput": "XAN",
+      "name": "Anoma",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:04:03.547Z",
+      "latestPath": "data/results/XAN-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:04:03.249Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:04:04.839Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:04:03.852Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "QBTSON",
+      "requestedInput": "QBTS",
+      "name": "D-Wave Quantum (Ondo Tokenized Stock)",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:04:13.573Z",
+      "latestPath": "data/results/QBTSON-latest.json"
+    },
+    {
+      "token": "ARQQON",
+      "requestedInput": "ARQQ",
+      "name": "Arqit Quantum (Ondo Tokenized)",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:04:11.598Z",
+      "latestPath": "data/results/ARQQON-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:04:10.299Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "ID",
       "requestedInput": "ID",
@@ -22,16 +92,6 @@
       "latestPath": "data/results/CHILLGUY-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:48:58.121Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "AMT",
       "requestedInput": "AMAT",
       "name": "Amateras",
@@ -42,26 +102,6 @@
       "latestPath": "data/results/AMT-latest.json"
     },
     {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:49:07.117Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "QBTSON",
-      "requestedInput": "QBTS",
-      "name": "D-Wave Quantum (Ondo Tokenized Stock)",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:49:09.191Z",
-      "latestPath": "data/results/QBTSON-latest.json"
-    },
-    {
       "token": "SNOW",
       "requestedInput": "SNOW",
       "name": "Snowman",
@@ -70,16 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T19:49:07.395Z",
       "latestPath": "data/results/SNOW-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:49:09.099Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "CAT",
@@ -170,16 +200,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T19:19:04.854Z",
       "latestPath": "data/results/SOXL-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:19:06.339Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "CRDO",
@@ -980,26 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T14:34:14.556Z",
       "latestPath": "data/results/VELVET-latest.json"
-    },
-    {
-      "token": "MET",
-      "requestedInput": "MET",
-      "name": "Meteora",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T14:34:22.656Z",
-      "latestPath": "data/results/MET-latest.json"
-    },
-    {
-      "token": "SPY",
-      "requestedInput": "SPY",
-      "name": "SPY",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:34:24.915Z",
-      "latestPath": "data/results/SPY-latest.json"
     }
   ]
 }
