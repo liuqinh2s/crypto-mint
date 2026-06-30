@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T05:48:50.284Z",
+  "updatedAt": "2026-06-30T05:56:28.559Z",
   "results": [
     {
       "token": "HOU",
@@ -8,18 +8,28 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T05:48:48.099Z",
+      "generatedAt": "2026-06-30T05:56:27.049Z",
       "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "AMT",
       "requestedInput": "AMAT",
       "name": "Amateras",
-      "score": 10,
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T05:48:48.533Z",
+      "generatedAt": "2026-06-30T05:56:27.139Z",
       "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "WET",
+      "requestedInput": "WET",
+      "name": "HumidiFi",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T05:56:28.557Z",
+      "latestPath": "data/results/WET-latest.json"
     },
     {
       "token": "",
@@ -28,7 +38,7 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T05:48:48.446Z",
+      "generatedAt": "2026-06-30T05:56:25.023Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-29T00:47:53.738Z",
       "latestPath": "data/results/UNH-latest.json"
-    },
-    {
-      "token": "IBM",
-      "requestedInput": "IBM",
-      "name": "I Bought More",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T00:47:52.539Z",
-      "latestPath": "data/results/IBM-latest.json"
     }
   ]
 }
