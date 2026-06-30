@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-30T04:34:12.319Z",
+  "updatedAt": "2026-06-30T04:48:44.666Z",
   "results": [
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T04:48:43.618Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "ACX",
+      "requestedInput": "ACX",
+      "name": "Across Protocol",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T04:48:44.664Z",
+      "latestPath": "data/results/ACX-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T04:48:44.573Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T04:48:43.550Z",
+      "latestPath": "data/results/-latest.json"
+    },
     {
       "token": "SLX",
       "requestedInput": "SLX",
@@ -10,36 +50,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T04:34:03.490Z",
       "latestPath": "data/results/SLX-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T04:34:03.536Z",
-      "latestPath": "data/results/HOU-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T04:34:03.317Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T04:34:02.616Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "SYRUP",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T21:19:47.694Z",
       "latestPath": "data/results/MEME-latest.json"
-    },
-    {
-      "token": "BASED",
-      "requestedInput": "BASED",
-      "name": "Based",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T21:19:42.306Z",
-      "latestPath": "data/results/BASED-latest.json"
     }
   ]
 }
