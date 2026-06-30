@@ -1,34 +1,24 @@
 {
-  "updatedAt": "2026-06-30T10:34:08.680Z",
+  "updatedAt": "2026-06-30T10:48:53.757Z",
   "results": [
-    {
-      "token": "SYN",
-      "requestedInput": "SYN",
-      "name": "Synapse",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T10:34:04.669Z",
-      "latestPath": "data/results/SYN-latest.json"
-    },
     {
       "token": "KRAV",
       "requestedInput": "RAVE",
       "name": "Rave",
-      "score": 10,
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T10:34:04.758Z",
+      "generatedAt": "2026-06-30T10:48:53.349Z",
       "latestPath": "data/results/KRAV-latest.json"
     },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T10:34:01.588Z",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T10:48:52.806Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -38,7 +28,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T10:34:02.226Z",
+      "generatedAt": "2026-06-30T10:48:53.755Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
@@ -48,8 +38,18 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T10:34:08.678Z",
+      "generatedAt": "2026-06-30T10:48:52.419Z",
       "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "SYN",
+      "requestedInput": "SYN",
+      "name": "Synapse",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T10:34:04.669Z",
+      "latestPath": "data/results/SYN-latest.json"
     },
     {
       "token": "ORDI",
