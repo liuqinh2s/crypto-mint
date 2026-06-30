@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-30T17:03:47.774Z",
+  "updatedAt": "2026-06-30T17:19:03.910Z",
   "results": [
+    {
+      "token": "SN105",
+      "requestedInput": "BEAM",
+      "name": "Beam",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:18:54.947Z",
+      "latestPath": "data/results/SN105-latest.json"
+    },
+    {
+      "token": "SYN",
+      "requestedInput": "SYN",
+      "name": "Synapse",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T17:18:55.775Z",
+      "latestPath": "data/results/SYN-latest.json"
+    },
+    {
+      "token": "NMR",
+      "requestedInput": "NMR",
+      "name": "Numeraire",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T17:18:56.588Z",
+      "latestPath": "data/results/NMR-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:18:53.873Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:19:01.263Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:19:03.812Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:19:02.580Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "CAT",
+      "requestedInput": "SIMO",
+      "name": "Simons Cat",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T17:19:03.908Z",
+      "latestPath": "data/results/CAT-latest.json"
+    },
     {
       "token": "AVAX",
       "requestedInput": "AVAX",
@@ -22,16 +102,6 @@
       "latestPath": "data/results/ORDI-latest.json"
     },
     {
-      "token": "SN105",
-      "requestedInput": "BEAM",
-      "name": "Beam",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:03:38.623Z",
-      "latestPath": "data/results/SN105-latest.json"
-    },
-    {
       "token": "KAS",
       "requestedInput": "KAS",
       "name": "KAS",
@@ -40,46 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T17:03:38.845Z",
       "latestPath": "data/results/KAS-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:03:45.615Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:03:46.667Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:03:47.772Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:03:47.325Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "ARC",
@@ -190,16 +220,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T16:34:25.908Z",
       "latestPath": "data/results/ETN-latest.json"
-    },
-    {
-      "token": "CAT",
-      "requestedInput": "SIMO",
-      "name": "Simons Cat",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T16:34:31.245Z",
-      "latestPath": "data/results/CAT-latest.json"
     },
     {
       "token": "PROM",
@@ -980,26 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-30T11:49:07.114Z",
       "latestPath": "data/results/DELL-latest.json"
-    },
-    {
-      "token": "BBSTOCK",
-      "requestedInput": "BBSTOCK",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:49:02.738Z",
-      "latestPath": "data/results/BBSTOCK-latest.json"
-    },
-    {
-      "token": "DELLON",
-      "requestedInput": "DELL",
-      "name": "Dell Technologies (Ondo Tokenized)",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:41:00.707Z",
-      "latestPath": "data/results/DELLON-latest.json"
     }
   ]
 }
