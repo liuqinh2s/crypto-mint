@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-30T16:49:09.040Z",
+  "updatedAt": "2026-06-30T17:03:47.774Z",
   "results": [
+    {
+      "token": "AVAX",
+      "requestedInput": "AVAX",
+      "name": "AVAX",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:03:39.961Z",
+      "latestPath": "data/results/AVAX-latest.json"
+    },
+    {
+      "token": "ORDI",
+      "requestedInput": "ORDI",
+      "name": "ORDI",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T17:03:40.990Z",
+      "latestPath": "data/results/ORDI-latest.json"
+    },
+    {
+      "token": "SN105",
+      "requestedInput": "BEAM",
+      "name": "Beam",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:03:38.623Z",
+      "latestPath": "data/results/SN105-latest.json"
+    },
+    {
+      "token": "KAS",
+      "requestedInput": "KAS",
+      "name": "KAS",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:03:38.845Z",
+      "latestPath": "data/results/KAS-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:03:45.615Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:03:46.667Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:03:47.772Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:03:47.325Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "ARC",
       "requestedInput": "ARC",
@@ -42,26 +122,6 @@
       "latestPath": "data/results/LIT-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:49:02.121Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:49:05.244Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
       "token": "OUSTON",
       "requestedInput": "OUST",
       "name": "Ouster Tokenized Stock (Ondo)",
@@ -70,16 +130,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T16:49:02.884Z",
       "latestPath": "data/results/OUSTON-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:49:09.037Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "AAVE",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T11:41:00.707Z",
       "latestPath": "data/results/DELLON-latest.json"
-    },
-    {
-      "token": "RCAT",
-      "requestedInput": "RCAT",
-      "name": "Replicat-One by Virtuals",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:40:57.221Z",
-      "latestPath": "data/results/RCAT-latest.json"
-    },
-    {
-      "token": "DRIFT",
-      "requestedInput": "DRIFT",
-      "name": "Drift Protocol",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:18:57.015Z",
-      "latestPath": "data/results/DRIFT-latest.json"
-    },
-    {
-      "token": "NMR",
-      "requestedInput": "NMR",
-      "name": "Numeraire",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T11:18:56.936Z",
-      "latestPath": "data/results/NMR-latest.json"
-    },
-    {
-      "token": "AVAV",
-      "requestedInput": "AVAV",
-      "name": "AeroVironment, Inc. (股票) / Avascriptions (代币)",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:03:34.969Z",
-      "latestPath": "data/results/AVAV-latest.json"
-    },
-    {
-      "token": "SYN",
-      "requestedInput": "SYN",
-      "name": "Synapse",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T10:34:04.669Z",
-      "latestPath": "data/results/SYN-latest.json"
     }
   ]
 }

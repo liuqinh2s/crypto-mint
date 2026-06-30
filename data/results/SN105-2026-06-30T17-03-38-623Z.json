@@ -1,0 +1,175 @@
+{
+  "token": "SN105",
+  "requestedInput": "BEAM",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T17:03:38.623Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SN105",
+    "name": "Beam",
+    "generatedAt": "2026-06-30T17:03:32.732Z",
+    "summary": "Beam (SN105) 是 Bittensor 生态的 AI 子网代币，近期价格小幅上涨但流动性极低，市值与 FDV 严重不匹配，存在极高风险。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无，当前数据不足以支持任何买入逻辑"
+    },
+    "catalysts": [
+      "Bittensor 生态热度",
+      "AI 赛道叙事"
+    ],
+    "latestNews": [],
+    "fundamentals": [
+      "属于 Bittensor 子网，AI 概念",
+      "总供应量 2100 万，流通供应量为 0（数据异常）",
+      "FDV 约 240 万美元，但市值显示为 0，数据矛盾",
+      "无 genesis 日期，可能为新项目或数据缺失"
+    ],
+    "marketRead": [
+      "24h 涨幅 11.48%，但 7 日跌 1.66%，14 日跌 19.42%，短期反弹力度弱",
+      "DEX 上流动性高达 1.2 亿美元，但 24h 交易量为 0，流动性可能为虚假或池子未激活",
+      "价格 0.004105 美元，与 CMC 价格 2.14 美元严重不符，存在数据混乱"
+    ],
+    "risks": [
+      "流动性虚假或不可用，交易量为 0",
+      "价格数据不一致，CMC 与 DEX 价格相差巨大",
+      "流通供应量为 0，代币可能未解锁或未分发",
+      "无新闻、无社区活跃度，项目信息极度匮乏",
+      "合约风险：未开源或未审计"
+    ],
+    "watchlist": [
+      "确认 DEX 流动性真实性",
+      "代币合约是否开源",
+      "官方渠道更新"
+    ],
+    "sourceNotes": [
+      "数据来源 CoinMarketCap 和 DexScreener，但两者数据严重冲突，可靠性低",
+      "无新闻数据，无法判断近期催化"
+    ]
+  },
+  "profile": {
+    "id": "soundsright",
+    "symbol": "SN105",
+    "name": "Beam",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "Bittensor Ecosystem",
+      "Bittensor Subnets"
+    ],
+    "homepage": [
+      "https://b1m.ai"
+    ],
+    "description": "",
+    "marketCapRank": null,
+    "currentPriceUsd": 2.14,
+    "marketCapUsd": 0,
+    "fullyDilutedValuationUsd": 3715149,
+    "totalVolumeUsd": 417237,
+    "priceChange24hPct": 0.11478,
+    "priceChange7dPct": -1.66405,
+    "priceChange14dPct": -19.41568,
+    "priceChange30dPct": -3.83554,
+    "athUsd": 4.69,
+    "athChangePct": -54.35052,
+    "circulatingSupply": 0,
+    "totalSupply": 1735438.656116396,
+    "maxSupply": 21000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 107,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "BEAM/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x8eBeF5365276EfE3f1bd4735A709CA81ecf9C986",
+    "pairUrl": "https://dexscreener.com/ethereum/0x8ebef5365276efe3f1bd4735a709ca81ecf9c986",
+    "lastPrice": 0.004105,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 120016317.39,
+    "fullyDilutedValuationUsd": 240032635,
+    "marketCapUsd": 240032635,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x8ebef5365276efe3f1bd4735a709ca81ecf9c986",
+    "pairAddress": "0x8eBeF5365276EfE3f1bd4735A709CA81ecf9C986",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0x1Ce1540c9eccdAD2bE36b7d94Ca8Cbf1f600a561",
+      "name": "Beam",
+      "symbol": "BEAM"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.000002591",
+    "priceUsd": "0.004105",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 120016317.39,
+      "base": 29235092188,
+      "quote": 0.0004029
+    },
+    "fdv": 240032635,
+    "marketCap": 240032635,
+    "pairCreatedAt": 1773182123000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned BEAM for SN105; DEX profile ignored to avoid token mix-up."
+  ]
+}
