@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-06-30T09:18:22.540Z",
+  "updatedAt": "2026-06-30T09:34:08.508Z",
   "results": [
+    {
+      "token": "ARC",
+      "requestedInput": "ARC",
+      "name": "ARC",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T09:34:03.385Z",
+      "latestPath": "data/results/ARC-latest.json"
+    },
+    {
+      "token": "LIT",
+      "requestedInput": "LIT",
+      "name": "Lighter",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T09:34:02.778Z",
+      "latestPath": "data/results/LIT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T09:34:01.253Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T09:34:00.001Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T09:34:08.506Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
     {
       "token": "MOODENG",
       "requestedInput": "MOODENG",
@@ -32,26 +82,6 @@
       "latestPath": "data/results/LYN-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T09:18:12.765Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T09:18:22.538Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
       "token": "KIRBY",
       "requestedInput": "OUST",
       "name": "New Baby Elephant Houston Zoo",
@@ -70,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T09:04:11.879Z",
       "latestPath": "data/results/GRIFFAIN-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T09:04:08.777Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "ICNT",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-29T08:04:05.408Z",
       "latestPath": "data/results/BLESS-latest.json"
-    },
-    {
-      "token": "RAVE",
-      "requestedInput": "RAVE",
-      "name": "RAVE",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T08:04:06.894Z",
-      "latestPath": "data/results/RAVE-latest.json"
-    },
-    {
-      "token": "UAI",
-      "requestedInput": "UAI",
-      "name": "AImerica",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T08:04:03.923Z",
-      "latestPath": "data/results/UAI-latest.json"
     }
   ]
 }
