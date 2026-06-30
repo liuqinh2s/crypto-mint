@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-06-30T02:19:17.532Z",
+  "updatedAt": "2026-06-30T02:34:25.944Z",
   "results": [
+    {
+      "token": "TIA",
+      "requestedInput": "TIA",
+      "name": "Tiamonds [OLD]",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T02:34:00.763Z",
+      "latestPath": "data/results/TIA-latest.json"
+    },
+    {
+      "token": "ESP",
+      "requestedInput": "ESP",
+      "name": "Espresso",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T02:34:08.427Z",
+      "latestPath": "data/results/ESP-latest.json"
+    },
+    {
+      "token": "APE",
+      "requestedInput": "APE",
+      "name": "ape",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T02:34:01.168Z",
+      "latestPath": "data/results/APE-latest.json"
+    },
+    {
+      "token": "HOT",
+      "requestedInput": "HOLO",
+      "name": "Holo",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T02:34:03.556Z",
+      "latestPath": "data/results/HOT-latest.json"
+    },
+    {
+      "token": "USELESS",
+      "requestedInput": "USELESS",
+      "name": "Useless Coin",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T02:34:10.721Z",
+      "latestPath": "data/results/USELESS-latest.json"
+    },
+    {
+      "token": "ACT",
+      "requestedInput": "ACT",
+      "name": "Act I The AI Prophecy",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T02:34:08.207Z",
+      "latestPath": "data/results/ACT-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T02:34:19.021Z",
+      "latestPath": "data/results/KIRBY-latest.json"
+    },
+    {
+      "token": "B2",
+      "requestedInput": "B2",
+      "name": "BSquared Token",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T02:34:16.082Z",
+      "latestPath": "data/results/B2-latest.json"
+    },
+    {
+      "token": "DEXE",
+      "requestedInput": "DEXE",
+      "name": "DeXe",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T02:34:14.290Z",
+      "latestPath": "data/results/DEXE-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T02:34:17.277Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "KAITO",
+      "requestedInput": "KAITO",
+      "name": "KAITO",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T02:34:21.913Z",
+      "latestPath": "data/results/KAITO-latest.json"
+    },
+    {
+      "token": "TOKYOEL",
+      "requestedInput": "TOKYOEL",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T02:34:18.940Z",
+      "latestPath": "data/results/TOKYOEL-latest.json"
+    },
+    {
+      "token": "4",
+      "requestedInput": "4",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T02:34:20.548Z",
+      "latestPath": "data/results/4-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T02:34:24.986Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "KGEN",
+      "requestedInput": "KGEN",
+      "name": "KGEN",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T02:34:25.943Z",
+      "latestPath": "data/results/KGEN-latest.json"
+    },
     {
       "token": "HIVE",
       "requestedInput": "HIVE",
@@ -40,16 +190,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-30T02:18:47.014Z",
       "latestPath": "data/results/GLW-latest.json"
-    },
-    {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:18:54.146Z",
-      "latestPath": "data/results/KIRBY-latest.json"
     },
     {
       "token": "PENDLE",
@@ -122,16 +262,6 @@
       "latestPath": "data/results/AXON-latest.json"
     },
     {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:19:09.657Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
       "token": "PL",
       "requestedInput": "PL",
       "name": "Power Liquidity",
@@ -170,16 +300,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T02:19:16.237Z",
       "latestPath": "data/results/DELL-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T02:19:17.530Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "CIEN",
@@ -880,126 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T17:03:11.805Z",
       "latestPath": "data/results/VELVET-latest.json"
-    },
-    {
-      "token": "CHILLGUY",
-      "requestedInput": "CHILLGUY",
-      "name": "Just a chill guy",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:48:11.721Z",
-      "latestPath": "data/results/CHILLGUY-latest.json"
-    },
-    {
-      "token": "SKHYNIX",
-      "requestedInput": "SKHYNIX",
-      "name": "SK Hynix",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:48:07.915Z",
-      "latestPath": "data/results/SKHYNIX-latest.json"
-    },
-    {
-      "token": "OPENAI",
-      "requestedInput": "OPENAI",
-      "name": "OpenAI PreStocks",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:48:08.268Z",
-      "latestPath": "data/results/OPENAI-latest.json"
-    },
-    {
-      "token": "MAGMA",
-      "requestedInput": "MAGMA",
-      "name": "Magma Finance",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T16:48:14.576Z",
-      "latestPath": "data/results/MAGMA-latest.json"
-    },
-    {
-      "token": "JST",
-      "requestedInput": "JST",
-      "name": "JUST",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T16:32:28.192Z",
-      "latestPath": "data/results/JST-latest.json"
-    },
-    {
-      "token": "TRADOOR",
-      "requestedInput": "TRADOOR",
-      "name": "Tradoor",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:32:29.695Z",
-      "latestPath": "data/results/TRADOOR-latest.json"
-    },
-    {
-      "token": "RTXSTOCK",
-      "requestedInput": "RTXSTOCK",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:32:22.894Z",
-      "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "BAN",
-      "requestedInput": "BAN",
-      "name": "Comedian",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:32:31.279Z",
-      "latestPath": "data/results/BAN-latest.json"
-    },
-    {
-      "token": "TURBO",
-      "requestedInput": "TURBO",
-      "name": "Turbo",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T16:32:38.655Z",
-      "latestPath": "data/results/TURBO-latest.json"
-    },
-    {
-      "token": "BRKB",
-      "requestedInput": "BRKB",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:32:32.203Z",
-      "latestPath": "data/results/BRKB-latest.json"
-    },
-    {
-      "token": "NAORIS",
-      "requestedInput": "NAORIS",
-      "name": "Naoris Protocol",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T16:32:38.078Z",
-      "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "PREOPENAI",
-      "requestedInput": "OPENAI",
-      "name": "OpenAI",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T16:32:37.110Z",
-      "latestPath": "data/results/PREOPENAI-latest.json"
     }
   ]
 }

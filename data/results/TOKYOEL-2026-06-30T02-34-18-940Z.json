@@ -1,0 +1,79 @@
+{
+  "token": "TOKYOEL",
+  "requestedInput": "TOKYOEL",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T02:34:18.940Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TOKYOEL",
+    "name": "unknown",
+    "generatedAt": "2026-06-30T02:34:16.543Z",
+    "summary": "代币TOKYOEL在Binance无交易对，数据不可得，无法分析。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无数据，逻辑失效条件不适用"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [],
+    "marketRead": [],
+    "risks": [
+      "无交易数据，可能为未上线或已下架代币",
+      "流动性极低或不存在",
+      "合约风险未知"
+    ],
+    "watchlist": [],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取行情",
+      "无新闻或基本面数据"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "TOKYOELUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=TOKYOELUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "TOKYOELFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=TOKYOELFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "TOKYOELUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=TOKYOELUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "TOKYOELBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=TOKYOELBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=TOKYOEL: Throttled\n"
+  ]
+}
