@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-06-30T18:14:02.596Z",
+  "updatedAt": "2026-06-30T18:19:32.396Z",
   "results": [
+    {
+      "token": "KGEN",
+      "requestedInput": "KGEN",
+      "name": "KGeN",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T18:19:18.425Z",
+      "latestPath": "data/results/KGEN-latest.json"
+    },
+    {
+      "token": "4",
+      "requestedInput": "4",
+      "name": "4",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:19:16.117Z",
+      "latestPath": "data/results/4-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:19:15.145Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:19:17.036Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "LWLGON",
+      "requestedInput": "LWLG",
+      "name": "Lightwave Logic (Ondo Tokenized)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:19:23.411Z",
+      "latestPath": "data/results/LWLGON-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:19:25.467Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "CIEN",
+      "requestedInput": "CIEN",
+      "name": "Ciena",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:19:25.391Z",
+      "latestPath": "data/results/CIEN-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:19:25.797Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "CAT",
+      "requestedInput": "SIMO",
+      "name": "Simons Cat",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T18:19:32.394Z",
+      "latestPath": "data/results/CAT-latest.json"
+    },
     {
       "token": "APR",
       "requestedInput": "APR",
@@ -30,66 +120,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T18:13:46.343Z",
       "latestPath": "data/results/TSM-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:13:45.593Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:13:52.886Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
-      "token": "LWLGON",
-      "requestedInput": "LWLG",
-      "name": "Lightwave Logic (Ondo Tokenized)",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:13:54.181Z",
-      "latestPath": "data/results/LWLGON-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:13:56.250Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:13:56.692Z",
-      "latestPath": "data/results/TOKABU-latest.json"
-    },
-    {
-      "token": "CAT",
-      "requestedInput": "SIMO",
-      "name": "Simons Cat",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T18:14:02.299Z",
-      "latestPath": "data/results/CAT-latest.json"
     },
     {
       "token": "GLW",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T13:19:00.569Z",
       "latestPath": "data/results/PYTH-latest.json"
-    },
-    {
-      "token": "DEXE",
-      "requestedInput": "DEXE",
-      "name": "DeXe",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T13:19:02.323Z",
-      "latestPath": "data/results/DEXE-latest.json"
-    },
-    {
-      "token": "KAITO",
-      "requestedInput": "KAITO",
-      "name": "KAITO",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:19:03.638Z",
-      "latestPath": "data/results/KAITO-latest.json"
-    },
-    {
-      "token": "ONG",
-      "requestedInput": "ONG",
-      "name": "Ontology Gas",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:04:21.156Z",
-      "latestPath": "data/results/ONG-latest.json"
     }
   ]
 }
