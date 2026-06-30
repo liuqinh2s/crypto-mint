@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-06-30T23:18:15.240Z",
+  "updatedAt": "2026-06-30T23:34:04.001Z",
   "results": [
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 20,
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T23:33:58.420Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "TQQQ",
+      "requestedInput": "TQQQ",
+      "name": "TQQQUSDT",
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T23:18:05.491Z",
-      "latestPath": "data/results/-latest.json"
+      "generatedAt": "2026-06-30T23:33:59.457Z",
+      "latestPath": "data/results/TQQQ-latest.json"
     },
     {
       "token": "AMT",
@@ -18,18 +28,28 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T23:18:05.880Z",
+      "generatedAt": "2026-06-30T23:33:59.697Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "HOUSTON",
       "requestedInput": "OUST",
       "name": "Houston",
-      "score": 10,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T23:18:05.849Z",
+      "generatedAt": "2026-06-30T23:33:59.780Z",
       "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T23:34:03.999Z",
+      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "EH",
@@ -40,16 +60,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T23:18:01.716Z",
       "latestPath": "data/results/EH-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T23:18:09.126Z",
-      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "TOKABU",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T15:48:43.208Z",
       "latestPath": "data/results/HYPER-latest.json"
-    },
-    {
-      "token": "BAS",
-      "requestedInput": "BAS",
-      "name": "BNB Attestation Service",
-      "score": 40,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T15:48:44.082Z",
-      "latestPath": "data/results/BAS-latest.json"
     }
   ]
 }
