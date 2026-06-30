@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-06-30T03:18:52.245Z",
+  "updatedAt": "2026-06-30T03:34:10.111Z",
   "results": [
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:34:02.023Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "GAS",
+      "requestedInput": "GAS",
+      "name": "Gas",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:34:02.852Z",
+      "latestPath": "data/results/GAS-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:34:02.211Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "VANA",
+      "requestedInput": "VANA",
+      "name": "Vana",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:34:03.365Z",
+      "latestPath": "data/results/VANA-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T03:34:08.000Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AGLD",
+      "requestedInput": "AGLD",
+      "name": "Adventure Gold",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:34:10.109Z",
+      "latestPath": "data/results/AGLD-latest.json"
+    },
     {
       "token": "HOLO",
       "requestedInput": "HOLO",
@@ -30,16 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T03:18:44.470Z",
       "latestPath": "data/results/WIF-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T03:18:44.333Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "ARQQ",
@@ -72,16 +122,6 @@
       "latestPath": "data/results/SNOW-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T03:18:52.243Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "HOT",
       "requestedInput": "HOLO",
       "name": "Holo",
@@ -100,16 +140,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T03:03:25.237Z",
       "latestPath": "data/results/KIRBY-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T03:03:25.188Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "MEW",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T18:33:05.750Z",
       "latestPath": "data/results/SOON-latest.json"
-    },
-    {
-      "token": "TOSHI",
-      "requestedInput": "TOSHI",
-      "name": "Toshi",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-28T18:17:22.806Z",
-      "latestPath": "data/results/TOSHI-latest.json"
-    },
-    {
-      "token": "LYN",
-      "requestedInput": "LYN",
-      "name": "Lyn",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T18:17:20.720Z",
-      "latestPath": "data/results/LYN-latest.json"
-    },
-    {
-      "token": "PIEVERSE",
-      "requestedInput": "PIEVERSE",
-      "name": "Pieverse",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T18:17:19.570Z",
-      "latestPath": "data/results/PIEVERSE-latest.json"
     }
   ]
 }
