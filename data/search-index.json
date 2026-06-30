@@ -1,25 +1,35 @@
 {
-  "updatedAt": "2026-06-30T22:03:48.543Z",
+  "updatedAt": "2026-06-30T22:18:04.316Z",
   "results": [
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T22:03:47.199Z",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T22:18:03.831Z",
       "latestPath": "data/results/-latest.json"
     },
     {
       "token": "AMT",
       "requestedInput": "AMAT",
       "name": "Amateras",
-      "score": 5,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T22:03:47.976Z",
+      "generatedAt": "2026-06-30T22:18:04.314Z",
       "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T22:18:02.278Z",
+      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "HOUSTON",
@@ -40,16 +50,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T22:03:46.572Z",
       "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:55:22.597Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "DYDX",
