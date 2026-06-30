@@ -1,0 +1,317 @@
+{
+  "token": "SKR",
+  "requestedInput": "SKR",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T16:04:20.678Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SKR",
+    "name": "Seeker",
+    "generatedAt": "2026-06-30T16:04:11.331Z",
+    "summary": "SKR是Solana Mobile生态代币，近期因空投和手机生态叙事上涨，但空投后抛压大，价格从ATH跌超84%，当前市值约5800万美元，流动性尚可。基本面有Solana Mobile硬件支撑，但代币效用不明确，竞争激烈。短期受空投抛售和情绪影响，风险较高。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若价格跌破0.008美元或空投抛压持续加大，则逻辑失效。"
+    },
+    "catalysts": [
+      "Solana Mobile Seeker手机出货及生态应用落地",
+      "社区治理和TEEPin网络架构的潜在采用",
+      "空投后价格超跌反弹预期"
+    ],
+    "latestNews": [
+      {
+        "title": "Seeker’s SKR Token Slides After Airdrop as Early Holders Begin Selling - Yahoo Finance",
+        "impact": "利空",
+        "reason": "空投后早期持有者抛售导致价格下跌，显示短期抛压大。"
+      },
+      {
+        "title": "Solana Mobile Token Seeker Breaks Downtrend — Here's What a 38% Jump Could Mean for SKR's Price - CCN.com",
+        "impact": "利好",
+        "reason": "价格突破下行趋势，可能带来短期反弹。"
+      },
+      {
+        "title": "Why Solana Mobile Seeker (SKR) Price Jumped 55% Today - TradingView",
+        "impact": "利好",
+        "reason": "单日大涨55%，显示市场情绪和资金关注。"
+      },
+      {
+        "title": "Solana Mobile begins SKR token airdrop to Seeker phone users - CoinDesk",
+        "impact": "中性",
+        "reason": "空投启动是预期事件，但后续抛压已显现。"
+      },
+      {
+        "title": "Solana Mobile Airdropping 1.8B SKR Tokens to Users - CoinMarketCap",
+        "impact": "利空",
+        "reason": "大量代币空投增加流通供应，稀释价值。"
+      }
+    ],
+    "fundamentals": [
+      "Seeker是Solana Mobile生态代币，旨在构建去中心化移动生态系统。",
+      "总供应量约104亿，流通量约66亿，流通率63.5%。",
+      "代币用途包括治理、网络费用、激励等，但具体效用尚不明确。",
+      "项目由Solana Mobile团队支持，有硬件手机Seeker作为载体。",
+      "市值排名381，FDV约9200万美元，估值中等。"
+    ],
+    "marketRead": [
+      "24小时涨幅5.48%，7日涨幅15.97%，但30日跌幅34.39%，处于下跌趋势。",
+      "当前价格0.00888美元，较ATH 0.0558美元跌84%，处于低位。",
+      "DEX流动性约5600万美元，交易量约420万美元，流动性尚可。",
+      "空投后价格波动剧烈，存在大量早期抛售。"
+    ],
+    "risks": [
+      "空投后早期持有者持续抛售，供应压力大。",
+      "代币效用不明确，缺乏实际需求支撑。",
+      "竞争激烈，面临其他移动区块链项目挑战。",
+      "价格从ATH大幅下跌，市场信心不足。",
+      "DEX交易对流动性集中，存在滑点和操纵风险。"
+    ],
+    "watchlist": [
+      "空投解锁进度和抛售量变化",
+      "Solana Mobile Seeker手机销量和生态应用进展",
+      "价格是否企稳并形成支撑位",
+      "社区治理提案和代币效用更新"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko和DexScreener，新闻来自Google News聚合。",
+      "部分新闻日期较早（2026年1月），可能已过时。",
+      "DEX数据仅显示WETH交易对，可能不全面。"
+    ]
+  },
+  "profile": {
+    "id": "seeker",
+    "symbol": "SKR",
+    "name": "Seeker",
+    "categories": [
+      "Infrastructure",
+      "Solana Ecosystem"
+    ],
+    "homepage": [
+      "https://solanamobile.com/",
+      "https://solanamobile.com/skr"
+    ],
+    "description": "Seeker is building a decentralized mobile ecosystem designed to challenge entrenched mobile incumbents through its TEEPin network architecture and community governance. It aims to solve the pain points of centralized app store gatekeeping, lack of developer freedom, and restricted user access to crypto applications. The vision is to create a community-owned platform with decentralized governance, no gatekeepers, direct developer-user access, and TEEPin security architecture.",
+    "marketCapRank": 381,
+    "currentPriceUsd": 0.00888062,
+    "marketCapUsd": 58723213,
+    "fullyDilutedValuationUsd": 92470347,
+    "totalVolumeUsd": 4225589,
+    "priceChange24hPct": 5.48251,
+    "priceChange7dPct": 15.97239,
+    "priceChange14dPct": 0.16198,
+    "priceChange30dPct": -34.38817,
+    "athUsd": 0.055818,
+    "athChangePct": -84.0845,
+    "circulatingSupply": 6612360373.295916,
+    "totalSupply": 10412360373.29591,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 25,
+    "watchlistUsers": 7576,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "SKR/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x51b39Ab480DfE43622C361E4dF2682Ac30574107",
+    "pairUrl": "https://dexscreener.com/ethereum/0x51b39ab480dfe43622c361e4df2682ac30574107",
+    "lastPrice": 0.01098,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.02,
+    "liquidityUsd": 56411511.98,
+    "fullyDilutedValuationUsd": 112823024,
+    "marketCapUsd": 112823024,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x51b39ab480dfe43622c361e4df2682ac30574107",
+    "pairAddress": "0x51b39Ab480DfE43622C361E4dF2682Ac30574107",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0xBb1E19150a6B5127Dce14CEe2B801B55B7300b2B",
+      "name": "Seeker",
+      "symbol": "SKR"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.000006931",
+    "priceUsd": "0.01098",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 2,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.02,
+      "h6": 0.02,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 56411511.98,
+      "base": 5136975629,
+      "quote": 0.0002503
+    },
+    "fdv": 112823024,
+    "marketCap": 112823024,
+    "pairCreatedAt": 1777976051000
+  },
+  "news": [
+    {
+      "title": "Seeker’s SKR Token Slides After Airdrop as Early Holders Begin Selling - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS1NmTllPQzhob2ZMNGhSY1J0UjNfeGNGNVJXbk1GeUNROHp3UHZKbkdfeUlJWmVLNVdXclhUYndxYTZsNzQzbkJha0Z1ZTRLaXNaXzgxYkZGbEVjRzNCZ21WVk1pTGg5cWljVjRiX1FMcGo1WDhPRkJNQzdsNjdVb0FaQQ?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Seeker’s SKR Token Slides After Airdrop as Early Holders Begin Selling&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Solana Mobile Token Seeker Breaks Downtrend — Here's What a 38% Jump Could Mean for SKR's Price - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnlrWFJQRTZjOGJTeF8xaXJMc3o3c0NKZlo4VUlqRTJoS0EwOXZWYjFTTEM1bHVObklzT2lpUlBNTWFLZVZ0dHJFVExjSkdENExLeWdfTWJqS0tGa3dOVDFFQThHXzFxT3Bha3BDTXNWbFBBRDRObnhQZ3IwNFBjdlhHSjJ1ZWk5S2hpZnh1TEF3WV9xUFc4eXh0eW1xTWJMc2k4LUg3VzR4ZG05T0E?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "snippet": "Solana Mobile Token Seeker Breaks Downtrend — Here's What a 38% Jump Could Mean for SKR's Price&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Why Solana Mobile Seeker (SKR) Price Jumped 55% Today - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM0JRZTdEV0dOUWJudDZpZ0JmdW1RcmpGTWV6OWJwcmhxT0VhdW5fUU5xbExsd2YtWnBDbDhlQU1QYVNJUm5RLURJbGMxZ3BSck5HSDRkOUxWYmZpT2V1cW5OZmdTWXRVbm11VTdFdVhyLS1KdE9uOTZVTzhpQTFsS2R6ckIxUk12YkRITWQ5NWN5LUpJWjRLalNKenhDNUVfQjQxS3BKQzVTR0w5YnJZ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Why Solana Mobile Seeker (SKR) Price Jumped 55% Today&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Seeker Price: SKR/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByRlhnNU4xcFNPNEN5WVNBc0RWbVNfcHBYaTFDZnNESFpneEM2M3VobjZVQ1FnSUp3MWFnVC11ejNmanFWdWhWZTF0RWwzUFl5c3ZN?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 05 Dec 2025 10:32:14 GMT",
+      "snippet": "Seeker Price: SKR/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Solana Seeker Token SKR Jumps 300% on First Day of Trading - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mTEpyWkNFOEo0Tk5VaEE3OTVXVmdkeGtHcGktaTc2eTRrYmQ1S0RnVWxKVVp3RjFLOFpMazBjNHVhMlVqMkFxakZfajIyck53LVhVNTkyc1JVamM5bDZJbzR1MGRQbF93MVowU2swOG8wMWRqVG5VSUhUUXVaUDA?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "snippet": "Solana Seeker Token SKR Jumps 300% on First Day of Trading&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Why Solana’s Seeker (SKR) Now Depends on Bears to Avoid a 17% Price Crash - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybGV5MFhpMjlCVzlIMDJtTlBzTk9rdWtvSWJoTmc0Z1ZJNDVHTElOcVpBOUJPNnZWSFk1Y1pzYVNGRmNVTW00WXFWVF9jc3dwbUlZNEtmUGNPQUw2V2dVZzdybjZKVjgyU3cyd2FfTG0?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "snippet": "Why Solana’s Seeker (SKR) Now Depends on Bears to Avoid a 17% Price Crash&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Seeker (SKR) Price Prediction 2026: Can Solana’s Mobile Token Challenge Apple and Google? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSUZHSFZ6T0Z6ZldGQWpzX1pweGVXQzUyM3hjbHg2Nm1DNDI5djdJTTJnZE9ORmVKaWp4OGhRNng4OXMtU0tpMU9kMGM4TjVUNDdzU09HTHVIZC1PWnV3VjFrSGJMRVRVWlZxVHRFTVBBRDJVaG1uM1dTOVBJUy1FZ0phRHhLNFpPX3hEeXl0NUw3UGNrU3BPTWNKRndUbXVReHExTzRiNmF6SHZfdU1zdmQ4MWRSOEVvZTJZcl92UQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "snippet": "Seeker (SKR) Price Prediction 2026: Can Solana’s Mobile Token Challenge Apple and Google?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Seeker Price, SKR Price, Live Charts, and Marketcap: skr coin, seeker, seeker crypto price - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCb1JsQmVWRmp2MzlRTHp0OXpLM21SWlJFS1JZZEpITWhUTjZJRmtoYmE2d0MxMjJpY29SdFo2RjNESmsxcS1heHFIZkhYZw?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "snippet": "Seeker Price, SKR Price, Live Charts, and Marketcap: skr coin, seeker, seeker crypto price&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Solana Mobile begins SKR token airdrop to Seeker phone users - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZGVHR1hBamtjZ09nb1V2elp2MS1xV3RZeE1iTmI3bE8yMjVHc2w3MWl4TWJCbEJRSDRuVWxmd0tEQ2F0c3h6d2V5Vm8zWklqY1MwcER1RXl5T0dPMXZ2Q3ZzcWo0Z1JvRG56dkJ1VnlGSXdrLTNpbnlOWWNiWEpBUTc2bUx3RDJ6Q3E5ZDQtRnpYY080eUFwekNVSFVhOFNUVFBmWGxDblA?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "snippet": "Solana Mobile begins SKR token airdrop to Seeker phone users&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Solana Mobile Launches SKR Token Airdrop for Seeker Phone Users - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWEJtU082X3VMLTJFWk1Xb0d4bVRkR1laeFMzeUJWYkk0eVlnVTZ0OTFlRlBxLUloWWNzTjV3WW9Lem1qX0FBV2ZhbzJWV2V4dGhhRWNtVFNtaWh3VF9vWTlkY0owTTdpZlpOV2JhZFhMYVJ2Q1R1QUUzTHRTVU1XTkhLVUg?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Solana Mobile Launches SKR Token Airdrop for Seeker Phone Users&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Seeker (SKR) Explained: Tokenomics, Airdrop and Phemex Pre‑TGE CandyDrop Guide - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByRXJPeE53aGdwS0xPWG41MV9TNmVBVEpOQk0zOU9Tb2NwM1g3OG9jNFdhX2c3Q1F4N1EzY0hsSTdBQUpBWWRNS0hsekRtTUY1MVlMY1pkU0M?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "snippet": "Seeker (SKR) Explained: Tokenomics, Airdrop and Phemex Pre‑TGE CandyDrop Guide&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Solana Mobile Confirms SKR Airdrop Ahead of January 21 Token Launch - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzdVcndMZ0dhZUpVSm92ZGtEZVppcWdmdHUzTjZVVXhZUmQ3b25mNDRGTGlBOUFsbk5OWmlVOXBpeTRBdjllOUYwRE5ta3lUelBIUEdwblViVGpZTVdDbGhTNmF2TzJ2bUVWdDBJcDhiV1FKOG1iUkNCaU03bXNaVl9ISm10T2NvbzNkNEtfVTk5RlRtVjZaeHF5bVhkM0tRNDFkTWlFSW4?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "snippet": "Solana Mobile Confirms SKR Airdrop Ahead of January 21 Token Launch&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Solana Mobile Airdropping 1.8B SKR Tokens to Users - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYnhpSmpleVhjQTdncFVmWWNndWJQSDVzc2dDRWNXR1p6VFBUbjVpOWp0RC1lcWNrTFpiOVU4ckVtWDVNcDNSZWkxTnFFQk01ZGt1WnRtRjU5Y0RiT3prQmRfQkRMeG1OR1Y0S0JiV0U1UlRVRGZTS05wT0RvN1J0RlBLWGFzYjBZMDVTUnUxYUhaY2VoSFE?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 15 Jan 2026 13:07:38 GMT",
+      "snippet": "Solana Mobile Airdropping 1.8B SKR Tokens to Users&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Solana Mobile Seeker Debuts SKR Token With Sharp Market Rally - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16dG9qVHFiTVRsYXVMeXByTnZlMFF2VEd6eUNXZFQtc0hGUXJMVG1GRFFMSk8yckdRWTFBQVljeGpXdC1TNlBaRTFncG1EcXBEbmRKRlY1WU1UMHZoVkHSAWNBVV95cUxPYnZEVVByREFwVmdrTG8zYzU2YW1ZeWJjNWFSdlo5Sm1LajBaMXYxU3Fzb3VBRlAzZDlRS055dkZ0NGhfMlJfYXUzMmwtdTRpRnNCbFhLN25jcDI1Z3JsX0VjaXM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "Solana Mobile Seeker Debuts SKR Token With Sharp Market Rally&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Solana Mobile to Airdrop 1.8B SKR Tokens - Blockchain Council",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZGo1MHZ5V2MzNEYzU1YyZ3Z1YTI1eGU5SjFwN3lrcFl0YVFTNjgxalpXQzcyaHFNc3c3UHZuTWF3aGN6ZUg2TGtLRFRSYUtrSU5Bd1JjUnVCbjU3alZwLV96Ykl5MndNVHQtR1JMYzZMNWhubVpXaVZCNEtYZE8tRmhBSjAtQmwz?oc=5",
+      "source": "Blockchain Council",
+      "publishedAt": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "snippet": "Solana Mobile to Airdrop 1.8B SKR Tokens&nbsp;&nbsp;Blockchain Council"
+    },
+    {
+      "title": "What is Seeker (SKR)? The Rise of Solana’s Mobile-First Economy - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNTZvQTlFdWJNbFNtTzdpUEYwemVpQXVOaDZLNXp4b2dHV21XckxqX29naC12cnM3VE9FaHF4cG1rWXdpdHkzYXNhbExaZ19udHZ3dDJoQm44UGstdUFPaFVJRWtJNm5Cb3NnaVZrWUFTdTRpNWp3QllWaEhkaThTWUxueV9aZk1EbDdCZE5PRi1WTWQ2ZWc?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "snippet": "What is Seeker (SKR)? The Rise of Solana’s Mobile-First Economy&nbsp;&nbsp;KuCoin"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

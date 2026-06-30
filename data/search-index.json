@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-30T15:48:53.033Z",
+  "updatedAt": "2026-06-30T16:04:29.385Z",
   "results": [
+    {
+      "token": "PROM",
+      "requestedInput": "PROM",
+      "name": "Prom",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T16:04:20.989Z",
+      "latestPath": "data/results/PROM-latest.json"
+    },
+    {
+      "token": "ZAMA",
+      "requestedInput": "ZAMA",
+      "name": "Zama",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T16:04:19.284Z",
+      "latestPath": "data/results/ZAMA-latest.json"
+    },
+    {
+      "token": "SKR",
+      "requestedInput": "SKR",
+      "name": "Seeker",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T16:04:20.678Z",
+      "latestPath": "data/results/SKR-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T16:04:18.650Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T16:04:26.384Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "OUSTON",
+      "requestedInput": "OUST",
+      "name": "Ouster Tokenized Stock (Ondo)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T16:04:24.682Z",
+      "latestPath": "data/results/OUSTON-latest.json"
+    },
+    {
+      "token": "QNTSTOCK",
+      "requestedInput": "QNTSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T16:04:24.093Z",
+      "latestPath": "data/results/QNTSTOCK-latest.json"
+    },
+    {
+      "token": "CAT",
+      "requestedInput": "SIMO",
+      "name": "Simons Cat",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T16:04:29.383Z",
+      "latestPath": "data/results/CAT-latest.json"
+    },
     {
       "token": "HYPER",
       "requestedInput": "HYPER",
@@ -32,26 +112,6 @@
       "latestPath": "data/results/PWR-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:48:41.654Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:48:49.758Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
       "token": "OBS",
       "requestedInput": "NBIS",
       "name": "OpenBiSea Token",
@@ -60,26 +120,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T15:48:48.974Z",
       "latestPath": "data/results/OBS-latest.json"
-    },
-    {
-      "token": "OUSTON",
-      "requestedInput": "OUST",
-      "name": "Ouster Tokenized Stock (Ondo)",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:48:49.560Z",
-      "latestPath": "data/results/OUSTON-latest.json"
-    },
-    {
-      "token": "CAT",
-      "requestedInput": "SIMO",
-      "name": "Simons Cat",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T15:48:53.031Z",
-      "latestPath": "data/results/CAT-latest.json"
     },
     {
       "token": "DYDX",
@@ -960,46 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-30T08:03:32.173Z",
       "latestPath": "data/results/ICNT-latest.json"
-    },
-    {
-      "token": "AAVE",
-      "requestedInput": "AAVE",
-      "name": "Aave",
-      "score": 65,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T07:48:56.623Z",
-      "latestPath": "data/results/AAVE-latest.json"
-    },
-    {
-      "token": "RAY",
-      "requestedInput": "RAY",
-      "name": "Raydium",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T07:48:55.588Z",
-      "latestPath": "data/results/RAY-latest.json"
-    },
-    {
-      "token": "BASED",
-      "requestedInput": "BASED",
-      "name": "Based",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T07:48:55.118Z",
-      "latestPath": "data/results/BASED-latest.json"
-    },
-    {
-      "token": "ASTS",
-      "requestedInput": "ASTS",
-      "name": "AST SpaceMobile Inc (Derivatives)",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T07:49:02.247Z",
-      "latestPath": "data/results/ASTS-latest.json"
     }
   ]
 }
