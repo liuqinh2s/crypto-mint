@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-06-30T17:34:16.456Z",
+  "updatedAt": "2026-06-30T17:49:20.834Z",
   "results": [
+    {
+      "token": "1000SATS",
+      "requestedInput": "1000SATS",
+      "name": "1000SATS (Ordinals)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:49:04.645Z",
+      "latestPath": "data/results/1000SATS-latest.json"
+    },
+    {
+      "token": "BEAM",
+      "requestedInput": "BEAM",
+      "name": "Beam",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T17:49:05.490Z",
+      "latestPath": "data/results/BEAM-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:49:02.832Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:49:05.777Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "LWLGON",
+      "requestedInput": "LWLG",
+      "name": "Lightwave Logic (Ondo Tokenized)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:49:10.467Z",
+      "latestPath": "data/results/LWLGON-latest.json"
+    },
+    {
+      "token": "VRT",
+      "requestedInput": "VRT",
+      "name": "Venus Reward",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:49:12.633Z",
+      "latestPath": "data/results/VRT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:49:13.370Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "DELL",
+      "requestedInput": "DELL",
+      "name": "DELL",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:49:16.136Z",
+      "latestPath": "data/results/DELL-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T17:49:18.157Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "CAT",
+      "requestedInput": "SIMO",
+      "name": "Simons Cat",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T17:49:20.831Z",
+      "latestPath": "data/results/CAT-latest.json"
+    },
     {
       "token": "SN105",
       "requestedInput": "BEAM",
@@ -20,36 +120,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-30T17:34:07.742Z",
       "latestPath": "data/results/MORPHO-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:34:04.674Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:34:05.593Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
-      "token": "LWLGON",
-      "requestedInput": "LWLG",
-      "name": "Lightwave Logic (Ondo Tokenized)",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:34:10.940Z",
-      "latestPath": "data/results/LWLGON-latest.json"
     },
     {
       "token": "HOU",
@@ -72,26 +142,6 @@
       "latestPath": "data/results/BBSTOCK-latest.json"
     },
     {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:34:15.983Z",
-      "latestPath": "data/results/TOKABU-latest.json"
-    },
-    {
-      "token": "CAT",
-      "requestedInput": "SIMO",
-      "name": "Simons Cat",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T17:34:16.455Z",
-      "latestPath": "data/results/CAT-latest.json"
-    },
-    {
       "token": "SYN",
       "requestedInput": "SYN",
       "name": "Synapse",
@@ -110,16 +160,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T17:18:56.588Z",
       "latestPath": "data/results/NMR-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:19:03.812Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "AVAX",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T12:18:54.450Z",
       "latestPath": "data/results/STABLE-latest.json"
-    },
-    {
-      "token": "NATGAS",
-      "requestedInput": "NATGAS",
-      "name": "Natural Gas (Derivatives)",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:18:54.443Z",
-      "latestPath": "data/results/NATGAS-latest.json"
-    },
-    {
-      "token": "PANW",
-      "requestedInput": "PANW",
-      "name": "Palo Alto Networks",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T12:19:01.603Z",
-      "latestPath": "data/results/PANW-latest.json"
-    },
-    {
-      "token": "AXON",
-      "requestedInput": "AXON",
-      "name": "axon",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:19:02.477Z",
-      "latestPath": "data/results/AXON-latest.json"
-    },
-    {
-      "token": "PL",
-      "requestedInput": "PL",
-      "name": "Power Liquidity",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:19:06.331Z",
-      "latestPath": "data/results/PL-latest.json"
     }
   ]
 }

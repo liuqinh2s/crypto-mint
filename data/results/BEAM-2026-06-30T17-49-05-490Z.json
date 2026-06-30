@@ -1,0 +1,317 @@
+{
+  "token": "BEAM",
+  "requestedInput": "BEAM",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T17:49:05.490Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "BEAM",
+    "name": "Beam",
+    "generatedAt": "2026-06-30T17:48:57.333Z",
+    "summary": "BEAM是部署在以太坊Uniswap上的代币，近期因Coinbase上线、Musk相关消息及GameFi复苏预期而受到关注。当前价格0.004105美元，市值约2.4亿美元，流动性充足。但新闻多为预测性内容，且存在多个同名项目（如隐私公链Beam、Liora Nuclear Beam等），需警惕混淆风险。基本面信息不足，建议观望。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若出现合约漏洞、团队抛售或价格跌破0.003美元，则逻辑失效。"
+    },
+    "catalysts": [
+      "Coinbase上线预期（2025年12月新闻）",
+      "Musk相关消息（2026年6月29日）",
+      "GameFi板块复苏",
+      "隐私DeFi概念"
+    ],
+    "latestNews": [
+      {
+        "title": "Musk Buys \"Light Beam,\" Prompting Action from Silicon Valley Giants",
+        "impact": "利好",
+        "reason": "Musk相关消息可能吸引投机资金，但真实性存疑。"
+      },
+      {
+        "title": "Coinbase adds BEAM: A Game-Changing Move for the Gaming Cryptocurrency",
+        "impact": "利好",
+        "reason": "Coinbase上线增加流动性和曝光度，但新闻发布于2025年12月，已过时效。"
+      },
+      {
+        "title": "Beam (BEAM) Price Prediction 2026, 2027-2030: Is a 100x Privacy DeFi Rally Possible?",
+        "impact": "中性",
+        "reason": "价格预测类新闻，缺乏实质信息。"
+      }
+    ],
+    "fundamentals": [
+      "代币名称Beam，但存在多个同名项目（如隐私公链Beam、Liora Nuclear Beam），需确认具体项目。",
+      "DexScreener数据显示为以太坊Uniswap上的BEAM/WETH交易对，流动性约1.2亿美元。",
+      "市值约2.4亿美元，但无流通量、总供应量等关键数据。",
+      "项目官网、白皮书、团队信息缺失。"
+    ],
+    "marketRead": [
+      "当前价格0.004105美元，24小时价格变化、成交量等数据缺失，可能为低流动性或数据延迟。",
+      "流动性1.2亿美元，但24小时成交量为0，说明交易不活跃。",
+      "无K线数据，无法判断趋势。"
+    ],
+    "risks": [
+      "项目身份不明确，存在同名代币混淆风险。",
+      "新闻多为预测性或旧闻，缺乏近期实质性利好。",
+      "成交量极低，可能存在操纵风险。",
+      "无团队、白皮书等基本信息，合约风险高。",
+      "Musk相关消息真实性未证实，可能为炒作。"
+    ],
+    "watchlist": [
+      "确认项目官方渠道（官网、推特、白皮书）。",
+      "观察成交量是否放大。",
+      "关注Coinbase是否确实上线及后续交易量。",
+      "监控Musk相关消息的后续发展。"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，但24小时价格变化、成交量等字段为空，可能因数据抓取时间问题。",
+      "新闻来源包括Coinpedia、CryptoRank、Bitget等，权威性一般。",
+      "存在多个同名项目，本报告基于DexScreener上以太坊Uniswap的BEAM/WETH交易对。"
+    ]
+  },
+  "profile": {
+    "id": "0x1Ce1540c9eccdAD2bE36b7d94Ca8Cbf1f600a561",
+    "symbol": "BEAM",
+    "name": "Beam",
+    "categories": [
+      "ethereum",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on ethereum / uniswap. Pair URL: https://dexscreener.com/ethereum/0x8ebef5365276efe3f1bd4735a709ca81ecf9c986",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.004105,
+    "marketCapUsd": 240032635,
+    "fullyDilutedValuationUsd": 240032635,
+    "totalVolumeUsd": 0,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-03-10",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x8eBeF5365276EfE3f1bd4735A709CA81ecf9C986",
+    "baseTokenAddress": "0x1Ce1540c9eccdAD2bE36b7d94Ca8Cbf1f600a561",
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "liquidityUsd": 120016317.39,
+    "pairUrl": "https://dexscreener.com/ethereum/0x8ebef5365276efe3f1bd4735a709ca81ecf9c986",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "BEAM/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x8eBeF5365276EfE3f1bd4735A709CA81ecf9C986",
+    "pairUrl": "https://dexscreener.com/ethereum/0x8ebef5365276efe3f1bd4735a709ca81ecf9c986",
+    "lastPrice": 0.004105,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 120016317.39,
+    "fullyDilutedValuationUsd": 240032635,
+    "marketCapUsd": 240032635,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x8ebef5365276efe3f1bd4735a709ca81ecf9c986",
+    "pairAddress": "0x8eBeF5365276EfE3f1bd4735A709CA81ecf9C986",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0x1Ce1540c9eccdAD2bE36b7d94Ca8Cbf1f600a561",
+      "name": "Beam",
+      "symbol": "BEAM"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.000002591",
+    "priceUsd": "0.004105",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 120016317.39,
+      "base": 29235092188,
+      "quote": 0.0004029
+    },
+    "fdv": 240032635,
+    "marketCap": 240032635,
+    "pairCreatedAt": 1773182123000
+  },
+  "news": [
+    {
+      "title": "Beam (BEAM) Price Prediction 2026, 2027-2030: Is a 100x Privacy DeFi Rally Possible? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01djBRWEd3Xzl6a242OWpBYXdXMHBLX0tjeUR4aE5Xb283dk1DbGZGb1B4djdKdmZKcy14TURGQldhanJHMnVuTmxBRUZkTU1FZmNzVGNUeGNGLTVBcHphYnNmbk1RdWRROXB1UFd30gFzQVVfeXFMTjRWaUI2Y0U2b1BxVDhJT1dIU3JtVnBFakRHNTNfa041WkRQTlZySzJtNVJiWVFJYlRQbVdRWnp3cU1DZzE2MG5DeENZdHBRbEZYZ0ZpU2FmY0hfbU9DU2g0M0VUQmdHZGtLdGc3UGVqMVpvVQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "snippet": "Beam (BEAM) Price Prediction 2026, 2027-2030: Is a 100x Privacy DeFi Rally Possible?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Coinbase adds BEAM: A Game-Changing Move for the Gaming Cryptocurrency - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92UDFMVkxibWVJQlNOVDFQOE9KbGZEaGlqQzktTXB0cGhpdGFsOEhVanlnbXFwcG1HTW5ZLVNxb0NrbWtyc0ZyS0Jpblp6cXZia0Q2V1NtVU56RERGZjk4V2ZvQ1NpU3czdVY3eXhfM1pWdw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "snippet": "Coinbase adds BEAM: A Game-Changing Move for the Gaming Cryptocurrency&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Beam Price Today | BEAMX to ZAR Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrdnpTTzh6N0ZzUlBzVnY1cXU5M2NoT0EzM05JR0VCWU0tLXFyc0o2a2RNU3FobDQ5cFBhS0tMdW4xOXJzMGZPRnBFUExEcmU0Y0FtQQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 24 Jun 2026 11:21:00 GMT",
+      "snippet": "Beam Price Today | BEAMX to ZAR Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What Is Liora Nuclear Beam ($BEAM) Crypto? Is $BEAM Worth Buying in 2026? - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT1pHb0N2dVBUVm5NVVJ6dXA3c0RGLXdUS1NGbnlkVS1KUkxjUklqMDZWaDBMd2hldFBOUHBHUlFBaGtkWlAwQkQ1TUpPZXFSSXZWNXdtOFNUdzI5OHpBMmJqa2hzdURpYzlEVWs2a25Ia0tHcmR3Rk10RUliYjVkVjY4cTlpVUduR2w1YjZqRkpWOVk3QXEyeWM4NnI3bjFPb3RHc3BnMmNYYnc?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Mon, 09 Feb 2026 08:00:00 GMT",
+      "snippet": "What Is Liora Nuclear Beam ($BEAM) Crypto? Is $BEAM Worth Buying in 2026?&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "Coinbase to List BEAM: A Major Leap for Privacy-Focused Cryptocurrency - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTjFKUDNrVTdQNUpNNTg1cmVnRXlJSnNzODRVakJxOUo1cEMzMzJnQmhrdWFNelJsTmpuTVVCMG8tSmxjM2h4QmlLZHJnNF8zc0FfYkhoQ3lFNldfb1I3ODZZcEtZRnc0VVRUT29SZzdVbFMxUnp6YjlCazB5QzRHSFJZSzRMdw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "snippet": "Coinbase to List BEAM: A Major Leap for Privacy-Focused Cryptocurrency&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Beam (BEAM) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIZG54dm1WRERsb2p6S0VOZ2o5MmNfYkY3VGcyNmxMRnJvTE9DRVgtWHZHNTB4UWFlbjRLR1RoWmptZ3l2N044eW1TUVkyaFVBNzh4VVFKVGNSSXpwOXBfZjNiZFRjdw?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 15 Sep 2022 21:33:50 GMT",
+      "snippet": "Beam (BEAM) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Beam (BEAM) Price Prediction 2026 2027 2028 - 2040 - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1veWJ5dmQ1MVBjdi1VNjgwYkNaMmM4SEhFYkVHc0ljajMzdzlyRnlyRmxHT1MwdGpuZTM3MWxER2JTMzNEck5QN2lHQVF4a1d3RUVJWjRaVkNwSjJ5RzVzczR4RGM?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Fri, 19 Jan 2024 02:14:06 GMT",
+      "snippet": "Beam (BEAM) Price Prediction 2026 2027 2028 - 2040&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "How to sell Liora Nuclear Beam (BEAM) via a crypto wallet - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZeS1fLWJzWjFDZ2lJLXVkOVpGanZ4c2VtTEpDNzVpNGM1clg3V3I1a29oYldmdlJ3MEFHbWFiVTBuLVo1Tk1sRTZINWtBV0Y1Zjlqcm0xdDZ6aFlWWm5GUTZlRGtUT1dUZlNqZQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 14 Feb 2026 15:24:25 GMT",
+      "snippet": "How to sell Liora Nuclear Beam (BEAM) via a crypto wallet&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "How can I purchase Beam: In-Depth Crypto Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFQxWnA0TkU3R2ZJM3g1Z001N3pKcTFBQ2dkdUhnekZCSlM3MGl4c1Y5NWliZGFUNk1JeGpZZGEwaHh1eFctcGtKX0NFTHBCYllRSWpmZUJlWktoSXdMNnFrM2Z0SENlRldQTlVmeWM4UXF4OTl2S2V0dDYxTkdVSFdfSGw2UlE?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sat, 20 Jun 2026 06:55:46 GMT",
+      "snippet": "How can I purchase Beam: In-Depth Crypto Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Beam (BEAM) Price Prediction 2026, 2027-2030: Is a 100x Privacy DeFi Rally Possible? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KLVJPcnluQ0wwbERHYVZILTd5ZUJVNzhBbjVldHlDWngwQ0dtVWNHOHNYZlRPVjI2b1MyOUM4MHJOaEZLWTIwX1VfMWZRcTdZVktqdzY1UTNOWVZ3ckHSAWNBVV95cUxPUW9sQlY2VHZORjRKc2xKQ3VCb25CZDM4eHk3V2toYTBsemRpc2JuZmlZakxDei1DSUMtcTNYX3Fwc0xoUjFDdjQ5QnBENU1CY0xCVFk5UGxaSGRJekVMQ2tnQWM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 08 Mar 2026 08:00:00 GMT",
+      "snippet": "Beam (BEAM) Price Prediction 2026, 2027-2030: Is a 100x Privacy DeFi Rally Possible?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Best App to purchase Beam: Key Aspects, Charges & Steps - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNDlpVzJITjFqQ3YtNFJUWGhLTEJ2RGtjMHVNLU1kQjlCakR4Und3ZWVfOXNuTS10RU5NTUs0S3NmVURHbzluQzBIWjM0bnB6ZV8tM2VMRXk2Y1hLYnI3RTFSWmEtX3lUQm5kTmJPRlE3WWhTV21oX1k5QkhKRVpxdGZB?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Thu, 18 Jun 2026 08:23:32 GMT",
+      "snippet": "Best App to purchase Beam: Key Aspects, Charges & Steps&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Purchase Beam with Cash: Fee, Method and Insights - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QTEJSWWFnRy1wd3BpdlJsb2lXc2lacFhtNi1yRFcyTklsdTJNMWxpRWpUcWR4NXMyM2JMWVFtQi1BMVpNWDdKWVZLTjNxTXJQcDJIVVoySGhxYzJfYThlMWxNLUxQSmNBbWFWbFA1dk10RENuVjJ4eFE5bms?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Thu, 18 Jun 2026 06:49:21 GMT",
+      "snippet": "Purchase Beam with Cash: Fee, Method and Insights&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "BEAM Surges 277% In Six Weeks Following Chain Migration and GameFi Recovery - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb1I5SnY2NGVncnFpYXlXLWtVT3ZLa2szaFpFRzhiZmRQeWNGOHBneFJZbDRPTThoYVl3VWxxVmtlRTVLazJ1UF9VNzhBaTBEbmpTeHVGM0F4RnI1NDAwTzFST09sYmk0U0RqSFBCcmZDeEYtUnNjV0d0Um5oZm1BUFdmQXM1c3pOdzdFaXVQQ21rZWoxZVFRYjItbXdKbnZITXd6ZHB2ZVJGUQ?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Wed, 06 Dec 2023 08:00:00 GMT",
+      "snippet": "BEAM Surges 277% In Six Weeks Following Chain Migration and GameFi Recovery&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Musk Buys \"Light Beam,\" Prompting Action from Silicon Valley Giants - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wOE03YXJHa2tzWDRfQ2J5YU5UNW1fYUt6dmpjdElWakhsbVVKa2V5M3ZsbTlOMHAzUmpHTEpzZUJTRGU5YXE1YXc5ZjM5VzJSejJHRFAwM0RhMFhORFHSAWNBVV95cUxPRDhGOVJnM2k2WENOS1hHTVFnVUtpQndPQ2JJZnV2alJZQjBVc2Jaa3NkRXgyZmVxME5DRlVKNUNFVkZqVVBpZTdDMXNwb1Z6RUhDWUFFdUlZb3NZalhNSlpqeVk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 29 Jun 2026 05:38:16 GMT",
+      "snippet": "Musk Buys \"Light Beam,\" Prompting Action from Silicon Valley Giants&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Best Crypto to Buy Now January 24 – Stellar, Sui, Beam - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QY19wTzktSjFFbmE3Wk1wRkwwREZxX2hEWTRQUlZMYS00VDRVRmw1NDJaOG5GVk1jcmFxSE9FTkpDUWxBcEdwbTRqNlJTcWhudWFlaUVYdGJhamVkOWc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 24 Jan 2025 08:00:00 GMT",
+      "snippet": "Best Crypto to Buy Now January 24 – Stellar, Sui, Beam&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "The Next Decade of Ethereum: Comprehensive Upgrades from Beam Chain to Lean Ethereum - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zU1BuU2hIS0hJaW5tT3BYbEhrUVVBX0dZbTdfY2UtcG92RkttWG1RMzltcnBSemxua0hLZ2tUY2F2WWhiVS13Nkszajk3dlNZbE1UUE9tcDQ2U3llQmfSAWNBVV95cUxQNW1Pc2sxSHJNdmJET2JrS3NFM3NkWExyUERmNkFJdnBnSVhUdmZ4REFuMzBwVzJKNE5mUlJyQm0zVFVfT1hhQmhCWGIzMVdYUkpQMGxlWlZWME9MbWx0SFI4WlE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 19 Sep 2025 07:00:00 GMT",
+      "snippet": "The Next Decade of Ethereum: Comprehensive Upgrades from Beam Chain to Lean Ethereum&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/soundsright?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}
