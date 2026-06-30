@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-30T23:05:56.330Z",
+  "updatedAt": "2026-06-30T23:18:15.240Z",
   "results": [
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 25,
-      "label": "观望",
+      "score": 20,
+      "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T23:05:51.992Z",
+      "generatedAt": "2026-06-30T23:18:05.491Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -18,18 +18,28 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T23:05:51.571Z",
+      "generatedAt": "2026-06-30T23:18:05.880Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "HOUSTON",
       "requestedInput": "OUST",
       "name": "Houston",
-      "score": 5,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T23:05:52.444Z",
+      "generatedAt": "2026-06-30T23:18:05.849Z",
       "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "EH",
+      "requestedInput": "EH",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T23:18:01.716Z",
+      "latestPath": "data/results/EH-latest.json"
     },
     {
       "token": "HYPE",
@@ -38,7 +48,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T23:05:49.231Z",
+      "generatedAt": "2026-06-30T23:18:09.126Z",
       "latestPath": "data/results/HYPE-latest.json"
     },
     {
@@ -48,7 +58,7 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T23:05:56.328Z",
+      "generatedAt": "2026-06-30T23:18:15.238Z",
       "latestPath": "data/results/TOKABU-latest.json"
     },
     {
@@ -990,16 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-30T15:48:44.082Z",
       "latestPath": "data/results/BAS-latest.json"
-    },
-    {
-      "token": "PWR",
-      "requestedInput": "POWER",
-      "name": "Power",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:48:43.856Z",
-      "latestPath": "data/results/PWR-latest.json"
     }
   ]
 }

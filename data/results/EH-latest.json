@@ -1,0 +1,128 @@
+{
+  "token": "EH",
+  "requestedInput": "EH",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T23:18:01.716Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "EH",
+    "name": "unknown",
+    "generatedAt": "2026-06-30T23:17:57.689Z",
+    "summary": "代币EH未在主流交易所找到交易对，新闻提及的EH/s均为比特币算力单位，与代币无关。缺乏基本面数据，无法分析上涨原因或给出投资建议。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无有效数据，逻辑无法建立"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [],
+    "marketRead": [],
+    "risks": [
+      "代币EH未在任何主流交易所交易，可能为极低流动性或已下架代币",
+      "新闻内容与代币无关，均为比特币算力报道",
+      "无法获取任何价格、成交量或项目信息"
+    ],
+    "watchlist": [],
+    "sourceNotes": [
+      "Binance API返回451错误，无法获取行情",
+      "新闻搜索结果均为比特币算力（EH/s），与代币EH无关",
+      "无任何项目资料或社区信息"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "EHUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EHUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EHFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EHFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EHUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EHUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "EHBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=EHBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "Expert Flags Bitcoin's First Hashrate Bear Market as Network Sheds 145 EH/s - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Cc0JJX3k4eVFydzI0Nk54VWR6bG4ydEJCTXdvZXNkQkhyLXlBVDRtbXJWckdJSGZYMzN1bWFzTWlaOGlzV25FeDNBNG1wSWFCSmtyNTZMdw?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "snippet": "Expert Flags Bitcoin's First Hashrate Bear Market as Network Sheds 145 EH/s&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Trump-backed American Bitcoin expands owned mining capacity by anticipated 12% to 28.1 EH/s - The Block",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFM4anZMV0dRU0piTDR2RzRpQ3ZZOTVGVnZMV09aNEd1elFfRFZ3WFhjTk9RNnhEZklnb21KSU1PTEFYbWNLcmV4UTNPZ3RVaEtPWTdhT1QzQ2lXb2x4ajNJZTBkalNTOHpLanUxR2p0cDdQdl9wSmVZLWI4ZnIyZ0kteGlENWZtYXNzY3hpai1KZU91RG9WeWMxVQ?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "snippet": "Trump-backed American Bitcoin expands owned mining capacity by anticipated 12% to 28.1 EH/s&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "HIVE Digital Technologies Reaches 2% of Global Bitcoin Network, Mining 9 BTC Daily and Surpassing 20 EH/s - Investing News Network",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzMzdEkwSWlpOGxGeXZEUklzZmpBWDVyRnJVaXlOX05Za21iZVdqLXFtMjZqekUtT2VZVnhqc0xDV2phUGMxaVIzVzZsZDl2VWNLb2toOXdUaU9aSzRub0V3bjc3ckJuTUFIX3pRLXlLOERkQldiODBSbEVOYmtjbkNxSi1KZW90YWVuRWtGZ1plVkt2SlBPUjNRZllKZEdZMm00bW9paWlHRFBFd2J1UGE3VHY0WkZ2RlJVUGtvWHdDeFJCNExjcERB?oc=5",
+      "source": "Investing News Network",
+      "publishedAt": "Tue, 23 Sep 2025 07:00:00 GMT",
+      "snippet": "HIVE Digital Technologies Reaches 2% of Global Bitcoin Network, Mining 9 BTC Daily and Surpassing 20 EH/s&nbsp;&nbsp;Investing News Network"
+    },
+    {
+      "title": "Bitcoin Hashrate Drops to 711 EH/s as U.S. Miners Grapple With a Storm - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxY2tJX1JubkFzNHlXV1ZrMDktWlcxRDJZZ25sajAyX0M3MjlvWlVYb1c2dWZ5UFNmcGQ3MUxlUDZkdm9BaksyeWNFLXYtMWVveVFhdENMLUFpcU1qc3fSAWNBVV95cUxOTlJacWxPTlNYUUx0dlRWdkhrZUdsSGN0em1jVWhmS1M0OTlBWGtEOE9zQVdjY1E5MWlPUlRzc2RHRmFnVUZ1cWJ4N2p6Mm5BbkZZTXV1NEl5ZWhHMXdOT1JzTVU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 26 Jan 2026 08:00:00 GMT",
+      "snippet": "Bitcoin Hashrate Drops to 711 EH/s as U.S. Miners Grapple With a Storm&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "BitFuFu Hits 36.2 EH/s Hashrate, 728 MW Capacity in June - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1pyel9qdkM5bEs4clpJX2ZKcFNPYVc0bm01RF9ibThpOVFHYXBKdF9temNkd0dpWkF1U0NYYWozVnhCOUdKUmlKejNwMHB0Z0RFRUc4QjZjalZHZXJtSWp4S01uMnc0UjFlVllhcjAzcnFxQVJaZXlDeTY0U3BGZ3J2czc5OEYzeEF1RFkyRndXX0JxSFRDNTgyTW9oQ0tv?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 07 Jul 2025 07:00:00 GMT",
+      "snippet": "BitFuFu Hits 36.2 EH/s Hashrate, 728 MW Capacity in June&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Bitcoin Miner Mawson to Expand U.S. Mining Facility Capability to 7.5 EH/s - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEJSbUV6cnZvUldaTHVLODItbDROb2hFN3lGZHVWeF9HdVRYN3BhSm1kWEVCaFJvU2p0Z2EwT3ZzWUc2LS1FcWlyb09NR3VjZnQzanNTeHhBdm0wU2ZoNktEUjQwZi1yekVNeVMtYUpSUDBNMEh5RDZhWUN4WUFCV1RrYTBBSmpGSzUtdjZHdm1PdTRqSUxQT2o1eDFiTDU2ZE4yVXFTMnV4V0dBOTBUWV9VUQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 03 Mar 2022 08:00:00 GMT",
+      "snippet": "Bitcoin Miner Mawson to Expand U.S. Mining Facility Capability to 7.5 EH/s&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Bitcoin Miner IREN (IREN) Achieves 50 EH/s Midyear Hashrate Target, Eyes AI Expansion - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWUxCMkplWXByVWp4QWRSbXBfaE8xVzVxa3VCbEk4QTVjSWh3TUVud0VvZEstODFsNDJMb0Jjc3VpMlZyQzlqbUZIR1UyZENEbV9iYzdkX01wcGllZVJPcnJnTnZfMnloR2xDT25RYjJHSGFjOEh2ZjFZN1lqLVEweFVRVjVHVDI2OWJqd2VZb1VkMlBKdHJxY0l2TzNyem9zcnlwQjR5TWF1YXpXWXZZR2xvWjJaLUVm?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 01 Jul 2025 07:00:00 GMT",
+      "snippet": "Bitcoin Miner IREN (IREN) Achieves 50 EH/s Midyear Hashrate Target, Eyes AI Expansion&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
