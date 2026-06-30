@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-30T21:18:27.194Z",
+  "updatedAt": "2026-06-30T21:33:20.411Z",
   "results": [
+    {
+      "token": "TAC",
+      "requestedInput": "TAC",
+      "name": "TAC",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T21:33:20.409Z",
+      "latestPath": "data/results/TAC-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T21:33:19.003Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:33:20.236Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:33:19.365Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
     {
       "token": "MEME",
       "requestedInput": "MEME",
@@ -22,16 +62,6 @@
       "latestPath": "data/results/G-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:18:14.637Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "AMD",
       "requestedInput": "AMD",
       "name": "AMD",
@@ -40,16 +70,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T21:18:19.168Z",
       "latestPath": "data/results/AMD-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:18:22.473Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "HOUSTON",
@@ -210,16 +230,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T20:34:10.837Z",
       "latestPath": "data/results/VELVET-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:34:18.897Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "QBTSON",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T15:48:48.974Z",
       "latestPath": "data/results/OBS-latest.json"
-    },
-    {
-      "token": "DYDX",
-      "requestedInput": "DYDX",
-      "name": "dYdX",
-      "score": 35,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T15:33:56.797Z",
-      "latestPath": "data/results/DYDX-latest.json"
     }
   ]
 }
