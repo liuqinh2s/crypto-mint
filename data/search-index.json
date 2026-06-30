@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-06-30T21:48:08.683Z",
+  "updatedAt": "2026-06-30T21:55:24.113Z",
   "results": [
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T21:55:22.443Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:55:24.111Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:55:22.597Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
     {
       "token": "DYDX",
       "requestedInput": "DYDX",
@@ -10,26 +40,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T21:48:08.680Z",
       "latestPath": "data/results/DYDX-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T21:48:02.814Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:48:03.221Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "HOUSTON",
@@ -50,16 +60,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T21:33:20.409Z",
       "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:33:19.365Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "MEME",
