@@ -1,0 +1,181 @@
+{
+  "token": "OUSTON",
+  "requestedInput": "OUST",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T15:48:49.560Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "OUSTON",
+    "name": "Ouster Tokenized Stock (Ondo)",
+    "generatedAt": "2026-06-30T15:48:44.310Z",
+    "summary": "OUSTON是BSC链上PancakeSwap的流动性极低的代币，24小时跌幅100%，当前价格极低，流动性仅0.2美元，存在极高风险。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性恢复至安全水平且价格有实际支撑"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "代币名称为Ouster Tokenized Stock，但实际为BSC链上PancakeSwap的流动性池代币，与真实股票无关",
+      "创建于2026-06-29，仅一天历史",
+      "流动性仅0.2美元，几乎无交易深度",
+      "24小时交易量约11870美元，但价格跌幅100%",
+      "无官网、无项目描述、无社交媒体信息"
+    ],
+    "marketRead": [
+      "价格24小时跌100%，当前价格极低（1.24e-14美元）",
+      "流动性极低（0.2美元），任何大额交易都会导致滑点巨大或无法成交",
+      "交易量可能来自机器人或拉盘后砸盘"
+    ],
+    "risks": [
+      "流动性几乎为零，无法正常买卖",
+      "极可能是蜜罐或貔貅盘，合约未开源或存在黑名单功能",
+      "无任何基本面支撑，纯投机炒作",
+      "24小时跌幅100%，说明已归零或遭抛售"
+    ],
+    "watchlist": [
+      "流动性是否增加",
+      "合约是否开源且通过审计",
+      "是否有真实项目方和社区"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他来源验证",
+      "新闻数据为空，无法获取外部信息"
+    ]
+  },
+  "profile": {
+    "id": "0xd216C4d9e10af56215b2Ff57Eecc28017345f6Be",
+    "symbol": "OUSTON",
+    "name": "Ouster Tokenized Stock (Ondo)",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0xed9c9ab2fe472d0546903dc9930b5a5f425c197a",
+    "marketCapRank": null,
+    "currentPriceUsd": 1.24e-14,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": 11870.56,
+    "priceChange24hPct": -100,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-29",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xEd9C9aB2FE472D0546903DC9930b5A5f425C197A",
+    "baseTokenAddress": "0xd216C4d9e10af56215b2Ff57Eecc28017345f6Be",
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "liquidityUsd": 0.2,
+    "pairUrl": "https://dexscreener.com/bsc/0xed9c9ab2fe472d0546903dc9930b5a5f425c197a",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "OUSTon/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xEd9C9aB2FE472D0546903DC9930b5A5f425C197A",
+    "pairUrl": "https://dexscreener.com/bsc/0xed9c9ab2fe472d0546903dc9930b5a5f425c197a",
+    "lastPrice": 1.24e-14,
+    "priceChange24hPct": -100,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 11870.56,
+    "liquidityUsd": 0.2,
+    "fullyDilutedValuationUsd": null,
+    "marketCapUsd": null,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0xed9c9ab2fe472d0546903dc9930b5a5f425c197a",
+    "pairAddress": "0xEd9C9aB2FE472D0546903DC9930b5A5f425C197A",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0xd216C4d9e10af56215b2Ff57Eecc28017345f6Be",
+      "name": "Ouster Tokenized Stock (Ondo)",
+      "symbol": "OUSTon"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.00000000000000002211",
+    "priceUsd": "0.00000000000001240",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 24,
+        "sells": 5
+      }
+    },
+    "volume": {
+      "h24": 11870.56,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -100
+    },
+    "liquidity": {
+      "usd": 0.2,
+      "base": 8250139152156,
+      "quote": 0.0001824
+    },
+    "pairCreatedAt": 1782771987000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=OUST: Throttled\n"
+  ]
+}
