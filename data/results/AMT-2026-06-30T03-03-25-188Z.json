@@ -1,0 +1,221 @@
+{
+  "token": "AMT",
+  "requestedInput": "AMAT",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T03:03:25.188Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AMT",
+    "name": "Amateras",
+    "generatedAt": "2026-06-30T03:03:17.373Z",
+    "summary": "AMT是BNB Chain上的NFT×DeFi×GameFi项目，当前价格0.00638美元，24小时涨幅0.73%，但7日、30日跌幅较大。流动性极低（79.66美元），市值仅63.8万美元，且流通量为0，存在巨大风险。新闻陈旧，无近期催化。不建议买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "AMATERAS price today, AMT to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "仅为价格页面，无实质内容"
+      },
+      {
+        "title": "AMATERAS Price Today | AMT to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格页面，无实质内容"
+      }
+    ],
+    "fundamentals": [
+      "项目为NFT×DeFi×GameFi综合平台，包含NFT市场、NFT Gacha、NFT质押、Swap、农场池",
+      "代币总供应量1亿枚，流通量为0，全部未解锁或未流通",
+      "完全稀释估值63.8万美元，市值0美元",
+      "官网amateras.io，但无近期更新"
+    ],
+    "marketRead": [
+      "24小时涨幅0.73%，但7日跌5.23%，30日跌21.57%，处于长期下跌趋势",
+      "交易量仅79.66美元，流动性极差，几乎无真实交易",
+      "DEX上OMIKAMI/USDC对流动性45万美元，但交易量极低，可能存在操纵"
+    ],
+    "risks": [
+      "流通量为0，代币未解锁，存在团队抛售或解锁后暴跌风险",
+      "流动性极低，滑点巨大，无法大额进出",
+      "新闻陈旧（2021-2022年），项目可能已停止运营",
+      "价格从ATH跌92.45%，无反弹迹象",
+      "无近期催化剂，社区关注度低（仅233人关注）"
+    ],
+    "watchlist": [
+      "代币解锁或流通量变化",
+      "项目方是否发布新公告或更新",
+      "交易量是否显著放大"
+    ],
+    "sourceNotes": [
+      "数据来自CoinMarketCap和DexScreener，但新闻为2021-2022年，项目可能已死亡",
+      "流通量为0，市值0，需警惕"
+    ]
+  },
+  "profile": {
+    "id": "amateras",
+    "symbol": "AMT",
+    "name": "Amateras",
+    "categories": [
+      "BNB Chain Ecosystem"
+    ],
+    "homepage": [
+      "https://amateras.io/"
+    ],
+    "description": "AMATERAS is NFT×DeFi×GameFi/ NFT Marketplace, NFT Gacha, NFT Staking, Swap, Farming pool all in one. There is a world as far as the eye can see. AMATERAS aims to provide a solution for NFT× DeFi. For example, by staking NFTs on AMATERAS, you can get $AMT. This token can be used for regular liquidity mining and can also be exchanged for other tokens.",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00638412,
+    "marketCapUsd": 0,
+    "fullyDilutedValuationUsd": 638072,
+    "totalVolumeUsd": 79.66,
+    "priceChange24hPct": 0.72711,
+    "priceChange7dPct": -5.22557,
+    "priceChange14dPct": -9.09275,
+    "priceChange30dPct": -21.56655,
+    "athUsd": 0.084599,
+    "athChangePct": -92.45371,
+    "circulatingSupply": 0,
+    "totalSupply": 100000000,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 233,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "OMIKAMI/USDC",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x06cd6245156c3608AE67D690c125E86A8bc6a88C",
+    "pairUrl": "https://dexscreener.com/ethereum/0x06cd6245156c3608ae67d690c125e86a8bc6a88c",
+    "lastPrice": 0.004846,
+    "priceChange24hPct": 3.35,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 5954.89,
+    "liquidityUsd": 450734.41,
+    "fullyDilutedValuationUsd": 4844353,
+    "marketCapUsd": 4844353,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x06cd6245156c3608ae67d690c125e86a8bc6a88c",
+    "pairAddress": "0x06cd6245156c3608AE67D690c125E86A8bc6a88C",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x9e18d5BAB2FA94a6A95F509Ecb38F8F68322AbD3",
+      "name": "AMATERASU OMIKAMI",
+      "symbol": "OMIKAMI"
+    },
+    "quoteToken": {
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.004846",
+    "priceUsd": "0.004846",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 3,
+        "sells": 5
+      },
+      "h24": {
+        "buys": 17,
+        "sells": 16
+      }
+    },
+    "volume": {
+      "h24": 5954.89,
+      "h6": 985.07,
+      "h1": 6.34,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -0.01,
+      "h6": 0.29,
+      "h24": 3.35
+    },
+    "liquidity": {
+      "usd": 450734.41,
+      "base": 46497169,
+      "quote": 225367
+    },
+    "fdv": 4844353,
+    "marketCap": 4844353,
+    "pairCreatedAt": 1663758335000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/d73d8ee6ab1037ae3bf5b36b69445b7d3afb652b2288c1df522eb36d8c16125f?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/7da7418a625ac7d9ce53381419e45de2b6c9c0bffa7117413d7446f17ea29d2e?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0x9e18d5bab2fa94a6a95f509ecb38f8f68322abd3?timestamp=1782788700000",
+      "websites": [
+        {
+          "url": "https://omikamitoken.com/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://twitter.com/omikamitoken",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/OmikamiPortal",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "AMATERAS price today, AMT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtV3EtSlhyelZtY2M1MHZtaE5qWTNKNjY2VkNjVko1WUVFSGhzVEQtZ1NVS2owNDdfSDJhd0NNd0FGcGZOci1IRWlLVUo5LXY3aXhfdVktTlh1dw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 30 Aug 2021 15:56:45 GMT",
+      "snippet": "AMATERAS price today, AMT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "AMATERAS Price Today | AMT to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGTDFSal9BS01qRVdZYllKYXhFZDdLWHltYV92d2w0NFFwZXQwUXdTZkRIOEdJdmNueGZRdnBTWkNteXNIT01pS1pyUW9aU05zMGtn?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 12 Jan 2022 20:31:06 GMT",
+      "snippet": "AMATERAS Price Today | AMT to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned OMIKAMI for AMT; DEX profile ignored to avoid token mix-up."
+  ]
+}
