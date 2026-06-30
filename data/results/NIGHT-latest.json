@@ -1,0 +1,325 @@
+{
+  "token": "NIGHT",
+  "requestedInput": "NIGHT",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T07:33:23.951Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "NIGHT",
+    "name": "NIGHT",
+    "generatedAt": "2026-06-30T07:33:13.918Z",
+    "summary": "NIGHT是Cardano隐私侧链Midnight的原生代币，近期因主网上线、Binance HODLer空投及eToro上市等利好推动，但价格波动剧烈。当前链上流动性充足，但24小时交易量极低，市场热度消退。基本面有Cardano生态支撑，但代币经济模型不透明，估值偏高。建议观望。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若价格跌破0.03美元支撑位或出现大额解锁/抛售，则逻辑失效。"
+    },
+    "catalysts": [
+      "Midnight主网上线及节点运营商扩展（Google、Vodafone等）",
+      "Binance HODLer空投第61期项目，增加曝光",
+      "eToro上市，扩大零售渠道",
+      "Cardano创始人Hoskinson持续推广，目标Bitcoin DeFi"
+    ],
+    "latestNews": [
+      {
+        "title": "Midnight Price Prediction: Hoskinson Targets Bitcoin DeFi as NIGHT Holds $0.030 Support",
+        "impact": "利好",
+        "reason": "创始人公开看好，支撑位明确，提振市场信心。"
+      },
+      {
+        "title": "Binance HODLer Airdrop Unveils Midnight (NIGHT) in Strategic 61st Token Distribution",
+        "impact": "利好",
+        "reason": "头部交易所空投带来短期买盘和关注度。"
+      },
+      {
+        "title": "Google, Vodafone Among Validators As Midnight Blockchain Goes Live – NIGHT Token Plummets Amid Crypto Rally",
+        "impact": "利空",
+        "reason": "主网上线后价格反而下跌，显示利好出尽或抛压。"
+      },
+      {
+        "title": "eToro Lists Month-Old Midnight Token As Cardano-Linked Project Seeks Broader Retail Access",
+        "impact": "利好",
+        "reason": "更多交易平台支持，增加流动性入口。"
+      }
+    ],
+    "fundamentals": [
+      "Midnight是Cardano生态的隐私侧链，采用ZK技术，专注于数据保护和合规。",
+      "NIGHT代币用于网络费用、质押和治理。",
+      "主网于2025年12月上线，节点运营商包括Google、Vodafone等知名机构。",
+      "代币总供应量和流通量未公开，市值约1186万美元，FDV相同。",
+      "项目由Input Output Global开发，Charles Hoskinson主导。"
+    ],
+    "marketRead": [
+      "当前价格0.03548美元，24小时交易量仅0.16美元，流动性极低，市场深度差。",
+      "链上流动性约593万美元，但交易量几乎为零，说明缺乏实际买卖盘。",
+      "无历史价格数据，无法判断趋势，但新闻显示价格曾从高点回落。",
+      "DEX交易对为NIGHT/WETH，流动性池较大但活跃度不足。"
+    ],
+    "risks": [
+      "代币经济模型不透明，总供应量和解锁计划未知，存在抛售风险。",
+      "24小时交易量极低，价格容易被操纵，实际成交困难。",
+      "新闻热度已过，价格从高点回落，市场情绪偏空。",
+      "项目仍处于早期，隐私赛道竞争激烈（如Monero、Zcash）。",
+      "依赖Cardano生态，若ADA表现不佳可能拖累NIGHT。"
+    ],
+    "watchlist": [
+      "Binance HODLer空投后的价格走势和交易量变化",
+      "Midnight网络活跃用户数和TVL增长",
+      "代币解锁或大额转账事件",
+      "Cardano生态整体表现及ADA价格",
+      "是否有新的CEX上市或做市商支持"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener和Google News，缺乏链上持仓分布和交易深度数据。",
+      "新闻标题可能与其他同名项目混淆，但内容均指向Cardano Midnight。",
+      "价格和市值数据基于DEX流动性池，可能不反映真实市场。"
+    ]
+  },
+  "profile": {
+    "id": "0xA686af16570D88E84B0e52d352664F8800F59918",
+    "symbol": "NIGHT",
+    "name": "NIGHT",
+    "categories": [
+      "ethereum",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on ethereum / uniswap. Pair URL: https://dexscreener.com/ethereum/0x82b032ef16cced423b755dc7f7847d0e9f4c3d2c",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.03548,
+    "marketCapUsd": 11866084,
+    "fullyDilutedValuationUsd": 11866084,
+    "totalVolumeUsd": 0.16,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-29",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x82B032EF16ccED423b755Dc7F7847D0e9F4c3d2C",
+    "baseTokenAddress": "0xA686af16570D88E84B0e52d352664F8800F59918",
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "liquidityUsd": 5933041.79,
+    "pairUrl": "https://dexscreener.com/ethereum/0x82b032ef16cced423b755dc7f7847d0e9f4c3d2c",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "NIGHT/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x82B032EF16ccED423b755Dc7F7847D0e9F4c3d2C",
+    "pairUrl": "https://dexscreener.com/ethereum/0x82b032ef16cced423b755dc7f7847d0e9f4c3d2c",
+    "lastPrice": 0.03548,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.16,
+    "liquidityUsd": 5933041.79,
+    "fullyDilutedValuationUsd": 11866084,
+    "marketCapUsd": 11866084,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x82b032ef16cced423b755dc7f7847d0e9f4c3d2c",
+    "pairAddress": "0x82B032EF16ccED423b755Dc7F7847D0e9F4c3d2C",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0xA686af16570D88E84B0e52d352664F8800F59918",
+      "name": "NIGHT",
+      "symbol": "NIGHT"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.00002241",
+    "priceUsd": "0.03548",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.16,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 5933041.79,
+      "base": 167197929,
+      "quote": 0.0001026
+    },
+    "fdv": 11866084,
+    "marketCap": 11866084,
+    "pairCreatedAt": 1782728135000
+  },
+  "news": [
+    {
+      "title": "'New Cardano' Midnight Achieves Listing on World's Largest Crypto Exchange - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTG9tSDZ4amxCSWR0U3pwamZ0bTFMeUlRdW9pU3NoeTEzb2VDSllIdzFfMzF3bGlxX2ItTEUwaDlRTnQ5NlloNC04VlJ0MHFNZjYtNTQ0Vm84X2V0Y2c2a0xaU1dNT3NTOFV1MnI4RE5fbTFROEJMdmhhMXRnV01MMGxtdHRweXd2S0tQZjluTThJX1dxc0o0VjVmbE13YkNQVlViZE8weWJ6a0VfME1KUDM4VUxLcmd5MlpDYjFjdjFFRVdid3k4bGh3?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "snippet": "'New Cardano' Midnight Achieves Listing on World's Largest Crypto Exchange&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Google, Vodafone Among Validators As Midnight Blockchain Goes Live – NIGHT Token Plummets Amid Crypto Rally - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYzBrdzdDcXJLQ3RrTHQ5b0FtMUhSREFQeDVNTzlheDVtamNSRTNzendnVHhUb2YySEdRX3Y2LUVCYXhudThDdDZvd2NRVU04UjJIcGpCUXhNM0ZYN2J0eTM1VHdYNEdyZWN4bWJ3Z1dNbndRYlRIY0JFbS1KTkxDOUdOaV9EN0dJay0wNmliQU5lTnhzWGYya0RBUXVnWThqcXRjR0YxT3pwVkpOcHJ3YzM1NGFGajdMeDVZUHVnQmNwdTVLakYxYzhyaGM2M0gxNWtV?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "snippet": "Google, Vodafone Among Validators As Midnight Blockchain Goes Live – NIGHT Token Plummets Amid Crypto Rally&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Bitcoin’s late-night spike fuels broad altcoin rally: Crypto Markets Today - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeU50cmJULTVVNURsUWRYaUJ6cjgwaVF2LUo3T1RwRVlPbzhQWGhEZXVNMXpXQXhhVTBtRXpBNHEwaUg2M2xHTlNMdzBxV2lTajNvTl9iak1zRkxCaWJnLWRkb1NvQ0tOTlBHc19fYVlOQWFMRVRDWTI0WHJqWnRvUzRjM0xBUUtmVS1mX2E2SGJJc2l5LTM4UktQRGo2aDVqVDNwSDJpSVhmajhGVWdOUy1yS3g2cUpZanB6Xzg5NWZrSEFYd1E?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "snippet": "Bitcoin’s late-night spike fuels broad altcoin rally: Crypto Markets Today&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Midnight Price Prediction: Hoskinson Targets Bitcoin DeFi as NIGHT Holds $0.030 Support - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rcGgzWTQ1T1BVVFhmQjlWeVhXcUZtMmtZRmk4aXVadVVMRS1reXFfWkRyaFdCT0hOT0NPT3FmaFVPMGhnb2EwemFLaGhaSTFZbTRDN19DVkpybWRMWmfSAWNBVV95cUxPRGFwdjc0M2gxTmRzN054TEN1V0xCeUhneXlMQkJONExJTWJwUDFPc2VUWUttSTZyb0lKRUtEYWtDZ1pNQVUwVWNEZUYyX2dNSkpWbktPVTZJTDFadnpkVUZBem8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 23 May 2026 07:00:00 GMT",
+      "snippet": "Midnight Price Prediction: Hoskinson Targets Bitcoin DeFi as NIGHT Holds $0.030 Support&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Cardano Ranks 9th in Bullish Sentiment, Midnight 5th in Bearish on CoinMarketCap - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTHdiT19aMHhmTFV5bUxlbEpKQ2ViVzdfNHZHZy1lOFJ3SnZxcEhEVHdlTk95aTZfbG1yUHJsM1JNc0RleU5GejlmTG94TkJKQVF6SHp4ZDBBQnU1RllzaGNkZnk5QVRyNldIWnZWUmRzLVctOFptV2RCQWNWZ09kekdxTUhUam9Ya2w1d0dDSVpkTzR5YlhIV0dJdEVmSWlDc0N1a3gyTTBxS0JYSmk3aXVySQ?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "snippet": "Cardano Ranks 9th in Bullish Sentiment, Midnight 5th in Bearish on CoinMarketCap&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Cardano Price Prediction: Hoskinson to Tackle Flaws with Night - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IZ0c2UGVab2xpNjgtOGRYeE1jbWRkNXVCTE81dENoUklNQWRXbHo0bkR6dlM3Vl91Z1RJM0x5R3UwZDdZbWVTeVkwU0FYZ25WYTVFeU4xaWlQcm1pZE9JbXZ6MVNnTGZIcnNBSG1CcWdxd3Nq?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Tue, 31 Mar 2026 07:00:00 GMT",
+      "snippet": "Cardano Price Prediction: Hoskinson to Tackle Flaws with Night&nbsp;&nbsp;Cryptonews"
+    },
+    {
+      "title": "Cardano Midnight (NIGHT) up 10% as Active Users Top 57,000 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakE5R3huSG5fV0ZYRXEyeDBJMmJoTDByeWlMeWNBSjROUVdudVJ6SkZUOUxlcW5qb05XY1BiZDNMVUhoeEluWTBVdzlDVHIwTU9VZ1BqcEt4VmxHNUxZMkxTMmRWTXlYN2tXWGpfMWlJYWNGcEpYYlFnWGJWTzNkWTZVeUJPSnQwMEtwOUdXTWtoc0g2bU5ZbTRwWEozMUZuNkxqN1JGS1lxMTBYcFpmdmpSMA?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "snippet": "Cardano Midnight (NIGHT) up 10% as Active Users Top 57,000&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Expanding list of mainnet node operators revealed - Midnight Network",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXZyeDRyclVYaGNaVTVKMHBPem5uckM3VjFxMnF3ZnVGY3YxVHJ6ektXQU9DU1pIRm13YUNLODFiZEJjT1dmM1l5SXVwYmsxR3o0dktCSnlHbkVUeHJlcHdEeVQydi1fWXB5czlaQXpPWV91TnlkY0w5ODlJMExVLXpoR2pEUQ?oc=5",
+      "source": "Midnight Network",
+      "publishedAt": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "snippet": "Expanding list of mainnet node operators revealed&nbsp;&nbsp;Midnight Network"
+    },
+    {
+      "title": "Midnight (NIGHT) 3.30% Move Explained by Technical Trading - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02cWNheFRvd3pSenFPRlB5MWdGZkh0QUF1MzdyRWV1RUtWZEJqakJPSXZmU09wUndObTNDcW5GdDZ6STEtTWJGY1FET3M3cEVBMTlxb2h4bHpXd2FyakJjNGc5eUszY1JNeDB3TmZhTk8?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sat, 13 Jun 2026 07:00:00 GMT",
+      "snippet": "Midnight (NIGHT) 3.30% Move Explained by Technical Trading&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Midnight: the Cardano privacy sidechain almost no one is talking about - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbzVGYll3dmVuQndabDJuS18wTUNnQTJSaTh3RzA2cDdxWjdLbnBDMG5oNXRRQzNDbmw2YjdaaHhhWWFhTXRYUnBraENla1NHNjlfMEd6QVlzUmxPemVxWmFndjJEY3dLSnc1b3Mzd3UwV2tOcWtZeW5tbGZfdmY5RFRGbFVYbHlQZlNOaEc1Zm03WE5S?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
+      "snippet": "Midnight: the Cardano privacy sidechain almost no one is talking about&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Cardano (ADA) News: Ecosystem Gets a Privacy Boost as Midnight’s NIGHT Goes Live - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNclhzdnAwLWRWeTF0RDd1N3FKc2cxRkZCSkNRM0FaVldIREFvZEJLc3k2V0J1dFE2Z0lnNk1jeG9hZjhqYm5Hdzd6U1N5a2E5eVlOMFczaGZYbWRLVldmQ2VqOF83MldpM3dBTld1aWU4SUlTYkd4Yjg4N3BIZl9hMU8tSUtnZENCLTlSSTc4MU55dEtPS0lZeERwN1cwY1RJSl91d1V2eE5QSF9MUXZhUTl3?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "snippet": "Cardano (ADA) News: Ecosystem Gets a Privacy Boost as Midnight’s NIGHT Goes Live&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "eToro Lists Month-Old Midnight Token As Cardano-Linked Project Seeks Broader Retail Access - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTnk5eWdCNGEzYmoxSDMzeDNZVUFWM3RpNGxHUXNMTEhuRzdETURieThVOHdxMTVEUUViVnRTNUoybml5Z1I5cEhuOGpjUVgzenFWaGh6YjdkOUVncXFmZUFwWnlpOV9YN3l4Z1FuOVNRbVluWmFDajJnUXV3WEdTVmxIN2M0bkgyWkVPOUlROEpNNzltYzBYakp0MDQ2SkdJaGdlQXNrWk1iN3d2V2tvbWtSdjY?oc=5",
+      "source": "Yellow.com",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "snippet": "eToro Lists Month-Old Midnight Token As Cardano-Linked Project Seeks Broader Retail Access&nbsp;&nbsp;Yellow.com"
+    },
+    {
+      "title": "State of the Network - December 2025 - Midnight Network",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JUTNuM2U0RW8xTklSeVNmT004RXI5dmdleVVrbHQ1YUhqbFQ4ako2cHVkZ05MLVdzcG81REFaTXZSWDZqa3ZKU2pPdTNBR2haRmdYdEd4bURRdGRQRDVINTZCejB2TGp5cXBFQnUzNVNlUQ?oc=5",
+      "source": "Midnight Network",
+      "publishedAt": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "snippet": "State of the Network - December 2025&nbsp;&nbsp;Midnight Network"
+    },
+    {
+      "title": "What Is Midnight (NIGHT)? The ZK-Powered Privacy Blockchain - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFl0Tnp2VHBtSUFqU1oyaWg0LXllUE14MUE5NTJQVlFSN0pmMFI0STE4V0JDbmFGa1JLVWJFRkNIc2tqcWFKRTE0UHl2ZkFnWUJ3OFBoM2ctOXFISVV1cFNmS3N5YWlNdGJldnpZaDBJLVV4YXJTdmRlSC0ybVRkaVlQUkN2ZzRja0xjTHNJV045Nmw3aE5xenhvUFk0MFllWW1EYWl4OUM5NmpWNjhN0gG0AUFVX3lxTE80NDA5LXRENUxiS2RBRFNWMy1pSjBwU09lXzhzNFI1bmRMY24xNVlpcW14TmUzdnpZc2JxYzNYdWpYazE2Nk96dzF1MnJSX1VobkgzdEZjb21MR29Da3lTMjFCMzVOYWdxQzVfWG5jUVFjYzNwc1l0U3hhV29FSGNLYmhqanIwM2UxSHBRVGdJaVYyOUMta0xYdHpzREVEa1JDTWtuay1sVjZaZ09Eb1QwWWpXSw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "snippet": "What Is Midnight (NIGHT)? The ZK-Powered Privacy Blockchain&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Guide to the NIGHT token launch and Redemption - Midnight Network",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOC1hNllNejdNb1U0eFdvUzZldWZ3VHRjNEh3WFpaTHcxZlk2U2xDT09pUGFaNFBSZXlROXBkMEJpOXNtNVJBSUJDTlN0cnd1Vy1mRlJvS25KRWRpT1M3MnJlNmF4OS1zU1QzRjdxRDVtUUhLd0t2OVhaX3dSOGkzN0N3?oc=5",
+      "source": "Midnight Network",
+      "publishedAt": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "snippet": "Guide to the NIGHT token launch and Redemption&nbsp;&nbsp;Midnight Network"
+    },
+    {
+      "title": "Binance HODLer Airdrop Unveils Midnight (NIGHT) in Strategic 61st Token Distribution - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UaUtVd3hHVDdUNE5lQWIzLWdzVzhORnc1Y3R3VFhmTkt4NzY4R1dfc0IxdFBmTWhpRWt0RG5vVHhpVHVSNlZiN1M2SS1maWUxd1p3b0JJaHNobHlCNll5SHNlQjdRcl9Vc2dSWnZ3OHhvSzRa?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "snippet": "Binance HODLer Airdrop Unveils Midnight (NIGHT) in Strategic 61st Token Distribution&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=NIGHT: Throttled\n"
+  ]
+}

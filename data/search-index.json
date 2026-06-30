@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-06-30T07:18:15.915Z",
+  "updatedAt": "2026-06-30T07:33:28.961Z",
   "results": [
+    {
+      "token": "TNSR",
+      "requestedInput": "TNSR",
+      "name": "Tensor",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T07:33:15.148Z",
+      "latestPath": "data/results/TNSR-latest.json"
+    },
+    {
+      "token": "QNTSTOCK",
+      "requestedInput": "QNTSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T07:33:09.992Z",
+      "latestPath": "data/results/QNTSTOCK-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T07:33:13.447Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T07:33:15.368Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "ZAMA",
+      "requestedInput": "ZAMA",
+      "name": "Zama",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T07:33:18.919Z",
+      "latestPath": "data/results/ZAMA-latest.json"
+    },
+    {
+      "token": "NIGHT",
+      "requestedInput": "NIGHT",
+      "name": "NIGHT",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T07:33:23.951Z",
+      "latestPath": "data/results/NIGHT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T07:33:22.059Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "COOKIE",
+      "requestedInput": "COOKIE",
+      "name": "Cookie",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T07:33:24.541Z",
+      "latestPath": "data/results/COOKIE-latest.json"
+    },
+    {
+      "token": "BAS",
+      "requestedInput": "BAS",
+      "name": "BNB Attestation",
+      "score": 15,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T07:33:28.958Z",
+      "latestPath": "data/results/BAS-latest.json"
+    },
     {
       "token": "DYDX",
       "requestedInput": "DYDX",
@@ -30,36 +120,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-30T07:18:07.074Z",
       "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T07:18:06.066Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T07:18:15.264Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T07:18:15.913Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "POWER",
@@ -940,66 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-29T03:32:49.404Z",
       "latestPath": "data/results/ICNT-latest.json"
-    },
-    {
-      "token": "AAVE",
-      "requestedInput": "AAVE",
-      "name": "Aave",
-      "score": 65,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-29T03:32:49.909Z",
-      "latestPath": "data/results/AAVE-latest.json"
-    },
-    {
-      "token": "NATGAS",
-      "requestedInput": "NATGAS",
-      "name": "NATURAL GAS",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T03:32:54.954Z",
-      "latestPath": "data/results/NATGAS-latest.json"
-    },
-    {
-      "token": "TRB",
-      "requestedInput": "TRB",
-      "name": "TRB",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T03:32:56.725Z",
-      "latestPath": "data/results/TRB-latest.json"
-    },
-    {
-      "token": "SOL",
-      "requestedInput": "SOL",
-      "name": "Solana",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T03:17:18.876Z",
-      "latestPath": "data/results/SOL-latest.json"
-    },
-    {
-      "token": "RAY",
-      "requestedInput": "RAY",
-      "name": "Raydium",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T03:17:18.560Z",
-      "latestPath": "data/results/RAY-latest.json"
-    },
-    {
-      "token": "JUP",
-      "requestedInput": "JUP",
-      "name": "Jupiter",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T03:17:20.664Z",
-      "latestPath": "data/results/JUP-latest.json"
     }
   ]
 }
