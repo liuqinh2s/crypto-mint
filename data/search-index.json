@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T08:33:48.075Z",
+  "updatedAt": "2026-06-30T08:48:57.278Z",
   "results": [
     {
       "token": "",
@@ -8,7 +8,7 @@
       "score": 25,
       "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-30T08:33:48.073Z",
+      "generatedAt": "2026-06-30T08:48:57.029Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -18,17 +18,17 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T08:33:47.849Z",
+      "generatedAt": "2026-06-30T08:48:57.276Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
-      "score": 5,
+      "score": 0,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T08:33:46.920Z",
+      "generatedAt": "2026-06-30T08:48:55.361Z",
       "latestPath": "data/results/HOU-latest.json"
     },
     {
