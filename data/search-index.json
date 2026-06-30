@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-06-30T09:48:12.083Z",
+  "updatedAt": "2026-06-30T10:03:53.643Z",
   "results": [
+    {
+      "token": "AVAX",
+      "requestedInput": "AVAX",
+      "name": "Avalanche (Wormhole)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T10:03:45.940Z",
+      "latestPath": "data/results/AVAX-latest.json"
+    },
+    {
+      "token": "BLESS",
+      "requestedInput": "BLESS",
+      "name": "Bless",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T10:03:46.912Z",
+      "latestPath": "data/results/BLESS-latest.json"
+    },
+    {
+      "token": "KRAV",
+      "requestedInput": "RAVE",
+      "name": "Rave",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T10:03:47.661Z",
+      "latestPath": "data/results/KRAV-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T10:03:44.879Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T10:03:53.641Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T10:03:53.200Z",
+      "latestPath": "data/results/KIRBY-latest.json"
+    },
     {
       "token": "KAS",
       "requestedInput": "KAS",
@@ -10,26 +70,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T09:48:10.265Z",
       "latestPath": "data/results/KAS-latest.json"
-    },
-    {
-      "token": "KRAV",
-      "requestedInput": "RAVE",
-      "name": "Rave",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T09:48:06.378Z",
-      "latestPath": "data/results/KRAV-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T09:48:07.555Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "AMT",
@@ -102,16 +142,6 @@
       "latestPath": "data/results/LYN-latest.json"
     },
     {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T09:18:22.391Z",
-      "latestPath": "data/results/KIRBY-latest.json"
-    },
-    {
       "token": "GRIFFAIN",
       "requestedInput": "GRIFFAIN",
       "name": "GRIFFAIN",
@@ -160,16 +190,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T07:48:55.118Z",
       "latestPath": "data/results/BASED-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T07:49:03.636Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "ASTS",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-29T08:19:00.178Z",
       "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "ORDI",
-      "requestedInput": "ORDI",
-      "name": "ORDI",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T08:03:57.713Z",
-      "latestPath": "data/results/ORDI-latest.json"
-    },
-    {
-      "token": "GWEI",
-      "requestedInput": "GWEI",
-      "name": "ETHGas",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T08:03:57.636Z",
-      "latestPath": "data/results/GWEI-latest.json"
     }
   ]
 }
