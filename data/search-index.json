@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T06:18:47.267Z",
+  "updatedAt": "2026-06-30T06:33:41.303Z",
   "results": [
     {
       "token": "HOU",
@@ -8,17 +8,17 @@
       "score": 0,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T06:18:44.251Z",
+      "generatedAt": "2026-06-30T06:33:41.302Z",
       "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "AMT",
       "requestedInput": "AMAT",
       "name": "Amateras",
-      "score": 15,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T06:18:44.716Z",
+      "generatedAt": "2026-06-30T06:33:41.297Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
@@ -27,8 +27,8 @@
       "name": "龙虾",
       "score": 25,
       "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T06:18:47.265Z",
+      "action": "不买",
+      "generatedAt": "2026-06-30T06:33:40.416Z",
       "latestPath": "data/results/-latest.json"
     },
     {
