@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-06-30T13:04:32.434Z",
+  "updatedAt": "2026-06-30T13:19:10.043Z",
   "results": [
+    {
+      "token": "PYTH",
+      "requestedInput": "PYTH",
+      "name": "Pyth Network",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T13:19:00.569Z",
+      "latestPath": "data/results/PYTH-latest.json"
+    },
+    {
+      "token": "DEXE",
+      "requestedInput": "DEXE",
+      "name": "DeXe",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T13:19:02.323Z",
+      "latestPath": "data/results/DEXE-latest.json"
+    },
+    {
+      "token": "KAITO",
+      "requestedInput": "KAITO",
+      "name": "KAITO",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:19:03.638Z",
+      "latestPath": "data/results/KAITO-latest.json"
+    },
+    {
+      "token": "KRAV",
+      "requestedInput": "RAVE",
+      "name": "Rave",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:19:00.217Z",
+      "latestPath": "data/results/KRAV-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:19:07.466Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:19:08.067Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:19:10.041Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
     {
       "token": "ONG",
       "requestedInput": "ONG",
@@ -20,46 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T13:04:20.304Z",
       "latestPath": "data/results/4-latest.json"
-    },
-    {
-      "token": "KRAV",
-      "requestedInput": "RAVE",
-      "name": "Rave",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:04:21.992Z",
-      "latestPath": "data/results/KRAV-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:04:20.311Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:04:28.095Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:04:28.266Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "CIEN",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T02:34:01.168Z",
       "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "USELESS",
-      "requestedInput": "USELESS",
-      "name": "Useless Coin",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:34:10.721Z",
-      "latestPath": "data/results/USELESS-latest.json"
-    },
-    {
-      "token": "ACT",
-      "requestedInput": "ACT",
-      "name": "Act I The AI Prophecy",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:34:08.207Z",
-      "latestPath": "data/results/ACT-latest.json"
-    },
-    {
-      "token": "B2",
-      "requestedInput": "B2",
-      "name": "BSquared Token",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T02:34:16.082Z",
-      "latestPath": "data/results/B2-latest.json"
     }
   ]
 }
