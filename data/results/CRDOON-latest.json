@@ -1,0 +1,230 @@
+{
+  "token": "CRDOON",
+  "requestedInput": "CRDO",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T19:04:11.575Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CRDOON",
+    "name": "Credo Technology Group Holding (Ondo Tokenized)",
+    "generatedAt": "2026-06-30T19:04:02.022Z",
+    "summary": "CRDOon是Credo Technology Group的Ondo代币化版本，近期24小时涨幅11.35%，但链上流动性极低（仅0.17美元），实际交易量几乎为零，价格发现不可靠。项目基本面依赖传统股票CRDO，但代币化资产存在额外风险。建议观望。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "链上流动性恢复至合理水平（如>10万美元）且价格与CRDO股票价差缩小"
+    },
+    "catalysts": [
+      "CRDO股票本身利好（如财报超预期）",
+      "Ondo平台新增流动性或做市商"
+    ],
+    "latestNews": [
+      {
+        "title": "Credo Technology Group Holding Tokenized Stock (Ondo) (CRDOon) price Prediction - Bitget",
+        "impact": "中性",
+        "reason": "仅为价格预测文章，无实质信息"
+      },
+      {
+        "title": "How to sell Credo Technology Group Holding Tokenized Stock (Ondo) (CRDOon) via a crypto wallet - Bitget",
+        "impact": "中性",
+        "reason": "操作指南，无市场影响"
+      },
+      {
+        "title": "Credo Technology Group Holding (Ondo Tokenized) (CRDOON) Price Prediction & Forecast 2026 - 2030 - BeInCrypto",
+        "impact": "中性",
+        "reason": "预测类文章，无新催化剂"
+      },
+      {
+        "title": "Live Credo Technology Group Holding Tokenized Stock (Ondo) Price Today: CRDOon to USD, Market Cap & Charts - CryptoDaily",
+        "impact": "中性",
+        "reason": "行情报道，无新增信息"
+      }
+    ],
+    "fundamentals": [
+      "CRDOon是Ondo Finance发行的代币化股票，代表Credo Technology Group Holding Ltd的经济权益",
+      "支持24/5交易，但实际链上流动性极低",
+      "总供应量4720.7245枚，市值约128万美元（按profile数据）或2.4亿美元（按market数据，矛盾）",
+      "项目属于RWA赛道，但代币化股票面临监管和赎回风险"
+    ],
+    "marketRead": [
+      "链上交易对CRDO/WETH在Uniswap上，24小时交易量仅0.17美元，流动性池显示1.2亿美元（可能为虚假深度）",
+      "价格24小时涨11.35%，但无实际成交支撑，价格容易被操纵",
+      "profile数据与market数据严重不一致（市值128万 vs 2.4亿），数据可靠性存疑"
+    ],
+    "risks": [
+      "链上流动性极低，无法进行实际交易",
+      "价格发现机制失效，报价无意义",
+      "代币化股票存在赎回暂停、监管变化等风险",
+      "数据来源矛盾，可能为错误或过时信息",
+      "项目方Ondo Finance本身风险"
+    ],
+    "watchlist": [
+      "链上流动性是否增加",
+      "CRDO股票价格走势",
+      "Ondo平台公告或做市商引入"
+    ],
+    "sourceNotes": [
+      "profile与market数据严重冲突，marketCapUsd相差约187倍",
+      "链上交易量极低，市场数据不可靠",
+      "新闻均为预测或指南，无实质催化剂"
+    ]
+  },
+  "profile": {
+    "id": "credo-technology-group-holding-ondo-tokenized",
+    "symbol": "CRDOON",
+    "name": "Credo Technology Group Holding (Ondo Tokenized)",
+    "categories": [
+      "Tokenized Assets",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Ondo Tokenized Assets"
+    ],
+    "homepage": [
+      "https://app.ondo.finance/"
+    ],
+    "description": "CRDOon is the Ondo Tokenized version of Credo Technology Group Holding Ltd, giving tokenholders economic exposure similar to holding CRDO and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
+    "marketCapRank": 2587,
+    "currentPriceUsd": 271.36,
+    "marketCapUsd": 1281030,
+    "fullyDilutedValuationUsd": 1281030,
+    "totalVolumeUsd": 1153057,
+    "priceChange24hPct": 11.34882,
+    "priceChange7dPct": 0.73367,
+    "priceChange14dPct": 0,
+    "priceChange30dPct": 0,
+    "athUsd": 306.04,
+    "athChangePct": -11.33044,
+    "circulatingSupply": 4720.724510077118,
+    "totalSupply": 4720.724510077118,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 5,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "CRDO/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x8B77D71c59B138604C67537D3815B670601FAc56",
+    "pairUrl": "https://dexscreener.com/ethereum/0x8b77d71c59b138604c67537d3815b670601fac56",
+    "lastPrice": 240.15,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.17,
+    "liquidityUsd": 120076622.02,
+    "fullyDilutedValuationUsd": 240153244,
+    "marketCapUsd": 240153244,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x8b77d71c59b138604c67537d3815b670601fac56",
+    "pairAddress": "0x8B77D71c59B138604C67537D3815B670601FAc56",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0xCf14fe0034d156fbA8C9B142bad3EC4A6766A927",
+      "name": "Credo Technology Group Holding Ltd Ordinary Shares",
+      "symbol": "CRDO"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.1479",
+    "priceUsd": "240.15",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.17,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 120076622.02,
+      "base": 499999,
+      "quote": 0.0001073
+    },
+    "fdv": 240153244,
+    "marketCap": 240153244,
+    "pairCreatedAt": 1782765851000
+  },
+  "news": [
+    {
+      "title": "Credo Technology Group Holding Tokenized Stock (Ondo) (CRDOon) price Prediction - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlhXTi1pSkk2SFFMUUplMWtrOHNENmdfcXE3TFVmclg4QW0wczhqbkwwaDVGY0VaVFpUNnBnSVRIUjIwYkk2SzMyMVI0ZHFyVEZYVEJ4dTVSWEJmRkVxemMtNHBxQkZMaG1jZUtlczV2ckhQVklDbFJjRHdQVnVYYWlId0pnTlhOaDREWUhqRGJrXzRhUnk4UlE3VzQ1dw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 27 Jun 2026 00:15:50 GMT",
+      "snippet": "Credo Technology Group Holding Tokenized Stock (Ondo) (CRDOon) price Prediction&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "How to sell Credo Technology Group Holding Tokenized Stock (Ondo) (CRDOon) via a crypto wallet - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUhzTTlrSUhVemQ5cjZjMnFFTUZEeE1EcUcwUWtYbF9ScEtqdlpZaVlJZjczSHdDd3FmQnRkSktlLUJfM0l2TmxsUl8tTEJ5RlhGWFdzRTlNVUpHX0lza2JqMXdoZzJmTGNqZEdlMm5RZ1pDcTMtbUdQTVk4eDJNd2NmN2NxVTcwSEhwZnZDVUh6ZzE4UXdGOQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 26 Jun 2026 00:00:00 GMT",
+      "snippet": "How to sell Credo Technology Group Holding Tokenized Stock (Ondo) (CRDOon) via a crypto wallet&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Credo Technology Group Holding (Ondo Tokenized) (CRDOON) Price Prediction & Forecast 2026 - 2030 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVm5HMHRFdGNSNFdiRl9fSmtzMU1FdnhZbGJ0SHNkeUZsWmxjd2x2Rl9zM2VUUEFVWW81bHo3YXJ4N1FSRVBLYUZEaFp5bmk3MU5HYlRUOEJCbm9MWkl0Zi1sejJwZDNfZ25ySFplcnItdnh1Zld4VTFPay1VcVloODItZFdVZEE2cDFORkxXdVNBcU5TTzlZ?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Thu, 18 Jun 2026 08:46:58 GMT",
+      "snippet": "Credo Technology Group Holding (Ondo Tokenized) (CRDOON) Price Prediction & Forecast 2026 - 2030&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Live Credo Technology Group Holding Tokenized Stock (Ondo) Price Today: CRDOon to USD, Market Cap & Charts - CryptoDaily",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUnA0dGQyUHFjRWk3d1JDdGk4RXBrXzBMcnJkTmlsMWNuQWVVZjZjVUI5S2lzNGZUdlVwRzJ2bl9sb1I4YWE5TzhCSV80UVdvTDFLWnFtdWEtdlA2OERqT2M0WjRWWVlPazRucDctMW53b3RPRnhmN2ZBekl1OFc3Ql9HeHdfSnhuNjRJ?oc=5",
+      "source": "CryptoDaily",
+      "publishedAt": "Sat, 27 Jun 2026 14:15:39 GMT",
+      "snippet": "Live Credo Technology Group Holding Tokenized Stock (Ondo) Price Today: CRDOon to USD, Market Cap & Charts&nbsp;&nbsp;CryptoDaily"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned CRDO for CRDOON; DEX profile ignored to avoid token mix-up."
+  ]
+}

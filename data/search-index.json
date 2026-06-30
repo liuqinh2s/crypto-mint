@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-30T18:49:05.362Z",
+  "updatedAt": "2026-06-30T19:04:20.783Z",
   "results": [
+    {
+      "token": "APE",
+      "requestedInput": "APE",
+      "name": "ApeCoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:04:10.791Z",
+      "latestPath": "data/results/APE-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:04:10.163Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:04:10.507Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "CRDOON",
+      "requestedInput": "CRDO",
+      "name": "Credo Technology Group Holding (Ondo Tokenized)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:04:11.575Z",
+      "latestPath": "data/results/CRDOON-latest.json"
+    },
+    {
+      "token": "OUSTON",
+      "requestedInput": "OUST",
+      "name": "Ouster Tokenized Stock (Ondo)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:04:16.759Z",
+      "latestPath": "data/results/OUSTON-latest.json"
+    },
+    {
+      "token": "SITM",
+      "requestedInput": "SITM",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:04:14.004Z",
+      "latestPath": "data/results/SITM-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:04:18.433Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "CAT",
+      "requestedInput": "SIMO",
+      "name": "Simons Cat",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T19:04:20.781Z",
+      "latestPath": "data/results/CAT-latest.json"
+    },
     {
       "token": "PYTH",
       "requestedInput": "PYTH",
@@ -32,16 +112,6 @@
       "latestPath": "data/results/ESP-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T18:48:50.946Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "OMIKAMI",
       "requestedInput": "AMAT",
       "name": "AMATERASU OMIKAMI",
@@ -60,36 +130,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T18:49:00.280Z",
       "latestPath": "data/results/LWLG-latest.json"
-    },
-    {
-      "token": "OUSTON",
-      "requestedInput": "OUST",
-      "name": "Ouster Tokenized Stock (Ondo)",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:48:57.384Z",
-      "latestPath": "data/results/OUSTON-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:48:59.916Z",
-      "latestPath": "data/results/TOKABU-latest.json"
-    },
-    {
-      "token": "CAT",
-      "requestedInput": "SIMO",
-      "name": "Simons Cat",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T18:49:05.360Z",
-      "latestPath": "data/results/CAT-latest.json"
     },
     {
       "token": "ONG",
@@ -130,16 +170,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T18:34:09.302Z",
       "latestPath": "data/results/XPIN-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:34:14.290Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "LWLGON",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T14:03:35.327Z",
       "latestPath": "data/results/GMX-latest.json"
-    },
-    {
-      "token": "USELESS",
-      "requestedInput": "USELESS",
-      "name": "Useless Coin",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:03:35.862Z",
-      "latestPath": "data/results/USELESS-latest.json"
-    },
-    {
-      "token": "NAORIS",
-      "requestedInput": "NAORIS",
-      "name": "Naoris Protocol",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:03:33.527Z",
-      "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "KRAV",
-      "requestedInput": "RAVE",
-      "name": "Rave",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:03:31.695Z",
-      "latestPath": "data/results/KRAV-latest.json"
     }
   ]
 }
