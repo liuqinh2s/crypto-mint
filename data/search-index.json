@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-06-30T19:04:20.783Z",
+  "updatedAt": "2026-06-30T19:19:15.103Z",
   "results": [
+    {
+      "token": "B2",
+      "requestedInput": "B2",
+      "name": "BSquared Network",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T19:19:00.309Z",
+      "latestPath": "data/results/B2-latest.json"
+    },
+    {
+      "token": "USELESS",
+      "requestedInput": "USELESS",
+      "name": "USELESS",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:19:01.186Z",
+      "latestPath": "data/results/USELESS-latest.json"
+    },
+    {
+      "token": "NAORIS",
+      "requestedInput": "NAORIS",
+      "name": "Naoris Protocol",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:18:58.373Z",
+      "latestPath": "data/results/NAORIS-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:18:57.793Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "SOXL",
+      "requestedInput": "SOXL",
+      "name": "Direxion Daily Semiconductor ETF (Derivatives)",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T19:19:04.854Z",
+      "latestPath": "data/results/SOXL-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:19:06.339Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "CRDO",
+      "requestedInput": "CRDO",
+      "name": "Credo Technology Group Holding Ltd Ordinary Shares",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T19:19:09.294Z",
+      "latestPath": "data/results/CRDO-latest.json"
+    },
+    {
+      "token": "OUSTON",
+      "requestedInput": "OUST",
+      "name": "Ouster Tokenized Stock (Ondo)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:19:07.296Z",
+      "latestPath": "data/results/OUSTON-latest.json"
+    },
+    {
+      "token": "TWLO",
+      "requestedInput": "TWLO",
+      "name": "Twilio Inc.",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T19:19:12.449Z",
+      "latestPath": "data/results/TWLO-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:19:13.634Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "CAT",
+      "requestedInput": "SIMO",
+      "name": "Simons Cat",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T19:19:15.101Z",
+      "latestPath": "data/results/CAT-latest.json"
+    },
     {
       "token": "APE",
       "requestedInput": "APE",
@@ -10,16 +120,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T19:04:10.791Z",
       "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:04:10.163Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "AMT",
@@ -42,16 +142,6 @@
       "latestPath": "data/results/CRDOON-latest.json"
     },
     {
-      "token": "OUSTON",
-      "requestedInput": "OUST",
-      "name": "Ouster Tokenized Stock (Ondo)",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:04:16.759Z",
-      "latestPath": "data/results/OUSTON-latest.json"
-    },
-    {
       "token": "SITM",
       "requestedInput": "SITM",
       "name": "unknown",
@@ -60,26 +150,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T19:04:14.004Z",
       "latestPath": "data/results/SITM-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:04:18.433Z",
-      "latestPath": "data/results/TOKABU-latest.json"
-    },
-    {
-      "token": "CAT",
-      "requestedInput": "SIMO",
-      "name": "Simons Cat",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T19:04:20.781Z",
-      "latestPath": "data/results/CAT-latest.json"
     },
     {
       "token": "PYTH",
@@ -110,16 +180,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T18:48:52.062Z",
       "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:48:59.466Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "LWLG",
@@ -940,66 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T14:18:14.461Z",
       "latestPath": "data/results/CHILLGUY-latest.json"
-    },
-    {
-      "token": "JST",
-      "requestedInput": "JST",
-      "name": "JUST",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T14:18:18.154Z",
-      "latestPath": "data/results/JST-latest.json"
-    },
-    {
-      "token": "RAVE",
-      "requestedInput": "RAVE",
-      "name": "RAVE",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:18:24.610Z",
-      "latestPath": "data/results/RAVE-latest.json"
-    },
-    {
-      "token": "QBTS",
-      "requestedInput": "QBTS",
-      "name": "D-Wave Quantum Inc.",
-      "score": 35,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T14:18:33.037Z",
-      "latestPath": "data/results/QBTS-latest.json"
-    },
-    {
-      "token": "BRKB",
-      "requestedInput": "BRKB",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:18:28.223Z",
-      "latestPath": "data/results/BRKB-latest.json"
-    },
-    {
-      "token": "OSS",
-      "requestedInput": "OSS",
-      "name": "One Stop Systems, Inc.",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:18:34.023Z",
-      "latestPath": "data/results/OSS-latest.json"
-    },
-    {
-      "token": "GMX",
-      "requestedInput": "GMX",
-      "name": "GMX",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:03:35.327Z",
-      "latestPath": "data/results/GMX-latest.json"
     }
   ]
 }
