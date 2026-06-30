@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-06-30T12:04:35.992Z",
+  "updatedAt": "2026-06-30T12:19:09.146Z",
   "results": [
     {
       "token": "STABLE",
       "requestedInput": "STABLE",
       "name": "Stable",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T12:04:11.016Z",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:18:54.450Z",
       "latestPath": "data/results/STABLE-latest.json"
     },
     {
       "token": "KRAV",
       "requestedInput": "RAVE",
       "name": "Rave",
-      "score": 10,
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T12:04:10.531Z",
+      "generatedAt": "2026-06-30T12:18:53.844Z",
       "latestPath": "data/results/KRAV-latest.json"
     },
     {
@@ -28,27 +28,27 @@
       "score": 25,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-30T12:04:09.775Z",
+      "generatedAt": "2026-06-30T12:18:54.359Z",
       "latestPath": "data/results/-latest.json"
     },
     {
       "token": "NATGAS",
       "requestedInput": "NATGAS",
       "name": "Natural Gas (Derivatives)",
-      "score": 20,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T12:04:09.856Z",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:18:54.443Z",
       "latestPath": "data/results/NATGAS-latest.json"
     },
     {
       "token": "AMT",
       "requestedInput": "AMAT",
       "name": "Amateras",
-      "score": 5,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T12:04:19.938Z",
+      "generatedAt": "2026-06-30T12:19:00.658Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
@@ -58,17 +58,17 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T12:04:18.769Z",
+      "generatedAt": "2026-06-30T12:19:01.673Z",
       "latestPath": "data/results/KIRBY-latest.json"
     },
     {
       "token": "PANW",
       "requestedInput": "PANW",
-      "name": "Palo Alto Networks (Derivatives)",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:04:18.609Z",
+      "name": "Palo Alto Networks",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T12:19:01.603Z",
       "latestPath": "data/results/PANW-latest.json"
     },
     {
@@ -78,7 +78,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T12:04:20.443Z",
+      "generatedAt": "2026-06-30T12:19:02.477Z",
       "latestPath": "data/results/AXON-latest.json"
     },
     {
@@ -88,8 +88,18 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T12:04:25.342Z",
+      "generatedAt": "2026-06-30T12:19:06.331Z",
       "latestPath": "data/results/PL-latest.json"
+    },
+    {
+      "token": "UNITE",
+      "requestedInput": "CIEN",
+      "name": "Unbound Science",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:19:09.144Z",
+      "latestPath": "data/results/UNITE-latest.json"
     },
     {
       "token": "DOGE",
@@ -140,16 +150,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T11:49:02.738Z",
       "latestPath": "data/results/BBSTOCK-latest.json"
-    },
-    {
-      "token": "UNITE",
-      "requestedInput": "CIEN",
-      "name": "Unbound Science",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:49:08.871Z",
-      "latestPath": "data/results/UNITE-latest.json"
     },
     {
       "token": "HOU",
