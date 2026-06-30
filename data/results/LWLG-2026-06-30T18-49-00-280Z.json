@@ -1,0 +1,147 @@
+{
+  "token": "LWLG",
+  "requestedInput": "LWLG",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T18:49:00.280Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "LWLG",
+    "name": "Lightwave Logic",
+    "generatedAt": "2026-06-30T18:48:53.626Z",
+    "summary": "LWLG是纳斯达克上市的科技股，非加密货币。近期因与Tower Semiconductor达成合作而大涨30%，但CFO在高位减持20,000股，需警惕。缺乏链上数据，无法进行DEX分析。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "无法获取实时价格和交易数据，无法判断趋势"
+    },
+    "catalysts": [
+      "与Tower Semiconductor达成合作，推动股价单日上涨30%",
+      "油价重回100美元以上，市场波动加剧，部分资金可能流入科技股"
+    ],
+    "latestNews": [
+      {
+        "title": "Oil’s Return Above $100 Is Spooking Markets Again: Why NVDA, TSLA, ORCL, PATH, RIVN, LWLG Are On Traders' Radar Today",
+        "impact": "中性",
+        "reason": "油价上涨引发市场担忧，但LWLG被列为关注名单，可能吸引短期交易者"
+      },
+      {
+        "title": "Lightwave Logic (LWLG) CFO Offloads 20,000 Shares Following 939% Stock Rally",
+        "impact": "利空",
+        "reason": "CFO在股价大涨后减持，暗示内部人认为估值过高"
+      },
+      {
+        "title": "Lightwave Logic (LWLG) Stock Surges 30% on Tower Semiconductor Deal",
+        "impact": "利好",
+        "reason": "合作消息是近期股价上涨的核心催化剂"
+      }
+    ],
+    "fundamentals": [
+      "Lightwave Logic是一家光子学公司，专注于高速光通信和光互连技术",
+      "与Tower Semiconductor的合作可能加速其技术商业化",
+      "公司尚未实现大规模盈利，股价波动较大"
+    ],
+    "marketRead": [
+      "由于数据源限制，无法获取实时行情和成交量数据",
+      "新闻显示股价在合作消息后大涨30%，但CFO减持可能抑制后续涨幅"
+    ],
+    "risks": [
+      "CFO减持20,000股，内部人信心不足",
+      "股价已从低点上涨939%，估值可能过高",
+      "公司基本面尚未盈利，依赖合作消息驱动",
+      "无法获取实时交易数据，分析可靠性低"
+    ],
+    "watchlist": [
+      "Tower Semiconductor合作的进一步进展",
+      "公司财报及盈利预期",
+      "内部人交易动态",
+      "股价回调后的支撑位"
+    ],
+    "sourceNotes": [
+      "数据主要来自新闻聚合，缺乏交易所实时数据",
+      "LWLG为美股，非加密货币，本分析基于有限公开信息"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "LWLGUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LWLGUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "LWLGFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LWLGFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "LWLGUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LWLGUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "LWLGBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LWLGBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "Oil’s Return Above $100 Is Spooking Markets Again: Why NVDA, TSLA, ORCL, PATH, RIVN, LWLG Are On Traders' Radar Today - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX2JWYktuY19VWW5QeDVKWEZoTkE0ZURIMFJ5dnpBSTJ0OFRKLTRnSkJPU1pDcy14bzRvX0J2eDZqMEpWRmdtS1E1NUZILU9PQ2hMXzd1bF84cnNWVDJhaUZDUlRXMDJWVExWdmRsX2R4U01OSFlrVXdlQ0ZvRXJHX2szTEpGYUx5bXE2YWpxZ0NwWUprTVVTLXNFZW9Bb09YckYtQ21GM1Z1amdMQnVJRy1YVDF5N0NRcXV6TGxHRmRZbEs3SnJ6dXV3?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "snippet": "Oil’s Return Above $100 Is Spooking Markets Again: Why NVDA, TSLA, ORCL, PATH, RIVN, LWLG Are On Traders' Radar Today&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "LWLG Stock Price: Lightwave Logic Market Analysis - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45QndCOWdmcGRXVGhKZ3ZyMmh2Qml0M01iZGRMMndWRWhjeVNnaGNEWThUekR3MThScXJUdzM2T0VwdlgxMzJRTFdzU1UtZnh1VDJOR2IzMA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 12 Feb 2026 15:55:56 GMT",
+      "snippet": "LWLG Stock Price: Lightwave Logic Market Analysis&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Lightwave Logic (LWLG) CFO Offloads 20,000 Shares Following 939% Stock Rally - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWNG5HUVdqRFYyaWh3cVlkU3pKbzE3RG55UU9UWmdVbk42RndnYzV2TzZOS2V2STcxY1VFZzd2NmVxdlIwSmVJcQ?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "snippet": "Lightwave Logic (LWLG) CFO Offloads 20,000 Shares Following 939% Stock Rally&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Lightwave Logic, Inc. (LWLG) Stock Live Price, Chart & News - CoinCodex",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mWXQ4Wl8wTU5zZktRQjVjRTFZbGF5dm9fY2RndTQyeHNGY1VBMWY2OFNKbUwySFR4UVEwcnlxVGpHZUdyZklsbw?oc=5",
+      "source": "CoinCodex",
+      "publishedAt": "Wed, 05 Apr 2023 12:10:11 GMT",
+      "snippet": "Lightwave Logic, Inc. (LWLG) Stock Live Price, Chart & News&nbsp;&nbsp;CoinCodex"
+    },
+    {
+      "title": "Lightwave Logic (LWLG) Stock Surges 30% on Tower Semiconductor Deal - CoinCentral",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcGt6Y2FkSFdGellmN2JWZXhrV19ubFJEdGE4UnJhNzByTzAwNTdGZzRqR2wyQlJjeG9HYzVfWVpBbk1MOGtsOUF3bjZJaGxoUGdmVWJwR2ZCY29ZeGxweXJucFE4ZVhPU0llVVVTc2NLang3STJpY01ENEdXS3ZYbnVaVDFhX2lfaHNJLS00ZWdRZWs?oc=5",
+      "source": "CoinCentral",
+      "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "snippet": "Lightwave Logic (LWLG) Stock Surges 30% on Tower Semiconductor Deal&nbsp;&nbsp;CoinCentral"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=LWLG: Throttled\n"
+  ]
+}

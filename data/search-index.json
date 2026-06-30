@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-06-30T18:34:22.795Z",
+  "updatedAt": "2026-06-30T18:49:05.362Z",
   "results": [
+    {
+      "token": "PYTH",
+      "requestedInput": "PYTH",
+      "name": "Pyth Network",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T18:48:52.207Z",
+      "latestPath": "data/results/PYTH-latest.json"
+    },
+    {
+      "token": "ACT",
+      "requestedInput": "ACT",
+      "name": "Act I The AI Prophecy",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:48:53.180Z",
+      "latestPath": "data/results/ACT-latest.json"
+    },
+    {
+      "token": "ESP",
+      "requestedInput": "ESP",
+      "name": "Espresso",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T18:48:52.062Z",
+      "latestPath": "data/results/ESP-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T18:48:50.946Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:48:59.466Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "LWLG",
+      "requestedInput": "LWLG",
+      "name": "Lightwave Logic",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T18:49:00.280Z",
+      "latestPath": "data/results/LWLG-latest.json"
+    },
+    {
+      "token": "OUSTON",
+      "requestedInput": "OUST",
+      "name": "Ouster Tokenized Stock (Ondo)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:48:57.384Z",
+      "latestPath": "data/results/OUSTON-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:48:59.916Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "CAT",
+      "requestedInput": "SIMO",
+      "name": "Simons Cat",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T18:49:05.360Z",
+      "latestPath": "data/results/CAT-latest.json"
+    },
     {
       "token": "ONG",
       "requestedInput": "ONG",
@@ -42,16 +132,6 @@
       "latestPath": "data/results/XPIN-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:34:13.091Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "AMT",
       "requestedInput": "AMAT",
       "name": "Amateras",
@@ -80,26 +160,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T18:34:16.978Z",
       "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:34:20.188Z",
-      "latestPath": "data/results/TOKABU-latest.json"
-    },
-    {
-      "token": "CAT",
-      "requestedInput": "SIMO",
-      "name": "Simons Cat",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T18:34:22.793Z",
-      "latestPath": "data/results/CAT-latest.json"
     },
     {
       "token": "KGEN",
@@ -230,16 +290,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T17:49:05.490Z",
       "latestPath": "data/results/BEAM-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:49:05.777Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "VRT",
@@ -390,16 +440,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-30T16:48:57.857Z",
       "latestPath": "data/results/LIT-latest.json"
-    },
-    {
-      "token": "OUSTON",
-      "requestedInput": "OUST",
-      "name": "Ouster Tokenized Stock (Ondo)",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:49:02.884Z",
-      "latestPath": "data/results/OUSTON-latest.json"
     },
     {
       "token": "AAVE",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T14:03:31.695Z",
       "latestPath": "data/results/KRAV-latest.json"
-    },
-    {
-      "token": "CRDO",
-      "requestedInput": "CRDO",
-      "name": "Credo Technology Group Holding Ltd Ordinary Shares",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:03:45.657Z",
-      "latestPath": "data/results/CRDO-latest.json"
-    },
-    {
-      "token": "SP500",
-      "requestedInput": "SP500",
-      "name": "Shit & Piss 500",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:03:49.731Z",
-      "latestPath": "data/results/SP500-latest.json"
-    },
-    {
-      "token": "SITM",
-      "requestedInput": "SITM",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:03:46.224Z",
-      "latestPath": "data/results/SITM-latest.json"
-    },
-    {
-      "token": "APE",
-      "requestedInput": "APE",
-      "name": "ApeCoin",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:49:09.178Z",
-      "latestPath": "data/results/APE-latest.json"
     }
   ]
 }
