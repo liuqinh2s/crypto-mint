@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-06-30T20:04:13.575Z",
+  "updatedAt": "2026-06-30T20:21:32.935Z",
   "results": [
+    {
+      "token": "RPL",
+      "requestedInput": "RPL",
+      "name": "Rocket Pool",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T20:21:14.484Z",
+      "latestPath": "data/results/RPL-latest.json"
+    },
+    {
+      "token": "BLESS",
+      "requestedInput": "BLESS",
+      "name": "Bless",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:21:14.380Z",
+      "latestPath": "data/results/BLESS-latest.json"
+    },
+    {
+      "token": "MET",
+      "requestedInput": "MET",
+      "name": "Meteora",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T20:21:15.278Z",
+      "latestPath": "data/results/MET-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T20:21:12.677Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:21:21.702Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "BE",
+      "requestedInput": "BE",
+      "name": "Blue Elephant",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:21:21.116Z",
+      "latestPath": "data/results/BE-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:21:23.293Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "ARQQ",
+      "requestedInput": "ARQQ",
+      "name": "Arqit Quantum (Derivatives)",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:21:21.946Z",
+      "latestPath": "data/results/ARQQ-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:21:29.283Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "CAT",
+      "requestedInput": "SIMO",
+      "name": "Simons Cat",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T20:21:32.933Z",
+      "latestPath": "data/results/CAT-latest.json"
+    },
     {
       "token": "XAN",
       "requestedInput": "XAN",
@@ -10,36 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T20:04:03.547Z",
       "latestPath": "data/results/XAN-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:04:03.249Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:04:04.839Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:04:03.852Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "QBTSON",
@@ -60,16 +130,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T20:04:11.598Z",
       "latestPath": "data/results/ARQQON-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:04:10.299Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "ID",
@@ -110,16 +170,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T19:49:07.395Z",
       "latestPath": "data/results/SNOW-latest.json"
-    },
-    {
-      "token": "CAT",
-      "requestedInput": "SIMO",
-      "name": "Simons Cat",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T19:49:15.323Z",
-      "latestPath": "data/results/CAT-latest.json"
     },
     {
       "token": "JST",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T14:49:07.062Z",
       "latestPath": "data/results/TRUST-latest.json"
-    },
-    {
-      "token": "RTXSTOCK",
-      "requestedInput": "RTXSTOCK",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:49:16.465Z",
-      "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "ALICE",
-      "requestedInput": "ALICE",
-      "name": "Alice",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:34:12.362Z",
-      "latestPath": "data/results/ALICE-latest.json"
-    },
-    {
-      "token": "BSV",
-      "requestedInput": "BSV",
-      "name": "Bitcoin SV",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:34:13.537Z",
-      "latestPath": "data/results/BSV-latest.json"
-    },
-    {
-      "token": "WIF",
-      "requestedInput": "WIF",
-      "name": "WIF",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:34:13.216Z",
-      "latestPath": "data/results/WIF-latest.json"
-    },
-    {
-      "token": "VELVET",
-      "requestedInput": "VELVET",
-      "name": "Velvet",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T14:34:14.556Z",
-      "latestPath": "data/results/VELVET-latest.json"
     }
   ]
 }
