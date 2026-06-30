@@ -1,0 +1,321 @@
+{
+  "token": "WLFI",
+  "requestedInput": "WLFI",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T20:48:55.711Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "WLFI",
+    "name": "World Liberty Financial",
+    "generatedAt": "2026-06-30T20:48:46.372Z",
+    "summary": "WLFI近期价格持续下跌，已从ATH跌超82%，但链上收入排名前十，显示一定基本面支撑。然而，代币解锁、监管争议、内部贷款丑闻等风险显著，且当前价格处于历史低位，短期缺乏明确催化剂。建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大利好（如合规落地、大规模采用）或价格放量突破关键阻力位，可重新评估。"
+    },
+    "catalysts": [
+      "链上收入进入前十，显示协议活跃度",
+      "与Aster合作推出USD1永续合约市场",
+      "特朗普关联项目可能获得政治红利"
+    ],
+    "latestNews": [
+      {
+        "title": "WLFI Dumps $6 Billion Tokens Quietly, Crashes Again To New Low",
+        "impact": "利空",
+        "reason": "大量代币抛售导致价格创新低，市场信心受挫。"
+      },
+      {
+        "title": "WLFI Climbs to the Top 10 On-Chain Protocols By Revenue, Signaling Strong Demand",
+        "impact": "利好",
+        "reason": "收入排名上升表明协议实际使用需求增长。"
+      },
+      {
+        "title": "Trump-backed World Liberty Financial tokens hit all-time low on reports of insider loans",
+        "impact": "利空",
+        "reason": "内部贷款丑闻引发信任危机，价格跌至新低。"
+      },
+      {
+        "title": "World Liberty Financial Faces New Scrutiny Over WLFI Sales as Holders Remain Locked",
+        "impact": "利空",
+        "reason": "监管审查加剧，投资者无法卖出，流动性风险高。"
+      },
+      {
+        "title": "Is $WLFI an Unregistered Security? – The FinReg Blog",
+        "impact": "利空",
+        "reason": "可能被认定为未注册证券，面临法律风险。"
+      }
+    ],
+    "fundamentals": [
+      "特朗普关联的DeFi项目，定位稳定币发行和借贷",
+      "总供应量1000亿，流通量317.7亿，流通率31.8%",
+      "早期投资者锁仓至特朗普任期结束，存在大量未解锁代币",
+      "与Chainlink合作提供数据服务",
+      "链上收入排名前十，但代币价格持续下跌"
+    ],
+    "marketRead": [
+      "当前价格0.058美元，较ATH 0.331美元下跌82.5%",
+      "24小时交易量2737万美元，流动性8.66亿美元，但价格波动小",
+      "30日价格变化-0.87%，呈横盘阴跌态势",
+      "市场情绪悲观，看涨比例仅22.22%"
+    ],
+    "risks": [
+      "大量未解锁代币（约68.2%供应量）未来可能抛售",
+      "监管风险：可能被认定为未注册证券",
+      "内部贷款丑闻和诉讼（与Justin Sun的纠纷）",
+      "早期投资者锁仓机制导致抛压集中",
+      "价格持续创新低，技术面弱势"
+    ],
+    "watchlist": [
+      "代币解锁时间表和实际抛售情况",
+      "监管机构（如SEC）的裁决或声明",
+      "特朗普相关政治事件对项目的影响",
+      "链上收入能否持续增长",
+      "是否有新的合作伙伴或应用场景"
+    ],
+    "sourceNotes": [
+      "数据来源包括CoinGecko、DexScreener、Google News等公开信息",
+      "部分新闻日期较早（2025年），可能已过时",
+      "DEX价格与CEX价格存在差异，以DEX价格为准"
+    ]
+  },
+  "profile": {
+    "id": "world-liberty-financial",
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "categories": [
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Ethereum Ecosystem",
+      "Stablecoin Issuer",
+      "Made in USA",
+      "Trump-Affiliated"
+    ],
+    "homepage": [
+      "https://www.worldlibertyfinancial.com/"
+    ],
+    "description": "",
+    "marketCapRank": 42,
+    "currentPriceUsd": 0.058073,
+    "marketCapUsd": 1845218499,
+    "fullyDilutedValuationUsd": 5807286133,
+    "totalVolumeUsd": 27377061,
+    "priceChange24hPct": -1.46371,
+    "priceChange7dPct": -1.16242,
+    "priceChange14dPct": -3.22534,
+    "priceChange30dPct": -0.87426,
+    "athUsd": 0.331336,
+    "athChangePct": -82.47312,
+    "circulatingSupply": 31774196358,
+    "totalSupply": 100000000000,
+    "maxSupply": 100000000000,
+    "sentimentVotesUpPct": 22.22,
+    "watchlistUsers": 53326,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "WLFI/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0xdCA99E3b3e733D518Aef191fEf5B35C8f6bf9ACE",
+    "pairUrl": "https://dexscreener.com/ethereum/0xdca99e3b3e733d518aef191fef5b35c8f6bf9ace",
+    "lastPrice": 0.01732,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": 866280648.76,
+    "fullyDilutedValuationUsd": 1732561298,
+    "marketCapUsd": 1732561298,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0xdca99e3b3e733d518aef191fef5b35c8f6bf9ace",
+    "pairAddress": "0xdCA99E3b3e733D518Aef191fEf5B35C8f6bf9ACE",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0x779073bd43F2E93dc09cC99210a048B65CDD66cD",
+      "name": "WLFI",
+      "symbol": "WLFI"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.00001093",
+    "priceUsd": "0.01732",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 866280648.76,
+      "base": 49999999961,
+      "quote": 0.0004238
+    },
+    "fdv": 1732561298,
+    "marketCap": 1732561298,
+    "pairCreatedAt": 1773004895000
+  },
+  "news": [
+    {
+      "title": "WLFI Dumps $6 Billion Tokens Quietly, Crashes Again To New Low - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQekt4RFZLQVVUYnc3cVhsVkdYRGZGMDN4S2xRUnk5OWs1clk0SkUyWWR2YlVmOElwUUpHN1RaRTZydzFQT2E4ZzJCUHE2c21XenVBcllJSmd4dWUtTm5KVVFjYUFESWUwcE9DWklmcFE2Z1dfUGhPdHpFQkNiT3BpSEsxeE1mMmtaWTE0dDJ6dUMzcmZ6eXJPRW1OaHVkYXFPelV5WFpUSURuRmY3VzVzbDNydDc3VUtIVl9rSFN0V285aXhHblhOQ1hFelZld1U?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Sat, 27 Jun 2026 08:20:42 GMT",
+      "snippet": "WLFI Dumps $6 Billion Tokens Quietly, Crashes Again To New Low&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "WLFI Climbs to the Top 10 On-Chain Protocols By Revenue, Signaling Strong Demand - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUtxYzhiRkU2bURKa09ZU28yVGgydDN5MGxZS0pVS21RSFZVNGJtS3ktNlhQV2lhS0o3Y0hyTUVyaUVPcjN4b1IzWFVHQldjQUdzaHdNendTMzRVNlZjLXdSTDN2TEtSOVZPNlp5X3Y4YmM3ZzNRVHdpSDZCUDdoclpfbHpydnVmMVF4OU56TVU0aDVwVUVCNE52a3J5SHNwZEVmY05zNjlVOUNVNEJrYldPRWp1dnBK?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 29 Jun 2026 20:24:45 GMT",
+      "snippet": "WLFI Climbs to the Top 10 On-Chain Protocols By Revenue, Signaling Strong Demand&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Trump-backed World Liberty Financial tokens hit all-time low on reports of insider loans - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUkyanJwbF9DLTFoZml2ZmZ1NVhVUzZMaWNGLVBWOGg0ZDZLM25lV2pKc1pfcWFmaE85VzVnR0ZGT19uSll2blRYZ0xTMEVoV3M5Rk94X25jalV0ZmhzTEwtMWxtM3JBX1JpcC0xR2V2V2NSaVJmNXZyeGJQZmxMUmZrNzc5NnBTNDNLV3FMVkZOQnM?oc=5",
+      "source": "Fortune",
+      "publishedAt": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "snippet": "Trump-backed World Liberty Financial tokens hit all-time low on reports of insider loans&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "World Liberty Financial Faces New Scrutiny Over WLFI Sales as Holders Remain Locked - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTl84VGV5QmR6WXdFYS1vZ3k2Tk1RS29aZVJKRVBwR3l6VVhrTDRNUkV0RFRiT25Tc2xkUHBsTzFhWDNzbmhZX0QxRk1GdnJIc0hIVDlMYVVpZ0ljcHl4Qk1aTmMyT3FnQ2tUeFdOMGNrYmVyeXlpN2VRWnk3TmdiRlAzVmJBRUJQQUowVVZMVmc4dUNLbk03NkFvQkdDU3owVlJwYzBB?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Fri, 01 May 2026 07:00:00 GMT",
+      "snippet": "World Liberty Financial Faces New Scrutiny Over WLFI Sales as Holders Remain Locked&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Is $WLFI an Unregistered Security? – The FinReg Blog - Sites@Duke Express",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWE9xSm9NUjRMVThVUkJDZjZwVnpwTDFhaWhEa3kzaG0yNjBVMGxibWo4R0VOSTBOM3VueWtEeGpadVVPLWdqS3AwaHFfaFY2RlVUSlBTMU9Yb3RpQll3WDNIaUJNckVyaWUySmIyYlhxN1BIUDEzdXdURXZlTWVvblJxWWstZlYy?oc=5",
+      "source": "Sites@Duke Express",
+      "publishedAt": "Fri, 08 May 2026 07:00:00 GMT",
+      "snippet": "Is $WLFI an Unregistered Security? – The FinReg Blog&nbsp;&nbsp;Sites@Duke Express"
+    },
+    {
+      "title": "World Liberty Financial Countersues Justin Sun Over WLFI - Bitcoin Foundation",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdU5xVEw2b2VUWW5mUFFPR2ZUNmpaM05ONkJnRmNjWjhsOHdMcjU1MFc2bHVjN3ZQZTBFdDhGNHdxSFRydjBpQUl1ejA3MlZWNXVqNGt3Rmk3d0N2bTJXWmRadGJPclVEZTA1X0c2ZVZTT1BjWXZ0V2VnYnI5dHgwTTVyZXB3M1FnamRrUV9nbGV1UVdBRG9tYnNqRzlTY2ltSENkQ01FUQ?oc=5",
+      "source": "Bitcoin Foundation",
+      "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
+      "snippet": "World Liberty Financial Countersues Justin Sun Over WLFI&nbsp;&nbsp;Bitcoin Foundation"
+    },
+    {
+      "title": "Trump-backed World Liberty Financial's early investors won’t be able to fully cash out until after Trump’s term - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbmhobFdjakNzMldOSTVrVU83OFIwaTE1TlNCb0xXUGt2dVFIdjBUU3ZxRjVYQkUxR2tic1ZOanlxYV9WaFNVRDNJam5EYlFZOHBiY0pqdWgyV3VoT0l0YldXNl84Y21veGlnTmwwdGRHQ25YRXBfQ19aT3Q1SHgtWTNGWlJVbmdqNmlrZTQteHNYWjlNTFFBM3lTZk00aU1HcmozOWJvNVRhc1lRbjFUV25pQzFuUzBvLW9GY0dCbEpxSXVEVmU5LVB3?oc=5",
+      "source": "Reuters",
+      "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "snippet": "Trump-backed World Liberty Financial's early investors won’t be able to fully cash out until after Trump’s term&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "Aster Expands WLFI Collaboration, Launches USD1-Denominated Perpetual Markets - Chainwire",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMVFBRkx6YmdBNkg5TGgyZ3JWRkMtYUFJM0h6U1EwbTBJMnVmN1ZxY3R5V0dBZW1NM2MzbXdnQ2VVVG5WeGhxRXd4Ti1SYUR6RDloYVBsN2JVdExvVEhrVjNrNHZta1N5Rk1Gc0R0bFRIYjZDVzdxM0ZSQ283VFVpbnlEQmZ5N0IzOGhWQWlWOGV1QmJBM1dZQ2gtRE5uclhET0RCT1gwTXRZMlBWUVl3?oc=5",
+      "source": "Chainwire",
+      "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "snippet": "Aster Expands WLFI Collaboration, Launches USD1-Denominated Perpetual Markets&nbsp;&nbsp;Chainwire"
+    },
+    {
+      "title": "World Liberty Financial (WLFI) Token Launch: Key Dates and Full Details - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTEx1RjM1bkNLM2xQSC03SUEzaVUwSFNjUjREc194R1c4eHZuVWhzSldsa0laTnhSQmlobENGb2xPd3kyajRTcmYtUVg4UTNKMTcwSktQREpsRGJfNFhibHZXRUhXN0xJLXpwRXQtdHFVNS1oZ2Q5aG9FOTdDbzNmRFFtMmRrQktZVnhKZTJPLTNTMlZZX3RZUm10LTdvRHB3cG9v?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Mon, 25 Aug 2025 07:00:00 GMT",
+      "snippet": "World Liberty Financial (WLFI) Token Launch: Key Dates and Full Details&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "WLFI Token Unlock: Crucial Details Emerge as Trading Begins September 1 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tdWNrTTl1eU16NmY1ZEtkNk92T0Vsb0RKeTVLVTdTd2NVX1pueVBOSTRzTm1WbmtESG5Gcmg3dG1zdVRzX1NMb2N5OU9Jc1pzQTIwVkZvdWpIMmFjVWfSAWNBVV95cUxPQV9obTBkamFZR0hhc0RNd1RhSHdhUUhPMmJ0cnROQXRhVTVHOXM2RWxfRHRaRTJOZDc4T0ZCbDJhM2R0QkhWVGJpNUFTcHBEY25GT0RsM1JIM0FadlpCc3V6YU0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 22 Aug 2025 07:00:00 GMT",
+      "snippet": "WLFI Token Unlock: Crucial Details Emerge as Trading Begins September 1&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "World Liberty Financial Confirms WLFI Token Launch for September 1 on Ethereum Mainnet - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtMEVna1d0clpNWW5BN1pHbTRlSGY0WUFWMWxmcTd4UnF4YWd3Q1FXNzdESTBzbGxKWDBFVDBsQUJRaExsaUhvSGw4NHlyaGR1NFcxcVYtUi00M3gzMldoRGVEVQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 23 Aug 2025 07:00:00 GMT",
+      "snippet": "World Liberty Financial Confirms WLFI Token Launch for September 1 on Ethereum Mainnet&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Trump’s World Liberty Financial Adds Aster Trade To its USD1 Expansion – RAVE Token Hits Record High - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmxEa2tsWUlxWXBBdHRaTGN6MDYyZ2NpdVdkNHA3cGEtV3VHYTV2eW4yS2RCZ1diMV9XdXFSclRkTUpyeFRYUWRLc0VWWW41WmhtSzhIUS1BR0EybEVQa1U1SFFXWXFyYjRqUHg4TG10Wl96eklCZ2gwY3NFU0VZWjRrQTVRQlpKVTgxb2JIaS1kQXNiSFpkYnZ1TnJCeU5RSHpxZ0VHRThzN2pCeGVHdkxWTDJqMjlrWXdjY2FzQVkzRjNaWmhZME1ObnRRcWhuU2xWeHpQWTk4RWs?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Fri, 12 Dec 2025 15:21:22 GMT",
+      "snippet": "Trump’s World Liberty Financial Adds Aster Trade To its USD1 Expansion – RAVE Token Hits Record High&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "World Liberty Financial WLFI Token Sale Launch Date Guide - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeW1QdFRYQXVPVVdkZmpEQTlVU0xlWUVMNW9KQzdBZ0QxYXFxZnNxOV9fUHJMVERoSVByQUduODM5UU44R1hpMmVIVFFabnM1NHpxU21MWEQ3Sm5Ccmhwazl4ZndMRUtPSi1YX2R3Smw3YUVnMXNBZWRCOWdOM0ZsNFNmTnZaZw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 01 Sep 2025 07:00:00 GMT",
+      "snippet": "World Liberty Financial WLFI Token Sale Launch Date Guide&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Trump-Supported World Liberty Financial Taps Chainlink Data Services as DeFi Platform Takes Shape - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNWd0NmN2MERaMTczZFBjOWhhbWR6UnZqR0M4MDh0Mkd2RXY1X2UzQTNJa3lPQS1idnJnckZ2VzBBOXBEUHZZYWVQZGppZTFlWHJaR2ZQYTVrQXlwSFZWakZBUV9ZelJjNEE0b05uUW1mS0IzUUJmczlodW8tYzlzZ2J6RE9QNWZLMWNEWEJ5VmNrR0NkWFlNYjl1TXFtX3JMbXBkQ2x6RFo3Z2lXMG1ZQWJfS2JiS25OSGJFQTRzUlpPNDhSY3dRTGlPZUZ5WVhTNlJCLUY0S01kUQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 14 Nov 2024 08:00:00 GMT",
+      "snippet": "Trump-Supported World Liberty Financial Taps Chainlink Data Services as DeFi Platform Takes Shape&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "WLFI Token Launch: How To Trade, Unlock and Navigate the First Listings - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0NoR2hGRktCOHhpUFBRT1lJV3hCTm5yMmt5eFU2V3k3U1IzS3k2Z0NSNjVMd2tqUHBla243RFBXNWl3T2JlQXNUSzE4dWJCckJ6Mklycm9UejlIeWhBRE8zVDFmOHRJTDJfczdoNDZUcDl4SGVFemhqWnRsTjQ3SExWVTNzQmtk?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Sun, 31 Aug 2025 07:00:00 GMT",
+      "snippet": "WLFI Token Launch: How To Trade, Unlock and Navigate the First Listings&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "World Liberty Financial Unveils 8.4 Million WLFI Token Airdrop Amid Price Slump - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0tuRHk4Rk11VEF0SWRZTXBXeFk3NU9FY19zZjFFd01fcXktMlh2TExGeFdqV0Z2MEtFajZlbUI3ZWNkVm91UDJ6Q2haeXMzSzl1cm5LUHNJSmpmUmc4a2FFaUZuZmJob255YzB3OVJGeW9CVmxnQl9yN3dmc21KQVE5NU9PUQ?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "snippet": "World Liberty Financial Unveils 8.4 Million WLFI Token Airdrop Amid Price Slump&nbsp;&nbsp;Yahoo Finance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

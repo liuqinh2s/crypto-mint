@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-30T20:34:22.361Z",
+  "updatedAt": "2026-06-30T20:49:04.143Z",
   "results": [
+    {
+      "token": "AGLD",
+      "requestedInput": "AGLD",
+      "name": "Adventure Gold",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:48:53.430Z",
+      "latestPath": "data/results/AGLD-latest.json"
+    },
+    {
+      "token": "FARTCOIN",
+      "requestedInput": "FARTCOIN",
+      "name": "Fartcoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:48:55.477Z",
+      "latestPath": "data/results/FARTCOIN-latest.json"
+    },
+    {
+      "token": "WLFI",
+      "requestedInput": "WLFI",
+      "name": "World Liberty Financial",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:48:55.711Z",
+      "latestPath": "data/results/WLFI-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T20:48:52.416Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:48:59.927Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:49:02.127Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "QBTS",
+      "requestedInput": "QBTS",
+      "name": "D-Wave Quantum Inc.",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T20:49:04.141Z",
+      "latestPath": "data/results/QBTS-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:49:01.115Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
     {
       "token": "BSV",
       "requestedInput": "BSV",
@@ -30,16 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T20:34:10.837Z",
       "latestPath": "data/results/VELVET-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T20:34:06.838Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "AMT",
@@ -112,16 +182,6 @@
       "latestPath": "data/results/MET-latest.json"
     },
     {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:21:21.702Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
       "token": "BE",
       "requestedInput": "BE",
       "name": "Blue Elephant",
@@ -130,16 +190,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T20:21:21.116Z",
       "latestPath": "data/results/BE-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:21:23.293Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "ARQQ",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T15:04:16.831Z",
       "latestPath": "data/results/G-latest.json"
-    },
-    {
-      "token": "ACX",
-      "requestedInput": "ACX",
-      "name": "Across Protocol",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T15:04:17.550Z",
-      "latestPath": "data/results/ACX-latest.json"
-    },
-    {
-      "token": "SYRUP",
-      "requestedInput": "SYRUP",
-      "name": "Maple Finance",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T15:04:17.482Z",
-      "latestPath": "data/results/SYRUP-latest.json"
-    },
-    {
-      "token": "SPCX",
-      "requestedInput": "SPCX",
-      "name": "SPCX",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:04:39.261Z",
-      "latestPath": "data/results/SPCX-latest.json"
-    },
-    {
-      "token": "SLX",
-      "requestedInput": "SLX",
-      "name": "SLX",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:04:33.648Z",
-      "latestPath": "data/results/SLX-latest.json"
-    },
-    {
-      "token": "TOKYOEL",
-      "requestedInput": "TOKYOEL",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:04:29.330Z",
-      "latestPath": "data/results/TOKYOEL-latest.json"
     }
   ]
 }
