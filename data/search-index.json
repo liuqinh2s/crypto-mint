@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-06-30T20:49:04.143Z",
+  "updatedAt": "2026-06-30T21:03:43.054Z",
   "results": [
+    {
+      "token": "SYRUP",
+      "requestedInput": "SYRUP",
+      "name": "Maple Finance",
+      "score": 55,
+      "label": "可以买但严控仓位",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T21:03:26.781Z",
+      "latestPath": "data/results/SYRUP-latest.json"
+    },
+    {
+      "token": "ZBT",
+      "requestedInput": "ZBT",
+      "name": "ZEROBASE",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T21:03:30.006Z",
+      "latestPath": "data/results/ZBT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:03:26.953Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:03:28.014Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:03:38.222Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "SPCX",
+      "requestedInput": "SPCX",
+      "name": "SPCX",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:03:37.726Z",
+      "latestPath": "data/results/SPCX-latest.json"
+    },
+    {
+      "token": "SLX",
+      "requestedInput": "SLX",
+      "name": "SLX",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:03:40.459Z",
+      "latestPath": "data/results/SLX-latest.json"
+    },
+    {
+      "token": "TOKYOEL",
+      "requestedInput": "TOKYOEL",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:03:34.794Z",
+      "latestPath": "data/results/TOKYOEL-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:03:43.051Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "AGLD",
       "requestedInput": "AGLD",
@@ -32,16 +122,6 @@
       "latestPath": "data/results/WLFI-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T20:48:52.416Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "OMIKAMI",
       "requestedInput": "AMAT",
       "name": "AMATERASU OMIKAMI",
@@ -50,16 +130,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T20:48:59.927Z",
       "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:49:02.127Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "QBTS",
@@ -110,16 +180,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T20:34:10.837Z",
       "latestPath": "data/results/VELVET-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:34:16.131Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "HOU",
@@ -200,16 +260,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T20:21:21.946Z",
       "latestPath": "data/results/ARQQ-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:21:29.283Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "CAT",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T15:34:00.540Z",
       "latestPath": "data/results/KIRBY-latest.json"
-    },
-    {
-      "token": "MEME",
-      "requestedInput": "MEME",
-      "name": "Memecoin",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:18:10.686Z",
-      "latestPath": "data/results/MEME-latest.json"
-    },
-    {
-      "token": "STBL",
-      "requestedInput": "STBL",
-      "name": "STBL",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:18:10.661Z",
-      "latestPath": "data/results/STBL-latest.json"
-    },
-    {
-      "token": "AMD",
-      "requestedInput": "AMD",
-      "name": "AMD",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:18:12.099Z",
-      "latestPath": "data/results/AMD-latest.json"
-    },
-    {
-      "token": "JTO",
-      "requestedInput": "JTO",
-      "name": "Jito",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T15:04:17.630Z",
-      "latestPath": "data/results/JTO-latest.json"
-    },
-    {
-      "token": "G",
-      "requestedInput": "G",
-      "name": "Gravity (原Galxe)",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:04:16.831Z",
-      "latestPath": "data/results/G-latest.json"
     }
   ]
 }
