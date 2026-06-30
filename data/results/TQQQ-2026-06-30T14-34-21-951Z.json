@@ -1,0 +1,210 @@
+{
+  "token": "TQQQ",
+  "requestedInput": "TQQQ",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T14:34:21.951Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TQQQ",
+    "name": "TQQQUSDT",
+    "generatedAt": "2026-06-30T14:34:14.945Z",
+    "summary": "该代币为Solana链上pumpswap的Meme币，与知名杠杆ETF同名但无关联。上线仅1天，24小时跌幅97.32%，流动性为0，市值仅4.6万美元，属于高风险投机品种。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性恢复且市值回升至百万美元以上可重新评估，但当前无任何支撑。"
+    },
+    "catalysts": [
+      "同名杠杆ETF TQQQ的知名度可能吸引投机者",
+      "HTX上线TQQQ永续合约的新闻可能短暂带动情绪"
+    ],
+    "latestNews": [
+      {
+        "title": "HTX launches CAP, SQQQ, and TQQQ USDT-margined perpetual futures with trading rewards",
+        "impact": "利好",
+        "reason": "HTX上线同名永续合约可能增加代币曝光度，但实际关联性存疑。"
+      },
+      {
+        "title": "TQQQ tokenized ETF (xStock) Price Today | TQQQX to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "新闻提及的是TQQQX（xStock代币化ETF），与当前Meme币无关，可能造成混淆。"
+      }
+    ],
+    "fundamentals": [
+      "Solana链上pumpswap发行的Meme币，无实际项目背景",
+      "总供应量和流通量未披露，市值仅4.6万美元",
+      "流动性为0，无法正常交易",
+      "创建于2026年6月29日，仅1天历史"
+    ],
+    "marketRead": [
+      "24小时跌幅97.32%，价格从高点暴跌",
+      "成交量694万美元，但流动性为0，说明交易对已失效或价格操纵严重",
+      "无K线数据，无法分析趋势"
+    ],
+    "risks": [
+      "流动性为0，无法卖出，存在归零风险",
+      "上线仅1天，无历史数据，高度投机",
+      "与知名杠杆ETF同名但无关联，存在误导风险",
+      "市值极低，容易被操纵",
+      "DEX交易对，合约风险高"
+    ],
+    "watchlist": [
+      "流动性是否恢复",
+      "市值是否出现显著增长",
+      "是否有官方公告或项目方动态"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，流动性为0，价格可能不准确",
+      "新闻中HTX上线的是同名永续合约，并非该代币本身",
+      "无可靠项目信息，所有分析基于有限数据"
+    ]
+  },
+  "profile": {
+    "id": "5rY1hDUNJGzn13xhkpBgpk7WosMWbXRjyczHuiZY6a2u",
+    "symbol": "TQQQ",
+    "name": "TQQQUSDT",
+    "categories": [
+      "solana",
+      "pumpswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / pumpswap. Pair URL: https://dexscreener.com/solana/415m9qihfmkzbphsptyz2pqxc1ckzfhripmsxtssajfw",
+    "marketCapRank": null,
+    "currentPriceUsd": 4.629e-7,
+    "marketCapUsd": 46296,
+    "fullyDilutedValuationUsd": 46296,
+    "totalVolumeUsd": 6944693.87,
+    "priceChange24hPct": -97.32,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-29",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "415M9qiHFmkzbPhSPTYZ2pqXC1ckzFHriPMsXtsSajFw",
+    "baseTokenAddress": "5rY1hDUNJGzn13xhkpBgpk7WosMWbXRjyczHuiZY6a2u",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 0,
+    "pairUrl": "https://dexscreener.com/solana/415m9qihfmkzbphsptyz2pqxc1ckzfhripmsxtssajfw",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pumpswap",
+    "pair": "TQQQ/SOL",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "415M9qiHFmkzbPhSPTYZ2pqXC1ckzFHriPMsXtsSajFw",
+    "pairUrl": "https://dexscreener.com/solana/415m9qihfmkzbphsptyz2pqxc1ckzfhripmsxtssajfw",
+    "lastPrice": 4.629e-7,
+    "priceChange24hPct": -97.32,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 6944693.87,
+    "liquidityUsd": 0,
+    "fullyDilutedValuationUsd": 46296,
+    "marketCapUsd": 46296,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/415m9qihfmkzbphsptyz2pqxc1ckzfhripmsxtssajfw",
+    "pairAddress": "415M9qiHFmkzbPhSPTYZ2pqXC1ckzFHriPMsXtsSajFw",
+    "baseToken": {
+      "address": "5rY1hDUNJGzn13xhkpBgpk7WosMWbXRjyczHuiZY6a2u",
+      "name": "TQQQUSDT",
+      "symbol": "TQQQ"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.000000006106",
+    "priceUsd": "0.0000004629",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 24826,
+        "sells": 13409
+      }
+    },
+    "volume": {
+      "h24": 6944693.87,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -97.32
+    },
+    "liquidity": {
+      "usd": 0,
+      "base": 0.1347,
+      "quote": 1e-9
+    },
+    "fdv": 46296,
+    "marketCap": 46296,
+    "pairCreatedAt": 1782721061000
+  },
+  "news": [
+    {
+      "title": "TQQQ tokenized ETF (xStock) Price Today | TQQQX to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JVWdQeUdrNmlNaW1DNVVETHE0Q2tTbXhWUUhCRTdIOGlId0h2cFhEUHJyclVZVWR3Sm9PTWNuT1JVUmxXUEV2cklUdFQyWnBaYUx2Ukw0eVZKbkl2VC11LVp6VG5wUzltUlluYQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 22 Sep 2025 16:19:13 GMT",
+      "snippet": "TQQQ tokenized ETF (xStock) Price Today | TQQQX to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "HTX launches CAP, SQQQ, and TQQQ USDT-margined perpetual futures with trading rewards - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbTdOb19tamFzN1doUURwaWNtY1ZDMGJBMnlZZ0FPSTN2cmVQYlJBMUlhRVpvVjVwY2dEX1RJT1NlV3llRHNNaE4xSTNnNHB1Z1dKUnpmem1uRzNhM25aX1o0RUNzcFdBOVJBTTlfcTlZeXBSV04xUGh3eVlvakkxX3N2QjhOY3I1ZXV4QWpMYjE?oc=5",
+      "source": "Traders Union",
+      "publishedAt": "Tue, 30 Jun 2026 05:02:13 GMT",
+      "snippet": "HTX launches CAP, SQQQ, and TQQQ USDT-margined perpetual futures with trading rewards&nbsp;&nbsp;Traders Union"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=TQQQ: Throttled\n"
+  ]
+}

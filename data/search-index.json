@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-06-30T14:18:34.025Z",
+  "updatedAt": "2026-06-30T14:34:41.972Z",
   "results": [
+    {
+      "token": "ALICE",
+      "requestedInput": "ALICE",
+      "name": "Alice",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T14:34:12.362Z",
+      "latestPath": "data/results/ALICE-latest.json"
+    },
+    {
+      "token": "BSV",
+      "requestedInput": "BSV",
+      "name": "Bitcoin SV",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T14:34:13.537Z",
+      "latestPath": "data/results/BSV-latest.json"
+    },
+    {
+      "token": "WIF",
+      "requestedInput": "WIF",
+      "name": "WIF",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T14:34:13.216Z",
+      "latestPath": "data/results/WIF-latest.json"
+    },
+    {
+      "token": "VELVET",
+      "requestedInput": "VELVET",
+      "name": "Velvet",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T14:34:14.556Z",
+      "latestPath": "data/results/VELVET-latest.json"
+    },
+    {
+      "token": "MET",
+      "requestedInput": "MET",
+      "name": "Meteora",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T14:34:22.656Z",
+      "latestPath": "data/results/MET-latest.json"
+    },
+    {
+      "token": "SPY",
+      "requestedInput": "SPY",
+      "name": "SPY",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T14:34:24.915Z",
+      "latestPath": "data/results/SPY-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T14:34:20.340Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "TQQQ",
+      "requestedInput": "TQQQ",
+      "name": "TQQQUSDT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T14:34:21.951Z",
+      "latestPath": "data/results/TQQQ-latest.json"
+    },
+    {
+      "token": "LITE",
+      "requestedInput": "LITE",
+      "name": "LITE",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T14:34:33.075Z",
+      "latestPath": "data/results/LITE-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T14:34:28.580Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "OBS",
+      "requestedInput": "NBIS",
+      "name": "OpenBiSea Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T14:34:28.002Z",
+      "latestPath": "data/results/OBS-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T14:34:32.640Z",
+      "latestPath": "data/results/KIRBY-latest.json"
+    },
+    {
+      "token": "ARQQ",
+      "requestedInput": "ARQQ",
+      "name": "Arqit Quantum (Derivatives)",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T14:34:32.617Z",
+      "latestPath": "data/results/ARQQ-latest.json"
+    },
+    {
+      "token": "SNOW",
+      "requestedInput": "SNOW",
+      "name": "snow",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T14:34:35.659Z",
+      "latestPath": "data/results/SNOW-latest.json"
+    },
+    {
+      "token": "CAT",
+      "requestedInput": "SIMO",
+      "name": "Simons Cat",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T14:34:41.970Z",
+      "latestPath": "data/results/CAT-latest.json"
+    },
     {
       "token": "ID",
       "requestedInput": "ID",
@@ -50,46 +200,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T14:18:24.610Z",
       "latestPath": "data/results/RAVE-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:18:22.299Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:18:23.472Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
-      "token": "OBS",
-      "requestedInput": "NBIS",
-      "name": "OpenBiSea Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:18:24.745Z",
-      "latestPath": "data/results/OBS-latest.json"
-    },
-    {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:18:28.873Z",
-      "latestPath": "data/results/KIRBY-latest.json"
     },
     {
       "token": "QBTS",
@@ -430,16 +540,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T12:04:35.991Z",
       "latestPath": "data/results/DOGE-latest.json"
-    },
-    {
-      "token": "CAT",
-      "requestedInput": "SIMO",
-      "name": "Simons Cat",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T12:04:30.015Z",
-      "latestPath": "data/results/CAT-latest.json"
     },
     {
       "token": "1000SATS",
@@ -900,106 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T04:18:42.135Z",
       "latestPath": "data/results/G-latest.json"
-    },
-    {
-      "token": "SOON",
-      "requestedInput": "SOON",
-      "name": "SOON",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T04:18:37.487Z",
-      "latestPath": "data/results/SOON-latest.json"
-    },
-    {
-      "token": "POPCAT",
-      "requestedInput": "POPCAT",
-      "name": "Popcat",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T04:18:43.887Z",
-      "latestPath": "data/results/POPCAT-latest.json"
-    },
-    {
-      "token": "TAIKO",
-      "requestedInput": "TAIKO",
-      "name": "Taiko",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T04:03:18.663Z",
-      "latestPath": "data/results/TAIKO-latest.json"
-    },
-    {
-      "token": "PIEVERSE",
-      "requestedInput": "PIEVERSE",
-      "name": "Pieverse",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T03:48:03.802Z",
-      "latestPath": "data/results/PIEVERSE-latest.json"
-    },
-    {
-      "token": "TAG",
-      "requestedInput": "TAG",
-      "name": "TAGGER",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T03:48:07.234Z",
-      "latestPath": "data/results/TAG-latest.json"
-    },
-    {
-      "token": "GAS",
-      "requestedInput": "GAS",
-      "name": "Gas",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T03:34:02.852Z",
-      "latestPath": "data/results/GAS-latest.json"
-    },
-    {
-      "token": "VANA",
-      "requestedInput": "VANA",
-      "name": "Vana",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T03:34:03.365Z",
-      "latestPath": "data/results/VANA-latest.json"
-    },
-    {
-      "token": "AGLD",
-      "requestedInput": "AGLD",
-      "name": "Adventure Gold",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T03:34:10.109Z",
-      "latestPath": "data/results/AGLD-latest.json"
-    },
-    {
-      "token": "HOLO",
-      "requestedInput": "HOLO",
-      "name": "holo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T03:18:44.753Z",
-      "latestPath": "data/results/HOLO-latest.json"
-    },
-    {
-      "token": "FARTCOIN",
-      "requestedInput": "FARTCOIN",
-      "name": "Fartcoin",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T03:18:45.246Z",
-      "latestPath": "data/results/FARTCOIN-latest.json"
     }
   ]
 }

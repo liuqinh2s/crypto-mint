@@ -1,0 +1,368 @@
+{
+  "token": "SPY",
+  "requestedInput": "SPY",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T14:34:24.915Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SPY",
+    "name": "SPY",
+    "generatedAt": "2026-06-30T14:34:13.652Z",
+    "summary": "SPY是XRP链上的一个低市值meme币，24小时交易量仅36美元，流动性约3.2万美元，价格24h下跌0.8%。新闻中大量提及的SPY实际指传统金融ETF或另一个同名项目SpacePay，与本代币无关。缺乏基本面支撑，社区活跃度低，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现明确的团队、产品更新或成交量显著放大，否则逻辑持续失效。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Stock Market & Crypto Analysis 6/26/26 $SPY $QQQ $IWM $SMH - KuCoin",
+        "impact": "中性",
+        "reason": "新闻标题提及SPY，但内容是关于传统金融ETF，与本代币无关。"
+      },
+      {
+        "title": "QQQ, VOO, SPY ETFs are falling: Here’s why the stock market is crashing - CryptoRank",
+        "impact": "中性",
+        "reason": "同样指传统ETF，非本代币。"
+      },
+      {
+        "title": "Ethereum and XRP May Dominate Today, But SpacePay (SPY) Could Dominate Tomorrow - TradingView",
+        "impact": "中性",
+        "reason": "提及SpacePay (SPY)，但该代币与当前SPY代币无关，且为2025年旧闻。"
+      },
+      {
+        "title": "How to Buy SpacePay (SPY) – 5 Easy Steps to Follow - Cryptonews",
+        "impact": "中性",
+        "reason": "SpacePay相关，非本代币。"
+      },
+      {
+        "title": "Trump Crypto Company Allegedly Took Secret $500M Investment From UAE ‘Spy Sheikh’ - TechRepublic",
+        "impact": "中性",
+        "reason": "标题含Spy，但内容无关。"
+      },
+      {
+        "title": "ChatGPT Predicts Price of Kaspa (KAS) and SpacePay (SPY) by End of 2026 - CryptoDnes.bg",
+        "impact": "中性",
+        "reason": "SpacePay预测，非本代币。"
+      },
+      {
+        "title": "Why SpacePay (SPY) Might Be the Safe Harbor After $19B in Crypto Market Losses - TradingView",
+        "impact": "中性",
+        "reason": "SpacePay相关。"
+      },
+      {
+        "title": "SPY Stock Futures: Understanding S&P 500 Derivatives and Market Trends - Bitget",
+        "impact": "中性",
+        "reason": "传统金融SPY期货。"
+      },
+      {
+        "title": "SpacePay Price Prediction – $SPY Forecast & Investment Outlook - Bitcoinist.com",
+        "impact": "中性",
+        "reason": "SpacePay预测。"
+      },
+      {
+        "title": "The S&P 500 Index (SPY) falls below the 100-day moving average for consecutive sessions for the first time in two and a half years. - Bitget",
+        "impact": "中性",
+        "reason": "传统金融SPY指数。"
+      },
+      {
+        "title": "Michael Saylor's Strategy Outperforms SPY and Bitcoin, But Remains Outside the S&P 500 - Bitget",
+        "impact": "中性",
+        "reason": "传统金融SPY。"
+      },
+      {
+        "title": "Binance Futures Will Launch QQQUSDT, SPYUSDT, AAPLUSDT and TSMUSDT USDⓈ-Margined Perpetual Contracts (2026-04-06) - Binance",
+        "impact": "中性",
+        "reason": "传统金融SPY期货。"
+      },
+      {
+        "title": "Senator Elizabeth Warren is sounding the alarm on Trump’s 'spy sheikh' crypto deal - CoinDesk",
+        "impact": "中性",
+        "reason": "无关政治新闻。"
+      }
+    ],
+    "fundamentals": [
+      "XRP链上的meme币，无实际用例。",
+      "市值约30万美元，流动性仅3.2万美元。",
+      "24小时交易量36美元，几乎无交易活动。",
+      "创建于2024年12月，但至今无任何社区或开发进展。",
+      "新闻中大量同名混淆，实际项目SpacePay可能已结束或无关。"
+    ],
+    "marketRead": [
+      "24小时价格下跌0.8%，交易量极低，流动性差。",
+      "无历史价格数据（7d/14d/30d均为null），表明交易不活跃。",
+      "无ATH数据，无市场深度信息。",
+      "成交量仅36美元，几乎无市场参与。"
+    ],
+    "risks": [
+      "流动性极低，滑点巨大，难以买卖。",
+      "交易量几乎为零，可能无人问津。",
+      "新闻混淆严重，实际代币与新闻内容无关，存在误导。",
+      "无团队信息、无社交媒体活跃度、无开发进展。",
+      "合约风险：XRP链上代币，需自行验证合约安全性。",
+      "市值小，易被操纵或归零。"
+    ],
+    "watchlist": [
+      "关注是否有团队发布官方公告或更新。",
+      "观察交易量是否出现显著放大。",
+      "检查XRP链上该代币的持有者分布和交易记录。",
+      "警惕同名代币混淆风险。"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，无其他交易所或链上数据验证。",
+      "新闻内容几乎全部指向传统金融SPY ETF或SpacePay项目，与本代币无关。",
+      "缺乏基本面信息，无法进行有效分析。"
+    ]
+  },
+  "profile": {
+    "id": "SPY.rnmJEi7hzEL34R7x48e732qvSnmF5wsLtQ",
+    "symbol": "SPY",
+    "name": "SPY",
+    "categories": [
+      "xrpl",
+      "xrpl"
+    ],
+    "homepage": [
+      "https://spydex.net"
+    ],
+    "description": "DexScreener pair on xrpl / xrpl. Pair URL: https://dexscreener.com/xrpl/spy.rnmjei7hzel34r7x48e732qvsnmf5wsltq_xrp Socials: twitter: https://x.com/spydexnet?s=21; telegram: https://t.me/spy_coin",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.3058,
+    "marketCapUsd": 304020,
+    "fullyDilutedValuationUsd": 304020,
+    "totalVolumeUsd": 36.17,
+    "priceChange24hPct": -0.8,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2024-12-02",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "SPY.rnmJEi7hzEL34R7x48e732qvSnmF5wsLtQ_XRP",
+    "baseTokenAddress": "SPY.rnmJEi7hzEL34R7x48e732qvSnmF5wsLtQ",
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "liquidityUsd": 31872.23,
+    "pairUrl": "https://dexscreener.com/xrpl/spy.rnmjei7hzel34r7x48e732qvsnmf5wsltq_xrp",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "xrpl",
+    "pair": "SPY/XRP",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "SPY.rnmJEi7hzEL34R7x48e732qvSnmF5wsLtQ_XRP",
+    "pairUrl": "https://dexscreener.com/xrpl/spy.rnmjei7hzel34r7x48e732qvsnmf5wsltq_xrp",
+    "lastPrice": 0.3058,
+    "priceChange24hPct": -0.8,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 36.17,
+    "liquidityUsd": 31872.23,
+    "fullyDilutedValuationUsd": 304020,
+    "marketCapUsd": 304020,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "url": "https://dexscreener.com/xrpl/spy.rnmjei7hzel34r7x48e732qvsnmf5wsltq_xrp",
+    "pairAddress": "SPY.rnmJEi7hzEL34R7x48e732qvSnmF5wsLtQ_XRP",
+    "baseToken": {
+      "address": "SPY.rnmJEi7hzEL34R7x48e732qvSnmF5wsLtQ",
+      "name": "SPY",
+      "symbol": "SPY"
+    },
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "priceNative": "0.2969",
+    "priceUsd": "0.3058",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 21,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 36.17,
+      "h6": 0.1,
+      "h1": 0.1,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -1.75,
+      "h6": -1.75,
+      "h24": -0.8
+    },
+    "liquidity": {
+      "usd": 31872.23,
+      "base": 52104,
+      "quote": 15471
+    },
+    "fdv": 304020,
+    "marketCap": 304020,
+    "pairCreatedAt": 1733154210000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/f6eb4e840988f469fd58319022f1c4e59283e59e6aaf63082a3645c14e770011?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/86507c9b01f57a1f845df70479380b057bfb784a47ac60ae4209b28627762ab9?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/xrpl/spy.rnmjei7hzel34r7x48e732qvsnmf5wsltq?timestamp=1782830100000",
+      "websites": [
+        {
+          "url": "https://spydex.net",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/spydexnet?s=21",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/spy_coin",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Stock Market & Crypto Analysis 6/26/26 $SPY $QQQ $IWM $SMH - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oa3NDQnJZYmdTLWEyLTJQVkM1cF80WTBHMnhsNjBWaVZUT185b1B3YkVuT3F6SzhNdG5icDZqekdDRlh5ZFRGWFQ2emlCblVXMm4tQmVqOFJGOHZjZkVybzhWZkJaSmktRTVVbjluZlo?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Fri, 26 Jun 2026 23:24:05 GMT",
+      "snippet": "Stock Market & Crypto Analysis 6/26/26 $SPY $QQQ $IWM $SMH&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "QQQ, VOO, SPY ETFs are falling: Here’s why the stock market is crashing - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSmFmMmwxWmNCZmM4RTRmQjZwcmN1cmFCUHZ0TzJvbzlKbHZXZm5jYXJlSEJ4bjNlVFhrZWdWOGp5T0Y3TkJmR3dpbTA5cHQtb0lrSERmeVg4cTJneExHMHpKN2U3X2t4TFR4eUpiQ29ldFBuT3FYZFlpSFc2MDFsb1ZmMVNEUHd6WGlFcGF3MFl5VHJRWlF4QkdRemhwdDRMNHRKeVJ1dWM?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "snippet": "QQQ, VOO, SPY ETFs are falling: Here’s why the stock market is crashing&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Ethereum and XRP May Dominate Today, But SpacePay (SPY) Could Dominate Tomorrow - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV0ZYQ2RwelBGRU4wNXdHOXkyWG9zLUFjcW1jcWlNcGp6RjVnMm1OZTJjaDhYcXA1dWhNTThfN0htTmxGMUVBRGhuQmVrMEhqaXR5QzNrNE93VjJPLURRdVhmWE9mSE40QVJ4T2cwMWE0UklDb3E2eEVoWGJ0SXJFS3A5M0RXR3M2UURfYldWUXcxVUJrSldCT3pSdkotaWpja3RESnNBdWhUWHhkaFN1N3puRXRDT2RCWlRqWXU4b2dpSVkxSkFWMDRvWjdUV29DbVpZ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 04 Nov 2025 08:00:00 GMT",
+      "snippet": "Ethereum and XRP May Dominate Today, But SpacePay (SPY) Could Dominate Tomorrow&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "How to Buy SpacePay (SPY) – 5 Easy Steps to Follow - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42MWpnSlpDX2ZGa2ZuMnRsUnIzbXMwZGw2a1hjMG1XQ1hMWXVvc0RzODJoTlRwZkp4MGlLZGZRNmhrQnozMUxQdUdmMmpkMHBEazJncU5YdlFoUG80TFFMa0YtNzRsTTR1NGc?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Fri, 05 Dec 2025 08:00:00 GMT",
+      "snippet": "How to Buy SpacePay (SPY) – 5 Easy Steps to Follow&nbsp;&nbsp;Cryptonews"
+    },
+    {
+      "title": "Trump Crypto Company Allegedly Took Secret $500M Investment From UAE ‘Spy Sheikh’ - TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qRmkxZ2VHWUJuNUxmZ0F4NnVia3pJLWVKdXM3ejZiVDJqcjNSQ0xpQkFETV9mR1NKSHBtUXI2dUp4WWxDU2JrQmwzQkdpT1F4QXA1Y1k0NWxKdm1HQkdLYUhKZWRWcTFGWUdjeVRjVjZlbnJENFBuX253?oc=5",
+      "source": "TechRepublic",
+      "publishedAt": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "snippet": "Trump Crypto Company Allegedly Took Secret $500M Investment From UAE ‘Spy Sheikh’&nbsp;&nbsp;TechRepublic"
+    },
+    {
+      "title": "ChatGPT Predicts Price of Kaspa (KAS) and SpacePay (SPY) by End of 2026 - CryptoDnes.bg",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXhxWHJoMXRzQ1Z0N3NIY211TllKaDhEU0h3c1Y4YXNuQmdWMFpEdjF0YkJycW8tTzZMTmM1dkZiWlVCVlo3SW1Pdy1rVVVzRHIwbFJsY2lnakY5cmlRdDQtRDl3RVI1VU9oUUZzZnc0bTRfVUNYQTgzZTUyTWdHWVp6S1BTQVJnUWdfOUZZZHRuR0xyb2c3UA?oc=5",
+      "source": "CryptoDnes.bg",
+      "publishedAt": "Sun, 26 Oct 2025 07:00:00 GMT",
+      "snippet": "ChatGPT Predicts Price of Kaspa (KAS) and SpacePay (SPY) by End of 2026&nbsp;&nbsp;CryptoDnes.bg"
+    },
+    {
+      "title": "Why SpacePay (SPY) Might Be the Safe Harbor After $19B in Crypto Market Losses - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZTdrVXZ6VEJHN1BtZVpNOU1lUTI5ZDNLWi0zNkFTMXZuZk96bVhiWTZoSUpYMnMzT196Y2NiSllwMlhOY3VUR2E0RDB3VFFzQURkNl9ZM3lhcm5zbUlCelB5SmZieXdFSGFWWmhPYWVYb1dkT1lweFVCRUJUTDIya1I5VEg5TlY5dVFGbTYycEhlVE5PRHRQem5rRGV1NmQyTGswX1pFRm4ydjlkWUtNd041M08zYjB6aWp3M3JaTU9CM3FLMmVtUzB6R1RGVVo2ZFE?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "snippet": "Why SpacePay (SPY) Might Be the Safe Harbor After $19B in Crypto Market Losses&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "SPY Stock Futures: Understanding S&P 500 Derivatives and Market Trends - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51Q0ZfeGlVcjRqaWt3TUs4cURrb2w4N1BPOWl6ZmRvS0RuaHhOcDM3T0xvc1NyejRzbHRTYlZPb1hvbmtSN1d2RkEwZ09admhnSW9NUUNpTnE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 06 Feb 2026 23:04:11 GMT",
+      "snippet": "SPY Stock Futures: Understanding S&P 500 Derivatives and Market Trends&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "SpacePay Price Prediction – $SPY Forecast & Investment Outlook - Bitcoinist.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DRXJ3UDJ1UTVnUVd5WkZlZHhpd3I0NE5fNDRnMkxqZ2M1X3VoTmNNOGJlclpHRU9LQ3lGeDZTQ2lPN2hqYm1JT3BQcXlaVEEtVG5odW9uNnJvUG9TRXc?oc=5",
+      "source": "Bitcoinist.com",
+      "publishedAt": "Tue, 13 May 2025 07:00:00 GMT",
+      "snippet": "SpacePay Price Prediction – $SPY Forecast & Investment Outlook&nbsp;&nbsp;Bitcoinist.com"
+    },
+    {
+      "title": "The S&P 500 Index (SPY) falls below the 100-day moving average for consecutive sessions for the first time in two and a half years. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kNUlBRGU0T296TGtJT1ZnSzdUNWFuVWRQZ1N3aUxYQllLWldHYlZ3MlVPMTVwUmNhZVhfTnBkcHVMdTEwWHFhYllxZWFyYXZwX194ZWpuNUhQQVBiS3fSAWNBVV95cUxNVVBmLUxIeXFVcmcybnJfNHJycGlTZnN3ajJsMmxHSjlPNEhsN19vYkxrUHZINGdnTlV4TVZwblhBUllnajEzZ05KaTZjcVkxR0JhQTkzY2kxQ3lJS2dHbW1YaEE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "snippet": "The S&P 500 Index (SPY) falls below the 100-day moving average for consecutive sessions for the first time in two and a half years.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Michael Saylor's Strategy Outperforms SPY and Bitcoin, But Remains Outside the S&P 500 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54c242cVNMVklaTzYxaURWTzBKRzN4cTA5a0twaXZZWkl4OVJVM1E5UVBsb0J3VDBWc3g3SEdLODFER1owdEhSdF8xZU1jQW5UT0RWa2hYSnVCd2tIV1HSAWNBVV95cUxQVFdLbE1jVlBEaE13QUxTTTgtd0xDMk9ZYVdGekxjNDhSOWo4WGF3b00zSlNNbVpPZVQtTS1QRmI4ZEFrMnBxaW1YM0FqTUUwSmYxYUhNa21VWnh4OXhZTU52UE0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 06 Sep 2025 07:00:00 GMT",
+      "snippet": "Michael Saylor's Strategy Outperforms SPY and Bitcoin, But Remains Outside the S&P 500&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Futures Will Launch QQQUSDT, SPYUSDT, AAPLUSDT and TSMUSDT USDⓈ-Margined Perpetual Contracts (2026-04-06) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQREpTZnA1V192OVl3bzlSX01oR2haS1UyenczbElycWpsOVlOOVhFQjRnbDAwTUlOMzh3Y2JnN0lnMnpGUGJrd1B6UGpUZ3VpcGlpRy1CdWQ0emZNRWJOd0loSk1FS3FWVkdYSmhPNk1oT1VoN3g1U01wNlU1SUs4NjNsZFVPT1E1WEJ1WTlCSzQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "Binance Futures Will Launch QQQUSDT, SPYUSDT, AAPLUSDT and TSMUSDT USDⓈ-Margined Perpetual Contracts (2026-04-06)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Senator Elizabeth Warren is sounding the alarm on Trump’s 'spy sheikh' crypto deal - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTE1R05sRU8tTXNLTkVBbnpoblN2TVp1SHNqN3RubVJZdUE4QnhhUjFKOU9vTlJDZjZCdEVnZ1RYY2RFQmUxSklwYUF5aHdZSW9ncF9IM19yY1loRm9wWVJrb19fX1plWXp2LUNBZVZmVDZxV2NadjNCQnUySEYybF8wZHFuelJNRUJTRW5EWmVGUFlaUEhTSzlvQ1NpMEhMcXlyNHZLSFoybHk5Um52VmhUSU8xQVFmVUR6aUVsOWc?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sun, 01 Feb 2026 08:00:00 GMT",
+      "snippet": "Senator Elizabeth Warren is sounding the alarm on Trump’s 'spy sheikh' crypto deal&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=SPY: Throttled\n"
+  ]
+}
