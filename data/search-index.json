@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-06-30T12:34:11.208Z",
+  "updatedAt": "2026-06-30T12:49:07.477Z",
   "results": [
+    {
+      "token": "KGEN",
+      "requestedInput": "KGEN",
+      "name": "KGeN",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:49:02.286Z",
+      "latestPath": "data/results/KGEN-latest.json"
+    },
+    {
+      "token": "KRAV",
+      "requestedInput": "RAVE",
+      "name": "Rave",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:49:00.882Z",
+      "latestPath": "data/results/KRAV-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:48:59.701Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:49:00.607Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:49:05.698Z",
+      "latestPath": "data/results/KIRBY-latest.json"
+    },
+    {
+      "token": "UNITE",
+      "requestedInput": "CIEN",
+      "name": "Unbound Science",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:49:07.475Z",
+      "latestPath": "data/results/UNITE-latest.json"
+    },
     {
       "token": "APR",
       "requestedInput": "APR",
@@ -10,16 +70,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T12:34:01.774Z",
       "latestPath": "data/results/APR-latest.json"
-    },
-    {
-      "token": "KRAV",
-      "requestedInput": "RAVE",
-      "name": "Rave",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:34:03.042Z",
-      "latestPath": "data/results/KRAV-latest.json"
     },
     {
       "token": "TSM",
@@ -32,26 +82,6 @@
       "latestPath": "data/results/TSM-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:34:01.078Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:34:09.766Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
@@ -60,16 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T12:34:09.824Z",
       "latestPath": "data/results/HOU-latest.json"
-    },
-    {
-      "token": "UNITE",
-      "requestedInput": "CIEN",
-      "name": "Unbound Science",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:34:08.541Z",
-      "latestPath": "data/results/UNITE-latest.json"
     },
     {
       "token": "GLW",
@@ -100,16 +120,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T12:18:54.443Z",
       "latestPath": "data/results/NATGAS-latest.json"
-    },
-    {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:19:01.673Z",
-      "latestPath": "data/results/KIRBY-latest.json"
     },
     {
       "token": "PANW",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T02:34:18.940Z",
       "latestPath": "data/results/TOKYOEL-latest.json"
-    },
-    {
-      "token": "4",
-      "requestedInput": "4",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:34:20.548Z",
-      "latestPath": "data/results/4-latest.json"
     }
   ]
 }
