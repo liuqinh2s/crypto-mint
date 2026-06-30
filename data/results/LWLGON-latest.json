@@ -1,0 +1,125 @@
+{
+  "token": "LWLGON",
+  "requestedInput": "LWLG",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T17:34:10.940Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "LWLGON",
+    "name": "Lightwave Logic (Ondo Tokenized)",
+    "generatedAt": "2026-06-30T17:34:05.095Z",
+    "summary": "LWLGON是Ondo平台代币化的Lightwave Logic股票，24小时涨幅8.8%，但流动性极低（市值仅1324美元），成交量仅55美元，实际交易价值有限。缺乏新闻催化，基本面依赖传统股票LWLG，代币本身无额外价值。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性改善至市值百万美元级别或出现重大利好新闻"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "LWLGon是Ondo代币化的Lightwave Logic股票，提供经济敞口但无实际股票所有权",
+      "总供应量仅138.67枚，市值1324美元，流动性极差",
+      "代币化股票受限于非美国用户，且需通过Ondo平台操作",
+      "Lightwave Logic本身是一家光子学公司，但代币价格与LWLG股价脱钩风险高"
+    ],
+    "marketRead": [
+      "24小时涨幅8.8%，但成交量仅55美元，价格容易被极小订单操纵",
+      "无历史K线数据，无法分析趋势",
+      "Binance数据不可用，仅从CoinGecko获取有限信息"
+    ],
+    "risks": [
+      "流动性极低，买卖价差极大，难以实际成交",
+      "代币化股票存在平台风险（Ondo）和监管不确定性",
+      "价格与底层股票可能脱钩",
+      "无新闻或社区支持，关注度极低"
+    ],
+    "watchlist": [
+      "Ondo平台是否增加流动性或做市商",
+      "Lightwave Logic股票是否有重大新闻",
+      "代币市值是否增长至可交易水平"
+    ],
+    "sourceNotes": [
+      "数据仅来自CoinGecko，Binance接口返回451错误（地区限制）",
+      "无新闻数据，缺乏基本面分析依据"
+    ]
+  },
+  "profile": {
+    "id": "lightwave-logic-ondo-tokenized",
+    "symbol": "LWLGON",
+    "name": "Lightwave Logic (Ondo Tokenized)",
+    "categories": [
+      "Tokenized Assets",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Ondo Tokenized Assets"
+    ],
+    "homepage": [
+      "https://app.ondo.finance/"
+    ],
+    "description": "LWLGon is the Ondo Tokenized version of Lightwave Logic Inc, giving tokenholders economic exposure similar to holding LWLG and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
+    "marketCapRank": 12525,
+    "currentPriceUsd": 9.55,
+    "marketCapUsd": 1324.61,
+    "fullyDilutedValuationUsd": 1324.61,
+    "totalVolumeUsd": 55.86,
+    "priceChange24hPct": 8.80167,
+    "priceChange7dPct": 0.43484,
+    "priceChange14dPct": 0,
+    "priceChange30dPct": 0,
+    "athUsd": 10.47,
+    "athChangePct": -8.96005,
+    "circulatingSupply": 138.6655655367007,
+    "totalSupply": 138.6655655367007,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 1,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "LWLGONUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LWLGONUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "LWLGONFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LWLGONFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "LWLGONUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LWLGONUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "LWLGONBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=LWLGONBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
