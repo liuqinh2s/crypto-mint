@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-06-30T11:03:34.972Z",
+  "updatedAt": "2026-06-30T11:19:02.916Z",
   "results": [
+    {
+      "token": "DRIFT",
+      "requestedInput": "DRIFT",
+      "name": "Drift Protocol",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T11:18:57.015Z",
+      "latestPath": "data/results/DRIFT-latest.json"
+    },
+    {
+      "token": "NMR",
+      "requestedInput": "NMR",
+      "name": "Numeraire",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T11:18:56.936Z",
+      "latestPath": "data/results/NMR-latest.json"
+    },
     {
       "token": "KRAV",
       "requestedInput": "RAVE",
@@ -8,18 +28,38 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T11:03:29.916Z",
+      "generatedAt": "2026-06-30T11:18:55.238Z",
       "latestPath": "data/results/KRAV-latest.json"
     },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 20,
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T11:18:55.987Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T11:03:27.514Z",
-      "latestPath": "data/results/-latest.json"
+      "generatedAt": "2026-06-30T11:19:02.331Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T11:19:02.914Z",
+      "latestPath": "data/results/KIRBY-latest.json"
     },
     {
       "token": "AMT",
@@ -72,16 +112,6 @@
       "latestPath": "data/results/ORDI-latest.json"
     },
     {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T10:18:58.748Z",
-      "latestPath": "data/results/KIRBY-latest.json"
-    },
-    {
       "token": "AVAX",
       "requestedInput": "AVAX",
       "name": "Avalanche (Wormhole)",
@@ -100,16 +130,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T10:03:46.912Z",
       "latestPath": "data/results/BLESS-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T10:03:53.641Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "KAS",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T02:19:16.237Z",
       "latestPath": "data/results/DELL-latest.json"
-    },
-    {
-      "token": "CIEN",
-      "requestedInput": "CIEN",
-      "name": "Ciena Corp (Derivatives)",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:19:17.382Z",
-      "latestPath": "data/results/CIEN-latest.json"
-    },
-    {
-      "token": "VELO",
-      "requestedInput": "VELODROME",
-      "name": "Velodrome Finance",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T09:18:04.514Z",
-      "latestPath": "data/results/VELO-latest.json"
     }
   ]
 }
