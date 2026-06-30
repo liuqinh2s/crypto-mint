@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-30T03:03:44.600Z",
+  "updatedAt": "2026-06-30T03:18:52.245Z",
   "results": [
+    {
+      "token": "HOLO",
+      "requestedInput": "HOLO",
+      "name": "holo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:18:44.753Z",
+      "latestPath": "data/results/HOLO-latest.json"
+    },
+    {
+      "token": "FARTCOIN",
+      "requestedInput": "FARTCOIN",
+      "name": "Fartcoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:18:45.246Z",
+      "latestPath": "data/results/FARTCOIN-latest.json"
+    },
+    {
+      "token": "WIF",
+      "requestedInput": "WIF",
+      "name": "dogwifhat",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:18:44.470Z",
+      "latestPath": "data/results/WIF-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:18:44.333Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "ARQQ",
+      "requestedInput": "ARQQ",
+      "name": "Arqit Quantum (Derivatives)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:18:49.498Z",
+      "latestPath": "data/results/ARQQ-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:18:51.442Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "SNOW",
+      "requestedInput": "SNOW",
+      "name": "SNOW",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:18:51.666Z",
+      "latestPath": "data/results/SNOW-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T03:18:52.243Z",
+      "latestPath": "data/results/-latest.json"
+    },
     {
       "token": "HOT",
       "requestedInput": "HOLO",
@@ -60,16 +140,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T03:03:35.323Z",
       "latestPath": "data/results/ALICE-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T03:03:34.211Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "BSV",
@@ -140,16 +210,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T02:48:24.221Z",
       "latestPath": "data/results/ID-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:48:25.950Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "BAN",
@@ -940,66 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-28T18:17:19.570Z",
       "latestPath": "data/results/PIEVERSE-latest.json"
-    },
-    {
-      "token": "VANA",
-      "requestedInput": "VANA",
-      "name": "Vana",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T18:17:27.743Z",
-      "latestPath": "data/results/VANA-latest.json"
-    },
-    {
-      "token": "USUAL",
-      "requestedInput": "USUAL",
-      "name": "USUAL",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T18:17:27.100Z",
-      "latestPath": "data/results/USUAL-latest.json"
-    },
-    {
-      "token": "GAS",
-      "requestedInput": "GAS",
-      "name": "GAS",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T18:03:03.414Z",
-      "latestPath": "data/results/GAS-latest.json"
-    },
-    {
-      "token": "STBL",
-      "requestedInput": "STBL",
-      "name": "STBL",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T18:03:05.139Z",
-      "latestPath": "data/results/STBL-latest.json"
-    },
-    {
-      "token": "RPL",
-      "requestedInput": "RPL",
-      "name": "Rocket Pool",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T18:03:05.765Z",
-      "latestPath": "data/results/RPL-latest.json"
-    },
-    {
-      "token": "AGLD",
-      "requestedInput": "AGLD",
-      "name": "Adventure Gold",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T18:03:12.025Z",
-      "latestPath": "data/results/AGLD-latest.json"
     }
   ]
 }
