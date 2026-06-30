@@ -1,14 +1,64 @@
 {
-  "updatedAt": "2026-06-30T07:04:14.228Z",
+  "updatedAt": "2026-06-30T07:18:15.915Z",
   "results": [
+    {
+      "token": "DYDX",
+      "requestedInput": "DYDX",
+      "name": "dYdX",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T07:18:08.731Z",
+      "latestPath": "data/results/DYDX-latest.json"
+    },
+    {
+      "token": "COOK",
+      "requestedInput": "COOKIE",
+      "name": "Cookie",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T07:18:11.064Z",
+      "latestPath": "data/results/COOK-latest.json"
+    },
+    {
+      "token": "TAC",
+      "requestedInput": "TAC",
+      "name": "TAC",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T07:18:07.074Z",
+      "latestPath": "data/results/TAC-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T07:18:06.066Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T07:18:15.264Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
     {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
-      "score": 10,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T07:04:12.269Z",
+      "generatedAt": "2026-06-30T07:18:15.913Z",
       "latestPath": "data/results/HOU-latest.json"
     },
     {
@@ -20,26 +70,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T07:04:12.691Z",
       "latestPath": "data/results/POWER-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T07:04:14.226Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T07:04:12.356Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "ASTSON",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-29T03:17:20.664Z",
       "latestPath": "data/results/JUP-latest.json"
-    },
-    {
-      "token": "LUMIA",
-      "requestedInput": "LUMIA",
-      "name": "LUMIA",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T03:17:25.017Z",
-      "latestPath": "data/results/LUMIA-latest.json"
-    },
-    {
-      "token": "BAS",
-      "requestedInput": "BAS",
-      "name": "BNB Attestation Service",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T01:32:23.243Z",
-      "latestPath": "data/results/BAS-latest.json"
-    },
-    {
-      "token": "TNSR",
-      "requestedInput": "TNSR",
-      "name": "Tensor",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T01:17:21.764Z",
-      "latestPath": "data/results/TNSR-latest.json"
     }
   ]
 }
