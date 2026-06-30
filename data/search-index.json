@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-06-30T05:18:17.020Z",
+  "updatedAt": "2026-06-30T05:33:23.921Z",
   "results": [
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T05:33:22.838Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T05:33:23.919Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T05:33:23.345Z",
+      "latestPath": "data/results/-latest.json"
+    },
     {
       "token": "KIRBY",
       "requestedInput": "OUST",
@@ -12,26 +42,6 @@
       "latestPath": "data/results/KIRBY-latest.json"
     },
     {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T05:18:16.690Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T05:18:17.018Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "MEME",
       "requestedInput": "MEME",
       "name": "Memecoin",
@@ -40,16 +50,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T05:18:16.957Z",
       "latestPath": "data/results/MEME-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T05:04:08.340Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "STBL",
