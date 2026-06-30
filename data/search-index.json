@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-30T07:49:03.639Z",
+  "updatedAt": "2026-06-30T08:03:32.175Z",
   "results": [
+    {
+      "token": "ICNT",
+      "requestedInput": "ICNT",
+      "name": "Impossible Cloud Network Token",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T08:03:32.173Z",
+      "latestPath": "data/results/ICNT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T08:03:29.199Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T08:03:27.952Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T08:03:27.243Z",
+      "latestPath": "data/results/KIRBY-latest.json"
+    },
     {
       "token": "AAVE",
       "requestedInput": "AAVE",
@@ -22,16 +62,6 @@
       "latestPath": "data/results/RAY-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T07:48:55.253Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "BASED",
       "requestedInput": "BASED",
       "name": "Based",
@@ -50,16 +80,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T07:49:03.636Z",
       "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T07:49:01.052Z",
-      "latestPath": "data/results/KIRBY-latest.json"
     },
     {
       "token": "ASTS",
@@ -100,16 +120,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T07:33:13.447Z",
       "latestPath": "data/results/HOU-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T07:33:15.368Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "ZAMA",
@@ -990,16 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-29T03:46:55.130Z",
       "latestPath": "data/results/IN-latest.json"
-    },
-    {
-      "token": "GRASS",
-      "requestedInput": "GRASS",
-      "name": "Grass",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T03:46:53.186Z",
-      "latestPath": "data/results/GRASS-latest.json"
     }
   ]
 }
