@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-06-30T21:03:43.054Z",
+  "updatedAt": "2026-06-30T21:18:27.194Z",
   "results": [
+    {
+      "token": "MEME",
+      "requestedInput": "MEME",
+      "name": "Memecoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:18:16.401Z",
+      "latestPath": "data/results/MEME-latest.json"
+    },
+    {
+      "token": "G",
+      "requestedInput": "G",
+      "name": "Gravity (原Galxe)",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T21:18:20.256Z",
+      "latestPath": "data/results/G-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:18:14.637Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMD",
+      "requestedInput": "AMD",
+      "name": "AMD",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:18:19.168Z",
+      "latestPath": "data/results/AMD-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:18:22.473Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:18:26.123Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:18:27.193Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "SYRUP",
       "requestedInput": "SYRUP",
@@ -20,36 +90,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T21:03:30.006Z",
       "latestPath": "data/results/ZBT-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:03:26.953Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:03:28.014Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:03:38.222Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "SPCX",
@@ -80,16 +120,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T21:03:34.794Z",
       "latestPath": "data/results/TOKYOEL-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:03:43.051Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "AGLD",
@@ -970,36 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-30T15:33:56.797Z",
       "latestPath": "data/results/DYDX-latest.json"
-    },
-    {
-      "token": "TAC",
-      "requestedInput": "TAC",
-      "name": "TAC",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:33:55.372Z",
-      "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "NBISON",
-      "requestedInput": "NBIS",
-      "name": "Nebius Group (Ondo Tokenized)",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:34:04.178Z",
-      "latestPath": "data/results/NBISON-latest.json"
-    },
-    {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:34:00.540Z",
-      "latestPath": "data/results/KIRBY-latest.json"
     }
   ]
 }
