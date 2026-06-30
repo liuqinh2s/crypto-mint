@@ -1,15 +1,105 @@
 {
-  "updatedAt": "2026-06-30T18:04:29.076Z",
+  "updatedAt": "2026-06-30T18:14:02.596Z",
   "results": [
+    {
+      "token": "APR",
+      "requestedInput": "APR",
+      "name": "aPriori",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:13:48.514Z",
+      "latestPath": "data/results/APR-latest.json"
+    },
+    {
+      "token": "STABLE",
+      "requestedInput": "STABLE",
+      "name": "Stable",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:13:47.689Z",
+      "latestPath": "data/results/STABLE-latest.json"
+    },
+    {
+      "token": "TSM",
+      "requestedInput": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:13:46.343Z",
+      "latestPath": "data/results/TSM-latest.json"
+    },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 25,
-      "label": "观望",
+      "score": 20,
+      "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T18:04:12.555Z",
+      "generatedAt": "2026-06-30T18:13:45.593Z",
       "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:13:52.886Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "LWLGON",
+      "requestedInput": "LWLG",
+      "name": "Lightwave Logic (Ondo Tokenized)",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:13:54.181Z",
+      "latestPath": "data/results/LWLGON-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:13:56.250Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T18:13:56.692Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "CAT",
+      "requestedInput": "SIMO",
+      "name": "Simons Cat",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T18:14:02.299Z",
+      "latestPath": "data/results/CAT-latest.json"
+    },
+    {
+      "token": "GLW",
+      "requestedInput": "GLW",
+      "name": "Corning Incorporated",
+      "score": 65,
+      "label": "可以买但严控仓位",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T18:14:02.593Z",
+      "latestPath": "data/results/GLW-latest.json"
     },
     {
       "token": "NATGAS",
@@ -20,36 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T18:04:13.132Z",
       "latestPath": "data/results/NATGAS-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:04:13.340Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
-      "token": "LWLGON",
-      "requestedInput": "LWLG",
-      "name": "Lightwave Logic (Ondo Tokenized)",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:04:12.395Z",
-      "latestPath": "data/results/LWLGON-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:04:23.276Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "PANW",
@@ -80,26 +140,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T18:04:18.635Z",
       "latestPath": "data/results/PL-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:04:25.622Z",
-      "latestPath": "data/results/TOKABU-latest.json"
-    },
-    {
-      "token": "CAT",
-      "requestedInput": "SIMO",
-      "name": "Simons Cat",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T18:04:29.073Z",
-      "latestPath": "data/results/CAT-latest.json"
     },
     {
       "token": "1000SATS",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T13:04:21.156Z",
       "latestPath": "data/results/ONG-latest.json"
-    },
-    {
-      "token": "4",
-      "requestedInput": "4",
-      "name": "4",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:04:20.304Z",
-      "latestPath": "data/results/4-latest.json"
-    },
-    {
-      "token": "CIEN",
-      "requestedInput": "CIEN",
-      "name": "Ciena",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:04:32.433Z",
-      "latestPath": "data/results/CIEN-latest.json"
-    },
-    {
-      "token": "KGEN",
-      "requestedInput": "KGEN",
-      "name": "KGeN",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:49:02.286Z",
-      "latestPath": "data/results/KGEN-latest.json"
-    },
-    {
-      "token": "UNITE",
-      "requestedInput": "CIEN",
-      "name": "Unbound Science",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:49:07.475Z",
-      "latestPath": "data/results/UNITE-latest.json"
     }
   ]
 }
