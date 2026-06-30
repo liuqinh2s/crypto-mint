@@ -1,0 +1,380 @@
+{
+  "token": "DOGE",
+  "requestedInput": "CIEN",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T11:33:54.591Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "DOGE",
+    "name": "Department Of Government Efficiency",
+    "generatedAt": "2026-06-30T11:33:41.416Z",
+    "summary": "DOGE是模仿Elon Musk政府效率部门的Meme币，市值仅114万美元，流动性45万美元，24小时交易量仅5070美元。近期无重大利好，价格24小时下跌3%。新闻多为旧闻或无关内容。风险极高，不建议买入。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Dogecoin Price Outlook: Can DOGE Hold Key Support After Dogechain Shutdown?",
+        "impact": "利空",
+        "reason": "Dogechain关闭对生态不利，但此新闻针对的是原Dogecoin，非本代币。"
+      },
+      {
+        "title": "Department Of Government Efficiency (DOGE) Price Today | DOGE to USD Live Price, Market Cap & Chart",
+        "impact": "中性",
+        "reason": "仅为价格跟踪页面，无实质信息。"
+      },
+      {
+        "title": "The Indicator That Called DOGE’s Collapse Just Flashed a Rare Buy Signal: Analyst",
+        "impact": "利好",
+        "reason": "技术分析信号，但针对原Dogecoin，非本代币。"
+      },
+      {
+        "title": "DOGE Is Gone: Trump and Musk’s Federal Overhaul Quietly Collapses 8 Months Early",
+        "impact": "利空",
+        "reason": "政府效率部门解散，本代币主题失效。"
+      },
+      {
+        "title": "Dogecoin Price Prediction Stalls Below $0.10 After Musk Exit While Pepeto Offers What DOGE Never Had",
+        "impact": "利空",
+        "reason": "Musk退出，原Dogecoin承压，本代币更无支撑。"
+      },
+      {
+        "title": "Department Of Government Efficiency (dogegov.com) price today, DOGE to USD live price, marketcap and chart",
+        "impact": "中性",
+        "reason": "仅为价格跟踪页面。"
+      },
+      {
+        "title": "Department Of Government Efficiency (dogegov.com) Price Prediction , DOGE Price Prediction , Price Prediction 2025",
+        "impact": "中性",
+        "reason": "预测类内容，无实质影响。"
+      },
+      {
+        "title": "Musk’s DOGE agency launches official website with Dogecoin logo",
+        "impact": "利好",
+        "reason": "但已是2025年1月旧闻，已被解散新闻抵消。"
+      },
+      {
+        "title": "Trump considers giving back 20% of DOGE savings to Americans",
+        "impact": "利好",
+        "reason": "2025年2月旧闻，已被解散新闻抵消。"
+      },
+      {
+        "title": "Elon Musk's DOGE is considering blockchain adoption in gov't efficiency push: Bloomberg",
+        "impact": "利好",
+        "reason": "2025年1月旧闻，已被解散新闻抵消。"
+      },
+      {
+        "title": "How Elon Musk, Vivek Ramaswamy and Dogecoin co-creator Billy Markus reacted to Trump's 'DOGE' announcement",
+        "impact": "利好",
+        "reason": "2024年11月旧闻，已过时。"
+      },
+      {
+        "title": "Dogecoin Price Surges 10% as Elon Musk’s 'Department of Government Efficiency' Gains Traction",
+        "impact": "利好",
+        "reason": "2024年10月旧闻，已过时。"
+      },
+      {
+        "title": "Dogecoin Price News: Foundation Purchases 10M Tokens as Part of New DOGE Reserve",
+        "impact": "利好",
+        "reason": "2025年3月旧闻，针对原Dogecoin。"
+      },
+      {
+        "title": "IRS' Crypto Leads Are Leaving the Agency After Accepting DOGE Deals",
+        "impact": "中性",
+        "reason": "2025年5月旧闻，无关本代币。"
+      }
+    ],
+    "fundamentals": [
+      "Meme币，无实际价值支撑",
+      "市值仅114万美元，流动性45万美元",
+      "24小时交易量仅5070美元，极度冷清",
+      "主题为Elon Musk的政府效率部门，但该部门已于2025年11月解散",
+      "合约地址0x1121AcC14c63f3C872BFcA497d10926A6098AAc5，存在Rug风险"
+    ],
+    "marketRead": [
+      "24小时价格下跌3%，无上涨动力",
+      "交易量极低，缺乏市场关注",
+      "流动性尚可但交易量不足，难以大额进出"
+    ],
+    "risks": [
+      "Meme币无基本面，价格完全依赖叙事和情绪",
+      "核心叙事（政府效率部门）已失效",
+      "市值低，流动性差，容易操纵和Rug",
+      "新闻多为旧闻或无关内容，无新催化",
+      "24小时交易量仅5070美元，市场深度极差"
+    ],
+    "watchlist": [
+      "是否有新叙事或社区活动",
+      "交易量是否显著放大",
+      "是否有大额买入或做市商介入"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener，仅包含Uniswap上的DOGE/WETH交易对",
+      "新闻来源为Google News，部分标题可能指向原Dogecoin而非本代币",
+      "无链上持仓分布数据，无法评估筹码集中度"
+    ]
+  },
+  "profile": {
+    "id": "0x1121AcC14c63f3C872BFcA497d10926A6098AAc5",
+    "symbol": "DOGE",
+    "name": "Department Of Government Efficiency",
+    "categories": [
+      "ethereum",
+      "uniswap"
+    ],
+    "homepage": [
+      "https://www.dogegov.com/"
+    ],
+    "description": "DexScreener pair on ethereum / uniswap. Pair URL: https://dexscreener.com/ethereum/0x308c6fbd6a14881af333649f17f2fde9cd75e2a6 Socials: twitter: https://x.com/doge_eth_gov; telegram: https://t.me/NewDOGEonETH_CTO",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.001171,
+    "marketCapUsd": 1147445,
+    "fullyDilutedValuationUsd": 1147445,
+    "totalVolumeUsd": 5070.79,
+    "priceChange24hPct": -3.02,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2024-08-20",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x308C6fbD6a14881Af333649f17f2FdE9cd75e2a6",
+    "baseTokenAddress": "0x1121AcC14c63f3C872BFcA497d10926A6098AAc5",
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "liquidityUsd": 455627.98,
+    "pairUrl": "https://dexscreener.com/ethereum/0x308c6fbd6a14881af333649f17f2fde9cd75e2a6",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "DOGE/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x308C6fbD6a14881Af333649f17f2FdE9cd75e2a6",
+    "pairUrl": "https://dexscreener.com/ethereum/0x308c6fbd6a14881af333649f17f2fde9cd75e2a6",
+    "lastPrice": 0.001171,
+    "priceChange24hPct": -3.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 5070.79,
+    "liquidityUsd": 455627.98,
+    "fullyDilutedValuationUsd": 1147445,
+    "marketCapUsd": 1147445,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x308c6fbd6a14881af333649f17f2fde9cd75e2a6",
+    "pairAddress": "0x308C6fbD6a14881Af333649f17f2FdE9cd75e2a6",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x1121AcC14c63f3C872BFcA497d10926A6098AAc5",
+      "name": "Department Of Government Efficiency",
+      "symbol": "DOGE"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.0000007392",
+    "priceUsd": "0.001171",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 2
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 9
+      },
+      "h24": {
+        "buys": 5,
+        "sells": 15
+      }
+    },
+    "volume": {
+      "h24": 5070.79,
+      "h6": 3357.21,
+      "h1": 413.87,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -0.24,
+      "h6": -2.93,
+      "h24": -3.02
+    },
+    "liquidity": {
+      "usd": 455627.98,
+      "base": 194394643,
+      "quote": 143.6983
+    },
+    "fdv": 1147445,
+    "marketCap": 1147445,
+    "pairCreatedAt": 1724119115000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/7e6ad02f9c5b59bf37b2f5adeead77e451f6d8c59157afd006a0ec7da3469da6?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/fe6ddb4431e978401900e16180b28e67a0a24b63c1f9ff581a3a520973d5a115?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0x1121acc14c63f3c872bfca497d10926a6098aac5?timestamp=1782819300000",
+      "websites": [
+        {
+          "url": "https://www.dogegov.com/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/doge_eth_gov",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/NewDOGEonETH_CTO",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Dogecoin Price Outlook: Can DOGE Hold Key Support After Dogechain Shutdown? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVJLZzhRMTM4b21KUkJ4UFNKSmZ4V29POGRXV0lqcWJhRko5X0FOWVl2bDQyZTNmM2pKc0MtaU1VQy1OT2xzVXl0NFlKc1ZOZ00tOGNFcFo0WjZMM1lieF82d0gyWE1OQ3ctR0xxTS1NbWlubjdkY1A5VEIxQ2M4RXREN2txS20zZHh1cmtaYWNlc2FMYWthUEVnQUk2clM1UFlxanU2V3Y4cVZPMzlmeQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 25 Jun 2026 14:44:16 GMT",
+      "snippet": "Dogecoin Price Outlook: Can DOGE Hold Key Support After Dogechain Shutdown?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Department Of Government Efficiency (DOGE) Price Today | DOGE to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDUE9VcTY0S1FMZWtlU0lpd2luUHJkM0FqQjBSMGcxWXpqZkRZYXF6SVZFOFVjYmwzdHRKSUlObTI4UndRTUk1ME56bll6Y1lZR1lXMlJCQkE0Um54cXJ5bGRWNExPOUhBY1FXOVNvc21TeEo1cXE0?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "snippet": "Department Of Government Efficiency (DOGE) Price Today | DOGE to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "The Indicator That Called DOGE’s Collapse Just Flashed a Rare Buy Signal: Analyst | Crypto Bits dogecoin - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVW80LU5EWkYtaV81Y1l4SjRwVVFBQVpsTGJUUDlrOHVIRXNiMFZYUkVsamZWRVlfdmJwV2ZuVGhaVFlNZUNSQlZQYTc4OUczR2U0aUFtUU9jUDJianpqb25hRUVFcldteWpRUFFGbGJZTGVLUzhMTzR0T01OVm9HNXQ4NTEtd0VwUkNIVUR2OTQ1UjNaREZnTFRHQ0VGNDI5cHJHcXF4eHpQWFFMTnVkUzF0cHlVM1JN?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "snippet": "The Indicator That Called DOGE’s Collapse Just Flashed a Rare Buy Signal: Analyst | Crypto Bits dogecoin&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "DOGE Is Gone: Trump and Musk’s Federal Overhaul Quietly Collapses 8 Months Early - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fWXNGMlpKMmI1NUZjVFpHVjlBTlJtR2xLLVpQSVNoYjF3VldVTllqNlREaHMtTlIzY1VRWFVKS0NyTkIwRU5UU3RPV2FEeHRQZjJiN01UMFVfY1AtUDk1Q1F2dGY0X2cx?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Sun, 23 Nov 2025 08:00:00 GMT",
+      "snippet": "DOGE Is Gone: Trump and Musk’s Federal Overhaul Quietly Collapses 8 Months Early&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Dogecoin Price Prediction Stalls Below $0.10 After Musk Exit While Pepeto Offers What DOGE Never Had - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Va3ZBMmhxamdlb3ZoeEN1a0tDR29reVRrNHpIZ1ZhT0xVcjI5VlF0dXZMbmU1c0xjV1JLbEFNSGVzaFlGNC1R?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "snippet": "Dogecoin Price Prediction Stalls Below $0.10 After Musk Exit While Pepeto Offers What DOGE Never Had&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Department Of Government Efficiency (dogegov.com) price today, DOGE to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaDcxOFdmNG11VW5taFAyaTRwa0hYeFBlSGlaQmRzTUdHTGt6NWVocFBmZHllZUxKLWRqRXRJN2tJTnk2ZkJIblhyQmJBc3NxYzZmSzdoS25FRDZIM25jQzZGSm9WMDAwWHJBR3VFUUQ1VFNweGs5M0FzZnhYcVZQQlRGRjJiQQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 21 Aug 2024 14:31:25 GMT",
+      "snippet": "Department Of Government Efficiency (dogegov.com) price today, DOGE to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Department Of Government Efficiency (dogegov.com) Price Prediction , DOGE Price Prediction , Price Prediction 2025 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdFBremgxczRXU1lxTS1Va2tYYnFNM1l4aHo2VXY3cllWU0t3dG94WXNwemR1cHFFX0xqUDlZM3pVeGExRVB1VVh4dWNISGJXOTc4c3dJSXJheFhQbzFYWlI2NFJwUWd5dldBTXY5WVJCd3NVblo0RXE0LTcxYlcxak5fX2w5Y1VGdG1XWC1yamQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 16 Jul 2025 14:40:20 GMT",
+      "snippet": "Department Of Government Efficiency (dogegov.com) Price Prediction , DOGE Price Prediction , Price Prediction 2025&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Musk’s DOGE agency launches official website with Dogecoin logo - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CTzNPNmRQa19YY0lPa1NVMVRtWHViSW1HcC1GOHhfaXhfUktnSklzdVFlUE9yYUY1YXFlNHVjVlRsQ0JpNFpDLUZYQ3hFRzhENm9QY0lSeFhKWlNHNHfSAWNBVV95cUxQVXpkbHJFZHU2Ty1SVFU5dm1LNWxSdkN5UE44T2Z3dG9SUWhsOFBuZENwZ2draFcyS0MzV0lpckw3Tnd2QUlsSldxYXM2M3NBZFR0am1SWTNYZkRZVXptQi1GRmc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 21 Jan 2025 08:00:00 GMT",
+      "snippet": "Musk’s DOGE agency launches official website with Dogecoin logo&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Trump considers giving back 20% of DOGE savings to Americans - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oaXFpWWloU0tKM3cwVTlvSU5KSG9fS3pibXF6WlpUNjJuZzlDZHNfU0ZKWlo2WTY5T0thVnJ2cUtEeUlKT3F0MjVpMllTZmNnYTROODlwWnB1enNPa2fSAWNBVV95cUxNdjlaTjhmempMUWV2VVVBaHZ3WjNBMUdKb0dpaHNweS12cjN6SEZoVEVrU1NWX3ZPZFdIRy00cEZzenZCam0tWkFOUzZwY3BDSmZFNXhwSExDSVFld2RucXJXMUU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 20 Feb 2025 08:00:00 GMT",
+      "snippet": "Trump considers giving back 20% of DOGE savings to Americans&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Elon Musk's DOGE is considering blockchain adoption in gov't efficiency push: Bloomberg - The Block",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWEdhV0J4dDBnVmRLTk52RGtZNVVCYndqTUIxQlVSVGg0SUJBUzNQckdYNVQ5bGhRdVNWNEVRS0RaU1ljMnQyVDZlTHdMbXgxVTI0b2xTc2VoWDl2azhJRnlUbFVxeURUUXJZeXlKSVV3RTNsTHhycm9XMktsclY0TlZLdGpBQTlLZk51RlNfdDR4dWxjVGlOak1vM0tKZThjSEV5alRsMzhWa280TW5GVHNiSmRiYWRHdXBnaw?oc=5",
+      "source": "The Block",
+      "publishedAt": "Sat, 25 Jan 2025 08:00:00 GMT",
+      "snippet": "Elon Musk's DOGE is considering blockchain adoption in gov't efficiency push: Bloomberg&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "How Elon Musk, Vivek Ramaswamy and Dogecoin co-creator Billy Markus reacted to Trump's 'DOGE' announcement - The Block",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXRockdueXhCTGM1clFjbk9SSnU4dm9JQWNOZDJoZ2FIdkFDYXplYXEyN2gwdEh1V0ljRTNRT0FaQjVrYnpySGw3T2l4eWt6RFlleXZRandVQUFxOS1naXgwSy04N0xrRm4tVnU4TnhmWjA5UDQ2MFI4cXBNSGljR3gxVENBb2RRb2E1VThfdXF1emFqYjI5THNhck84Q0E4cmVGUzl1X010bVZLUktYU3NwZUs0clpScEJ0Q0dtWEZnVy1KU2hSM1AyaWtCSllsaVdDaQ?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 13 Nov 2024 08:00:00 GMT",
+      "snippet": "How Elon Musk, Vivek Ramaswamy and Dogecoin co-creator Billy Markus reacted to Trump's 'DOGE' announcement&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Dogecoin Price Surges 10% as Elon Musk’s 'Department of Government Efficiency' Gains Traction - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLVJpT3A5QmZtMlZ4SVhyWGRiN2U1am5sMmlLTmhBRWh1UVZiRF9rM2dnMHJ1MlA4aWJPUDAyM3k1MFptUDdDeVZncUJhbWRkVzZGdjVNY21EWUpQT3M4Uk5KRk5pLUFIUTY0cDhLYTByZGwzRXk2SDJHdW91dlY5aGp1aFQ3bzlIbS1fLWkxeTJWazdwMkV5WlFDS1lQd0lMNzdrMVFKYU1kLWRoUWtPdG9vc29mUkIyZWNGZmFZX3d5Q1o3S0gzQkdTdGFtZw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 16 Oct 2024 07:00:00 GMT",
+      "snippet": "Dogecoin Price Surges 10% as Elon Musk’s 'Department of Government Efficiency' Gains Traction&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Dogecoin Price News: Foundation Purchases 10M Tokens as Part of New DOGE Reserve - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTVnZHdqVC1qbFJDRTJaQkhqSEw0amdSdU56elVqcmVmUTJrTXl3NDBtQkhtZHRrSUlka245RWlkdFdBdWg4Y0VETjNTa2djV25sNTlIM00xaDRfVHh2S1pXWVItZkFvY3RGUlhyeE5xa2UxQmthYmR5dTBXMHFRajZoSmExQnZBdEg2cUI0S1lVTDRpVVFleHl6cVBjNFJvcDdOS08wTWVKbms5OURSbUtn?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 25 Mar 2025 07:00:00 GMT",
+      "snippet": "Dogecoin Price News: Foundation Purchases 10M Tokens as Part of New DOGE Reserve&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "IRS' Crypto Leads Are Leaving the Agency After Accepting DOGE Deals - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXk4ZDVzdTJ6c2xJTlYwaTdUbHNnRVRqeXlzQWpsMnMyZTlLdlZPTnQwaFhPbHI4TElLZTJVNm1UYU0wUUJUT2JMMUM2QkQzTkdOUzQ2cEdSR0hKbVpGOEc4bm5VZndjakhLdmhpQXY2RlZZbU5kdXVmNVZhN1hCcmJRRVZEb2QtUGVXdjQyVU9IaFFpMjBzU2ktdjdGQkJjNnBXTEhwZ21GMzVucGc?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Fri, 02 May 2025 07:00:00 GMT",
+      "snippet": "IRS' Crypto Leads Are Leaving the Agency After Accepting DOGE Deals&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/unbound-science?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

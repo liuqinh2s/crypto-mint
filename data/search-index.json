@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-06-30T11:19:02.916Z",
+  "updatedAt": "2026-06-30T11:33:54.593Z",
   "results": [
+    {
+      "token": "KRAV",
+      "requestedInput": "RAVE",
+      "name": "Rave",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T11:33:46.089Z",
+      "latestPath": "data/results/KRAV-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T11:33:40.750Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T11:33:41.555Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T11:33:41.334Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "DOGE",
+      "requestedInput": "CIEN",
+      "name": "Department Of Government Efficiency",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T11:33:54.591Z",
+      "latestPath": "data/results/DOGE-latest.json"
+    },
     {
       "token": "DRIFT",
       "requestedInput": "DRIFT",
@@ -22,26 +72,6 @@
       "latestPath": "data/results/NMR-latest.json"
     },
     {
-      "token": "KRAV",
-      "requestedInput": "RAVE",
-      "name": "Rave",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:18:55.238Z",
-      "latestPath": "data/results/KRAV-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:18:55.987Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "OMIKAMI",
       "requestedInput": "AMAT",
       "name": "AMATERASU OMIKAMI",
@@ -60,26 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T11:19:02.914Z",
       "latestPath": "data/results/KIRBY-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:03:28.990Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:03:27.691Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "AVAV",
@@ -990,16 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T02:19:16.216Z",
       "latestPath": "data/results/1000SATS-latest.json"
-    },
-    {
-      "token": "DELL",
-      "requestedInput": "DELL",
-      "name": "Dell",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:19:16.237Z",
-      "latestPath": "data/results/DELL-latest.json"
     }
   ]
 }
