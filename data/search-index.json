@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-30T05:56:28.559Z",
+  "updatedAt": "2026-06-30T06:03:33.768Z",
   "results": [
+    {
+      "token": "TRADOOR",
+      "requestedInput": "TRADOOR",
+      "name": "Tradoor",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T06:03:33.766Z",
+      "latestPath": "data/results/TRADOOR-latest.json"
+    },
     {
       "token": "HOU",
       "requestedInput": "OUST",
@@ -8,8 +18,28 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T05:56:27.049Z",
+      "generatedAt": "2026-06-30T06:03:31.443Z",
       "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T06:03:31.502Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T06:03:30.989Z",
+      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "AMT",
@@ -30,16 +60,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T05:56:28.557Z",
       "latestPath": "data/results/WET-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T05:56:25.023Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "PROM",
@@ -260,16 +280,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T03:18:49.498Z",
       "latestPath": "data/results/ARQQ-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T03:18:51.442Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "SNOW",
@@ -990,16 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-29T01:02:57.726Z",
       "latestPath": "data/results/DYDX-latest.json"
-    },
-    {
-      "token": "UNH",
-      "requestedInput": "UNH",
-      "name": "UNH",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T00:47:53.738Z",
-      "latestPath": "data/results/UNH-latest.json"
     }
   ]
 }
