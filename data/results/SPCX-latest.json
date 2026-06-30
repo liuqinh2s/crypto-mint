@@ -1,0 +1,367 @@
+{
+  "token": "SPCX",
+  "requestedInput": "SPCX",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T15:04:39.261Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SPCX",
+    "name": "SPCX",
+    "generatedAt": "2026-06-30T15:04:24.804Z",
+    "summary": "SPCX是Solana上Raydium的Meme代币，与SpaceX IPO叙事相关，近期因Binance、Bitget等交易所上线Pre-IPO期货而暴涨，但链上流动性极低，市值虚高，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [
+      "SpaceX IPO预期及SPCX作为潜在股票代码的叙事",
+      "Binance、Bitget等CEX上线SPCX Pre-IPO期货，带动投机情绪",
+      "Hyperliquid等DEX上SPCX永续合约交易量巨大"
+    ],
+    "latestNews": [
+      {
+        "title": "SpaceX Stock Price: SPCX Price, Dynamics, and Tokenized Markets - Coinspot.io",
+        "impact": "利好",
+        "reason": "报道SPCX价格动态，吸引关注"
+      },
+      {
+        "title": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO - Decrypt",
+        "impact": "利空",
+        "reason": "代币化股票发行被取消，SPCX仅靠叙事支撑"
+      },
+      {
+        "title": "Solana price surges 3% as bulls challenge bears after SPCX token debut - crypto.news",
+        "impact": "中性",
+        "reason": "SPCX上线带动Solana短期上涨，但关联性弱"
+      },
+      {
+        "title": "SPCX Price On Fire: Will Elon Musk Drive More SPCX Demand? - CryptoRank",
+        "impact": "利好",
+        "reason": "马斯克相关叙事推动需求预期"
+      },
+      {
+        "title": "Buy SpaceX Shares on Solana From Day One: SPCX Live Soon - Coinpedia",
+        "impact": "利好",
+        "reason": "宣传SPCX作为购买SpaceX股份的渠道"
+      },
+      {
+        "title": "How to sell SpaceX (Derivatives) (SPCX) via a crypto wallet - Bitget",
+        "impact": "中性",
+        "reason": "教程类内容，无实质影响"
+      },
+      {
+        "title": "Binance Tops Market With $5.7B in SPCX Pre-IPO Futures Volume - HOKANEWS.COM",
+        "impact": "利好",
+        "reason": "Binance期货交易量巨大，显示市场热度"
+      },
+      {
+        "title": "Bitget launches SPCXUSDT pre-IPO perpetual futures: Trade the SpaceX IPO narrative early - Bitget",
+        "impact": "利好",
+        "reason": "更多交易所上线期货，增加曝光"
+      },
+      {
+        "title": "TradeXYZ’s SPCX perpetual contract hits $300M in volume ahead of NASDAQ debut - Bitget",
+        "impact": "利好",
+        "reason": "交易量增长，投机活跃"
+      },
+      {
+        "title": "Bloomberg Analyst: Musk May Use SPCX as the Stock Ticker for SpaceX IPO - Bitget",
+        "impact": "利好",
+        "reason": "分析师猜测SPCX可能成为正式股票代码"
+      },
+      {
+        "title": "Notice on SpaceX (SPCX) on Binance Stocks - 2026-06-12 - Binance",
+        "impact": "利好",
+        "reason": "Binance股票板块上线SPCX，增加可信度"
+      },
+      {
+        "title": "Binance Futures Will Launch USDⓈ-Margined SPCXUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-05-21) - Binance",
+        "impact": "利好",
+        "reason": "Binance期货上线，推动交易"
+      },
+      {
+        "title": "Binance Futures Will Adjust The Contract Size of USDⓈ-Margined SPCXUSDT Pre-IPO Perp (2026-06-10) - Binance",
+        "impact": "中性",
+        "reason": "合约调整，技术性操作"
+      },
+      {
+        "title": "Important Notice: Binance Wallet SPCXx IPO Campaign Cancellation and Next Steps - Binance",
+        "impact": "利空",
+        "reason": "Binance取消SPCX相关活动，显示不确定性"
+      },
+      {
+        "title": "SpaceX IPO fuels $1.4 billion trading frenzy on Hyperliquid as SPCX perp becomes HIP-3's biggest market - The Block",
+        "impact": "利好",
+        "reason": "Hyperliquid上交易量巨大，市场狂热"
+      }
+    ],
+    "fundamentals": [
+      "SPCX是Solana链上Raydium的Meme代币，无实际项目支撑",
+      "总供应量和流通量未知，市值高达999亿美元，极不合理",
+      "链上流动性为0，无法交易，价格可能由CEX期货价格引导",
+      "代币创建于2026-05-29，距今仅一个月",
+      "无官网、白皮书或团队信息"
+    ],
+    "marketRead": [
+      "当前价格0.09999美元，市值约999亿美元，但链上流动性为0，价格无实际交易支撑",
+      "24小时交易量约14.6万美元，但流动性为0，说明交易可能发生在CEX期货市场",
+      "无历史价格数据，无法判断趋势",
+      "市值与流动性严重不匹配，高度可疑"
+    ],
+    "risks": [
+      "链上流动性为0，无法在DEX买卖，存在无法变现风险",
+      "市值虚高，可能为操纵或数据错误",
+      "无基本面支撑，纯靠叙事炒作",
+      "CEX期货交易与链上代币可能脱钩，代币本身无价值",
+      "项目方匿名，存在Rug Pull风险",
+      "新闻中提及代币化股票发行被取消，叙事可能消退"
+    ],
+    "watchlist": [
+      "链上流动性是否增加",
+      "CEX期货价格与链上价格是否收敛",
+      "SpaceX IPO实际进展及股票代码确认",
+      "Binance等交易所是否下架相关产品"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener和新闻聚合，链上流动性为0，市值数据可能错误",
+      "新闻主要来自Bitget、Binance等交易所公告，存在利益相关",
+      "无链上交易数据，无法验证实际交易活动"
+    ]
+  },
+  "profile": {
+    "id": "BopxphZiNHGxS6TkQm3hXTbQqcSnCqA2LmCcyH9fcQgG",
+    "symbol": "SPCX",
+    "name": "SPCX",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/85pxrp7qhrasdtffudv2uk5huwoufqcvrq7mu6zmshfj",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.09999,
+    "marketCapUsd": 99990023028,
+    "fullyDilutedValuationUsd": 99990023028,
+    "totalVolumeUsd": 145902.7,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-05-29",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "85pXrp7qhrASdTFfUDv2Uk5hUWouFqCVRq7mU6ZMShfJ",
+    "baseTokenAddress": "BopxphZiNHGxS6TkQm3hXTbQqcSnCqA2LmCcyH9fcQgG",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": null,
+    "pairUrl": "https://dexscreener.com/solana/85pxrp7qhrasdtffudv2uk5huwoufqcvrq7mu6zmshfj",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "SPCX/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "85pXrp7qhrASdTFfUDv2Uk5hUWouFqCVRq7mU6ZMShfJ",
+    "pairUrl": "https://dexscreener.com/solana/85pxrp7qhrasdtffudv2uk5huwoufqcvrq7mu6zmshfj",
+    "lastPrice": 0.09999,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 145902.7,
+    "liquidityUsd": null,
+    "fullyDilutedValuationUsd": 99990023028,
+    "marketCapUsd": 99990023028,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/85pxrp7qhrasdtffudv2uk5huwoufqcvrq7mu6zmshfj",
+    "pairAddress": "85pXrp7qhrASdTFfUDv2Uk5hUWouFqCVRq7mU6ZMShfJ",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "BopxphZiNHGxS6TkQm3hXTbQqcSnCqA2LmCcyH9fcQgG",
+      "name": "SPCX",
+      "symbol": "SPCX"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.09999",
+    "priceUsd": "0.09999",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 7,
+        "sells": 7
+      }
+    },
+    "volume": {
+      "h24": 145902.7,
+      "h6": 40091.99,
+      "h1": 20002.99,
+      "m5": 0
+    },
+    "priceChange": {},
+    "fdv": 99990023028,
+    "marketCap": 99990023028,
+    "pairCreatedAt": 1780051540000
+  },
+  "news": [
+    {
+      "title": "SpaceX Stock Price: SPCX Price, Dynamics, and Tokenized Markets - Coinspot.io",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFVmeHlyZDB6Tk1Ga0tNQ2tUQWpLZHpvTk1fWjZDaU14QlBrR0tPV0JLX2g3bENZRzVPd3FvVUdpa3lxbU9jOE4xVDQtZWxmXzZVWkNUTjlUcjk3a0dJRzNjWFo0UmNpTlFiU09Vdm8tZDUzQUt1SGlFeGYzRnpudlZ5bGp5ZjBlN0pVd0FSNWlQZF8wLVQ0?oc=5",
+      "source": "Coinspot.io",
+      "publishedAt": "Sat, 27 Jun 2026 08:02:05 GMT",
+      "snippet": "SpaceX Stock Price: SPCX Price, Dynamics, and Tokenized Markets&nbsp;&nbsp;Coinspot.io"
+    },
+    {
+      "title": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmMtZktRd09KTE9la0QwSEhvellzTUNlUjhEc1A5U05weHJBS0E2eTBHVHlxaDR2clZ4RUFudDVra1MtLUhYQnJBLUUwOGlJYjZUNnMyWDgyV1dkcFViQlhmc1ZmNlBsNUpWR3pKbGs5TVB6WnZMZzRRNjNUekVIVmRZaDBNR0loaHNlUTFCYVFYeDdjS2VpZw?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "snippet": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "Solana price surges 3% as bulls challenge bears after SPCX token debut - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yeHBETl9vdFY5NmJ5ZGRMd29NVHB4UEM0UDlfOHl0REpqLTlUd2JULVMwNnF2NkJaYjY2ZzJHSG1UU196RDVSLWJ3OVpadmNrc29sajEyWHVXSnJWVVVDSjBUaFAzR3FBQVNKWE1ZR2t4LVZtazFZR2lUbmZ3QQ?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Fri, 12 Jun 2026 17:43:51 GMT",
+      "snippet": "Solana price surges 3% as bulls challenge bears after SPCX token debut&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "SPCX Price On Fire: Will Elon Musk Drive More SPCX Demand? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDZ2Q1ZySEtHeldoM2VucEY3bEhKbkRNc05OUVlTS2pjeUJtckpYT243Sm1fNjJQeURaRXZhMERWa0o1NUFzXy1HalllaWdYVkJkNDlQV0wzdGpaM2p2SHc2YTJpT3hCSlplLTV3bVpqWmtxejB6NHR2bUotc0h1dG8zS1J4V3M3azA0VG5BZHhTQUsxNUJYS05n?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "snippet": "SPCX Price On Fire: Will Elon Musk Drive More SPCX Demand?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Buy SpaceX Shares on Solana From Day One: SPCX Live Soon - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0Z0b0tXajQwNlc1T1R6LTZNV2tCVkVFNHhtc2VBQ2xzQ1VZVjB4SmtnY3FKY3J5M1Q5QWMwdjU5UlVxa2prR096UHdCX2Nuc2NHQ2V0WU5Nd0NCWGZ2NHNXYk14T3d2dmw5dEZnUlREanEwNUN0cEtfNWlYaklBMnFVZ0pqMWd3TUhR0gGQAUFVX3lxTE4yUkxqSk9pSW4ya0xtVWtmREtkTlN4czQteWFJdFIzX08yQ3dFMU1JbFdDUVdlT1RCellaUjdjb25qQVQzWU5wNnQ1VFdUMlg3WlNDd2p0aTY5dHl2V29NQ0NIal9RMFpTSklwT1lOeU15WjV0cEdsV19ZblhBbk94SjA1ajNLWTJuYWtYWE1pRA?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "snippet": "Buy SpaceX Shares on Solana From Day One: SPCX Live Soon&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "How to sell SpaceX (Derivatives) (SPCX) via a crypto wallet - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jbjRCSUwyX1c2b1JZbFdCTWJSeWdBcGI2Q0M5OFZTNVNINHBPV1pjU25URjZ1REV1alRoa2szbXVDNUNCS0UwR1FwSnFrRldmSEppRV8xZlZ0aVZ5WHhOYUhxSk11SzBQM2JoSk0tcjI1Q2xWd1N3?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 30 Jan 2026 19:43:42 GMT",
+      "snippet": "How to sell SpaceX (Derivatives) (SPCX) via a crypto wallet&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Tops Market With $5.7B in SPCX Pre-IPO Futures Volume - HOKANEWS.COM",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PMWhlZWFZek01TUdBOWFBTDBXUU9UV083Zzhac2diQ1otQmhEWGVaQ0FVNlR6Q3J0UUxmWWNZOW9fR1YzdU1nb2ZTME43d3ZKTUVDUlJEdWp3amZNQVBKQThLbmx3QWNEWXJtWHNpdmk3TUtRek1yTmM3QVBSS3M?oc=5",
+      "source": "HOKANEWS.COM",
+      "publishedAt": "Fri, 19 Jun 2026 08:48:00 GMT",
+      "snippet": "Binance Tops Market With $5.7B in SPCX Pre-IPO Futures Volume&nbsp;&nbsp;HOKANEWS.COM"
+    },
+    {
+      "title": "Bitget launches SPCXUSDT pre-IPO perpetual futures: Trade the SpaceX IPO narrative early - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1idlBHb2lvSDNycDFfZkxCLUNlYXAxMHNMS1paZ05GY2xOQlgxWWJpbnNLa1Vqc3JlVHFnaE0zOE95ZDZaV2l4RUpBVnNNcGMyWTN2dDkxcWhmOFpJX3c?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
+      "snippet": "Bitget launches SPCXUSDT pre-IPO perpetual futures: Trade the SpaceX IPO narrative early&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "TradeXYZ’s SPCX perpetual contract hits $300M in volume ahead of NASDAQ debut - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XcEplelp6cnU4NDJPa3JXRC1QZTR0UDJqTkMtR3NDaXYzdGtta2ZVa0dMY2Y2QmJCS2VuZHQ1Yl9fcDdkaUN2dTZ3QXhtMXZiZS1LUENIY1NiOUdaUkHSAWNBVV95cUxOVjhyUndRanhXQ0NKRHpNTU9VNko1UVVkcFJwRHRVYkhqczc4RVYxVXZYS3phRkpIUHR1djRqQjdZNmN2NDhJcU0weXJhZVU1LVJ2TU1hU1U1WENMU3k3dDBWTDA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "snippet": "TradeXYZ’s SPCX perpetual contract hits $300M in volume ahead of NASDAQ debut&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bloomberg Analyst: Musk May Use SPCX as the Stock Ticker for SpaceX IPO - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JSFlTbjktS2pEaXFjNUFXRjc4YTBDU29uNzVGNi1senZ0QjkzU2NhcTBDM0plLXJGOUp5elFTVllwMnZhbXRwZk83TU11X24ySE5OUGpreWVPVDF5WnfSAWNBVV95cUxPc0xjYkxWZmVpMGlSSjg2TDgtSGJQdUV6NExEak96bDF2T2dLTW1LeVVNSElSTDk0LTNVVl9Kc1hHVkhlZHBvWFp2My1vVlNqcUJMa1pvdVNnUFdSTm91SDdRcG8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "snippet": "Bloomberg Analyst: Musk May Use SPCX as the Stock Ticker for SpaceX IPO&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Notice on SpaceX (SPCX) on Binance Stocks - 2026-06-12 - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR0VNdElvOEpKa1lPOXBUZ2E2ODJUVGJyNVhuOUVQSXk2ZWx2QmpDdk82VXVsQTdLZkY1TmwyMUpvTndaMDNxd2xQbWN1LWNyMUplS0hvNXdwRlEwaDYzNmR1aDlLaTQtSzk0Znp4MmV4djFtTXJ6LS1nWDl1MTVVNkFmR00yQ18zcFNtWVJ5S1Q?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "snippet": "Notice on SpaceX (SPCX) on Binance Stocks - 2026-06-12&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Futures Will Launch USDⓈ-Margined SPCXUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-05-21) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV25xclpXNGdXbFJRVTBvVjFoTGplRGZfTE1oU2loZWgyNVZUMlU0bDI1V2VhOFlWQlhFblBGbGdOYlR5M1M1Q2lYLWtuN1pHQmxHcVBTOW0yU01CQmpwU3diaWJnUlFQMGZ6T0Z0S1ZfdE5CU0ZIQzI5VE4ycVBpcTFPUXJMZjRNVUZBeFh3UXg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
+      "snippet": "Binance Futures Will Launch USDⓈ-Margined SPCXUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-05-21)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Futures Will Adjust The Contract Size of USDⓈ-Margined SPCXUSDT Pre-IPO Perp (2026-06-10) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObnl6MnBvRGlac1B4ZWN3VzMxX013X2xiX09OQ0gybHRaUEVMRi1NNDEzSE9MUlRaajBmb3ZtWUdlSzQwbWFGbE9CN2stRjd1dnJNNk1DQ0VQb2lrNXhtdXZEa3gxODZjS3VkTGZxUGN0NGtoSGYzYWx4NmpTWnZMbU16TmZ5YnhoTWl4a2VURWg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "snippet": "Binance Futures Will Adjust The Contract Size of USDⓈ-Margined SPCXUSDT Pre-IPO Perp (2026-06-10)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Important Notice: Binance Wallet SPCXx IPO Campaign Cancellation and Next Steps - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNejB3SW11R3FkX1hkanVnelRRTU4yVDRLMmJKLTFzZERVaW51djVuYkxHMHI3YnREVFF2V0h6UTNIQlMxYzEzcnlrM0JONDY1aGRVSVVEN293a2txN3ktNFZWYXRNa0NFVEpLOXJjSWoxZnRnaUgybll0ckwxb3ZKUV9aYUxtc1J6M04yc0FhZmQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "snippet": "Important Notice: Binance Wallet SPCXx IPO Campaign Cancellation and Next Steps&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "SpaceX IPO fuels $1.4 billion trading frenzy on Hyperliquid as SPCX perp becomes HIP-3's biggest market - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNejNoUUlvaGNzb2M5eFBsYkNISHRsMkdNZllYUVFJN1p4LXpQQzg4dlpVU0xocVplWFRFSm9UdU9KQy1zbFk4dGlEQlRyWUxFNFdBSDUtZVJ2QXJtVWVkSGl4dFhXOWg2T0p1MlhjZ1Y4SHdEVnJFWG42Rk85WXdKSEtsbUg0akh4dDBtNWdEVHVwNnItWUNzc3VUTHVWSGNvNVloTTdrRS1WdUQ3Sk5fQVhseTNERWxn?oc=5",
+      "source": "The Block",
+      "publishedAt": "Mon, 15 Jun 2026 07:00:00 GMT",
+      "snippet": "SpaceX IPO fuels $1.4 billion trading frenzy on Hyperliquid as SPCX perp becomes HIP-3's biggest market&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/spacex-backpack-securities?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}
