@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-30T21:33:20.411Z",
+  "updatedAt": "2026-06-30T21:48:08.683Z",
   "results": [
+    {
+      "token": "DYDX",
+      "requestedInput": "DYDX",
+      "name": "dYdX",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T21:48:08.680Z",
+      "latestPath": "data/results/DYDX-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T21:48:02.814Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:48:03.221Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T21:48:04.047Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
     {
       "token": "TAC",
       "requestedInput": "TAC",
@@ -10,26 +50,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T21:33:20.409Z",
       "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T21:33:19.003Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:33:20.236Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "HOU",
@@ -70,16 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T21:18:19.168Z",
       "latestPath": "data/results/AMD-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:18:26.123Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "TOKABU",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T15:48:43.856Z",
       "latestPath": "data/results/PWR-latest.json"
-    },
-    {
-      "token": "OBS",
-      "requestedInput": "NBIS",
-      "name": "OpenBiSea Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T15:48:48.974Z",
-      "latestPath": "data/results/OBS-latest.json"
     }
   ]
 }
