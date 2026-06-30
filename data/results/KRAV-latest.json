@@ -1,0 +1,199 @@
+{
+  "token": "KRAV",
+  "requestedInput": "RAVE",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T09:48:06.378Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "KRAV",
+    "name": "Rave",
+    "generatedAt": "2026-06-30T09:48:00.040Z",
+    "summary": "KRAV是Base链上的去中心化永续合约交易所，支持用任意山寨币作为抵押品交易BTC。近期价格下跌，流动性低，成交量极小，市场关注度低。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无买入逻辑，无需设置失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Rave (KRAV) Price Today, News & Live Chart | Forbes Crypto Market Data",
+        "impact": "中性",
+        "reason": "仅为价格数据展示，无实质内容"
+      },
+      {
+        "title": "Rave Price, KRAV Price, Live Charts, and Marketcap: krypto rave, kryptowaluta rave, rave altcoin",
+        "impact": "中性",
+        "reason": "Coinbase页面，但无交易对，信息陈旧"
+      }
+    ],
+    "fundamentals": [
+      "项目为去中心化永续合约交易所，支持山寨币抵押做多/做空BTC",
+      "代币总供应量100亿，流通量8.54亿，流通市值约113万美元",
+      "FDV约113万美元，与市值相同，说明无未解锁代币",
+      "ATH跌幅达98.23%，价格处于极低位"
+    ],
+    "marketRead": [
+      "24小时交易量仅3.92美元，流动性极差",
+      "Raydium上RAVE/USDC池流动性474万美元，但交易量极低，可能存在虚假流动性",
+      "7日跌幅9.6%，30日跌幅24.1%，持续下跌趋势"
+    ],
+    "risks": [
+      "交易量极低，几乎无市场深度，买卖价差大",
+      "项目知名度低，社区关注度低（watchlist仅1744人）",
+      "代币价格持续下跌，无反弹迹象",
+      "合约风险：永续合约交易所本身存在智能合约风险",
+      "新闻面空白，缺乏近期催化"
+    ],
+    "watchlist": [
+      "关注是否有交易所上线或做市商引入",
+      "观察交易量是否出现显著放大",
+      "项目方是否有新进展或合作公告"
+    ],
+    "sourceNotes": [
+      "数据来源CoinGecko和DexScreener，但交易量数据可能不准确",
+      "新闻均为2024年旧闻，无近期信息"
+    ]
+  },
+  "profile": {
+    "id": "krav",
+    "symbol": "KRAV",
+    "name": "Rave",
+    "categories": [
+      "Base Ecosystem"
+    ],
+    "homepage": [
+      "https://krav.trade/",
+      "https://swap.krav.trade/"
+    ],
+    "description": "What is the project about? Krav is a decentralized perpetual crypto quanto exchange What makes your project unique? Krav is the first-ever decentralized perpetual quanto exchange. At Krav, you can leverage BTC trades using any altcoin as collateral, and have the gains and losses settled in altcoins. What innovations does Krav offer? Catering to Traders and Liquidity Providers (LPs): Project Krav's unique mechanism allows traders to utilize altcoins to open long or short positions on Bitcoin (BTC), catering to a broad spectrum of trading strategies. Meanwhile, LPs have an opportunity to earn transaction fees each time traders modify their positions, offering a potential for steady income. Enabling Strategic Trading with Limit Orders: The ability to set limit orders offers users enhanced control over their trading strategies. The added layer of execution fees attached to limit orders means traders can further fine-tune their strategies to optimize potential profits. Risk Mitigation Measures: Krav incorporates critical risk management tools to safeguard the interests of its users. The funding fee mechanism balances the distribution of long and short positions, mitigating systemic risk",
+    "marketCapRank": 2712,
+    "currentPriceUsd": 0.00132023,
+    "marketCapUsd": 1127690,
+    "fullyDilutedValuationUsd": 1127690,
+    "totalVolumeUsd": 3.92,
+    "priceChange24hPct": null,
+    "priceChange7dPct": -9.60336,
+    "priceChange14dPct": -6.06689,
+    "priceChange30dPct": -24.10043,
+    "athUsd": 0.074706,
+    "athChangePct": -98.23277,
+    "circulatingSupply": 854164133.8607213,
+    "totalSupply": 854164133.8607213,
+    "maxSupply": 10000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 1744,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "RAVE/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "72Vpp9oREJxomx8yDjjoAWXfUgaMsNdPzyNx8e4He7wd",
+    "pairUrl": "https://dexscreener.com/solana/72vpp9orejxomx8ydjjoawxfugamsndpzynx8e4he7wd",
+    "lastPrice": 22.46,
+    "priceChange24hPct": -0.04,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 125937.7,
+    "liquidityUsd": 4741061.79,
+    "fullyDilutedValuationUsd": 6740753,
+    "marketCapUsd": 6740753,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/72vpp9orejxomx8ydjjoawxfugamsndpzynx8e4he7wd",
+    "pairAddress": "72Vpp9oREJxomx8yDjjoAWXfUgaMsNdPzyNx8e4He7wd",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "62PZsoMrcv2JesVfPghDutuKtPjm83owSWQBkw8bMY44",
+      "name": "RAVE",
+      "symbol": "RAVE"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "22.4691",
+    "priceUsd": "22.46",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 7,
+        "sells": 7
+      }
+    },
+    "volume": {
+      "h24": 125937.7,
+      "h6": 40177.99,
+      "h1": 20088.99,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.04
+    },
+    "liquidity": {
+      "usd": 4741061.79,
+      "base": 211001,
+      "quote": 32.9998
+    },
+    "fdv": 6740753,
+    "marketCap": 6740753,
+    "pairCreatedAt": 1776505895000
+  },
+  "news": [
+    {
+      "title": "Rave (KRAV) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZSWVvelJDYXJUakdudml4bUsySHMtY0JBYmlTcTJScS1zTk1FZUhqN0wxSlUtOWJiUlJKVXlWc1J4czlnZUs2VE9FeVJYQ2xwUWtjWFBndjYtU3MweDZaTWdBMnprUQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Sat, 21 Dec 2024 21:04:13 GMT",
+      "snippet": "Rave (KRAV) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Rave Price, KRAV Price, Live Charts, and Marketcap: krypto rave, kryptowaluta rave, rave altcoin - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82aEJEQXNjazVWZGk5QTNZTlUtbGlHMVNGWjFsOW1OSDUtcmF6d3pOVDBqaHFpVG12ZTlINVZkM2VtX1dyd21FNmhrbGZjNFU?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Wed, 24 Apr 2024 01:14:10 GMT",
+      "snippet": "Rave Price, KRAV Price, Live Charts, and Marketcap: krypto rave, kryptowaluta rave, rave altcoin&nbsp;&nbsp;Coinbase"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned RAVE for KRAV; DEX profile ignored to avoid token mix-up."
+  ]
+}

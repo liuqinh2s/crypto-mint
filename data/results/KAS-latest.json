@@ -1,0 +1,315 @@
+{
+  "token": "KAS",
+  "requestedInput": "KAS",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T09:48:10.265Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "KAS",
+    "name": "Kaspa",
+    "generatedAt": "2026-06-30T09:48:00.204Z",
+    "summary": "Kaspa 是采用 BlockDAG 共识的 PoW 公链，近期因 Toccata 分叉、Kaskad DeFi 上线等催化上涨，但链上流动性极低（仅 880 美元），实际交易量极小，价格发现不充分。基本面扎实但短期炒作成分大，建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若链上流动性显著提升或出现真实交易量，可重新评估。"
+    },
+    "catalysts": [
+      "Toccata 分叉升级（2026年5月）",
+      "Kaskad DeFi 平台即将上线（2026年5月23日新闻）",
+      "Kaspa 生态发展（KSPR 铭文、空投等）",
+      "市场对 PoW 公链的叙事关注"
+    ],
+    "latestNews": [
+      {
+        "title": "Kaspa Coin Price Prediction 2026, 2027 – 2030: Will KAS Hit $0.35?",
+        "impact": "中性",
+        "reason": "价格预测类新闻，无实质新信息，但反映市场关注度。"
+      },
+      {
+        "title": "Kaspa (KAS) Price Rockets 30% to a 51-Day High, Shows Readiness to Extend Rally",
+        "impact": "利好",
+        "reason": "显示短期价格动能强劲，但新闻发布于3月，已过时效。"
+      },
+      {
+        "title": "2 Days to Kaskad Listing: The DeFi Era Kaspa Has Been Waiting For",
+        "impact": "利好",
+        "reason": "Kaskad 上线可能带来 DeFi 生态和流动性，是近期主要催化。"
+      },
+      {
+        "title": "Kaspa Gains 3.43% Amid Toccata Fork Hype and Bullish Setups",
+        "impact": "利好",
+        "reason": "Toccata 分叉升级提升网络性能，市场情绪积极。"
+      }
+    ],
+    "fundamentals": [
+      "Kaspa 是采用 GHOSTDAG 共识的 PoW 公链，支持高吞吐量和快速确认。",
+      "公平启动，无预挖、无预售、无团队分配，社区治理。",
+      "总供应量 287 亿，当前流通约 275 亿，通胀率较低。",
+      "市值约 8.63 亿美元，排名第 74，属于中型项目。",
+      "技术路线图包括智能合约（基于 rollup）和进一步扩展。"
+    ],
+    "marketRead": [
+      "链上 DEX（XRP Ledger）流动性极低（880 美元），24小时交易量仅 3.14 美元，价格发现不可靠。",
+      "主要交易量在中心化交易所（如 Binance），但本数据未提供 CEX 数据。",
+      "24小时价格涨幅 11.3%，但链上数据无法反映真实市场深度。",
+      "ATH 为 0.207 美元，当前价格 0.0314 美元，距高点跌幅 85%。"
+    ],
+    "risks": [
+      "链上流动性极低，存在滑点和操纵风险。",
+      "新闻多为价格预测和旧闻，缺乏近期实质性利好。",
+      "市场情绪依赖叙事，若生态进展不及预期，价格可能回落。",
+      "PoW 公链竞争激烈（如 Bitcoin、LTC、KDA 等）。",
+      "智能合约尚未上线，DeFi 生态仍处早期。"
+    ],
+    "watchlist": [
+      "Kaskad 实际上线后的 TVL 和用户增长。",
+      "中心化交易所的 KAS 交易量和价格走势。",
+      "Toccata 分叉后的网络性能数据。",
+      "Kaspa 生态项目进展（如 KSPR 铭文）。"
+    ],
+    "sourceNotes": [
+      "链上数据仅来自 XRP Ledger 上的 KAS/XRP 交易对，流动性极低，不代表整体市场。",
+      "新闻来源多为聚合网站，部分为预测类内容，可靠性一般。",
+      "缺乏中心化交易所的详细数据，无法全面评估市场情绪。"
+    ]
+  },
+  "profile": {
+    "id": "kaspa",
+    "symbol": "KAS",
+    "name": "Kaspa",
+    "categories": [
+      "Smart Contract Platform",
+      "Layer 1 (L1)",
+      "Wallets",
+      "Proof of Work (PoW)",
+      "Kaspa Ecosystem",
+      "Made in USA",
+      "Directed Acyclic Graph (DAG)"
+    ],
+    "homepage": [
+      "https://kaspa.org/",
+      "https://wiki.kaspa.org/"
+    ],
+    "description": "Kaspa was fair-launched in November 2021 with no pre-mine, zero pre-sale, and no coin allocations, and is 100 percent community-managed. Kaspa aims to be the world's global sequencer for traditional finance and decentralized crypto markets by utilizing proof-of-work and its BlockDAG consensus protocol, GHOSTDAG. Being the world's fastest proof-of-work network, Kaspa combines five properties: (1) hard money principles, (2) Bitcoin's ethos of security-first fundamentals (boasting a security threshold of fifty percent with significant market hashrate), (3) decentralization from rapid block rate mining, (4) block speeds faster than any PoW or PoS network, and (5) smart contract development through based-rollups without fragmented liquidity. Ushering in all five properties, Kaspa is on track to fulfill Satoshi Nakamoto's vision of a digital medium of exchange while also advancing global layer-one sequencing and minuscule confirmation times dominated by internet latency (cf. chapter 6 of the the paper for some initial benchmarks). The Kaspa implementation includes a lot of cool features and subprotocols including Reachability to query the DAG's topology, Block data pruning (with near-fut",
+    "marketCapRank": 74,
+    "currentPriceUsd": 0.03141033,
+    "marketCapUsd": 863346793,
+    "fullyDilutedValuationUsd": 864879372,
+    "totalVolumeUsd": 20688733,
+    "priceChange24hPct": 11.29231,
+    "priceChange7dPct": 4.37602,
+    "priceChange14dPct": -8.15503,
+    "priceChange30dPct": 3.455,
+    "athUsd": 0.207411,
+    "athChangePct": -84.92788,
+    "circulatingSupply": 27495108539.94101,
+    "totalSupply": 27543916746.93998,
+    "maxSupply": 28704026601,
+    "sentimentVotesUpPct": 90.67,
+    "watchlistUsers": 177594,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "xrpl",
+    "pair": "KAS/XRP",
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "pairAddress": "KAS.rJ8QXraC8KaZQ9sTYYThbpYZ5A195mPmrm_XRP",
+    "pairUrl": "https://dexscreener.com/xrpl/kas.rj8qxrac8kazq9styythbpyz5a195mpmrm_xrp",
+    "lastPrice": 0.000002091,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.14,
+    "liquidityUsd": 880.56,
+    "fullyDilutedValuationUsd": 522,
+    "marketCapUsd": 522,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "xrpl",
+    "dexId": "xrpl",
+    "url": "https://dexscreener.com/xrpl/kas.rj8qxrac8kazq9styythbpyz5a195mpmrm_xrp",
+    "pairAddress": "KAS.rJ8QXraC8KaZQ9sTYYThbpYZ5A195mPmrm_XRP",
+    "baseToken": {
+      "address": "KAS.rJ8QXraC8KaZQ9sTYYThbpYZ5A195mPmrm",
+      "name": "KAS",
+      "symbol": "KAS"
+    },
+    "quoteToken": {
+      "address": "XRP",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "priceNative": "0.000001994",
+    "priceUsd": "0.000002091",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 3.14,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 880.56,
+      "base": 210515600,
+      "quote": 419.8353
+    },
+    "fdv": 522,
+    "marketCap": 522,
+    "pairCreatedAt": 1736093880000
+  },
+  "news": [
+    {
+      "title": "Kaspa Coin Price Prediction 2026, 2027 – 2030: Will KAS Hit $0.35? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yN285QmQ2bkozVjcwcWo2dFZMMVU1UmVZRktEN0h4aHUtV0J3clNySGRtMVBVUWV6MTN1RV9EWEdqM3JETzQ1N2RKMHBJcHd1akxJLWNwaV8tbWpUcWxXZ19HUzMyOVhoSUVqNk0yZFVPTnRkMXfSAXtBVV95cUxNREdITGtkS3BMMF9WbVlWOV90d3JJNExKcjU3Q3BOY3VEZEpsZTAyeVFZQ09uZVZqWDhldW54Z001ZHcxR1BXWmExT0JXUk43RTRaVUc2TTgtZ2VrWHZmdENxdGdtMU1MLTM0bW9JVUhKOHdFTDg0UnVUMG8?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "snippet": "Kaspa Coin Price Prediction 2026, 2027 – 2030: Will KAS Hit $0.35?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Kaspa (KAS) Price Prediction 2026–2030: Can the Network Drive the Token to $0.35? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95Vm5NWEdTSVRsZU1jclJ2cmJaSFo1bHpsa3didU1pZWhtWGVBaURKbWdLNXI1a0hjWWFKVHYtRmhMOEVDRVRLT3I5WkJBaUN3eHdIVzBNSmsyM3ZZeDFxbWhfS1dtVVd6Rmtnc3hwbEM4Ui1RdUZ0QV90NXAteFk?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "snippet": "Kaspa (KAS) Price Prediction 2026–2030: Can the Network Drive the Token to $0.35?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Kaspa Price Prediction 2026, 2027-2030: Can KAS Coin Reach $1? - StealthEX.io",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44V3VZZVZqbzF1b0l0TWhtMGlfbm5Hb2pWTzQzLTFyMEhsbGJhYUJWT0l5NDdSUnhmMkhxdGlfZnJrR1htTTlWYm5OakFzMkxZVlpETWxoYjNGSldxSTFLbGxBaTZvN3RGMXRZMTdkV0x6ZmN1WlE?oc=5",
+      "source": "StealthEX.io",
+      "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
+      "snippet": "Kaspa Price Prediction 2026, 2027-2030: Can KAS Coin Reach $1?&nbsp;&nbsp;StealthEX.io"
+    },
+    {
+      "title": "Kaspa Price Today | KAS to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XS0ZoT2txdmpHa01ZNHU2SWxnVldUMlBjX2I1OC1CbmhCaGxxTEEzeDFQUXIwbVlzYlltYkE5d0hCd3VtUTlCelNxM0JqNWNXM19j?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 27 Jun 2026 23:51:00 GMT",
+      "snippet": "Kaspa Price Today | KAS to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Kaspa (KAS) Price Rockets 30% to a 51-Day High, Shows Readiness to Extend Rally - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcXFJZkk0SWFrbFJnWkFPMTBIb0pRWGlId0NnOGdLZWd5dDlLMWptWm5SdWpRenNXdkxKeldnQjhPVkN1Y3JqMVBYREdkc09KSm9HQXoyLWhjR3hBNk1tM0tlYXJiRHJmbWdWX1A3UmIzRDlzdzVBdUZZOVlfcWRCREgtYm5VSjlYcFg3bHlPNHlKWmpuVXA4TXZhYks1Zw?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "snippet": "Kaspa (KAS) Price Rockets 30% to a 51-Day High, Shows Readiness to Extend Rally&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Kaspa (KAS) price forecast: why $0.03 is pivotal for bulls - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSTmhrdlJJNmZpRFU1Y09ScEt5eTBUdHg2NWtxbTVxdHVNbmtlOC1ZcXB3UWwyUW5vbFVaRUZvS2dwNENHcy0ta1pTNkFUSXlEbWowZzhYM3V2LWVZeVE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
+      "snippet": "Kaspa (KAS) price forecast: why $0.03 is pivotal for bulls&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "$5,000 in Kaspa (KAS) Today – Here’s Your Portfolio Value By 2027 - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXcEkxSnhpV1VUNVk0UjhBTTgyUklobE9fUU5Ia0h1ODRnbDVJS3ozRWJvend4endESGpXRXJrYWdQb1BzVWNDTmVhS2s0Q3YzVk5LTzgzWE1FWUtab0NHTU5JSHk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
+      "snippet": "$5,000 in Kaspa (KAS) Today – Here’s Your Portfolio Value By 2027&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "ChatGPT Predicts Price of Kaspa (KAS) and SpacePay (SPY) by End of 2026 - CryptoDnes.bg",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXhxWHJoMXRzQ1Z0N3NIY211TllKaDhEU0h3c1Y4YXNuQmdWMFpEdjF0YkJycW8tTzZMTmM1dkZiWlVCVlo3SW1Pdy1rVVVzRHIwbFJsY2lnakY5cmlRdDQtRDl3RVI1VU9oUUZzZnc0bTRfVUNYQTgzZTUyTWdHWVp6S1BTQVJnUWdfOUZZZHRuR0xyb2c3UA?oc=5",
+      "source": "CryptoDnes.bg",
+      "publishedAt": "Sun, 26 Oct 2025 07:00:00 GMT",
+      "snippet": "ChatGPT Predicts Price of Kaspa (KAS) and SpacePay (SPY) by End of 2026&nbsp;&nbsp;CryptoDnes.bg"
+    },
+    {
+      "title": "Kaspa Gains 3.43% Amid Toccata Fork Hype and Bullish Setups - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fdjY2QkxMWWlkdWxVdmVYaUhSeFhlbGpGclZ0ZjMtVXZpVzZOS09nYnJHa3N5bGVmUi1kQjhfR2FKc2xqVmVxa2NIdWJfNWUzUk5KODF1NE1oNGJjSnJkRkdmYi14VmNGLU9Oa3Z0OWI?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sun, 03 May 2026 07:00:00 GMT",
+      "snippet": "Kaspa Gains 3.43% Amid Toccata Fork Hype and Bullish Setups&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "How to Mint KAS Inscriptions? Detailed KSPR Operation Instructions and This Week's Airdrop and Funding Summary - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91WU45OG1xT3Q5Q2hJZWpxTnVHaFpYcUU4SHVlZEVlTDRpaVdZR21WTEc3d0dCeWtZY1JMTVZFSE1RWEsxNWJCMm1yV1RKb3NnSDRtUXJTWVgyNGZwN3NkWmNrVQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 10 Nov 2024 08:00:00 GMT",
+      "snippet": "How to Mint KAS Inscriptions? Detailed KSPR Operation Instructions and This Week's Airdrop and Funding Summary&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Kaspa Price USD, KAS Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XdlhZd1dOU0I5OTZkcWI0SXc1Z0NFRnlrTGRhZzdiWEs1M0dSLVRGcEdRbFlyUFNLMXRwaGktTVVOc1hLRHMtbGtB?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 02 Jun 2023 16:09:41 GMT",
+      "snippet": "Kaspa Price USD, KAS Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "2 Days to Kaskad Listing: The DeFi Era Kaspa Has Been Waiting For - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOElEYlRTX2RXVjJ4TTVRR01qUnNxb0dIOWJHV1NEMnVuRHpTbTBnR3I4bzFKdmlldGRjWHJFS3k2SUxNZHk5YnlKNVFJRDdERE1oVmhBVERqZW0zRjZuSmR2dTNJa3ROcDFDZEdPSDJzMWlVc3g2TnNNSWVfU3ljdlZBSWZVcW04SWZubDJ6d0NZSzVZTFlwY1lBUlRKdGZmbEpWZl9Uay0?oc=5",
+      "source": "Coin Gabbar",
+      "publishedAt": "Sat, 23 May 2026 07:00:00 GMT",
+      "snippet": "2 Days to Kaskad Listing: The DeFi Era Kaspa Has Been Waiting For&nbsp;&nbsp;Coin Gabbar"
+    },
+    {
+      "title": "How to Participate in Kaspa Airdrop - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uLTV5N1BzWGtNa0FjXzliVHJBMzJMdHdkVXZ4OFpDeEY1YTFGbWxJbzV5cWlOSWM1YTBNR2dJX3pMN2w3aUp1UVJ4VEJGT2l3WVp6RFltQ3k?oc=5",
+      "source": "OKX",
+      "publishedAt": "Wed, 12 Mar 2025 07:00:00 GMT",
+      "snippet": "How to Participate in Kaspa Airdrop&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Kaspa price today, KAS to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zbHVKNXYyeWQzb1VNc2k4a25qRHQzTnFVNUNYZldVd3VqZUo1Sm5FVHBpZ1pWWUdrWFJzZlZGMjVpSG4xVE1mUVJvaTlFRmRnZnQxNkdR?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 01 Jun 2022 00:42:42 GMT",
+      "snippet": "Kaspa price today, KAS to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Is Kaspa Legit? A look at whether KAS is real or a scam - OKX",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxMG9TSEVaRElDTXV2LXVaRVZrMi1ZOWpjMTJ3V1JFNE9ucUZnaFlsN2RfSG9qRWVmLVZTbDB5UlJ4T3EtdE9ZYi0wdE1NSzRqTW5Tai1rM1lSRnhULWRxRkc2ZHY0Yy1wMkhacjhFZDJraU1hMEtZcnVDRUREeVk?oc=5",
+      "source": "OKX",
+      "publishedAt": "Wed, 12 Mar 2025 07:00:00 GMT",
+      "snippet": "Is Kaspa Legit? A look at whether KAS is real or a scam&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Kaspa Price Prediction 2026 Projects $0.10 Target While Zero Knowledge Proof Presale Gains 600x Momentum First - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5saWFveTlEYmhyb3dEempHdXZNVnl5NzhyQUdEbjcyVFhQRzRfM3FFZUFQNkhhSWllN3FteGswTGE1QUZNQS1sU0Z2c0pHZkRBbnZraGoyZ01YaXZTTGfSAWNBVV95cUxOX0UzcXF5VWNCZnJBeWRLVjhXS2Y2bHEwSEJZbXNaQ1JkNy1NU2NHSUwxeXg1eWZuUDFPMk1LWTNvNmFLWEVNV2NkMlN1d3hvdnFqM0RQUkwwM281MTI5dXRTbEk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "snippet": "Kaspa Price Prediction 2026 Projects $0.10 Target While Zero Knowledge Proof Presale Gains 600x Momentum First&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
