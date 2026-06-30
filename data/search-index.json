@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-06-30T13:19:10.043Z",
+  "updatedAt": "2026-06-30T13:34:44.741Z",
   "results": [
+    {
+      "token": "ACT",
+      "requestedInput": "ACT",
+      "name": "Act I The AI Prophecy",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:34:38.978Z",
+      "latestPath": "data/results/ACT-latest.json"
+    },
+    {
+      "token": "B2",
+      "requestedInput": "B2",
+      "name": "BSquared Network",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T13:34:38.328Z",
+      "latestPath": "data/results/B2-latest.json"
+    },
+    {
+      "token": "KRAV",
+      "requestedInput": "RAVE",
+      "name": "Rave",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:34:38.757Z",
+      "latestPath": "data/results/KRAV-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:34:37.257Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:34:44.199Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:34:44.739Z",
+      "latestPath": "data/results/KIRBY-latest.json"
+    },
     {
       "token": "PYTH",
       "requestedInput": "PYTH",
@@ -30,36 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T13:19:03.638Z",
       "latestPath": "data/results/KAITO-latest.json"
-    },
-    {
-      "token": "KRAV",
-      "requestedInput": "RAVE",
-      "name": "Rave",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:19:00.217Z",
-      "latestPath": "data/results/KRAV-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:19:07.466Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:19:08.067Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "HOU",
@@ -110,16 +140,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T12:49:02.286Z",
       "latestPath": "data/results/KGEN-latest.json"
-    },
-    {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:49:05.698Z",
-      "latestPath": "data/results/KIRBY-latest.json"
     },
     {
       "token": "UNITE",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T02:34:00.763Z",
       "latestPath": "data/results/TIA-latest.json"
-    },
-    {
-      "token": "ESP",
-      "requestedInput": "ESP",
-      "name": "Espresso",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T02:34:08.427Z",
-      "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "APE",
-      "requestedInput": "APE",
-      "name": "ape",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:34:01.168Z",
-      "latestPath": "data/results/APE-latest.json"
     }
   ]
 }
