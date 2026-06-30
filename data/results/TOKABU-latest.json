@@ -1,0 +1,256 @@
+{
+  "token": "TOKABU",
+  "requestedInput": "SPIR",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T14:18:31.845Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TOKABU",
+    "name": "The Spirit of Gambling",
+    "generatedAt": "2026-06-30T14:18:25.296Z",
+    "summary": "TOKABU 是 Solana 上 Pumpswap 的 Meme 币，24 小时跌幅 9.4%，市值约 282 万美元，流动性约 32.7 万美元。近期无重大利好，价格下跌，交易量低，风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无买入逻辑，无需失效条件"
+    },
+    "catalysts": [
+      "无明确上涨催化剂"
+    ],
+    "latestNews": [
+      {
+        "title": "About The Spirit of Gambling - Coinbase",
+        "impact": "中性",
+        "reason": "仅为 Coinbase 收录页面，无实质利好"
+      },
+      {
+        "title": "The Spirit of Gambling Price: TOKABU/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+        "impact": "中性",
+        "reason": "CoinGecko 常规价格页面，无新增信息"
+      },
+      {
+        "title": "The Spirit of Gambling Price Today: €0.001434 (+15.34%) | Buy TOKABU - LCX Exchange",
+        "impact": "中性",
+        "reason": "LCX 交易所的旧新闻（2026年3月），价格已大幅下跌"
+      }
+    ],
+    "fundamentals": [
+      "Meme 币，无实际价值支撑",
+      "创建于 2025-06-07，距今约一年",
+      "官网 tokabu.world，有 Twitter、Telegram、TikTok、Instagram 社交账号",
+      "总供应量和流通量未公布，存在增发风险",
+      "完全稀释市值等于当前市值，可能无锁仓"
+    ],
+    "marketRead": [
+      "24 小时跌幅 9.4%，价格下行趋势",
+      "交易量仅 7.3 万美元，流动性 32.7 万美元，深度差",
+      "无历史价格数据（ATH 等缺失），无法判断位置"
+    ],
+    "risks": [
+      "Meme 币高度投机，价格易操纵",
+      "Pumpswap 为小型 DEX，合约风险高",
+      "流动性低，大额卖出易滑点",
+      "无实际应用，依赖社区热度，当前热度低",
+      "供应量不透明，存在砸盘风险"
+    ],
+    "watchlist": [
+      "社交媒体活跃度变化",
+      "是否有新交易所上线或做市商介入",
+      "链上大额转账或持仓集中度变化"
+    ],
+    "sourceNotes": [
+      "数据仅来自 DexScreener，无 CEX 交易对",
+      "新闻均为聚合页面，无实质内容",
+      "价格和流动性数据为实时快照，可能已变化"
+    ]
+  },
+  "profile": {
+    "id": "H8xQ6poBjB9DTPMDTKWzWPrnxu4bDEhybxiouF8Ppump",
+    "symbol": "TOKABU",
+    "name": "The Spirit of Gambling",
+    "categories": [
+      "solana",
+      "pumpswap"
+    ],
+    "homepage": [
+      "http://tokabu.world/"
+    ],
+    "description": "DexScreener pair on solana / pumpswap. Pair URL: https://dexscreener.com/solana/ekv9hdumwqnxzgq5g6ge6bk1zrhkxyc2wnsfl94sqmlj Socials: twitter: https://x.com/tokabu777; telegram: https://t.me/tokabuspirit; tiktok: https://www.tiktok.com/@tokabuthespirit; instagram: https://www.instagram.com/tokabuspirit/",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.002827,
+    "marketCapUsd": 2823622,
+    "fullyDilutedValuationUsd": 2823622,
+    "totalVolumeUsd": 73021.08,
+    "priceChange24hPct": -9.4,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-06-07",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "Ekv9HdumWqnXZgq5G6ge6bk1ZRHKXYC2WnSFL94sQmLJ",
+    "baseTokenAddress": "H8xQ6poBjB9DTPMDTKWzWPrnxu4bDEhybxiouF8Ppump",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 327458.85,
+    "pairUrl": "https://dexscreener.com/solana/ekv9hdumwqnxzgq5g6ge6bk1zrhkxyc2wnsfl94sqmlj",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pumpswap",
+    "pair": "Tokabu/SOL",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "Ekv9HdumWqnXZgq5G6ge6bk1ZRHKXYC2WnSFL94sQmLJ",
+    "pairUrl": "https://dexscreener.com/solana/ekv9hdumwqnxzgq5g6ge6bk1zrhkxyc2wnsfl94sqmlj",
+    "lastPrice": 0.002827,
+    "priceChange24hPct": -9.4,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 73021.08,
+    "liquidityUsd": 327458.85,
+    "fullyDilutedValuationUsd": 2823622,
+    "marketCapUsd": 2823622,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/ekv9hdumwqnxzgq5g6ge6bk1zrhkxyc2wnsfl94sqmlj",
+    "pairAddress": "Ekv9HdumWqnXZgq5G6ge6bk1ZRHKXYC2WnSFL94sQmLJ",
+    "baseToken": {
+      "address": "H8xQ6poBjB9DTPMDTKWzWPrnxu4bDEhybxiouF8Ppump",
+      "name": "The Spirit of Gambling",
+      "symbol": "Tokabu"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.00003852",
+    "priceUsd": "0.002827",
+    "txns": {
+      "m5": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 32,
+        "sells": 25
+      },
+      "h6": {
+        "buys": 50,
+        "sells": 54
+      },
+      "h24": {
+        "buys": 279,
+        "sells": 332
+      }
+    },
+    "volume": {
+      "h24": 73021.08,
+      "h6": 14655.51,
+      "h1": 7654.54,
+      "m5": 0.13
+    },
+    "priceChange": {
+      "m5": -0.07,
+      "h1": -1.02,
+      "h6": -5.33,
+      "h24": -9.4
+    },
+    "liquidity": {
+      "usd": 327458.85,
+      "base": 57963192,
+      "quote": 2228.7212
+    },
+    "fdv": 2823622,
+    "marketCap": 2823622,
+    "pairCreatedAt": 1749256219000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/0I4tJdaASnrDsNrp?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/s2wt_wjuhmWK-7Jc?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/H8xQ6poBjB9DTPMDTKWzWPrnxu4bDEhybxiouF8Ppump?timestamp=1782829200000",
+      "websites": [
+        {
+          "url": "http://tokabu.world/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/tokabu777",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/tokabuspirit",
+          "type": "telegram"
+        },
+        {
+          "url": "https://www.tiktok.com/@tokabuthespirit",
+          "type": "tiktok"
+        },
+        {
+          "url": "https://www.instagram.com/tokabuspirit/",
+          "type": "instagram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "About The Spirit of Gambling - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FT3NwMDJicXE1UTNPb080ZVFHTzZpTEMtWlB3TENBV3lXZGxrcElWVVhfZGp3Y1pXaHFjX2RSZ1FPUTQ1WkRtU09BTzV4MEdnVzRwdVN3dzRtS3FXLUZBc3NOTG5wd3FEUlpJeUpZZ2JSSW1nUjRubjFacw?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Wed, 25 Jun 2025 11:34:52 GMT",
+      "snippet": "About The Spirit of Gambling&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "The Spirit of Gambling Price: TOKABU/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xcTZGdXJPSjF0NzlEZnhzVmlKRE00R2hZdHlLaEd2RkRyQ3VRTUNRTTFxYmpIVTl3TFhlcV9ZemFONnktNEtwZUF1bHZnZUtIU3dUVE1GeWd5QzhZWnRHWk1NNDRaQXRp?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 20 Jun 2025 07:00:00 GMT",
+      "snippet": "The Spirit of Gambling Price: TOKABU/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "The Spirit of Gambling Price Today: €0.001434 (+15.34%) | Buy TOKABU - LCX Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTSkJsVThKMHdNLXJRZmE2NVYweHU3Y091X1NVZWM2LVc5ZDcxNi1CUDVaYVdmcUZQTktGbmU1Nno5QTVMS2Fqd1gxN0VWSEE5VmVlbDdMRjZCWGc?oc=5",
+      "source": "LCX Exchange",
+      "publishedAt": "Wed, 11 Mar 2026 23:53:12 GMT",
+      "snippet": "The Spirit of Gambling Price Today: €0.001434 (+15.34%) | Buy TOKABU&nbsp;&nbsp;LCX Exchange"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=SPIR: Throttled\n"
+  ]
+}

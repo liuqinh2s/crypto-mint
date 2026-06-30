@@ -1,0 +1,125 @@
+{
+  "token": "OSS",
+  "requestedInput": "OSS",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T14:18:34.023Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "OSS",
+    "name": "One Stop Systems, Inc.",
+    "generatedAt": "2026-06-30T14:18:28.796Z",
+    "summary": "OSS为美股上市公司One Stop Systems，近期因Q1创纪录订单量股价单日大涨，但非加密货币。无链上数据，无法进行DEX分析。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "非加密货币，不适用"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "OSS Stock Soars To Biggest Single-Day Gain In 9 Years As One Stop Systems Posts Record Bookings In Q1",
+        "impact": "利好",
+        "reason": "公司基本面改善，订单创纪录，推动股价大涨"
+      },
+      {
+        "title": "One Stop Systems, Inc. (OSS) stock price prediction 2026–2030",
+        "impact": "中性",
+        "reason": "仅为预测，无实质影响"
+      },
+      {
+        "title": "ACR Poker Unleashes $50 Million OSS XL Online Tournament Series",
+        "impact": "中性",
+        "reason": "OSS在此指扑克赛事系列，与One Stop Systems无关"
+      }
+    ],
+    "fundamentals": [
+      "OSS为美股上市公司One Stop Systems，非加密货币",
+      "无区块链项目资料",
+      "无代币经济模型"
+    ],
+    "marketRead": [
+      "Binance API返回451错误，无法获取行情数据",
+      "新闻显示股价因Q1订单创纪录大涨，但非加密市场"
+    ],
+    "risks": [
+      "非加密货币，无法进行链上分析",
+      "可能混淆了股票代码与加密代币",
+      "无DEX流动性，无合约地址"
+    ],
+    "watchlist": [],
+    "sourceNotes": [
+      "Binance API因地域限制返回451错误",
+      "新闻来源为股票和扑克赛事，与加密代币无关",
+      "无任何链上数据或DEX信息"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "OSSUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=OSSUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "OSSFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=OSSFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "OSSUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=OSSUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "OSSBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=OSSBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "OSS Stock Soars To Biggest Single-Day Gain In 9 Years As One Stop Systems Posts Record Bookings In Q1 - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHh5bmZ6SkFWMmxjVVVKVTFWMGRVQ0E4ZzJXWDlTMVdQUjdmQS00RmpKT1FPWUhyQUswMVpVZWpabFRXSkVSNUJmSXdQcUdaSjhGdlMwcDZFSG45aTl4aGdkRm5CRHNLVkpMMDBteTN5UEJCMzhweUtFaFQzbFJBLXZ5V1EwYnRxQ3NRdnR0WWZtTGxOTXRoTVYzaVBVb2UxbTdJLTZzN3dJR0R1SVlqcUlNejcxa29zeHBHMHQtQlhaei1y?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Sat, 27 Jun 2026 18:42:26 GMT",
+      "snippet": "OSS Stock Soars To Biggest Single-Day Gain In 9 Years As One Stop Systems Posts Record Bookings In Q1&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "One Stop Systems, Inc. (OSS) stock price prediction 2026–2030 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Bd3FEN256aXozZktxMFA5WThoQUxydUxsZDhKa1E2ZHJvQjREazhWU2ZuWEFGVFk1bmdoY2JKeEIyUVFvYVJ2QW0yaVUwc1dLaW8zbk9YRlNBaWxq?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 12 Feb 2026 14:59:18 GMT",
+      "snippet": "One Stop Systems, Inc. (OSS) stock price prediction 2026–2030&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "ACR Poker Unleashes $50 Million OSS XL Online Tournament Series - Card Player",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGNlVnFvaU56SGUycG5GWk1ELVdOcVhNcUJpR0dQUGx1M2N5NHlnTlNLOXVmUGJUeDkwR0xnSExrUHBRZWxxQmhHSVRfRmg4YWZTWFhYV1o5aDJmLVhHQ3ROWDN5VzVPZE9VanNIZU9UVnNUU2hHTXQza3pFcklJaU5mRFhpQQ?oc=5",
+      "source": "Card Player",
+      "publishedAt": "Thu, 04 Sep 2025 07:00:00 GMT",
+      "snippet": "ACR Poker Unleashes $50 Million OSS XL Online Tournament Series&nbsp;&nbsp;Card Player"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=OSS: Throttled\n"
+  ]
+}

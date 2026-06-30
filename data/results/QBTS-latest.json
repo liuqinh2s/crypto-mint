@@ -1,0 +1,173 @@
+{
+  "token": "QBTS",
+  "requestedInput": "QBTS",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T14:18:33.037Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "QBTS",
+    "name": "D-Wave Quantum Inc.",
+    "generatedAt": "2026-06-30T14:18:24.013Z",
+    "summary": "QBTS（D-Wave Quantum）因英伟达发布Ising量子计算平台及黄仁勋言论而大涨，但基本面疲软（营收下降81%），订单激增（+1994%）提供长期看点。短期炒作成分高，风险较大。",
+    "rating": {
+      "score": 35,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 15,
+      "holdingPeriod": "1-3天",
+      "invalidation": "若股价跌破近期低点或成交量萎缩，则逻辑失效。"
+    },
+    "catalysts": [
+      "英伟达发布Ising量子计算平台，黄仁勋称AI是量子机器的控制平面，提振量子计算板块情绪。",
+      "D-Wave近期收购QCI（Quantum Computing Inc.）耗资5.5亿美元，增强安全垫。",
+      "订单同比增长1994%，显示未来收入潜力。"
+    ],
+    "latestNews": [
+      {
+        "title": "Jensen Huang Says AI Is 'Control Plane’ Of Quantum Machines As Nvidia Launches Ising — Quantum Computing Stocks QBTS, RGTI, QUBT Soar",
+        "impact": "利好",
+        "reason": "英伟达的背书和产品发布直接刺激量子计算股票上涨，短期情绪驱动。"
+      },
+      {
+        "title": "QBTS Stock Gets A Thumbs Down From Investors After 81% Revenue Decline – But Bookings Soar By A Whopping 1994%",
+        "impact": "中性",
+        "reason": "营收大幅下滑是利空，但订单激增是利好，市场反应分歧。"
+      },
+      {
+        "title": "D-Wave’s $550M Acquisition Gives QBTS Stock a Stronger Safety Net",
+        "impact": "利好",
+        "reason": "收购QCI可能带来协同效应，增强公司实力。"
+      },
+      {
+        "title": "Traders Bet Against IONQ, RGTI, QBTS, QUBT, INFQ Stocks Amid Quantum Computing Hype",
+        "impact": "利空",
+        "reason": "空头押注显示市场对量子计算板块估值过高的担忧。"
+      },
+      {
+        "title": "QBTS Stock: D-Wave Quantum Analysis, QCI Acquisition and Price Forecast 2026",
+        "impact": "中性",
+        "reason": "分析文章提供基本面信息，但无明确方向。"
+      },
+      {
+        "title": "Canaccord Cites Leadership in Quantum Annealing Supporting D-Wave Quantum Inc. (QBTS) Upside",
+        "impact": "利好",
+        "reason": "分析师看好D-Wave在量子退火领域的领先地位。"
+      }
+    ],
+    "fundamentals": [
+      "D-Wave Quantum Inc. 是量子计算公司，专注于量子退火技术。",
+      "2026年6月26日财报显示营收同比下降81%，但订单同比增长1994%。",
+      "2026年1月以5.5亿美元收购QCI，扩大技术组合。",
+      "股票在纳斯达克上市，非加密货币，但被归类为量子计算概念股。"
+    ],
+    "marketRead": [
+      "由于数据获取受限（Binance 451错误），无法获取实时行情。但新闻显示股价因英伟达消息大幅上涨，成交量可能放大。",
+      "量子计算板块近期波动大，空头兴趣浓厚。"
+    ],
+    "risks": [
+      "营收大幅下滑，基本面疲软。",
+      "量子计算商业化进程不确定，短期盈利无望。",
+      "空头持仓高，存在轧空风险但方向难测。",
+      "收购整合风险。",
+      "市场情绪驱动，回调风险大。"
+    ],
+    "watchlist": [
+      "英伟达Ising平台后续进展及合作消息。",
+      "D-Wave订单转化为收入的进度。",
+      "空头持仓变化。",
+      "量子计算板块整体走势。"
+    ],
+    "sourceNotes": [
+      "Binance行情数据不可用，因地理位置限制。",
+      "新闻来源为Google News聚合，部分来源可靠性一般。",
+      "股票非加密货币，但按任务要求分析。"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "QBTSUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QBTSUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QBTSFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QBTSFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QBTSUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QBTSUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QBTSBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QBTSBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "Jensen Huang Says AI Is 'Control Plane’ Of Quantum Machines As Nvidia Launches Ising — Quantum Computing Stocks QBTS, RGTI, QUBT Soar - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUo1djh5SVBXMWxZOHV2czlrbDFneEZzNGFXVXNuNGQtd2NFWk5fRFA2dDNOSmhYV2NyZk82eFdtc0lwYXgtRkVoV2F4c3kyNDNkcUdpTm1uMFItUjBSVFF0NVlobkFDVWM1UXZ6UnJXcUl5aURHZWVoLUsyUF9KWV9NWnBmUkVYXzBfcDF1UFVYVWs0WkMzb0VMb25Fdlk0WVZuSUtQbGhfMTZDOFd6N182UWZvUlBMWHZOVWJ2UWVNQQ?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Tue, 30 Jun 2026 08:13:23 GMT",
+      "snippet": "Jensen Huang Says AI Is 'Control Plane’ Of Quantum Machines As Nvidia Launches Ising — Quantum Computing Stocks QBTS, RGTI, QUBT Soar&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "QBTS Stock Gets A Thumbs Down From Investors After 81% Revenue Decline – But Bookings Soar By A Whopping 1994% - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaC1uaW9zWWNwM00zYXBMMHdqNmxITEFkY3JzUS16bmREc2NYV3ZvWDdsR2VoRzVINF9BclVmUEE2RzVkSXp1c2hfMWRHbE1MV1MwNUNvOGJfS21uU3lyendDaVlQaWRvQVNUN1d1aWJ6UEFQYVlHRFhqendXTXhjN0VwZFhLbzR3V3BIZGxQLWRNYkdDRHpiM3dxaXB4ZnJBNVd1WHZLeGVoejZja1ZZNF84MjVVOUM0bU42VTNrUDctOEZUWlIyeEJXcw?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Fri, 26 Jun 2026 03:12:07 GMT",
+      "snippet": "QBTS Stock Gets A Thumbs Down From Investors After 81% Revenue Decline – But Bookings Soar By A Whopping 1994%&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "D-Wave’s $550M Acquisition Gives QBTS Stock a Stronger Safety Net - Tokenist",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGlIYXJDOHA0bWhYVzJKMlhTWDVNRFJQMUlxU3BONjJDdFU4WXcyRWZETDJZdXZTMGJ5Z3c0TkFIQ2FvZWRqemZjcmZ0NElhWmh0Z19xSHBxQnZyQi1RQ0Ytb0E5SUhNbDI0MU9HYmVDN3dYWktrNzQ1M25fYVRwNUNvcWlxaDZnU01wdWRn?oc=5",
+      "source": "Tokenist",
+      "publishedAt": "Fri, 09 Jan 2026 08:00:00 GMT",
+      "snippet": "D-Wave’s $550M Acquisition Gives QBTS Stock a Stronger Safety Net&nbsp;&nbsp;Tokenist"
+    },
+    {
+      "title": "Traders Bet Against IONQ, RGTI, QBTS, QUBT, INFQ Stocks Amid Quantum Computing Hype - BanklessTimes",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUmd2NFRNRVpIQks4Z29iYm10UVB2aTZocGw3NXJTUUlVcWNXRUp3ampmM0d2RDAxVGEzNjNoWlhVRnp5czJvdXNxQXNnZGU3WXhEaXJVUEdWOXRlTmZRNTZ0OUUyZmRBMDlCck5BUGlEbU5XYXZMSWx6eF9wUW9HeURrNnk3WVg4TGJMOHQzbi1yYWE5cTRsbmVZNFdCakVHNmZheFR2Q2hLZHRRY0JHN3NNRFdSU1N2T0tMMmp0QjEzVkZxTGVhRGR3?oc=5",
+      "source": "BanklessTimes",
+      "publishedAt": "Sat, 23 May 2026 07:00:00 GMT",
+      "snippet": "Traders Bet Against IONQ, RGTI, QBTS, QUBT, INFQ Stocks Amid Quantum Computing Hype&nbsp;&nbsp;BanklessTimes"
+    },
+    {
+      "title": "QBTS Stock: D-Wave Quantum Analysis, QCI Acquisition and Price Forecast 2026 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zbk14M1VLNmxKSl9qX2k1Ny1aMWU2ODFibksxdDROZzdWTThaejdiX3hXUWpfa1R3OXZJcG9xbGJQbjU0OF9TUGFHYllFalpEOGVMS3BVM3pIeC1xTmfSAWNBVV95cUxPZl9nTnZFek9NOURqQjFobFRobmN0YlZsNHpmSHZ3QUFlTnpCdzJiWGlQRlcteVRkX2d0eUtpVnNFa1BZSml3WHozSFp0U2tRR0Q1azRvUWRJLTlnbVA4eVp6UW8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "snippet": "QBTS Stock: D-Wave Quantum Analysis, QCI Acquisition and Price Forecast 2026&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Canaccord Cites Leadership in Quantum Annealing Supporting D-Wave Quantum Inc. (QBTS) Upside - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hSllPekg0N3VUdHhwYnRWWHJTMmRBZENYdzF5VGI5c1gyaml4V2o1MGpTUnFuWEpCeXF5SXVIX2IyS25hRE44ZnloZThiSTNiSVpKV09EMElfUDhZdWfSAWNBVV95cUxON0dRLXhzZ2xQVGtpTkxzdDg4cm1TWXJIWDUweWFCb0NOZHpCUG1zVHBBeGpnb3k0NkFNNjVuWTNmUlpDYlpFbVBWaVZ3MjkySV9rSmdUaFVqVlVXdmRmZDNwZmc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "snippet": "Canaccord Cites Leadership in Quantum Annealing Supporting D-Wave Quantum Inc. (QBTS) Upside&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=QBTS: Throttled\n"
+  ]
+}
