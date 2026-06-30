@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-30T02:04:00.383Z",
+  "updatedAt": "2026-06-30T02:19:17.532Z",
   "results": [
     {
       "token": "HIVE",
       "requestedInput": "HIVE",
       "name": "Hive",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:03:24.965Z",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T02:18:48.495Z",
       "latestPath": "data/results/HIVE-latest.json"
     },
     {
@@ -18,27 +18,27 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T02:03:22.309Z",
+      "generatedAt": "2026-06-30T02:18:48.009Z",
       "latestPath": "data/results/ONG-latest.json"
     },
     {
       "token": "TSM",
       "requestedInput": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
-      "score": 5,
+      "score": 20,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T02:03:22.709Z",
+      "generatedAt": "2026-06-30T02:18:47.867Z",
       "latestPath": "data/results/TSM-latest.json"
     },
     {
       "token": "GLW",
       "requestedInput": "GLW",
-      "name": "Corning Inc",
-      "score": 65,
+      "name": "Corning Incorporated",
+      "score": 70,
       "label": "可以买但严控仓位",
       "action": "小仓试错",
-      "generatedAt": "2026-06-30T02:03:21.173Z",
+      "generatedAt": "2026-06-30T02:18:47.014Z",
       "latestPath": "data/results/GLW-latest.json"
     },
     {
@@ -48,17 +48,17 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T02:03:29.582Z",
+      "generatedAt": "2026-06-30T02:18:54.146Z",
       "latestPath": "data/results/KIRBY-latest.json"
     },
     {
       "token": "PENDLE",
       "requestedInput": "PENDLE",
       "name": "Pendle",
-      "score": 55,
+      "score": 45,
       "label": "谨慎试仓",
       "action": "小仓试错",
-      "generatedAt": "2026-06-30T02:03:33.506Z",
+      "generatedAt": "2026-06-30T02:18:59.921Z",
       "latestPath": "data/results/PENDLE-latest.json"
     },
     {
@@ -68,7 +68,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T02:03:30.963Z",
+      "generatedAt": "2026-06-30T02:18:54.519Z",
       "latestPath": "data/results/APR-latest.json"
     },
     {
@@ -78,47 +78,47 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T02:03:35.011Z",
+      "generatedAt": "2026-06-30T02:18:57.229Z",
       "latestPath": "data/results/HYPER-latest.json"
     },
     {
       "token": "PUMP",
       "requestedInput": "PUMP",
       "name": "Pump",
-      "score": 10,
-      "label": "强烈回避",
+      "score": 25,
+      "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-06-30T02:03:45.451Z",
+      "generatedAt": "2026-06-30T02:19:04.464Z",
       "latestPath": "data/results/PUMP-latest.json"
     },
     {
       "token": "PANW",
       "requestedInput": "PANW",
-      "name": "Palo Alto Networks (股票代码，非加密货币)",
-      "score": 0,
+      "name": "Palo Alto Networks (Derivatives)",
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T02:03:38.905Z",
+      "generatedAt": "2026-06-30T02:19:01.819Z",
       "latestPath": "data/results/PANW-latest.json"
     },
     {
       "token": "STABLE",
       "requestedInput": "STABLE",
       "name": "STABLE",
-      "score": 20,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T02:03:43.002Z",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T02:19:04.857Z",
       "latestPath": "data/results/STABLE-latest.json"
     },
     {
       "token": "AXON",
       "requestedInput": "AXON",
       "name": "axon",
-      "score": 5,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T02:03:44.421Z",
+      "generatedAt": "2026-06-30T02:19:08.541Z",
       "latestPath": "data/results/AXON-latest.json"
     },
     {
@@ -128,7 +128,7 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T02:03:48.934Z",
+      "generatedAt": "2026-06-30T02:19:09.657Z",
       "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
@@ -138,7 +138,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T02:03:50.093Z",
+      "generatedAt": "2026-06-30T02:19:10.445Z",
       "latestPath": "data/results/PL-latest.json"
     },
     {
@@ -148,17 +148,17 @@
       "score": 0,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T02:03:47.846Z",
+      "generatedAt": "2026-06-30T02:19:07.901Z",
       "latestPath": "data/results/BBSTOCK-latest.json"
     },
     {
       "token": "1000SATS",
       "requestedInput": "1000SATS",
       "name": "SATS (Ordinals)",
-      "score": 25,
+      "score": 30,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:03:56.152Z",
+      "action": "观察",
+      "generatedAt": "2026-06-30T02:19:16.216Z",
       "latestPath": "data/results/1000SATS-latest.json"
     },
     {
@@ -168,27 +168,27 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T02:04:00.382Z",
+      "generatedAt": "2026-06-30T02:19:16.237Z",
       "latestPath": "data/results/DELL-latest.json"
     },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:03:56.937Z",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T02:19:17.530Z",
       "latestPath": "data/results/-latest.json"
     },
     {
       "token": "CIEN",
       "requestedInput": "CIEN",
       "name": "Ciena Corp (Derivatives)",
-      "score": 0,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T02:03:56.330Z",
+      "generatedAt": "2026-06-30T02:19:17.382Z",
       "latestPath": "data/results/CIEN-latest.json"
     },
     {
