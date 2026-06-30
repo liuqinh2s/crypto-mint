@@ -1,24 +1,14 @@
 {
-  "updatedAt": "2026-06-30T08:03:32.175Z",
+  "updatedAt": "2026-06-30T08:18:17.881Z",
   "results": [
-    {
-      "token": "ICNT",
-      "requestedInput": "ICNT",
-      "name": "Impossible Cloud Network Token",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T08:03:32.173Z",
-      "latestPath": "data/results/ICNT-latest.json"
-    },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T08:03:29.199Z",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T08:18:17.458Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -28,8 +18,28 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T08:03:27.952Z",
+      "generatedAt": "2026-06-30T08:18:17.880Z",
       "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T08:18:17.869Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "ICNT",
+      "requestedInput": "ICNT",
+      "name": "Impossible Cloud Network Token",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T08:03:32.173Z",
+      "latestPath": "data/results/ICNT-latest.json"
     },
     {
       "token": "KIRBY",
@@ -110,16 +120,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T07:33:09.992Z",
       "latestPath": "data/results/QNTSTOCK-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T07:33:13.447Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "ZAMA",
