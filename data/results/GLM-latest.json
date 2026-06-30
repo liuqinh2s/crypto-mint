@@ -1,0 +1,269 @@
+{
+  "token": "GLM",
+  "requestedInput": "GLM",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T16:34:12.189Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "GLM",
+    "name": "Golem",
+    "generatedAt": "2026-06-30T16:34:04.811Z",
+    "summary": "GLM近期上涨主要受AI叙事和DePIN概念推动，但基本面缺乏实质进展，且历史上有大额ETH抛压记录。当前流动性低，短期涨幅已大，追高风险较高。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现团队抛售或AI概念降温，则逻辑失效"
+    },
+    "catalysts": [
+      "AI和DePIN赛道热度持续",
+      "与Salad.com合作整合Web2工作负载（2026年1月新闻）",
+      "市场对去中心化算力需求预期"
+    ],
+    "latestNews": [
+      {
+        "title": "Salad.com and Golem Network Partner to Integrate Web2 Workloads with Decentralized Infrastructure",
+        "impact": "利好",
+        "reason": "合作扩大应用场景，但实际落地效果待观察"
+      },
+      {
+        "title": "Ethereum ICO-Era Stalwart Golem Sent $100M Ether to Exchanges in the Past Month",
+        "impact": "利空",
+        "reason": "大额ETH转移至交易所可能引发抛售担忧"
+      }
+    ],
+    "fundamentals": [
+      "Golem是去中心化算力市场，GLM用于支付计算任务",
+      "总供应量10亿枚，全流通，无通胀压力",
+      "项目历史悠久（2016年ICO），但发展缓慢",
+      "市值约1.09亿美元，排名250左右"
+    ],
+    "marketRead": [
+      "24小时涨幅约12%，但30日跌幅18%，短期反弹",
+      "DEX流动性仅11万美元，大额交易易滑点",
+      "成交量放大但持续性存疑"
+    ],
+    "risks": [
+      "流动性极低，买卖价差大",
+      "历史上有团队转移ETH至交易所的抛售记录",
+      "AI/DePIN概念炒作可能退潮",
+      "缺乏近期实质性利好催化"
+    ],
+    "watchlist": [
+      "GLM/ETH链上大额转账",
+      "AI板块整体走势",
+      "Golem网络实际使用量数据"
+    ],
+    "sourceNotes": [
+      "数据来源为CoinGecko和DexScreener，新闻来自Google News聚合",
+      "部分新闻日期较早，可能已过时"
+    ]
+  },
+  "profile": {
+    "id": "golem",
+    "symbol": "GLM",
+    "name": "Golem",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "Ethereum Ecosystem",
+      "DePIN",
+      "Energi Ecosystem",
+      "GMCI DePIN Index",
+      "GMCI Index"
+    ],
+    "homepage": [
+      "https://golem.network/"
+    ],
+    "description": "What Is Golem Network? Golem Network is an open-source, decentralized computing platform that is building an ecosystem to provide computing power to the AI industry. A peer-to-peer marketplace for distributed computing resources. Users engage directly on the Golem platform, exchanging GLM tokens for the utilization of their idle computing resources. Golem allows to break down tasks into smaller subtasks and distribute them across multiple providers, enabling parallel processing. This approach boosts efficiency and speeds up the completion of complex computations. What is GLM? GLM or Golem Network Token is needed to pay for computations on the network and is the currency that drives the marketplace. As a Requestor, you set a bid for an amount of GLM you are willing to pay to have your task completed. As a Provider, you earn GLM by computing tasks for Requestors. How can I get involved? If you want to stay up to date with the latest developments and updates, join the Golem Network Discord community here: https://chat.golem.network/ On Discord you can also find support to become a Provider or a Requestor in the Golem platform.",
+    "marketCapRank": 250,
+    "currentPriceUsd": 0.109006,
+    "marketCapUsd": 108975671,
+    "fullyDilutedValuationUsd": 108975671,
+    "totalVolumeUsd": 16549035,
+    "priceChange24hPct": 11.75696,
+    "priceChange7dPct": 6.21791,
+    "priceChange14dPct": -3.01797,
+    "priceChange30dPct": -18.05946,
+    "athUsd": 1.32,
+    "athChangePct": -91.88086,
+    "circulatingSupply": 1000000000,
+    "totalSupply": 1000000000,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 28820,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "GLM/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0xFe4ec8F377be9e1e95A49d4e0D20F52D07b1ff0D",
+    "pairUrl": "https://dexscreener.com/ethereum/0xfe4ec8f377be9e1e95a49d4e0d20f52d07b1ff0d",
+    "lastPrice": 0.1105,
+    "priceChange24hPct": 6.07,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 5.87,
+    "liquidityUsd": 110257.91,
+    "fullyDilutedValuationUsd": 88045788,
+    "marketCapUsd": 88045788,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0xfe4ec8f377be9e1e95a49d4e0d20f52d07b1ff0d",
+    "pairAddress": "0xFe4ec8F377be9e1e95A49d4e0D20F52D07b1ff0D",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
+      "name": "Golem Network Token",
+      "symbol": "GLM"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.00007063",
+    "priceUsd": "0.1105",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 2,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 5.87,
+      "h6": 5.87,
+      "h1": 2.77,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": 6.07,
+      "h6": 6.07,
+      "h24": 6.07
+    },
+    "liquidity": {
+      "usd": 110257.91,
+      "base": 682287,
+      "quote": 22.2496
+    },
+    "fdv": 88045788,
+    "marketCap": 88045788,
+    "pairCreatedAt": 1620291326000
+  },
+  "news": [
+    {
+      "title": "Golem (GLM) Price Prediction 2026 2027 2028 - 2040 - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TeldMS2RmQ0p6end0THduVkNzLTdKck1KTmt4TVlHMHdPMnRUV0dsRnBiTkYyMnVOS2ppSEJ6T3VWRGpocmpXclo3MWZldlhVYnZPVklPSTgyVDFOZlp4Q2tpd2w?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Thu, 03 Nov 2022 14:08:05 GMT",
+      "snippet": "Golem (GLM) Price Prediction 2026 2027 2028 - 2040&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "Golem Price Prediction | Is Golem a Good Investment? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PbUZKWmVXdzJJVXNMTnZjbW1DeW03MVJpUU1raHdjdERJOHctVVNEanFNVjc3ZnpXREF2YXgxTE5ubUQ5clRjdlE5U3lKNmx1aE1pZFhjWmxxLWtpemRxaGhROXR3WHhJYWhMektCcw?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Tue, 06 May 2025 11:03:08 GMT",
+      "snippet": "Golem Price Prediction | Is Golem a Good Investment?&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "Golem price today, GLM to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oaDhVZTk2UXhIOGU5VlhvX1lOQXVUazZpV3d6MWloWHpXVUVYNGdySTBXajF6emdYYzZKNS1NMnhsOWlSaWd5ZXh6SmdFNC03WGhXT3lnMkMwTVZsZ0JUTW9rME1JQU5xRkE?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 18 Nov 2016 08:01:43 GMT",
+      "snippet": "Golem price today, GLM to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Golem (GLM) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DWVlWbzBuTkpXVm9oR2JQNFkteFIwcXJFY0NsV25jNl9xbzVjcngwRzhGMHl5Z21panhaajRFSEcxYTh2QW9QRl9kbDM2Q3RwOW5SQi1fdThDT2hCOERSS3RyNXQ4QQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Sun, 28 May 2023 10:32:55 GMT",
+      "snippet": "Golem (GLM) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Golem Price Today | GLM to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vRS1sVjZsVlF0M05ORVdwRnZ3YXNHUzFHWGF5cVpMaUwwSW14UXctd0NNU2FpOE44SnpfWHdSWWxUNngtV29sV0M1Y0Z3ak40dXNTUjVoUWZJUEt0ajBtUjhtVQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 30 Dec 2021 18:42:35 GMT",
+      "snippet": "Golem Price Today | GLM to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Golem (GLM) ICO Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54eWRJcWhTbkhzRVZOYVd0RmxlcXlaaksxMG9DQ1JDSmRGZW9iRlE4aGhpektkV0lSb1FxdUpIUEtUSnotbkhTbGY1aw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 09 Sep 2023 11:25:55 GMT",
+      "snippet": "Golem (GLM) ICO Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "GLM/MNT: Convert GOLEM (GLM) to Mongolian Tugrik (MNT) - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GU082RG9HVjR5Wm9JY2Q0REtMVC1UUkJYa1hBZklhNG1TWERSVWljTzVNZEdKX3FveFNQUXZuTkNPU2N2anAyVGxUMHY5NTZBclU2UkJtM0NRNm9GUXc?oc=5",
+      "source": "OKX",
+      "publishedAt": "Mon, 29 Jun 2026 00:00:00 GMT",
+      "snippet": "GLM/MNT: Convert GOLEM (GLM) to Mongolian Tugrik (MNT)&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Ethereum ICO-Era Stalwart Golem Sent $100M Ether to Exchanges in the Past Month - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaUhmSjJpamFxVURfTXlLNnJ6MkkxWEdkbXdIQ0lwYU5wNUtjdGkyNkgwTUFlcWktTWdOVXNwamh4clpLeFlCQko1dDRscFhZa2U5TklfUW1nXzZ5NzJKMkppeHVGWldZM0hta18tOHJ4MVlVR19mbkRfb2Zac3llaE5GVDJwbTdQTzlXUXU4TDgzaWN0d2FmSm94MTdhM0RIdl9taWhWVGNMUmdfa1NEY0hVdUZwamtyNTNjNmU5TQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "snippet": "Ethereum ICO-Era Stalwart Golem Sent $100M Ether to Exchanges in the Past Month&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Salad.com and Golem Network Partner to Integrate Web2 Workloads with Decentralized Infrastructure - The Block",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOHZ0bG9hOGhmRXpoeWc5dldvQVZ0ZnB4NmRBRlFYeENsUDQyeVFZcV9PZW5rZkFQTHBBUDQwa1hvcEllOGl5Ql9sOFFxUXZSbXR1OHRDeVBsZEkwRndLZmloY3VSU0lNckw1NThGRVBZVWlPU3c0MUFnaWVjanFJMDlGYWdBTUhIOUdkeXlKRmE3R3JRRTVlSF9BbzhjUUZMUzBRYW40cTF1blF1QWp3Y2l4ZHFhMGhPbWdyTU8xUFM5RkdxTjdNRU9qWktsUEwwazhpb0RVM2M5Y3M?oc=5",
+      "source": "The Block",
+      "publishedAt": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "snippet": "Salad.com and Golem Network Partner to Integrate Web2 Workloads with Decentralized Infrastructure&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Golem sends over $100 million worth of ETH to exchanges in the past month - The Block",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOS1KdGtzUTFtR0gzVHhxTi1QWWV3bkFNd0Z4SEZjRDhWdFo3am14WTVHOXJmNmVkT2NIQ05yck9ySmRGbno4ei1OQ1RaN3pKR3daOWdOWDJnOWthM0RrUUFSaGhNakNlWEtHTUc3SVpvMlVZamlORlVTNE9pTHpCVk5UZ0VWaHUxRDRneHFHa2QtMTFzNjlWUzJmMUdlQzh4VllJMnpFR0NnMWZF?oc=5",
+      "source": "The Block",
+      "publishedAt": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "snippet": "Golem sends over $100 million worth of ETH to exchanges in the past month&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Golem Network Token price today, GLM to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oWFMxQ3VWcGN1dnI1aFdHaVAzV3oxTmFnRXN3aVJZTFoxOGVNcTNESU9fVGxqeTBVWXVjSzE3VEs4YmJmOUduUXVKTWc?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 20 Mar 2024 08:16:58 GMT",
+      "snippet": "Golem Network Token price today, GLM to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

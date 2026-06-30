@@ -1,24 +1,44 @@
 {
-  "updatedAt": "2026-06-30T16:18:53.985Z",
+  "updatedAt": "2026-06-30T16:34:31.247Z",
   "results": [
     {
       "token": "AAVE",
       "requestedInput": "AAVE",
-      "name": "Aave",
-      "score": 55,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T16:18:44.277Z",
+      "name": "AAVE",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T16:34:15.761Z",
       "latestPath": "data/results/AAVE-latest.json"
+    },
+    {
+      "token": "GLM",
+      "requestedInput": "GLM",
+      "name": "Golem",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T16:34:12.189Z",
+      "latestPath": "data/results/GLM-latest.json"
+    },
+    {
+      "token": "ICNT",
+      "requestedInput": "ICNT",
+      "name": "Impossible Cloud Network Token",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T16:34:14.342Z",
+      "latestPath": "data/results/ICNT-latest.json"
     },
     {
       "token": "PIEVERSE",
       "requestedInput": "PIEVERSE",
       "name": "Pieverse",
-      "score": 25,
+      "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-30T16:18:44.669Z",
+      "generatedAt": "2026-06-30T16:34:13.938Z",
       "latestPath": "data/results/PIEVERSE-latest.json"
     },
     {
@@ -27,29 +47,39 @@
       "name": "龙虾",
       "score": 25,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:18:40.990Z",
+      "action": "观察",
+      "generatedAt": "2026-06-30T16:34:20.511Z",
       "latestPath": "data/results/-latest.json"
     },
     {
       "token": "BASED",
       "requestedInput": "BASED",
-      "name": "Based",
-      "score": 35,
+      "name": "BASED",
+      "score": 25,
       "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T16:18:44.137Z",
+      "action": "不买",
+      "generatedAt": "2026-06-30T16:34:21.697Z",
       "latestPath": "data/results/BASED-latest.json"
     },
     {
       "token": "OMIKAMI",
       "requestedInput": "AMAT",
       "name": "AMATERASU OMIKAMI",
-      "score": 15,
+      "score": 20,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T16:18:49.226Z",
+      "generatedAt": "2026-06-30T16:34:21.745Z",
       "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "ETN",
+      "requestedInput": "ETN",
+      "name": "Electroneum",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T16:34:25.908Z",
+      "latestPath": "data/results/ETN-latest.json"
     },
     {
       "token": "OUSTON",
@@ -58,7 +88,7 @@
       "score": 0,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T16:18:49.978Z",
+      "generatedAt": "2026-06-30T16:34:26.429Z",
       "latestPath": "data/results/OUSTON-latest.json"
     },
     {
@@ -68,17 +98,17 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T16:18:53.827Z",
+      "generatedAt": "2026-06-30T16:34:30.693Z",
       "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "CAT",
       "requestedInput": "SIMO",
       "name": "Simons Cat",
-      "score": 40,
+      "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-06-30T16:18:53.983Z",
+      "generatedAt": "2026-06-30T16:34:31.245Z",
       "latestPath": "data/results/CAT-latest.json"
     },
     {
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T09:48:10.265Z",
       "latestPath": "data/results/KAS-latest.json"
-    },
-    {
-      "token": "ARC",
-      "requestedInput": "ARC",
-      "name": "ARC",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T09:34:03.385Z",
-      "latestPath": "data/results/ARC-latest.json"
-    },
-    {
-      "token": "LIT",
-      "requestedInput": "LIT",
-      "name": "Lighter",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T09:34:02.778Z",
-      "latestPath": "data/results/LIT-latest.json"
-    },
-    {
-      "token": "MOODENG",
-      "requestedInput": "MOODENG",
-      "name": "Moo Deng",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T09:18:14.501Z",
-      "latestPath": "data/results/MOODENG-latest.json"
     }
   ]
 }
