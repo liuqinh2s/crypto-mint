@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-06-30T04:18:43.889Z",
+  "updatedAt": "2026-06-30T04:34:12.319Z",
   "results": [
+    {
+      "token": "SLX",
+      "requestedInput": "SLX",
+      "name": "Solstice",
+      "score": 25,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T04:34:03.490Z",
+      "latestPath": "data/results/SLX-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T04:34:03.536Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T04:34:03.317Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T04:34:02.616Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "SYRUP",
+      "requestedInput": "SYRUP",
+      "name": "Maple Finance",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T04:34:10.114Z",
+      "latestPath": "data/results/SYRUP-latest.json"
+    },
+    {
+      "token": "JTO",
+      "requestedInput": "JTO",
+      "name": "Jito",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T04:34:12.316Z",
+      "latestPath": "data/results/JTO-latest.json"
+    },
     {
       "token": "KIRBY",
       "requestedInput": "OUST",
@@ -32,16 +92,6 @@
       "latestPath": "data/results/SOON-latest.json"
     },
     {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T04:18:36.201Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
       "token": "POPCAT",
       "requestedInput": "POPCAT",
       "name": "Popcat",
@@ -52,16 +102,6 @@
       "latestPath": "data/results/POPCAT-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T04:18:42.912Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "TAIKO",
       "requestedInput": "TAIKO",
       "name": "Taiko",
@@ -70,16 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T04:03:18.663Z",
       "latestPath": "data/results/TAIKO-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T04:03:18.923Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "PIEVERSE",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T21:19:42.306Z",
       "latestPath": "data/results/BASED-latest.json"
-    },
-    {
-      "token": "ACX",
-      "requestedInput": "ACX",
-      "name": "Across Protocol",
-      "score": 40,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-28T21:17:43.507Z",
-      "latestPath": "data/results/ACX-latest.json"
-    },
-    {
-      "token": "EIGEN",
-      "requestedInput": "EIGEN",
-      "name": "Eigen",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T21:17:46.484Z",
-      "latestPath": "data/results/EIGEN-latest.json"
-    },
-    {
-      "token": "ELSA",
-      "requestedInput": "ELSA",
-      "name": "Elsa",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T19:17:48.454Z",
-      "latestPath": "data/results/ELSA-latest.json"
     }
   ]
 }
