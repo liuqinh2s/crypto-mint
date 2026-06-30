@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-06-30T10:18:58.750Z",
+  "updatedAt": "2026-06-30T10:34:08.680Z",
   "results": [
+    {
+      "token": "SYN",
+      "requestedInput": "SYN",
+      "name": "Synapse",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T10:34:04.669Z",
+      "latestPath": "data/results/SYN-latest.json"
+    },
+    {
+      "token": "KRAV",
+      "requestedInput": "RAVE",
+      "name": "Rave",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T10:34:04.758Z",
+      "latestPath": "data/results/KRAV-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T10:34:01.588Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T10:34:02.226Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T10:34:08.678Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
     {
       "token": "ORDI",
       "requestedInput": "ORDI",
@@ -10,36 +60,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T10:18:50.119Z",
       "latestPath": "data/results/ORDI-latest.json"
-    },
-    {
-      "token": "KRAV",
-      "requestedInput": "RAVE",
-      "name": "Rave",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T10:18:50.973Z",
-      "latestPath": "data/results/KRAV-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T10:18:48.941Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T10:18:49.662Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "KIRBY",
@@ -90,16 +110,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T09:48:10.265Z",
       "latestPath": "data/results/KAS-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T09:48:12.081Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "ARC",
@@ -990,16 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-29T09:18:06.988Z",
       "latestPath": "data/results/AR-latest.json"
-    },
-    {
-      "token": "BR",
-      "requestedInput": "BR",
-      "name": "Bedrock",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-29T08:34:02.034Z",
-      "latestPath": "data/results/BR-latest.json"
     }
   ]
 }
