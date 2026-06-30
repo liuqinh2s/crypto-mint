@@ -1,35 +1,45 @@
 {
-  "updatedAt": "2026-06-30T11:49:08.873Z",
+  "updatedAt": "2026-06-30T12:04:35.992Z",
   "results": [
     {
-      "token": "1000SATS",
-      "requestedInput": "1000SATS",
-      "name": "1000SATS (Ordinals)",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:49:01.313Z",
-      "latestPath": "data/results/1000SATS-latest.json"
+      "token": "STABLE",
+      "requestedInput": "STABLE",
+      "name": "Stable",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T12:04:11.016Z",
+      "latestPath": "data/results/STABLE-latest.json"
     },
     {
       "token": "KRAV",
       "requestedInput": "RAVE",
       "name": "Rave",
-      "score": 15,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T11:48:58.835Z",
+      "generatedAt": "2026-06-30T12:04:10.531Z",
       "latestPath": "data/results/KRAV-latest.json"
     },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:48:58.550Z",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T12:04:09.775Z",
       "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "NATGAS",
+      "requestedInput": "NATGAS",
+      "name": "Natural Gas (Derivatives)",
+      "score": 20,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T12:04:09.856Z",
+      "latestPath": "data/results/NATGAS-latest.json"
     },
     {
       "token": "AMT",
@@ -38,7 +48,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T11:48:58.878Z",
+      "generatedAt": "2026-06-30T12:04:19.938Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
@@ -48,8 +58,68 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T11:49:06.511Z",
+      "generatedAt": "2026-06-30T12:04:18.769Z",
       "latestPath": "data/results/KIRBY-latest.json"
+    },
+    {
+      "token": "PANW",
+      "requestedInput": "PANW",
+      "name": "Palo Alto Networks (Derivatives)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:04:18.609Z",
+      "latestPath": "data/results/PANW-latest.json"
+    },
+    {
+      "token": "AXON",
+      "requestedInput": "AXON",
+      "name": "axon",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:04:20.443Z",
+      "latestPath": "data/results/AXON-latest.json"
+    },
+    {
+      "token": "PL",
+      "requestedInput": "PL",
+      "name": "Power Liquidity",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:04:25.342Z",
+      "latestPath": "data/results/PL-latest.json"
+    },
+    {
+      "token": "DOGE",
+      "requestedInput": "CIEN",
+      "name": "Department Of Government Efficiency",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:04:35.991Z",
+      "latestPath": "data/results/DOGE-latest.json"
+    },
+    {
+      "token": "CAT",
+      "requestedInput": "SIMO",
+      "name": "Simons Cat",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T12:04:30.015Z",
+      "latestPath": "data/results/CAT-latest.json"
+    },
+    {
+      "token": "1000SATS",
+      "requestedInput": "1000SATS",
+      "name": "1000SATS (Ordinals)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T11:49:01.313Z",
+      "latestPath": "data/results/1000SATS-latest.json"
     },
     {
       "token": "DELL",
@@ -110,16 +180,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T11:40:57.221Z",
       "latestPath": "data/results/RCAT-latest.json"
-    },
-    {
-      "token": "DOGE",
-      "requestedInput": "CIEN",
-      "name": "Department Of Government Efficiency",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:41:00.623Z",
-      "latestPath": "data/results/DOGE-latest.json"
     },
     {
       "token": "DRIFT",
@@ -940,66 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T02:18:48.009Z",
       "latestPath": "data/results/ONG-latest.json"
-    },
-    {
-      "token": "TSM",
-      "requestedInput": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:18:47.867Z",
-      "latestPath": "data/results/TSM-latest.json"
-    },
-    {
-      "token": "GLW",
-      "requestedInput": "GLW",
-      "name": "Corning Incorporated",
-      "score": 70,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T02:18:47.014Z",
-      "latestPath": "data/results/GLW-latest.json"
-    },
-    {
-      "token": "PENDLE",
-      "requestedInput": "PENDLE",
-      "name": "Pendle",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T02:18:59.921Z",
-      "latestPath": "data/results/PENDLE-latest.json"
-    },
-    {
-      "token": "APR",
-      "requestedInput": "APR",
-      "name": "APR",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:18:54.519Z",
-      "latestPath": "data/results/APR-latest.json"
-    },
-    {
-      "token": "HYPER",
-      "requestedInput": "HYPER",
-      "name": "Hyper",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:18:57.229Z",
-      "latestPath": "data/results/HYPER-latest.json"
-    },
-    {
-      "token": "PUMP",
-      "requestedInput": "PUMP",
-      "name": "Pump",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:19:04.464Z",
-      "latestPath": "data/results/PUMP-latest.json"
     }
   ]
 }

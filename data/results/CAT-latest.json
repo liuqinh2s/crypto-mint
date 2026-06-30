@@ -1,0 +1,343 @@
+{
+  "token": "CAT",
+  "requestedInput": "SIMO",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T12:04:30.015Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CAT",
+    "name": "Simons Cat",
+    "generatedAt": "2026-06-30T12:04:20.392Z",
+    "summary": "Simon's Cat 是一个基于 BSC 的 meme 币，近期因 Binance 上线和空投活动获得关注，但当前价格 24 小时下跌 3.96%，缺乏明确上涨催化剂。流动性充足但市值较低，风险较高。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若出现重大利好（如新交易所上线、知名合作）或价格放量突破前高，可重新评估。"
+    },
+    "catalysts": [
+      "Binance 上线 1000CAT 并推出 HODLer 空投（2024年12月）",
+      "知名 IP 效应（Simon's Cat 动画）",
+      "社区活跃，推特和电报有讨论"
+    ],
+    "latestNews": [
+      {
+        "title": "What Is Simon's Cat (CAT)? - Binance",
+        "impact": "中性",
+        "reason": "Binance 官方介绍文章，无新增利好，仅为科普。"
+      },
+      {
+        "title": "Simon’s Cat Price Prediction 2025, 2026-2030: Will CAT Price Skyrocket? - Coinpedia",
+        "impact": "中性",
+        "reason": "价格预测类文章，主观性强，无实质影响。"
+      },
+      {
+        "title": "Binance Airdrop: Simon's Cat (CAT) Tokens for HODLers - Binance",
+        "impact": "利好",
+        "reason": "空投活动曾吸引用户持有，但已过去较久，影响减弱。"
+      }
+    ],
+    "fundamentals": [
+      "BSC 链上 meme 币，基于 PancakeSwap 交易",
+      "总供应量 8.1 万亿代币，流通市值约 848 万美元",
+      "流动性约 371 万美元，相对充足",
+      "项目方有官方推特和电报社区",
+      "上线 Binance 现货和期货（1000CAT）"
+    ],
+    "marketRead": [
+      "24 小时价格下跌 3.96%，成交量约 7.45 万美元，交易活跃度一般",
+      "流动性/市值比约 44%，流动性较好",
+      "无近期价格突破迹象，处于横盘或下跌趋势"
+    ],
+    "risks": [
+      "Meme 币高度投机，价格波动大",
+      "缺乏实际应用支撑，依赖社区热度",
+      "代币供应量极大，稀释风险高",
+      "近期无新催化剂，可能持续低迷",
+      "BSC 链上合约风险（需审计）"
+    ],
+    "watchlist": [
+      "Binance 是否推出新活动或上架更多交易对",
+      "社区活跃度变化（推特、电报）",
+      "大额买入或持仓地址变动",
+      "整体 meme 币市场情绪"
+    ],
+    "sourceNotes": [
+      "数据来源 DexScreener，价格和流动性实时更新",
+      "新闻主要来自 Google News 聚合，部分为预测性内容",
+      "未获取到链上持仓分布和审计报告"
+    ]
+  },
+  "profile": {
+    "id": "0x6894CDe390a3f51155ea41Ed24a33A4827d3063D",
+    "symbol": "CAT",
+    "name": "Simons Cat",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [
+      "https://simons.cat/",
+      "https://bscscan.com/tx/0x660e79aa847242a9e0189274fda15159f188aa57ad94f9a46659d07ac3c9cbad"
+    ],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x6df9adc1837bf37e0b1b943d59a7e50d9678c81b Socials: twitter: https://x.com/SimonsCatMeme; telegram: https://t.me/SimonsCatWorld",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.000001256,
+    "marketCapUsd": 8478569,
+    "fullyDilutedValuationUsd": 10172396,
+    "totalVolumeUsd": 74497.83,
+    "priceChange24hPct": -3.96,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2024-08-22",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x6DF9aDc1837Bf37E0B1b943d59A7E50D9678c81B",
+    "baseTokenAddress": "0x6894CDe390a3f51155ea41Ed24a33A4827d3063D",
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "liquidityUsd": 3713800.44,
+    "pairUrl": "https://dexscreener.com/bsc/0x6df9adc1837bf37e0b1b943d59a7e50d9678c81b",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "CAT/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x6DF9aDc1837Bf37E0B1b943d59A7E50D9678c81B",
+    "pairUrl": "https://dexscreener.com/bsc/0x6df9adc1837bf37e0b1b943d59a7e50d9678c81b",
+    "lastPrice": 0.000001256,
+    "priceChange24hPct": -3.96,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 74497.83,
+    "liquidityUsd": 3713800.44,
+    "fullyDilutedValuationUsd": 10172396,
+    "marketCapUsd": 8478569,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x6df9adc1837bf37e0b1b943d59a7e50d9678c81b",
+    "pairAddress": "0x6DF9aDc1837Bf37E0B1b943d59A7E50D9678c81B",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x6894CDe390a3f51155ea41Ed24a33A4827d3063D",
+      "name": "Simons Cat",
+      "symbol": "CAT"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.000000002295",
+    "priceUsd": "0.000001256",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 7
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 21
+      },
+      "h6": {
+        "buys": 27,
+        "sells": 48
+      },
+      "h24": {
+        "buys": 169,
+        "sells": 371
+      }
+    },
+    "volume": {
+      "h24": 74497.83,
+      "h6": 13477.03,
+      "h1": 4697.13,
+      "m5": 1381.93
+    },
+    "priceChange": {
+      "m5": -0.15,
+      "h1": -0.95,
+      "h6": -1.32,
+      "h24": -3.96
+    },
+    "liquidity": {
+      "usd": 3713800.44,
+      "base": 1478276989332,
+      "quote": 3393.8921
+    },
+    "fdv": 10172396,
+    "marketCap": 8478569,
+    "pairCreatedAt": 1724335961000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/85f6929f07daa1e1ba77547d4bde843f34e1375b206aa47318005baaf6944478?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/b8b4f7f46ddc9b7d39705c29e36d639d057ff5c2bf1ef7d1426688583d8db06e?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x6894cde390a3f51155ea41ed24a33a4827d3063d?timestamp=1782821100000",
+      "websites": [
+        {
+          "url": "https://simons.cat/",
+          "label": "Website"
+        },
+        {
+          "url": "https://bscscan.com/tx/0x660e79aa847242a9e0189274fda15159f188aa57ad94f9a46659d07ac3c9cbad",
+          "label": "LP key burn"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/SimonsCatMeme",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/SimonsCatWorld",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Simon’s Cat Price Prediction 2025, 2026-2030: Will CAT Price Skyrocket? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ETjJUMTREYkl6WkhBX1hHTlhUWW82cWlpaWRzZzBtc0NnTHE2LWlZTDlENE9GX2RCY2Q2elpJdWtqX0phOW9HTU9BazVJREtKX1h1VTNZaUZ6UU9uT0NydHdWb0w0NnRkSDhBdtIBckFVX3lxTE83M3A4NU9CUVZnZk1IMEtST3BTQzd2T1o0UkJXSXpSUmlNQWFqMTdZTFFQSUlMVngzSVRrQ1RKcmdUZ1NFazdWMWp5SEVFMVZQVldhcnN6bWoydTNvWTE5aWY2OE9Id29FQ2pHWHRxZnhkdw?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Sat, 02 Aug 2025 07:00:00 GMT",
+      "snippet": "Simon’s Cat Price Prediction 2025, 2026-2030: Will CAT Price Skyrocket?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Simon's Cat price today, CAT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fZVF4V1dsaEt0SjNIU1FfVnpsSUEwT2EwQkpOcnZNbHV4dzBYWG8zYmVMZVYtVU9zMEIxN1BBZE94NVlTTlUwUUxRd043SWlfcC04LWxwLUFoWlU?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 12 Aug 2024 19:43:26 GMT",
+      "snippet": "Simon's Cat price today, CAT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Simon's Cat (CAT) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZSUFESGx3X3RFaUk4RU9hTGpXNkd0and4bnVETmZtUThMbkhkci1lNklGTUxOR2FwUGJIa2RkMVNXOUYwRFB0N1VWYnY5VHFzMzJkWUlMTmdZdVgxNURUa2RVYWNtWEZPV1JiOE10Q2c?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Tue, 03 Jun 2025 15:58:32 GMT",
+      "snippet": "Simon's Cat (CAT) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Simon’s Cat (CAT) Price Prediction 2026, 2027 – 2030 - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VaFVlRE5URzFfSzF0NnM2OU9LUkNPSUFzQTZoaDNCSEc0LUE2bGhOU1NxcXZfeUtzTzF1R0MwbGtRLXl6X1d0aElQb1ZjUmlzcE54bnRwME55WUMyRG9CcWVXOG91dEYtYUVrMGc3Z0dPT0I1Zkx4QQ?oc=5",
+      "source": "Cryptonews",
+      "publishedAt": "Fri, 06 Sep 2024 11:05:04 GMT",
+      "snippet": "Simon’s Cat (CAT) Price Prediction 2026, 2027 – 2030&nbsp;&nbsp;Cryptonews"
+    },
+    {
+      "title": "Simon’s Cat Price Prediction 2024-2030: Will CAT Price Skyrocket? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52dGQ1WGFDdjJQbVZvbEJxaHBVOTA4QlJJOTJpMGNod3ZqaXhhUlpnQUlNTlBtQzJDSkhsaTkyNlZLNnhnaC1lQ1ZSMU9lT085dkVwTGpDNXFfODNuU2JFdE1YVQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 24 Sep 2024 07:00:00 GMT",
+      "snippet": "Simon’s Cat Price Prediction 2024-2030: Will CAT Price Skyrocket?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Popular 'Simon’s Cat' to Join Cat Coin Fray With Issuance on Floki Launchpad - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWm4zYWJOUnVZX2t4QTRpTGxZWkVENmRaYlFuSVA3QXNMMGdvWGlKdzdqWi1QOGVDOXBYeEZHYTVEY21UbE5fbXhFMUNlV3YxLWM3U3laSUk3SDdTUmRYYW0wbzExUFlWZGpKaFNWUFhrRVhsNi1YYTRqcWs0YVBRdW5SQnFBaEVGLVQxanZ3NS1MWFNocVpFYzVZNjJDRlRoSG1jVFFuRDRtbG1Pek13Q0t3UURmakFG?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 31 Jul 2024 07:00:00 GMT",
+      "snippet": "Popular 'Simon’s Cat' to Join Cat Coin Fray With Issuance on Floki Launchpad&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Simon's Cat Price | CAT Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80YXBhTzhrOGdITkJUTlBfNnV2LS1ncEthWXZmU2RUX1FxUmhldDRGY0FJcXByYno1ZnZ1VXFVUTFIRkdWOEpLTkpwRUozMU0?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 20 Aug 2024 13:37:46 GMT",
+      "snippet": "Simon's Cat Price | CAT Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Simon’s Cat Sinks Claws into Cryptocurrency Market - Animation Magazine",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTQyaXdWSkFXcHhhTDdkT0xLQWQwQWRyTy1tSjZlZGhBOXBKbF9SbzlsUlQ3bTFjRU5tTWhfNFVRbnIzMG5WNmFPZmtuMkU5OTQ4RmpHTTlDVVJJeVVWLWd5ZDM2anVVVl95NnZaYjVWV1ZpS1Jac1NVM0ZoLTJYRnVOZGlaZV9nOUlycWxJekpNRXJLTExF?oc=5",
+      "source": "Animation Magazine",
+      "publishedAt": "Tue, 27 Aug 2024 07:00:00 GMT",
+      "snippet": "Simon’s Cat Sinks Claws into Cryptocurrency Market&nbsp;&nbsp;Animation Magazine"
+    },
+    {
+      "title": "Binance Airdrop: Simon's Cat (CAT) Tokens for HODLers - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YQUhtcGFoVFA2UUN6UEtTLUV6VndBMGk4RmhRR2piaUZBM1diUjBxM1cyS1M1ajVoNHVHdHUyRkFaSkp1WmJoWDNCU0lwSDBxZU10UmQ3c0I3Nk5VTS1SLTRETQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 18 Dec 2024 08:00:00 GMT",
+      "snippet": "Binance Airdrop: Simon's Cat (CAT) Tokens for HODLers&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "What Is Simon's Cat (CAT)? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Rb1o2SFdSWTBPZVVITk9GWmNzakZlcERlUWRUWERqMW1xZnhfRTNWbWFXN0FtdGVtd25zcDBUWXVVejdHeVMwSXhiQl9VQndmNDhMTFJhX2EtVWtDVDhlZlBYNjNUZ1lzcmxjUGdCS0NzeDBYYnc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "snippet": "What Is Simon's Cat (CAT)?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "All you need to know about Simon’s Cat? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WUV84ZXN3dFBCZmgzTFhmanI2WkpZU2lOU3hRR0kzV0ZtUU9EeEJxUVlNZ0hWbFg2eU1xaUJ5VWN4U1FuOE9nRW9qQ0lzYjRGbDBnN3RUNmV0ZTAtWkw0SjhLbw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 21 Dec 2024 08:00:00 GMT",
+      "snippet": "All you need to know about Simon’s Cat?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Simon's Cat (1000CAT) Detailed Overview and How HODLers Can Benefit from Simon's Cat Tokens - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlWDA3SnZCczZ3NFZkVVJDWmphaXdpRWxqcDV4dkFKWWJ1YU5wN0VYOEMwbklPVGRmZTRyb0w1Ums0S25CVzVRc1V6Y292dElBTGNkQTZQYUp6Q21FdFZwMG5abw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 19 Dec 2024 08:00:00 GMT",
+      "snippet": "Simon's Cat (1000CAT) Detailed Overview and How HODLers Can Benefit from Simon's Cat Tokens&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Simon’s Cat Analysis: Is Simon’s Cat Token the Next Big Crypto Sensation? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DRGZNRXc4MWJEVEpEWkl2U0Y3Y0U2Z0xDeDNwLVVuMTFENTdmQ21RSktvOVRwX01aY1paVlpfRU5yTmJBYnpwdkI2RnA3M3dmdWJkbGxRR1ViTlF1ZHNZclVmcw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 19 Dec 2024 08:00:00 GMT",
+      "snippet": "Simon’s Cat Analysis: Is Simon’s Cat Token the Next Big Crypto Sensation?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Introducing Simon's Cat (1000CAT) and Pudgy Penguins (PENGU) on Binance HODLer Airdrops! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaDZSY19FSE1MdWMxMUpJLWQ4dHEwNVk5SHFwV0xJMTZSMVg3bzRhZGxaaUJTaEhJY2xKeHRFWDQtYmU1cGh0Rk16aVhfdHY4X3FhWVF1UE1jZ2ZWTi0yV091WkN2T1FxMW1MSG11bUhrN1RyNDJmTjRTd0xMSTY5Q1J2bm9nR01hRGxpclZ3dHI?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 16 Dec 2024 08:00:00 GMT",
+      "snippet": "Introducing Simon's Cat (1000CAT) and Pudgy Penguins (PENGU) on Binance HODLer Airdrops!&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Will Add Simon's Cat (1000CAT) and Pudgy Penguins (PENGU) on Earn, Buy Crypto, Convert, Margin & Futures | Binance announcement - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSURkYnJzNlVyU3dOWTRMMURraHM1cjFIcTFsVkFSVkZrajBhR0pxVFliampxVUZrNTdkSlZ1SGN6UjJBWkk5NVJ4a3Fyb2FUVjJBLURjWEFJd2I4elBHRVJtRThJZjloVmxTSC1KV1RIa085enFQZlppQ0p5aEluSF81M3dIcE1FUGRZRmFSaGs?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 17 Dec 2024 08:00:00 GMT",
+      "snippet": "Binance Will Add Simon's Cat (1000CAT) and Pudgy Penguins (PENGU) on Earn, Buy Crypto, Convert, Margin & Futures | Binance announcement&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=SIMO: Throttled\n"
+  ]
+}
