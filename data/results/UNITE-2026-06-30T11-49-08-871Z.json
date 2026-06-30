@@ -1,0 +1,196 @@
+{
+  "token": "UNITE",
+  "requestedInput": "CIEN",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T11:49:08.871Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "UNITE",
+    "name": "Unbound Science",
+    "generatedAt": "2026-06-30T11:49:01.833Z",
+    "summary": "UNITE是Arbitrum生态的DeSci项目，当前价格2.02美元，较ATH下跌11%，24小时交易量仅2440美元，流动性极差。无流通供应，完全稀释估值高达20亿美元，但实际市值仅114万美元（基于DEX池）。缺乏新闻催化，短期上涨动力不足，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无买入逻辑，无需失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "项目为去中心化科学平台，涵盖清洁能源、量子技术等研究领域",
+      "代币总供应量10亿，无流通供应，所有代币未解锁或未分发",
+      "完全稀释估值20亿美元，但实际市值仅114万美元，估值严重虚高",
+      "官网存在，但无明确代币经济模型或解锁时间表"
+    ],
+    "marketRead": [
+      "24小时价格微跌0.03%，7日跌2%，30日涨3%，波动极小",
+      "DEX交易对DOGE/WETH，流动性仅45万美元，交易量5070美元，深度极差",
+      "无CEX上市，仅靠DEX交易，易被操纵"
+    ],
+    "risks": [
+      "流动性极低，大额交易易滑点或无法成交",
+      "无流通供应，代币未解锁，存在大量未释放代币抛压风险",
+      "完全稀释估值与实际市值严重背离，泡沫风险",
+      "无新闻催化，社区关注度低（仅29人关注）",
+      "DeSci赛道尚处早期，项目落地不确定性高"
+    ],
+    "watchlist": [
+      "代币解锁或分发计划",
+      "是否有CEX上市或重大合作",
+      "交易量是否显著放大"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko和DexScreener，新闻为空，可能遗漏其他来源",
+      "价格和市值基于DEX池，与项目方公布数据可能存在差异"
+    ]
+  },
+  "profile": {
+    "id": "unbound-science",
+    "symbol": "UNITE",
+    "name": "Unbound Science",
+    "categories": [
+      "Arbitrum Ecosystem",
+      "Decentralized Science (DeSci)"
+    ],
+    "homepage": [
+      "https://unboundscience.com"
+    ],
+    "description": "Unbound Science — A decentralized platform for preserving, funding, and distributing scientific research and inventions worldwide. The platform provides an all-in-one solution for fundraising, collaboration, preservation, and technology distribution. Funding operates through subject-specific donation pools covering areas such as Clean Energy, Quantum Technology, Smart Agriculture, and Waste Management.",
+    "marketCapRank": null,
+    "currentPriceUsd": 2.02,
+    "marketCapUsd": 0,
+    "fullyDilutedValuationUsd": 2018537768,
+    "totalVolumeUsd": 2440.43,
+    "priceChange24hPct": -0.02813,
+    "priceChange7dPct": -2.01654,
+    "priceChange14dPct": -3.67381,
+    "priceChange30dPct": 2.97518,
+    "athUsd": 2.28,
+    "athChangePct": -11.30317,
+    "circulatingSupply": 0,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 29,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "DOGE/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x308C6fbD6a14881Af333649f17f2FdE9cd75e2a6",
+    "pairUrl": "https://dexscreener.com/ethereum/0x308c6fbd6a14881af333649f17f2fde9cd75e2a6",
+    "lastPrice": 0.001171,
+    "priceChange24hPct": -3.02,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 5070.79,
+    "liquidityUsd": 455627.98,
+    "fullyDilutedValuationUsd": 1147445,
+    "marketCapUsd": 1147445,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x308c6fbd6a14881af333649f17f2fde9cd75e2a6",
+    "pairAddress": "0x308C6fbD6a14881Af333649f17f2FdE9cd75e2a6",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x1121AcC14c63f3C872BFcA497d10926A6098AAc5",
+      "name": "Department Of Government Efficiency",
+      "symbol": "DOGE"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.0000007392",
+    "priceUsd": "0.001171",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 2
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 9
+      },
+      "h24": {
+        "buys": 5,
+        "sells": 15
+      }
+    },
+    "volume": {
+      "h24": 5070.79,
+      "h6": 3357.21,
+      "h1": 413.87,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -0.24,
+      "h6": -2.93,
+      "h24": -3.02
+    },
+    "liquidity": {
+      "usd": 455627.98,
+      "base": 194394643,
+      "quote": 143.6983
+    },
+    "fdv": 1147445,
+    "marketCap": 1147445,
+    "pairCreatedAt": 1724119115000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/7e6ad02f9c5b59bf37b2f5adeead77e451f6d8c59157afd006a0ec7da3469da6?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/fe6ddb4431e978401900e16180b28e67a0a24b63c1f9ff581a3a520973d5a115?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0x1121acc14c63f3c872bfca497d10926a6098aac5?timestamp=1782820200000",
+      "websites": [
+        {
+          "url": "https://www.dogegov.com/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/doge_eth_gov",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/NewDOGEonETH_CTO",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned DOGE for UNITE; DEX profile ignored to avoid token mix-up."
+  ]
+}
