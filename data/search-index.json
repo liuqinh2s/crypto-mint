@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-06-30T12:49:07.477Z",
+  "updatedAt": "2026-06-30T13:04:32.434Z",
   "results": [
+    {
+      "token": "ONG",
+      "requestedInput": "ONG",
+      "name": "Ontology Gas",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:04:21.156Z",
+      "latestPath": "data/results/ONG-latest.json"
+    },
+    {
+      "token": "4",
+      "requestedInput": "4",
+      "name": "4",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:04:20.304Z",
+      "latestPath": "data/results/4-latest.json"
+    },
+    {
+      "token": "KRAV",
+      "requestedInput": "RAVE",
+      "name": "Rave",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:04:21.992Z",
+      "latestPath": "data/results/KRAV-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:04:20.311Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:04:28.095Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:04:28.266Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "CIEN",
+      "requestedInput": "CIEN",
+      "name": "Ciena",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:04:32.433Z",
+      "latestPath": "data/results/CIEN-latest.json"
+    },
     {
       "token": "KGEN",
       "requestedInput": "KGEN",
@@ -10,36 +80,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T12:49:02.286Z",
       "latestPath": "data/results/KGEN-latest.json"
-    },
-    {
-      "token": "KRAV",
-      "requestedInput": "RAVE",
-      "name": "Rave",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:49:00.882Z",
-      "latestPath": "data/results/KRAV-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:48:59.701Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:49:00.607Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "KIRBY",
@@ -80,16 +120,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T12:34:01.183Z",
       "latestPath": "data/results/TSM-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:34:09.824Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "GLW",
@@ -970,36 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-30T02:34:16.082Z",
       "latestPath": "data/results/B2-latest.json"
-    },
-    {
-      "token": "DEXE",
-      "requestedInput": "DEXE",
-      "name": "DeXe",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T02:34:14.290Z",
-      "latestPath": "data/results/DEXE-latest.json"
-    },
-    {
-      "token": "KAITO",
-      "requestedInput": "KAITO",
-      "name": "KAITO",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:34:21.913Z",
-      "latestPath": "data/results/KAITO-latest.json"
-    },
-    {
-      "token": "TOKYOEL",
-      "requestedInput": "TOKYOEL",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:34:18.940Z",
-      "latestPath": "data/results/TOKYOEL-latest.json"
     }
   ]
 }
