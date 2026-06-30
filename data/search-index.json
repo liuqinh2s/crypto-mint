@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-06-30T06:33:41.303Z",
+  "updatedAt": "2026-06-30T06:48:48.921Z",
   "results": [
+    {
+      "token": "ASTSON",
+      "requestedInput": "ASTS",
+      "name": "AST SpaceMobile (Ondo Tokenized)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T06:48:47.864Z",
+      "latestPath": "data/results/ASTSON-latest.json"
+    },
     {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
-      "score": 0,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T06:33:41.302Z",
+      "generatedAt": "2026-06-30T06:48:47.317Z",
       "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T06:48:48.568Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T06:48:48.919Z",
+      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "AMT",
@@ -22,16 +52,6 @@
       "latestPath": "data/results/AMT-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T06:33:40.416Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "TRADOOR",
       "requestedInput": "TRADOOR",
       "name": "Tradoor",
@@ -40,16 +60,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T06:03:33.766Z",
       "latestPath": "data/results/TRADOOR-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T06:03:31.502Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "WET",
@@ -990,16 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-29T01:02:57.836Z",
       "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "DYDX",
-      "requestedInput": "DYDX",
-      "name": "dYdX",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T01:02:57.726Z",
-      "latestPath": "data/results/DYDX-latest.json"
     }
   ]
 }

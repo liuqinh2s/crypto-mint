@@ -1,0 +1,192 @@
+{
+  "token": "ASTSON",
+  "requestedInput": "ASTS",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T06:48:47.864Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ASTSON",
+    "name": "AST SpaceMobile (Ondo Tokenized)",
+    "generatedAt": "2026-06-30T06:48:40.602Z",
+    "summary": "ASTSON是AST SpaceMobile的Ondo代币化版本，近期24小时涨幅超21%，但链上流动性极低（仅0.14美元），实际交易几乎不存在。价格异常可能源于少数交易或数据错误，不具备可交易性。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性恢复至合理水平（如>10万美元）且交易量真实"
+    },
+    "catalysts": [
+      "ASTS正股可能有利好（如卫星发射进展），但代币化版本流动性极差，无法反映正股走势"
+    ],
+    "latestNews": [
+      {
+        "title": "AST SpaceMobile Tokenized Stock (Ondo) Price Today | ASTSon to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格展示页面，无实质内容"
+      }
+    ],
+    "fundamentals": [
+      "Ondo代币化股票，提供ASTS经济敞口",
+      "总供应量约36936枚，市值约330万美元",
+      "支持多链（BNB、Solana、以太坊等）",
+      "非美国用户可24/5交易"
+    ],
+    "marketRead": [
+      "24小时涨幅21.57%，但链上流动性仅0.14美元，成交量6754美元（可能为虚假交易）",
+      "DEX对ASTS/WETH价格异常（1.326e-20美元），实际无意义",
+      "市场深度极差，任何大额买单都会导致价格剧烈波动"
+    ],
+    "risks": [
+      "流动性枯竭：链上流动性几乎为零，无法实际买卖",
+      "价格操纵风险：极低流动性下价格易被少数交易操控",
+      "数据可靠性：CoinGecko价格可能来自非活跃市场或错误",
+      "正股风险：ASTS本身波动大，代币化版本可能不跟踪正股"
+    ],
+    "watchlist": [
+      "链上流动性是否增加",
+      "Ondo官方是否增加做市商",
+      "ASTS正股新闻及价格走势"
+    ],
+    "sourceNotes": [
+      "链上流动性数据来自DexScreener，显示为0.14美元，极不可靠",
+      "新闻仅有一条来自Binance的价格页面，无实质信息",
+      "建议直接交易ASTS正股或流动性更好的代币化版本"
+    ]
+  },
+  "profile": {
+    "id": "ast-spacemobile-ondo-tokenized",
+    "symbol": "ASTSON",
+    "name": "AST SpaceMobile (Ondo Tokenized)",
+    "categories": [
+      "Tokenized Assets",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Ondo Tokenized Assets"
+    ],
+    "homepage": [
+      "https://app.ondo.finance/"
+    ],
+    "description": "ASTSon is the Ondo Tokenized version of AST SpaceMobile, giving tokenholders economic exposure similar to holding ASTS and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
+    "marketCapRank": 1829,
+    "currentPriceUsd": 89.57,
+    "marketCapUsd": 3308505,
+    "fullyDilutedValuationUsd": 3308506,
+    "totalVolumeUsd": 244597,
+    "priceChange24hPct": 21.56545,
+    "priceChange7dPct": 25.81447,
+    "priceChange14dPct": 2.08511,
+    "priceChange30dPct": -20.53834,
+    "athUsd": 133.15,
+    "athChangePct": -32.64638,
+    "circulatingSupply": 36936.27063450296,
+    "totalSupply": 36936.27217829709,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 46,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "ASTS/WETH",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xb118F0889BA110Ee7f37773eC03907C6046Bbc1f",
+    "pairUrl": "https://dexscreener.com/base/0xb118f0889ba110ee7f37773ec03907c6046bbc1f",
+    "lastPrice": 1.326e-20,
+    "priceChange24hPct": -100,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 6754.76,
+    "liquidityUsd": 0.14,
+    "fullyDilutedValuationUsd": null,
+    "marketCapUsd": null,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "base",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/base/0xb118f0889ba110ee7f37773ec03907c6046bbc1f",
+    "pairAddress": "0xb118F0889BA110Ee7f37773eC03907C6046Bbc1f",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x14369aEb57B97130E6F2E23DA87AB2f476855302",
+      "name": "AST SpaceMobile Inc (Derivatives)",
+      "symbol": "ASTS"
+    },
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.000000000000000000000008438",
+    "priceUsd": "0.00000000000000000001326",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 25,
+        "sells": 5
+      }
+    },
+    "volume": {
+      "h24": 6754.76,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -100
+    },
+    "liquidity": {
+      "usd": 0.14,
+      "base": 5458826541715130000,
+      "quote": 0.00004606
+    },
+    "pairCreatedAt": 1782736125000
+  },
+  "news": [
+    {
+      "title": "AST SpaceMobile Tokenized Stock (Ondo) Price Today | ASTSon to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PQ1FabXpfcUVJcjljZDU0c001UkRhZDhiVkhZUUcyMjZVM0NWUFhBQkh2WTcwbF83NTViU3lfQ3NNNTlDWElaQl9PVkRvVThQYWdKbEwyaVN5aUthNEMxa2c5Xy1kZUdZUzBlOFVPTWtjS3BXZ25tZg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 28 Jun 2026 04:09:00 GMT",
+      "snippet": "AST SpaceMobile Tokenized Stock (Ondo) Price Today | ASTSon to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned ASTS for ASTSON; DEX profile ignored to avoid token mix-up."
+  ]
+}
