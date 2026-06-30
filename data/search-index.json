@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-06-30T13:34:44.741Z",
+  "updatedAt": "2026-06-30T13:49:16.077Z",
   "results": [
+    {
+      "token": "APE",
+      "requestedInput": "APE",
+      "name": "ApeCoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:49:09.178Z",
+      "latestPath": "data/results/APE-latest.json"
+    },
+    {
+      "token": "KRAV",
+      "requestedInput": "RAVE",
+      "name": "Rave",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:49:08.741Z",
+      "latestPath": "data/results/KRAV-latest.json"
+    },
+    {
+      "token": "ESP",
+      "requestedInput": "ESP",
+      "name": "Espresso",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T13:49:11.726Z",
+      "latestPath": "data/results/ESP-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:49:07.994Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:49:15.035Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T13:49:16.075Z",
+      "latestPath": "data/results/KIRBY-latest.json"
+    },
     {
       "token": "ACT",
       "requestedInput": "ACT",
@@ -22,26 +82,6 @@
       "latestPath": "data/results/B2-latest.json"
     },
     {
-      "token": "KRAV",
-      "requestedInput": "RAVE",
-      "name": "Rave",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:34:38.757Z",
-      "latestPath": "data/results/KRAV-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:34:37.257Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "AMT",
       "requestedInput": "AMAT",
       "name": "Amateras",
@@ -50,16 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T13:34:44.199Z",
       "latestPath": "data/results/AMT-latest.json"
-    },
-    {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T13:34:44.739Z",
-      "latestPath": "data/results/KIRBY-latest.json"
     },
     {
       "token": "PYTH",
@@ -320,16 +350,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T11:18:56.936Z",
       "latestPath": "data/results/NMR-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:19:02.331Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "AVAV",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T02:48:27.348Z",
       "latestPath": "data/results/BRKB-latest.json"
-    },
-    {
-      "token": "NAORIS",
-      "requestedInput": "NAORIS",
-      "name": "Naoris Protocol",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T02:48:34.635Z",
-      "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "TIA",
-      "requestedInput": "TIA",
-      "name": "Tiamonds [OLD]",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:34:00.763Z",
-      "latestPath": "data/results/TIA-latest.json"
     }
   ]
 }
