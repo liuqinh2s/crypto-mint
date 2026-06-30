@@ -1,0 +1,183 @@
+{
+  "token": "OBS",
+  "requestedInput": "NBIS",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T14:03:42.316Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "OBS",
+    "name": "OpenBiSea Token",
+    "generatedAt": "2026-06-30T14:03:35.637Z",
+    "summary": "OBS是BSC链上PancakeSwap的老币，流动性极低（207美元），24小时交易量仅0.07美元，价格波动极小，市场几乎无交易活动。无新闻催化，基本面不明，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现重大利好且流动性显著提升，否则逻辑持续失效。"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "项目名称为OpenBiSea Token，但无官网或白皮书信息。",
+      "代币创建于2021年4月，属于老币。",
+      "总供应量和流通量未知，FDV与市值相同（47.6万美元）。",
+      "仅在PancakeSwap上有一个交易对，流动性极低。"
+    ],
+    "marketRead": [
+      "当前价格5.35美元，24小时跌幅1.75%，但实际交易量几乎为零。",
+      "流动性仅207美元，意味着大额交易极易造成滑点和价格操纵。",
+      "无历史价格数据（ATH、7日/30日变化均无），市场深度极差。"
+    ],
+    "risks": [
+      "流动性枯竭风险：极低流动性可能导致无法卖出或价格剧烈波动。",
+      "合约风险：未开源或审计未知，可能存在后门。",
+      "市场操纵风险：少量资金即可拉砸盘。",
+      "项目死亡风险：无社区、无新闻、无交易活动，可能已废弃。"
+    ],
+    "watchlist": [
+      "关注是否有新流动性注入或项目方公告。",
+      "观察交易量是否突然放大。",
+      "检查合约是否开源及审计报告。"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他来源验证。",
+      "新闻和基本面信息缺失，分析基于有限数据。"
+    ]
+  },
+  "profile": {
+    "id": "0x490DbA6180b089d8E36eBb1E56a33F1aE9B96b87",
+    "symbol": "OBS",
+    "name": "OpenBiSea Token",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x8e5485b962e5ebaa236a5f717f0f3bd7e9329fe4",
+    "marketCapRank": null,
+    "currentPriceUsd": 5.35,
+    "marketCapUsd": 476232,
+    "fullyDilutedValuationUsd": 476232,
+    "totalVolumeUsd": 0.07,
+    "priceChange24hPct": -1.75,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2021-04-26",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x8e5485B962e5ebAA236a5f717F0f3bd7E9329fe4",
+    "baseTokenAddress": "0x490DbA6180b089d8E36eBb1E56a33F1aE9B96b87",
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "liquidityUsd": 207.86,
+    "pairUrl": "https://dexscreener.com/bsc/0x8e5485b962e5ebaa236a5f717f0f3bd7e9329fe4",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "OBS/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x8e5485B962e5ebAA236a5f717F0f3bd7E9329fe4",
+    "pairUrl": "https://dexscreener.com/bsc/0x8e5485b962e5ebaa236a5f717f0f3bd7e9329fe4",
+    "lastPrice": 5.35,
+    "priceChange24hPct": -1.75,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.07,
+    "liquidityUsd": 207.86,
+    "fullyDilutedValuationUsd": 476232,
+    "marketCapUsd": 476232,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x8e5485b962e5ebaa236a5f717f0f3bd7e9329fe4",
+    "pairAddress": "0x8e5485B962e5ebAA236a5f717F0f3bd7E9329fe4",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x490DbA6180b089d8E36eBb1E56a33F1aE9B96b87",
+      "name": "OpenBiSea Token",
+      "symbol": "OBS"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.009744",
+    "priceUsd": "5.35",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 0.07,
+      "h6": 0.04,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -1.75,
+      "h24": -1.75
+    },
+    "liquidity": {
+      "usd": 207.86,
+      "base": 19.399,
+      "quote": 0.189
+    },
+    "fdv": 476232,
+    "marketCap": 476232,
+    "pairCreatedAt": 1619424710000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/nebius-group-ondo-tokenized?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

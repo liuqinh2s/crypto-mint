@@ -1,0 +1,178 @@
+{
+  "token": "SP500",
+  "requestedInput": "SP500",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T14:03:49.731Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SP500",
+    "name": "Shit & Piss 500",
+    "generatedAt": "2026-06-30T14:03:42.664Z",
+    "summary": "SP500是Solana链上Raydium的极低市值Meme币，流动性仅约1.1万美元，24小时交易量仅2美元，几乎无交易活动。无新闻、无基本面支撑，属于高度投机且流动性极差的代币，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现重大利好（如知名人士喊单、大量流动性注入），否则逻辑始终失效。"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "代币名称Shit & Piss 500，具有讽刺意味，无实际用途",
+      "市值仅7773美元，完全稀释估值相同",
+      "总供应量与流通量未披露，但市值极低",
+      "创建于2024年12月27日，已存在较长时间但无交易活跃度"
+    ],
+    "marketRead": [
+      "24小时价格变动无数据，表明无交易或数据缺失",
+      "24小时交易量仅2.16美元，流动性11283美元，但实际交易量极低",
+      "无K线数据，无法分析趋势"
+    ],
+    "risks": [
+      "流动性极低（1.1万美元），大额卖出可能导致价格暴跌至零",
+      "交易量几乎为零，难以买入或卖出",
+      "无任何新闻或社区关注，可能已废弃",
+      "Meme币无基本面支撑，价格完全由投机驱动",
+      "合约风险：未开源或未审计，可能存在后门"
+    ],
+    "watchlist": [
+      "流动性是否增加",
+      "是否有新交易量出现",
+      "社交媒体是否有讨论"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener，仅提供链上数据，无CEX或新闻来源",
+      "24小时价格变动、成交量等关键数据缺失，分析受限"
+    ]
+  },
+  "profile": {
+    "id": "CaM41daLtWdzzQkfzphhai6dHu8KiC9wy59edrsspump",
+    "symbol": "SP500",
+    "name": "Shit & Piss 500",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/32kzzbxf3gvaj2kdmzdqfyufnrvd4dxitpjuavfxrtns",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.000007776,
+    "marketCapUsd": 7773,
+    "fullyDilutedValuationUsd": 7773,
+    "totalVolumeUsd": 2.16,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2024-12-27",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "32KZZBXf3gvaJ2kdMZdqFyUfNRVD4DxitpJuAVfxrtNs",
+    "baseTokenAddress": "CaM41daLtWdzzQkfzphhai6dHu8KiC9wy59edrsspump",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 11283.78,
+    "pairUrl": "https://dexscreener.com/solana/32kzzbxf3gvaj2kdmzdqfyufnrvd4dxitpjuavfxrtns",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "SP500/SOL",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "32KZZBXf3gvaJ2kdMZdqFyUfNRVD4DxitpJuAVfxrtNs",
+    "pairUrl": "https://dexscreener.com/solana/32kzzbxf3gvaj2kdmzdqfyufnrvd4dxitpjuavfxrtns",
+    "lastPrice": 0.000007776,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 2.16,
+    "liquidityUsd": 11283.78,
+    "fullyDilutedValuationUsd": 7773,
+    "marketCapUsd": 7773,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/32kzzbxf3gvaj2kdmzdqfyufnrvd4dxitpjuavfxrtns",
+    "pairAddress": "32KZZBXf3gvaJ2kdMZdqFyUfNRVD4DxitpJuAVfxrtNs",
+    "baseToken": {
+      "address": "CaM41daLtWdzzQkfzphhai6dHu8KiC9wy59edrsspump",
+      "name": "Shit & Piss 500",
+      "symbol": "SP500"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.0000001045",
+    "priceUsd": "0.000007776",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 2.16,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 11283.78,
+      "base": 724697700,
+      "quote": 75.9021
+    },
+    "fdv": 7773,
+    "marketCap": 7773,
+    "pairCreatedAt": 1735333466000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/sp500-xstock?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

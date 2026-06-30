@@ -1,0 +1,78 @@
+{
+  "token": "SITM",
+  "requestedInput": "SITM",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T14:03:46.224Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SITM",
+    "name": "unknown",
+    "generatedAt": "2026-06-30T14:03:43.017Z",
+    "summary": "由于数据获取受限，无法分析SITM上涨原因。Binance API返回451错误，可能因地区限制无法访问。无新闻、基本面、行情数据，无法做出判断。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "数据不足，无法设定失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [],
+    "marketRead": [],
+    "risks": [
+      "数据不可获取，无法评估风险",
+      "可能为低流动性代币或非主流资产"
+    ],
+    "watchlist": [],
+    "sourceNotes": [
+      "Binance API返回451错误，可能因地区限制无法获取数据",
+      "无其他数据源补充"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "SITMUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SITMUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SITMFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SITMFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SITMUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SITMUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "SITMBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=SITMBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=SITM: Throttled\n"
+  ]
+}
