@@ -1,0 +1,223 @@
+{
+  "token": "NBISON",
+  "requestedInput": "NBIS",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T14:49:17.013Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "NBISON",
+    "name": "Nebius Group (Ondo Tokenized)",
+    "generatedAt": "2026-06-30T14:49:07.363Z",
+    "summary": "NBISon是Nebius Group的Ondo代币化版本，近期24小时涨幅17.77%，但链上流动性极低（仅207美元），交易量极小，存在严重流动性风险。项目基本面依赖于Ondo平台和NBIS股票表现，但当前DEX市场深度不足，不适合大额交易。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性显著改善（如流动性>10万美元）且价格与NBIS股票保持合理溢价/折价时，可重新评估。"
+    },
+    "catalysts": [
+      "NBIS股票本身上涨带动代币价格",
+      "Ondo平台新增流动性或做市商支持",
+      "代币化资产概念热度提升"
+    ],
+    "latestNews": [
+      {
+        "title": "Nebius Group Tokenized Stock (Ondo) price today, NBISon to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "仅为价格数据报道，无新增催化信息。"
+      },
+      {
+        "title": "Nebius Group (Ondo Tokenized) Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD - CryptoRank",
+        "impact": "中性",
+        "reason": "历史数据分析，无即时影响。"
+      },
+      {
+        "title": "Historical Data for Nebius Group (Ondo Tokenized) in USD - CryptoRank",
+        "impact": "中性",
+        "reason": "历史数据，无新信息。"
+      }
+    ],
+    "fundamentals": [
+      "NBISon是Ondo Finance发行的代币化股票，代表Nebius Group (NBIS)的经济权益，包括股息再投资。",
+      "总供应量32,057枚，流通量相同，无通胀。",
+      "项目属于RWA（真实世界资产）赛道，但当前链上流动性极低。",
+      "Ondo平台允许非美国用户24/5交易美国股票代币，但存在地域限制和合规风险。"
+    ],
+    "marketRead": [
+      "24小时涨幅17.77%，但链上交易量仅0.07美元（PancakeSwap），流动性207美元，价格容易被操纵。",
+      "CoinMarketCap数据显示市值约919万美元，但DEX市值仅47.6万美元，差异巨大，说明大部分流动性在中心化或OTC市场。",
+      "价格与NBIS股票存在价差，但缺乏套利机制说明。"
+    ],
+    "risks": [
+      "流动性极低：PancakeSwap上仅207美元流动性，大额交易极易滑点或无法成交。",
+      "价格操纵风险：低流动性下少量买单即可拉盘，但卖出时可能无对手盘。",
+      "合约风险：代币合约未经审计或存在未知漏洞。",
+      "监管风险：代币化股票可能面临SEC等监管不确定性。",
+      "依赖Ondo平台：若Ondo出现技术或合规问题，代币价值可能归零。"
+    ],
+    "watchlist": [
+      "PancakeSwap流动性变化：若流动性增加至10万美元以上，可重新评估。",
+      "NBIS股票价格走势：代币价格应与股票价格联动。",
+      "Ondo官方公告：新增做市商或交易所上线。",
+      "链上大额交易：若出现大额买入/卖出，可能预示流动性改善。"
+    ],
+    "sourceNotes": [
+      "链上数据仅来自PancakeSwap，流动性极低，价格参考意义有限。",
+      "CoinMarketCap数据可能包含其他交易对，但未提供详细信息。",
+      "新闻均为通用报道，无独家信息。"
+    ]
+  },
+  "profile": {
+    "id": "nebius-group-ondo-tokenized",
+    "symbol": "NBISON",
+    "name": "Nebius Group (Ondo Tokenized)",
+    "categories": [
+      "Tokenized Assets",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Ondo Tokenized Assets"
+    ],
+    "homepage": [
+      "https://app.ondo.finance/"
+    ],
+    "description": "NBISon is the Ondo Tokenized version of Nebius Group, giving tokenholders economic exposure similar to holding NBIS and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
+    "marketCapRank": 1177,
+    "currentPriceUsd": 286.65,
+    "marketCapUsd": 9189053,
+    "fullyDilutedValuationUsd": 9189053,
+    "totalVolumeUsd": 2206273,
+    "priceChange24hPct": 17.77363,
+    "priceChange7dPct": 4.788,
+    "priceChange14dPct": 6.64604,
+    "priceChange30dPct": 22.93393,
+    "athUsd": 298.37,
+    "athChangePct": -3.60899,
+    "circulatingSupply": 32057.01225817118,
+    "totalSupply": 32057.01225817118,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 70,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "OBS/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x8e5485B962e5ebAA236a5f717F0f3bd7E9329fe4",
+    "pairUrl": "https://dexscreener.com/bsc/0x8e5485b962e5ebaa236a5f717f0f3bd7e9329fe4",
+    "lastPrice": 5.35,
+    "priceChange24hPct": -1.75,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.07,
+    "liquidityUsd": 207.86,
+    "fullyDilutedValuationUsd": 476232,
+    "marketCapUsd": 476232,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x8e5485b962e5ebaa236a5f717f0f3bd7e9329fe4",
+    "pairAddress": "0x8e5485B962e5ebAA236a5f717F0f3bd7E9329fe4",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x490DbA6180b089d8E36eBb1E56a33F1aE9B96b87",
+      "name": "OpenBiSea Token",
+      "symbol": "OBS"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.009744",
+    "priceUsd": "5.35",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 0.07,
+      "h6": 0.04,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -1.75,
+      "h24": -1.75
+    },
+    "liquidity": {
+      "usd": 207.86,
+      "base": 19.399,
+      "quote": 0.189
+    },
+    "fdv": 476232,
+    "marketCap": 476232,
+    "pairCreatedAt": 1619424710000
+  },
+  "news": [
+    {
+      "title": "Nebius Group Tokenized Stock (Ondo) price today, NBISon to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03NXhlOFFocFpLSUtPS2V6WkdDMkZmeWRtSFVVaktDUnU4MUtjQU9LeTZoZE1OQllfQUhPcm9zeTRJNUh0X1BqRDRsSlNMMXU4cXNEQVNaUlVIT3ROcjNUMjBXbllNXzdFTjRreV9VWEZhX0lPeXJqa1Mzaw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 23 Mar 2026 07:01:58 GMT",
+      "snippet": "Nebius Group Tokenized Stock (Ondo) price today, NBISon to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Nebius Group (Ondo Tokenized) Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fUExSQ3VrYk12Q0JnUjBuVUlkc2NhZE9uUVlPUTJuXzA3WFVBVDltVmRReTlkd0RKMEVMRGZCMC1HZ3VyQWZMbVpGZ3RveU80UTU0X0F5M2JHZzQtXy15UDVVSVRwMFdrRUtNTHg0RkRwZ3M?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 24 Mar 2026 05:34:20 GMT",
+      "snippet": "Nebius Group (Ondo Tokenized) Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Historical Data for Nebius Group (Ondo Tokenized) in USD - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82bUxuWFl6ejRONkRZM01idTNOam94U0ZoWkVOZmVQLWREUWx3RVRtQ2hlU2NCTEplSnJyR3dmMzgzeW1KYU1PWThuN1hSNkRZNHZRMHgwYW5YY1ZlZnRvbFJIZDJaR0E3c1h0MjF4UDFrRUVhSlloUWxqdw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 24 Mar 2026 05:34:20 GMT",
+      "snippet": "Historical Data for Nebius Group (Ondo Tokenized) in USD&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned OBS for NBISON; DEX profile ignored to avoid token mix-up."
+  ]
+}

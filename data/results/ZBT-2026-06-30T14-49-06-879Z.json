@@ -1,0 +1,318 @@
+{
+  "token": "ZBT",
+  "requestedInput": "ZBT",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T14:49:06.879Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ZBT",
+    "name": "ZEROBASE",
+    "generatedAt": "2026-06-30T14:48:57.318Z",
+    "summary": "ZBT近期上涨主要受Binance HODLer空投、多所上线及生态进展推动，但当前价格较ATH跌近90%，流动性较低，短期追高风险大。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若价格跌破0.10美元或成交量持续萎缩，则上涨逻辑失效"
+    },
+    "catalysts": [
+      "Binance HODLer空投活动（2025年10月）带来大量用户关注",
+      "Binance、MEXC、Coinbase等多家交易所上线",
+      "零知识证明+隐私基础设施叙事",
+      "YZi Labs（前Binance Labs）投资背书"
+    ],
+    "latestNews": [
+      {
+        "title": "Binance Launches $1 Billion ZEROBASE (ZBT) Airdrop and Listing",
+        "impact": "利好",
+        "reason": "大规模空投和主流交易所上线显著提升代币曝光度和流动性"
+      },
+      {
+        "title": "MEXC celebrates ZEROBASE (ZBT) listing with airdrop+ event",
+        "impact": "利好",
+        "reason": "额外空投活动吸引更多交易者"
+      },
+      {
+        "title": "Binance Will Add ZEROBASE (ZBT) on Earn, Buy Crypto, Convert & Margin",
+        "impact": "利好",
+        "reason": "增加产品线提升代币实用性"
+      }
+    ],
+    "fundamentals": [
+      "ZEROBASE是去中心化密码学基础设施网络，利用零知识证明和可信执行环境实现可验证链下计算",
+      "产品包括zkStaking、zkLogin、ProofYield，面向机构DeFi和隐私",
+      "总供应量10亿，流通量约2.45亿（24.5%），FDV约1.14亿美元",
+      "Binance HODLer空投项目，YZi Labs投资",
+      "代币价格较ATH 1.025美元下跌约89%"
+    ],
+    "marketRead": [
+      "24小时涨幅8.28%，但7日涨幅仅4.79%，30日仍跌7%，短期反弹但中期趋势偏弱",
+      "DEX交易对ZBT/ETH流动性仅18.9万美元，深度较差，大额交易易滑点",
+      "市场情绪投票看涨比例仅33.33%，关注度中等（2718人关注）"
+    ],
+    "risks": [
+      "价格较ATH跌幅巨大，套牢盘压力重",
+      "DEX流动性低，存在操纵和滑点风险",
+      "空投后抛压可能持续，尤其是早期投资者解锁",
+      "项目处于早期，实际采用和收入不明",
+      "新闻热度集中在2025年10月，近期缺乏新催化"
+    ],
+    "watchlist": [
+      "Binance HODLer空投后续解锁进度",
+      "是否有新的交易所上线或合作公告",
+      "DEX流动性变化及大额转账",
+      "价格能否站稳0.12美元上方"
+    ],
+    "sourceNotes": [
+      "数据主要来自CoinMarketCap和DexScreener，DEX数据仅限Base链Uniswap，可能不反映全貌",
+      "新闻时间集中在2025年10月，近期无重大更新，上涨动力存疑"
+    ]
+  },
+  "profile": {
+    "id": "zerobase",
+    "symbol": "ZBT",
+    "name": "ZEROBASE",
+    "categories": [
+      "Smart Contract Platform",
+      "Decentralized Finance (DeFi)",
+      "BNB Chain Ecosystem",
+      "Ethereum Ecosystem",
+      "Zero Knowledge (ZK)",
+      "Base Ecosystem",
+      "Proof of Stake (PoS)",
+      "YZi Labs (Prev. Binance Labs) Portfolio",
+      "Binance HODLer Airdrops",
+      "Binance Alpha Spotlight",
+      "Binance Wallet IDO",
+      "Privacy Infrastructure",
+      "Privacy"
+    ],
+    "homepage": [
+      "https://zerobase.pro/"
+    ],
+    "description": "ZEROBASE is a decentralized cryptographic infrastructure network that enables verifiable off-chain computation using zero-knowledge proofs (ZKPs) and trusted execution environments (TEEs). It powers products like zkStaking, zkLogin, and ProofYield—bridging institutional DeFi, user privacy, and real-world asset strategies. ZEROBASE delivers programmable, compliance-aligned staking and transparent cryptographic assurance without exposing sensitive data. ",
+    "marketCapRank": 654,
+    "currentPriceUsd": 0.114144,
+    "marketCapUsd": 27949758,
+    "fullyDilutedValuationUsd": 114084280,
+    "totalVolumeUsd": 9644175,
+    "priceChange24hPct": 8.28152,
+    "priceChange7dPct": 4.78789,
+    "priceChange14dPct": -3.96534,
+    "priceChange30dPct": -7.04405,
+    "athUsd": 1.025,
+    "athChangePct": -88.9202,
+    "circulatingSupply": 244992188.30119348,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 33.33,
+    "watchlistUsers": 2718,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "ZBT/ETH",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x8eb77dec3addde5c36b7393d376c76c16d00e1407d7e38d03f8a7df5855e0cef",
+    "pairUrl": "https://dexscreener.com/base/0x8eb77dec3addde5c36b7393d376c76c16d00e1407d7e38d03f8a7df5855e0cef",
+    "lastPrice": 0.0002225,
+    "priceChange24hPct": 1.09,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 584.4,
+    "liquidityUsd": 189209.21,
+    "fullyDilutedValuationUsd": 222599,
+    "marketCapUsd": 222599,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "base",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/base/0x8eb77dec3addde5c36b7393d376c76c16d00e1407d7e38d03f8a7df5855e0cef",
+    "pairAddress": "0x8eb77dec3addde5c36b7393d376c76c16d00e1407d7e38d03f8a7df5855e0cef",
+    "labels": [
+      "v4"
+    ],
+    "baseToken": {
+      "address": "0xA7d42CF675A835a34EDd8ebFD4507Db4bd56544d",
+      "name": "Zerobase",
+      "symbol": "ZBT"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "priceNative": "0.0000001399",
+    "priceUsd": "0.0002225",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 4,
+        "sells": 4
+      }
+    },
+    "volume": {
+      "h24": 584.4,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": 1.09
+    },
+    "liquidity": {
+      "usd": 189209.21,
+      "base": 849959986,
+      "quote": 0.005783
+    },
+    "fdv": 222599,
+    "marketCap": 222599,
+    "pairCreatedAt": 1776817657000
+  },
+  "news": [
+    {
+      "title": "ZEROBASE Price Today | ZBT to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KSnpkcmRZc2JhZVJ6RXFlNEN3WmJ6WmRRLWVSM3hGMktQakJMN2NIamNJOVVrMnVyVXZhVi1qd3QwZDJEWGtqQ3JPWVhyNnRLZ0RwMWliMA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 27 Jun 2026 00:09:00 GMT",
+      "snippet": "ZEROBASE Price Today | ZBT to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "ZEROBASE price today, ZBT to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42b3dCYUItbTJyQ2lzQ0NnTTZxMF9hNnVyU1JDN3M2RHN4Z3d1YzRzQWR4YWxERERjaEROajVsdnMyUkpmWjJJWGFxWllHWjZhX0FwUUhUYjMwdw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 17 Sep 2025 13:28:39 GMT",
+      "snippet": "ZEROBASE price today, ZBT to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "ZEROBASE Price, ZBT Price, Live Charts, and Marketcap - Coinbase Germany - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15X0tvcFlOalRmUjZGQXJHdmtsRDFYLThyblhXOE1naXVqWEpzaFcwZ0ItSUxkemFZRi14aEZZMWlGRzI2RVc1YXYtSGFxTm9vTEJiQWtjRzE?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Sun, 05 Oct 2025 07:28:01 GMT",
+      "snippet": "ZEROBASE Price, ZBT Price, Live Charts, and Marketcap - Coinbase Germany&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "Zerobase Price | ZBT Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QWHJQejJBY2ZMYm81YmVZbHRWZXN5QzVBT3ZSamFUbEhabEF5enhpWjBQSW1fOTB1SEdjdEFPOXJ5VWt0Mk82V1lBV2U?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 21 Oct 2024 12:11:57 GMT",
+      "snippet": "Zerobase Price | ZBT Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What Is ZBT Crypto That Just Launched? The New Binance Cow? - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVUs4LTRxSTcwUEV5YXBKZ2wwcTZWa1hwWEJQTU5TNF9ZWUd1NFNvaFQ5UFd1SlRyNEV0bUpXMVk1RFRKTDI5VEJkRjhZa2xiYzZWTzZwSU50Qy1PWGhDd3NDdkJpM0N6NjRicF9WblJCYXNQNG1QQUlCbnkxMXFvYi1oUERnTm5URXJzQUo1U1U1Y21leERfUjFjRQ?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Fri, 17 Oct 2025 07:00:00 GMT",
+      "snippet": "What Is ZBT Crypto That Just Launched? The New Binance Cow?&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "Zerobase (ZBT) Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VSFRrR1FvdFZuOWc2TGV6cm5ndHJUaS1LYzlXMzg0MXRhdXVlQ1QyblA5UjZUWmtEQXRDYWx4ZWwzQVk2QjNLSy1n?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 21 Oct 2024 12:00:00 GMT",
+      "snippet": "Zerobase (ZBT) Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "What is ZeroBase (ZBT)? The 54th project on Binance HODLer Airdrops. How to receive Airdrop from holding BNB - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vMnFhVWdSM1JjelZCcXBjTU1tajl5YW1zRHlVZFVoVjJ6MklZN3YyeGEzb1N3d0IwS2diaWI3WDRLcERNb2hlT0hWUG1Sc1dXTl9IMU93cnBITFlyR3Nnc0xHUQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 21 Oct 2025 07:00:00 GMT",
+      "snippet": "What is ZeroBase (ZBT)? The 54th project on Binance HODLer Airdrops. How to receive Airdrop from holding BNB&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "MEXC celebrates ZEROBASE (ZBT) listing with airdrop+ event featuring 55,000 USDT prize pool - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wVlBRTFVuQWNpX1NtRkZZS1R3UFdxT2sxakt4ZGFkWE1nOVpERENldTFfYWdzTllKSWc0NnZEb2NfVUR4RExpa2lWQmtvOTZRWWQzV2FJUDJ3T2tpaGZsSHBxMHZjLXJNdnl1aTZSb2xPQQ?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Thu, 16 Oct 2025 07:00:00 GMT",
+      "snippet": "MEXC celebrates ZEROBASE (ZBT) listing with airdrop+ event featuring 55,000 USDT prize pool&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "Binance Launches $1 Billion ZEROBASE (ZBT) Airdrop and Listing, Trading Opens October 17 - CryptoNinjas",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckdhaS1BNUV4emp4VVVsUTRvQUtGVHNXY1FsVWo4RXE0bWYwZVlXQTlTaW4tdnYxMmRVZ3ZYejRXR0tnanExdnI0a1lpVUxPWHQ5dDV0dVRoaDl0dGVXN2Z4cGs3VWFJb1lmRWtfWHVRQVlRcHRsTEJfOUNrUTVTYmVHUWZyaWdITnJOS3o1OGw3ZXpYbEhzSHY1LWYwdm5kQ1FsWVhIQ1EzRll1VHhpNE4tZnRRV2VhSlJn0gHAAUFVX3lxTFBiWTd5eFJwNG9Kd0RaQ0xpd08wMVdRX3RJTDlIVWxCeXNJdzhHT2N6cnpNU1BJdEhCQ1l3TzcyTDZTQk9RY2JnRHlhZHlBaW0zbVAycmV4UGk3dEc0VHd1QThyYUs1amRZOUtDQThGQnU0OEkySEJCbDUtdTlFc0ZXR25OYmhmb25NQ3dzRXJjNlFFRzEwWjdweEZTckNVMjdENDE4SFBkQklJb3ZiakJrQ2ZkNHJOdW9kZDRsSVlzUg?oc=5",
+      "source": "CryptoNinjas",
+      "publishedAt": "Sun, 19 Oct 2025 07:00:00 GMT",
+      "snippet": "Binance Launches $1 Billion ZEROBASE (ZBT) Airdrop and Listing, Trading Opens October 17&nbsp;&nbsp;CryptoNinjas"
+    },
+    {
+      "title": "ZeroBase (ZBT) - All information about ZeroBase ICO (Token Sale) - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE01cUFMR2JqSGNoaXRldHp3cnZtZmV3T0NyWHhnSDcwX2NHSzBpQVpNMno4MEtEVjU0TjBhbGZXUEFScXNV?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Sat, 19 Oct 2024 18:47:49 GMT",
+      "snippet": "ZeroBase (ZBT) - All information about ZeroBase ICO (Token Sale)&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "What is ZeroBase (ZBT)? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1NnFHdy1IUi04b3VuOFRGRWw1UVd2clViWWhpcUFQeWZFSFpVUnVBX1c1bkFwbllsalVUQlZYTXFRWHFaQUNlSjdFaG9RYXBUR3YwWEN0NUttYktLcURlN1dGX0pNNEJ2STRscXIyS19ub2FFNFpJZThLZFHSAYIBQVVfeXFMUHJnQlBmTzUwMEZEam1NVDhzam9VZnYwSjRsdU8zNUVDNERCbGZ0Tl9pbXEwek5Xc3JmYjVPSnF1R0xvWHhITlQwQnI5b2hHbXFkSDUxa0ltNXg0Vmc1eTRXRngxSG1xMGEyVEpnTlF1a0dBeGRzZGZsSTkxUFd4YmtDdw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "snippet": "What is ZeroBase (ZBT)?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Zerobase (ZBT) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQUFNZE51UTNRbWg2SHNra0xtVXRrOFA1MFdneWFLdGNPTlVoUXQtU1U2cU9fbEUzRzZmUXVXM3JBZnk1SFZCU2lEbERoVnpab0lHek9BN0xUNnl2OTQ4?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 20 Oct 2025 07:00:00 GMT",
+      "snippet": "Zerobase (ZBT)&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "3 Promising Cryptos with 1000x Potential: ZBT, APR, and MON - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KWkxYT2ctcHNHZ2MybVk0WGxMZkNQZ2tyQ2NSTE84OWt4N0pNWnhYb3FraUJXSkxjQmxxYkVhZTF6c2s4UWFYdEJ0SHpoT0ZSRmpRSHRSd1VhYmdXbFHSAWNBVV95cUxOUXFEVTN3NXZpcmNITEhyMko3cnVEc3J3Z3o5eFh0UWRfOG0zbGJZaFJkMkpFN1ltZXVBN1pkV0ZKNmxBZ0ZITjRXZWpDT2tzazZ2N2tXOV9JaFViUzlZUEp4b2s?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 09 May 2026 07:00:00 GMT",
+      "snippet": "3 Promising Cryptos with 1000x Potential: ZBT, APR, and MON&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Introducing ZEROBASE (ZBT) on Binance HODLer Airdrops! Earn ZBT With Retroactive BNB Simple Earn Subscriptions - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaUt2enBlYVA2MTF6T2dxVnpnUGd3bXoyMDU2X0wySEFXUXVQV01mNzFwLTRLcEJ3RzM2SHlHYUdrZFhVbXEwVDl6anNralROSE5mZEY4NEhKakVmN2NlU04tVUpvUV9WalBXdlh3dW9Qdi1fRHZOb3RGU25jeTFVQnIwcThLTk5jbVhNX3RRNFA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 17 Oct 2025 07:00:00 GMT",
+      "snippet": "Introducing ZEROBASE (ZBT) on Binance HODLer Airdrops! Earn ZBT With Retroactive BNB Simple Earn Subscriptions&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Introducing ZEROBASE (ZBT): Grab a Share of the 9,650,000 ZBT Token Voucher Prize Pool! - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbkJ1OTNSUE9UR0YyQlhFTTR3RWRCa1RKeGxTMkFVRVJBOHNGVHQybDFPRF9ESVVQdTVRa3dNdENJTTlYNEdHcEUybkRCWUVJS0xGX0hvdGpDQ2tEMlRwZjBhMDVDdTBWU2xEdGpSN0ljb0dNU3Z0WHRKTFV0UTljYnFRU1RvdFdXcFFfMHJYbGQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 20 Oct 2025 07:00:00 GMT",
+      "snippet": "Introducing ZEROBASE (ZBT): Grab a Share of the 9,650,000 ZBT Token Voucher Prize Pool!&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Will Add ZEROBASE (ZBT) on Earn, Buy Crypto, Convert & Margin - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVlOU3BnSGpWUGlBM29pUzJlcS1YQ3NnUm5id1RfclBxMlZJUmEwSzctbkY1VXpjWl9xeUQtNzZyT2FxbHdreWx1SHYxZmhXY1hreE9OcktkT29KTzdNRVp5RGRoWFNwXzdhd082WWtBczl0TkNhRjRsY0hUQml0Wnl6NkxtSVRkVmp4UEVSVEY?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 17 Oct 2025 07:00:00 GMT",
+      "snippet": "Binance Will Add ZEROBASE (ZBT) on Earn, Buy Crypto, Convert & Margin&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
