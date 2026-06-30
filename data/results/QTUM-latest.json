@@ -1,0 +1,293 @@
+{
+  "token": "QTUM",
+  "requestedInput": "QTUM",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T02:48:17.177Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "QTUM",
+    "name": "Qtum",
+    "generatedAt": "2026-06-30T02:48:07.893Z",
+    "summary": "QTUM近期在Solana链上出现异常高流动性池，价格与主流市场严重脱节，疑似伪造或操纵。基本面为老牌国产公链，但生态活跃度低，近期无重大利好。24小时涨幅仅1.9%，链上池子却显示3美元价格，极不可信。建议回避。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若链上池子价格与主流交易所价格收敛至合理范围，且出现实质性生态进展，可重新评估。"
+    },
+    "catalysts": [
+      "无明确近期催化剂"
+    ],
+    "latestNews": [
+      {
+        "title": "Whales Make Waves — QTUM Surges 24% in Just 30 Minutes",
+        "impact": "中性",
+        "reason": "5月旧闻，且为短期波动，无持续性影响。"
+      },
+      {
+        "title": "Qtum Price Prediction 2026-2030: Analyzing the Realistic Potential for a Monumental Comeback",
+        "impact": "中性",
+        "reason": "多家媒体重复发布价格预测，内容同质化，无实质利好。"
+      }
+    ],
+    "fundamentals": [
+      "Qtum是2017年启动的国产公链，结合比特币UTXO和以太坊智能合约。",
+      "采用PoS共识，社区治理（DGP）。",
+      "团队背景包括前腾讯、阿里、纳斯达克员工。",
+      "市值约7500万美元，排名311，流通量1.06亿。",
+      "当前价格0.71美元，较ATH跌99.3%。",
+      "生态发展缓慢，缺乏知名DApp。"
+    ],
+    "marketRead": [
+      "主流交易所（如Binance）QTUM/USDT价格约0.71美元，24h涨1.9%。",
+      "Solana链上Raydium池QTUM/USDC显示价格3.04美元，流动性高达3639万美元，但24h交易量仅9.97美元，极不匹配，高度疑似虚假流动性或价格操纵。",
+      "链上FDV达6.08亿美元，与主流市值7500万美元严重背离。",
+      "该池子可能为同名代币或伪造，需警惕。"
+    ],
+    "risks": [
+      "链上池子价格与主流市场严重脱节，存在欺诈风险。",
+      "项目本身生态疲软，缺乏增长动力。",
+      "代币供应量接近全流通，无通缩机制。",
+      "新闻多为教育性或预测性内容，无实质性利好。",
+      "历史价格表现极差，ATH跌幅99%。"
+    ],
+    "watchlist": [
+      "主流交易所QTUM价格及成交量变化。",
+      "Solana链上该池子的流动性及交易活动是否异常。",
+      "Qtum官方是否有重大升级或合作公告。"
+    ],
+    "sourceNotes": [
+      "链上数据来自DexScreener，但流动性数据可能不准确或为虚假。",
+      "新闻来源多为教育网站或聚合器，权威性低。",
+      "市场数据来自CoinGecko，但链上池子数据需交叉验证。"
+    ]
+  },
+  "profile": {
+    "id": "qtum",
+    "symbol": "QTUM",
+    "name": "Qtum",
+    "categories": [
+      "Smart Contract Platform",
+      "Proof of Stake (PoS)",
+      "Made in China"
+    ],
+    "homepage": [
+      "https://qtum.org/en/"
+    ],
+    "description": "Qtum is a decentralized and open-source smart contracts platform and value transfer protocol. Qtum uses proof-of-stake consensus, meaning node operators are rewarded for validating transactions. It is a DGP governed blockchain where community participants can vote to change certain network parameters. Qtum is built on a bitcoin core fork, but the foundation has created its own hybrid blockchain with the help of several key tools. The coin uses bitcoin’s chain because of its simple and stable nature, allowing the foundation to build upon it more easily. As the QTUM project is a hybrid of Bitcoin and Ethereum, its team comprises of members from both Bitcoin and Ethereum community. They also have team members who formerly worked with Tencent, Alibaba, Nasdaq etc. Apart from that, they are backed by some notable VCs and prominent people from the Blockchain community such as Patrick Dai (Project Co-Founder), Neil Mahi (Chief Blockchain Architect/Co-Founder) and Jordan Earls (Lead Developer/Co-Founder). Qtum provides a Turing-complete blockchain stack and is able to execute smart contracts and decentralised applications like the Ethereum blockchain. Qtum builds on Bitcoin's UTXO transact",
+    "marketCapRank": 311,
+    "currentPriceUsd": 0.710938,
+    "marketCapUsd": 75408069,
+    "fullyDilutedValuationUsd": 76664310,
+    "totalVolumeUsd": 7523561,
+    "priceChange24hPct": 1.921,
+    "priceChange7dPct": 0.76877,
+    "priceChange14dPct": -5.16624,
+    "priceChange30dPct": -17.51046,
+    "athUsd": 100.22,
+    "athChangePct": -99.28764,
+    "circulatingSupply": 106055599.75,
+    "totalSupply": 107822406,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 43425,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "QTUM/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "8aC2AnfGzs9xw5WxqX9Pntp9M1kAJeuFmWp37vAL8xp4",
+    "pairUrl": "https://dexscreener.com/solana/8ac2anfgzs9xw5wxqx9pntp9m1kajeufmwp37val8xp4",
+    "lastPrice": 3.042,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 9.97,
+    "liquidityUsd": 36398012.38,
+    "fullyDilutedValuationUsd": 608418025,
+    "marketCapUsd": 608418025,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/8ac2anfgzs9xw5wxqx9pntp9m1kajeufmwp37val8xp4",
+    "pairAddress": "8aC2AnfGzs9xw5WxqX9Pntp9M1kAJeuFmWp37vAL8xp4",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "EiCjHCcowA2uAesRzrA45V7BQkZjh3GJBzv64MwoaY6J",
+      "name": "QTUM COIN",
+      "symbol": "QTUM"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "3.04209",
+    "priceUsd": "3.042",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 2,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 9.97,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 36398012.38,
+      "base": 11964801,
+      "quote": 6.8937
+    },
+    "fdv": 608418025,
+    "marketCap": 608418025,
+    "pairCreatedAt": 1756112167000
+  },
+  "news": [
+    {
+      "title": "Where to buy Qtum: Best Choices and Primer - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLRjdBWjc2dVVETFlIZ3ZGcm01TmloU0FjQVFYS0Y0NU9JOFVnUFp4TzYtVjhuUGY0Y3RqRXpNdGNnTEJFZlRZVE9kLVRsbzgwTUptdnFoc2EwRVBfa21vTGFjSGgtU0pOQllRTjNMZXZFS2NN?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Tue, 30 Jun 2026 00:05:40 GMT",
+      "snippet": "Where to buy Qtum: Best Choices and Primer&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Qtum Primer: Value, Pricing & How to Start - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9od2MxVXByX0NFSkJmVWh4WmR0SjRhTkFvc3JuaFQxN0ZCUzFOZTB3WHF2dVFGNnFxZ01CYWFKam5TcExjY01XaWhNWkl2emhTOG1kNXU1dzVPZUNLeE4wOF9Cd3paSUFxM0dDcg?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Mon, 29 Jun 2026 18:28:55 GMT",
+      "snippet": "Qtum Primer: Value, Pricing & How to Start&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "PEN to QTUM | Convert Peruvian Sol to Qtum - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIdkRjcEE0MTctb0hXMTZDTzdCVW1RVHVrZXNPVzRNbTJfT1FsNDM1bXBuV1VRQXRxYTYzVjBrc0RRVm5Rc19iX0NKVU8xR2wxZW8xYnlJemhvRXVsZjFJ?oc=5",
+      "source": "OKX",
+      "publishedAt": "Sat, 27 Jun 2026 00:00:00 GMT",
+      "snippet": "PEN to QTUM | Convert Peruvian Sol to Qtum&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Qtum Price Prediction 2026-2030: Analyzing the Realistic Potential for a Monumental Comeback - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUYxM1F1dzFpVC1YTW05VmN6NGc2SHNWTlppRXMzVm5fbnl4clZEVVBmNHE5UnBBcHZzLXp1cl9ENXZzRzExUG1tUkhsQWQ3eFk5Y2hfUGJkd0FkbHN1Rmt2WDRzZ1BuTVV4elNjSzgxTVlrQnJ1QUdVNWtxVi16VjE4eHY?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "snippet": "Qtum Price Prediction 2026-2030: Analyzing the Realistic Potential for a Monumental Comeback&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Qtum (QTUM) Price Prediction 2026, 2027-2030: Is a 10x Comeback Possible? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xeklVcHhWR0VzOVM2am1haWY2UlBaWVlURzRTREJTUmk4YW1acXpZRHh6cEJvTm16MnpWOVZzWmwzMUxJMTUzNGItRVFHTnNicTZXajVZVEtPYmdnMHVrODBPeDlrdlZRaGVoYy1n0gFzQVVfeXFMUHRPS1lNeUZ0NWZXODRBYmV0OEI3WXR3cVJ5aks3RXNqUlROVXcyeUhJV0ZTT3VwR3FxN3ZPZjZzbW5WNDZEWXB0dmcyLUlSZnhkR0FwcXpGZmU2QjN1dmU1T3NGVFNLT2hEVTFXdzBrcUZVbw?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "snippet": "Qtum (QTUM) Price Prediction 2026, 2027-2030: Is a 10x Comeback Possible?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "How to purchase Qtum on App: Mobile Buying Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wNmE2S1JPS3lzMFRNSVBNNHU4VVdKZ1RZaHZ1bENnc2h6c01DZlBLOENiZmpFZ1Y2dWF2bzlfQl85OUtsOG1fMGltaE1IamVlSlg0eGVuYTQ4YVM2Y0dPdmV6MWpELXJrem9XdlBZd0dueGk2bzhPaEl0QkZVUQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Mon, 29 Jun 2026 14:31:07 GMT",
+      "snippet": "How to purchase Qtum on App: Mobile Buying Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Whales Make Waves — QTUM Surges 24% in Just 30 Minutes - Coinfomania",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSlBpb1oyQkFublBwVjl5M3BfQnpsZXhPdVY2UUFYdmlBdkI5eE9xTU5EU2oxRC14bHpXcWhnQVJJWlZnS2NYLTU2eFVVVE1JdElRVUJmQjA3RGFseDhMNk9pUDlpVHlNUEtEa3Q4bHhwTlFjZXVNQlFpYXFJaUphYzZ3?oc=5",
+      "source": "Coinfomania",
+      "publishedAt": "Sun, 10 May 2026 07:00:00 GMT",
+      "snippet": "Whales Make Waves — QTUM Surges 24% in Just 30 Minutes&nbsp;&nbsp;Coinfomania"
+    },
+    {
+      "title": "Qtum Price Forecast & Predictions for 2026, 2027, 2028–2030, and Beyond - LiteFinance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBReUFmekZUUkhySHdfTUlkbUZoWThzcGo3X2FZVFpQanNWTElBUDBqVm9CTGVyaWprenRzRUNvZUJoNzBNT3kzME5peC00T01SSDdVcjd2cEZzR3d0QzZQRDk3eXZRZmVFdTZGV0REeXRROW9aRWpNUU43UjVKZw?oc=5",
+      "source": "LiteFinance",
+      "publishedAt": "Wed, 27 Aug 2025 07:00:00 GMT",
+      "snippet": "Qtum Price Forecast & Predictions for 2026, 2027, 2028–2030, and Beyond&nbsp;&nbsp;LiteFinance"
+    },
+    {
+      "title": "How to purchase Qtum: Detailed Crypto How-To - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4VVNPekhLM2RNQlRDMFR4Qm9QQjRjaDJ2eUtrdnV6R2k5a2ZwVmszWEVLUXVwdGVCTjgwaXdJbHNRelpqNk12MWdfNmRRcF9XZ2Y2T3k0cXJ0a0JBRzN2V3hNSkIzbFo1Q3pITk4xaVFPRGM?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Thu, 11 Jun 2026 05:06:25 GMT",
+      "snippet": "How to purchase Qtum: Detailed Crypto How-To&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Qtum Step Guide: Value, Cheapest and How to Start - وزارت صحت عامه",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTOXVOd21ueEs1MnlFOTZ1NlI5SThnbEVDMUxSRlQ5bEc3VER1Sjl4VFd0R1lZZXRIUTlwR3hRaDJRaWhwT0JDLXhHUlJmLWFvX0l0WFl0ZkM0OEN2M1hYa1pLdS10ZGJNTEcxUTlXeEsyWG9kd0hUdjc3N1IwQ2s?oc=5",
+      "source": "وزارت صحت عامه",
+      "publishedAt": "Sat, 13 Jun 2026 19:25:23 GMT",
+      "snippet": "Qtum Step Guide: Value, Cheapest and How to Start&nbsp;&nbsp;وزارت صحت عامه"
+    },
+    {
+      "title": "Qtum Primer: Price, Pricing & How to Start - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PM0ZfOEFiLVFwTUZBNWUzTGxWSmVfazZ4TEd4UGFEem0wMnJUVHBFaDNpaWNHeldzMGRfel9wTElMQmFaVDg0cVM0RWJTemVkTUh3dEJfLXZtdlhfc2toSndBX0pIaHpxaUhVWEdIY2Vwc0dvSE5HN24tUnByUQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Fri, 19 Jun 2026 13:44:36 GMT",
+      "snippet": "Qtum Primer: Price, Pricing & How to Start&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Can QTUM Reach $1,000? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RdFJmUHFvVmxkcGZqN3lNN2ZGWEZTU19LcVpyMGxMeWxFU05PblBpRW1NbFFiVm9jOF9mWXhfbW5GczVGeHZGeXVvbkZyM3ZURVhVcEdFbmFOYkEw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 24 May 2025 01:02:50 GMT",
+      "snippet": "Can QTUM Reach $1,000?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Qtum Manual: Price, Cheapest and How to Start - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zSzhkZTFFUkQ5cVZFd05PbnJDUTVWeXhaTEVweW9aS2w3MTF5R1Y3ZVhvMEhUUkJLd0Y3Wkw2d2tCMnhVOGxKZENuMEx6am1ZNkJncUdaT1prWkVCdGE5SVpPeDVDakVfS1BYamRTR1R5VDBY?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Sat, 06 Jun 2026 05:49:28 GMT",
+      "snippet": "Qtum Manual: Price, Cheapest and How to Start&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Purchase Qtum with Card: Comprehensive Step Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc2s1emdsVWxQRjFCb21MX0tlQXlxMENaMjhMSnBKNHBCeGdCWjNGU3p1bzFlSGNvM0E2RDZYV3hiMER1bGNSVlQ4RGFyYzR2d1dmWkM0RHhwZ0JQNEQwQlhtclM5eVJEXzQ4cVRUSXM1Zm5wY0FjTzdMZHFUSkk1T1AtQQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Fri, 19 Jun 2026 20:03:16 GMT",
+      "snippet": "Purchase Qtum with Card: Comprehensive Step Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Qtum Price Prediction 2026-2030: Analyzing the Realistic Potential for a Monumental Comeback - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjRllJRm9seThtTnBRSGx6NXhqeldCa2tnUjFPdktXQ2tqSnZ1QjJScXFCd0ZzbzVwWEZ3ZlJnWG1NZGJPUzc5SE9taWcteW41blFwb1RDVGdSeXR1V3fSAWNBVV95cUxPTk5XSHVvS3Q0UVZEdkg2SGlhWnU5ZGc1T0ZGRUpwU2JUZWVWYVRXWlFrRXpGMEJiZFBMc0Fjb0NhN2g0YWROUHpQUTZzYno0bjVudVJXY21kMHQ3Q210V1h3ZlU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "snippet": "Qtum Price Prediction 2026-2030: Analyzing the Realistic Potential for a Monumental Comeback&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
