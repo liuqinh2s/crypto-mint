@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T10:48:53.757Z",
+  "updatedAt": "2026-06-30T11:03:34.972Z",
   "results": [
     {
       "token": "KRAV",
@@ -8,27 +8,27 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T10:48:53.349Z",
+      "generatedAt": "2026-06-30T11:03:29.916Z",
       "latestPath": "data/results/KRAV-latest.json"
     },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 15,
+      "score": 20,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T10:48:52.806Z",
+      "generatedAt": "2026-06-30T11:03:27.514Z",
       "latestPath": "data/results/-latest.json"
     },
     {
       "token": "AMT",
       "requestedInput": "AMAT",
       "name": "Amateras",
-      "score": 5,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T10:48:53.755Z",
+      "generatedAt": "2026-06-30T11:03:28.990Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
@@ -38,8 +38,18 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T10:48:52.419Z",
+      "generatedAt": "2026-06-30T11:03:27.691Z",
       "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "AVAV",
+      "requestedInput": "AVAV",
+      "name": "AeroVironment, Inc. (股票) / Avascriptions (代币)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T11:03:34.969Z",
+      "latestPath": "data/results/AVAV-latest.json"
     },
     {
       "token": "SYN",
@@ -990,16 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-29T09:18:04.514Z",
       "latestPath": "data/results/VELO-latest.json"
-    },
-    {
-      "token": "AR",
-      "requestedInput": "AR",
-      "name": "Arweave",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T09:18:06.988Z",
-      "latestPath": "data/results/AR-latest.json"
     }
   ]
 }

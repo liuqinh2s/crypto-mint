@@ -1,0 +1,173 @@
+{
+  "token": "AVAV",
+  "requestedInput": "AVAV",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T11:03:34.969Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AVAV",
+    "name": "AeroVironment, Inc. (股票) / Avascriptions (代币)",
+    "generatedAt": "2026-06-30T11:03:28.109Z",
+    "summary": "AVAV 存在歧义：可能是纳斯达克上市的军工股 AeroVironment，也可能是同名代币。新闻显示 AeroVironment 近期有利好（空军合同、MAYHEM 10 系统）和利空（SCAR 合同终止、集体诉讼），股价波动大。代币方面缺乏链上数据，无法分析。建议明确标的。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无法确定标的，逻辑失效"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "AVAV Stock Rides Drone Defense Bull Wave As New Air Force Contract Adds Fuel",
+        "impact": "利好",
+        "reason": "空军合同可能推动股价上涨"
+      },
+      {
+        "title": "AVAV Stock In Focus: AeroVironment Bets On AI-Powered Multi-Role Warfare Systems With MAYHEM 10",
+        "impact": "利好",
+        "reason": "AI 多角色作战系统展示技术实力"
+      },
+      {
+        "title": "AVAV Stock Faces Selloff After Space Force Ends SCAR Contract",
+        "impact": "利空",
+        "reason": "SCAR 合同终止导致股价下跌"
+      },
+      {
+        "title": "AVAV EQUITY ACTION REMINDER: Faruqi & Faruqi Reminds Investors of Securities Class Action Deadline",
+        "impact": "利空",
+        "reason": "集体诉讼可能带来法律风险"
+      }
+    ],
+    "fundamentals": [
+      "AeroVironment 是无人机和导弹系统制造商，基本面受国防预算影响",
+      "代币 Avascriptions 无明确项目信息"
+    ],
+    "marketRead": [
+      "Binance 无法获取行情数据，可能限制地区或交易对不存在",
+      "新闻显示股价波动大，近期有利好和利空交织"
+    ],
+    "risks": [
+      "标的混淆：股票与代币同名，需区分",
+      "代币无链上数据，存在合约风险",
+      "股票面临集体诉讼和合同终止风险"
+    ],
+    "watchlist": [
+      "确认标的类型（股票或代币）",
+      "若为股票，关注国防合同动态和诉讼进展",
+      "若为代币，需获取 DEX 交易数据"
+    ],
+    "sourceNotes": [
+      "Binance 数据受限，无法获取实时行情",
+      "新闻主要指向 AeroVironment 股票，代币信息极少",
+      "建议使用 CoinMarketCap 或 CoinGecko 查询代币 AVAV"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "AVAVUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AVAVUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AVAVFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AVAVFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AVAVUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AVAVUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "AVAVBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=AVAVBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "AVAV Stock Rides Drone Defense Bull Wave As New Air Force Contract Adds Fuel — Here's What Investors Need To Know - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRHV5NDNRNzBCSk1uaGxTMnZzMzBhQ0wwLS1GMjMtV3Z0YngzWUI2a1RYNmt4b0Z6QjlYaUdaalhxNE1JSnlIb20tY3hod0FzSzBXcUNHV1NqVmtuZFJQeUwxXzlzakl3a0pnVEJRNzRnQ2RiMjlEazlFRGRQMENtV2FtWmh0LUNZMmU4b3hTa2hwTFNyckYtaXNndHQ3UTVKVmI5NGthN0pCaml1SGY0QTFsbGxMSVcwMENWSTc4MEVvdw?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Thu, 28 May 2026 15:24:57 GMT",
+      "snippet": "AVAV Stock Rides Drone Defense Bull Wave As New Air Force Contract Adds Fuel — Here's What Investors Need To Know&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "AVAV Stock In Focus: AeroVironment Bets On AI-Powered Multi-Role Warfare Systems With MAYHEM 10 - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTlFEVHlzSklUbWFjbE9sMWhEYzFrRDZnYzZOTGlwbGVrZ1hRR1dxTENiYXNhQTJiMFFBTmtHeE1uMUJhMWkxdGc2ZlpxNGg5WVpkNmhBdUROTGtDZTZORHhxZEstaElWbWoxQ1F6RGtTUWZQUmhBbEl5YlVWd25oUHpjUUNMQWs4WHNTRDdJQ0wzSmRjd2FVeHhxeWFxWVNER0VYQmdGTjNUNzZBWDZOZmxsRnBhYVYxZ1p1YkFjX3VLQk1rVW5ySU1hcUwtamJzS0poenEzZmlidw?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Tue, 19 May 2026 07:00:00 GMT",
+      "snippet": "AVAV Stock In Focus: AeroVironment Bets On AI-Powered Multi-Role Warfare Systems With MAYHEM 10&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "AVAV price today, AVAV to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwbEZQMEtGT2dlb3daOWNNcXBDRnlSbkRsWFZyY1JNTHRlcHJrbW1pYWRHT0pwdWZPVHprWkpJZVJOTkJYN0ZNblBxZw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 25 Nov 2024 00:35:00 GMT",
+      "snippet": "AVAV price today, AVAV to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "AVAV price today, AVAV to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02UzZoS0dObTlWMXM3X2VaRGhmV2N1UGNURE44WXA4QmlFcU45dVFsb291WnBiMU5RSUlNamZTSl81NzFjQlJ4bWRyamZaVXpyWTJyNA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 28 Dec 2023 13:04:50 GMT",
+      "snippet": "AVAV price today, AVAV to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "AeroVironment, Inc. $AVAV Shares Sold by BNP Paribas Financial Markets - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdWh5ZkM5X3hianpjd0NZNjd3UVc1Mmlzcm9QMERMSXJEZFRRbVVFTXh3TmVqbFJQRjB3UGhFd1l0RDYwY1BrUFo4VkozcF9SeHZ0bm52MlZBMnZCOFowWFRMQXlUVWRhdDRQc1RmcFExaVRpczRxNUVNQmVmazlXZ0cwc2hjVUtYYVlxUW1lWWZTU2VXLXJlZUFnZ0VvNUlmUV9ETkJWTUNfc2ozLWdiOEZ0TG9Fc2NxdUoydWtBOVdCXzNoR1lr?oc=5",
+      "source": "MarketBeat",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "snippet": "AeroVironment, Inc. $AVAV Shares Sold by BNP Paribas Financial Markets&nbsp;&nbsp;MarketBeat"
+    },
+    {
+      "title": "AVAV Stock Faces Selloff After Space Force Ends SCAR Contract, But Retail Says Time For ‘Rebound Now’ - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORFpDQW5TSlBvdm1ibmphUENqUDhlTHowQUJwQVVRMXBrWFR6NzlxQVJvX3RGeGpfb1JRVUdtMEU1bDY5RnpyVnU4RmZZeW9Ya056dGlWN2R3SUZDdnRFSVJPU005QkFwSGJUcE1SRUM4d0hjc1RhVU9QVE9BdkQ3OVhRM0VnWjJLdXJleGtoNDdqSWtic3ZEcnRZaUtPVEk4YjZ0Yk5NdWROdzFHblA3MUxlV2l5TXpFcGN6akZpMmZ5VEMzdEV4eE9fNElaamc3ejVvaHgwT2x6aUo5a1VhMQ?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "snippet": "AVAV Stock Faces Selloff After Space Force Ends SCAR Contract, But Retail Says Time For ‘Rebound Now’&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "The Volatile Ride Of AeroVironment: Buying Despite The Margin Mess (NASDAQ:AVAV) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2k0TFNDMGlFQWpSaDFKQjlFei1aR3otZUo0V1NfblVqck9PdUl0WDVxbjlFTF8xUXRIREpFY204RXQ1Q0RraGRwem1OS2RacWNHLVZwQ3dNSjk1djRIV0NmVEtaLWdlejJ5NnNENV9YendYQk85X0M5Y0hJTUFsMEY5OE1RU3Z2ZEhZUTJkWmprRFhqWC1BZWhKT1BmZVdYUUR2WldYcmlMZw?oc=5",
+      "source": "Seeking Alpha",
+      "publishedAt": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "snippet": "The Volatile Ride Of AeroVironment: Buying Despite The Margin Mess (NASDAQ:AVAV)&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
+      "title": "AVAV EQUITY ACTION REMINDER: Faruqi & Faruqi, LLP Reminds AeroVironment (AVAV) Investors of Securities Class Action Deadline on July 27, 2026 - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOTNMYTNsVGFUVl83Q3EtMXpEVURyS2Q3WHVMaE9Pc1Q2TklUWnBqa1VrYnBYWWh2ZVpwQTZ2OW80NkhBNUY4bWtMa2RmbDNFYlRIZk5TVHoxZVZJdGhMZ1NSVE8tdXl1eEtKTl9rZFZFVXl1T0pwV3I2X05qREQzZjNRdjJRU3NFOUZkaWk1bXBnNjYyUjFReFU4Zm9CdW9wWEswSV9lUWJsa2NJNlNKd2djdWZkd0hod3N6VmZRUTM2UVV5TExlaVU2N0JBcFJzd0hma0FpX3dhX2lOUGZoeA?oc=5",
+      "source": "marketscreener.com",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "AVAV EQUITY ACTION REMINDER: Faruqi & Faruqi, LLP Reminds AeroVironment (AVAV) Investors of Securities Class Action Deadline on July 27, 2026&nbsp;&nbsp;marketscreener.com"
+    },
+    {
+      "title": "What Is Avascriptions (AVAV)? How Does It Work? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGIyVnlhUjJGQmRCWllUQ1JVNFhuRFRadG10T2owaGRGYVJuQUdtbVYwdU5YbXl1X2JxanFZNWF3aHAtdkdEUFhpVXU3QWdQYkkzNWF5cVkxdnFkMFdSc0xDTEU2Zl9fYWZoMmVZWVBUOENici1mTDBBbjhUcUJxOEp6eGLSAYoBQVVfeXFMTkxBX0d0QktsUWlrSEp6ci0wMWVlOXpHOE1mLUVJb2ZRWjJqN2t1TC1BYTViT0hyT3ZZaThHeF96S3UtcmwxTlZkekd6ME5SQVhFc2J0WXRqM2ZNYVVxUk1Kb0xlanpOTnMtLW1DU2J2VXh1LTAxOW1sRU1fS2N4OXg4bUNRNlB1dmxR?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 15 Jan 2024 08:00:00 GMT",
+      "snippet": "What Is Avascriptions (AVAV)? How Does It Work?&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
