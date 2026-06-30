@@ -1,0 +1,215 @@
+{
+  "token": "RCAT",
+  "requestedInput": "RCAT",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T11:40:57.221Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "RCAT",
+    "name": "Replicat-One by Virtuals",
+    "generatedAt": "2026-06-30T11:40:51.152Z",
+    "summary": "RCAT是Base链上Uniswap的极早期AI概念代币，市值仅10万美元，流动性5万美元，24小时交易量仅524美元，价格下跌3%。无新闻、无链上数据支撑，属于高风险投机品种。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无明确逻辑，不适用"
+    },
+    "catalysts": [
+      "AI叙事热度（但无具体产品或合作）",
+      "极低市值可能吸引短期投机"
+    ],
+    "latestNews": [],
+    "fundamentals": [
+      "项目官网replicats.ai和docs.replicats.ai，但无实质内容",
+      "推特@Replicatsai，电报群存在，但活跃度未知",
+      "代币总量10亿，全稀释估值18.7万美元",
+      "无审计信息，合约风险高"
+    ],
+    "marketRead": [
+      "24小时交易量仅524美元，流动性5.2万美元，深度极差",
+      "价格24小时下跌3%，无上涨动能",
+      "无K线数据，无法判断趋势"
+    ],
+    "risks": [
+      "合约未审计，存在Rug pull风险",
+      "流动性极低，大额卖出易造成滑点或归零",
+      "无实际产品/用户，纯Meme属性",
+      "无新闻催化，市场关注度极低"
+    ],
+    "watchlist": [
+      "推特/电报是否有新动态",
+      "流动性是否增加",
+      "是否有CEX上市或合作公告"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他来源验证",
+      "新闻为空，无法评估市场情绪"
+    ]
+  },
+  "profile": {
+    "id": "0x6AF73D4579c70A24D52e4F4b43EeCB2A75019F94",
+    "symbol": "RCAT",
+    "name": "Replicat-One by Virtuals",
+    "categories": [
+      "base",
+      "uniswap"
+    ],
+    "homepage": [
+      "https://replicats.ai/",
+      "https://docs.replicats.ai/"
+    ],
+    "description": "DexScreener pair on base / uniswap. Pair URL: https://dexscreener.com/base/0x98f3957f0d077d0fdc02ca694ba32aea38151f47 Socials: twitter: https://x.com/Replicatsai; telegram: https://t.me/replicatsai",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.0001872,
+    "marketCapUsd": 107839,
+    "fullyDilutedValuationUsd": 187246,
+    "totalVolumeUsd": 523.91,
+    "priceChange24hPct": -3.05,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-01-21",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x98f3957F0D077d0fDc02CA694BA32aEA38151F47",
+    "baseTokenAddress": "0x6AF73D4579c70A24D52e4F4b43EeCB2A75019F94",
+    "quoteToken": {
+      "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+      "name": "Virtual Protocol",
+      "symbol": "VIRTUAL"
+    },
+    "liquidityUsd": 51974.41,
+    "pairUrl": "https://dexscreener.com/base/0x98f3957f0d077d0fdc02ca694ba32aea38151f47",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "RCAT/VIRTUAL",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x98f3957F0D077d0fDc02CA694BA32aEA38151F47",
+    "pairUrl": "https://dexscreener.com/base/0x98f3957f0d077d0fdc02ca694ba32aea38151f47",
+    "lastPrice": 0.0001872,
+    "priceChange24hPct": -3.05,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 523.91,
+    "liquidityUsd": 51974.41,
+    "fullyDilutedValuationUsd": 187246,
+    "marketCapUsd": 107839,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "base",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/base/0x98f3957f0d077d0fdc02ca694ba32aea38151f47",
+    "pairAddress": "0x98f3957F0D077d0fDc02CA694BA32aEA38151F47",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x6AF73D4579c70A24D52e4F4b43EeCB2A75019F94",
+      "name": "Replicat-One by Virtuals",
+      "symbol": "RCAT"
+    },
+    "quoteToken": {
+      "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+      "name": "Virtual Protocol",
+      "symbol": "VIRTUAL"
+    },
+    "priceNative": "0.0003563",
+    "priceUsd": "0.0001872",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 3,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 5,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 44,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 523.91,
+      "h6": 15.04,
+      "h1": 9.53,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -1.98,
+      "h6": -3.26,
+      "h24": -3.05
+    },
+    "liquidity": {
+      "usd": 51974.41,
+      "base": 138786158,
+      "quote": 49458
+    },
+    "fdv": 187246,
+    "marketCap": 107839,
+    "pairCreatedAt": 1737484863000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/bba136c36e8e07070ac838f18809785b7f0c3a1c3e4e4d0f63508c908cd03d1d?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/100fb14dfb8a43cea63ffb6aba0e71f9a2e4206130f24f2103701bbd1d91699f?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x6af73d4579c70a24d52e4f4b43eecb2a75019f94?timestamp=1782819600000",
+      "websites": [
+        {
+          "url": "https://replicats.ai/",
+          "label": "Website"
+        },
+        {
+          "url": "https://docs.replicats.ai/",
+          "label": "Docs"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/Replicatsai",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/replicatsai",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=RCAT: Throttled\n"
+  ]
+}

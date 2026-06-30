@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T11:33:54.593Z",
+  "updatedAt": "2026-06-30T11:41:00.709Z",
   "results": [
     {
       "token": "KRAV",
@@ -8,17 +8,17 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T11:33:46.089Z",
+      "generatedAt": "2026-06-30T11:40:50.507Z",
       "latestPath": "data/results/KRAV-latest.json"
     },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T11:33:40.750Z",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T11:40:50.737Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -28,27 +28,47 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T11:33:41.555Z",
+      "generatedAt": "2026-06-30T11:40:52.663Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T11:40:50.767Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "DELLON",
+      "requestedInput": "DELL",
+      "name": "Dell Technologies (Ondo Tokenized)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T11:41:00.707Z",
+      "latestPath": "data/results/DELLON-latest.json"
+    },
+    {
+      "token": "RCAT",
+      "requestedInput": "RCAT",
+      "name": "Replicat-One by Virtuals",
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T11:33:41.334Z",
-      "latestPath": "data/results/HOU-latest.json"
+      "generatedAt": "2026-06-30T11:40:57.221Z",
+      "latestPath": "data/results/RCAT-latest.json"
     },
     {
       "token": "DOGE",
       "requestedInput": "CIEN",
       "name": "Department Of Government Efficiency",
-      "score": 10,
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T11:33:54.591Z",
+      "generatedAt": "2026-06-30T11:41:00.623Z",
       "latestPath": "data/results/DOGE-latest.json"
     },
     {
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T02:19:10.445Z",
       "latestPath": "data/results/PL-latest.json"
-    },
-    {
-      "token": "BBSTOCK",
-      "requestedInput": "BBSTOCK",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:19:07.901Z",
-      "latestPath": "data/results/BBSTOCK-latest.json"
-    },
-    {
-      "token": "1000SATS",
-      "requestedInput": "1000SATS",
-      "name": "SATS (Ordinals)",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T02:19:16.216Z",
-      "latestPath": "data/results/1000SATS-latest.json"
     }
   ]
 }
