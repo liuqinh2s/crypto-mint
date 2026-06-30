@@ -1,0 +1,274 @@
+{
+  "token": "TAG",
+  "requestedInput": "TAG",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T03:48:07.234Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TAG",
+    "name": "TAGGER",
+    "generatedAt": "2026-06-30T03:48:00.787Z",
+    "summary": "TAG是BNB Chain上的AI数据解决方案代币，近期24小时涨幅约8.9%，但链上DEX流动性极低（仅32.6美元），价格与CMC数据严重脱节，存在极高风险。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "链上流动性恢复至正常水平且价格与CEX一致"
+    },
+    "catalysts": [
+      "AI赛道热度",
+      "Bitget上线现货交易（2025年6月）"
+    ],
+    "latestNews": [
+      {
+        "title": "TAG (TAGGER) fluctuated 41.1% in 24 hours: trading volume surged 123%, driving price rebound",
+        "impact": "利好",
+        "reason": "短期价格波动和成交量放大可能吸引投机者"
+      },
+      {
+        "title": "Bitget Launches Tagger (TAG) Spot Trading",
+        "impact": "利好",
+        "reason": "中心化交易所上线增加流动性和曝光度"
+      }
+    ],
+    "fundamentals": [
+      "全栈AI数据解决方案，包括数据收集、标注、管理和交易",
+      "基于BNB Chain，利用Web3众包优势",
+      "总供应量4053.8亿，流通量1088.6亿（约26.9%流通）",
+      "市值排名#246，但链上市值仅53美元，严重异常"
+    ],
+    "marketRead": [
+      "CMC数据显示24小时涨幅8.9%，但链上PancakeSwap流动性仅32.6美元，交易量不足1美元",
+      "链上价格与CMC价格相差约1943倍（CMC $0.00102 vs 链上 $0.000000525），数据严重不一致",
+      "30日跌幅17.8%，远低于ATH"
+    ],
+    "risks": [
+      "链上流动性极低，存在操纵和无法卖出风险",
+      "CMC与链上价格严重脱节，数据可靠性存疑",
+      "代币供应量大，解锁风险未知",
+      "新闻多为2025年，缺乏近期催化"
+    ],
+    "watchlist": [
+      "链上流动性是否恢复",
+      "CMC价格与链上价格是否收敛",
+      "是否有新的CEX上线或项目进展"
+    ],
+    "sourceNotes": [
+      "链上数据来自DexScreener，流动性极低，可能不反映真实市场",
+      "CMC数据可能来自其他交易对或已过时",
+      "新闻多为2025年，近期无重大更新"
+    ]
+  },
+  "profile": {
+    "id": "tagger",
+    "symbol": "TAG",
+    "name": "TAGGER",
+    "categories": [
+      "Artificial Intelligence (AI)",
+      "BNB Chain Ecosystem",
+      "AI Applications"
+    ],
+    "homepage": [
+      "https://tagger.pro/"
+    ],
+    "description": "A Decentralized Full-Stack AI Data Solution powered by a Comprehensive Data Authentication and Authorization System Tagger is a full-stack AI data solutions platform, establishing a cross-border data authentication protocol, creating a permissionless hub for data collection, labeling, management, and trading. The logic starts from utilizing Web 3's crowdsourcing advantages for data labeling and collection. Subsequently, we leverage the core essence of blockchain technology to form a permissionless data authentication and trading system, solving the prevalent problems of data silos, data authentication chaos, and lack of professional annotators in the current data landscape.",
+    "marketCapRank": 246,
+    "currentPriceUsd": 0.00102044,
+    "marketCapUsd": 111123111,
+    "fullyDilutedValuationUsd": 413790074,
+    "totalVolumeUsd": 5280745,
+    "priceChange24hPct": 8.91136,
+    "priceChange7dPct": 4.34403,
+    "priceChange14dPct": 5.81734,
+    "priceChange30dPct": -17.78993,
+    "athUsd": 0.00217793,
+    "athChangePct": -53.18817,
+    "circulatingSupply": 108864805114.17,
+    "totalSupply": 405380800000,
+    "maxSupply": 405380800000,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 2000,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "TAG/USDT",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xA2Bb26075271bAb28E02BD008a13Bc7D1F4c8724",
+    "pairUrl": "https://dexscreener.com/bsc/0xa2bb26075271bab28e02bd008a13bc7d1f4c8724",
+    "lastPrice": 5.252e-7,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.99,
+    "liquidityUsd": 32.6,
+    "fullyDilutedValuationUsd": 53,
+    "marketCapUsd": 53,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0xa2bb26075271bab28e02bd008a13bc7d1f4c8724",
+    "pairAddress": "0xA2Bb26075271bAb28E02BD008a13Bc7D1F4c8724",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x7431b5D7930C5E43f1Fc0Ad66eeF53855734F86b",
+      "name": "TAG",
+      "symbol": "TAG"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceNative": "0.0000005252",
+    "priceUsd": "0.0000005252",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.99,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 32.6,
+      "base": 31035822,
+      "quote": 16.3022
+    },
+    "fdv": 53,
+    "marketCap": 53,
+    "pairCreatedAt": 1770881174000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/JgYIdpHT7N73V-cC?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/YfigVN_8V8661HPo?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x7431b5d7930c5e43f1fc0ad66eef53855734f86b?timestamp=1782791400000",
+      "websites": [],
+      "socials": [
+        {
+          "url": "https://t.me/TAG_BNB",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "TAG (TAGGER) fluctuated 41.1% in 24 hours: trading volume surged 123%, driving price rebound - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56S3ZRejJaUndwUmlHWjBmT0drTkRxcUhuMnJfNXlnX0NaQUM3SGppSUUyZ3hhLUZFQ19FVkRFMlU5d2NKdW9BQ01aOVVsd0dTWHY4YU5wU2tBX3BSWkHSAWNBVV95cUxPdlVMWS1MN1FESzJad01OUnpWdXMxVGUxOTI1cXZncFpaanE1VEZ1ZkdUb0lmTWhkc1FjNGVXVTRGanlHREFRU0ZZUjltbWpMRFZxdW1qMkRiak5BM2w5S0x0aGs?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 11 Apr 2026 07:00:00 GMT",
+      "snippet": "TAG (TAGGER) fluctuated 41.1% in 24 hours: trading volume surged 123%, driving price rebound&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "TAGGER (TAG) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XWW92dWNKM2FXUGp4Ny0tMWQxYUJIdXgzbGlydVB5RHR0eFNtcExhcUFzWWhxUXNhNkVQLUUwclAwdnIzSy1LVkI2QkFXb2dIdWR2MzVPdjhLWkN2d3g0SEZMeWtERUE?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Sat, 04 Jan 2025 05:04:03 GMT",
+      "snippet": "TAGGER (TAG) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "TAGGER Price: TAG/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BdHpSbUczdzd0eWdhQlVGU1BGcUdtZ0ZtUjNtWTdnZmJtZ0JpVGhxaDNOc0xDSDdwaDFVQWc2akZtZmo0UFVMWDVZUE16LXJYRG44?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 31 Dec 2024 17:19:43 GMT",
+      "snippet": "TAGGER Price: TAG/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Tagger (TAG): AI Token on the BNB Chain Network - INDODAX",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mM3NvS0Q2Xzcyai1rLW4ybDRacXp6T1JHc1k1VmNwNFk3Ni05VjgyZjB6UmlmR0NTaGNRZmhKazJjS1JKNnZsek1sN0tuZThFUUtDTThiS0xpbXVocGhfa0ItemtoMzBZcG02OVpOdXdvbGZsNU9qXzBVZw?oc=5",
+      "source": "INDODAX",
+      "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
+      "snippet": "Tagger (TAG): AI Token on the BNB Chain Network&nbsp;&nbsp;INDODAX"
+    },
+    {
+      "title": "Tagger price today, TAG to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jems4MEFFNWQ1RDJfZVk4ZDN6a3ZFUXdNelczZWhVOWlPX2stY25zRHdKZ0xBVUxWdmFMTWRtbm5URldqTEE0cGljUWRLS041d05SNkl2SQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Thu, 26 Dec 2024 08:00:00 GMT",
+      "snippet": "Tagger price today, TAG to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Tagger Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DcVRKTnBsb1NwRFg2Vmc0M3VmUnpreWJ1U2tKTTlXQXhYU0hBWF9uT0NseHRlbkNLR0RoT2cxeV9TV08zS0pQTGZzWWN1RE43Mk9XMzV4TWNreG55S25KV0JfTQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 22 Aug 2025 03:56:17 GMT",
+      "snippet": "Tagger Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Bitget Launches Tagger (TAG) Spot Trading - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtTEg5VG1Tcm5TWG0tUVdXVkVFaWd3VFc5Q0NaM0hucEszdVF3azM1aFNERHM0MmhVQUExak9vUVp4WnpPYnpKbTZqbGg5QUdjMzBNVzVEa0w1dU81cEHSAWNBVV95cUxObXFueDh5Q2drc1lQT196WUk5LVZFc2ViXy1LSUZWUVVNUEpfYS1MVmRBeHkzVXEyTjJDMjJWRHZwbVlSZDRUcXRPTWpMWU9zZW85MDAxa1ZkbGlaaUlVYmUtYW8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 12 Jun 2025 07:00:00 GMT",
+      "snippet": "Bitget Launches Tagger (TAG) Spot Trading&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Research Report｜Tagger Project Overview & TAG Token Valuation Analysis - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sTHcyNWtlZkhoQmJRMDBRZmpJNkxiS3dCREpUd2RlUlo4THdMN25BdlhLeE5JNEtBYW9NcGMyaGNpanFiVGhKaTN5TGt3eHlxWE9iWE1UM0RjTTFlZ3fSAWNBVV95cUxQZVRwLXp0UnRIMzRUSWZmVDFpVnlEcWluRGFwVkxIWVRGaGE0WExtbFRhWGszVW54cnRZZi0zV1JZX01UcnVUd21IY2NNdUlxYi1pUGVGR2YyUjF6WE1sSlpLZlk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 18 Jun 2025 07:00:00 GMT",
+      "snippet": "Research Report｜Tagger Project Overview & TAG Token Valuation Analysis&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Will Extend the Monitoring Tag to Include BIFI, FIS, KMD & MDT on 2025-06-05 - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTEJ2RU90eXNWSHB6RXU4UlFXVmVqeGVobWQ5QXhVUkdOdnNUSHhsRGZmaGhadjF6ZnVnc1R3ekwxWWVuZFpYZEp4SGlxLVBMamF4Y2pmMklDOUgtZk1RbmM2U2dYTy1vOVFnS2tRWEI5TmJFd0swaXl3cld6T0hVZmg3ZGNlTTg1SjVJdEJKbHM?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 04 Jun 2025 07:00:00 GMT",
+      "snippet": "Binance Will Extend the Monitoring Tag to Include BIFI, FIS, KMD & MDT on 2025-06-05&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Arkham Launches New Tag to Track Crypto Influencers’ Wallets - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTURLU2picDRTa3lSMU1qaURtcFJaandKTkFjNXMxZEt0Qm9QbXNMdGVhQndrM1ppbENFRDBjSXoydEhsNW44MW92YVQ0UmJPYy1Jc2wtQWtUaTBrQmxDZUhSRHRfMlNIcVAxZDJlYUVTMmFIVGpvUXZ4V0piUXdmc1MxdU50NUkxVGtwLXk2ckpYN3ZKNmtZSkNoY3BhV3J2aDVpMzlR?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sat, 08 Mar 2025 08:00:00 GMT",
+      "snippet": "Arkham Launches New Tag to Track Crypto Influencers’ Wallets&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "TAGGER Price - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9HZEpnZmY0RFVZTFo0UE9fNTBkZ3ZqOTQ5OE44ZFhUNVdzRmg0ZUNKS3p3elY0bU42N1F2T1lfeXRVWmFKd1E?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Sun, 09 Feb 2025 10:26:24 GMT",
+      "snippet": "TAGGER Price&nbsp;&nbsp;Decrypt"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

@@ -1,0 +1,330 @@
+{
+  "token": "TAIKO",
+  "requestedInput": "TAIKO",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T03:48:02.347Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TAIKO",
+    "name": "Taiko",
+    "generatedAt": "2026-06-30T03:47:54.140Z",
+    "summary": "Taiko近期因桥接漏洞被利用170万美元，价格在24小时内上涨19%，但基本面受损，市场情绪脆弱。当前上涨可能为短期投机或超跌反弹，风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若桥接漏洞完全修复且审计通过，市场信心恢复，但当前不确定性极高。"
+    },
+    "catalysts": [
+      "超跌反弹：价格从ATH下跌97.9%，可能吸引投机性买盘",
+      "市场情绪短期修复：部分投资者认为漏洞已控制，抄底入场"
+    ],
+    "latestNews": [
+      {
+        "title": "Taiko Halts Ethereum Layer 2 After $1.7M Bridge Exploit",
+        "impact": "利空",
+        "reason": "桥接漏洞导致170万美元被盗，项目暂停运营，严重损害信任。"
+      },
+      {
+        "title": "Upbit Halts TAIKO Deposits And Withdrawals After Suspected Security Incident",
+        "impact": "利空",
+        "reason": "主要交易所暂停充提，流动性受限，负面信号。"
+      },
+      {
+        "title": "Taiko urges users to exit bridges after a verification flaw was exposed in a $1.7M exploit",
+        "impact": "利空",
+        "reason": "官方建议用户退出桥接，表明问题尚未解决。"
+      }
+    ],
+    "fundamentals": [
+      "Taiko是以太坊等效的ZK-Rollup，完全开源且去中心化。",
+      "总供应量10亿枚，当前流通约1.98亿枚，流通市值1522万美元。",
+      "项目曾获OKX Ventures等投资，但近期安全事件暴露严重漏洞。"
+    ],
+    "marketRead": [
+      "24小时价格上涨19%，但成交量仅877万美元，流动性约231万美元，交易深度不足。",
+      "价格从ATH 3.8美元跌至0.077美元，跌幅97.9%，处于历史低位。",
+      "DEX上价格0.08641美元，24小时变化-1.37%，与CEX价格存在差异，显示市场分歧。"
+    ],
+    "risks": [
+      "安全风险：桥接漏洞尚未完全修复，可能再次被利用。",
+      "信任风险：交易所暂停服务，用户资金安全存疑。",
+      "流动性风险：市值小，交易量低，容易操纵。",
+      "解锁风险：总供应量10亿，当前流通仅19.8%，未来解锁压力巨大。",
+      "监管风险：安全事件可能引发监管关注。"
+    ],
+    "watchlist": [
+      "桥接漏洞修复进展及审计报告",
+      "交易所是否恢复充提",
+      "项目方是否公布补偿方案",
+      "链上大额转账或解锁事件"
+    ],
+    "sourceNotes": [
+      "数据来自CoinMarketCap和DexScreener，新闻来自Google News聚合。",
+      "价格和市值数据截至2026-06-30，可能已过时。",
+      "DEX流动性数据仅代表特定交易对，不反映全局。"
+    ]
+  },
+  "profile": {
+    "id": "taiko",
+    "symbol": "TAIKO",
+    "name": "Taiko",
+    "categories": [
+      "Smart Contract Platform",
+      "BNB Chain Ecosystem",
+      "Ethereum Ecosystem",
+      "Layer 2 (L2)",
+      "Zero Knowledge (ZK)",
+      "Rollup",
+      "OKX Ventures Portfolio",
+      "Binance Alpha Spotlight"
+    ],
+    "homepage": [
+      "https://taiko.xyz"
+    ],
+    "description": "Taiko is a fully open source, permissionless, Ethereum-equivalent ZK-Rollup. Using Taiko feels the same as using Ethereum. There are no centralized actors that operate the network; all operations are permissionlessly run by the community.",
+    "marketCapRank": 904,
+    "currentPriceUsd": 0.077044,
+    "marketCapUsd": 15227723,
+    "fullyDilutedValuationUsd": 76940057,
+    "totalVolumeUsd": 8777459,
+    "priceChange24hPct": 19.01769,
+    "priceChange7dPct": 8.42406,
+    "priceChange14dPct": -11.89299,
+    "priceChange30dPct": -28.01607,
+    "athUsd": 3.8,
+    "athChangePct": -97.93713,
+    "circulatingSupply": 197916711.6809375,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 7241,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "0x826D713e30f0bF09Dd3219494A508E6B30327d4f",
+    "pair": "TAIKO/USDC",
+    "chainId": "taiko",
+    "dexId": "0x826D713e30f0bF09Dd3219494A508E6B30327d4f",
+    "pairAddress": "0xdf2DE6b0622fa3d5D6c0e0920661F18432bDc8eb",
+    "pairUrl": "https://dexscreener.com/taiko/0xdf2de6b0622fa3d5d6c0e0920661f18432bdc8eb",
+    "lastPrice": 0.08641,
+    "priceChange24hPct": -1.37,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 30447.16,
+    "liquidityUsd": 2318250.28,
+    "fullyDilutedValuationUsd": 9542791,
+    "marketCapUsd": 16897913,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "taiko",
+    "dexId": "0x826D713e30f0bF09Dd3219494A508E6B30327d4f",
+    "url": "https://dexscreener.com/taiko/0xdf2de6b0622fa3d5d6c0e0920661f18432bdc8eb",
+    "pairAddress": "0xdf2DE6b0622fa3d5D6c0e0920661F18432bDc8eb",
+    "baseToken": {
+      "address": "0xA9d23408b9bA935c230493c40C73824Df71A0975",
+      "name": "Taiko Token",
+      "symbol": "TAIKO"
+    },
+    "quoteToken": {
+      "address": "0x07d83526730c7438048D55A4fc0b850e2aaB6f0b",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.08641",
+    "priceUsd": "0.08641",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 35
+      },
+      "h6": {
+        "buys": 13,
+        "sells": 104
+      },
+      "h24": {
+        "buys": 13,
+        "sells": 104
+      }
+    },
+    "volume": {
+      "h24": 30447.16,
+      "h6": 30447.16,
+      "h1": 4072.89,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -0.25,
+      "h6": -1.37,
+      "h24": -1.37
+    },
+    "liquidity": {
+      "usd": 2318250.28,
+      "base": 25323295,
+      "quote": 129918
+    },
+    "fdv": 9542791,
+    "marketCap": 16897913,
+    "pairCreatedAt": 1763000113000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/728f3774b533e263f1043745c88eb3b16a6cc7693eacb3525cbede7d7b864dea?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/46f8ea4dda8d424b617aaf43c37b8b3894609e7f1bfa713fbfa18a63c33d5dfa?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/taiko/0xa9d23408b9ba935c230493c40c73824df71a0975?timestamp=1782791400000",
+      "websites": [
+        {
+          "url": "https://taiko.xyz/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/taikoxyz",
+          "type": "twitter"
+        },
+        {
+          "url": "https://discord.gg/taikoxyz",
+          "type": "discord"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Taiko Manual: Price, Pricing & How to Start - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95QjVuS3ZQTGpIelhocWpTQ0NETWZJY1FJdGFYTUpZQmVYTFBneWotaHl3ekg5LVE4UzdrR3BtLWdSaWp5TVBUc3dUbnB3UGgzM1ZTLVhTbG5RUWVBUEVBRjlTM0lCZHkxMWlKLVZQMFh0dw?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Mon, 29 Jun 2026 13:07:35 GMT",
+      "snippet": "Taiko Manual: Price, Pricing & How to Start&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Taiko Halts Ethereum Layer 2 After $1.7M Bridge Exploit - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTE9wYW5ndmcxS3ZHS3Z4RHR2aWxaanFwbXducVZCZUl2cW5qc2R4RUdCVHlPM1JZbGxMcG11YnM4S0p4NlhhOXRya09tWXNpaVlxYTlzdVZXV1dvUFZ1SW50c2JGeUVaSzVBcThhVXlIbWNEN0NzQUVMSUd6VHhOejJMT2FzVkZFYlk0Tmo3QjI?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Mon, 22 Jun 2026 15:27:24 GMT",
+      "snippet": "Taiko Halts Ethereum Layer 2 After $1.7M Bridge Exploit&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "Crypto News Today: Taiko Issues Urgent Warning After Bridge Security Breach - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTFVwSzNuYlhKRVRoTGhRMTRSaWIxTE9CREh3bXFhYVlrVGw3a3N5LXpMR0ZhblVZMWVyU2ZGdXlubDQzRVBXZzRFRFpOaU9jZDV3TWJoWkZZY1ZjRmdtX3lvNEpkWWVBUlozcEZsYTJMYTdaRXVZeGlEMVNvTHpxVDU2NkNPZ3Ezc0FqN19RT0E2YUlvenJGUmFRTl9ISjRZRmZQTFV5VVJkU1RJU2VqR21n?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 23 Jun 2026 16:08:49 GMT",
+      "snippet": "Crypto News Today: Taiko Issues Urgent Warning After Bridge Security Breach&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Convert TAIKO to KYD | TAIKO/KYD Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85eXBCajZ6UFpzV1ZRZmJuU2k4V1d4MlhULXQ5aWVzU09UYVZSNDlfVW1GajRLQkEwM3JwUlVQNHdmRHFnYzBXT0lTZmZTQ3dkekFUaw?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Fri, 26 Jun 2026 09:00:57 GMT",
+      "snippet": "Convert TAIKO to KYD | TAIKO/KYD Conversion Calculator&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Crypto News Today: Taiko Issues Urgent Warning After Bridge Security Breach - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNUdIQXVsZ3d1Y0hlZHE1clYzTUVWZ3luZlFTNTYxNVN5MkVnMGV1elRPRl8zWjc1cmdtcDVIUDM4RzRMeUFnZWxOVk1Ed1YzV1NMcFJGVmw0bUVtaEVwMlJZajdUamp0aURCSGxaNmxCczBBZ2FGYWxjZnpTQVRIeGhRSS03Yk5ZMHFIcXFWeHdkRDJPSkJvV05JaFRtQVl3OE1kT9IBqgFBVV95cUxQR1BWNlJnbExkQXVGaFBIVTBHZjRCeDVWb09RcFFKNmZDWWRudEFWWXcyekk2cE8weUtPRURaTnQ1ZHdHaWdJdGNXMWVyUHFCMjBISmVaM0paLS1yeXJ0Y3dkVi1XTU9YbXZYQkU0eDRCUmF3Ym9TSEtjYnNXYWZEMm5GSmNGbWJJdW1kS2FGZ0JqR3g3dEtDd1RVNUw4UlZxa2xWZkw0RHNNZw?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Mon, 22 Jun 2026 05:25:00 GMT",
+      "snippet": "Crypto News Today: Taiko Issues Urgent Warning After Bridge Security Breach&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Taiko Bridge Exploit Drains $1.7M, Users Urged to Withdraw Funds\npost-163227\npost-163227\npost-163227 - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tVXlBbjZ3SkRna0xrZTlzWnZkOTZmVjlpSWZUX3gyb2ViMHg0OTJXcXN5dnBzcXFFZ1VRcVExaU1BeHlpd2tNRFFzWXNYQXNUbUMtYXJQWi1nMVB5VTVBM1ZVaHAyNElfa3fSAWpBVV95cUxOLVV5QW42d0pEZ2tMa2U5c1p2ZDk2ZlY5aUlmVF94Mm9lYjB4NDkyV3FzeXZwc3FxRWdVUXFRMWlNQXh5aXdrTURRc1lzWEFzVG1DLWFyUFotZzFQeVU1QTNWVWhwMjRJX2t3?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 22 Jun 2026 11:46:49 GMT",
+      "snippet": "Taiko Bridge Exploit Drains $1.7M, Users Urged to Withdraw Funds\npost-163227\npost-163227\npost-163227&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Taiko urges users to exit bridges after a verification flaw was exposed in a $1.7M exploit - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDktdW04OXJvQ1gzeDJ3NVkxRE51TGNzRDhCaERLeFhkWkFIelppUG83S21xNDYwODBwQXJWclMxMGFLdVk0Vm5pdTBDNGtoQklLLTVxdUR6bU8zcVVfblVJTVlsYWpmQkNKSDJnaG8zTjZxSEF5S01MRFg2TXFQSw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 22 Jun 2026 18:38:53 GMT",
+      "snippet": "Taiko urges users to exit bridges after a verification flaw was exposed in a $1.7M exploit&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Upbit Halts TAIKO Deposits And Withdrawals After Suspected Security Incident - Bitcoin World",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQkIyLUVFa1k0SmJ3bmF0c3RXSTVQRUYtR1hDWXU0VkJaQWNxY1RzMmZlRExCeEEzSUV3WkhuRHUweG91anhscS1YSTRscHd5VU9BSXZobGpucXgzcVJjLVduLXZqbHBUendmTEpKRDJ2Snd1UkZCMWZBYmhLUG5TWTFRbERlWkIybUJDVVRTQU4?oc=5",
+      "source": "Bitcoin World",
+      "publishedAt": "Mon, 22 Jun 2026 02:55:11 GMT",
+      "snippet": "Upbit Halts TAIKO Deposits And Withdrawals After Suspected Security Incident&nbsp;&nbsp;Bitcoin World"
+    },
+    {
+      "title": "Taiko Exploit Adds to June Tally of Over 20 Crypto Hacks - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZYmZuQWpCR1JkZHlrYXlITWNFdGlabVFXWC1Bdjk0RjZKRy1kd1VPdkQyNHZCcmZlZXNYaU40eFI2cXFZN1JNeDM3NlA2MVhNUEtHUjdmVnFHT1g5SVBRZWRSQWljcnFVUUpONTFfTQ?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Mon, 22 Jun 2026 02:31:00 GMT",
+      "snippet": "Taiko Exploit Adds to June Tally of Over 20 Crypto Hacks&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "Taiko price today, TAIKO to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPVkRNeDZhUl90ZFd4Y3hBdUtCNjNXZ0ZxWmt0UWxvOXJTaTlSVHZBUWFBU2VURXZUc0I2X0g1Y2lCWXVnaklEUzRVaGQwdWxQcEJsb3hR?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 05 Jun 2024 07:00:00 GMT",
+      "snippet": "Taiko price today, TAIKO to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Taiko DEXs: Top Taiko Decentralized Exchanges by Volume - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1bjhnT1hiZzR6WC1GcUtiMEw0TVVzZVVtYl85RmZnYW4xTVljQi1xRzllYm5SLVRzWkR2eEI5b3ZaRHJqTjlEM2Q2ck5Gc0wwX1M5cTR5XzdMMFlBTi1xeXRFVE40eV9QV1E?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 21 Nov 2024 04:49:59 GMT",
+      "snippet": "Taiko DEXs: Top Taiko Decentralized Exchanges by Volume&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "Where is buy Taiko: Best Options and Guide - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZRTZ5WmpyV2pOcng4MG5JRG56Yk9QOHhheEZ1cGFGNXB4VUxZalp5ckdXNy1YVnM1SW9KY0ZtUmJjWGE1ZmZVSmplVkxjcEJCdVlubjRua0VQc0QxXzRoOVJUN3BWdDZHaEVJenBndHJYaExRZFVDa2lKeV8?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 17 Jun 2026 01:56:39 GMT",
+      "snippet": "Where is buy Taiko: Best Options and Guide&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Purchase Taiko Digital: Procedure, Fee & Safe Guidance - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yLU5EYzlQUTJlYUJzRzEyMWx1YzkxSC1MamMzQ1dxemhyWnUwOHB0cFkwdng1YTVOS3BxZUlXQ3FYd2p3VUI0c1BuMXczUlZqVU14VVE5d3dVcTVMN0oySWo2MHN6QnQtSTRWTUtNdXk0SDlHWTM1aUNxT2pWV3c?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Wed, 17 Jun 2026 22:35:16 GMT",
+      "snippet": "Purchase Taiko Digital: Procedure, Fee & Safe Guidance&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Buy Taiko in Germany: Best Ways, Fee and Process - Kabul University",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tT2w4UmY1cEgtUXVRSFp1ZHM2d3FWazlsX0xBcjh5YVlzOGN5SGdob1lxd2tnZkNicG1NVUlFME0wbS1FMF9QZXJmUXhwMW9DajJPTzlHNHJyNTA2ZjJUZFZON0dQaUpQRHRmVTJXdEc0U3hfV2ZkR2VrU2FUQQ?oc=5",
+      "source": "Kabul University",
+      "publishedAt": "Thu, 11 Jun 2026 17:49:31 GMT",
+      "snippet": "Buy Taiko in Germany: Best Ways, Fee and Process&nbsp;&nbsp;Kabul University"
+    },
+    {
+      "title": "Taiko - ICO Drops",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBTbVZUY3dCUDF5ZGlmZ1pzdjZubW1iWllHX3NFLXVSbk9Pa0FtV0syMy00MUp2V2pvcnBleVAzUWQ?oc=5",
+      "source": "ICO Drops",
+      "publishedAt": "Wed, 05 Jun 2024 12:42:48 GMT",
+      "snippet": "Taiko&nbsp;&nbsp;ICO Drops"
+    },
+    {
+      "title": "What is Taiko? An Ethereum-Equivalent and Decentralized ZKEVM L2 - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GWVZ6UGo0LXhmNFNWdmstb1BkQXNVc242bGd0NF9wcW9TVkVkWWpNRUhWZnkxRkJDM1ZPS0lPV3pzU3dCN1NydDQtdmlXUUR4OU1wZXRiVHQ0Z2Q5TWloRmwzaXNoeGR1Q1NKOHpwSHF0ckY4NWVvNWlNLVRqQWs?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Tue, 13 Jun 2023 07:00:00 GMT",
+      "snippet": "What is Taiko? An Ethereum-Equivalent and Decentralized ZKEVM L2&nbsp;&nbsp;CoinGecko"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

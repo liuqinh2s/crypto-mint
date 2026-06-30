@@ -1,15 +1,65 @@
 {
-  "updatedAt": "2026-06-30T03:34:10.111Z",
+  "updatedAt": "2026-06-30T03:48:09.515Z",
   "results": [
+    {
+      "token": "TAIKO",
+      "requestedInput": "TAIKO",
+      "name": "Taiko",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:48:02.347Z",
+      "latestPath": "data/results/TAIKO-latest.json"
+    },
     {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:48:00.170Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "PIEVERSE",
+      "requestedInput": "PIEVERSE",
+      "name": "Pieverse",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:48:03.802Z",
+      "latestPath": "data/results/PIEVERSE-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T03:34:02.023Z",
-      "latestPath": "data/results/HOU-latest.json"
+      "generatedAt": "2026-06-30T03:48:01.970Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "TAG",
+      "requestedInput": "TAG",
+      "name": "TAGGER",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T03:48:07.234Z",
+      "latestPath": "data/results/TAG-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T03:48:09.513Z",
+      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "GAS",
@@ -22,16 +72,6 @@
       "latestPath": "data/results/GAS-latest.json"
     },
     {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T03:34:02.211Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
       "token": "VANA",
       "requestedInput": "VANA",
       "name": "Vana",
@@ -40,16 +80,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T03:34:03.365Z",
       "latestPath": "data/results/VANA-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T03:34:08.000Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "AGLD",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-28T18:47:20.972Z",
       "latestPath": "data/results/SLX-latest.json"
-    },
-    {
-      "token": "GME",
-      "requestedInput": "GME",
-      "name": "GME",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T18:33:02.561Z",
-      "latestPath": "data/results/GME-latest.json"
-    },
-    {
-      "token": "G",
-      "requestedInput": "G",
-      "name": "Gravity (原Galxe)",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T18:33:01.798Z",
-      "latestPath": "data/results/G-latest.json"
-    },
-    {
-      "token": "SOON",
-      "requestedInput": "SOON",
-      "name": "SOON",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-28T18:33:05.750Z",
-      "latestPath": "data/results/SOON-latest.json"
     }
   ]
 }
