@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-06-30T19:34:16.435Z",
+  "updatedAt": "2026-06-30T19:49:15.325Z",
   "results": [
+    {
+      "token": "ID",
+      "requestedInput": "ID",
+      "name": "SPACE ID",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:49:00.153Z",
+      "latestPath": "data/results/ID-latest.json"
+    },
+    {
+      "token": "CHILLGUY",
+      "requestedInput": "CHILLGUY",
+      "name": "Just a chill guy",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:49:02.240Z",
+      "latestPath": "data/results/CHILLGUY-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:48:58.121Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:48:59.980Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:49:07.117Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "QBTSON",
+      "requestedInput": "QBTS",
+      "name": "D-Wave Quantum (Ondo Tokenized Stock)",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:49:09.191Z",
+      "latestPath": "data/results/QBTSON-latest.json"
+    },
+    {
+      "token": "SNOW",
+      "requestedInput": "SNOW",
+      "name": "Snowman",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:49:07.395Z",
+      "latestPath": "data/results/SNOW-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:49:09.099Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "CAT",
+      "requestedInput": "SIMO",
+      "name": "Simons Cat",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T19:49:15.323Z",
+      "latestPath": "data/results/CAT-latest.json"
+    },
     {
       "token": "JST",
       "requestedInput": "JST",
@@ -10,26 +100,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T19:34:10.941Z",
       "latestPath": "data/results/JST-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:34:06.765Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:34:07.200Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "HOU",
@@ -42,16 +112,6 @@
       "latestPath": "data/results/HOU-latest.json"
     },
     {
-      "token": "QBTSON",
-      "requestedInput": "QBTS",
-      "name": "D-Wave Quantum (Ondo Tokenized Stock)",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:34:16.240Z",
-      "latestPath": "data/results/QBTSON-latest.json"
-    },
-    {
       "token": "BRKB",
       "requestedInput": "BRKB",
       "name": "unknown",
@@ -60,16 +120,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T19:34:10.155Z",
       "latestPath": "data/results/BRKB-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:34:16.154Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "OSS",
@@ -160,16 +210,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T19:19:12.449Z",
       "latestPath": "data/results/TWLO-latest.json"
-    },
-    {
-      "token": "CAT",
-      "requestedInput": "SIMO",
-      "name": "Simons Cat",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T19:19:15.101Z",
-      "latestPath": "data/results/CAT-latest.json"
     },
     {
       "token": "APE",
@@ -290,16 +330,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T18:34:15.193Z",
       "latestPath": "data/results/LWLGON-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:34:16.978Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "KGEN",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T14:34:24.915Z",
       "latestPath": "data/results/SPY-latest.json"
-    },
-    {
-      "token": "TQQQ",
-      "requestedInput": "TQQQ",
-      "name": "TQQQUSDT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:34:21.951Z",
-      "latestPath": "data/results/TQQQ-latest.json"
-    },
-    {
-      "token": "LITE",
-      "requestedInput": "LITE",
-      "name": "LITE",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:34:33.075Z",
-      "latestPath": "data/results/LITE-latest.json"
-    },
-    {
-      "token": "ARQQ",
-      "requestedInput": "ARQQ",
-      "name": "Arqit Quantum (Derivatives)",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:34:32.617Z",
-      "latestPath": "data/results/ARQQ-latest.json"
     }
   ]
 }
