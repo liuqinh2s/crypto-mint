@@ -1,0 +1,216 @@
+{
+  "token": "ASTS",
+  "requestedInput": "ASTS",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T07:49:02.247Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ASTS",
+    "name": "AST SpaceMobile Inc (Derivatives)",
+    "generatedAt": "2026-06-30T07:48:55.912Z",
+    "summary": "该代币为Base链上Uniswap的衍生品对，流动性极低（0.14美元），价格已跌至几乎归零，24小时跌幅100%。新闻提及的ASTS股票上涨与链上代币无关，属于名称混淆。存在极高风险，不建议参与。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性恢复至合理水平且价格有实际支撑"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "AST SpaceMobile Inc (Derivatives) Price Today | ASTS to USD Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格展示，无实质内容"
+      },
+      {
+        "title": "AST SpaceMobile Inc (Derivatives) price today, ASTS to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "仅为价格展示，无实质内容"
+      },
+      {
+        "title": "ASTS Stock Eyes Third Straight Weekly Gain As ‘Golden Dome’ Defense Buzz Gains Ground - Stocktwits",
+        "impact": "中性",
+        "reason": "新闻关于股票，与链上代币无关"
+      }
+    ],
+    "fundamentals": [
+      "该代币为Base链上Uniswap的衍生品对，非官方AST SpaceMobile代币",
+      "流动性仅0.14美元，几乎无交易价值",
+      "总供应量未知，价格已跌至1.326e-20美元"
+    ],
+    "marketRead": [
+      "24小时跌幅100%，价格归零",
+      "成交量6754美元，但流动性极低，可能为机器人交易",
+      "无历史K线数据，无法分析趋势"
+    ],
+    "risks": [
+      "流动性极低，滑点巨大，无法正常交易",
+      "合约风险：可能为蜜罐或貔貅盘",
+      "名称混淆：与AST SpaceMobile股票无关，纯属蹭热点",
+      "价格已归零，无反弹基础"
+    ],
+    "watchlist": [
+      "流动性是否增加",
+      "是否有官方项目公告"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener，仅提供链上对信息",
+      "新闻标题提及ASTS股票，但内容与代币无关"
+    ]
+  },
+  "profile": {
+    "id": "0x14369aEb57B97130E6F2E23DA87AB2f476855302",
+    "symbol": "ASTS",
+    "name": "AST SpaceMobile Inc (Derivatives)",
+    "categories": [
+      "base",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on base / uniswap. Pair URL: https://dexscreener.com/base/0xb118f0889ba110ee7f37773ec03907c6046bbc1f",
+    "marketCapRank": null,
+    "currentPriceUsd": 1.326e-20,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": 6754.76,
+    "priceChange24hPct": -100,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-29",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xb118F0889BA110Ee7f37773eC03907C6046Bbc1f",
+    "baseTokenAddress": "0x14369aEb57B97130E6F2E23DA87AB2f476855302",
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "liquidityUsd": 0.14,
+    "pairUrl": "https://dexscreener.com/base/0xb118f0889ba110ee7f37773ec03907c6046bbc1f",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "ASTS/WETH",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xb118F0889BA110Ee7f37773eC03907C6046Bbc1f",
+    "pairUrl": "https://dexscreener.com/base/0xb118f0889ba110ee7f37773ec03907c6046bbc1f",
+    "lastPrice": 1.326e-20,
+    "priceChange24hPct": -100,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 6754.76,
+    "liquidityUsd": 0.14,
+    "fullyDilutedValuationUsd": null,
+    "marketCapUsd": null,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "base",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/base/0xb118f0889ba110ee7f37773ec03907c6046bbc1f",
+    "pairAddress": "0xb118F0889BA110Ee7f37773eC03907C6046Bbc1f",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x14369aEb57B97130E6F2E23DA87AB2f476855302",
+      "name": "AST SpaceMobile Inc (Derivatives)",
+      "symbol": "ASTS"
+    },
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.000000000000000000000008438",
+    "priceUsd": "0.00000000000000000001326",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 25,
+        "sells": 5
+      }
+    },
+    "volume": {
+      "h24": 6754.76,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -100
+    },
+    "liquidity": {
+      "usd": 0.14,
+      "base": 5458826541715130000,
+      "quote": 0.00004606
+    },
+    "pairCreatedAt": 1782736125000
+  },
+  "news": [
+    {
+      "title": "AST SpaceMobile Inc (Derivatives) Price Today | ASTS to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tc3NoU0ZGYl91ZUlJQlE0emhmWVZvRTdyN19yVXktMVM0MEtWVy1ZbDg0SUdWSmE0UkJ0dnVwOFlvZEJLaF9Yc29GOE9IeWs3REMtZk02aTMxMTdWU3pXYlhza1hNNFE2Q3NoVFFLU3lTUQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "snippet": "AST SpaceMobile Inc (Derivatives) Price Today | ASTS to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "AST SpaceMobile Inc (Derivatives) price today, ASTS to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VSDVXZ2NUVmhkaU1jWXBRc1dWdG1ZVnl2WTNkZDV3X0RBMlJOR3VacXRpNmF5R0tOWVhRSnFZQUlaTjFOOFdQbGEtNlV3UGdfajRjQmdPZ3daZjBVTE1sbGFrRVU4cHA4emVWTVhDdXd4YXQwQ2x3OA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 01 Jun 2026 12:39:21 GMT",
+      "snippet": "AST SpaceMobile Inc (Derivatives) price today, ASTS to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "ASTS Stock Eyes Third Straight Weekly Gain As ‘Golden Dome’ Defense Buzz Gains Ground - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNjNVTHNzYkNJUUZEaDJVcWpraTJOYkpIT0dlam11UnUwS1dLckdTZFEwUmlnT05KQWF2QmRMWjh5ZERfSXduMnQwVmtZUDZ3REZqZ0hBMFo4aDFaUWt3dC1QakhEOUg0blA3SlA2Ym9rLVVUT2xEMXBGekJJU2RmSDFwTG5sejZzdmxZaGRRRDdpSGx4eHBaSkRldmY4YU5rbVJ2Smw2eEg0b25OQ2pRWkd1dUpKOXN6RHJqUm9fWDhCTGx1TjRqU3h5a0N4Sk0?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "snippet": "ASTS Stock Eyes Third Straight Weekly Gain As ‘Golden Dome’ Defense Buzz Gains Ground&nbsp;&nbsp;Stocktwits"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=ASTS: Throttled\n"
+  ]
+}

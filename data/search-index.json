@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-06-30T07:33:28.961Z",
+  "updatedAt": "2026-06-30T07:49:03.639Z",
   "results": [
+    {
+      "token": "AAVE",
+      "requestedInput": "AAVE",
+      "name": "Aave",
+      "score": 65,
+      "label": "可以买但严控仓位",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T07:48:56.623Z",
+      "latestPath": "data/results/AAVE-latest.json"
+    },
+    {
+      "token": "RAY",
+      "requestedInput": "RAY",
+      "name": "Raydium",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T07:48:55.588Z",
+      "latestPath": "data/results/RAY-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T07:48:55.253Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "BASED",
+      "requestedInput": "BASED",
+      "name": "Based",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T07:48:55.118Z",
+      "latestPath": "data/results/BASED-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T07:49:03.636Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T07:49:01.052Z",
+      "latestPath": "data/results/KIRBY-latest.json"
+    },
+    {
+      "token": "ASTS",
+      "requestedInput": "ASTS",
+      "name": "AST SpaceMobile Inc (Derivatives)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T07:49:02.247Z",
+      "latestPath": "data/results/ASTS-latest.json"
+    },
     {
       "token": "TNSR",
       "requestedInput": "TNSR",
@@ -60,16 +130,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T07:33:23.951Z",
       "latestPath": "data/results/NIGHT-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T07:33:22.059Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "COOKIE",
@@ -142,16 +202,6 @@
       "latestPath": "data/results/ASTSON-latest.json"
     },
     {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T06:48:48.568Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
       "token": "TRADOOR",
       "requestedInput": "TRADOOR",
       "name": "Tradoor",
@@ -180,16 +230,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T05:48:50.282Z",
       "latestPath": "data/results/PROM-latest.json"
-    },
-    {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T05:18:16.547Z",
-      "latestPath": "data/results/KIRBY-latest.json"
     },
     {
       "token": "MEME",
@@ -960,46 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-29T03:46:53.186Z",
       "latestPath": "data/results/GRASS-latest.json"
-    },
-    {
-      "token": "MMT",
-      "requestedInput": "MMT",
-      "name": "Momentum",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T03:46:58.096Z",
-      "latestPath": "data/results/MMT-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T03:47:01.592Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
-      "token": "PNUT",
-      "requestedInput": "PNUT",
-      "name": "Pnut",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-29T03:32:54.362Z",
-      "latestPath": "data/results/PNUT-latest.json"
-    },
-    {
-      "token": "ICNT",
-      "requestedInput": "ICNT",
-      "name": "Impossible Cloud Network Token",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-29T03:32:49.404Z",
-      "latestPath": "data/results/ICNT-latest.json"
     }
   ]
 }
