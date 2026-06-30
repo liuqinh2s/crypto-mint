@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-06-30T06:03:33.768Z",
+  "updatedAt": "2026-06-30T06:18:47.267Z",
   "results": [
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T06:18:44.251Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T06:18:44.716Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T06:18:47.265Z",
+      "latestPath": "data/results/-latest.json"
+    },
     {
       "token": "TRADOOR",
       "requestedInput": "TRADOOR",
@@ -12,16 +42,6 @@
       "latestPath": "data/results/TRADOOR-latest.json"
     },
     {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T06:03:31.443Z",
-      "latestPath": "data/results/HOU-latest.json"
-    },
-    {
       "token": "OMIKAMI",
       "requestedInput": "AMAT",
       "name": "AMATERASU OMIKAMI",
@@ -30,26 +50,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T06:03:31.502Z",
       "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T06:03:30.989Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T05:56:27.139Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "WET",
