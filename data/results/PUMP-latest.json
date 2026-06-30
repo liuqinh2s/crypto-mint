@@ -1,0 +1,404 @@
+{
+  "token": "PUMP",
+  "requestedInput": "PUMP",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T02:03:45.451Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "PUMP",
+    "name": "Pump",
+    "generatedAt": "2026-06-30T02:03:30.373Z",
+    "summary": "PUMP是Solana上Meteora DEX的流动性池代币，与pump.fun平台关联。24小时下跌5.35%，市值高达2.97万亿美元，但流动性仅6228万美元，严重不匹配。近期新闻多为中性或利空，缺乏明确上涨催化。估值极高且流动性低，风险极大。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现实质性基本面改善（如真实应用落地、流动性大幅提升），否则不参与。"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "PUMP Gains 12% While Protocol Data Warns The Rebound May Be Fragile",
+        "impact": "利空",
+        "reason": "反弹脆弱，数据预警，暗示上涨不可持续。"
+      },
+      {
+        "title": "Pump.fun (PUMP) Price Prediction 2026,2027-2030: Will PUMP Lead Solana’s DeFi Boom?",
+        "impact": "中性",
+        "reason": "价格预测文章，无实质新信息。"
+      },
+      {
+        "title": "LAB Token Explodes +2500% in a Week: What’s Behind the Massive 2026 Crypto Pump?",
+        "impact": "中性",
+        "reason": "无关代币的新闻，不直接影响PUMP。"
+      },
+      {
+        "title": "Pump.fun Paid Creators Over $350M During Bear Market — Is This Crypto's 2010 YouTube Moment?",
+        "impact": "中性",
+        "reason": "平台历史数据，非当前催化。"
+      },
+      {
+        "title": "AI News: Majors Stall, Trending Tokens Pump, Bittensor Governance Reset",
+        "impact": "中性",
+        "reason": "AI板块新闻，PUMP未被提及。"
+      },
+      {
+        "title": "NEAR protocol leads AI token rally with a 50% pump: Is $5 NEAR price next?",
+        "impact": "中性",
+        "reason": "无关代币。"
+      },
+      {
+        "title": "Pump.fun GO Bounty Platform Sparks Backlash Over Extreme Crypto Payouts",
+        "impact": "利空",
+        "reason": "平台争议可能影响声誉。"
+      },
+      {
+        "title": "how to identify coin that could pump",
+        "impact": "中性",
+        "reason": "通用教育内容，非特定新闻。"
+      },
+      {
+        "title": "Pi Network Mainnet Launch Sees A Pump and Dump In Pi Coin Price",
+        "impact": "中性",
+        "reason": "无关代币。"
+      },
+      {
+        "title": "PUMP recovers all-time peak as Binance listing fuels rally",
+        "impact": "中性",
+        "reason": "2025年旧闻，已过时。"
+      },
+      {
+        "title": "Pump.fun’s Build in Public Hackathon Boosts its Ecosystem Activity",
+        "impact": "中性",
+        "reason": "生态活动，但无价格直接影响。"
+      },
+      {
+        "title": "Solana Meme Coin Launchpad Pump.fun Confirms PUMP Token—With Airdrop 'Coming Soon'",
+        "impact": "中性",
+        "reason": "2025年旧闻，空投已过时。"
+      },
+      {
+        "title": "PUMP tokens are distributed to wallets ahead of the official trading start",
+        "impact": "中性",
+        "reason": "2025年旧闻。"
+      },
+      {
+        "title": "Solana’s Pump.Fun Loses Steam With Exit Scam Rumors, LetsBonk.Fun Claims 54% Of Total Market Share",
+        "impact": "利空",
+        "reason": "退出骗局传闻和市场份额流失。"
+      },
+      {
+        "title": "SpaceX IPO Can Pump $100 Billion Into Google’s Alphabet Stock",
+        "impact": "中性",
+        "reason": "无关新闻。"
+      },
+      {
+        "title": "Zcash (ZEC) Price Prediction 2026, 2027 and 2030: Is a Big Pump Waiting?",
+        "impact": "中性",
+        "reason": "无关代币。"
+      }
+    ],
+    "fundamentals": [
+      "PUMP是pump.fun平台发行的代币，在Meteora DEX上交易。",
+      "市值高达2.97万亿美元，但流动性仅6228万美元，严重不匹配，暗示价格操纵或数据错误。",
+      "完全稀释估值7.32万亿美元，无实际支撑。",
+      "平台pump.fun曾因退出骗局传闻和市场份额流失受到负面报道。",
+      "代币供应量和流通量未披露，存在未知解锁风险。"
+    ],
+    "marketRead": [
+      "24小时价格下跌5.35%，无上涨趋势。",
+      "成交量1.59亿美元，但流动性低，易出现滑点和操纵。",
+      "无历史价格数据（7日、14日、30日变化均为null），无法判断趋势。",
+      "市值与流动性比例异常，可能为数据错误或人为拉盘。"
+    ],
+    "risks": [
+      "市值与流动性严重不匹配，极高估值无支撑。",
+      "流动性低，存在价格操纵和退出骗局风险。",
+      "代币供应量和解锁计划不透明。",
+      "平台pump.fun曾卷入退出骗局传闻。",
+      "新闻多为旧闻或无关内容，缺乏近期积极催化。",
+      "DEX交易对，合约风险未知。"
+    ],
+    "watchlist": [
+      "流动性是否显著增加。",
+      "是否有新的实际应用或合作伙伴关系。",
+      "代币供应量和解锁时间表披露。",
+      "平台pump.fun的活跃度和用户增长。",
+      "是否有主流交易所上市。"
+    ],
+    "sourceNotes": [
+      "数据来源DexScreener，市值和FDV可能因计算方式有误，需谨慎对待。",
+      "新闻来源多为聚合网站，部分为旧闻，可靠性中等。",
+      "缺乏链上持仓分布和交易深度数据。"
+    ]
+  },
+  "profile": {
+    "id": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+    "symbol": "PUMP",
+    "name": "Pump",
+    "categories": [
+      "solana",
+      "meteora"
+    ],
+    "homepage": [
+      "https://pump.fun"
+    ],
+    "description": "DexScreener pair on solana / meteora. Pair URL: https://dexscreener.com/solana/4c8kctyztmtzwv83y5actpvt2axyyu2t9zhhdotfgnno Socials: twitter: https://x.com/pumpfun",
+    "marketCapRank": null,
+    "currentPriceUsd": 7.32,
+    "marketCapUsd": 2972733324202,
+    "fullyDilutedValuationUsd": 7324845578435,
+    "totalVolumeUsd": 158996348.71,
+    "priceChange24hPct": -5.35,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-02-27",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "4C8KctYZtMTZwV83Y5AcTPVT2aXYYu2t9ZhHdotFGnno",
+    "baseTokenAddress": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+    "quoteToken": {
+      "address": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+      "name": "Meteora",
+      "symbol": "MET"
+    },
+    "liquidityUsd": 62279021.13,
+    "pairUrl": "https://dexscreener.com/solana/4c8kctyztmtzwv83y5actpvt2axyyu2t9zhhdotfgnno",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteora",
+    "pair": "PUMP/MET",
+    "chainId": "solana",
+    "dexId": "meteora",
+    "pairAddress": "4C8KctYZtMTZwV83Y5AcTPVT2aXYYu2t9ZhHdotFGnno",
+    "pairUrl": "https://dexscreener.com/solana/4c8kctyztmtzwv83y5actpvt2axyyu2t9zhhdotfgnno",
+    "lastPrice": 7.32,
+    "priceChange24hPct": -5.35,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 158996348.71,
+    "liquidityUsd": 62279021.13,
+    "fullyDilutedValuationUsd": 7324845578435,
+    "marketCapUsd": 2972733324202,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/4c8kctyztmtzwv83y5actpvt2axyyu2t9zhhdotfgnno",
+    "pairAddress": "4C8KctYZtMTZwV83Y5AcTPVT2aXYYu2t9ZhHdotFGnno",
+    "labels": [
+      "DLMM"
+    ],
+    "baseToken": {
+      "address": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "name": "Pump",
+      "symbol": "PUMP"
+    },
+    "quoteToken": {
+      "address": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+      "name": "Meteora",
+      "symbol": "MET"
+    },
+    "priceNative": "0.008659",
+    "priceUsd": "7.32",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 39,
+        "sells": 47
+      },
+      "h6": {
+        "buys": 86,
+        "sells": 85
+      },
+      "h24": {
+        "buys": 590,
+        "sells": 545
+      }
+    },
+    "volume": {
+      "h24": 158996348.71,
+      "h6": 26917132.77,
+      "h1": 13081254.19,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -8.33,
+      "h6": -6.01,
+      "h24": -5.35
+    },
+    "liquidity": {
+      "usd": 62279021.13,
+      "base": 5438665,
+      "quote": 26531
+    },
+    "fdv": 7324845578435,
+    "marketCap": 2972733324202,
+    "pairCreatedAt": 1772154758000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/a0d07b12d0c34be414b8ac98a827ff862cfd684554c8da4c63fa647eef0af501?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/986e66945a1887359c4554253c9c02c3d21805f5d562132e14bf9677f9f38cf5?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn?timestamp=1782785100000",
+      "websites": [
+        {
+          "url": "https://pump.fun",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/pumpfun",
+          "type": "twitter"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "PUMP Gains 12% While Protocol Data Warns The Rebound May Be Fragile - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpRnFJQlRObWFfUlJGeDVreFhfOVRuTzVLVl9hOWhKV01TVm1NMnlNclF2dmVfekE4YjREMXc1ekM2WExDaUpkVUNCaVBMdW1KaWN5TGIzOVI4NnB4MURjOVg1ZmFpWk0?oc=5",
+      "source": "Yellow.com",
+      "publishedAt": "Mon, 29 Jun 2026 04:28:50 GMT",
+      "snippet": "PUMP Gains 12% While Protocol Data Warns The Rebound May Be Fragile&nbsp;&nbsp;Yellow.com"
+    },
+    {
+      "title": "Pump.fun (PUMP) Price Prediction 2026,2027-2030: Will PUMP Lead Solana’s DeFi Boom? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zYjFKSzJQdnZiWlRDNUs0OGI4eFRYODZ3YkJPOHBVYWRJY1ZSem1hSHBhUUcxZkJNaFRYNGU4eHgzZWQ3RHdTNXRZMG41STRTTFo0al9mSDNyUnpERHc5RnBERHdjd3RORGNaakdza2NZTHBsSnBkMXJn0gF_QVVfeXFMUDRCN0dDZHNpRWFRNkoxZWNYeWxCbER2X3R3U3RhREZpdEJ0N2tJX0FESElwOThKZkhxcURwbUhVVHNpMndZOG1RbGRGWUlaNDdPMjloUTNmRzVNMlc5QUl0ODBQTXRJck01WjBUWVhhNDQwWmdHUGYybldTc1ktMA?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Sun, 07 Jun 2026 07:00:00 GMT",
+      "snippet": "Pump.fun (PUMP) Price Prediction 2026,2027-2030: Will PUMP Lead Solana’s DeFi Boom?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "LAB Token Explodes +2500% in a Week: What’s Behind the Massive 2026 Crypto Pump? - Bitcoin Foundation",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcXJ6dVY2MG5rZ2toSzV2T2tyeVlVeFB5UmJ2X2oweTRMdy1EaUVnbkRtbEpWdDRQZVBOOEZlZ1FMLVJFRFUtNVRnSEpuSmVUYlB1bVRWbW9iYVRUdjV6WUZNbDJoeERzM0ZjVy05SnJ6SVMzM0U1Z0gxNzc3YWNoQ182Skx6X0RsSkprWTZ4MTVtLVlWbUYyVnRfdlN4aXdLcDJaVmtpNzVlc1l5X19KVm5UOFdEN2NzSlF6Mw?oc=5",
+      "source": "Bitcoin Foundation",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "snippet": "LAB Token Explodes +2500% in a Week: What’s Behind the Massive 2026 Crypto Pump?&nbsp;&nbsp;Bitcoin Foundation"
+    },
+    {
+      "title": "Pump.fun Paid Creators Over $350M During Bear Market — Is This Crypto's 2010 YouTube Moment? - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdU11eFY0WkUyR2JJMUlSMGdtaV9FUkpybjA2d2NiNlFydmZUSUFDb1hZR3BlaXZ3QTRKSW5yc3Vkc0Qzd0Zzblp6U19OcXhzaU5EM1loTzZIRjhPSk5sT3FDQkZfZnJjbWkwSzNCNndvcm90VnRVVkpmbWlTTFZQSzltSUc0eVE?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Sat, 06 Jun 2026 07:00:00 GMT",
+      "snippet": "Pump.fun Paid Creators Over $350M During Bear Market — Is This Crypto's 2010 YouTube Moment?&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "AI News: Majors Stall, Trending Tokens Pump, Bittensor Governance Reset - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVN1azRReEIyME1hS1k0OXk4TlVFS19yOUtZUHZyS2MxdV9YdU5CS05QT2VGTUFVME1UWlRQVVdsUkRqV1FUZFdQTnp2MlFBZGNIMFRidWtubXVGbmZteUZtUGRvRTRwRHJqVElmd2VJUFl1RTFoSmQwb3YwaS15M0U0WEtkRHhfMnRDUzNDdlRJd25vbmphWkloZ2ZUMVBWc0V6TERSbi1QbXZzeEw4?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sun, 21 Jun 2026 06:30:32 GMT",
+      "snippet": "AI News: Majors Stall, Trending Tokens Pump, Bittensor Governance Reset&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "NEAR protocol leads AI token rally with a 50% pump: Is $5 NEAR price next? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX2RuOWs4UWhsQ3BDeTBJV1lqOFVwME1DV05mV1p0MU1abTdmaDdVMWRfQ3lOOWNGUnQxOTVlZ3FEUy1UUTRRUTNsdEJud21nNS12MGcxaEZ3X0FpRXdMYXMtd05URW9UanJPSExJWVhvOHgwRGRXN3ljeHNJaTk1Y2NCMDBxQVFkclVfSzFKaFRYNjRoSE9SbVVPbjhQYk5tVWo5My1aM0R1VDUtblJ0UXhhV1VrUE9VNkNvMEdjWUpUWlR3T1VILVF2WmlLZ2s?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 22 May 2026 07:00:00 GMT",
+      "snippet": "NEAR protocol leads AI token rally with a 50% pump: Is $5 NEAR price next?&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Pump.fun GO Bounty Platform Sparks Backlash Over Extreme Crypto Payouts - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FRE45VU02LTBVdkV1djJiOWFpSGo2VDJ4Z2pzZ213S0JBX1pVT0ZaUHByUFJUb1RqTUJkdjl0S1RlWlI5VnE2OFZfbE1TUVNXQWxtSGhqbjVBcHZNamRnOFRrUWlIVmNrUDk0?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "snippet": "Pump.fun GO Bounty Platform Sparks Backlash Over Extreme Crypto Payouts&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "how to identify coin that could pump - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43c3hJQlZWazlxRmxnbWNScTRSU3R5bVhrTzFQcldNeGJrSzNCenNwcUlRM1VERWhfT3Fnd0RRb1hfYk1jQWdvNVdGQmxReXAtM25YWkFoU2RoS0hxOERhanZsYw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 08 Dec 2024 08:00:00 GMT",
+      "snippet": "how to identify coin that could pump&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Pi Network Mainnet Launch Sees A Pump and Dump In Pi Coin Price - CoinGape",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pQ0hEOHBwcXBFSzdMTml6STYxdFpaSGxJVnFOQTFHYVZhZ0c5NlJFLWI0VE1URHpJOV9ORDlicGM2bDNhX3dHWkgxVEdaOWxrb25oOTZYRGo5MVRWaGxrMFpsYXdfd0ljRzQ4bVNkNEhIZw?oc=5",
+      "source": "CoinGape",
+      "publishedAt": "Thu, 20 Feb 2025 08:00:00 GMT",
+      "snippet": "Pi Network Mainnet Launch Sees A Pump and Dump In Pi Coin Price&nbsp;&nbsp;CoinGape"
+    },
+    {
+      "title": "PUMP recovers all-time peak as Binance listing fuels rally - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OZ1RzS3hRZnJzVHd0eHIzMzdaa3d2ejZJTm1tdG10TkhVaVZZaVpEQWw1U1VRcUxvaFdyaWhQcVpIVkdHQlV3bDFvYU5ONkU4TGRZdkhFSWo0RTJmRDJHREgxYw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "snippet": "PUMP recovers all-time peak as Binance listing fuels rally&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Pump.fun’s Build in Public Hackathon Boosts its Ecosystem Activity - Tekedia",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObzZxOG41a0dRVkI0aFFyd3NmOEttMi1qUTNURVNVODQ3VmFOZXo0dEo2cG9GSDlkZ3dHTFZVemItMUhxa0tGeGRZc0FMZWpJa1NwbkYzX2NVdmZGeDdKOXV5SUx1NVNpVndKdENiWm9Eek5MUzBCc3I5eGxxc1o3MlJvTkpRdDNDNHVKSkV2MEtwc1ZX?oc=5",
+      "source": "Tekedia",
+      "publishedAt": "Sat, 28 Feb 2026 08:00:00 GMT",
+      "snippet": "Pump.fun’s Build in Public Hackathon Boosts its Ecosystem Activity&nbsp;&nbsp;Tekedia"
+    },
+    {
+      "title": "Solana Meme Coin Launchpad Pump.fun Confirms PUMP Token—With Airdrop 'Coming Soon' - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vZk4tNEJ2TnhwZTZZUjRMc2FGZkU1Y1pncHJNVC1wMlpsMUh2dXpFNnVUb0hOd2s1WDBOc0F2Qktoa3RxbzVkblRWbkpSVG9QbGJFbmJBWUx2ekhwbFJYOEdkS0h4T2RtamxR0gFzQVVfeXFMT0FGU3JTbEoxQi1mSEJwT2RxRlJKY0owMllXVG54V2JrUUdRdE5md25vX2V5WmpQRjVtT2N5SjdzckRoQnQ5dkFXWjZyUWxzeGFxOEVWbW03VzkyWVNhdm1hYnZuU1RFZnE0SklpaDJnTUJRQQ?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Wed, 09 Jul 2025 07:00:00 GMT",
+      "snippet": "Solana Meme Coin Launchpad Pump.fun Confirms PUMP Token—With Airdrop 'Coming Soon'&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "PUMP tokens are distributed to wallets ahead of the official trading start - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DSXpiUXZUR3JkbEJ5N0lfZU5QLWZXUE1oWElrREpMTGxVUFBqRHc3SllPS0lhZS1YU1BIS2djdHVWSm5DaF9Gc1JoR0lYTVdKSFNvQ1ZodWpQNC1TZndBcTlQb0lLQXJ3QXhuYkVVNktlR1RtZnA4?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 14 Jul 2025 07:00:00 GMT",
+      "snippet": "PUMP tokens are distributed to wallets ahead of the official trading start&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Solana’s Pump.Fun Loses Steam With Exit Scam Rumors, LetsBonk.Fun Claims 54% Of Total Market Share - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONXJaUkQ2Z2E0cDUtODJ5SngtallTUGEwV1YzVzZ6RHlXQUFQQ3d4a1BDMU10TjNzQUJ0QlZRTHZQeDNXUzBTQTFoTTVGN004SmVhRjZ2V25vUmJwYUp3MW1obkRqWk5BQzZXd25NQ0F2ejZYbmhmUjlZSGx1eVRBX2p2TmxEOElCV2puVDVVUE9jcEZ6a3JubjczYS1jdGh0VmIyZ1ZaYnh3SEpjNElyZmF5LVNCNzhrdVY0aHdWNjBWTHByYmtWMXRxaWx0Q2VMVEJWUmVsVzhDUG4tTi05MWxqV2IzWkVkNGc?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Tue, 08 Jul 2025 07:00:00 GMT",
+      "snippet": "Solana’s Pump.Fun Loses Steam With Exit Scam Rumors, LetsBonk.Fun Claims 54% Of Total Market Share&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "SpaceX IPO Can Pump $100 Billion Into Google’s Alphabet Stock - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01d0lNUWtTRUZ3Q3lMdXBBaVQwM05JOXNHMFJFd1pMWkptcnA3bm90VnZhU0ZxakVHd25NVzZEckJ3LTZibXpNREtSRGkyNWx4NFh3WDUwUFZsQ01oS2fSAWNBVV95cUxNLWZPcEMxaUNUXzM0NDlPWDhPdXNRM0JJLU15c0UxN3NTczNVRzdadUJ2eVVyZmJQTEZ3NTJTWTA1QkJYWjBTN3d6TWxFeDJjQTNLaVlwdkZKUnZqUktNVGppVDQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "snippet": "SpaceX IPO Can Pump $100 Billion Into Google’s Alphabet Stock&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Zcash (ZEC) Price Prediction 2026, 2027 and 2030: Is a Big Pump Waiting? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0MURxOEhibHd2UG9XaHcyWGx6UjBlNmk5TTJWVnd3UDVZUFViMHh0YlJkVVNvcnp6RjJpNWVPZjFzdGtCbkV0bXp5RWRnV2pDemh1eklhSlE3WVMtMWfSAWNBVV95cUxNbm9yQnZwcXRqVHpmWVNCb09URHRDQXI5b19aaFlwdlQxS0Y3bHdrVC1xSGE0WlRZOWhodnRLdU5QVldqdzhWb1JKdWpnSWhvdlBmSkwzU3BYc0RfU3phOVdGTlk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "snippet": "Zcash (ZEC) Price Prediction 2026, 2027 and 2030: Is a Big Pump Waiting?&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=PUMP: Throttled\n"
+  ]
+}

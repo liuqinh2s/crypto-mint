@@ -1,0 +1,193 @@
+{
+  "token": "CIEN",
+  "requestedInput": "CIEN",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T02:03:56.330Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CIEN",
+    "name": "Ciena Corp (Derivatives)",
+    "generatedAt": "2026-06-30T02:03:50.492Z",
+    "summary": "该代币为Base链上Uniswap的极低流动性Meme币，24小时跌幅100%，当前价格极低，流动性仅0.13美元，存在极高风险。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性极低，价格已归零，无交易价值"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Convert CIEN to GBP | CIEN/GBP Conversion Calculator - KuCoin",
+        "impact": "中性",
+        "reason": "仅为汇率转换工具，与代币基本面无关"
+      }
+    ],
+    "fundamentals": [
+      "代币名称为Ciena Corp (Derivatives)，但实际为Base链上Uniswap的Meme币，与Ciena公司无关",
+      "创建于2026-06-29，仅一天历史",
+      "总供应量和流通量未知",
+      "无官网或项目描述"
+    ],
+    "marketRead": [
+      "24小时价格跌幅100%，当前价格1.104e-14美元",
+      "流动性仅0.13美元，几乎无交易深度",
+      "24小时交易量5492.93美元，但流动性极低，存在拉地毯风险"
+    ],
+    "risks": [
+      "流动性极低，极易被操纵或归零",
+      "代币无实际价值，纯Meme属性",
+      "24小时跌幅100%，可能已归零",
+      "无审计或社区支持"
+    ],
+    "watchlist": [
+      "流动性变化",
+      "是否有新地址买入"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，缺乏项目方信息",
+      "新闻仅有一条无关汇率转换"
+    ]
+  },
+  "profile": {
+    "id": "0x8a1e39C853a9eB5C63500A961B122AD58132DEed",
+    "symbol": "CIEN",
+    "name": "Ciena Corp (Derivatives)",
+    "categories": [
+      "base",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on base / uniswap. Pair URL: https://dexscreener.com/base/0xd56152c42063864f4ace779b657baa7523b98b5b",
+    "marketCapRank": null,
+    "currentPriceUsd": 1.104e-14,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": 5492.93,
+    "priceChange24hPct": -100,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-29",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xd56152c42063864F4AcE779B657BAA7523B98b5B",
+    "baseTokenAddress": "0x8a1e39C853a9eB5C63500A961B122AD58132DEed",
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "liquidityUsd": 0.13,
+    "pairUrl": "https://dexscreener.com/base/0xd56152c42063864f4ace779b657baa7523b98b5b",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "CIEN/WETH",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xd56152c42063864F4AcE779B657BAA7523B98b5B",
+    "pairUrl": "https://dexscreener.com/base/0xd56152c42063864f4ace779b657baa7523b98b5b",
+    "lastPrice": 1.104e-14,
+    "priceChange24hPct": -100,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 5492.93,
+    "liquidityUsd": 0.13,
+    "fullyDilutedValuationUsd": null,
+    "marketCapUsd": null,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "base",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/base/0xd56152c42063864f4ace779b657baa7523b98b5b",
+    "pairAddress": "0xd56152c42063864F4AcE779B657BAA7523B98b5B",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x8a1e39C853a9eB5C63500A961B122AD58132DEed",
+      "name": "Ciena Corp (Derivatives)",
+      "symbol": "CIEN"
+    },
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.000000000000000006985",
+    "priceUsd": "0.00000000000001104",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 16,
+        "sells": 3
+      }
+    },
+    "volume": {
+      "h24": 5492.93,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -100
+    },
+    "liquidity": {
+      "usd": 0.13,
+      "base": 5997418912042,
+      "quote": 0.00004189
+    },
+    "pairCreatedAt": 1782698127000
+  },
+  "news": [
+    {
+      "title": "Convert CIEN to GBP | CIEN/GBP Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxbTFsSUpJUkJLN2RwVmQ3SVZ5ZmROdlhhRDJraUFlSTkzQmJac3hTbGc4d3lMR1gwQV9SemNoa0FKUGpMQWdoQnFHN3JZenFPZFVV?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Thu, 25 Jun 2026 22:02:23 GMT",
+      "snippet": "Convert CIEN to GBP | CIEN/GBP Conversion Calculator&nbsp;&nbsp;KuCoin"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=CIEN: Throttled\n"
+  ]
+}

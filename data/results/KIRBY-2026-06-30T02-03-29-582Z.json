@@ -1,0 +1,218 @@
+{
+  "token": "KIRBY",
+  "requestedInput": "OUST",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T02:03:29.582Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "KIRBY",
+    "name": "New Baby Elephant Houston Zoo",
+    "generatedAt": "2026-06-30T02:03:21.942Z",
+    "summary": "KIRBY 是 Solana 链上 Raydium 的 MEME 币，市值仅约 9683 美元，流动性 1.28 万美元，24 小时交易量仅 9.26 美元，价格微跌 0.24%。项目无实质基本面，仅有动物园大象主题，新闻来自 Forbes 但内容空洞。市场极度冷清，风险极高，不建议买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无买入逻辑，无需失效条件"
+    },
+    "catalysts": [
+      "无明确上涨催化剂，仅靠社区情绪和 MEME 炒作"
+    ],
+    "latestNews": [
+      {
+        "title": "New Baby Elephant Houston Zoo (KIRBY) - Forbes",
+        "impact": "中性",
+        "reason": "新闻标题提及 KIRBY，但内容未提供实质利好，可能只是项目方宣传，对价格影响有限"
+      }
+    ],
+    "fundamentals": [
+      "项目为 Solana 链上 MEME 币，无实际应用或团队信息",
+      "市值极低（<1 万美元），流动性差（1.28 万美元）",
+      "创建于 2024-11-18，已存在较长时间但交易量极低"
+    ],
+    "marketRead": [
+      "24 小时交易量仅 9.26 美元，市场参与度极低",
+      "价格波动极小（-0.24%），无活跃买卖盘",
+      "流动性池深度不足，大额交易易滑点或无法成交"
+    ],
+    "risks": [
+      "流动性极低，存在 rug pull 或无法卖出风险",
+      "MEME 币无基本面支撑，价格完全依赖炒作",
+      "交易量几乎为零，市场关注度极低",
+      "合约未开源或未审计，存在安全风险"
+    ],
+    "watchlist": [
+      "关注交易量是否突然放大",
+      "关注社交媒体（Twitter/Telegram）是否有新动态",
+      "关注流动性池变化"
+    ],
+    "sourceNotes": [
+      "数据来自 DexScreener，仅包含链上信息",
+      "新闻链接可能为自动聚合，内容可靠性低",
+      "无 K 线数据，无法分析趋势"
+    ]
+  },
+  "profile": {
+    "id": "AXTCLqqupJN3YWikgDtAZxRKWizsbePDyV9XtkDtpump",
+    "symbol": "KIRBY",
+    "name": "New Baby Elephant Houston Zoo",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [
+      "https://kirbyelephant.com/"
+    ],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/fzs6cz4pq3bwskxh5y8tjkujtjrmkjmvfam4smqhwaot Socials: twitter: https://x.com/kirbyelephant?s=21&t=XpiAzM8I1SkrnebWBZ7a-A; telegram: https://t.me/KirbyOnSolana",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.000009686,
+    "marketCapUsd": 9683,
+    "fullyDilutedValuationUsd": 9683,
+    "totalVolumeUsd": 9.26,
+    "priceChange24hPct": -0.24,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2024-11-18",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "FZS6Cz4Pq3BwsKXh5y8TJkUjTjrmkJMvFam4SMqHWAot",
+    "baseTokenAddress": "AXTCLqqupJN3YWikgDtAZxRKWizsbePDyV9XtkDtpump",
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "liquidityUsd": 12862.96,
+    "pairUrl": "https://dexscreener.com/solana/fzs6cz4pq3bwskxh5y8tjkujtjrmkjmvfam4smqhwaot",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "KIRBY/SOL",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "FZS6Cz4Pq3BwsKXh5y8TJkUjTjrmkJMvFam4SMqHWAot",
+    "pairUrl": "https://dexscreener.com/solana/fzs6cz4pq3bwskxh5y8tjkujtjrmkjmvfam4smqhwaot",
+    "lastPrice": 0.000009686,
+    "priceChange24hPct": -0.24,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 9.26,
+    "liquidityUsd": 12862.96,
+    "fullyDilutedValuationUsd": 9683,
+    "marketCapUsd": 9683,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/fzs6cz4pq3bwskxh5y8tjkujtjrmkjmvfam4smqhwaot",
+    "pairAddress": "FZS6Cz4Pq3BwsKXh5y8TJkUjTjrmkJMvFam4SMqHWAot",
+    "baseToken": {
+      "address": "AXTCLqqupJN3YWikgDtAZxRKWizsbePDyV9XtkDtpump",
+      "name": "New Baby Elephant Houston Zoo",
+      "symbol": "KIRBY"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.0000001309",
+    "priceUsd": "0.000009686",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 9.26,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -0.24
+    },
+    "liquidity": {
+      "usd": 12862.96,
+      "base": 663123031,
+      "quote": 87.07936
+    },
+    "fdv": 9683,
+    "marketCap": 9683,
+    "pairCreatedAt": 1731957956000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/7c1eccef43ddc5112125e668cbb517dbc39c823b895c7514d58df431fe6bb0fb?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/fcda3decbce26c25817dae080ff8e708476aad73c31582bd549cf780c040abb1?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/AXTCLqqupJN3YWikgDtAZxRKWizsbePDyV9XtkDtpump?timestamp=1782785100000",
+      "websites": [
+        {
+          "url": "https://kirbyelephant.com/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/kirbyelephant?s=21&t=XpiAzM8I1SkrnebWBZ7a-A",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/KirbyOnSolana",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "New Baby Elephant Houston Zoo (KIRBY) - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2xyMTNXVzd4dWcwN19aSDByY3hHWWlReTZnUWV2M1NVZmxsR04zNlE5VERSWEFlbVMxZXhHek1sU2RGRzRGdUF1RkNlck4yRWUzV1BGNjBWRVVYSjh3ekJWTlJ1NnZzZTJIXzBzUGhESWJDczdqdW1LNkpiQXp5Z2ZUNnp2aXRt?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Tue, 26 Nov 2024 10:46:25 GMT",
+      "snippet": "New Baby Elephant Houston Zoo (KIRBY)&nbsp;&nbsp;Forbes"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/houston-token?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "token": "GLW",
+  "requestedInput": "GLW",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T02:03:21.173Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "GLW",
+    "name": "Corning Inc",
+    "generatedAt": "2026-06-30T02:03:14.337Z",
+    "summary": "GLW是康宁公司股票，近期因与亚马逊、英伟达的光纤合作消息暴涨，创历史新高。但这是传统股票，非加密货币，需注意交易平台限制。",
+    "rating": {
+      "score": 65,
+      "label": "可以买但严控仓位",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 10,
+      "holdingPeriod": "1-2周",
+      "invalidation": "合作消息被证伪或股价跌破近期涨幅的50%"
+    },
+    "catalysts": [
+      "亚马逊数据中心光纤合作",
+      "英伟达美国光网络建设订单",
+      "AI基础设施需求推动光纤增长"
+    ],
+    "latestNews": [
+      {
+        "title": "GLW Stock Jumps As Amazon Data Center Deal Fuels AI Fiber Boom",
+        "impact": "利好",
+        "reason": "亚马逊合作直接推动光纤需求，提升营收预期"
+      },
+      {
+        "title": "GLW Stock On Track For Record High: Nvidia Taps Corning For Massive US Optical Buildout",
+        "impact": "利好",
+        "reason": "英伟达订单进一步确认AI光网络需求，推动股价创历史新高"
+      }
+    ],
+    "fundamentals": [
+      "康宁是全球领先的光纤和玻璃制造商",
+      "AI数据中心对高速光纤需求激增",
+      "近期与亚马逊、英伟达签订大额订单",
+      "传统股票，非加密货币，基本面稳健"
+    ],
+    "marketRead": [
+      "股价在6月24-25日大涨约10%，创历史新高",
+      "成交量显著放大，市场情绪积极",
+      "但短期涨幅过大，存在回调风险"
+    ],
+    "risks": [
+      "短期涨幅过大，获利盘抛压",
+      "合作细节未完全披露，存在不确定性",
+      "传统股票交易受平台限制，流动性可能不足",
+      "宏观经济或行业竞争影响光纤需求"
+    ],
+    "watchlist": [
+      "合作正式公告及订单金额",
+      "股价是否守住近期涨幅的50%回撤位",
+      "行业竞争对手动态"
+    ],
+    "sourceNotes": [
+      "数据来自新闻聚合，未获取到实时行情（Binance限制）",
+      "GLW为传统股票，非加密货币，分析基于新闻和基本面"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "GLWUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GLWUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "GLWFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GLWFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "GLWUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GLWUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "GLWBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=GLWBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "Corning Inc Stock (GLW) Moved Up by 9.75% on Jun 25: Drivers Behind the Movement - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcElkVlRFWG4zUmtWVFR3dHFaQXJJaUFSOGlpcmxwLXpjQ2Y0VTBPZFB0ZDlfbnVhTy1NQTJENzlOa3NDX3RtQ3dfYUIxazJ6S25oNHY1ZG9DZG1hWExhUzZMMXczelJBa0Fkb25mQ0NvTVRNNk5wS3FybGt6ZEJCWTM4ZnhBWmRhY1E?oc=5",
+      "source": "TradingKey",
+      "publishedAt": "Thu, 25 Jun 2026 17:15:22 GMT",
+      "snippet": "Corning Inc Stock (GLW) Moved Up by 9.75% on Jun 25: Drivers Behind the Movement&nbsp;&nbsp;TradingKey"
+    },
+    {
+      "title": "GLW Stock Jumps As Amazon Data Center Deal Fuels AI Fiber Boom - StocksToTrade",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fQ244Vnh1NUJkOWg3dzEyV0JWQnVVV1QwMkZsT25sd1BTbWtTaDBCZ01tRjJjQUN0TFNvbVFfXzJvOU1rQjhZZG9kUVZiU0xPQUR0YjVmdWFvMXBOUjh6aTJnQ1RUMUpfa3RoNDZ0MmRTMVJaMzJnZlJXMVE?oc=5",
+      "source": "StocksToTrade",
+      "publishedAt": "Wed, 24 Jun 2026 14:04:00 GMT",
+      "snippet": "GLW Stock Jumps As Amazon Data Center Deal Fuels AI Fiber Boom&nbsp;&nbsp;StocksToTrade"
+    },
+    {
+      "title": "GLW Stock On Track For Record High: Nvidia Taps Corning For Massive US Optical Buildout - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSjk0b1J5WE9PektjdzRLZUtvWERhLUJMd3p5VmhPTHlhNlU3QmgyQXNKdThBOUh0R0s4TzRRYkx0OHNtUzZ5M2E1MU9NT1ZkSXJNajdzQ2V5Ul9BWExfMFNybDF1SkNzRWJkZW9SRXh2Q0pWdk85clVJdFM0Nnh0Y09heWo5WlpwdDE0SXdvYnQ5R1lVSUdxYnJaUzhmX2R5S3NoUEVvTUZCLVFGejJPS1BOUWd5a3EwZTdKbDdxWjVGYmx5eWh6MWloTHNpRkZNazFrQUVuWWREQ3dVVUE?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Sun, 28 Jun 2026 16:43:31 GMT",
+      "snippet": "GLW Stock On Track For Record High: Nvidia Taps Corning For Massive US Optical Buildout&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Corning (GLW) Stock Surges to Record Peak Following Amazon Fiber Partnership - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5mdzRhWTVXZ0F3dWtFT1VQSFhGQ1J2dnpGck1pZkFBcVBxb1VFNnhMVVBURkFJWXNSaGpDcHhwY2FJU21VSWtV?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Thu, 25 Jun 2026 14:09:19 GMT",
+      "snippet": "Corning (GLW) Stock Surges to Record Peak Following Amazon Fiber Partnership&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Corning Inc (Derivatives) price today, GLW to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pS1F1eDNRaVEyRmxFbzQ1VWxTUnFzQ2JGMGo2YzV5Q0tjTjV1Qk1seFIxU3ZYNmZIMnc2dDExUnE2dnoxRjNvU2ZOYnppcll4T05HeFlSQmE4aUUweFNCZFphX2hVSnNoQnFqazhR?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 18 May 2026 12:40:29 GMT",
+      "snippet": "Corning Inc (Derivatives) price today, GLW to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

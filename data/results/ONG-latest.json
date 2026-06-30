@@ -1,0 +1,185 @@
+{
+  "token": "ONG",
+  "requestedInput": "ONG",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T02:03:22.309Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ONG",
+    "name": "Ontology Gas",
+    "generatedAt": "2026-06-30T02:03:15.392Z",
+    "summary": "ONG 24小时涨幅17%，但链上流动性极低（仅1488美元），交易量小，上涨可能由少数资金推动，基本面缺乏新催化，风险极高。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性改善或出现重大利好前不参与"
+    },
+    "catalysts": [
+      "无明确新催化剂，可能为短期资金博弈或市场情绪带动"
+    ],
+    "latestNews": [
+      {
+        "title": "Ontology Gas price today, ONGAS to USD live price, marketcap and chart - CoinDesk",
+        "impact": "中性",
+        "reason": "仅为常规价格报道，无实质利好"
+      }
+    ],
+    "fundamentals": [
+      "ONT双代币模型中的Gas代币，用于链上服务",
+      "总供应量10亿，流通4.74亿，流通市值约2540万美元",
+      "项目上线于2018年，已较历史高点跌98.8%",
+      "近期无重大技术升级或合作公告"
+    ],
+    "marketRead": [
+      "24小时涨幅17%，但链上DEX（ApeSwap BSC）流动性仅1488美元，24小时交易量仅68美元，价格极易被操纵",
+      "CEX数据未提供，但链上数据表明实际交易深度极差",
+      "价格变动与成交量不匹配，上涨缺乏可持续性"
+    ],
+    "risks": [
+      "流动性极低，滑点巨大，难以大额进出",
+      "价格容易被少数资金操控，存在拉高出货风险",
+      "项目老旧，缺乏新叙事，社区关注度低（仅6500人关注）",
+      "供应量仍有未解锁部分（总量8亿，最大10亿），潜在抛压"
+    ],
+    "watchlist": [
+      "观察是否有新合作或技术更新",
+      "监控链上流动性是否改善",
+      "关注CEX交易量变化"
+    ],
+    "sourceNotes": [
+      "数据主要来自CoinGecko和DexScreener，链上流动性数据可靠性低",
+      "新闻仅一条常规报道，无增量信息"
+    ]
+  },
+  "profile": {
+    "id": "ong",
+    "symbol": "ONG",
+    "name": "Ontology Gas",
+    "categories": [
+      "Smart Contract Platform",
+      "Layer 1 (L1)"
+    ],
+    "homepage": [
+      "https://ont.io/"
+    ],
+    "description": "Since the Ontology MainNet went live on June 30th, 2018, MainNet ONT has started to release ONG periodically. Ontology uses a dual token (ONT and ONG) model. ONT is the coin and can be used for staking in consensus, whereas ONG is the utility token used for on-chain services. Ontology is a new high-performance public blockchain project &amp; a distributed trust collaboration platform. Ontology provides new high-performance public blockchains that include a series of complete distributed ledgers and smart contract systems. Ontology blockchain framework supports public blockchain systems and is able to customize different public blockchains for different applications. Ontology supports collaboration amongst chain networks with its various protocol groups. Ontology will constantly provide common modules on the underlying infrastructure for different kinds of distributed scenarios, such as those for the distributed digital identity framework, distributed data exchange protocol, and so on. Based on specific scenario requirements, Ontology will continue to develop new common modules.",
+    "marketCapRank": 693,
+    "currentPriceUsd": 0.05383,
+    "marketCapUsd": 25401637,
+    "fullyDilutedValuationUsd": 42870365,
+    "totalVolumeUsd": 10771471,
+    "priceChange24hPct": 16.62679,
+    "priceChange7dPct": 16.12127,
+    "priceChange14dPct": 9.5542,
+    "priceChange30dPct": -11.23862,
+    "athUsd": 4.39,
+    "athChangePct": -98.77743,
+    "circulatingSupply": 474017645,
+    "totalSupply": 800000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 100,
+    "watchlistUsers": 6500,
+    "genesisDate": "2018-06-30"
+  },
+  "market": {
+    "exchange": "apeswap",
+    "pair": "ONG/WBNB",
+    "chainId": "bsc",
+    "dexId": "apeswap",
+    "pairAddress": "0xe569fDBE1EA6B7e49c3fB3AD7Fe3758CA701e90f",
+    "pairUrl": "https://dexscreener.com/bsc/0xe569fdbe1ea6b7e49c3fb3ad7fe3758ca701e90f",
+    "lastPrice": 0.05118,
+    "priceChange24hPct": 17.22,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 68.11,
+    "liquidityUsd": 1488.37,
+    "fullyDilutedValuationUsd": 51180882,
+    "marketCapUsd": 51180882,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "apeswap",
+    "url": "https://dexscreener.com/bsc/0xe569fdbe1ea6b7e49c3fb3ad7fe3758ca701e90f",
+    "pairAddress": "0xe569fDBE1EA6B7e49c3fB3AD7Fe3758CA701e90f",
+    "baseToken": {
+      "address": "0x308bfaeAaC8BDab6e9Fc5Ead8EdCb5f95b0599d9",
+      "name": "Poly-Peg ONG",
+      "symbol": "ONG"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.00009214",
+    "priceUsd": "0.05118",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 3
+      },
+      "h6": {
+        "buys": 3,
+        "sells": 4
+      },
+      "h24": {
+        "buys": 12,
+        "sells": 15
+      }
+    },
+    "volume": {
+      "h24": 68.11,
+      "h6": 62.19,
+      "h1": 61.7,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": 16.27,
+      "h6": 15.25,
+      "h24": 17.22
+    },
+    "liquidity": {
+      "usd": 1488.37,
+      "base": 14540,
+      "quote": 1.3398
+    },
+    "fdv": 51180882,
+    "marketCap": 51180882,
+    "pairCreatedAt": 1630659070000
+  },
+  "news": [
+    {
+      "title": "Ontology Gas price today, ONGAS to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWSzA3a193dHVfeWxNUlhFRkh3S2hfLTgwb1QxYmxaY0ctb2JBbE5GYzk4bzJkcTZOY281Z3pVZTdMb2gzVi1lUHlrYXQ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 25 Nov 2024 01:49:48 GMT",
+      "snippet": "Ontology Gas price today, ONGAS to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
