@@ -1,0 +1,167 @@
+{
+  "token": "QBTSON",
+  "requestedInput": "QBTS",
+  "exchange": "other",
+  "generatedAt": "2026-06-30T19:34:16.240Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "QBTSON",
+    "name": "D-Wave Quantum (Ondo Tokenized Stock)",
+    "generatedAt": "2026-06-30T19:34:07.561Z",
+    "summary": "QBTSON是Ondo发行的D-Wave Quantum代币化股票，近期因量子计算概念热度上涨5.82%，但24小时涨幅仅1.25%，7日下跌3.38%，30日跌幅超21%。市值仅95万美元，流动性极低，且受限于非美国用户。当前价格较ATH下跌48.5%，缺乏明确催化剂，风险较高。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现重大量子计算突破或Ondo平台新增流动性，可重新评估。"
+    },
+    "catalysts": [
+      "量子计算概念短期炒作",
+      "Ondo代币化股票平台可能吸引非美国用户"
+    ],
+    "latestNews": [
+      {
+        "title": "D-Wave Quantum Tokenized Stock (Ondo) (QBTSon) Price Prediction & Forecasts: Surging 5.82% Amid Quantum Tech Buzz in April 2026",
+        "impact": "利好",
+        "reason": "新闻提及量子技术热潮推动价格上涨，但仅为预测性内容，实际涨幅有限。"
+      },
+      {
+        "title": "D-Wave Quantum Tokenized Stock (Ondo) price today, QBTSon to USD live price, marketcap and chart",
+        "impact": "中性",
+        "reason": "CoinMarketCap常规价格更新，无新增信息。"
+      },
+      {
+        "title": "D-Wave Quantum Tokenized Stock (Ondo) Price Today | QBTSon to USD Live Price, Market Cap & Chart",
+        "impact": "中性",
+        "reason": "Binance页面，但实际交易受限，无法提供流动性。"
+      }
+    ],
+    "fundamentals": [
+      "代币化股票，追踪D-Wave Quantum (QBTS)价格，并再投资股息。",
+      "由Ondo Finance发行，支持多链（BNB、Solana、Ethereum）。",
+      "总供应量仅39,862枚，市值约95万美元，流动性极低。",
+      "仅限非美国用户，且需符合Ondo平台资格。"
+    ],
+    "marketRead": [
+      "24小时涨幅1.25%，但7日下跌3.38%，30日下跌21.07%，处于下降趋势。",
+      "成交量74万美元，相对市值较高，但可能为少数交易者推动。",
+      "无Binance等主流CEX交易对，仅限DEX或Ondo平台，流动性风险大。"
+    ],
+    "risks": [
+      "流动性极低，买卖价差大，容易滑点。",
+      "代币化股票受限于Ondo平台规则，非美国用户限制。",
+      "量子计算概念炒作已过，缺乏持续催化剂。",
+      "价格较ATH下跌48.5%，可能继续下行。",
+      "无最大供应量限制，但总供应固定。"
+    ],
+    "watchlist": [
+      "D-Wave Quantum (QBTS)美股价格走势",
+      "Ondo平台新增流动性或合作伙伴",
+      "量子计算行业重大新闻"
+    ],
+    "sourceNotes": [
+      "数据来自CoinMarketCap，Binance API返回451错误，无法获取CEX数据。",
+      "新闻来源为WEEX预测性文章，可靠性一般。"
+    ]
+  },
+  "profile": {
+    "id": "d-wave-quantum-ondo-tokenized-stock",
+    "symbol": "QBTSON",
+    "name": "D-Wave Quantum (Ondo Tokenized Stock)",
+    "categories": [
+      "Tokenized Assets",
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Tokenized Stock",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)",
+      "Ondo Tokenized Assets"
+    ],
+    "homepage": [
+      "https://app.ondo.finance/assets/qbtson"
+    ],
+    "description": "QBTSon is the Ondo Tokenized version of D-Wave Quantum, giving tokenholders economic exposure similar to holding QBTS and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
+    "marketCapRank": 2878,
+    "currentPriceUsd": 23.94,
+    "marketCapUsd": 954150,
+    "fullyDilutedValuationUsd": 954150,
+    "totalVolumeUsd": 742038,
+    "priceChange24hPct": 1.2542,
+    "priceChange7dPct": -3.37986,
+    "priceChange14dPct": -3.13196,
+    "priceChange30dPct": -21.07074,
+    "athUsd": 46.34,
+    "athChangePct": -48.53898,
+    "circulatingSupply": 39862.3403343963,
+    "totalSupply": 39862.3403343963,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 148,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "QBTSONUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QBTSONUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QBTSONFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QBTSONFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QBTSONUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QBTSONUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "QBTSONBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=QBTSONBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "D-Wave Quantum Tokenized Stock (Ondo) (QBTSon) Price Prediction & Forecasts: Surging 5.82% Amid Quantum Tech Buzz in April 2026 - WEEX",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRWUtMEQwWU1uYTRnXzJEdVZ0dEZJVzRBOWh0Qm5NeEJNYW1hQ1hfRHJackFYWmdQaGNQcGlOSDlhZzJLZXg2WWdxTktHTnhacWtJb180eDhHTFh1MDYwcjZLU3h3cjZjQ3pybHR6M0RIRldsdWJWSTVhZVNwX08tdFJQaHA0NE4yMGFIMDVVWDZUa1dVUzA3UWM4VXNlbWtfRG9vSVRMczVOVHp0V01lOXVvOEVZMHF0UjByLUpmRjdXQjRNWXJuak9FVTBlQjU0T2lrQzNBNTltMWJYYmdha2JIMWdiWXpBZ25iNk5rd1I?oc=5",
+      "source": "WEEX",
+      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "snippet": "D-Wave Quantum Tokenized Stock (Ondo) (QBTSon) Price Prediction & Forecasts: Surging 5.82% Amid Quantum Tech Buzz in April 2026&nbsp;&nbsp;WEEX"
+    },
+    {
+      "title": "D-Wave Quantum Tokenized Stock (Ondo) price today, QBTSon to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81X0YxaC1qcjZHUEJZaVp5dTVRcEhJcTVkTGlnQkduckE4N2o3NXJJa3BMWGcxQXZoUWlzYlBEQkdUVHZQcmJzNlg0UWZlbURUaUpXRGllaUZuc01fbTVMM28ydGhGQXd6dEpRb1d3YjR5UDNMLWdUSURVMUZ2dw?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 18 Aug 2025 02:49:18 GMT",
+      "snippet": "D-Wave Quantum Tokenized Stock (Ondo) price today, QBTSon to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "D-Wave Quantum Tokenized Stock (Ondo) Price Today | QBTSon to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TeVpodXctSzc0ZmMxenVtaHB6ekNVS3lTUEloTnZuZDd6VHpCRUd0Z2llU2NaclJldXBxVnJnOUQzbDRkQmZqU21VTzI1MmJ6VExQLXRKZlRKdzZvY05nR3VHVjBGSy1tdjlNWUdCd2xsT2NpYXBB?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 05 Sep 2025 14:56:51 GMT",
+      "snippet": "D-Wave Quantum Tokenized Stock (Ondo) Price Today | QBTSon to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

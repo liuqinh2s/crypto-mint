@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-30T19:19:15.103Z",
+  "updatedAt": "2026-06-30T19:34:16.435Z",
   "results": [
+    {
+      "token": "JST",
+      "requestedInput": "JST",
+      "name": "JUST",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T19:34:10.941Z",
+      "latestPath": "data/results/JST-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:34:06.765Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:34:07.200Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:34:07.015Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "QBTSON",
+      "requestedInput": "QBTS",
+      "name": "D-Wave Quantum (Ondo Tokenized Stock)",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:34:16.240Z",
+      "latestPath": "data/results/QBTSON-latest.json"
+    },
+    {
+      "token": "BRKB",
+      "requestedInput": "BRKB",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:34:10.155Z",
+      "latestPath": "data/results/BRKB-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:34:16.154Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "OSS",
+      "requestedInput": "OSS",
+      "name": "One Stop Systems, Inc.",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T19:34:16.433Z",
+      "latestPath": "data/results/OSS-latest.json"
+    },
     {
       "token": "B2",
       "requestedInput": "B2",
@@ -30,16 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T19:18:58.373Z",
       "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:18:57.793Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "SOXL",
@@ -92,16 +162,6 @@
       "latestPath": "data/results/TWLO-latest.json"
     },
     {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:19:13.634Z",
-      "latestPath": "data/results/TOKABU-latest.json"
-    },
-    {
       "token": "CAT",
       "requestedInput": "SIMO",
       "name": "Simons Cat",
@@ -120,16 +180,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T19:04:10.791Z",
       "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:04:10.507Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "CRDOON",
@@ -420,16 +470,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-30T17:34:07.742Z",
       "latestPath": "data/results/MORPHO-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:34:12.780Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "BBSTOCK",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T14:34:32.617Z",
       "latestPath": "data/results/ARQQ-latest.json"
-    },
-    {
-      "token": "SNOW",
-      "requestedInput": "SNOW",
-      "name": "snow",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:34:35.659Z",
-      "latestPath": "data/results/SNOW-latest.json"
-    },
-    {
-      "token": "ID",
-      "requestedInput": "ID",
-      "name": "SPACE ID",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T14:18:16.014Z",
-      "latestPath": "data/results/ID-latest.json"
-    },
-    {
-      "token": "BAN",
-      "requestedInput": "BAN",
-      "name": "Comedian",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:18:14.744Z",
-      "latestPath": "data/results/BAN-latest.json"
-    },
-    {
-      "token": "CHILLGUY",
-      "requestedInput": "CHILLGUY",
-      "name": "CHILLGUY",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:18:14.461Z",
-      "latestPath": "data/results/CHILLGUY-latest.json"
     }
   ]
 }
