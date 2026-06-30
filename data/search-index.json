@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-30T20:21:32.935Z",
+  "updatedAt": "2026-06-30T20:34:22.361Z",
   "results": [
+    {
+      "token": "BSV",
+      "requestedInput": "BSV",
+      "name": "Bitcoin SV",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:34:10.790Z",
+      "latestPath": "data/results/BSV-latest.json"
+    },
+    {
+      "token": "WIF",
+      "requestedInput": "WIF",
+      "name": "dogwifhat",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:34:11.029Z",
+      "latestPath": "data/results/WIF-latest.json"
+    },
+    {
+      "token": "VELVET",
+      "requestedInput": "VELVET",
+      "name": "Velvet",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:34:10.837Z",
+      "latestPath": "data/results/VELVET-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T20:34:06.838Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:34:16.131Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:34:18.897Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "QBTSON",
+      "requestedInput": "QBTS",
+      "name": "D-Wave Quantum (Ondo Tokenized Stock)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:34:22.359Z",
+      "latestPath": "data/results/QBTSON-latest.json"
+    },
+    {
+      "token": "RTXSTOCK",
+      "requestedInput": "RTXSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T20:34:14.413Z",
+      "latestPath": "data/results/RTXSTOCK-latest.json"
+    },
     {
       "token": "RPL",
       "requestedInput": "RPL",
@@ -30,16 +110,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T20:21:15.278Z",
       "latestPath": "data/results/MET-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T20:21:12.677Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "OMIKAMI",
@@ -112,16 +182,6 @@
       "latestPath": "data/results/XAN-latest.json"
     },
     {
-      "token": "QBTSON",
-      "requestedInput": "QBTS",
-      "name": "D-Wave Quantum (Ondo Tokenized Stock)",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:04:13.573Z",
-      "latestPath": "data/results/QBTSON-latest.json"
-    },
-    {
       "token": "ARQQON",
       "requestedInput": "ARQQ",
       "name": "Arqit Quantum (Ondo Tokenized)",
@@ -152,16 +212,6 @@
       "latestPath": "data/results/CHILLGUY-latest.json"
     },
     {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:48:59.980Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
       "token": "SNOW",
       "requestedInput": "SNOW",
       "name": "Snowman",
@@ -180,16 +230,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T19:34:10.941Z",
       "latestPath": "data/results/JST-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:34:07.015Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "BRKB",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T15:04:29.330Z",
       "latestPath": "data/results/TOKYOEL-latest.json"
-    },
-    {
-      "token": "AGLD",
-      "requestedInput": "AGLD",
-      "name": "Adventure Gold",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:49:06.626Z",
-      "latestPath": "data/results/AGLD-latest.json"
-    },
-    {
-      "token": "FARTCOIN",
-      "requestedInput": "FARTCOIN",
-      "name": "Fartcoin",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T14:49:05.964Z",
-      "latestPath": "data/results/FARTCOIN-latest.json"
-    },
-    {
-      "token": "ZBT",
-      "requestedInput": "ZBT",
-      "name": "ZEROBASE",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T14:49:06.879Z",
-      "latestPath": "data/results/ZBT-latest.json"
-    },
-    {
-      "token": "TRUST",
-      "requestedInput": "TRUST",
-      "name": "Intuition",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T14:49:07.062Z",
-      "latestPath": "data/results/TRUST-latest.json"
     }
   ]
 }
