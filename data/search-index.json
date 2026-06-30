@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-30T12:19:09.146Z",
+  "updatedAt": "2026-06-30T12:34:11.208Z",
   "results": [
+    {
+      "token": "APR",
+      "requestedInput": "APR",
+      "name": "aPriori",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:34:01.774Z",
+      "latestPath": "data/results/APR-latest.json"
+    },
+    {
+      "token": "KRAV",
+      "requestedInput": "RAVE",
+      "name": "Rave",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:34:03.042Z",
+      "latestPath": "data/results/KRAV-latest.json"
+    },
+    {
+      "token": "TSM",
+      "requestedInput": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:34:01.183Z",
+      "latestPath": "data/results/TSM-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:34:01.078Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:34:09.766Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:34:09.824Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "UNITE",
+      "requestedInput": "CIEN",
+      "name": "Unbound Science",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T12:34:08.541Z",
+      "latestPath": "data/results/UNITE-latest.json"
+    },
+    {
+      "token": "GLW",
+      "requestedInput": "GLW",
+      "name": "Corning Incorporated",
+      "score": 75,
+      "label": "可以买但严控仓位",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T12:34:11.206Z",
+      "latestPath": "data/results/GLW-latest.json"
+    },
     {
       "token": "STABLE",
       "requestedInput": "STABLE",
@@ -12,26 +92,6 @@
       "latestPath": "data/results/STABLE-latest.json"
     },
     {
-      "token": "KRAV",
-      "requestedInput": "RAVE",
-      "name": "Rave",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:18:53.844Z",
-      "latestPath": "data/results/KRAV-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T12:18:54.359Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "NATGAS",
       "requestedInput": "NATGAS",
       "name": "Natural Gas (Derivatives)",
@@ -40,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T12:18:54.443Z",
       "latestPath": "data/results/NATGAS-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:19:00.658Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "KIRBY",
@@ -90,16 +140,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T12:19:06.331Z",
       "latestPath": "data/results/PL-latest.json"
-    },
-    {
-      "token": "UNITE",
-      "requestedInput": "CIEN",
-      "name": "Unbound Science",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T12:19:09.144Z",
-      "latestPath": "data/results/UNITE-latest.json"
     },
     {
       "token": "DOGE",
@@ -150,16 +190,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T11:49:02.738Z",
       "latestPath": "data/results/BBSTOCK-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T11:40:50.767Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "DELLON",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T02:34:20.548Z",
       "latestPath": "data/results/4-latest.json"
-    },
-    {
-      "token": "KGEN",
-      "requestedInput": "KGEN",
-      "name": "KGEN",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T02:34:25.943Z",
-      "latestPath": "data/results/KGEN-latest.json"
-    },
-    {
-      "token": "HIVE",
-      "requestedInput": "HIVE",
-      "name": "Hive",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T02:18:48.495Z",
-      "latestPath": "data/results/HIVE-latest.json"
-    },
-    {
-      "token": "ONG",
-      "requestedInput": "ONG",
-      "name": "Ontology Gas",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T02:18:48.009Z",
-      "latestPath": "data/results/ONG-latest.json"
     }
   ]
 }
