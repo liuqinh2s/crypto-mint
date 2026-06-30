@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-30T05:33:23.921Z",
+  "updatedAt": "2026-06-30T05:48:50.284Z",
   "results": [
     {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
-      "score": 10,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T05:33:22.838Z",
+      "generatedAt": "2026-06-30T05:48:48.099Z",
       "latestPath": "data/results/HOU-latest.json"
     },
     {
@@ -18,18 +18,28 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T05:33:23.919Z",
+      "generatedAt": "2026-06-30T05:48:48.533Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 25,
-      "label": "观望",
+      "score": 15,
+      "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T05:33:23.345Z",
+      "generatedAt": "2026-06-30T05:48:48.446Z",
       "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "PROM",
+      "requestedInput": "PROM",
+      "name": "Prom",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T05:48:50.282Z",
+      "latestPath": "data/results/PROM-latest.json"
     },
     {
       "token": "KIRBY",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-29T00:47:52.539Z",
       "latestPath": "data/results/IBM-latest.json"
-    },
-    {
-      "token": "WET",
-      "requestedInput": "WET",
-      "name": "HumidiFi",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-29T00:32:23.582Z",
-      "latestPath": "data/results/WET-latest.json"
     }
   ]
 }
