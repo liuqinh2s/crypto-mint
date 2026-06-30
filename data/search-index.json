@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T03:48:09.515Z",
+  "updatedAt": "2026-06-30T04:03:20.002Z",
   "results": [
     {
       "token": "TAIKO",
@@ -8,7 +8,7 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T03:48:02.347Z",
+      "generatedAt": "2026-06-30T04:03:18.663Z",
       "latestPath": "data/results/TAIKO-latest.json"
     },
     {
@@ -18,8 +18,28 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T03:48:00.170Z",
+      "generatedAt": "2026-06-30T04:03:18.923Z",
       "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T04:03:20.000Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T04:03:17.392Z",
+      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "PIEVERSE",
@@ -32,16 +52,6 @@
       "latestPath": "data/results/PIEVERSE-latest.json"
     },
     {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T03:48:01.970Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
       "token": "TAG",
       "requestedInput": "TAG",
       "name": "TAGGER",
@@ -50,16 +60,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T03:48:07.234Z",
       "latestPath": "data/results/TAG-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T03:48:09.513Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "GAS",
