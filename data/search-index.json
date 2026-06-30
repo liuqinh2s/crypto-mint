@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-06-30T04:48:44.666Z",
+  "updatedAt": "2026-06-30T05:04:16.483Z",
   "results": [
     {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T05:04:08.340Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "STBL",
+      "requestedInput": "STBL",
+      "name": "STBL",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T05:04:10.856Z",
+      "latestPath": "data/results/STBL-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-06-30T04:48:43.618Z",
-      "latestPath": "data/results/HOU-latest.json"
+      "generatedAt": "2026-06-30T05:04:07.692Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T05:04:08.873Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "FOLKS",
+      "requestedInput": "FOLKS",
+      "name": "FOLKS",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T05:04:16.481Z",
+      "latestPath": "data/results/FOLKS-latest.json"
     },
     {
       "token": "ACX",
@@ -20,26 +60,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T04:48:44.664Z",
       "latestPath": "data/results/ACX-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T04:48:44.573Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T04:48:43.550Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "SLX",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-29T00:02:36.967Z",
       "latestPath": "data/results/AXL-latest.json"
-    },
-    {
-      "token": "INFQ",
-      "requestedInput": "INFQ",
-      "name": "Infleqtion Inc (Derivatives)",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T22:47:52.463Z",
-      "latestPath": "data/results/INFQ-latest.json"
-    },
-    {
-      "token": "MEME",
-      "requestedInput": "MEME",
-      "name": "Memecoin",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-28T21:19:47.694Z",
-      "latestPath": "data/results/MEME-latest.json"
     }
   ]
 }
