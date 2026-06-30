@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-30T16:34:31.247Z",
+  "updatedAt": "2026-06-30T16:49:09.040Z",
   "results": [
+    {
+      "token": "ARC",
+      "requestedInput": "ARC",
+      "name": "ARC",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T16:48:56.938Z",
+      "latestPath": "data/results/ARC-latest.json"
+    },
+    {
+      "token": "PUMP",
+      "requestedInput": "PUMP",
+      "name": "Pump",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T16:49:01.644Z",
+      "latestPath": "data/results/PUMP-latest.json"
+    },
+    {
+      "token": "IN",
+      "requestedInput": "IN",
+      "name": "INFINIT",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-06-30T16:48:55.117Z",
+      "latestPath": "data/results/IN-latest.json"
+    },
+    {
+      "token": "LIT",
+      "requestedInput": "LIT",
+      "name": "Lighter",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-06-30T16:48:57.857Z",
+      "latestPath": "data/results/LIT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T16:49:02.121Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-06-30T16:49:05.244Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "OUSTON",
+      "requestedInput": "OUST",
+      "name": "Ouster Tokenized Stock (Ondo)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T16:49:02.884Z",
+      "latestPath": "data/results/OUSTON-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-06-30T16:49:09.037Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "AAVE",
       "requestedInput": "AAVE",
@@ -42,16 +122,6 @@
       "latestPath": "data/results/PIEVERSE-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T16:34:20.511Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "BASED",
       "requestedInput": "BASED",
       "name": "BASED",
@@ -62,16 +132,6 @@
       "latestPath": "data/results/BASED-latest.json"
     },
     {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:34:21.745Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
       "token": "ETN",
       "requestedInput": "ETN",
       "name": "Electroneum",
@@ -80,26 +140,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T16:34:25.908Z",
       "latestPath": "data/results/ETN-latest.json"
-    },
-    {
-      "token": "OUSTON",
-      "requestedInput": "OUST",
-      "name": "Ouster Tokenized Stock (Ondo)",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:34:26.429Z",
-      "latestPath": "data/results/OUSTON-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:34:30.693Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "CAT",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T10:34:04.669Z",
       "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "ORDI",
-      "requestedInput": "ORDI",
-      "name": "ORDI",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T10:18:50.119Z",
-      "latestPath": "data/results/ORDI-latest.json"
-    },
-    {
-      "token": "AVAX",
-      "requestedInput": "AVAX",
-      "name": "Avalanche (Wormhole)",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T10:03:45.940Z",
-      "latestPath": "data/results/AVAX-latest.json"
-    },
-    {
-      "token": "BLESS",
-      "requestedInput": "BLESS",
-      "name": "Bless",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T10:03:46.912Z",
-      "latestPath": "data/results/BLESS-latest.json"
-    },
-    {
-      "token": "KAS",
-      "requestedInput": "KAS",
-      "name": "Kaspa",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T09:48:10.265Z",
-      "latestPath": "data/results/KAS-latest.json"
     }
   ]
 }
