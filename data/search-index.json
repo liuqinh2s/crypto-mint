@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-07-01T07:33:33.846Z",
+  "updatedAt": "2026-07-01T07:48:55.400Z",
   "results": [
+    {
+      "token": "MEME",
+      "requestedInput": "MEME",
+      "name": "Memecoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:48:44.430Z",
+      "latestPath": "data/results/MEME-latest.json"
+    },
+    {
+      "token": "G",
+      "requestedInput": "G",
+      "name": "Gravity (原Galxe)",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T07:48:51.122Z",
+      "latestPath": "data/results/G-latest.json"
+    },
+    {
+      "token": "WLFI",
+      "requestedInput": "WLFI",
+      "name": "World Liberty Financial",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:48:44.280Z",
+      "latestPath": "data/results/WLFI-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:48:42.777Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMD",
+      "requestedInput": "AMD",
+      "name": "AMD",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:48:51.303Z",
+      "latestPath": "data/results/AMD-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:48:55.399Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:48:50.451Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
     {
       "token": "WIF",
       "requestedInput": "WIF",
@@ -30,36 +100,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-07-01T07:33:25.852Z",
       "latestPath": "data/results/ZBT-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:33:24.311Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:33:33.844Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:33:31.139Z",
-      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "TOKABU",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T23:48:31.119Z",
       "latestPath": "data/results/BAS-latest.json"
-    },
-    {
-      "token": "TQQQ",
-      "requestedInput": "TQQQ",
-      "name": "TQQQUSDT",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T23:33:59.457Z",
-      "latestPath": "data/results/TQQQ-latest.json"
-    },
-    {
-      "token": "EH",
-      "requestedInput": "EH",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T23:18:01.716Z",
-      "latestPath": "data/results/EH-latest.json"
-    },
-    {
-      "token": "DYDX",
-      "requestedInput": "DYDX",
-      "name": "dYdX",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T21:48:08.680Z",
-      "latestPath": "data/results/DYDX-latest.json"
-    },
-    {
-      "token": "TAC",
-      "requestedInput": "TAC",
-      "name": "TAC",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T21:33:20.409Z",
-      "latestPath": "data/results/TAC-latest.json"
     }
   ]
 }
