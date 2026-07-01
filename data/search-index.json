@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T00:48:11.122Z",
+  "updatedAt": "2026-07-01T01:03:30.180Z",
   "results": [
+    {
+      "token": "PIEVERSE",
+      "requestedInput": "PIEVERSE",
+      "name": "Pieverse",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T01:03:24.217Z",
+      "latestPath": "data/results/PIEVERSE-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T01:03:22.814Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "BASED",
+      "requestedInput": "BASED",
+      "name": "Based",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T01:03:26.771Z",
+      "latestPath": "data/results/BASED-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T01:03:24.593Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T01:03:29.641Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T01:03:30.178Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
     {
       "token": "TAIKO",
       "requestedInput": "TAIKO",
@@ -20,16 +80,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-07-01T00:48:03.547Z",
       "latestPath": "data/results/MAGMA-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:47:57.989Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "AMT",
@@ -52,26 +102,6 @@
       "latestPath": "data/results/ETN-latest.json"
     },
     {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:48:11.120Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:48:06.789Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
       "token": "BR",
       "requestedInput": "BR",
       "name": "Bedrock",
@@ -90,16 +120,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T00:34:06.722Z",
       "latestPath": "data/results/ZAMA-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:34:04.430Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "HOU",
@@ -980,26 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T16:48:55.117Z",
       "latestPath": "data/results/IN-latest.json"
-    },
-    {
-      "token": "LIT",
-      "requestedInput": "LIT",
-      "name": "Lighter",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T16:48:57.857Z",
-      "latestPath": "data/results/LIT-latest.json"
-    },
-    {
-      "token": "AAVE",
-      "requestedInput": "AAVE",
-      "name": "AAVE",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:34:15.761Z",
-      "latestPath": "data/results/AAVE-latest.json"
     }
   ]
 }
