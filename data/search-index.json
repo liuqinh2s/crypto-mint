@@ -1,6 +1,176 @@
 {
-  "updatedAt": "2026-07-01T22:34:48.493Z",
+  "updatedAt": "2026-07-01T22:49:18.380Z",
   "results": [
+    {
+      "token": "XLM",
+      "requestedInput": "XLM",
+      "name": "Stellar",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T22:48:53.469Z",
+      "latestPath": "data/results/XLM-latest.json"
+    },
+    {
+      "token": "AVAX",
+      "requestedInput": "AVAX",
+      "name": "Avalanche (Wormhole)",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T22:48:53.876Z",
+      "latestPath": "data/results/AVAX-latest.json"
+    },
+    {
+      "token": "SYN",
+      "requestedInput": "SYN",
+      "name": "Synapse",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:48:52.195Z",
+      "latestPath": "data/results/SYN-latest.json"
+    },
+    {
+      "token": "MOODENG",
+      "requestedInput": "MOODENG",
+      "name": "Moo Deng",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:48:53.229Z",
+      "latestPath": "data/results/MOODENG-latest.json"
+    },
+    {
+      "token": "GOAT",
+      "requestedInput": "GOAT",
+      "name": "GOAT",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:48:59.622Z",
+      "latestPath": "data/results/GOAT-latest.json"
+    },
+    {
+      "token": "NMR",
+      "requestedInput": "NMR",
+      "name": "Numeraire",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:49:00.500Z",
+      "latestPath": "data/results/NMR-latest.json"
+    },
+    {
+      "token": "4",
+      "requestedInput": "4",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:48:57.404Z",
+      "latestPath": "data/results/4-latest.json"
+    },
+    {
+      "token": "APR",
+      "requestedInput": "APR",
+      "name": "aPriori",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:49:02.417Z",
+      "latestPath": "data/results/APR-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:49:04.106Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:49:07.481Z",
+      "latestPath": "data/results/KIRBY-latest.json"
+    },
+    {
+      "token": "SPYX",
+      "requestedInput": "SP500",
+      "name": "SP500 xStock",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T22:49:11.526Z",
+      "latestPath": "data/results/SPYX-latest.json"
+    },
+    {
+      "token": "PANWON",
+      "requestedInput": "PANW",
+      "name": "Palo Alto Networks (Ondo Tokenized Stock)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:49:10.271Z",
+      "latestPath": "data/results/PANWON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:49:10.447Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "AVAVE",
+      "requestedInput": "AVAV",
+      "name": "AVAVE",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:49:12.624Z",
+      "latestPath": "data/results/AVAVE-latest.json"
+    },
+    {
+      "token": "MDB",
+      "requestedInput": "MDB",
+      "name": "MillionDollarBaby",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:49:16.887Z",
+      "latestPath": "data/results/MDB-latest.json"
+    },
+    {
+      "token": "TWLO",
+      "requestedInput": "TWLO",
+      "name": "Twilio Inc (Derivatives)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:49:15.430Z",
+      "latestPath": "data/results/TWLO-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:49:18.378Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "AAVE",
       "requestedInput": "AAVE",
@@ -82,36 +252,6 @@
       "latestPath": "data/results/ACX-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T22:34:25.941Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T22:34:26.980Z",
-      "latestPath": "data/results/KIRBY-latest.json"
-    },
-    {
-      "token": "SPYX",
-      "requestedInput": "SP500",
-      "name": "SP500",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T22:34:27.891Z",
-      "latestPath": "data/results/SPYX-latest.json"
-    },
-    {
       "token": "DELL",
       "requestedInput": "DELL",
       "name": "DelL",
@@ -120,26 +260,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T22:34:30.607Z",
       "latestPath": "data/results/DELL-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T22:34:32.379Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "AVAVE",
-      "requestedInput": "AVAV",
-      "name": "AVAVE",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T22:34:33.905Z",
-      "latestPath": "data/results/AVAVE-latest.json"
     },
     {
       "token": "AXON",
@@ -170,16 +290,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T22:34:40.587Z",
       "latestPath": "data/results/CIEN-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T22:34:43.662Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "GLW",
@@ -890,116 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T19:48:46.199Z",
       "latestPath": "data/results/MEW-latest.json"
-    },
-    {
-      "token": "ESP",
-      "requestedInput": "ESP",
-      "name": "Espresso",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T19:48:53.499Z",
-      "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "BRKB",
-      "requestedInput": "BRKB",
-      "name": "Berkshire Hathaway Inc Tokenized Stock",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:48:55.156Z",
-      "latestPath": "data/results/BRKB-latest.json"
-    },
-    {
-      "token": "SNOW",
-      "requestedInput": "SNOW",
-      "name": "Snow",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:48:58.937Z",
-      "latestPath": "data/results/SNOW-latest.json"
-    },
-    {
-      "token": "OSS",
-      "requestedInput": "OSS",
-      "name": "押燃",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:49:04.581Z",
-      "latestPath": "data/results/OSS-latest.json"
-    },
-    {
-      "token": "MORPHO",
-      "requestedInput": "MORPHO",
-      "name": "MORPHO",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:33:22.112Z",
-      "latestPath": "data/results/MORPHO-latest.json"
-    },
-    {
-      "token": "DEXE",
-      "requestedInput": "DEXE",
-      "name": "DeXe",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T19:33:22.558Z",
-      "latestPath": "data/results/DEXE-latest.json"
-    },
-    {
-      "token": "KAITO",
-      "requestedInput": "KAITO",
-      "name": "KAITO",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:33:22.843Z",
-      "latestPath": "data/results/KAITO-latest.json"
-    },
-    {
-      "token": "XPIN",
-      "requestedInput": "XPIN",
-      "name": "XPIN Network",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:33:23.449Z",
-      "latestPath": "data/results/XPIN-latest.json"
-    },
-    {
-      "token": "AMAT",
-      "requestedInput": "AMAT",
-      "name": "Applied Materials Inc. Common Stock",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:33:31.541Z",
-      "latestPath": "data/results/AMAT-latest.json"
-    },
-    {
-      "token": "CRDO",
-      "requestedInput": "CRDO",
-      "name": "Credo Technology Group Holding Ltd Ordinary Shares",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:33:33.311Z",
-      "latestPath": "data/results/CRDO-latest.json"
-    },
-    {
-      "token": "EH",
-      "requestedInput": "EH",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:33:36.152Z",
-      "latestPath": "data/results/EH-latest.json"
     }
   ]
 }
