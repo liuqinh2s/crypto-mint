@@ -1,0 +1,312 @@
+{
+  "token": "CETUS",
+  "requestedInput": "CETUS",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T15:34:24.844Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CETUS",
+    "name": "Cetus Token",
+    "generatedAt": "2026-07-01T15:34:15.773Z",
+    "summary": "CETUS 是 Sui 链上最大的 DEX Cetus Protocol 的原生代币，近期价格小幅上涨4.5%，但此前经历重大安全事件（2025年5月被黑客盗取约2.2亿美元），平台已恢复运营。基本面尚可，但安全事件影响深远，市场信心待修复。当前流动性一般，估值中等，短期缺乏明确催化剂。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3个月",
+      "invalidation": "若出现新的安全漏洞或团队负面消息，或价格跌破0.015美元支撑位。"
+    },
+    "catalysts": [
+      "Sui 生态持续发展可能带动 CETUS 需求",
+      "平台恢复后交易量回升",
+      "未来可能的代币回购或销毁计划"
+    ],
+    "latestNews": [
+      {
+        "title": "Cetus Deep Dive: Into Its Architecture and CETUS Tokenomics",
+        "impact": "中性",
+        "reason": "深度分析文章，无新信息，但有助于理解项目价值。"
+      },
+      {
+        "title": "Crucial Update: OKX to Delist DEGEN and CETUS Perpetual Futures This Month",
+        "impact": "利空",
+        "reason": "OKX 将下架 CETUS 永续合约，减少交易渠道和流动性。"
+      },
+      {
+        "title": "Sui Decentralized Exchange Cetus Is Back Online After $223M Exploit",
+        "impact": "利好",
+        "reason": "平台恢复运营，表明团队有能力应对危机。"
+      },
+      {
+        "title": "How attacker used fake tokens to swipe $220m from Sui DeFi exchange Cetus",
+        "impact": "利空",
+        "reason": "安全事件细节曝光，损害项目声誉。"
+      }
+    ],
+    "fundamentals": [
+      "Cetus 是 Sui 链上最大的 DEX，提供 AMM 和流动性池。",
+      "CETUS 代币用于治理、手续费折扣和质押。",
+      "总供应量 10 亿枚，当前流通约 9.48 亿枚（约 94.8% 已解锁）。",
+      "2025年5月遭遇黑客攻击，损失约2.23亿美元，平台已恢复并补偿用户。",
+      "Binance 于2024年11月上线 CETUS 现货，并带有种子标签。"
+    ],
+    "marketRead": [
+      "24小时涨幅4.5%，成交量约12.4万美元，流动性约81.8万美元，交易活跃度一般。",
+      "市值约1721万美元，FDV约1816万美元，估值处于中等水平。",
+      "价格在0.018美元附近震荡，无明显趋势。"
+    ],
+    "risks": [
+      "安全事件后市场信心不足，可能面临持续抛压。",
+      "OKX 下架永续合约减少交易渠道。",
+      "Sui 生态竞争加剧，其他 DEX 可能分流流动性。",
+      "代币解锁进度已高，但仍有少量未解锁代币可能带来抛压。",
+      "DEX 流动性相对较低，大额交易可能产生滑点。"
+    ],
+    "watchlist": [
+      "Sui 生态 TVL 变化",
+      "CETUS 交易量和流动性变化",
+      "团队后续安全审计和补偿进展",
+      "是否有新的 CEX 上线或做市商支持"
+    ],
+    "sourceNotes": [
+      "数据来源为 DexScreener 和 Google News，部分新闻时间较早。",
+      "未获取到链上持仓分布和代币解锁时间表。",
+      "市场情绪指标（如加权情绪）缺失。"
+    ]
+  },
+  "profile": {
+    "id": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
+    "symbol": "CETUS",
+    "name": "Cetus Token",
+    "categories": [
+      "sui",
+      "cetus"
+    ],
+    "homepage": [
+      "https://www.cetus.zone/"
+    ],
+    "description": "DexScreener pair on sui / cetus. Pair URL: https://dexscreener.com/sui/0x2e041f3fd93646dcc877f783c1f2b7fa62d30271bdef1f21ef002cebf857bded Socials: twitter: https://x.com/CetusProtocol; discord: https://discord.gg/cetusprotocol",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.01815,
+    "marketCapUsd": 17210489,
+    "fullyDilutedValuationUsd": 18157855,
+    "totalVolumeUsd": 123662.01,
+    "priceChange24hPct": 4.5,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2023-05-07",
+    "chainId": "sui",
+    "dexId": "cetus",
+    "pairAddress": "0x2e041f3fd93646dcc877f783c1f2b7fa62d30271bdef1f21ef002cebf857bded",
+    "baseTokenAddress": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+      "name": "Sui",
+      "symbol": "SUI"
+    },
+    "liquidityUsd": 817827.92,
+    "pairUrl": "https://dexscreener.com/sui/0x2e041f3fd93646dcc877f783c1f2b7fa62d30271bdef1f21ef002cebf857bded",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "cetus",
+    "pair": "CETUS/SUI",
+    "chainId": "sui",
+    "dexId": "cetus",
+    "pairAddress": "0x2e041f3fd93646dcc877f783c1f2b7fa62d30271bdef1f21ef002cebf857bded",
+    "pairUrl": "https://dexscreener.com/sui/0x2e041f3fd93646dcc877f783c1f2b7fa62d30271bdef1f21ef002cebf857bded",
+    "lastPrice": 0.01815,
+    "priceChange24hPct": 4.5,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 123662.01,
+    "liquidityUsd": 817827.92,
+    "fullyDilutedValuationUsd": 18157855,
+    "marketCapUsd": 17210489,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "sui",
+    "dexId": "cetus",
+    "url": "https://dexscreener.com/sui/0x2e041f3fd93646dcc877f783c1f2b7fa62d30271bdef1f21ef002cebf857bded",
+    "pairAddress": "0x2e041f3fd93646dcc877f783c1f2b7fa62d30271bdef1f21ef002cebf857bded",
+    "baseToken": {
+      "address": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
+      "name": "Cetus Token",
+      "symbol": "CETUS"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+      "name": "Sui",
+      "symbol": "SUI"
+    },
+    "priceNative": "0.02521",
+    "priceUsd": "0.01815",
+    "txns": {
+      "m5": {
+        "buys": 20,
+        "sells": 3
+      },
+      "h1": {
+        "buys": 39,
+        "sells": 47
+      },
+      "h6": {
+        "buys": 124,
+        "sells": 181
+      },
+      "h24": {
+        "buys": 564,
+        "sells": 855
+      }
+    },
+    "volume": {
+      "h24": 123662.01,
+      "h6": 33293.94,
+      "h1": 12830.93,
+      "m5": 2418.99
+    },
+    "priceChange": {
+      "m5": 0.67,
+      "h1": 1.5,
+      "h6": 3.31,
+      "h24": 4.5
+    },
+    "liquidity": {
+      "usd": 817827.92,
+      "base": 24806723,
+      "quote": 510265
+    },
+    "fdv": 18157855,
+    "marketCap": 17210489,
+    "pairCreatedAt": 1683454708000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/0f8ea11888b60cd099bb0be84471c80fd58c32bbc13d060d265d2d2a92a394cd?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/c4cc9ea23858b539b40209ad582ac7a4c0a7333f6301c273f16ffbf60f89a568?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/sui/0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::cetus?timestamp=1782920100000",
+      "websites": [
+        {
+          "url": "https://www.cetus.zone/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/CetusProtocol",
+          "type": "twitter"
+        },
+        {
+          "url": "https://discord.gg/cetusprotocol",
+          "type": "discord"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "QAR to CETUS | Convert Qatari Rial to Cetus Token - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hQjIxLWJQc2FyZ0kyNHRYeVZYRzVJZkR5Q0syY2VOYzZZa1lqRkdvTFVJaXBxeldPX2hTZEl6a2RLWXpuYmwyUDVwbHZTMmtYXzVTNEU0MVJIdTdJQ1hrWg?oc=5",
+      "source": "OKX",
+      "publishedAt": "Mon, 29 Jun 2026 00:00:00 GMT",
+      "snippet": "QAR to CETUS | Convert Qatari Rial to Cetus Token&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Crucial Update: OKX to Delist DEGEN and CETUS Perpetual Futures This Month - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RYl9UaXRmSFNONVhPN1NJYTNqemJQbTJUd3RKWlg4SEJ6bW9jMEJmR0lCODBvM0xkRUtyUVVEUWxMSExNS2tWcVZaQktBUkgwTERMWkhuM04yeXVINmR6X3pyWUNqdExFRWZXVnpjc3JUVXlZWHE4?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 24 Dec 2025 08:00:00 GMT",
+      "snippet": "Crucial Update: OKX to Delist DEGEN and CETUS Perpetual Futures This Month&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "How attacker used fake tokens to swipe $220m from Sui DeFi exchange Cetus - dlnews.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbDhzZkdyY0txNE1tbmdUY1djODJETXh0UzhrTVBoR08xd2dFNElxOE80ZzdldDliRFlQRElGbGJPbE43R05UQ0JXZk9wdUNqV2VMU3lYSVFLdXhlZ1hhbEl0V3d6Ui00Uld2emVYRkRBRnFTVks4SHFueDczVmxZZC1Gb0k4VjUxc2czS0V0MmJCdUgtOS1Nb3F3?oc=5",
+      "source": "dlnews.com",
+      "publishedAt": "Thu, 22 May 2025 07:00:00 GMT",
+      "snippet": "How attacker used fake tokens to swipe $220m from Sui DeFi exchange Cetus&nbsp;&nbsp;dlnews.com"
+    },
+    {
+      "title": "Cetus Protocol price today, CETUS to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DTkJ6TUhUMmJEc2l2Y0NNcndtQnE4VER2Tm9SOHd3OV91MDV6S2pndDBTRkZxREJBNFd2ejNFajY3dnoxaktLQndIdnp0SDFBODY5bEltMGM2a3JvalF0ZTVn?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 09 May 2023 17:59:06 GMT",
+      "snippet": "Cetus Protocol price today, CETUS to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Cetus, Sui Network’s Biggest DEX and Liquidity Provider, Loses $260M in Hack - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXZSXzhBbUt2R1dwVFg2TncyeHpIaE9mUy1HRi1YRDNWa1NONWh0VmsyM1NxSTRLYTFnODNEcTh1SjZoVFY0MlQtMEplRXlMOFcxNUM1V25GWjZoR3JnbHk2SW9HeVpkSDB3NDdLVjZXM2hBSGoxY0pVOHpvaGF0eGRBUGJjdXFEVUxDVXFUTGJIVmUxZk00RjdTU3phdWU4WjZ4UUQzeFJrTVlMdGhtMFpZR1J0cktUaFlYT3lR?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Thu, 22 May 2025 07:00:00 GMT",
+      "snippet": "Cetus, Sui Network’s Biggest DEX and Liquidity Provider, Loses $260M in Hack&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Cetus Protocol Price Today | CETUS to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lMnpwbU1QVE1sc3ZsaUhDWU9XR0ZQOHJTenRhbG9aeWZ6NVNBUkpQZUdnRkFrNnVmTUlFbjZwV2VPek5ZUWkzU05xalpVVmJfZFhCSENRNGNqNFU?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 11 May 2023 04:41:31 GMT",
+      "snippet": "Cetus Protocol Price Today | CETUS to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Hackers Stole $223 Million from Cetus Crypto Exchange - Bitdefender",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWFsck1yaDVEb3pyMlpnSjRzR0RtRm1yUVdmRmhXaGVEanlKTDl1VGpDejNUV2hhVTE3Vk1KNU9uUUVZdzV4Sm5xaWJDYWFieTlUOHc1NWg0dTNGZnEtZUxhTkRfclJRblFIRWp4ZWJ5RmJkdTYyTTdQd0U1TTNOZ0t5ZWNmLVphUjNDVy1zdkpVRkJfYW0yMWJ2OA?oc=5",
+      "source": "Bitdefender",
+      "publishedAt": "Mon, 26 May 2025 07:00:00 GMT",
+      "snippet": "Hackers Stole $223 Million from Cetus Crypto Exchange&nbsp;&nbsp;Bitdefender"
+    },
+    {
+      "title": "Cetus Deep Dive: Into Its Architecture and CETUS Tokenomics - NFT Evening",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWnYxWnNaUmZibDBqcVNuc3JLcy1jVTIzeGpaY0RBOWFYNjhkRmdxbDNvX3gyQWt2WnR6T0JqTThJeklUekdhc0dDRWUzZHlQ?oc=5",
+      "source": "NFT Evening",
+      "publishedAt": "Sun, 29 Jun 2025 07:00:00 GMT",
+      "snippet": "Cetus Deep Dive: Into Its Architecture and CETUS Tokenomics&nbsp;&nbsp;NFT Evening"
+    },
+    {
+      "title": "Binance Will List Cow Protocol (COW) and Cetus Protocol (CETUS) with Seed Tag Applied - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVRaTHpZOVg3clRBd1RDLUJkTE81VThBU2MzUDhrQ1FvWmdEdkFRemtZUUVNU2M5UER4MjdfdkdrQnl1WmxEcERIRlh4Q0RneFA1c1h0aEFob3FhUXBpbFgyVDY0V2JueC13SFoxbWw3NTZZUkhKQnZ4ZzYyYW0wbDhjTDN1d1lsYjhjZkEtaXI?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 05 Nov 2024 08:00:00 GMT",
+      "snippet": "Binance Will List Cow Protocol (COW) and Cetus Protocol (CETUS) with Seed Tag Applied&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Sui Decentralized Exchange Cetus Is Back Online After $223M Exploit - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNektXeXF6N0JENnE5OHRDTkdWVXBha2xhLXhCZGtrbnZDa290YlpiRDZLcUdjNDdBRU9NOVQ4azJlMUZ6SHp1eDdCTXVvaFJzSlhNWi1qSFZHbWJRdG95bXdHaDNsTzRLbnAxemlRdkQ5aHNMRTdTWjNheGt5MmVDdW9yR3E5SnhiWWJJcS1zX0pNZTRJOWpuUVFHV1IzZw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 09 Jun 2025 07:00:00 GMT",
+      "snippet": "Sui Decentralized Exchange Cetus Is Back Online After $223M Exploit&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Sui DEX Cetus Protocol restarts platform after recovering from $223 million exploit - The Block",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1hQNkdVY1ZPd19nQUNWTjZuOVZsNnhKaGR1Tmg0dzJiX1JxaXUwQ3docEpWRl9KZFhxQnlfaVg0b0k2NF80TC1xbmJPZkpPeGNxTGk3b21hSmtMVWlYVTgxWlZ0VXJyOWZ5Q0ZaQ0tsTGFkcy1WYjR5ZV9UN0Y0YW4tR1RMY1AxRXdSeDg3WEcxUXl0VWloOGNwcGV2Z1JwVkF2SDdrNmVGQ1VmeEtoM2dGWW1iaXpwQ3c?oc=5",
+      "source": "The Block",
+      "publishedAt": "Sun, 08 Jun 2025 07:00:00 GMT",
+      "snippet": "Sui DEX Cetus Protocol restarts platform after recovering from $223 million exploit&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=CETUS: Throttled\n"
+  ]
+}

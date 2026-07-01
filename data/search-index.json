@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-07-01T15:19:24.353Z",
+  "updatedAt": "2026-07-01T15:34:33.786Z",
   "results": [
+    {
+      "token": "1000SATS",
+      "requestedInput": "1000SATS",
+      "name": "1000SATS (Ordinals)",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T15:34:18.146Z",
+      "latestPath": "data/results/1000SATS-latest.json"
+    },
+    {
+      "token": "RPL",
+      "requestedInput": "RPL",
+      "name": "Rocket Pool Protocol",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T15:34:15.876Z",
+      "latestPath": "data/results/RPL-latest.json"
+    },
+    {
+      "token": "GRASS",
+      "requestedInput": "GRASS",
+      "name": "Grass",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T15:34:15.305Z",
+      "latestPath": "data/results/GRASS-latest.json"
+    },
+    {
+      "token": "SPX",
+      "requestedInput": "SPX",
+      "name": "SPX6900",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T15:34:17.641Z",
+      "latestPath": "data/results/SPX-latest.json"
+    },
+    {
+      "token": "CETUS",
+      "requestedInput": "CETUS",
+      "name": "Cetus Token",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T15:34:24.844Z",
+      "latestPath": "data/results/CETUS-latest.json"
+    },
+    {
+      "token": "ACT",
+      "requestedInput": "ACT",
+      "name": "ACT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T15:34:22.223Z",
+      "latestPath": "data/results/ACT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T15:34:24.637Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMAT",
+      "requestedInput": "AMAT",
+      "name": "Applied Materials Inc. Common Stock",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T15:34:25.894Z",
+      "latestPath": "data/results/AMAT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T15:34:29.484Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T15:34:29.317Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "RTXSTOCK",
+      "requestedInput": "RTXSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T15:34:28.380Z",
+      "latestPath": "data/results/RTXSTOCK-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T15:34:33.784Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "XAN",
       "requestedInput": "XAN",
@@ -22,16 +142,6 @@
       "latestPath": "data/results/MET-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T15:19:13.634Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "AMT",
       "requestedInput": "AMAT",
       "name": "Amateras",
@@ -42,16 +152,6 @@
       "latestPath": "data/results/AMT-latest.json"
     },
     {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T15:19:24.181Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
       "token": "ARQQ",
       "requestedInput": "ARQQ",
       "name": "Arqit Quantum (Derivatives)",
@@ -60,26 +160,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T15:19:21.714Z",
       "latestPath": "data/results/ARQQ-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T15:19:21.885Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T15:19:24.351Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "DRIFT",
@@ -920,86 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-07-01T07:33:25.135Z",
       "latestPath": "data/results/SYRUP-latest.json"
-    },
-    {
-      "token": "ZBT",
-      "requestedInput": "ZBT",
-      "name": "ZEROBASE",
-      "score": 30,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-07-01T07:33:25.852Z",
-      "latestPath": "data/results/ZBT-latest.json"
-    },
-    {
-      "token": "SPCX",
-      "requestedInput": "SPCX",
-      "name": "SpaceX (Backpack Securities)",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T07:18:53.212Z",
-      "latestPath": "data/results/SPCX-latest.json"
-    },
-    {
-      "token": "SLX",
-      "requestedInput": "SLX",
-      "name": "Solstice",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T07:18:52.258Z",
-      "latestPath": "data/results/SLX-latest.json"
-    },
-    {
-      "token": "AGLD",
-      "requestedInput": "AGLD",
-      "name": "Adventure Gold",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:03:59.397Z",
-      "latestPath": "data/results/AGLD-latest.json"
-    },
-    {
-      "token": "FARTCOIN",
-      "requestedInput": "FARTCOIN",
-      "name": "Fartcoin",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T07:04:00.890Z",
-      "latestPath": "data/results/FARTCOIN-latest.json"
-    },
-    {
-      "token": "BSV",
-      "requestedInput": "BSV",
-      "name": "Bitcoin SV",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T06:48:20.402Z",
-      "latestPath": "data/results/BSV-latest.json"
-    },
-    {
-      "token": "VELVET",
-      "requestedInput": "VELVET",
-      "name": "Velvet",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T06:48:17.985Z",
-      "latestPath": "data/results/VELVET-latest.json"
-    },
-    {
-      "token": "QBTS",
-      "requestedInput": "QBTS",
-      "name": "D-Wave Quantum Inc.",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T06:48:27.479Z",
-      "latestPath": "data/results/QBTS-latest.json"
     }
   ]
 }
