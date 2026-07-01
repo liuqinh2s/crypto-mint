@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-07-01T05:33:26.035Z",
+  "updatedAt": "2026-07-01T05:48:58.413Z",
   "results": [
+    {
+      "token": "B2",
+      "requestedInput": "B2",
+      "name": "BSquared Token",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:48:50.269Z",
+      "latestPath": "data/results/B2-latest.json"
+    },
+    {
+      "token": "USELESS",
+      "requestedInput": "USELESS",
+      "name": "Useless Coin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:48:51.041Z",
+      "latestPath": "data/results/USELESS-latest.json"
+    },
+    {
+      "token": "ESP",
+      "requestedInput": "ESP",
+      "name": "Espresso",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T05:48:52.116Z",
+      "latestPath": "data/results/ESP-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:48:49.400Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:48:57.623Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "BRKB",
+      "requestedInput": "BRKB",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:48:52.718Z",
+      "latestPath": "data/results/BRKB-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:48:57.298Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "OSS",
+      "requestedInput": "OSS",
+      "name": "押燃",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:48:58.411Z",
+      "latestPath": "data/results/OSS-latest.json"
+    },
     {
       "token": "NAORIS",
       "requestedInput": "NAORIS",
@@ -10,16 +90,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T05:33:20.913Z",
       "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:33:18.654Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "AMAT",
@@ -50,16 +120,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T05:33:26.033Z",
       "latestPath": "data/results/LWLG-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:33:25.740Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "APE",
@@ -160,16 +220,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T05:03:52.439Z",
       "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:03:58.652Z",
-      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "SN105",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T20:04:03.547Z",
       "latestPath": "data/results/XAN-latest.json"
-    },
-    {
-      "token": "ARQQON",
-      "requestedInput": "ARQQ",
-      "name": "Arqit Quantum (Ondo Tokenized)",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:04:11.598Z",
-      "latestPath": "data/results/ARQQON-latest.json"
-    },
-    {
-      "token": "ID",
-      "requestedInput": "ID",
-      "name": "SPACE ID",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:49:00.153Z",
-      "latestPath": "data/results/ID-latest.json"
-    },
-    {
-      "token": "CHILLGUY",
-      "requestedInput": "CHILLGUY",
-      "name": "Just a chill guy",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:49:02.240Z",
-      "latestPath": "data/results/CHILLGUY-latest.json"
-    },
-    {
-      "token": "SNOW",
-      "requestedInput": "SNOW",
-      "name": "Snowman",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:49:07.395Z",
-      "latestPath": "data/results/SNOW-latest.json"
-    },
-    {
-      "token": "JST",
-      "requestedInput": "JST",
-      "name": "JUST",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T19:34:10.941Z",
-      "latestPath": "data/results/JST-latest.json"
     }
   ]
 }
