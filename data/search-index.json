@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T05:48:58.413Z",
+  "updatedAt": "2026-07-01T06:04:23.475Z",
   "results": [
+    {
+      "token": "CHILLGUY",
+      "requestedInput": "CHILLGUY",
+      "name": "CHILLGUY",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T06:04:17.864Z",
+      "latestPath": "data/results/CHILLGUY-latest.json"
+    },
+    {
+      "token": "JST",
+      "requestedInput": "JST",
+      "name": "JUST",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T06:04:17.015Z",
+      "latestPath": "data/results/JST-latest.json"
+    },
+    {
+      "token": "4",
+      "requestedInput": "4",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T06:04:12.280Z",
+      "latestPath": "data/results/4-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T06:04:15.818Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T06:04:21.910Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "SNOW",
+      "requestedInput": "SNOW",
+      "name": "snow",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T06:04:23.473Z",
+      "latestPath": "data/results/SNOW-latest.json"
+    },
     {
       "token": "B2",
       "requestedInput": "B2",
@@ -30,26 +90,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-07-01T05:48:52.116Z",
       "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:48:49.400Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:48:57.623Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "BRKB",
@@ -960,46 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T20:21:15.278Z",
       "latestPath": "data/results/MET-latest.json"
-    },
-    {
-      "token": "BE",
-      "requestedInput": "BE",
-      "name": "Blue Elephant",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:21:21.116Z",
-      "latestPath": "data/results/BE-latest.json"
-    },
-    {
-      "token": "ARQQ",
-      "requestedInput": "ARQQ",
-      "name": "Arqit Quantum (Derivatives)",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:21:21.946Z",
-      "latestPath": "data/results/ARQQ-latest.json"
-    },
-    {
-      "token": "CAT",
-      "requestedInput": "SIMO",
-      "name": "Simons Cat",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T20:21:32.933Z",
-      "latestPath": "data/results/CAT-latest.json"
-    },
-    {
-      "token": "XAN",
-      "requestedInput": "XAN",
-      "name": "Anoma",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:04:03.547Z",
-      "latestPath": "data/results/XAN-latest.json"
     }
   ]
 }
