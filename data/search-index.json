@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-07-01T14:08:19.259Z",
+  "updatedAt": "2026-07-01T14:19:21.015Z",
   "results": [
+    {
+      "token": "TRB",
+      "requestedInput": "TRB",
+      "name": "Tellor Tributes",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:19:09.416Z",
+      "latestPath": "data/results/TRB-latest.json"
+    },
+    {
+      "token": "PUMP",
+      "requestedInput": "PUMP",
+      "name": "Pump",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:19:10.265Z",
+      "latestPath": "data/results/PUMP-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T14:19:09.212Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:19:08.317Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "EH",
+      "requestedInput": "EH",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:19:12.652Z",
+      "latestPath": "data/results/EH-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:19:15.136Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "AVAV",
+      "requestedInput": "AVAV",
+      "name": "AeroVironment, Inc.",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:19:17.638Z",
+      "latestPath": "data/results/AVAV-latest.json"
+    },
+    {
+      "token": "SITM",
+      "requestedInput": "SITM",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:19:13.009Z",
+      "latestPath": "data/results/SITM-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:19:21.013Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "PYTH",
       "requestedInput": "PYTH",
@@ -12,36 +102,6 @@
       "latestPath": "data/results/PYTH-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T14:08:12.039Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T14:08:12.465Z",
-      "latestPath": "data/results/HOU-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T14:08:11.529Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
       "token": "TWLO",
       "requestedInput": "TWLO",
       "name": "Twilio Inc (Derivatives)",
@@ -50,16 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T14:08:17.853Z",
       "latestPath": "data/results/TWLO-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T14:08:19.257Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "MEW",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T05:48:58.411Z",
       "latestPath": "data/results/OSS-latest.json"
-    },
-    {
-      "token": "NAORIS",
-      "requestedInput": "NAORIS",
-      "name": "Naoris Protocol",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T05:33:20.913Z",
-      "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "AMAT",
-      "requestedInput": "AMAT",
-      "name": "Applied Materials Inc. Common Stock",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:33:19.018Z",
-      "latestPath": "data/results/AMAT-latest.json"
-    },
-    {
-      "token": "CRDO",
-      "requestedInput": "CRDO",
-      "name": "Credo Technology Group Holding Ltd",
-      "score": 65,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-07-01T05:33:19.962Z",
-      "latestPath": "data/results/CRDO-latest.json"
-    },
-    {
-      "token": "LWLG",
-      "requestedInput": "LWLG",
-      "name": "Lightwave Logic",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T05:33:26.033Z",
-      "latestPath": "data/results/LWLG-latest.json"
-    },
-    {
-      "token": "APE",
-      "requestedInput": "APE",
-      "name": "ApeCoin",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:18:58.481Z",
-      "latestPath": "data/results/APE-latest.json"
     }
   ]
 }
