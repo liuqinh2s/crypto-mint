@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T05:03:58.654Z",
+  "updatedAt": "2026-07-01T05:19:04.857Z",
   "results": [
+    {
+      "token": "APE",
+      "requestedInput": "APE",
+      "name": "ApeCoin",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:18:58.481Z",
+      "latestPath": "data/results/APE-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:18:57.424Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:18:58.125Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:18:59.921Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "SITM",
+      "requestedInput": "SITM",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:19:00.857Z",
+      "latestPath": "data/results/SITM-latest.json"
+    },
+    {
+      "token": "TWLO",
+      "requestedInput": "TWLO",
+      "name": "Twilio Inc.",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T05:19:04.855Z",
+      "latestPath": "data/results/TWLO-latest.json"
+    },
     {
       "token": "PYTH",
       "requestedInput": "PYTH",
@@ -52,16 +112,6 @@
       "latestPath": "data/results/MORPHO-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:03:52.347Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "OMIKAMI",
       "requestedInput": "AMAT",
       "name": "AMATERASU OMIKAMI",
@@ -70,16 +120,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T05:03:52.439Z",
       "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:03:54.965Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "HYPE",
@@ -140,16 +180,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T04:49:06.950Z",
       "latestPath": "data/results/KGEN-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:49:07.893Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "HOU",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T19:19:01.186Z",
       "latestPath": "data/results/USELESS-latest.json"
-    },
-    {
-      "token": "NAORIS",
-      "requestedInput": "NAORIS",
-      "name": "Naoris Protocol",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:18:58.373Z",
-      "latestPath": "data/results/NAORIS-latest.json"
-    },
-    {
-      "token": "SOXL",
-      "requestedInput": "SOXL",
-      "name": "Direxion Daily Semiconductor ETF (Derivatives)",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T19:19:04.854Z",
-      "latestPath": "data/results/SOXL-latest.json"
-    },
-    {
-      "token": "CRDO",
-      "requestedInput": "CRDO",
-      "name": "Credo Technology Group Holding Ltd Ordinary Shares",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T19:19:09.294Z",
-      "latestPath": "data/results/CRDO-latest.json"
     }
   ]
 }
