@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T00:18:57.411Z",
+  "updatedAt": "2026-07-01T00:22:59.022Z",
   "results": [
+    {
+      "token": "ZAMA",
+      "requestedInput": "ZAMA",
+      "name": "Zama",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T00:22:55.725Z",
+      "latestPath": "data/results/ZAMA-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T00:22:54.048Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:22:54.029Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:22:52.824Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "QNTSTOCK",
+      "requestedInput": "QNTSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:22:56.393Z",
+      "latestPath": "data/results/QNTSTOCK-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:22:59.020Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
     {
       "token": "AR",
       "requestedInput": "AR",
@@ -22,26 +82,6 @@
       "latestPath": "data/results/RESOLV-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:18:51.882Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:18:49.945Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
       "token": "HOUSTON",
       "requestedInput": "OUST",
       "name": "Houston",
@@ -52,16 +92,6 @@
       "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:18:56.185Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
       "token": "TRUST",
       "requestedInput": "TRUST",
       "name": "Intuition",
@@ -70,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T00:04:07.976Z",
       "latestPath": "data/results/TRUST-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:04:13.699Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "TNSR",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T16:34:21.697Z",
       "latestPath": "data/results/BASED-latest.json"
-    },
-    {
-      "token": "ETN",
-      "requestedInput": "ETN",
-      "name": "Electroneum",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:34:25.908Z",
-      "latestPath": "data/results/ETN-latest.json"
-    },
-    {
-      "token": "PROM",
-      "requestedInput": "PROM",
-      "name": "Prom",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:08:05.941Z",
-      "latestPath": "data/results/PROM-latest.json"
     }
   ]
 }
