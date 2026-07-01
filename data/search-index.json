@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T07:48:55.400Z",
+  "updatedAt": "2026-07-01T08:04:13.656Z",
   "results": [
+    {
+      "token": "DYDX",
+      "requestedInput": "DYDX",
+      "name": "dYdX",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T08:04:07.674Z",
+      "latestPath": "data/results/DYDX-latest.json"
+    },
+    {
+      "token": "TAC",
+      "requestedInput": "TAC",
+      "name": "TAC",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T08:04:07.630Z",
+      "latestPath": "data/results/TAC-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T08:04:05.542Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T08:04:05.676Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T08:04:11.827Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T08:04:13.654Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "MEME",
       "requestedInput": "MEME",
@@ -32,16 +92,6 @@
       "latestPath": "data/results/WLFI-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:48:42.777Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "AMD",
       "requestedInput": "AMD",
       "name": "AMD",
@@ -60,16 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T07:48:55.399Z",
       "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:48:50.451Z",
-      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "WIF",
@@ -100,26 +140,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-07-01T07:33:25.852Z",
       "latestPath": "data/results/ZBT-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:33:33.824Z",
-      "latestPath": "data/results/TOKABU-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:18:50.869Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "SPCX",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T00:04:07.976Z",
       "latestPath": "data/results/TRUST-latest.json"
-    },
-    {
-      "token": "TNSR",
-      "requestedInput": "TNSR",
-      "name": "Tensor",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T23:48:30.843Z",
-      "latestPath": "data/results/TNSR-latest.json"
-    },
-    {
-      "token": "BAS",
-      "requestedInput": "BAS",
-      "name": "BNB Attestation",
-      "score": 15,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T23:48:31.119Z",
-      "latestPath": "data/results/BAS-latest.json"
     }
   ]
 }
