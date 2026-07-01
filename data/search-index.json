@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-07-01T03:18:53.978Z",
+  "updatedAt": "2026-07-01T03:34:06.860Z",
   "results": [
-    {
-      "token": "SYN",
-      "requestedInput": "SYN",
-      "name": "Synapse",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T03:18:51.212Z",
-      "latestPath": "data/results/SYN-latest.json"
-    },
     {
       "token": "",
       "requestedInput": "龙虾",
@@ -18,17 +8,17 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T03:18:47.147Z",
+      "generatedAt": "2026-07-01T03:34:00.689Z",
       "latestPath": "data/results/-latest.json"
     },
     {
       "token": "AMT",
       "requestedInput": "AMAT",
       "name": "Amateras",
-      "score": 15,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T03:18:50.124Z",
+      "generatedAt": "2026-07-01T03:34:01.492Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
@@ -38,8 +28,18 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T03:18:47.128Z",
+      "generatedAt": "2026-07-01T03:34:01.368Z",
       "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "DELLON",
+      "requestedInput": "DELL",
+      "name": "Dell Technologies (Ondo Tokenized)",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:34:02.138Z",
+      "latestPath": "data/results/DELLON-latest.json"
     },
     {
       "token": "HYPE",
@@ -48,8 +48,18 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T03:18:53.976Z",
+      "generatedAt": "2026-07-01T03:34:06.858Z",
       "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "SYN",
+      "requestedInput": "SYN",
+      "name": "Synapse",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:18:51.212Z",
+      "latestPath": "data/results/SYN-latest.json"
     },
     {
       "token": "BBSTOCK",
@@ -990,16 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T17:49:05.490Z",
       "latestPath": "data/results/BEAM-latest.json"
-    },
-    {
-      "token": "VRT",
-      "requestedInput": "VRT",
-      "name": "Venus Reward",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:49:12.633Z",
-      "latestPath": "data/results/VRT-latest.json"
     }
   ]
 }
