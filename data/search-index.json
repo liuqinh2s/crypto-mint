@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-07-01T23:34:12.884Z",
+  "updatedAt": "2026-07-01T23:48:30.383Z",
   "results": [
+    {
+      "token": "FARTCOIN",
+      "requestedInput": "FARTCOIN",
+      "name": "Fartcoin",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T23:48:16.924Z",
+      "latestPath": "data/results/FARTCOIN-latest.json"
+    },
+    {
+      "token": "HIVE",
+      "requestedInput": "HIVE",
+      "name": "HIVE",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T23:48:14.862Z",
+      "latestPath": "data/results/HIVE-latest.json"
+    },
+    {
+      "token": "PROM",
+      "requestedInput": "PROM",
+      "name": "Promethium Chain",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T23:48:13.054Z",
+      "latestPath": "data/results/PROM-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T23:48:14.347Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T23:48:20.625Z",
+      "latestPath": "data/results/KIRBY-latest.json"
+    },
+    {
+      "token": "SPYX",
+      "requestedInput": "SP500",
+      "name": "SP500",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T23:48:23.982Z",
+      "latestPath": "data/results/SPYX-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T23:48:20.787Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "AVAVE",
+      "requestedInput": "AVAV",
+      "name": "AVAVE",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T23:48:23.492Z",
+      "latestPath": "data/results/AVAVE-latest.json"
+    },
+    {
+      "token": "ADBE",
+      "requestedInput": "ADBE",
+      "name": "Adobe Inc (Derivatives)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T23:48:27.738Z",
+      "latestPath": "data/results/ADBE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T23:48:30.381Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "SLP",
       "requestedInput": "SLP",
@@ -42,56 +142,6 @@
       "latestPath": "data/results/ZBT-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T23:34:03.170Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T23:34:03.569Z",
-      "latestPath": "data/results/KIRBY-latest.json"
-    },
-    {
-      "token": "SPYX",
-      "requestedInput": "SP500",
-      "name": "SP500",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T23:34:05.117Z",
-      "latestPath": "data/results/SPYX-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T23:34:03.027Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "AVAVE",
-      "requestedInput": "AVAV",
-      "name": "AVAVE",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T23:34:09.825Z",
-      "latestPath": "data/results/AVAVE-latest.json"
-    },
-    {
       "token": "ADBE.D",
       "requestedInput": "ADBE",
       "name": "Dinari ADBE",
@@ -100,16 +150,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T23:34:11.660Z",
       "latestPath": "data/results/ADBE.D-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T23:34:12.882Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "IWM",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T21:34:01.579Z",
       "latestPath": "data/results/TUT-latest.json"
-    },
-    {
-      "token": "TRUST",
-      "requestedInput": "TRUST",
-      "name": "Trust",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:34:05.636Z",
-      "latestPath": "data/results/TRUST-latest.json"
-    },
-    {
-      "token": "AMD",
-      "requestedInput": "AMD",
-      "name": "AMD (Robinhood Tokenized Stock)",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:34:09.206Z",
-      "latestPath": "data/results/AMD-latest.json"
-    },
-    {
-      "token": "CBRS",
-      "requestedInput": "CBRS",
-      "name": "Cerebras Systems (Robinhood Tokenized Stock)",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:34:14.650Z",
-      "latestPath": "data/results/CBRS-latest.json"
-    },
-    {
-      "token": "ASTS",
-      "requestedInput": "ASTS",
-      "name": "AST SpaceMobile Inc (Derivatives)",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:34:14.975Z",
-      "latestPath": "data/results/ASTS-latest.json"
     }
   ]
 }
