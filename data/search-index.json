@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-07-01T10:33:30.763Z",
+  "updatedAt": "2026-07-01T10:48:14.066Z",
   "results": [
+    {
+      "token": "AVAX",
+      "requestedInput": "AVAX",
+      "name": "Avalanche (Wormhole)",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T10:48:06.009Z",
+      "latestPath": "data/results/AVAX-latest.json"
+    },
+    {
+      "token": "JTO",
+      "requestedInput": "JTO",
+      "name": "Jito",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T10:48:06.391Z",
+      "latestPath": "data/results/JTO-latest.json"
+    },
+    {
+      "token": "XPIN",
+      "requestedInput": "XPIN",
+      "name": "XPIN Network",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T10:48:08.141Z",
+      "latestPath": "data/results/XPIN-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T10:48:05.466Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T10:48:12.059Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "BBSTOCK",
+      "requestedInput": "BBSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T10:48:09.532Z",
+      "latestPath": "data/results/BBSTOCK-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T10:48:14.064Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "ORDI",
       "requestedInput": "ORDI",
@@ -22,26 +92,6 @@
       "latestPath": "data/results/RAY-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T10:33:23.604Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T10:33:23.309Z",
-      "latestPath": "data/results/HOU-latest.json"
-    },
-    {
       "token": "NOW",
       "requestedInput": "NOW",
       "name": "now",
@@ -50,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T10:33:30.292Z",
       "latestPath": "data/results/NOW-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T10:33:30.761Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "ICNT",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T04:04:03.652Z",
       "latestPath": "data/results/PUMP-latest.json"
-    },
-    {
-      "token": "VRT",
-      "requestedInput": "VRT",
-      "name": "Venus Reward",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:04:13.369Z",
-      "latestPath": "data/results/VRT-latest.json"
-    },
-    {
-      "token": "DELL",
-      "requestedInput": "DELL",
-      "name": "DELL",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:04:18.931Z",
-      "latestPath": "data/results/DELL-latest.json"
-    },
-    {
-      "token": "DELLON",
-      "requestedInput": "DELL",
-      "name": "Dell Technologies (Ondo Tokenized)",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T03:34:02.138Z",
-      "latestPath": "data/results/DELLON-latest.json"
-    },
-    {
-      "token": "SYN",
-      "requestedInput": "SYN",
-      "name": "Synapse",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T03:18:51.212Z",
-      "latestPath": "data/results/SYN-latest.json"
     }
   ]
 }
