@@ -1,0 +1,187 @@
+{
+  "token": "AVAVE",
+  "requestedInput": "AVAV",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T19:18:16.586Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "AVAVE",
+    "name": "AVAVE",
+    "generatedAt": "2026-07-01T19:18:10.529Z",
+    "summary": "AVAVE是Base链上Uniswap的极低市值代币，流动性仅约1.4万美元，24小时交易量仅63美元，价格异常暴涨但无实际交易支撑。无官网、无新闻、无社区数据，属于高度投机性Meme币，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "除非出现可信的项目方、审计报告或实际应用，否则逻辑始终失效。"
+    },
+    "catalysts": [
+      "无明确催化剂，价格异常波动可能源于流动性极低下的少数交易或机器人操作。"
+    ],
+    "latestNews": [],
+    "fundamentals": [
+      "代币名称AVAVE，创建于2026-05-04，无官网和白皮书。",
+      "总供应量未知，市值仅约1.6万美元，完全稀释估值相同。",
+      "流动性仅1.4万美元，交易量极低（24小时63美元）。",
+      "24小时价格涨幅异常（3.35e30%），但实际交易量极小，价格不可靠。"
+    ],
+    "marketRead": [
+      "价格24小时暴涨，但成交量极低，流动性差，价格容易被操纵。",
+      "无历史K线数据，无法判断趋势。",
+      "市场深度极差，大额买卖单可能导致价格剧烈波动。"
+    ],
+    "risks": [
+      "极低流动性：1.4万美元流动性，大额卖出可能导致滑点巨大或无法卖出。",
+      "无基本面：无项目方、无社区、无应用，纯Meme币。",
+      "价格操纵风险：低交易量下价格易被少数地址操控。",
+      "合约风险：未审计，可能存在后门或漏洞。",
+      "归零风险：市值极低，可能随时归零。"
+    ],
+    "watchlist": [
+      "关注流动性变化，若流动性进一步下降则风险更高。",
+      "关注是否有新地址大量买入或卖出。",
+      "关注DexScreener上是否有异常交易模式。"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他来源验证。",
+      "新闻和社区数据缺失，无法评估市场情绪。"
+    ]
+  },
+  "profile": {
+    "id": "0x1E31ec1A61f5D14aa35c14755e62cba69BB69B07",
+    "symbol": "AVAVE",
+    "name": "AVAVE",
+    "categories": [
+      "base",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on base / uniswap. Pair URL: https://dexscreener.com/base/0xcda15b212633d8358cb19d4d3e35bb772cae1a56657ab83f6b8ea8a8b7cd3c7d",
+    "marketCapRank": null,
+    "currentPriceUsd": 1.598e-7,
+    "marketCapUsd": 15984,
+    "fullyDilutedValuationUsd": 15984,
+    "totalVolumeUsd": 63.35,
+    "priceChange24hPct": 3.3484343759307837e+30,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-05-04",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xcda15b212633d8358cb19d4d3e35bb772cae1a56657ab83f6b8ea8a8b7cd3c7d",
+    "baseTokenAddress": "0x1E31ec1A61f5D14aa35c14755e62cba69BB69B07",
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "liquidityUsd": 14387.83,
+    "pairUrl": "https://dexscreener.com/base/0xcda15b212633d8358cb19d4d3e35bb772cae1a56657ab83f6b8ea8a8b7cd3c7d",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "AVAVE/WETH",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xcda15b212633d8358cb19d4d3e35bb772cae1a56657ab83f6b8ea8a8b7cd3c7d",
+    "pairUrl": "https://dexscreener.com/base/0xcda15b212633d8358cb19d4d3e35bb772cae1a56657ab83f6b8ea8a8b7cd3c7d",
+    "lastPrice": 1.598e-7,
+    "priceChange24hPct": 3.3484343759307837e+30,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 63.35,
+    "liquidityUsd": 14387.83,
+    "fullyDilutedValuationUsd": 15984,
+    "marketCapUsd": 15984,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "base",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/base/0xcda15b212633d8358cb19d4d3e35bb772cae1a56657ab83f6b8ea8a8b7cd3c7d",
+    "pairAddress": "0xcda15b212633d8358cb19d4d3e35bb772cae1a56657ab83f6b8ea8a8b7cd3c7d",
+    "labels": [
+      "v4"
+    ],
+    "baseToken": {
+      "address": "0x1E31ec1A61f5D14aa35c14755e62cba69BB69B07",
+      "name": "AVAVE",
+      "symbol": "AVAVE"
+    },
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.00000000009870",
+    "priceUsd": "0.0000001598",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 2,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 2,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 63.35,
+      "h6": 63.35,
+      "h1": 0.05,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": 3.3484343759307837e+30,
+      "h6": 3.3484343759307837e+30,
+      "h24": 3.3484343759307837e+30
+    },
+    "liquidity": {
+      "usd": 14387.83,
+      "base": 89614461207,
+      "quote": 0.03938
+    },
+    "fdv": 15984,
+    "marketCap": 15984,
+    "pairCreatedAt": 1777909573000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=AVAV: Throttled\n"
+  ]
+}
