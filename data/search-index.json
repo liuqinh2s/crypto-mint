@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-07-01T02:03:26.562Z",
+  "updatedAt": "2026-07-01T02:18:43.410Z",
   "results": [
     {
-      "token": "XLM",
-      "requestedInput": "XLM",
-      "name": "Stellar",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-07-01T02:03:24.383Z",
-      "latestPath": "data/results/XLM-latest.json"
+      "token": "ARC",
+      "requestedInput": "ARC",
+      "name": "ARC",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T02:18:43.408Z",
+      "latestPath": "data/results/ARC-latest.json"
     },
     {
       "token": "",
@@ -18,7 +18,7 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T02:03:21.886Z",
+      "generatedAt": "2026-07-01T02:18:38.519Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -28,7 +28,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T02:03:22.565Z",
+      "generatedAt": "2026-07-01T02:18:38.361Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
@@ -38,7 +38,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T02:03:21.062Z",
+      "generatedAt": "2026-07-01T02:18:38.000Z",
       "latestPath": "data/results/HOU-latest.json"
     },
     {
@@ -48,8 +48,18 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T02:03:26.560Z",
+      "generatedAt": "2026-07-01T02:18:43.163Z",
       "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "XLM",
+      "requestedInput": "XLM",
+      "name": "Stellar",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T02:03:24.383Z",
+      "latestPath": "data/results/XLM-latest.json"
     },
     {
       "token": "AAVE",
@@ -990,16 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T17:03:40.990Z",
       "latestPath": "data/results/ORDI-latest.json"
-    },
-    {
-      "token": "KAS",
-      "requestedInput": "KAS",
-      "name": "KAS",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:03:38.845Z",
-      "latestPath": "data/results/KAS-latest.json"
     }
   ]
 }
