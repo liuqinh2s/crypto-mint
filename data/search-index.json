@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-07-01T08:54:04.170Z",
+  "updatedAt": "2026-07-01T09:04:25.235Z",
   "results": [
+    {
+      "token": "JUP",
+      "requestedInput": "JUP",
+      "name": "Jupiter",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T09:04:17.734Z",
+      "latestPath": "data/results/JUP-latest.json"
+    },
+    {
+      "token": "BR",
+      "requestedInput": "BR",
+      "name": "Bedrock",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T09:04:18.682Z",
+      "latestPath": "data/results/BR-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T09:04:15.121Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "ETN",
+      "requestedInput": "ETN",
+      "name": "Electroneum",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T09:04:17.223Z",
+      "latestPath": "data/results/ETN-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T09:04:24.950Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T09:04:23.412Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T09:04:25.234Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "ZAMA",
       "requestedInput": "ZAMA",
@@ -10,16 +80,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T08:53:59.824Z",
       "latestPath": "data/results/ZAMA-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T08:53:58.297Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "HOU",
@@ -42,26 +102,6 @@
       "latestPath": "data/results/QNTSTOCK-latest.json"
     },
     {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T08:54:00.267Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T08:54:04.168Z",
-      "latestPath": "data/results/TOKABU-latest.json"
-    },
-    {
       "token": "AR",
       "requestedInput": "AR",
       "name": "Arweave",
@@ -80,16 +120,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T08:48:15.659Z",
       "latestPath": "data/results/RESOLV-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T08:48:12.019Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "TNSR",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T01:03:24.217Z",
       "latestPath": "data/results/PIEVERSE-latest.json"
-    },
-    {
-      "token": "BASED",
-      "requestedInput": "BASED",
-      "name": "Based",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T01:03:26.771Z",
-      "latestPath": "data/results/BASED-latest.json"
-    },
-    {
-      "token": "TAIKO",
-      "requestedInput": "TAIKO",
-      "name": "Taiko Token",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:48:00.974Z",
-      "latestPath": "data/results/TAIKO-latest.json"
-    },
-    {
-      "token": "MAGMA",
-      "requestedInput": "MAGMA",
-      "name": "Magma Finance",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-07-01T00:48:03.547Z",
-      "latestPath": "data/results/MAGMA-latest.json"
     }
   ]
 }
