@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T07:04:05.726Z",
+  "updatedAt": "2026-07-01T07:18:57.740Z",
   "results": [
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 30,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:18:50.466Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:18:50.869Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "SPCX",
+      "requestedInput": "SPCX",
+      "name": "SpaceX (Backpack Securities)",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T07:18:53.212Z",
+      "latestPath": "data/results/SPCX-latest.json"
+    },
+    {
+      "token": "SLX",
+      "requestedInput": "SLX",
+      "name": "Solstice",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T07:18:52.258Z",
+      "latestPath": "data/results/SLX-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:18:55.836Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:18:57.738Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "AGLD",
       "requestedInput": "AGLD",
@@ -20,46 +80,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T07:04:00.890Z",
       "latestPath": "data/results/FARTCOIN-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:03:58.116Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:03:56.770Z",
-      "latestPath": "data/results/HOU-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:04:03.308Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:04:05.724Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "BSV",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T21:18:19.168Z",
       "latestPath": "data/results/AMD-latest.json"
-    },
-    {
-      "token": "SYRUP",
-      "requestedInput": "SYRUP",
-      "name": "Maple Finance",
-      "score": 55,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T21:03:26.781Z",
-      "latestPath": "data/results/SYRUP-latest.json"
-    },
-    {
-      "token": "ZBT",
-      "requestedInput": "ZBT",
-      "name": "ZEROBASE",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T21:03:30.006Z",
-      "latestPath": "data/results/ZBT-latest.json"
     }
   ]
 }
