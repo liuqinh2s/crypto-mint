@@ -1,6 +1,136 @@
 {
-  "updatedAt": "2026-07-01T18:34:44.828Z",
+  "updatedAt": "2026-07-01T18:49:04.114Z",
   "results": [
+    {
+      "token": "4",
+      "requestedInput": "4",
+      "name": "4",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T18:48:44.129Z",
+      "latestPath": "data/results/4-latest.json"
+    },
+    {
+      "token": "PIEVERSE",
+      "requestedInput": "PIEVERSE",
+      "name": "Pieverse Token",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T18:48:41.622Z",
+      "latestPath": "data/results/PIEVERSE-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T18:48:38.418Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T18:48:39.652Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "SPYX",
+      "requestedInput": "SP500",
+      "name": "SP500",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T18:48:46.846Z",
+      "latestPath": "data/results/SPYX-latest.json"
+    },
+    {
+      "token": "PANW",
+      "requestedInput": "PANW",
+      "name": "Palo Alto Networks Inc (Derivatives)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T18:48:51.012Z",
+      "latestPath": "data/results/PANW-latest.json"
+    },
+    {
+      "token": "DELL",
+      "requestedInput": "DELL",
+      "name": "DelL",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T18:48:49.237Z",
+      "latestPath": "data/results/DELL-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T18:48:49.756Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "AXON",
+      "requestedInput": "AXON",
+      "name": "axon",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T18:48:55.306Z",
+      "latestPath": "data/results/AXON-latest.json"
+    },
+    {
+      "token": "PL",
+      "requestedInput": "PL",
+      "name": "PL",
+      "score": 2,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T18:48:59.879Z",
+      "latestPath": "data/results/PL-latest.json"
+    },
+    {
+      "token": "CIEN",
+      "requestedInput": "CIEN",
+      "name": "Ciena Corp (Derivatives)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T18:48:56.163Z",
+      "latestPath": "data/results/CIEN-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T18:48:59.969Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "GLW",
+      "requestedInput": "GLW",
+      "name": "Corning Incorporated",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T18:49:04.112Z",
+      "latestPath": "data/results/GLW-latest.json"
+    },
     {
       "token": "AAVE",
       "requestedInput": "AAVE",
@@ -70,56 +200,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T18:34:35.114Z",
       "latestPath": "data/results/RAY-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T18:34:36.054Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T18:34:39.554Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "SPYX",
-      "requestedInput": "SP500",
-      "name": "SP500",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T18:34:41.027Z",
-      "latestPath": "data/results/SPYX-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T18:34:41.721Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T18:34:44.826Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "TAIKO",
@@ -920,86 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T16:33:28.316Z",
       "latestPath": "data/results/KAS-latest.json"
-    },
-    {
-      "token": "SYN",
-      "requestedInput": "SYN",
-      "name": "Synapse",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T16:33:25.198Z",
-      "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "MOODENG",
-      "requestedInput": "MOODENG",
-      "name": "Moo Deng",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T16:33:32.574Z",
-      "latestPath": "data/results/MOODENG-latest.json"
-    },
-    {
-      "token": "GOAT",
-      "requestedInput": "GOAT",
-      "name": "GOAT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T16:33:31.865Z",
-      "latestPath": "data/results/GOAT-latest.json"
-    },
-    {
-      "token": "VVV",
-      "requestedInput": "VVV",
-      "name": "VVV",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T16:33:34.129Z",
-      "latestPath": "data/results/VVV-latest.json"
-    },
-    {
-      "token": "NMR",
-      "requestedInput": "NMR",
-      "name": "Numeraire",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T16:33:36.598Z",
-      "latestPath": "data/results/NMR-latest.json"
-    },
-    {
-      "token": "HYPER",
-      "requestedInput": "HYPER",
-      "name": "Hyper",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T16:33:44.327Z",
-      "latestPath": "data/results/HYPER-latest.json"
-    },
-    {
-      "token": "XPIN",
-      "requestedInput": "XPIN",
-      "name": "XPIN Token",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T16:33:41.300Z",
-      "latestPath": "data/results/XPIN-latest.json"
-    },
-    {
-      "token": "APR",
-      "requestedInput": "APR",
-      "name": "aPriori",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T16:33:43.964Z",
-      "latestPath": "data/results/APR-latest.json"
     }
   ]
 }
