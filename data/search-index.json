@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T10:48:14.066Z",
+  "updatedAt": "2026-07-01T11:04:21.653Z",
   "results": [
+    {
+      "token": "SYN",
+      "requestedInput": "SYN",
+      "name": "Synapse",
+      "score": 25,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:04:13.905Z",
+      "latestPath": "data/results/SYN-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:04:12.090Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "VRT",
+      "requestedInput": "VRT",
+      "name": "Venus Reward",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:04:14.022Z",
+      "latestPath": "data/results/VRT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:04:13.642Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "DELL",
+      "requestedInput": "DELL",
+      "name": "DELL",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:04:18.646Z",
+      "latestPath": "data/results/DELL-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:04:21.650Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "AVAX",
       "requestedInput": "AVAX",
@@ -32,16 +92,6 @@
       "latestPath": "data/results/XPIN-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T10:48:05.466Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
@@ -60,16 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T10:48:09.532Z",
       "latestPath": "data/results/BBSTOCK-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T10:48:14.064Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "ORDI",
@@ -120,16 +160,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T10:19:05.648Z",
       "latestPath": "data/results/WET-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T10:19:04.965Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "ARC",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T04:04:07.201Z",
       "latestPath": "data/results/MEW-latest.json"
-    },
-    {
-      "token": "MOODENG",
-      "requestedInput": "MOODENG",
-      "name": "Moo Deng",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:04:05.885Z",
-      "latestPath": "data/results/MOODENG-latest.json"
-    },
-    {
-      "token": "NMR",
-      "requestedInput": "NMR",
-      "name": "Numeraire",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T04:04:03.920Z",
-      "latestPath": "data/results/NMR-latest.json"
-    },
-    {
-      "token": "PUMP",
-      "requestedInput": "PUMP",
-      "name": "Pump",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:04:03.652Z",
-      "latestPath": "data/results/PUMP-latest.json"
     }
   ]
 }
