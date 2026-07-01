@@ -1,0 +1,293 @@
+{
+  "token": "NOW",
+  "requestedInput": "NOW",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T10:33:30.292Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "NOW",
+    "name": "now",
+    "generatedAt": "2026-07-01T10:33:23.980Z",
+    "summary": "NOW是Base链上Uniswap的一个新代币，上线仅一天，无流动性、无交易量、无价格数据，新闻均为无关内容。属于高风险meme币，不建议参与。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无有效数据，逻辑已失效"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "代币名称：NOW",
+      "合约地址：0x09aA43a0c4012ecA513159901AA756603EeE21c6",
+      "链：Base",
+      "DEX：Uniswap",
+      "交易对：NOW/whitime",
+      "创建时间：2026-06-30",
+      "无官网、无描述、无社交媒体信息",
+      "流动性：无",
+      "交易量：0",
+      "价格：无"
+    ],
+    "marketRead": [
+      "无任何交易活动，价格和成交量均为空",
+      "流动性为0，无法进行任何买卖",
+      "无K线数据"
+    ],
+    "risks": [
+      "流动性风险：流动性为0，无法交易",
+      "合约风险：未开源或未审计，可能存在后门",
+      "拉地毯风险：极可能为蜜罐或貔貅盘",
+      "信息缺失：无任何项目资料或社区",
+      "新闻无关：所有新闻标题含'now'但内容与代币无关"
+    ],
+    "watchlist": [
+      "关注流动性是否注入",
+      "关注合约是否开源及审计",
+      "关注是否有官方公告或社区建立"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，无其他可靠数据",
+      "新闻为通用加密货币新闻，与NOW代币无关",
+      "所有字段均为空或零，无法进行有效分析"
+    ]
+  },
+  "profile": {
+    "id": "0x09aA43a0c4012ecA513159901AA756603EeE21c6",
+    "symbol": "NOW",
+    "name": "now",
+    "categories": [
+      "base",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on base / uniswap. Pair URL: https://dexscreener.com/base/0xcfbb511d6cfc21f9073cc466ab121f79cfcbf2ef0ef007dc77e1a5652b605ccb",
+    "marketCapRank": null,
+    "currentPriceUsd": null,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": 0,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-30",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xcfbb511d6cfc21f9073cc466ab121f79cfcbf2ef0ef007dc77e1a5652b605ccb",
+    "baseTokenAddress": "0x09aA43a0c4012ecA513159901AA756603EeE21c6",
+    "quoteToken": {
+      "address": "0xFf5f97bEEa4CFcD8cA692D4FEaF16e8A82f33766",
+      "name": "whitime",
+      "symbol": "whitime"
+    },
+    "liquidityUsd": null,
+    "pairUrl": "https://dexscreener.com/base/0xcfbb511d6cfc21f9073cc466ab121f79cfcbf2ef0ef007dc77e1a5652b605ccb",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "now/whitime",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xcfbb511d6cfc21f9073cc466ab121f79cfcbf2ef0ef007dc77e1a5652b605ccb",
+    "pairUrl": "https://dexscreener.com/base/0xcfbb511d6cfc21f9073cc466ab121f79cfcbf2ef0ef007dc77e1a5652b605ccb",
+    "lastPrice": null,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "marketCapUsd": null,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "base",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/base/0xcfbb511d6cfc21f9073cc466ab121f79cfcbf2ef0ef007dc77e1a5652b605ccb",
+    "pairAddress": "0xcfbb511d6cfc21f9073cc466ab121f79cfcbf2ef0ef007dc77e1a5652b605ccb",
+    "labels": [
+      "v4"
+    ],
+    "baseToken": {
+      "address": "0x09aA43a0c4012ecA513159901AA756603EeE21c6",
+      "name": "now",
+      "symbol": "now"
+    },
+    "quoteToken": {
+      "address": "0xFf5f97bEEa4CFcD8cA692D4FEaF16e8A82f33766",
+      "name": "whitime",
+      "symbol": "whitime"
+    },
+    "priceNative": "0.01641",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "pairCreatedAt": 1782803687000
+  },
+  "news": [
+    {
+      "title": "Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026 - Bitcoin Foundation",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zX3E0WVd3SGkwcTVnTW0wOUx2cGZtMHA2ZWxxWG1NT3hpMUpqR3d6ZjdvRm56emotdTQwREkyMnN5dWdFQVk4eTdBUU5mVXdaekl6eHhMbW9GM2ZIQmxYR25wSU1TQ0VHWVNUUE9EVHBpYmc?oc=5",
+      "source": "Bitcoin Foundation",
+      "publishedAt": "Wed, 24 Jun 2026 09:19:36 GMT",
+      "snippet": "Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026&nbsp;&nbsp;Bitcoin Foundation"
+    },
+    {
+      "title": "XRP vs Ethereum: Which Is the Better Dip to Buy Right Now? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2NFdmp1MEE4aVd5a3MwazBRT3BPTnkxdU8wVnVxODVMU0U2bVhFTjN4cVpPRFFlM2JETF9aYXQ3OU1LSFBvOFlPMDU2d09GOGNlRnp1eUthaXlER0w3NGw4THFMbFo2WVBjUDRlLVhfN0kwUlBaWWtXaDdIc09fc2JtUHZGNGt1OE9XcWM0TG9EMS1BNDA0NE9uZFRGNUhxZ2pQaXdsX05BSDgyNkt2NUhqUnhVZw?oc=5",
+      "source": "24/7 Wall St.",
+      "publishedAt": "Sun, 28 Jun 2026 20:21:10 GMT",
+      "snippet": "XRP vs Ethereum: Which Is the Better Dip to Buy Right Now?&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "Altcoin Rally News: Top Tokens To Stack Now - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uZk8zMl9zWVMyY2doeEw5cXNqX1hNalVrSS0ycm5Zdi1WV0dqVDJKLVgtYm02UnhNMnp2RXE2dEN3bTlfWGZLb3pyN3l1VnJqYzhYODRsbHNscVdERjhkem5adzZvT201TmZsZmdtMGpJajQ1OXgtS3p30gF_QVVfeXFMUG8zM21mdlhDUExVZG5UNkptTVBPUTFNMFRDSGRiUTh5akFMU1RuQVJST0tOUW9mTHF3VFhIa25pazJHVmdtUUNXU3c4UC1tWUlTcjF1dGhNU2dSXzVvVV9KSHN1SWpjcVRId1ZIRlEtWGZiX0ZSZTJQYVJtXzFIQQ?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Thu, 18 Jun 2026 09:10:00 GMT",
+      "snippet": "Altcoin Rally News: Top Tokens To Stack Now&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "Best Cheap Crypto to Buy Now in 2026: Undervalued Coins with High Potential - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84b2lZcDVQX0lSV3dzbG9pYWViZnhBLW9xUlpOOEhEV0xtdGNWRWpDSndmTlE0SnZoXzVKNmxTVlpVTjQzSTd5OERHMUZlejlrb1pWaTh5bmFLb0pxWHFMcWYwZFVndw?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "snippet": "Best Cheap Crypto to Buy Now in 2026: Undervalued Coins with High Potential&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "Why is Solstice (SLX) Trending? What You Need to Know - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91aWtrQWt5VlRhQ0hwU0xwaEpIaFFMZDFZWjU5QmlURTAySzhaTFBPMHJfbWVxbHF1Wk1XdFNuSGZkNU1YQXJjY2NmS1l3YnItRFdOckZGc3d5NTBjcEJTdjR1ONIBY0FVX3lxTE91aWtrQWt5VlRhQ0hwU0xwaEpIaFFMZDFZWjU5QmlURTAySzhaTFBPMHJfbWVxbHF1Wk1XdFNuSGZkNU1YQXJjY2NmS1l3YnItRFdOckZGc3d5NTBjcEJTdjR1OA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 01 Jul 2026 01:28:46 GMT",
+      "snippet": "Why is Solstice (SLX) Trending? What You Need to Know&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Iran Is Now Charging $2M Per Ship in crypto, and 18 Tankers Just Paid Up - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52a1FXQkx4T2ItRnlnUE5tS3c3QUV1QkhRYXJzRENDbW5ZNWplbTF4ZWh3dElKMXk5T19ITnR5d0RrOVFOVUhqRGNJdG9YSDR5M3BZZGdQbU8ycUd3Y0HSAWNBVV95cUxPZUp0NVdQLV9lOFdYQ1FtclozRThDZzRUTzk2VHhQcGZLTUZmOWs3aGQ3MlRQd2h0Q0JvSVVvWm10TTlYREhDY0NfQ1JyempLeW1OTWVZVXdhQjFVNlF2NlRXZDg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 04 Apr 2026 07:00:00 GMT",
+      "snippet": "Iran Is Now Charging $2M Per Ship in crypto, and 18 Tankers Just Paid Up&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Hyperliquid Now Dominates DeFi Derivatives, New Report Shows - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mMXFtWjJib3d0QmdjZ0FUc2FDM0FwUnJxWndVRFBzc05QWXhxdGFOZVVTX0dxQ1dXWjItVjI4OGY5NkZvSUZtdkk4amZ4UHVqSmVoVlR2TXd2VlBzcWfSAWNBVV95cUxQVmJnaU85SHRDT2VESk1HUnl4OEgycFB5WFZEYlFfYnNITi1VWHFpVXJmZlZqT2hPNzVESzFkVUdBVW52MlYzM1g4bVR5TXNLQTFKRmIyUnBjczNIcHR0cU13SUU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
+      "snippet": "Hyperliquid Now Dominates DeFi Derivatives, New Report Shows&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "XRP and SOL now accepted for Nexo’s zero interest loans - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IMTNPZlppQTQxY3JfRU0zamUtalk2b1dBOVlJRXRVdFN4M3N5Y29MdF9ONi05NUtzcFpGM0FZaXExVEFaaFFmbXZxMUQxM3pLOVJBX0VKc3JIMGlqRVHSAWNBVV95cUxNbldoZjR5NGtzVGpvUnBkcDJ3N182WmZtamp1U2dmY3BBSXQxaXVzRnBSOWJMdGlmZU5Bb0FnUzAxeW5xNHAwcnFlT0lBMTZEdzN6YXBSNmJBVmVDenRpaEVnMmc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sun, 03 May 2026 07:00:00 GMT",
+      "snippet": "XRP and SOL now accepted for Nexo’s zero interest loans&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Cardano Users Can Now Earn Up TO 21% APY From Their Wallets - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Bc0tzS3pjaVBVaUlQNk5LWVhrNlhINkZUSWozSUJvaDhTcGF6aExabWtydEFvbVR2b2s2SktSa3NUYXI0akU5VXlrZkRnMEw2MDdtRExTcER4WTh2U2fSAWNBVV95cUxPYmFnR3d1VTR5WTlUWU9SRlNRbEVMOVk2RGpIZ1lPZ0FHSFBjdzY2eUhQUTQ1bzZsb1FndkgzNDdJU2ZjR1RaNHdsYkcxR1NkLXNRdzlXZ1dYZWNjWEM0VDh3bW8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 25 Apr 2025 07:00:00 GMT",
+      "snippet": "Cardano Users Can Now Earn Up TO 21% APY From Their Wallets&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Are XRP and Ripple Treasury Now Directly Linked to SWIFT? Here’s What We Know - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Jc0dUbTZEQ2FUTy0yelBPVFJFc21iNUR5ZTF4blh5a3puTW1uM3ZjZUZZWEFZV3IwM3ZLZVhzeTh4cGE4RDRDZDJzZEFMR3Z6VzJOOEFpei1XY1ZoOWfSAWNBVV95cUxQQl85UWJ2MFdHUnZ2eWtBVnNGdWNfd2ZqNjNJMjJ3ZEE4TUdoZTEwMWtHbWV2dWtXdlhlQ0lkeDc5cTZJUVhuV191VUZSUzczWGFiQzlYcWliUWU1Nkt1NGxhQm8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "Are XRP and Ripple Treasury Now Directly Linked to SWIFT? Here’s What We Know&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bitcoin treasury company MetaPlanet ADR ($MPJPY) is now listed on Robinhood - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1odmNUZEZoMjlVRGpXcmRVRzVtdzNvX3RTNE5FSEg3WVlfaTFjc0hrNWhheWNXS1dSRVVQY1BTTnNpZ3hiQ1NRRThWdjFQa1BKaTdDRUZ6ZHZuUjJ2cEHSAWNBVV95cUxOdUdvd2czWkxGOGVBRmpVbzJlTGZIamVEWlphTGhBU2dFT19tV0NQRF9aMlpQTGt4UDR2TFc5YUVDUjR2clZWZF9wY1YwaHRCVVJHQTlBdVU3R1phZlVYRElweWs?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "snippet": "Bitcoin treasury company MetaPlanet ADR ($MPJPY) is now listed on Robinhood&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "OIKUSDT now launched for futures trading and trading bots - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FTDVMcnZMdGR3eUZ2ZzA4d3ZrbUpCVHhHYUl1WXFXaWE1NWl0RmR6OURIakxWdEM2ZmZ1UUNoZU1CQzhBRWZzN21hYXJfcTlKR1Q5eE5GNTVOUjBnaEE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 12 Mar 2025 07:00:00 GMT",
+      "snippet": "OIKUSDT now launched for futures trading and trading bots&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Recurring Transactions for bStocks Now Available on Binance Convert - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS2RFZ2VjM1VUaU1DYkYzZVMteTBhV0FBQ0hYMnZVXzROZDFhZzBrMFFUWkdMb1ZvNGE4WXRvdDRTSUdfcmNRYUxvMzlPZWRLWVduaFNSWHNMcV9DMkM4Q0JVLV9jLXdrRDJLWmN5WFk2WXZaZlVEQzNrYXZjOThubUVnY2toYmljakQ0V2JKRnk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 25 Jun 2026 08:11:56 GMT",
+      "snippet": "Recurring Transactions for bStocks Now Available on Binance Convert&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "China Has Its Own Mythos Now, Says Qihoo 360 Founder. And One Version Is Free - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nZ3pQZTZLN1Bwelc5TktCbFhDZ2dSdi01dXNrdTFUOVJZUFFMWmViSHpqNHdNbjc4YTRnOFVSYlgwR0ZOYTREZ0pnZGRGWElVbEtJdXlOejFpWkdSdE1VMUtSTzZJbzNfSkZrM21kX01BQzlWOHc?oc=5",
+      "source": "Decrypt",
+      "publishedAt": "Mon, 29 Jun 2026 20:16:48 GMT",
+      "snippet": "China Has Its Own Mythos Now, Says Qihoo 360 Founder. And One Version Is Free&nbsp;&nbsp;Decrypt"
+    },
+    {
+      "title": "Bitcoin (BTC) price has no friends right now except dollar, U.S. Treasury yield positioning data: Crypto Daily - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORU5fbHZqUWprcFo0WEhVaks2bVd0RGgtQVpBOUtZTXp3U1V6WHZNUnotcDNVX0FWbFUyRHZYRjNvaGxMa2JONkVoSnJvZHI4R0pVSm5sS0NtVXdPYTJRaUtwOU1GTXF2V0kzYjBLcHdwQzdEMFVMV2h6OUg0U0d3RlhtX3VHajRwaHo3ZjlTZUcwUVRYRXhzVWFIVE0xQzZHMmtUUWlhS0FmTDVuV1J3ekdab0JOUkNnNzJ0aTU5eGpuVVZxMWc?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 29 Jun 2026 11:14:25 GMT",
+      "snippet": "Bitcoin (BTC) price has no friends right now except dollar, U.S. Treasury yield positioning data: Crypto Daily&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record - The Block",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQazhMR3ZRVE9DdjhjWmd2ZzYxdVJQbnlwVDA3bnF2di01b0JmZWpXQ0hianhTOHdDaDZlUlV0Y3NpWUViSGlCcC00eG5GRzkxcGQwWUNfbVRSelNvNHh2VDVYVXhuNHhaZGhFLVZBTDNWTjdLLVV0TV9SMk5ra3hRR1dfd3pvRlZOZHVYMlBPaWFlZGxZa2x4YTg1QS13azlOVGRTbFhqWVVEU0tWTGJ3M253X0pUN2prNHJjMGM0VjFqU3Q2czlN?oc=5",
+      "source": "The Block",
+      "publishedAt": "Sat, 27 Jun 2026 16:29:22 GMT",
+      "snippet": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record&nbsp;&nbsp;The Block"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=NOW: Throttled\n"
+  ]
+}
