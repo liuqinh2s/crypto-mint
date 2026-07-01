@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T06:48:28.652Z",
+  "updatedAt": "2026-07-01T07:04:05.726Z",
   "results": [
+    {
+      "token": "AGLD",
+      "requestedInput": "AGLD",
+      "name": "Adventure Gold",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:03:59.397Z",
+      "latestPath": "data/results/AGLD-latest.json"
+    },
+    {
+      "token": "FARTCOIN",
+      "requestedInput": "FARTCOIN",
+      "name": "Fartcoin",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T07:04:00.890Z",
+      "latestPath": "data/results/FARTCOIN-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:03:58.116Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:03:56.770Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:04:03.308Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:04:05.724Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "BSV",
       "requestedInput": "BSV",
@@ -22,26 +82,6 @@
       "latestPath": "data/results/VELVET-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T06:48:16.959Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T06:48:16.838Z",
-      "latestPath": "data/results/HOU-latest.json"
-    },
-    {
       "token": "QBTS",
       "requestedInput": "QBTS",
       "name": "D-Wave Quantum Inc.",
@@ -52,16 +92,6 @@
       "latestPath": "data/results/QBTS-latest.json"
     },
     {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T06:48:24.924Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
       "token": "RTXSTOCK",
       "requestedInput": "RTXSTOCK",
       "name": "unknown",
@@ -70,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T06:48:21.552Z",
       "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T06:48:28.651Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "RPL",
@@ -980,26 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T21:03:30.006Z",
       "latestPath": "data/results/ZBT-latest.json"
-    },
-    {
-      "token": "SPCX",
-      "requestedInput": "SPCX",
-      "name": "SPCX",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:03:37.726Z",
-      "latestPath": "data/results/SPCX-latest.json"
-    },
-    {
-      "token": "SLX",
-      "requestedInput": "SLX",
-      "name": "SLX",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:03:40.459Z",
-      "latestPath": "data/results/SLX-latest.json"
     }
   ]
 }
