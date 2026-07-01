@@ -1,0 +1,258 @@
+{
+  "token": "TLM",
+  "requestedInput": "TLM",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T19:48:41.709Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TLM",
+    "name": "Alien Worlds",
+    "generatedAt": "2026-07-01T19:48:35.127Z",
+    "summary": "TLM在DEX上出现极端波动，24小时暴涨29%但DEX价格暴跌95%，流动性极低，存在高度风险。Binance已将其列入监控标签，基本面缺乏新催化。不建议买入。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无"
+    },
+    "catalysts": [
+      "无明确近期利好，价格上涨可能为短期资金炒作或数据异常"
+    ],
+    "latestNews": [
+      {
+        "title": "Binance Will Extend the Monitoring Tag to Include ALCX, COOKIE, DODO, EPIC, HEI, HFT, STORJ, SYN & TLM on 2026-05-22",
+        "impact": "利空",
+        "reason": "Binance监控标签通常意味着项目风险较高，可能面临下架或流动性问题，对价格构成压力。"
+      }
+    ],
+    "fundamentals": [
+      "Alien Worlds是一个DeFi NFT元宇宙游戏，曾为Binance Launchpad项目。",
+      "总供应量100亿，流通约68亿，FDV约774万美元，市值约748万美元。",
+      "代币价格较历史高点下跌99.85%，市场关注度低。"
+    ],
+    "marketRead": [
+      "DEX上TLM/SOL对24小时价格暴跌95.2%，流动性仅2878美元，成交量约9万美元，表明交易深度极差。",
+      "CEX数据显示24小时涨幅29%，但DEX价格与CEX严重脱节，可能存在数据错误或操纵。",
+      "整体市场情绪中性偏空，30日跌幅25%。"
+    ],
+    "risks": [
+      "DEX流动性极低，滑点巨大，难以执行交易。",
+      "Binance监控标签可能引发下架风险。",
+      "价格与CEX严重偏离，存在数据异常或市场操纵。",
+      "项目缺乏新进展，基本面疲软。"
+    ],
+    "watchlist": [
+      "Binance是否移除监控标签或发布新公告。",
+      "DEX流动性是否改善。",
+      "项目方是否有新合作或游戏更新。"
+    ],
+    "sourceNotes": [
+      "DEX数据来自pumpswap，流动性极低，价格不可靠。",
+      "新闻多为旧闻或价格页面，无实质性利好。",
+      "CEX数据来自CoinGecko，但DEX数据异常需谨慎。"
+    ]
+  },
+  "profile": {
+    "id": "alien-worlds",
+    "symbol": "TLM",
+    "name": "Alien Worlds",
+    "categories": [
+      "Gaming (GameFi)",
+      "NFT",
+      "BNB Chain Ecosystem",
+      "Binance Launchpool",
+      "Play To Earn",
+      "Ethereum Ecosystem",
+      "Animoca Brands Portfolio",
+      "Card Games",
+      "Gaming Governance Token",
+      "YZi Labs (Prev. Binance Labs) Portfolio",
+      "Wax Ecosystem",
+      "MMO"
+    ],
+    "homepage": [
+      "https://alienworlds.io/"
+    ],
+    "description": "Alien Worlds is a DeFi NFT metaverse where you can collect and play with unique digital items. It is the 19th project on Binance Launchpad, for more information, please refer to Binance Announcement Post.",
+    "marketCapRank": 1312,
+    "currentPriceUsd": 0.00109721,
+    "marketCapUsd": 7484843,
+    "fullyDilutedValuationUsd": 7737405,
+    "totalVolumeUsd": 18148621,
+    "priceChange24hPct": 29.36179,
+    "priceChange7dPct": 19.71476,
+    "priceChange14dPct": 8.78569,
+    "priceChange30dPct": -25.1164,
+    "athUsd": 0.739714,
+    "athChangePct": -99.85094,
+    "circulatingSupply": 6800015346.987201,
+    "totalSupply": 7029468683.2376,
+    "maxSupply": 10000000000,
+    "sentimentVotesUpPct": 50,
+    "watchlistUsers": 57663,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pumpswap",
+    "pair": "TLM/SOL",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "HWQ7u68muFvXTkX2YsFsbAP6pxLPirpv2rC1B2SsUd5B",
+    "pairUrl": "https://dexscreener.com/solana/hwq7u68mufvxtkx2ysfsbap6pxlpirpv2rc1b2ssud5b",
+    "lastPrice": 0.000001518,
+    "priceChange24hPct": -95.2,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 89846.67,
+    "liquidityUsd": 2878.52,
+    "fullyDilutedValuationUsd": 1517,
+    "marketCapUsd": 1517,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/hwq7u68mufvxtkx2ysfsbap6pxlpirpv2rc1b2ssud5b",
+    "pairAddress": "HWQ7u68muFvXTkX2YsFsbAP6pxLPirpv2rC1B2SsUd5B",
+    "baseToken": {
+      "address": "4t3hz3y2ocdKhCuXLVJbsuWokJHD4ofF8S8FkVoWpump",
+      "name": "Trenchers Lives Matter",
+      "symbol": "TLM"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.00000001966",
+    "priceUsd": "0.000001518",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 1823,
+        "sells": 1529
+      },
+      "h24": {
+        "buys": 1823,
+        "sells": 1529
+      }
+    },
+    "volume": {
+      "h24": 89846.67,
+      "h6": 89846.67,
+      "h1": 0.12,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": -1.51,
+      "h6": -95.2,
+      "h24": -95.2
+    },
+    "liquidity": {
+      "usd": 2878.52,
+      "base": 941812650,
+      "quote": 18.7504
+    },
+    "fdv": 1517,
+    "marketCap": 1517,
+    "pairCreatedAt": 1782915933000
+  },
+  "news": [
+    {
+      "title": "Alien Worlds Price Today | Live TLM Price, Chart & Market Data - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xTjJFcnZlMTkxVmVLNnR6THBBZjZDT3FhR2daMnk3azU0dVVEbTFfNU0tMnd4UUFJWVBqZ3pfZFU2WDdxQjZfRWVxOTZSZjYxRGdTOUNPNXpKRWZI?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 26 Jun 2026 03:15:00 GMT",
+      "snippet": "Alien Worlds Price Today | Live TLM Price, Chart & Market Data&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Alien Worlds Price Today | TLM to ZAR Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11M184czc1UHVoaDY0MTdHMmJwZGhVMnJaeHlBUXg4RFpmZGRIYkRzdENtZWlqbzdoSGV4X2dBLW0wTHd4RzRFdlhoQUIwbi1TVldtTVkxZkdoS2FM?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 24 Jun 2026 06:16:00 GMT",
+      "snippet": "Alien Worlds Price Today | TLM to ZAR Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Alien Worlds price prediction 2024-2030: Is TLM agood investment? | crypto price predictions - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9samE3MVdCSFFCZEloX2QxeVBwQnVXczlvR1ZkbkV6U3NrRFE3VkNqNXQtOV9PeWd5SFFReExoOU5ESnlyTHJtQXNfWGt0Si1sMzdDNmlTcWwzY25GOEIxalNjWW1KNXhGMEd0M3JTX1hoSTdXbGc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 24 Aug 2024 07:00:00 GMT",
+      "snippet": "Alien Worlds price prediction 2024-2030: Is TLM agood investment? | crypto price predictions&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Alien Worlds (TLM) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0ZUk5SHp0bzZsN0hFamZSdUtwM1ZyclN5NkNRVTU2dFE4QW5VM21HSWZfYXpDVzNuUU9FZXdfeGpiajc1OFVjYXA4bU9MeXVna1ZOTnZnUFVTc2gySzVNRmZRcGxNNnd0OV9wVE11NA?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Wed, 06 Sep 2023 14:18:55 GMT",
+      "snippet": "Alien Worlds (TLM) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "What Is Alien Worlds (TLM)? Features, Tokenomics and Price Prediction - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2tQUXZuUjhUazIyZTZIaVhDRzBEdTdPbG1rVFh2ZVpKLS1aQ3IwNUdyTjRqY2c1bFJCTjE5S2pVS0NYVmNJbFd0ZXF4QktUdUtUOUI5VjRMc3REZ2k4ejQyUndGVVN1TVVfQlVWMm1TM1FEa1NEQWtPbHVGTDJGRWdyekhObkh1ekZoRWFVc2xFdFpYVTFTQ0xhUWMweHF3UGxTOTlPaEt3bkk?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 20 Sep 2023 00:29:52 GMT",
+      "snippet": "What Is Alien Worlds (TLM)? Features, Tokenomics and Price Prediction&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Alien Worlds Price USD, TLM Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxcXgzLU9MenBtd3hqNjJPSDcxNk5EcTdXWHRZUHhDSUxMN2RDOE11NU1hcWl4VGw5ZWtKajRRSG5Pa18tYmZvT1g0RGtzaGtMaUM0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 02 Jun 2023 17:07:41 GMT",
+      "snippet": "Alien Worlds Price USD, TLM Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Alien Worlds (TLM) Private Funding Rounds, Token Sale Review & Tokenomics Analysis - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PS1lxYkRrbVM0OWstWmlTRDBGZmY1bGE5XzBiN0lwQUlnOVZoRTFXRHdIbHFraVMyYlpBOTkzWTdOZzcxUy1tSnZtN1A2azA?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 08 Apr 2021 10:03:15 GMT",
+      "snippet": "Alien Worlds (TLM) Private Funding Rounds, Token Sale Review & Tokenomics Analysis&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Alien Worlds price prediction 2025-2031: Is TLM a good investment? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0T1EwQkhldm1DRnV4R3JKU2M5Rm9UZnFnYmFuMV9BSF9SQUJOWHlpZS1mSUtNNkNTVGZiSUlHaG5uLVM2MGtzQ1ZtOUlUV0t5MDJnQ0pEbGRaaWphTnZOaUNjbw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 16 Nov 2025 08:00:00 GMT",
+      "snippet": "Alien Worlds price prediction 2025-2031: Is TLM a good investment?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Will Extend the Monitoring Tag to Include ALCX, COOKIE, DODO, EPIC, HEI, HFT, STORJ, SYN & TLM on 2026-05-22 - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY2w1cGx2cFpxa0NKWGdtT1NsYV82N0pNN3o1ekhiUE42ZHpjUXBxVUwzSmFLckd3ZGxuMWNKQjBzd3JiaERkU0xMcy1kQlM2RUdBMndYREZqS1dfd2xfQ21kVi1xRDZlRnJiSXZwZDBDbWFNenZucDFvN0N1QTYzN1ZkSHd6MG1lbWJCZTJQNGQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 22 May 2026 07:00:00 GMT",
+      "snippet": "Binance Will Extend the Monitoring Tag to Include ALCX, COOKIE, DODO, EPIC, HEI, HFT, STORJ, SYN & TLM on 2026-05-22&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Alien Worlds price today, TLM to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLWURncVRuRURETjJXTWV5cE02eUUwY0VUZkk1Wk5yelhhY3ZyNi1pYm1pN1liand6TWNHUWVLRVg2NmlQUDlERWdzcXJwUkVWMlZ0aUxR?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 12 Jul 2023 15:15:37 GMT",
+      "snippet": "Alien Worlds price today, TLM to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

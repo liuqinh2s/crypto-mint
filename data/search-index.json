@@ -1,6 +1,146 @@
 {
-  "updatedAt": "2026-07-01T19:33:43.445Z",
+  "updatedAt": "2026-07-01T19:49:04.583Z",
   "results": [
+    {
+      "token": "TLM",
+      "requestedInput": "TLM",
+      "name": "Alien Worlds",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T19:48:41.709Z",
+      "latestPath": "data/results/TLM-latest.json"
+    },
+    {
+      "token": "PYTH",
+      "requestedInput": "PYTH",
+      "name": "Pyth Network",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T19:48:42.473Z",
+      "latestPath": "data/results/PYTH-latest.json"
+    },
+    {
+      "token": "AEVO",
+      "requestedInput": "AEVO",
+      "name": "Aevo",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T19:48:42.968Z",
+      "latestPath": "data/results/AEVO-latest.json"
+    },
+    {
+      "token": "MEW",
+      "requestedInput": "MEW",
+      "name": "mew",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T19:48:46.199Z",
+      "latestPath": "data/results/MEW-latest.json"
+    },
+    {
+      "token": "ESP",
+      "requestedInput": "ESP",
+      "name": "Espresso",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T19:48:53.499Z",
+      "latestPath": "data/results/ESP-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T19:48:49.017Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T19:48:51.955Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "SPYX",
+      "requestedInput": "SP500",
+      "name": "SP500",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T19:48:54.504Z",
+      "latestPath": "data/results/SPYX-latest.json"
+    },
+    {
+      "token": "BRKB",
+      "requestedInput": "BRKB",
+      "name": "Berkshire Hathaway Inc Tokenized Stock",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T19:48:55.156Z",
+      "latestPath": "data/results/BRKB-latest.json"
+    },
+    {
+      "token": "SNOW",
+      "requestedInput": "SNOW",
+      "name": "Snow",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T19:48:58.937Z",
+      "latestPath": "data/results/SNOW-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T19:48:58.473Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "AVAVE",
+      "requestedInput": "AVAV",
+      "name": "AVAVE",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T19:49:00.442Z",
+      "latestPath": "data/results/AVAVE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T19:49:02.526Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "OSS",
+      "requestedInput": "OSS",
+      "name": "押燃",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T19:49:04.581Z",
+      "latestPath": "data/results/OSS-latest.json"
+    },
     {
       "token": "MORPHO",
       "requestedInput": "MORPHO",
@@ -42,16 +182,6 @@
       "latestPath": "data/results/XPIN-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:33:29.600Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "AMAT",
       "requestedInput": "AMAT",
       "name": "Applied Materials Inc. Common Stock",
@@ -72,26 +202,6 @@
       "latestPath": "data/results/CRDO-latest.json"
     },
     {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:33:33.678Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "SPYX",
-      "requestedInput": "SP500",
-      "name": "SP500",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:33:39.824Z",
-      "latestPath": "data/results/SPYX-latest.json"
-    },
-    {
       "token": "EH",
       "requestedInput": "EH",
       "name": "unknown",
@@ -100,36 +210,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T19:33:36.152Z",
       "latestPath": "data/results/EH-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:33:39.082Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "AVAVE",
-      "requestedInput": "AVAV",
-      "name": "AVAVE",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:33:41.119Z",
-      "latestPath": "data/results/AVAVE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:33:43.443Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "AVAX",
@@ -920,86 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T17:03:44.969Z",
       "latestPath": "data/results/MET-latest.json"
-    },
-    {
-      "token": "LIRA",
-      "requestedInput": "LIT",
-      "name": "LIT",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T17:03:42.367Z",
-      "latestPath": "data/results/LIRA-latest.json"
-    },
-    {
-      "token": "ARQQ",
-      "requestedInput": "ARQQ",
-      "name": "Arqit Quantum (Derivatives)",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T17:03:50.162Z",
-      "latestPath": "data/results/ARQQ-latest.json"
-    },
-    {
-      "token": "RTXSTOCK",
-      "requestedInput": "RTXSTOCK",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T17:03:53.667Z",
-      "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "APE",
-      "requestedInput": "APE",
-      "name": "ApeCoin",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T16:49:02.250Z",
-      "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "PENDLE",
-      "requestedInput": "PENDLE",
-      "name": "Pendle",
-      "score": 55,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-07-01T16:49:02.964Z",
-      "latestPath": "data/results/PENDLE-latest.json"
-    },
-    {
-      "token": "CHILLGUY",
-      "requestedInput": "CHILLGUY",
-      "name": "CHILLGUY",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T16:48:59.782Z",
-      "latestPath": "data/results/CHILLGUY-latest.json"
-    },
-    {
-      "token": "JST",
-      "requestedInput": "JST",
-      "name": "JUST",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T16:48:59.159Z",
-      "latestPath": "data/results/JST-latest.json"
-    },
-    {
-      "token": "USELESS",
-      "requestedInput": "USELESS",
-      "name": "USELESS",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T16:49:07.352Z",
-      "latestPath": "data/results/USELESS-latest.json"
     }
   ]
 }
