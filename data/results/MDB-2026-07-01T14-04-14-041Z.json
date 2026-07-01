@@ -1,0 +1,180 @@
+{
+  "token": "MDB",
+  "requestedInput": "MDB",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T14:04:14.041Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MDB",
+    "name": "MillionDollarBaby",
+    "generatedAt": "2026-07-01T14:04:09.283Z",
+    "summary": "MDB是BSC链上PancakeSwap的极低流动性代币，市值仅$9195，24小时交易量$0.1，价格微跌1.03%。无新闻、无基本面支撑，属于高风险meme币，不建议买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无买入逻辑，无需失效条件"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "代币MillionDollarBaby，创建于2022-04-29，无官网，无描述，无社交媒体信息。",
+      "流动性仅$1497.72，市值$9195，完全稀释估值相同，无供应数据。",
+      "24小时交易量$0.1，几乎无交易活动。"
+    ],
+    "marketRead": [
+      "价格$0.00001192，24小时跌幅1.03%，波动极小。",
+      "流动性极低，大额交易易造成滑点和价格操纵。",
+      "无历史价格数据，无K线，无法判断趋势。"
+    ],
+    "risks": [
+      "流动性极低，存在拉地毯或无法卖出风险。",
+      "无项目方信息，无社区，无开发活动。",
+      "交易量几乎为零，市场深度极差。",
+      "代币合约未审计，可能存在后门。"
+    ],
+    "watchlist": [
+      "流动性变化",
+      "交易量突然放大",
+      "任何社交媒体或社区出现"
+    ],
+    "sourceNotes": [
+      "数据仅来自DexScreener，无其他来源验证。",
+      "新闻列表为空，无任何外部信息。"
+    ]
+  },
+  "profile": {
+    "id": "0x0557a288A93ed0DF218785F2787dac1cd077F8f3",
+    "symbol": "MDB",
+    "name": "MillionDollarBaby",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0xb592bff35a34efe9c02fe917c43f7add9d48a957",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.00001192,
+    "marketCapUsd": 9195,
+    "fullyDilutedValuationUsd": 9195,
+    "totalVolumeUsd": 0.1,
+    "priceChange24hPct": -1.03,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2022-04-29",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xB592BfF35a34EFe9C02Fe917c43F7adD9d48A957",
+    "baseTokenAddress": "0x0557a288A93ed0DF218785F2787dac1cd077F8f3",
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "liquidityUsd": 1497.72,
+    "pairUrl": "https://dexscreener.com/bsc/0xb592bff35a34efe9c02fe917c43f7add9d48a957",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "MDB/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xB592BfF35a34EFe9C02Fe917c43F7adD9d48A957",
+    "pairUrl": "https://dexscreener.com/bsc/0xb592bff35a34efe9c02fe917c43f7add9d48a957",
+    "lastPrice": 0.00001192,
+    "priceChange24hPct": -1.03,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.1,
+    "liquidityUsd": 1497.72,
+    "fullyDilutedValuationUsd": 9195,
+    "marketCapUsd": 9195,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0xb592bff35a34efe9c02fe917c43f7add9d48a957",
+    "pairAddress": "0xB592BfF35a34EFe9C02Fe917c43F7adD9d48A957",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x0557a288A93ed0DF218785F2787dac1cd077F8f3",
+      "name": "MillionDollarBaby",
+      "symbol": "MDB"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.00000002199",
+    "priceUsd": "0.00001192",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 0.1,
+      "h6": 0.08,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -1.03,
+      "h24": -1.03
+    },
+    "liquidity": {
+      "usd": 1497.72,
+      "base": 62810007,
+      "quote": 1.3814
+    },
+    "fdv": 9195,
+    "marketCap": 9195,
+    "pairCreatedAt": 1651228859000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

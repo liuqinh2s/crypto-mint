@@ -1,24 +1,34 @@
 {
-  "updatedAt": "2026-07-01T13:48:44.490Z",
+  "updatedAt": "2026-07-01T14:04:17.649Z",
   "results": [
+    {
+      "token": "MEW",
+      "requestedInput": "MEW",
+      "name": "cat in a dogs world",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:04:13.716Z",
+      "latestPath": "data/results/MEW-latest.json"
+    },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T13:48:44.234Z",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:04:10.815Z",
       "latestPath": "data/results/-latest.json"
     },
     {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
-      "score": 10,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T13:48:44.488Z",
+      "generatedAt": "2026-07-01T14:04:10.978Z",
       "latestPath": "data/results/HOU-latest.json"
     },
     {
@@ -28,17 +38,27 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T13:48:42.470Z",
+      "generatedAt": "2026-07-01T14:04:08.896Z",
       "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "MDB",
+      "requestedInput": "MDB",
+      "name": "MillionDollarBaby",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:04:14.041Z",
+      "latestPath": "data/results/MDB-latest.json"
     },
     {
       "token": "TOKABU",
       "requestedInput": "SPIR",
       "name": "The Spirit of Gambling",
-      "score": 25,
-      "label": "观望",
+      "score": 15,
+      "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T13:48:44.347Z",
+      "generatedAt": "2026-07-01T14:04:17.647Z",
       "latestPath": "data/results/TOKABU-latest.json"
     },
     {
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T05:19:00.857Z",
       "latestPath": "data/results/SITM-latest.json"
-    },
-    {
-      "token": "TWLO",
-      "requestedInput": "TWLO",
-      "name": "Twilio Inc.",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T05:19:04.855Z",
-      "latestPath": "data/results/TWLO-latest.json"
-    },
-    {
-      "token": "PYTH",
-      "requestedInput": "PYTH",
-      "name": "Pyth Network",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-07-01T05:03:43.163Z",
-      "latestPath": "data/results/PYTH-latest.json"
     }
   ]
 }
