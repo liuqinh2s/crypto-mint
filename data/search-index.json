@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-07-01T01:33:20.406Z",
+  "updatedAt": "2026-07-01T01:48:50.167Z",
   "results": [
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 15,
+      "score": 20,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T01:33:19.717Z",
+      "generatedAt": "2026-07-01T01:48:49.060Z",
       "latestPath": "data/results/-latest.json"
     },
     {
       "token": "AMT",
       "requestedInput": "AMAT",
       "name": "Amateras",
-      "score": 10,
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T01:33:20.404Z",
+      "generatedAt": "2026-07-01T01:48:50.165Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
@@ -28,7 +28,7 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T01:33:20.207Z",
+      "generatedAt": "2026-07-01T01:48:49.124Z",
       "latestPath": "data/results/HOU-latest.json"
     },
     {
@@ -38,7 +38,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T01:33:18.195Z",
+      "generatedAt": "2026-07-01T01:48:47.914Z",
       "latestPath": "data/results/HYPE-latest.json"
     },
     {
