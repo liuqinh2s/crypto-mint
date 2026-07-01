@@ -1,0 +1,176 @@
+{
+  "token": "ADBE.D",
+  "requestedInput": "ADBE",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T23:34:11.660Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ADBE.D",
+    "name": "Dinari ADBE",
+    "generatedAt": "2026-07-01T23:34:03.854Z",
+    "summary": "ADBE.D是Dinari发行的Adobe股票代币，在BSC上PancakeSwap交易，流动性极低（0.03美元），24小时价格暴跌100%，成交量极低，无新闻催化。当前价格接近归零，风险极高。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性恢复至正常水平、有实际交易量和新闻催化前，任何买入逻辑均无效。"
+    },
+    "catalysts": [],
+    "latestNews": [],
+    "fundamentals": [
+      "ADBE.D是Dinari发行的代币化股票，1:1锚定Adobe股票，由实物股票支持。",
+      "总供应量仅0.1436枚，流通量相同，无最大供应量限制。",
+      "项目属于RWA赛道，但代币在BSC上交易，与原生Arbitrum生态不符。",
+      "代币价格5.581e-17美元，几乎归零，流动性仅0.03美元。"
+    ],
+    "marketRead": [
+      "24小时价格变化-100%，成交量极低（报价侧1886.87美元，但基础侧无数据），流动性仅0.03美元。",
+      "无K线数据，市场深度极差，任何交易都会导致巨大滑点。",
+      "7天、14天、30天价格变化均为0%，表明长期无交易活动。"
+    ],
+    "risks": [
+      "流动性枯竭风险：流动性仅0.03美元，无法正常交易。",
+      "价格归零风险：当前价格接近0，且无交易量支撑。",
+      "合约风险：代币在BSC上，但项目主网为Arbitrum，跨链合约可能存在漏洞。",
+      "无新闻或催化：项目缺乏市场关注，无任何近期新闻或事件驱动。",
+      "供应量极小：仅0.1436枚，市场深度极差。"
+    ],
+    "watchlist": [
+      "流动性是否增加至至少1万美元以上。",
+      "是否有官方公告或新闻提及ADBE.D。",
+      "代币价格是否出现显著回升并伴随成交量。"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener，流动性数据可能不准确，但极低流动性确认。",
+      "无新闻数据，项目可能已停止运营或无人关注。"
+    ]
+  },
+  "profile": {
+    "id": "dinari-adbe",
+    "symbol": "ADBE.D",
+    "name": "Dinari ADBE",
+    "categories": [
+      "Tokenized Assets",
+      "Arbitrum Ecosystem",
+      "Tokenized Stock",
+      "Real World Assets (RWA)"
+    ],
+    "homepage": [
+      "https://www.dinari.com/",
+      "https://sbt.dinari.com/",
+      "https://partners.dinari.com/"
+    ],
+    "description": "The Dinari dShare token for Adobe Inc. stock (ADBE.d) represents a 1:1 backed token tied to shares of Adobe. Each ADBE.d token is fully backed by a corresponding share held securely in a transparent treasury vault. This tokenized version of Adobe’s equity leverages blockchain technology to provide enhanced accessibility, offering benefits like 24/7 trading, fractional ownership, instant settlements, and seamless transferability. By bringing real-world equities to the blockchain, Dinari aims to make investing in top companies like Adobe more efficient and inclusive.",
+    "marketCapRank": null,
+    "currentPriceUsd": null,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": null,
+    "priceChange24hPct": null,
+    "priceChange7dPct": 0,
+    "priceChange14dPct": 0,
+    "priceChange30dPct": 0,
+    "athUsd": null,
+    "athChangePct": 0,
+    "circulatingSupply": 0.1435799002025,
+    "totalSupply": 0.1435799002025,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 21,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "ADBE/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xE3137873C96F481F3E6b1B5f3252DeBC6C269884",
+    "pairUrl": "https://dexscreener.com/bsc/0xe3137873c96f481f3e6b1b5f3252debc6c269884",
+    "lastPrice": 5.581e-17,
+    "priceChange24hPct": -100,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 1886.87,
+    "liquidityUsd": 0.03,
+    "fullyDilutedValuationUsd": null,
+    "marketCapUsd": null,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0xe3137873c96f481f3e6b1b5f3252debc6c269884",
+    "pairAddress": "0xE3137873C96F481F3E6b1B5f3252DeBC6C269884",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x408E689430b9BF88e83F92DE05e935205687CF54",
+      "name": "Adobe Inc (Derivatives)",
+      "symbol": "ADBE"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.0000000000000000001020",
+    "priceUsd": "0.00000000000000005581",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 10,
+        "sells": 3
+      }
+    },
+    "volume": {
+      "h24": 1886.87,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -100
+    },
+    "liquidity": {
+      "usd": 0.03,
+      "base": 314110764237789,
+      "quote": 0.00003204
+    },
+    "pairCreatedAt": 1782891272000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned ADBE for ADBE.D; DEX profile ignored to avoid token mix-up.",
+    "AI returned mismatched token ADBED; forced back to ADBE.D."
+  ]
+}
