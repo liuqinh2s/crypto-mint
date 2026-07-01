@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-07-01T04:04:18.933Z",
+  "updatedAt": "2026-07-01T04:19:02.499Z",
   "results": [
+    {
+      "token": "SN105",
+      "requestedInput": "BEAM",
+      "name": "Beam",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T04:18:52.782Z",
+      "latestPath": "data/results/SN105-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:18:53.026Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:18:54.542Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:18:55.402Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "PANW",
+      "requestedInput": "PANW",
+      "name": "Palo Alto Networks Inc (Derivatives)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:19:02.497Z",
+      "latestPath": "data/results/PANW-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:18:59.818Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "AXON",
+      "requestedInput": "AXON",
+      "name": "axon",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:19:02.473Z",
+      "latestPath": "data/results/AXON-latest.json"
+    },
+    {
+      "token": "PL",
+      "requestedInput": "PL",
+      "name": "Power Liquidity",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:19:01.367Z",
+      "latestPath": "data/results/PL-latest.json"
+    },
     {
       "token": "MEW",
       "requestedInput": "MEW",
@@ -42,26 +122,6 @@
       "latestPath": "data/results/PUMP-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:04:10.091Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:04:13.061Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
       "token": "VRT",
       "requestedInput": "VRT",
       "name": "Venus Reward",
@@ -72,16 +132,6 @@
       "latestPath": "data/results/VRT-latest.json"
     },
     {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:04:16.335Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
       "token": "DELL",
       "requestedInput": "DELL",
       "name": "DELL",
@@ -90,16 +140,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T04:04:18.931Z",
       "latestPath": "data/results/DELL-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:04:18.716Z",
-      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "HOU",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T18:19:25.391Z",
       "latestPath": "data/results/CIEN-latest.json"
-    },
-    {
-      "token": "APR",
-      "requestedInput": "APR",
-      "name": "aPriori",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:13:48.514Z",
-      "latestPath": "data/results/APR-latest.json"
-    },
-    {
-      "token": "STABLE",
-      "requestedInput": "STABLE",
-      "name": "Stable",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:13:47.689Z",
-      "latestPath": "data/results/STABLE-latest.json"
-    },
-    {
-      "token": "TSM",
-      "requestedInput": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:13:46.343Z",
-      "latestPath": "data/results/TSM-latest.json"
-    },
-    {
-      "token": "GLW",
-      "requestedInput": "GLW",
-      "name": "Corning Incorporated",
-      "score": 65,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T18:14:02.593Z",
-      "latestPath": "data/results/GLW-latest.json"
     }
   ]
 }
