@@ -1,6 +1,136 @@
 {
-  "updatedAt": "2026-07-01T21:19:35.032Z",
+  "updatedAt": "2026-07-01T21:34:26.162Z",
   "results": [
+    {
+      "token": "AXS",
+      "requestedInput": "AXS",
+      "name": "Axie Infinity",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T21:34:06.773Z",
+      "latestPath": "data/results/AXS-latest.json"
+    },
+    {
+      "token": "BSV",
+      "requestedInput": "BSV",
+      "name": "Bitcoin SV",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:34:00.601Z",
+      "latestPath": "data/results/BSV-latest.json"
+    },
+    {
+      "token": "TUT",
+      "requestedInput": "TUT",
+      "name": "TUT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:34:01.579Z",
+      "latestPath": "data/results/TUT-latest.json"
+    },
+    {
+      "token": "TRUST",
+      "requestedInput": "TRUST",
+      "name": "Trust",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:34:05.636Z",
+      "latestPath": "data/results/TRUST-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:34:07.720Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMD",
+      "requestedInput": "AMD",
+      "name": "AMD (Robinhood Tokenized Stock)",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:34:09.206Z",
+      "latestPath": "data/results/AMD-latest.json"
+    },
+    {
+      "token": "CBRS",
+      "requestedInput": "CBRS",
+      "name": "Cerebras Systems (Robinhood Tokenized Stock)",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:34:14.650Z",
+      "latestPath": "data/results/CBRS-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:34:16.541Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "ASTS",
+      "requestedInput": "ASTS",
+      "name": "AST SpaceMobile Inc (Derivatives)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:34:14.975Z",
+      "latestPath": "data/results/ASTS-latest.json"
+    },
+    {
+      "token": "SPYX",
+      "requestedInput": "SP500",
+      "name": "SP500",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:34:19.769Z",
+      "latestPath": "data/results/SPYX-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:34:21.653Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "AVAVE",
+      "requestedInput": "AVAV",
+      "name": "AVAVE",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:34:22.180Z",
+      "latestPath": "data/results/AVAVE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:34:26.160Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "AGLD",
       "requestedInput": "AGLD",
@@ -40,66 +170,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T21:19:19.805Z",
       "latestPath": "data/results/GRIFFAIN-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:19:26.235Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:19:29.263Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "SPYX",
-      "requestedInput": "SP500",
-      "name": "SP500",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:19:30.481Z",
-      "latestPath": "data/results/SPYX-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:19:26.654Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "AVAVE",
-      "requestedInput": "AVAV",
-      "name": "AVAVE",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:19:32.174Z",
-      "latestPath": "data/results/AVAVE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:19:35.029Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "FARTCOIN",
@@ -930,76 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T18:03:59.561Z",
       "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "WLFI",
-      "requestedInput": "WLFI",
-      "name": "WLFI",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T18:04:03.195Z",
-      "latestPath": "data/results/WLFI-latest.json"
-    },
-    {
-      "token": "COOKIE",
-      "requestedInput": "COOKIE",
-      "name": "Cookie",
-      "score": 30,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-07-01T17:49:01.473Z",
-      "latestPath": "data/results/COOKIE-latest.json"
-    },
-    {
-      "token": "MUBARAK",
-      "requestedInput": "MUBARAK",
-      "name": "mubarak",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T17:49:00.439Z",
-      "latestPath": "data/results/MUBARAK-latest.json"
-    },
-    {
-      "token": "Q",
-      "requestedInput": "Q",
-      "name": "Quack AI",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T17:48:59.942Z",
-      "latestPath": "data/results/Q-latest.json"
-    },
-    {
-      "token": "UAI",
-      "requestedInput": "UAI",
-      "name": "UnifAI Network",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T17:49:00.296Z",
-      "latestPath": "data/results/UAI-latest.json"
-    },
-    {
-      "token": "SPY",
-      "requestedInput": "SPY",
-      "name": "SPY",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T17:49:13.399Z",
-      "latestPath": "data/results/SPY-latest.json"
-    },
-    {
-      "token": "RKLB",
-      "requestedInput": "RKLB",
-      "name": "Rocket Lab Corporation (Robinhood Tokenized Stock)",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T17:49:07.269Z",
-      "latestPath": "data/results/RKLB-latest.json"
     }
   ]
 }
