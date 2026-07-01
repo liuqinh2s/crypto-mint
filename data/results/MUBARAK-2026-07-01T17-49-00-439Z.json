@@ -1,0 +1,331 @@
+{
+  "token": "MUBARAK",
+  "requestedInput": "MUBARAK",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T17:49:00.439Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "MUBARAK",
+    "name": "mubarak",
+    "generatedAt": "2026-07-01T17:48:51.307Z",
+    "summary": "MUBARAK是BSC链上的Meme币，受CZ相关消息推动，近期价格小幅上涨。市值约1055万美元，流动性约101万美元，24小时涨幅6.98%。已上线Binance现货、合约及借贷，但新闻热度集中在2025年3-4月，近期缺乏新催化。当前价格处于相对高位，成交量偏低，追高风险较大。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现新的CZ相关利好或Binance进一步赋能，可重新评估；若价格跌破0.008美元或成交量持续萎缩，则逻辑失效。"
+    },
+    "catalysts": [
+      "CZ（Binance创始人）曾提及或投资Mubarak Meme币",
+      "Binance上线MUBARAK现货、合约及借贷产品",
+      "Meme币社区情绪和FOMO效应"
+    ],
+    "latestNews": [
+      {
+        "title": "Mubarak Price Today in India | MUBARAK to INR Live Price & Chart - Binance",
+        "impact": "中性",
+        "reason": "仅为价格跟踪页面，无新信息"
+      },
+      {
+        "title": "ALL/MUBARAK: Convert Albanian Lek (ALL) to Mubarak (MUBARAK) - OKX",
+        "impact": "中性",
+        "reason": "OKX上线转换功能，但非直接交易对"
+      },
+      {
+        "title": "11% Rally Ignites MUBARAK: Can Bulls Conquer the Next Major Range? - Bitget",
+        "impact": "利好",
+        "reason": "提及价格反弹，但为2026年3月旧闻"
+      }
+    ],
+    "fundamentals": [
+      "BSC链上Meme币，无实际用途",
+      "总供应量未披露，但FDV与市值相同，可能全流通",
+      "合约地址0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6",
+      "流动性池约101万美元，流动性一般",
+      "已上线Binance现货、合约及借贷，但带有Seed Tag（高风险标签）"
+    ],
+    "marketRead": [
+      "24小时涨幅6.98%，但成交量仅3.3万美元，相对市值偏低",
+      "流动性约101万美元，深度一般，大额交易可能滑点较大",
+      "无7日、30日价格变化数据，无法判断中期趋势",
+      "价格接近0.0108美元，距离历史高点未知，但近期无明显突破信号"
+    ],
+    "risks": [
+      "Meme币高度依赖社区情绪和名人效应，CZ热度已过",
+      "成交量低迷，可能缺乏持续买盘",
+      "合约地址未开源或未审计，存在合约风险",
+      "Binance Seed Tag提示高风险，价格波动大",
+      "新闻均为2025年3-4月，缺乏近期催化"
+    ],
+    "watchlist": [
+      "CZ是否再次提及或投资MUBARAK",
+      "Binance是否推出更多产品（如Launchpool）",
+      "成交量是否放大至日均10万美元以上",
+      "价格是否突破0.012美元阻力位"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener和Google News，未验证合约安全性",
+      "缺乏总供应量和流通量数据，FDV估算可能不准确",
+      "新闻时间跨度大，近期无重大更新"
+    ]
+  },
+  "profile": {
+    "id": "0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6",
+    "symbol": "MUBARAK",
+    "name": "mubarak",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [
+      "https://www.mubarak-cto.com"
+    ],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x90a54475d512b8f3852351611c38fad30a513491 Socials: twitter: https://x.com/mubarak_cto?s=21; telegram: https://t.me/mubarak_cto",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.01083,
+    "marketCapUsd": 10552642,
+    "fullyDilutedValuationUsd": 10552642,
+    "totalVolumeUsd": 33010.54,
+    "priceChange24hPct": 6.98,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-03-13",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x90A54475D512B8f3852351611c38faD30a513491",
+    "baseTokenAddress": "0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6",
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "liquidityUsd": 1014216.34,
+    "pairUrl": "https://dexscreener.com/bsc/0x90a54475d512b8f3852351611c38fad30a513491",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "mubarak/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x90A54475D512B8f3852351611c38faD30a513491",
+    "pairUrl": "https://dexscreener.com/bsc/0x90a54475d512b8f3852351611c38fad30a513491",
+    "lastPrice": 0.01083,
+    "priceChange24hPct": 6.98,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 33010.54,
+    "liquidityUsd": 1014216.34,
+    "fullyDilutedValuationUsd": 10552642,
+    "marketCapUsd": 10552642,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x90a54475d512b8f3852351611c38fad30a513491",
+    "pairAddress": "0x90A54475D512B8f3852351611c38faD30a513491",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6",
+      "name": "mubarak",
+      "symbol": "mubarak"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.00001959",
+    "priceUsd": "0.01083",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 76,
+        "sells": 56
+      },
+      "h6": {
+        "buys": 210,
+        "sells": 107
+      },
+      "h24": {
+        "buys": 331,
+        "sells": 243
+      }
+    },
+    "volume": {
+      "h24": 33010.54,
+      "h6": 16355.21,
+      "h1": 8026.31,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": 3.2,
+      "h6": 8.09,
+      "h24": 6.98
+    },
+    "liquidity": {
+      "usd": 1014216.34,
+      "base": 68534775,
+      "quote": 490.4326
+    },
+    "fdv": 10552642,
+    "marketCap": 10552642,
+    "pairCreatedAt": 1741858573000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/itASTJtyyG1LGgLz?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/X1Gwyrp7pJ9adacX?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x5c85d6c6825ab4032337f11ee92a72df936b46f6?timestamp=1782928200000",
+      "websites": [
+        {
+          "url": "https://www.mubarak-cto.com",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/mubarak_cto?s=21",
+          "type": "twitter"
+        },
+        {
+          "url": "https://t.me/mubarak_cto",
+          "type": "telegram"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "Mubarak Price Today in India | MUBARAK to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LcjRGTkNwZzVVNFhFSlQ0bnUtcGx4MWpTYVVOc2dhckxqTjY1Zm1MRjU0TTJra25jYU5qVURoeXpLbW4wOTR1MHYwZEY2UEo0bkNxVHhB?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sun, 28 Jun 2026 13:35:00 GMT",
+      "snippet": "Mubarak Price Today in India | MUBARAK to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Mubarak Price | MUBARAK Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBibExreUpBVDVtVkdjQlZnd1RYdksyZTI4ckk3LTl1RFVBenptOGZjNmVHV2ZxckRhLTNfSHN3ZkswT2h2SlRPWW14Zw?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 18 Mar 2025 07:00:00 GMT",
+      "snippet": "Mubarak Price | MUBARAK Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "ALL/MUBARAK: Convert Albanian Lek (ALL) to Mubarak (MUBARAK) - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wOUk1MGJuVkpBRzlyYWNpbjZyVDJzdjhWS1hZY243YTlCSWRSMW1rdFJtelc2WWVrZlVqNklMOWhNV1pzRDNXYW5FMEpWTG1ITGV2VGJGd21QdEtwMmYyc2VmZw?oc=5",
+      "source": "OKX",
+      "publishedAt": "Sat, 27 Jun 2026 00:00:00 GMT",
+      "snippet": "ALL/MUBARAK: Convert Albanian Lek (ALL) to Mubarak (MUBARAK)&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Mubarak Price Today | MUBARAK to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzN1pmOGV0MVlpN3ZOR2NhV1NFeWhBbGswTF9neGI5aFFuaVZiREFLYVMtX1l5a0UxX05iQUh5bUZnNHVOcGoxSDNkRTQ4eWE0ZEE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 17 Mar 2025 07:00:00 GMT",
+      "snippet": "Mubarak Price Today | MUBARAK to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Mubarak To Mubarak Crypto Holders: CZ Binance Celebrates The Spirit of Ramadan - 99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMVgtTHFfdVpVM0Z2d1M5MkZfWlBOMTI4Z01sVXZJd0F0dWhLNEQ2N3B1c2lpLURnc3hXMEI2enBZRWEwczVSM3hZQ3NZQVAxOEppVHQ4NGVMcGhjNmZiSFBRWXlZbEptTnhINklKdE9XWDZ0alRsMF9VbU5pWURybGJ0SG5TWHNaSkVNVzBjWWpJR1J6RG1MbktTNUxrRWVDekhvRUIzc1NQMzJraG5NSEpneGk1Zw?oc=5",
+      "source": "99Bitcoins",
+      "publishedAt": "Tue, 18 Mar 2025 07:00:00 GMT",
+      "snippet": "Mubarak To Mubarak Crypto Holders: CZ Binance Celebrates The Spirit of Ramadan&nbsp;&nbsp;99Bitcoins"
+    },
+    {
+      "title": "CZ’s Surprise Investment in Mubarak Meme Coin Sparks Crypto Surge - Coinfomania",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTnNGYklSMWc0VFdUaXJLWE1pVi05Q0N1aXNNQk0yYWxnTklaX3hjeW1heUJRNnFfaGNqRzBsZVJWTUZuZlVTVHM0OU1Kd3QtX0NoS3MxMWpjQUJ4Mmd2bVpGWE1XWU91dHI4U1FzcHhPREZtSW1MWWVUWlQtaTlsRG5Za2ZZYnBZV3p5NVlfTmtnUnc?oc=5",
+      "source": "Coinfomania",
+      "publishedAt": "Mon, 17 Mar 2025 07:00:00 GMT",
+      "snippet": "CZ’s Surprise Investment in Mubarak Meme Coin Sparks Crypto Surge&nbsp;&nbsp;Coinfomania"
+    },
+    {
+      "title": "Who is Mubarak Sani: Crypto's Rising Innovator - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ha2FfRGp6eVRMeGRwQmRZcktDUHlOZWpOQTNoNllUSVA5T1I0NldBd2E2VGNQYmE0bkNBM05JdTdnazdlTGc5Rk94dFoyb0R0ekN4OVZSQmdScEk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 24 Dec 2025 07:41:13 GMT",
+      "snippet": "Who is Mubarak Sani: Crypto's Rising Innovator&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "What to Say to Umrah Mubarak: A Digital Perspective - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mWWFMdFlLTzdRbS0tekRMZTMxek51Y3haUkZ5cXRObl9uQ0JqOFh5bmtYenVjMUh1VFZoaHFiQ1VmdWstYVB6ZXJWQXRQUGpQWGtrdVVlNmtDZE1POFRYTlBMcjlyX3c?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 24 Dec 2025 08:00:16 GMT",
+      "snippet": "What to Say to Umrah Mubarak: A Digital Perspective&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "11% Rally Ignites MUBARAK: Can Bulls Conquer the Next Major Range? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jajJ6bE93cnU3TUdZYV94RDFNTFNjcWVTUnl3X3NEUVZ0Y0ZUT2swcnprX2toeEI4WVdMdlBIM0hmMnJvdEUwMFVnZzZFaUlKeTd2QzJDRWJJRDBGTmfSAWNBVV95cUxQN2dPUUNoR3c1dnAyMnlyMUhfN2FkNzBhTWxkSzgtaWxfV3ZSV0xvaExqdVNUZi1DTi01azZOa0VzbVprS2I2dzcyZ3ZPU0hkSzl5TXBpdi1SSFlxYVV4VWpsWk0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "snippet": "11% Rally Ignites MUBARAK: Can Bulls Conquer the Next Major Range?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Stake It Cold, Earn It Hot: Arctic Pablo’s 66% APY Makes It 2025’s Best New Meme Coin to Buy — Ski Mask Dog and Mubarak Surge - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HTlAtYlpTRVNMOU5JOWgwZzJURDE2aXRzU25YV05hUURhcmdNdWFydFc0M1g4cFZzZEdZVVVHUC13LUVHbXNldVQ1dlNyNndzLWN4WWlEdjJGemdrTFHSAWNBVV95cUxOeVBfRDBsZkl4cThXZmVLYUtSRFY4T3FPYURWWEFTSlZmSjd1TmtqY2tWR3ZYNTFHQVl6XzhoTVE3SHdITngzTmNLT1U2S3drcGxLSXR2aVUzTDEwTUEwbTRDNEU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 18 Apr 2025 07:00:00 GMT",
+      "snippet": "Stake It Cold, Earn It Hot: Arctic Pablo’s 66% APY Makes It 2025’s Best New Meme Coin to Buy — Ski Mask Dog and Mubarak Surge&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Binance Adds Mubarak (MUBARAK), CZ'S Dog (BROCCOLI714), Tutorial (TUT), and Banana For Scale (BANANAS31) on Earn, Buy Crypto, Convert & Margin | Binance News - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeEVzT1RwOFE4R0RvdzVGeVNzQlBKMnlGUUIwcmQyR0Z6cEZJZjNlWWtyMlh4dC1IZGRJbmdkb2pqc2NPQVFGcDV1aHU1VVZ0M0JRNWhQN2RKQ21jZTMzVzQ3eFRNZ2hQUjctdGpJS2dTUEZaTlNOTlJyLUxDb1Z2NTRnNHNvMVMyUHgzZURyMHU?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 27 Mar 2025 07:00:00 GMT",
+      "snippet": "Binance Adds Mubarak (MUBARAK), CZ'S Dog (BROCCOLI714), Tutorial (TUT), and Banana For Scale (BANANAS31) on Earn, Buy Crypto, Convert & Margin | Binance News&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Adds BANANAS31 and MUBARAK as New Loanable Assets on VIP Loan - 2025-04-09 - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQko3WTBvNDNfVkpVSVl2XzByWWxfMmppUzhSMFdWWUpCZlRaclpiRU1EbWZuNkxoSWsxM2JMN29PZnFXOFBqdWhYLWNIMmVWd0FEdzdxVWpMQUxTb00yN041UlpNYXZrTEVHU2ZRNzN0SEZ2TDNPMXFFTkMyM2tXamhDa01oQUNMYkFnenhHckE?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 08 Apr 2025 07:00:00 GMT",
+      "snippet": "Binance Adds BANANAS31 and MUBARAK as New Loanable Assets on VIP Loan - 2025-04-09&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Futures Will Launch USDⓈ-Margined BMTUSDT and MUBARAKUSDT Perpetual Contracts With up to 25x Leverage - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3VfQ0ZrS2lhOU55aVhRR0EyNEcyM1ljTTRBc1EtenpMOEJSQkJoQ2tVd2FfRy1kdnFLV2owYWlCN0dMUXlEbjlGT0hPVHdSNmJHU2tQM3h1UTZaU3dlYXpMVUxGSXhrQzJ1d3NJd0hDOGc1MFFVd0Vvd0F1SjVUejlwbTJxMXhFY21MMFhQajk?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 17 Mar 2025 07:00:00 GMT",
+      "snippet": "Binance Futures Will Launch USDⓈ-Margined BMTUSDT and MUBARAKUSDT Perpetual Contracts With up to 25x Leverage&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Binance Announced the First Batch of Vote to List Results and Will List Mubarak (MUBARAK), CZ'S Dog (BROCCOLI714), Tutorial (TUT), and Banana For Scale (BANANAS31) With Seed Tags Applied - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHBHa2Y3V1h2Yl8zT1k3ZnZBZ2g3dUR5eGhaOEFXaDhfRUVwSW1PQjJSMHloMnJYVEkyWllheFp2UWcwb3U2NGhsbkpFQ0s3ZTZNWlpZdUtMOGktdk9PaWlPTjBRbWhQVzhwcXlmTDh6MDVaMTRsU2w0blN0bEVUSkVkZW9LWEJYV0oxTTZaTWg?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 27 Mar 2025 07:00:00 GMT",
+      "snippet": "Binance Announced the First Batch of Vote to List Results and Will List Mubarak (MUBARAK), CZ'S Dog (BROCCOLI714), Tutorial (TUT), and Banana For Scale (BANANAS31) With Seed Tags Applied&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/mubarak?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}
