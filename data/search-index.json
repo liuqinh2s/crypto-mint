@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T14:04:17.649Z",
+  "updatedAt": "2026-07-01T14:08:19.259Z",
   "results": [
+    {
+      "token": "PYTH",
+      "requestedInput": "PYTH",
+      "name": "Pyth Network",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T14:08:13.559Z",
+      "latestPath": "data/results/PYTH-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:08:12.039Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:08:12.465Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:08:11.529Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "TWLO",
+      "requestedInput": "TWLO",
+      "name": "Twilio Inc (Derivatives)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:08:17.853Z",
+      "latestPath": "data/results/TWLO-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:08:19.257Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "MEW",
       "requestedInput": "MEW",
@@ -12,36 +72,6 @@
       "latestPath": "data/results/MEW-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T14:04:10.815Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T14:04:10.978Z",
-      "latestPath": "data/results/HOU-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T14:04:08.896Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
       "token": "MDB",
       "requestedInput": "MDB",
       "name": "MillionDollarBaby",
@@ -50,16 +80,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T14:04:14.041Z",
       "latestPath": "data/results/MDB-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T14:04:17.647Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "MORPHO",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T05:18:58.481Z",
       "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:18:58.125Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
-      "token": "SITM",
-      "requestedInput": "SITM",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:19:00.857Z",
-      "latestPath": "data/results/SITM-latest.json"
     }
   ]
 }
