@@ -1,25 +1,45 @@
 {
-  "updatedAt": "2026-07-01T21:03:32.076Z",
+  "updatedAt": "2026-07-01T21:19:35.032Z",
   "results": [
     {
       "token": "AGLD",
       "requestedInput": "AGLD",
       "name": "Adventure Gold",
-      "score": 10,
+      "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T21:03:25.129Z",
+      "generatedAt": "2026-07-01T21:19:17.646Z",
       "latestPath": "data/results/AGLD-latest.json"
+    },
+    {
+      "token": "CETUS",
+      "requestedInput": "CETUS",
+      "name": "Cetus Protocol",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T21:19:17.970Z",
+      "latestPath": "data/results/CETUS-latest.json"
     },
     {
       "token": "HIVE",
       "requestedInput": "HIVE",
       "name": "Hive",
-      "score": 10,
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T21:19:20.556Z",
+      "latestPath": "data/results/HIVE-latest.json"
+    },
+    {
+      "token": "GRIFFAIN",
+      "requestedInput": "GRIFFAIN",
+      "name": "GRIFFAIN",
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T21:03:24.306Z",
-      "latestPath": "data/results/HIVE-latest.json"
+      "generatedAt": "2026-07-01T21:19:19.805Z",
+      "latestPath": "data/results/GRIFFAIN-latest.json"
     },
     {
       "token": "",
@@ -28,7 +48,7 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T21:03:22.273Z",
+      "generatedAt": "2026-07-01T21:19:26.235Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -38,7 +58,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T21:03:24.274Z",
+      "generatedAt": "2026-07-01T21:19:29.263Z",
       "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
@@ -48,7 +68,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T21:03:31.064Z",
+      "generatedAt": "2026-07-01T21:19:30.481Z",
       "latestPath": "data/results/SPYX-latest.json"
     },
     {
@@ -58,7 +78,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T21:03:30.626Z",
+      "generatedAt": "2026-07-01T21:19:26.654Z",
       "latestPath": "data/results/HYPE-latest.json"
     },
     {
@@ -68,7 +88,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T21:03:30.396Z",
+      "generatedAt": "2026-07-01T21:19:32.174Z",
       "latestPath": "data/results/AVAVE-latest.json"
     },
     {
@@ -78,7 +98,7 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T21:03:32.074Z",
+      "generatedAt": "2026-07-01T21:19:35.029Z",
       "latestPath": "data/results/TOKABU-latest.json"
     },
     {
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T17:49:07.269Z",
       "latestPath": "data/results/RKLB-latest.json"
-    },
-    {
-      "token": "AMD",
-      "requestedInput": "AMD",
-      "name": "AMD (Robinhood Tokenized Stock)",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T17:49:07.495Z",
-      "latestPath": "data/results/AMD-latest.json"
-    },
-    {
-      "token": "CBRS",
-      "requestedInput": "CBRS",
-      "name": "Cerebras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T17:49:18.726Z",
-      "latestPath": "data/results/CBRS-latest.json"
     }
   ]
 }
