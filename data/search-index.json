@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-07-01T11:04:21.653Z",
+  "updatedAt": "2026-07-01T11:18:35.813Z",
   "results": [
+    {
+      "token": "KAS",
+      "requestedInput": "KAS",
+      "name": "Kaspa",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "观察",
+      "generatedAt": "2026-07-01T11:18:26.840Z",
+      "latestPath": "data/results/KAS-latest.json"
+    },
+    {
+      "token": "GOAT",
+      "requestedInput": "GOAT",
+      "name": "Goatseus Maximus",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:18:28.136Z",
+      "latestPath": "data/results/GOAT-latest.json"
+    },
+    {
+      "token": "NMR",
+      "requestedInput": "NMR",
+      "name": "Numeraire",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T11:18:27.003Z",
+      "latestPath": "data/results/NMR-latest.json"
+    },
+    {
+      "token": "PIEVERSE",
+      "requestedInput": "PIEVERSE",
+      "name": "Pieverse Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:18:27.178Z",
+      "latestPath": "data/results/PIEVERSE-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T11:18:34.030Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:18:35.509Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:18:35.811Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "SYN",
       "requestedInput": "SYN",
@@ -10,16 +80,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T11:04:13.905Z",
       "latestPath": "data/results/SYN-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T11:04:12.090Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "VRT",
@@ -32,16 +92,6 @@
       "latestPath": "data/results/VRT-latest.json"
     },
     {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T11:04:13.642Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
       "token": "DELL",
       "requestedInput": "DELL",
       "name": "DELL",
@@ -50,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T11:04:18.646Z",
       "latestPath": "data/results/DELL-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T11:04:21.650Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "AVAX",
@@ -960,46 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-07-01T04:34:01.396Z",
       "latestPath": "data/results/GLW-latest.json"
-    },
-    {
-      "token": "PANW",
-      "requestedInput": "PANW",
-      "name": "Palo Alto Networks Inc (Derivatives)",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:19:02.497Z",
-      "latestPath": "data/results/PANW-latest.json"
-    },
-    {
-      "token": "AXON",
-      "requestedInput": "AXON",
-      "name": "axon",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:19:02.473Z",
-      "latestPath": "data/results/AXON-latest.json"
-    },
-    {
-      "token": "PL",
-      "requestedInput": "PL",
-      "name": "Power Liquidity",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:19:01.367Z",
-      "latestPath": "data/results/PL-latest.json"
-    },
-    {
-      "token": "MEW",
-      "requestedInput": "MEW",
-      "name": "cat in a dogs world",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:04:07.201Z",
-      "latestPath": "data/results/MEW-latest.json"
     }
   ]
 }
