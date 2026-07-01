@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T06:04:23.475Z",
+  "updatedAt": "2026-07-01T06:19:08.915Z",
   "results": [
+    {
+      "token": "XAN",
+      "requestedInput": "XAN",
+      "name": "Anoma",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T06:19:02.118Z",
+      "latestPath": "data/results/XAN-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T06:19:00.213Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "BE",
+      "requestedInput": "BE",
+      "name": "Bloom Energy Corporation",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T06:19:03.979Z",
+      "latestPath": "data/results/BE-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T06:19:00.510Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "ARQQON",
+      "requestedInput": "ARQQ",
+      "name": "Arqit Quantum (Ondo Tokenized)",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T06:19:08.913Z",
+      "latestPath": "data/results/ARQQON-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T06:19:08.728Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "CHILLGUY",
       "requestedInput": "CHILLGUY",
@@ -30,16 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T06:04:12.280Z",
       "latestPath": "data/results/4-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T06:04:15.818Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "HOUSTON",
@@ -310,16 +360,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T04:49:06.950Z",
       "latestPath": "data/results/KGEN-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:49:06.947Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "CIEN",
@@ -772,16 +812,6 @@
       "latestPath": "data/results/EH-latest.json"
     },
     {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T23:18:15.238Z",
-      "latestPath": "data/results/TOKABU-latest.json"
-    },
-    {
       "token": "DYDX",
       "requestedInput": "DYDX",
       "name": "dYdX",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T20:34:14.413Z",
       "latestPath": "data/results/RTXSTOCK-latest.json"
-    },
-    {
-      "token": "RPL",
-      "requestedInput": "RPL",
-      "name": "Rocket Pool",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T20:21:14.484Z",
-      "latestPath": "data/results/RPL-latest.json"
-    },
-    {
-      "token": "BLESS",
-      "requestedInput": "BLESS",
-      "name": "Bless",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:21:14.380Z",
-      "latestPath": "data/results/BLESS-latest.json"
-    },
-    {
-      "token": "MET",
-      "requestedInput": "MET",
-      "name": "Meteora",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T20:21:15.278Z",
-      "latestPath": "data/results/MET-latest.json"
     }
   ]
 }
