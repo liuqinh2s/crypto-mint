@@ -1,6 +1,136 @@
 {
-  "updatedAt": "2026-07-01T21:34:26.162Z",
+  "updatedAt": "2026-07-01T21:49:30.868Z",
   "results": [
+    {
+      "token": "ACT",
+      "requestedInput": "ACT",
+      "name": "ACT",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:49:06.981Z",
+      "latestPath": "data/results/ACT-latest.json"
+    },
+    {
+      "token": "COOK",
+      "requestedInput": "COOKIE",
+      "name": "Cookie",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:49:02.932Z",
+      "latestPath": "data/results/COOK-latest.json"
+    },
+    {
+      "token": "WLFI",
+      "requestedInput": "WLFI",
+      "name": "World Liberty Financial",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T21:49:05.536Z",
+      "latestPath": "data/results/WLFI-latest.json"
+    },
+    {
+      "token": "Q",
+      "requestedInput": "Q",
+      "name": "Quack AI",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T21:49:04.279Z",
+      "latestPath": "data/results/Q-latest.json"
+    },
+    {
+      "token": "UAI",
+      "requestedInput": "UAI",
+      "name": "UnifAI Network",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:49:12.832Z",
+      "latestPath": "data/results/UAI-latest.json"
+    },
+    {
+      "token": "SPY",
+      "requestedInput": "SPY",
+      "name": "Smarty Pay",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:49:15.880Z",
+      "latestPath": "data/results/SPY-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:49:13.438Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "RKLB",
+      "requestedInput": "RKLB",
+      "name": "RKLB",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:49:18.795Z",
+      "latestPath": "data/results/RKLB-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:49:22.977Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "SPYX",
+      "requestedInput": "SP500",
+      "name": "SP500",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:49:22.871Z",
+      "latestPath": "data/results/SPYX-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:49:21.654Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "AVAVE",
+      "requestedInput": "AVAV",
+      "name": "AVAVE",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:49:26.754Z",
+      "latestPath": "data/results/AVAVE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T21:49:30.866Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "AXS",
       "requestedInput": "AXS",
@@ -42,16 +172,6 @@
       "latestPath": "data/results/TRUST-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:34:07.720Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "AMD",
       "requestedInput": "AMD",
       "name": "AMD (Robinhood Tokenized Stock)",
@@ -72,16 +192,6 @@
       "latestPath": "data/results/CBRS-latest.json"
     },
     {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:34:16.541Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
       "token": "ASTS",
       "requestedInput": "ASTS",
       "name": "AST SpaceMobile Inc (Derivatives)",
@@ -90,46 +200,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T21:34:14.975Z",
       "latestPath": "data/results/ASTS-latest.json"
-    },
-    {
-      "token": "SPYX",
-      "requestedInput": "SP500",
-      "name": "SP500",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:34:19.769Z",
-      "latestPath": "data/results/SPYX-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:34:21.653Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "AVAVE",
-      "requestedInput": "AVAV",
-      "name": "AVAVE",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:34:22.180Z",
-      "latestPath": "data/results/AVAVE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:34:26.160Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "AGLD",
@@ -930,76 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T18:03:41.714Z",
       "latestPath": "data/results/MEME-latest.json"
-    },
-    {
-      "token": "WIF",
-      "requestedInput": "WIF",
-      "name": "dogwifhat",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T18:03:41.640Z",
-      "latestPath": "data/results/WIF-latest.json"
-    },
-    {
-      "token": "CAKE",
-      "requestedInput": "CAKE",
-      "name": "CAKE",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T18:03:52.535Z",
-      "latestPath": "data/results/CAKE-latest.json"
-    },
-    {
-      "token": "G",
-      "requestedInput": "G",
-      "name": "Gravity (原Galxe)",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T18:03:51.031Z",
-      "latestPath": "data/results/G-latest.json"
-    },
-    {
-      "token": "KMNO",
-      "requestedInput": "KMNO",
-      "name": "Kamino",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T18:03:50.744Z",
-      "latestPath": "data/results/KMNO-latest.json"
-    },
-    {
-      "token": "SPX",
-      "requestedInput": "SPX",
-      "name": "SΡΧ6900 (Wormhole)ㅤ",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T18:03:49.174Z",
-      "latestPath": "data/results/SPX-latest.json"
-    },
-    {
-      "token": "SYRUP",
-      "requestedInput": "SYRUP",
-      "name": "Syrup Token",
-      "score": 65,
-      "label": "可以买但严控仓位",
-      "action": "小仓试错",
-      "generatedAt": "2026-07-01T18:03:59.548Z",
-      "latestPath": "data/results/SYRUP-latest.json"
-    },
-    {
-      "token": "TAC",
-      "requestedInput": "TAC",
-      "name": "TAC",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T18:03:59.561Z",
-      "latestPath": "data/results/TAC-latest.json"
     }
   ]
 }
