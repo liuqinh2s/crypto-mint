@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T13:18:48.061Z",
+  "updatedAt": "2026-07-01T13:34:21.547Z",
   "results": [
     {
       "token": "",
@@ -7,8 +7,8 @@
       "name": "龙虾",
       "score": 25,
       "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T13:18:47.964Z",
+      "action": "观察",
+      "generatedAt": "2026-07-01T13:34:20.065Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -18,8 +18,18 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T13:18:48.059Z",
+      "generatedAt": "2026-07-01T13:34:20.852Z",
       "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T13:34:21.545Z",
+      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "HYPE",
@@ -30,16 +40,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T13:18:46.427Z",
       "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T13:18:47.747Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "MORPHO",
