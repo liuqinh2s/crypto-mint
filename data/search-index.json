@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T03:04:19.918Z",
+  "updatedAt": "2026-07-01T03:18:53.978Z",
   "results": [
+    {
+      "token": "SYN",
+      "requestedInput": "SYN",
+      "name": "Synapse",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:18:51.212Z",
+      "latestPath": "data/results/SYN-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:18:47.147Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:18:50.124Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:18:47.128Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:18:53.976Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "BBSTOCK",
+      "requestedInput": "BBSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:18:50.851Z",
+      "latestPath": "data/results/BBSTOCK-latest.json"
+    },
     {
       "token": "AVAX",
       "requestedInput": "AVAX",
@@ -32,26 +92,6 @@
       "latestPath": "data/results/STBL-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T03:04:08.585Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T03:04:16.012Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
       "token": "HOUSTON",
       "requestedInput": "OUST",
       "name": "Houston",
@@ -60,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T03:04:19.917Z",
       "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T03:04:16.422Z",
-      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "ORDI",
@@ -90,16 +120,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T02:48:11.860Z",
       "latestPath": "data/results/KAS-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T02:48:17.892Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "WET",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T17:49:12.633Z",
       "latestPath": "data/results/VRT-latest.json"
-    },
-    {
-      "token": "DELL",
-      "requestedInput": "DELL",
-      "name": "DELL",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:49:16.136Z",
-      "latestPath": "data/results/DELL-latest.json"
-    },
-    {
-      "token": "SN105",
-      "requestedInput": "BEAM",
-      "name": "Beam",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T17:34:04.319Z",
-      "latestPath": "data/results/SN105-latest.json"
     }
   ]
 }
