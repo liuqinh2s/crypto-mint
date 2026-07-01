@@ -1,15 +1,65 @@
 {
-  "updatedAt": "2026-07-01T00:04:13.701Z",
+  "updatedAt": "2026-07-01T00:18:57.411Z",
   "results": [
     {
       "token": "AR",
       "requestedInput": "AR",
       "name": "Arweave",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:18:52.048Z",
+      "latestPath": "data/results/AR-latest.json"
+    },
+    {
+      "token": "RESOLV",
+      "requestedInput": "RESOLV",
+      "name": "Resolv",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:18:51.059Z",
+      "latestPath": "data/results/RESOLV-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T00:04:08.994Z",
-      "latestPath": "data/results/AR-latest.json"
+      "generatedAt": "2026-07-01T00:18:51.882Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:18:49.945Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:18:57.409Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:18:56.185Z",
+      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "TRUST",
@@ -22,26 +72,6 @@
       "latestPath": "data/results/TRUST-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:04:06.151Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:04:05.346Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
@@ -50,16 +80,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T00:04:13.699Z",
       "latestPath": "data/results/HOU-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:04:12.900Z",
-      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "TNSR",
@@ -80,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T23:48:31.119Z",
       "latestPath": "data/results/BAS-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T23:48:38.088Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "TQQQ",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T16:08:05.941Z",
       "latestPath": "data/results/PROM-latest.json"
-    },
-    {
-      "token": "UAI",
-      "requestedInput": "UAI",
-      "name": "UnifAI Network",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T16:08:07.551Z",
-      "latestPath": "data/results/UAI-latest.json"
     }
   ]
 }
