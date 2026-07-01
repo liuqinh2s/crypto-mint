@@ -1,14 +1,24 @@
 {
-  "updatedAt": "2026-07-01T03:34:06.860Z",
+  "updatedAt": "2026-07-01T03:48:22.858Z",
   "results": [
+    {
+      "token": "MEW",
+      "requestedInput": "MEW",
+      "name": "cat in a dogs world",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:48:16.283Z",
+      "latestPath": "data/results/MEW-latest.json"
+    },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
+      "score": 25,
+      "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-07-01T03:34:00.689Z",
+      "generatedAt": "2026-07-01T03:48:09.920Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -18,8 +28,48 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T03:34:01.492Z",
+      "generatedAt": "2026-07-01T03:48:12.113Z",
       "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "VRT",
+      "requestedInput": "VRT",
+      "name": "Vertiv Holdings Co (Derivatives)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:48:14.088Z",
+      "latestPath": "data/results/VRT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:48:22.855Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "DELL",
+      "requestedInput": "DELL",
+      "name": "DELL",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:48:20.040Z",
+      "latestPath": "data/results/DELL-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:48:20.937Z",
+      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "HOU",
@@ -40,16 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T03:34:02.138Z",
       "latestPath": "data/results/DELLON-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T03:34:06.858Z",
-      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "SYN",
@@ -100,16 +140,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T03:04:13.604Z",
       "latestPath": "data/results/STBL-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T03:04:19.917Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "ORDI",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T18:04:21.545Z",
       "latestPath": "data/results/AXON-latest.json"
-    },
-    {
-      "token": "PL",
-      "requestedInput": "PL",
-      "name": "Power Liquidity",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:04:18.635Z",
-      "latestPath": "data/results/PL-latest.json"
-    },
-    {
-      "token": "1000SATS",
-      "requestedInput": "1000SATS",
-      "name": "1000SATS (Ordinals)",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:49:04.645Z",
-      "latestPath": "data/results/1000SATS-latest.json"
-    },
-    {
-      "token": "BEAM",
-      "requestedInput": "BEAM",
-      "name": "Beam",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T17:49:05.490Z",
-      "latestPath": "data/results/BEAM-latest.json"
     }
   ]
 }
