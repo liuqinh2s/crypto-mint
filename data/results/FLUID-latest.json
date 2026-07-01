@@ -1,0 +1,257 @@
+{
+  "token": "FLUID",
+  "requestedInput": "FLUID",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T12:33:59.831Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "FLUID",
+    "name": "Fluid",
+    "generatedAt": "2026-07-01T12:33:51.256Z",
+    "summary": "FLUID 24小时涨幅约29%，市值约8700万美元，流动性约250万美元。近期催化来自Sui生态合作消息（Cumberland、Fluid、SwissBorg加入Hashi联盟，7月全球测试网）。但代币从历史高点24.4美元下跌超95%，30日跌幅20.8%，基本面疲软。DEX流动性一般，合约风险中等。建议观望。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "若价格跌破0.9美元或成交量萎缩，上涨逻辑失效"
+    },
+    "catalysts": [
+      "Sui生态合作：Cumberland、Fluid、SwissBorg加入Hashi机构联盟，7月全球测试网启动",
+      "24小时涨幅29%，短期资金关注"
+    ],
+    "latestNews": [
+      {
+        "title": "Sui news: Cumberland, Fluid, and SwissBorg join institutional coalition on Hashi ahead of July global testnet",
+        "impact": "利好",
+        "reason": "合作提升Fluid在Sui生态的曝光和采用预期"
+      }
+    ],
+    "fundamentals": [
+      "Fluid是Instadapp推出的DeFi平台，支持多链（以太坊、Solana、Polygon、Arbitrum、Base等）",
+      "总供应量1亿枚，流通约7869万枚，全稀释估值1.1亿美元",
+      "曾获Coinbase Ventures、Pantera Capital等投资",
+      "代币价格从ATH 24.4美元下跌95%，30日跌幅20.8%"
+    ],
+    "marketRead": [
+      "24小时涨幅29%，但成交量仅约13万美元（WETH对），流动性250万美元，深度一般",
+      "价格接近1.1美元，短期突破前高1.2美元可能面临抛压",
+      "30日趋势仍为下跌，反弹持续性存疑"
+    ],
+    "risks": [
+      "代币价格长期下跌趋势，ATH跌幅超95%",
+      "DEX流动性较低，大额交易易滑点",
+      "新闻催化时效性短，7月测试网后若无实质进展可能回落",
+      "合约风险：Uniswap V3池，需注意审计情况"
+    ],
+    "watchlist": [
+      "Sui Hashi测试网上线进展及合作细节",
+      "FLUID价格能否站稳1.2美元上方",
+      "成交量是否持续放大",
+      "代币解锁或供应变化"
+    ],
+    "sourceNotes": [
+      "数据来自CoinGecko和DexScreener，新闻仅一条近期利好，其余为旧闻",
+      "无链上持仓分布数据，无法评估大户行为"
+    ]
+  },
+  "profile": {
+    "id": "instadapp",
+    "symbol": "FLUID",
+    "name": "Fluid",
+    "categories": [
+      "Decentralized Finance (DeFi)",
+      "Solana Ecosystem",
+      "Polygon Ecosystem",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Base Ecosystem",
+      "Coinbase Ventures Portfolio",
+      "Pantera Capital Portfolio",
+      "Binance Alpha Spotlight",
+      "Plasma Ecosystem",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://fluid.io/",
+      "https://instadapp.io/"
+    ],
+    "description": "On Instadapp, users and developers manage and build their DeFi portfolio - the world's most advanced platform to start leveraging the full potential of Decentralized Finance.",
+    "marketCapRank": 288,
+    "currentPriceUsd": 1.096,
+    "marketCapUsd": 86944700,
+    "fullyDilutedValuationUsd": 110480328,
+    "totalVolumeUsd": 25057080,
+    "priceChange24hPct": 29.67821,
+    "priceChange7dPct": 18.47117,
+    "priceChange14dPct": -3.67813,
+    "priceChange30dPct": -20.79063,
+    "athUsd": 24.4,
+    "athChangePct": -95.54009,
+    "circulatingSupply": 78696996.82034639,
+    "totalSupply": 100000000,
+    "maxSupply": 100000000,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 11175,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "FLUID/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0xc1cd3D0913f4633b43FcdDBCd7342bC9b71C676f",
+    "pairUrl": "https://dexscreener.com/ethereum/0xc1cd3d0913f4633b43fcddbcd7342bc9b71c676f",
+    "lastPrice": 1.1,
+    "priceChange24hPct": 29.32,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 131311.61,
+    "liquidityUsd": 2505192.56,
+    "fullyDilutedValuationUsd": 110465619,
+    "marketCapUsd": 86933126,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0xc1cd3d0913f4633b43fcddbcd7342bc9b71c676f",
+    "pairAddress": "0xc1cd3D0913f4633b43FcdDBCd7342bC9b71C676f",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+      "name": "Fluid",
+      "symbol": "FLUID"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.0007037",
+    "priceUsd": "1.10",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h1": {
+        "buys": 24,
+        "sells": 8
+      },
+      "h6": {
+        "buys": 77,
+        "sells": 52
+      },
+      "h24": {
+        "buys": 137,
+        "sells": 81
+      }
+    },
+    "volume": {
+      "h24": 131311.61,
+      "h6": 79358.79,
+      "h1": 28692.15,
+      "m5": 3520.89
+    },
+    "priceChange": {
+      "m5": -0.91,
+      "h1": 8.43,
+      "h6": 20.76,
+      "h24": 29.32
+    },
+    "liquidity": {
+      "usd": 2505192.56,
+      "base": 2124772,
+      "quote": 100.687
+    },
+    "fdv": 110465619,
+    "marketCap": 86933126,
+    "pairCreatedAt": 1623880068000
+  },
+  "news": [
+    {
+      "title": "Sui news: Cumberland, Fluid, and SwissBorg join institutional coalition on Hashi ahead of July global testnet - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWEo1Ukt0Mm0ycTJfZzR3a0gzcGN0WjdIS0ppVXRmT241UFc2UDZNVG1ZNkJfNElUclZHMnZwNWlJdWdCdTVRNDR6RmhjVUhVaU9xbjY3TmtmRUMxOHlON3dqQTM4WnJXaWs2NjNweVVqVUFKcVg2b3R4cnQ5ZV9OeC1PUUtzX1FhcE95Tm51cG1aNU1EZFF5dnpRUF9lWVgtSXh1YzlWcGFIUi1ENGl1bXpBNzhBZ2M4bTBoak5BY21Ka2ZwREZyS0k4b1c4Z2M?oc=5",
+      "source": "Crypto Briefing",
+      "publishedAt": "Tue, 23 Jun 2026 13:02:33 GMT",
+      "snippet": "Sui news: Cumberland, Fluid, and SwissBorg join institutional coalition on Hashi ahead of July global testnet&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "FLUID price today, FLD to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UOE5zUUJtSldDZm1pSkdhR0dqMXp4TW9DR2RtaUdPV0dmc1NocllHVHNtTDRRTjJkWHhGQmdjaElwNElHM214YWF3?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 17 Feb 2026 20:51:28 GMT",
+      "snippet": "FLUID price today, FLD to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "What Is Fluid (FLUID)? The Ultimate DeFi Platform Guide for 2025 - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NblhZbHdqSXpiOFdLMXA1N0o0LXZSU3labGhucmZBcDNvYi1yb0JkcG9jSkhkMXdsNnp5QnZSSkdiS01SRlRhcTRZMDFqalQ5ajJsQ3RrTUdjX0E0NTI3ckFZOTRDTUdxMXJsZA?oc=5",
+      "source": "Phemex",
+      "publishedAt": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "snippet": "What Is Fluid (FLUID)? The Ultimate DeFi Platform Guide for 2025&nbsp;&nbsp;Phemex"
+    },
+    {
+      "title": "Fluid Price Today | FLUID to ZAR Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rRHhybmJiZzBWcW5VQVNqX05Tc0kzd2U5WE1yRUNUVTFUdVVJMXQ3bXlTZnc3OXp3WEhmUC1hRHVUNW9XWVB6b1U1ejRfU0t0TElVTW1xUG4?oc=5",
+      "source": "Binance",
+      "publishedAt": "Mon, 22 Jun 2026 01:09:00 GMT",
+      "snippet": "Fluid Price Today | FLUID to ZAR Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "How to Participate in Fluid Airdrop - OKX",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XYkpBbFRyalUzWjhiQ0pXMnFaejctOUw5UjJidm5uNG5fTkVpTzNwSnpaOWw1dGRwNU1pRjNnQ3cyNWx0NHlxZHRKMFduWmwwcVluTDkyX1E?oc=5",
+      "source": "OKX",
+      "publishedAt": "Wed, 12 Mar 2025 07:00:00 GMT",
+      "snippet": "How to Participate in Fluid Airdrop&nbsp;&nbsp;OKX"
+    },
+    {
+      "title": "Instadapp Proposes Rebrand and New Tokenomics Following Fluid Launch - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRW5VZ1RNNUE3c0ZfanFsNFhjX2pSYVZVaDFrSkxQYS1zbkt5QnZ2Z3Q5d05GTUd1N1p2U1B6QzdVODRNa2Y0QXY3UE5vd2lVdXpiU2hZS20yQ0JjWnlXLXFaaXNEaUI2aUlCWW5aRjR3LVY1T0JWTzRBb2JoR0xha0V2YWowV2huSG5QNDVxWk9FVmtZYVN1anBsYTE3b3lyeGc?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Wed, 04 Dec 2024 08:00:00 GMT",
+      "snippet": "Instadapp Proposes Rebrand and New Tokenomics Following Fluid Launch&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Fluid (FLUID): Utilizing Debt and Collateral as Liquidity - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5naUszRU1YLUNtbWpmczNmMi1QakViMjRQekMzbE1sa3RqdzN3Um5taUpzcThhbnJMR09pbnpxd01DYVJqLWlNUW5KLXNMNmFEQ2ZJbkllZ2hSYkE5aUNuY21B?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Sun, 29 Dec 2024 08:00:00 GMT",
+      "snippet": "Fluid (FLUID): Utilizing Debt and Collateral as Liquidity&nbsp;&nbsp;Bybit Learn"
+    },
+    {
+      "title": "Fluid Protocol Secures $3.9 Million Seed Funding to Launch USDF, the Native Stablecoin of Fuel Network - The Block",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMnJqVEZqa1Z3LTJzalBHeGhPcW9sUEpxdEhRV0hnMTFodV9vRzV5R1RYX2hTSGRjUHJjLTJCRmJaQnk4ZnRKaWVaOGJnalJDd2E2WWdkX2N5Rm1MTkwwLTdrbm44UGJVSnZ6eFdicjA3c3JhQlc4ekRVMl9RX18tbWVHaWxmREZvSm5uWnJtRmo3Ujl6TzlHM1RBM2dmQUZxS3VPUGhDc3pmM1VKOTZhaEJ1YnUtcXdwdmREcGo4SkRoeW1sNHhFVDBZb04wT2Y0TGc?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 23 Oct 2024 07:00:00 GMT",
+      "snippet": "Fluid Protocol Secures $3.9 Million Seed Funding to Launch USDF, the Native Stablecoin of Fuel Network&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Fluid price today, FLUID to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GZFNPZEhYYWRMV29OZzJOX3BZMG1oMVkybzNWbWwzOUxBRU52NDcxVW1EMVVxTDNLOW9FMUV4VS1yRkdJVGFORFB5d1o?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Mon, 25 Nov 2024 03:01:49 GMT",
+      "snippet": "Fluid price today, FLUID to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
