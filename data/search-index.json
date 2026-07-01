@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T09:18:18.556Z",
+  "updatedAt": "2026-07-01T09:34:15.591Z",
   "results": [
+    {
+      "token": "AAVE",
+      "requestedInput": "AAVE",
+      "name": "Aave",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T09:34:11.915Z",
+      "latestPath": "data/results/AAVE-latest.json"
+    },
+    {
+      "token": "LIT",
+      "requestedInput": "LIT",
+      "name": "Lighter",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T09:34:07.844Z",
+      "latestPath": "data/results/LIT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T09:34:05.884Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T09:34:05.675Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T09:34:12.271Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T09:34:15.589Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "TAIKO",
       "requestedInput": "TAIKO",
@@ -22,16 +82,6 @@
       "latestPath": "data/results/MAGMA-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T09:18:08.295Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "BASED",
       "requestedInput": "BASED",
       "name": "Based",
@@ -50,26 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T09:18:18.554Z",
       "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T09:18:14.200Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T09:18:15.800Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "JUP",
@@ -110,16 +140,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T08:53:59.824Z",
       "latestPath": "data/results/ZAMA-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T08:53:57.373Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "QNTSTOCK",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T02:34:03.516Z",
       "latestPath": "data/results/WET-latest.json"
-    },
-    {
-      "token": "ARC",
-      "requestedInput": "ARC",
-      "name": "ARC",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T02:18:43.408Z",
-      "latestPath": "data/results/ARC-latest.json"
-    },
-    {
-      "token": "XLM",
-      "requestedInput": "XLM",
-      "name": "Stellar",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-07-01T02:03:24.383Z",
-      "latestPath": "data/results/XLM-latest.json"
     }
   ]
 }
