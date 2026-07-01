@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-07-01T00:34:09.730Z",
+  "updatedAt": "2026-07-01T00:48:11.122Z",
   "results": [
+    {
+      "token": "TAIKO",
+      "requestedInput": "TAIKO",
+      "name": "Taiko Token",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:48:00.974Z",
+      "latestPath": "data/results/TAIKO-latest.json"
+    },
+    {
+      "token": "MAGMA",
+      "requestedInput": "MAGMA",
+      "name": "Magma Finance",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T00:48:03.547Z",
+      "latestPath": "data/results/MAGMA-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:47:57.989Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:47:59.617Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "ETN",
+      "requestedInput": "ETN",
+      "name": "Electroneum",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:48:08.564Z",
+      "latestPath": "data/results/ETN-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:48:11.120Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:48:06.789Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
     {
       "token": "BR",
       "requestedInput": "BR",
@@ -20,16 +90,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T00:34:06.722Z",
       "latestPath": "data/results/ZAMA-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:34:02.959Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "OMIKAMI",
@@ -62,26 +122,6 @@
       "latestPath": "data/results/QNTSTOCK-latest.json"
     },
     {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:34:09.525Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:22:54.029Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
       "token": "AR",
       "requestedInput": "AR",
       "name": "Arweave",
@@ -100,16 +140,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T00:18:51.059Z",
       "latestPath": "data/results/RESOLV-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:18:57.409Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "TRUST",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T16:34:15.761Z",
       "latestPath": "data/results/AAVE-latest.json"
-    },
-    {
-      "token": "GLM",
-      "requestedInput": "GLM",
-      "name": "Golem",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T16:34:12.189Z",
-      "latestPath": "data/results/GLM-latest.json"
-    },
-    {
-      "token": "ICNT",
-      "requestedInput": "ICNT",
-      "name": "Impossible Cloud Network Token",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T16:34:14.342Z",
-      "latestPath": "data/results/ICNT-latest.json"
-    },
-    {
-      "token": "PIEVERSE",
-      "requestedInput": "PIEVERSE",
-      "name": "Pieverse",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T16:34:13.938Z",
-      "latestPath": "data/results/PIEVERSE-latest.json"
     }
   ]
 }
