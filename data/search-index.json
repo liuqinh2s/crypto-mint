@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-07-01T11:18:35.813Z",
+  "updatedAt": "2026-07-01T11:34:30.607Z",
   "results": [
     {
       "token": "KAS",
       "requestedInput": "KAS",
       "name": "Kaspa",
-      "score": 55,
-      "label": "谨慎试仓",
+      "score": 45,
+      "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-07-01T11:18:26.840Z",
+      "generatedAt": "2026-07-01T11:34:23.951Z",
       "latestPath": "data/results/KAS-latest.json"
+    },
+    {
+      "token": "NMR",
+      "requestedInput": "NMR",
+      "name": "Numeraire",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T11:34:24.545Z",
+      "latestPath": "data/results/NMR-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:34:22.481Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:34:23.918Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:34:30.605Z",
+      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "GOAT",
@@ -22,16 +62,6 @@
       "latestPath": "data/results/GOAT-latest.json"
     },
     {
-      "token": "NMR",
-      "requestedInput": "NMR",
-      "name": "Numeraire",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T11:18:27.003Z",
-      "latestPath": "data/results/NMR-latest.json"
-    },
-    {
       "token": "PIEVERSE",
       "requestedInput": "PIEVERSE",
       "name": "Pieverse Token",
@@ -40,36 +70,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T11:18:27.178Z",
       "latestPath": "data/results/PIEVERSE-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T11:18:34.030Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T11:18:35.509Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T11:18:35.811Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "SYN",
