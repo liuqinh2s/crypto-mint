@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T08:33:32.555Z",
+  "updatedAt": "2026-07-01T08:48:23.645Z",
   "results": [
+    {
+      "token": "AR",
+      "requestedInput": "AR",
+      "name": "Arweave",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T08:48:21.302Z",
+      "latestPath": "data/results/AR-latest.json"
+    },
+    {
+      "token": "RESOLV",
+      "requestedInput": "RESOLV",
+      "name": "Resolv",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T08:48:15.659Z",
+      "latestPath": "data/results/RESOLV-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T08:48:13.567Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T08:48:12.019Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T08:48:18.336Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T08:48:23.643Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "TNSR",
       "requestedInput": "TNSR",
@@ -20,46 +80,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T08:33:24.913Z",
       "latestPath": "data/results/BAS-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T08:33:22.660Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T08:33:25.076Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T08:33:27.963Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T08:33:32.553Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "DYDX",
@@ -980,26 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T00:34:04.646Z",
       "latestPath": "data/results/BR-latest.json"
-    },
-    {
-      "token": "ZAMA",
-      "requestedInput": "ZAMA",
-      "name": "Zama",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T00:34:06.722Z",
-      "latestPath": "data/results/ZAMA-latest.json"
-    },
-    {
-      "token": "QNTSTOCK",
-      "requestedInput": "QNTSTOCK",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:34:07.978Z",
-      "latestPath": "data/results/QNTSTOCK-latest.json"
     }
   ]
 }
