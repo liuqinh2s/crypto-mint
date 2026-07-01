@@ -1,0 +1,321 @@
+{
+  "token": "VVV",
+  "requestedInput": "VVV",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T16:33:34.129Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "VVV",
+    "name": "VVV",
+    "generatedAt": "2026-07-01T16:33:26.094Z",
+    "summary": "VVV近期因Upbit上线、代币销毁42%总供应量等利好上涨，但当前价格$17.92，市值3.76亿美元，流动性充足。基本面有AI隐私叙事，但近期新闻显示价格波动大，存在下行风险。建议观望。",
+    "rating": {
+      "score": 45,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-2周",
+      "invalidation": "若跌破$12支撑位或出现重大负面消息（如团队抛售、监管打击），则逻辑失效。"
+    },
+    "catalysts": [
+      "Upbit上线交易对",
+      "42%总供应量销毁（约1亿美元未领取空投）",
+      "AI隐私赛道叙事",
+      "Binance Futures上线"
+    ],
+    "latestNews": [
+      {
+        "title": "Why Venice Token (VVV) Is Rallying While the Broader Crypto Market Falls - Yahoo Finance",
+        "impact": "利好",
+        "reason": "表明VVV有独立行情，可能受特定利好驱动。"
+      },
+      {
+        "title": "VVV Bears Should Be Worried After Upbit Listing as Venice Token Burn Hits 42% of Total Supply — Here’s Why - CCN.com",
+        "impact": "利好",
+        "reason": "Upbit上线和大量销毁减少流通供应，支撑价格。"
+      },
+      {
+        "title": "Venice Token (VVV) Down 14%: Causes and Market Impact - CoinMarketCap",
+        "impact": "利空",
+        "reason": "近期价格回调14%，显示抛压。"
+      },
+      {
+        "title": "Venice Token (VVV) price outlook: $12 in focus as bearish momentum intensifies - Invezz",
+        "impact": "利空",
+        "reason": "技术面看跌，可能测试$12支撑。"
+      },
+      {
+        "title": "Aerodrome: Two contributors suspended due to suspected insider trading in VVV token issuance - Bitget",
+        "impact": "利空",
+        "reason": "内幕交易丑闻损害项目声誉。"
+      }
+    ],
+    "fundamentals": [
+      "Venice Token是AI隐私项目，提供去中心化AI推理服务。",
+      "总供应量1亿枚，已销毁42%（约4200万枚），流通量约5800万枚。",
+      "上线Binance Futures、Upbit等主流交易所。",
+      "市值3.76亿美元，FDV相同，无解锁压力。",
+      "项目有实际用例，但竞争激烈。"
+    ],
+    "marketRead": [
+      "当前价格$17.92，24小时交易量仅13.7万美元，流动性3.76亿美元，交易量/流动性比极低，说明交投清淡。",
+      "无24小时价格变化数据，但近期新闻显示曾大幅波动。",
+      "市值较高，但交易量萎缩，可能缺乏持续买盘。"
+    ],
+    "risks": [
+      "交易量极低，可能存在流动性风险。",
+      "内幕交易丑闻影响市场信心。",
+      "技术面显示下行趋势，可能测试$12。",
+      "AI赛道竞争激烈，项目差异化不足。",
+      "新闻多为旧闻，缺乏近期催化。"
+    ],
+    "watchlist": [
+      "价格是否跌破$12支撑位。",
+      "是否有新的交易所上线或合作公告。",
+      "代币销毁或回购计划进展。",
+      "整体市场情绪和比特币走势。"
+    ],
+    "sourceNotes": [
+      "数据来源为DexScreener和Google News，部分新闻日期较早。",
+      "价格变化数据缺失，无法准确评估短期动量。",
+      "项目官网和团队信息未提供，需进一步核实。"
+    ]
+  },
+  "profile": {
+    "id": "VVVCRpVcgjnf5w1Rwa1AFmmuVqn8UoRgiVaedYemyEH",
+    "symbol": "VVV",
+    "name": "VVV",
+    "categories": [
+      "solana",
+      "raydium"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / raydium. Pair URL: https://dexscreener.com/solana/ewboqm5bmlgo3oskvt7qg6rbmheqxzh95tmvsexa5m3n",
+    "marketCapRank": null,
+    "currentPriceUsd": 17.92,
+    "marketCapUsd": 376522617,
+    "fullyDilutedValuationUsd": 376522617,
+    "totalVolumeUsd": 137027.14,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-05-11",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "EWBoQM5BMLGo3oskVt7qg6rBmHeQXZh95TmvsExA5M3n",
+    "baseTokenAddress": "VVVCRpVcgjnf5w1Rwa1AFmmuVqn8UoRgiVaedYemyEH",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": 376325298.1,
+    "pairUrl": "https://dexscreener.com/solana/ewboqm5bmlgo3oskvt7qg6rbmheqxzh95tmvsexa5m3n",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "VVV/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "EWBoQM5BMLGo3oskVt7qg6rBmHeQXZh95TmvsExA5M3n",
+    "pairUrl": "https://dexscreener.com/solana/ewboqm5bmlgo3oskvt7qg6rbmheqxzh95tmvsexa5m3n",
+    "lastPrice": 17.92,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 137027.14,
+    "liquidityUsd": 376325298.1,
+    "fullyDilutedValuationUsd": 376522617,
+    "marketCapUsd": 376522617,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/ewboqm5bmlgo3oskvt7qg6rbmheqxzh95tmvsexa5m3n",
+    "pairAddress": "EWBoQM5BMLGo3oskVt7qg6rBmHeQXZh95TmvsExA5M3n",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "VVVCRpVcgjnf5w1Rwa1AFmmuVqn8UoRgiVaedYemyEH",
+      "name": "VVV",
+      "symbol": "VVV"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "17.9296",
+    "priceUsd": "17.92",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 7,
+        "sells": 7
+      }
+    },
+    "volume": {
+      "h24": 137027.14,
+      "h6": 42389.88,
+      "h1": 25084.74,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 376325298.1,
+      "base": 20988992,
+      "quote": 43.4857
+    },
+    "fdv": 376522617,
+    "marketCap": 376522617,
+    "pairCreatedAt": 1778502879000
+  },
+  "news": [
+    {
+      "title": "Why Venice Token (VVV) Is Rallying While the Broader Crypto Market Falls - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVlB2cFlEQnJrb1RDQWI0M3RycWlGM0pFMVRWNVdvTUhZMHZPNS1PS2FDS0FCNnV4dXZaNTkyLVd1SmpMTEpxdVB4NXJZQVpKWVY5Q0VtZm1EMHhBY0MtSDZJTkFPMVJHMWozM2VidFBjYzg4SEpSdHJISG9zakJBdA?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
+      "snippet": "Why Venice Token (VVV) Is Rallying While the Broader Crypto Market Falls&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Venice Token (VVV) Price Prediction: Daily, Weekly 2026-2040 - CoinDCX",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aejJOSnNFUUhPVHNVZnFScVVLWkxacW84VlJGYVlfODFwTTdPcHFXRXUyaXE3TDRmcDBQTkwtMGJ2dDhSVGhhTnhSX2RCb1o4eDFmbS1jM1lBWmxESU91ZlZNOWJVQV9pWjlTVmRwaEhJOFRQcjJCdXJyM01IQQ?oc=5",
+      "source": "CoinDCX",
+      "publishedAt": "Mon, 22 Jun 2026 11:08:00 GMT",
+      "snippet": "Venice Token (VVV) Price Prediction: Daily, Weekly 2026-2040&nbsp;&nbsp;CoinDCX"
+    },
+    {
+      "title": "Venice Token Price Today | VVV to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wRlVhVF9QZVRGdGxUcnRPazdyRTlkTDNTN1VaeVByOWtCYTc5dTIwS2lsaGpqU3ZxaHlVYWgxNjlWaWd4ZGQydHBPd2kxdEtSQXo2VjdQLTVFMzZ4?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 27 Jun 2026 15:46:00 GMT",
+      "snippet": "Venice Token Price Today | VVV to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "VVV Bears Should Be Worried After Upbit Listing as Venice Token Burn Hits 42% of Total Supply — Here’s Why - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNczRqU1RmcDllc1J4cFVFMklQOWRLdGx3MWtHSU00V2M3R2lSQmV2QTkxeWNZdWk3Y1U4RGpJQ2w4clhJVklOeUltcmFlTE5ITDc1aC0wRnM4TTIxN0RrcGlQVVlNZ2Z4YWFydWU3NDdmVXNxaG54eXMzRGdMSkl2ZEIwQVpSYmxW?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
+      "snippet": "VVV Bears Should Be Worried After Upbit Listing as Venice Token Burn Hits 42% of Total Supply — Here’s Why&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Venice Token (VVV) Down 14%: Causes and Market Impact - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZRE1tSW93aDVzQzVVeVYtRnE3TVNTMDhEVXk1YmlNSTA4VzJPQy1KUFdsckU0cXdzUHQwN19BQWY3R0RhZXNDeDZUeGN2Z0tJSDlfNmVoMGpUcVlqT3NNdHQwWGY1NXl2SzZvR013djA?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "snippet": "Venice Token (VVV) Down 14%: Causes and Market Impact&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Venice Token (VVV) price outlook: $12 in focus as bearish momentum intensifies - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXgweGZYWklnZkRLRkRnVlRBdndMRHNZVFpNVkxYZW0wclpyR0Y1eEdackhtS3E4QTNNN211Sjh1Mk5vMGZ6cHdXeW5HMEJHQmh0ZHNBazZkYUxXTXhKbGcwc0loTGpWT09jd1BlbThNQVFYcElnYkNiTnFqaHNvMmstZFdPSnRDVzZwb0ExNHNlenFFNjVoM3Jrc3FubzdmV094dkNzc0p1cUY3MjlB?oc=5",
+      "source": "Invezz",
+      "publishedAt": "Thu, 25 Jun 2026 15:31:39 GMT",
+      "snippet": "Venice Token (VVV) price outlook: $12 in focus as bearish momentum intensifies&nbsp;&nbsp;Invezz"
+    },
+    {
+      "title": "Venice airdrop ends with $100 million in unclaimed VVV tokens burned - The Block",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUFPYVlfbEZXV3ZoUmplbEhDd3k1d2J2RzFENzh1clNTODlVekVCNTZQSC1BclVXOUpvazdFRXo3ODBFdUZjc25NLVctU19LTUFRd1JLY0pOZ1I5S3Z4dnlTaWV1bHVZblYtVlZ3RmRQSG9qZ1F2S3VJQWs3R3NONFQ1dGlJaTZETnI5WU55aG9rT2Rwd2ZNZEFrOUI1bjBU?oc=5",
+      "source": "The Block",
+      "publishedAt": "Wed, 12 Mar 2025 07:00:00 GMT",
+      "snippet": "Venice airdrop ends with $100 million in unclaimed VVV tokens burned&nbsp;&nbsp;The Block"
+    },
+    {
+      "title": "Claim and Stake Your Venice Tokens (VVV): A Complete Venice Airdrop Guide - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlExa3JPX25UUGNyTEFrV2FZLUtIdFo4LTN2VXlZMnctSVRwdUd0QnUwenN2cVZUTVNOWV9pQ1cxODEyS0pNSDVwOTh3ejBxc0RhdG4za1VlZVp2MjJpdGIzQk02VkZISzdoOVRrbnp3YXlXUkxqRnNrLVI4VnpHeDZLT1dXZFdQVlk3SUtrTWdOenQ1bU13Z05SNVpzZ0xmZk5PMkhBN19SOU50Q3hGTnNn?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 28 Jan 2025 13:17:02 GMT",
+      "snippet": "Claim and Stake Your Venice Tokens (VVV): A Complete Venice Airdrop Guide&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Binance Futures Announced! What is Venice Token (VVV)? What is it used for? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GV3dkZzhGYlBHRXJxS2JZdFJkYzZteGZPXzlIQjQya3FDMTM2aHdjX3lQQXFmSWYtYnN3RDJ0QW1kQ0U0bWlBNnRxTE5kX1JvLUd5a0hLc011NUp3Zjl1QU03cw?oc=5",
+      "source": "Binance",
+      "publishedAt": "Tue, 28 Jan 2025 08:00:00 GMT",
+      "snippet": "Binance Futures Announced! What is Venice Token (VVV)? What is it used for?&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Aerodrome: Two contributors suspended due to suspected insider trading in VVV token issuance - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBieVk1QWVuMllnbFlxd2h0QWxXbzM2RFpyN0dPTXg0X1JmWDdxbUItcUhkYUhqaXNENzFSdHhDNEJQT1F6aUpWQVVNN3owU0tFVG83LXl5aTZCdTk2cnc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 28 Jan 2025 08:00:00 GMT",
+      "snippet": "Aerodrome: Two contributors suspended due to suspected insider trading in VVV token issuance&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Will VVV resume its rally amid easing demand? Check forecast - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pODZlLVFLYUdvWWJjTzRRYVBHdVNkZ285Q2RyWDRUc2RRclJXMlFIbXdwYTVCRkpxdFpLbW1MNE5sMVRrckh3dXhtRlJ3UDRzdV8wcy1fbDVOV3RKdmfSAWNBVV95cUxNR3EzT2xVZGd5Rk9MYkpxdlRrNjVUWXN2UGkxVkxHaWhOUHBHOV9YY2FYYi1uSUkyYVFtSUxfY01ka3ZFTERhZGhCSmpGb2lnLVVUWG5QaXFGM1ItanFYTmNVdkU?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "snippet": "Will VVV resume its rally amid easing demand? Check forecast&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "VVV Sets to Continue Its 45.7% Market Rally as Breakout Shatters Descending Channel: Analyst - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpNDdvRF93VURONGFac0d3anh3TTN3NHBfUnNrQzNwelZSRms1MXJ5blE0VUgxS2ZKZDU3LUZ4bWxrWlFGb2tMVTdLVTVyeWJaZWl6bGNhZHdpX1cyRnfSAWNBVV95cUxQckdhTkltMU1PZzFxRkJvTjJZODVTVmxzSGdZWUY3aFF6V3VyekVxNVhDVmNJcWRlY0FkN0xIaHdsMnBQN0FfVnp5amRxd0Z5Q0huQUExZnRKNk1rMFBvNG9ydjg?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 14 Feb 2026 08:00:00 GMT",
+      "snippet": "VVV Sets to Continue Its 45.7% Market Rally as Breakout Shatters Descending Channel: Analyst&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Bitcoin recovers $77 while VVV and XDC soar. - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OOVF0Q3RFRk91d0FlQm9GWTBsN3NZMHlmOThOYWF0VElTLXBhTHpjcjlBOXZrN2w4VkRFVW5EQmtwek44ZDdZaEhteHRfT0JzY2lmVFJFcHJxeTFMb0HSAWNBVV95cUxPVE1mVDZhb3gzXzk1NUZYR0pnN3lrbkdvdzdmN0ZqY0dRTUgwOEJwOFlFX0JiaDZoQmdxSHlVVVJUN0t1Qnhjbm9mU3F4SnY0cDJRc0R6T01scWp3R2x2a1FzVnM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
+      "snippet": "Bitcoin recovers $77 while VVV and XDC soar.&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "RAI Faces Bearish Trend While VVV and MOCHI Show Potential for Future Gains in Altcoin Market - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EckRraUZmeTE1cmZxYzZHVUVWNU05LUdMRml5NGZjNGVPN3VSN0xCaExRajE4QjZQc2VWd0o1V3Y4M2dMeEVNdllUbk5XeFQ0eTdqMlFZeEdjZmdXckHSAWNBVV95cUxOMnpTMWozWXYwbFhVMXRIT1pYell3MUlJQmFWUi1ibWxIZlR3bXFzUDZCMzZZREVNcjNLbm5HWmVOQ3JFS0ZZaDgzdkI1cTdnNEw2NlltMzlZbEMzMTJhZ3lvYWM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 28 Jan 2025 08:00:00 GMT",
+      "snippet": "RAI Faces Bearish Trend While VVV and MOCHI Show Potential for Future Gains in Altcoin Market&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Why Venice Token (VVV) Is Rallying While the Broader Crypto Market Falls - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5OWxFekRWN1hGRDlwc0FiZ1dsSE9mSk56OXlQNktEYi1hQWN2aGtRMmFZQU9PMXZIUmg2MUhnRk9zeElPei1MS0l6Vk1HcGNXQjdkZ0RrNFoybTBzMXfSAWNBVV95cUxPMDdCQUsxMmI3NXVXdWgyOTZ0bFJza21CU0thY2pWb05CUE8wdjR1VWJlSUtzRlAzR3JjUUM5b2pCS1hjVnNJUFNmQTZPVWV0Mm02cy1JSlF5enllaHlESUgySm8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
+      "snippet": "Why Venice Token (VVV) Is Rallying While the Broader Crypto Market Falls&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/venice-token?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: {\"status\":{\"error_code\":429,\"error_message\":\"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits.\"}}"
+  ]
+}

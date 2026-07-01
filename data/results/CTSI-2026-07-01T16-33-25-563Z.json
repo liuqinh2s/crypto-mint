@@ -1,0 +1,275 @@
+{
+  "token": "CTSI",
+  "requestedInput": "CTSI",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T16:33:25.563Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "CTSI",
+    "name": "Cartesi",
+    "generatedAt": "2026-07-01T16:33:17.942Z",
+    "summary": "CTSI 24小时涨幅约8%，近期受“达到Stage 2安全状态”消息刺激曾单日涨超100%，但当前价格仍较ATH跌98.67%。DEX流动性极低（仅1404美元），交易量极小，价格易被操纵。基本面为模块化L2/L3基础设施，但市场关注度低，市值约2100万美元。短期追高风险极大，不建议买入。",
+    "rating": {
+      "score": 15,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性改善至百万美元级别且出现实质性生态进展"
+    },
+    "catalysts": [
+      "达到Stage 2安全状态（Optimistic Rollup成熟度里程碑）",
+      "Binance Launchpad背景及多个L2生态支持"
+    ],
+    "latestNews": [
+      {
+        "title": "Cartesi price jumps over 100% as it hits Stage 2 security status, can it go higher?",
+        "impact": "利好",
+        "reason": "技术里程碑提升信心，但涨幅已兑现，后续动力存疑"
+      },
+      {
+        "title": "Cartesi Price Prediction: CTSI Surges 65% — Can Bulls Break $0.045?",
+        "impact": "中性",
+        "reason": "预测类新闻，无实质新信息"
+      }
+    ],
+    "fundamentals": [
+      "Cartesi是模块化区块链基础设施，支持开发者用Linux工具构建应用链Rollup",
+      "已上线Ethereum、BNB Chain、Polygon、Arbitrum等多个生态",
+      "Binance Labs投资，曾通过Binance Launchpad发行",
+      "总供应量10亿，流通9.28亿，全流通市值约2363万美元",
+      "当前价格$0.0236，较ATH $1.74跌98.67%"
+    ],
+    "marketRead": [
+      "24小时涨幅8.39%，但DEX流动性仅1404美元，交易量94.68美元，深度极差",
+      "价格易受少数交易影响，不具备参考意义",
+      "CEX数据未提供，但DEX数据表明市场参与度极低"
+    ],
+    "risks": [
+      "DEX流动性极低，滑点巨大，无法大额交易",
+      "价格操纵风险高，少量资金即可大幅拉盘或砸盘",
+      "项目热度低，社交媒体关注度有限",
+      "解锁风险：总供应量仍有约7%未流通，可能面临抛压",
+      "技术叙事陈旧，缺乏近期实质性进展"
+    ],
+    "watchlist": [
+      "DEX流动性是否提升至10万美元以上",
+      "是否有新的生态合作或主网升级",
+      "CEX交易量是否回暖"
+    ],
+    "sourceNotes": [
+      "DEX数据来自Uniswap ETH pair，流动性极低，价格可能失真",
+      "新闻中提及的100%涨幅发生在4月3日，当前价格已回落",
+      "未提供CEX数据，分析基于DEX和公开信息"
+    ]
+  },
+  "profile": {
+    "id": "cartesi",
+    "symbol": "CTSI",
+    "name": "Cartesi",
+    "categories": [
+      "Infrastructure",
+      "Smart Contract Platform",
+      "BNB Chain Ecosystem",
+      "Avalanche Ecosystem",
+      "Polygon Ecosystem",
+      "Arbitrum Ecosystem",
+      "Ethereum Ecosystem",
+      "Optimism Ecosystem",
+      "Layer 2 (L2)",
+      "Base Ecosystem",
+      "Binance Launchpad",
+      "Modular Blockchain",
+      "Layer 3 (L3)",
+      "Rollup",
+      "Proof of Stake (PoS)",
+      "Appchains",
+      "YZi Labs (Prev. Binance Labs) Portfolio"
+    ],
+    "homepage": [
+      "https://cartesi.io/"
+    ],
+    "description": "About Cartesi (CTSI) Cartesi enables developers to build appchain rollups with any code, while benefiting from the security of Ethereum. It bridges the gap between traditional software and blockchain by bringing decades of mature operating systems, programming languages, libraries, and tools to decentralized applications. Cartesi aims to provide the technological foundation from which builders, entrepreneurs, and projects will develop decentralized applications. The Cartesi technology suite is currently comprised of: Cartesi Rollups: Cartesi Rollups is an app-specific execution environment that can be deployed as a L2, L3, or as sovereign rollups. The combination of an Optimistic Rollups framework and the Cartesi Machine Emulator enables the development of smart contracts and dApps using any package or library that is available for Linux. This allows developers to break free from the scalability limitations of the Ethereum Virtual Machine (EVM), and brings the rise of a new blockchain era to handle real-life and complex use cases. Cartesi Machine: A RISC-V-based virtual machine (altVM) running Linux OS, enabling complex computations and seamless dApp development by expanding the de",
+    "marketCapRank": 765,
+    "currentPriceUsd": 0.0236364,
+    "marketCapUsd": 21934112,
+    "fullyDilutedValuationUsd": 23631891,
+    "totalVolumeUsd": 2603039,
+    "priceChange24hPct": 8.39129,
+    "priceChange7dPct": 5.50514,
+    "priceChange14dPct": -4.66105,
+    "priceChange30dPct": -16.0166,
+    "athUsd": 1.74,
+    "athChangePct": -98.67109,
+    "circulatingSupply": 928157331.7900137,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 45791,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "CTSI/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x01949723055A451229c7bA3a817937C966748F76",
+    "pairUrl": "https://dexscreener.com/ethereum/0x01949723055a451229c7ba3a817937c966748f76",
+    "lastPrice": 0.02314,
+    "priceChange24hPct": 6.24,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 94.68,
+    "liquidityUsd": 1404.7,
+    "fullyDilutedValuationUsd": 23141504,
+    "marketCapUsd": 21475074,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x01949723055a451229c7ba3a817937c966748f76",
+    "pairAddress": "0x01949723055A451229c7bA3a817937C966748F76",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+      "name": "Cartesi Token",
+      "symbol": "CTSI"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.00001427",
+    "priceUsd": "0.02314",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 2,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 2,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 94.68,
+      "h6": 74.09,
+      "h1": 74.09,
+      "m5": 0
+    },
+    "priceChange": {
+      "h1": 6.24,
+      "h6": 6.24,
+      "h24": 6.24
+    },
+    "liquidity": {
+      "usd": 1404.7,
+      "base": 32187,
+      "quote": 0.407
+    },
+    "fdv": 23141504,
+    "marketCap": 21475074,
+    "pairCreatedAt": 1622189282000
+  },
+  "news": [
+    {
+      "title": "Cartesi Price Prediction: CTSI Surges 65% — Can Bulls Break $0.045? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0xBQkx2X0V0ZmpFUDZUY0V1YW5oUFNVYi1pVWxzbTN3ZnRsUTdWWUlsUEpQd2hjODdQMVV2Z2VJM3NYcDRWdGVxMlZoaENRSU1mMVhtdEtmTWhrM2NJbFFvNlRUMHBXaG8wOHFWQVZQbGdsNjhFZi1OcmU1Zmh3NW05eUJuSGp3VGFhLVBTWmJrY000N0ZueGtGSURJVHVn?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "snippet": "Cartesi Price Prediction: CTSI Surges 65% — Can Bulls Break $0.045?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Cartesi price jumps over 100% as it hits Stage 2 security status, can it go higher? - crypto.news",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3VPOTFOdU01S1BNemxVM0ZrYUZQYTVXX1c4THZhbmpYVXdodGtFWWpmMDBRYUFzN2ZqLXdDUzZvVkUzUlRTLWdheEx3LXRGMVFwRXdtcTUyRUNXdGh6enp4eUZZMGNYZE1LV1dlWHhZeUZzLVJNcDI4aUdxNjNkWGxma040T0RxblFhbkFwQkFnMV9sQWp2Z3VQYjkyUXcxc193?oc=5",
+      "source": "crypto.news",
+      "publishedAt": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "snippet": "Cartesi price jumps over 100% as it hits Stage 2 security status, can it go higher?&nbsp;&nbsp;crypto.news"
+    },
+    {
+      "title": "Cartesi (CTSI) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhQnNMaDVxdS1IeXhrVmhFckt3S3o3bGlSLXN1V002cEtUZjhwd2daYTF4QTJIeG9PcXlHVHYwOVF1QVJycEVDX1hDcVp3NUtScFJyV19XTldUSEM2aDhfcGVIdS1qMnE2dGc?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 15 Sep 2022 21:40:11 GMT",
+      "snippet": "Cartesi (CTSI) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Cartesi Price Prediction 2025: CTSI Could Be Gearing up for a Strong Recovery - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMXzE0UTNqcFRBeEFBWS1YRTdlQnJCOFFIcFJyS3MtWkEtcURoTHdxSXA1bjhlYVNtNmtENUVLaDNScW9BSzI3NkZaNi00YUxKcjNRWmg3cVNYYWlrQWhRYjhvdTJPZnZ1Y2JKSzU5RWFTMmhr?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Mon, 03 Mar 2025 08:00:00 GMT",
+      "snippet": "Cartesi Price Prediction 2025: CTSI Could Be Gearing up for a Strong Recovery&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Cartesi Price Today | CTSI to USD Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LaWhjNi1SN0JJVTZjQTdzSTd6VDg1MGRQdkF2NV9fdVMwYUxiN2wxdzhneHFHNUt5MWhCc0J4WjA1Zy0wWmh2SjhPRWd5SF9qX3c?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 30 Dec 2021 17:43:52 GMT",
+      "snippet": "Cartesi Price Today | CTSI to USD Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Cartesi Price Prediction 2025-2031: Is CTSI a Good Investment? - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wNVViTXQ0MWFsR2QxQUJTUzlYVmRJNFl2aVhRZUU5VFF1VjBDTGhPaHBGS2JDQWlXQi1yNGZSY2dya1dwUVU3M2ltSzBvdjFtVVhLZERPdGRrTEhFZGNsblJEdjhzUjVSV2tidjJDUQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 09 Jan 2025 08:00:00 GMT",
+      "snippet": "Cartesi Price Prediction 2025-2031: Is CTSI a Good Investment?&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "IEOs Are Not Dead: Binance Latest - Cartesi (CTSI) - Skyrockets 400% During Its First Hours Of Trading - CryptoPotato",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWGhuMjZNWHQ5cTZwOC1zdGRHQkJlZ3FONFZXeTBvNzYydkZrU1hEcFB1MUVLbkNpUFNFcG9qelIyWkxJdW05V04tSXgyRkdNbXcxRjZaYW44cjlSZUcyajY0TjgwOXM3QUZpVHZZYU55SEtXcXU4SGpObmRHOWpGcXJHQTJkUXlxTkhkNVZSYnlobFVoSmdrYk15c1lYNkxiU2dfMnJxak1jMDVna29Kem10ODgtSDhyakhBdA?oc=5",
+      "source": "CryptoPotato",
+      "publishedAt": "Wed, 24 Jun 2020 07:00:00 GMT",
+      "snippet": "IEOs Are Not Dead: Binance Latest - Cartesi (CTSI) - Skyrockets 400% During Its First Hours Of Trading&nbsp;&nbsp;CryptoPotato"
+    },
+    {
+      "title": "Cartesi Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RZ19Pd0lnRXhiVFBTR2dsUVROeEEwbW5OQjFyYnJvSC1ZdXlwYWo0ZnFaaldkX1hSZ2hJaXVIcnVYRksxYzZTQlF0aDhKMVFJQ0RLNUlBYlZzbFJIaXd6RFg3TEc?oc=5",
+      "source": "Binance",
+      "publishedAt": "Sat, 27 Jun 2026 12:46:00 GMT",
+      "snippet": "Cartesi Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecast&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Cartesi price jumps over 100% as it hits Stage 2 security status, can it go higher? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtRnBvZzRqVUJFcjVwYzlXMGlLcFQyQkljWEN0UHdkd0ljTGRXSHVsZFNOYWVEeVJlcTU2MzZRbTBEbFBLTll3S1RnRGh6U3htYkNpMWwwTkNIZFdLU3fSAWNBVV95cUxNM1I0MHYyMHA3bTZkNkdkWDhtX01KcGxRanNIZDhQOEJ0VGlwLU5NVkdiMkZ2b1ZJWVY5VnlvNklpZU0wd2JLMTc5NDROUDlVM2t6aktkLVZCZml5cjJpVWNydE0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "snippet": "Cartesi price jumps over 100% as it hits Stage 2 security status, can it go higher?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Cartesi price today, CTSI to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42X3hGbWJzcE5OOE5GNGIwdGpoV2lwTTd2T2pQYlZPZ2lyNUpsbjhlNFdCZXlVRnRNVDBGdXN1SmE0MlFBZk0xWWVxSWNSckE?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sat, 31 Dec 2022 15:52:39 GMT",
+      "snippet": "Cartesi price today, CTSI to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
