@@ -1,0 +1,269 @@
+{
+  "token": "SLP",
+  "requestedInput": "SLP",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T20:19:05.964Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SLP",
+    "name": "Smooth Love Potion",
+    "generatedAt": "2026-07-01T20:18:59.872Z",
+    "summary": "SLP 24小时涨幅28%，但缺乏明确利好催化，基本面疲软，供应无上限，建议观望。",
+    "rating": {
+      "score": 25,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若出现Axie Infinity重大更新或SLP通缩机制，可重新评估"
+    },
+    "catalysts": [
+      "Axie Infinity游戏更新或生态利好",
+      "SLP销毁或供应减少机制"
+    ],
+    "latestNews": [
+      {
+        "title": "Smooth Love Potion Price Today | SLP to ZAR Live Price, Market Cap & Chart - Binance",
+        "impact": "中性",
+        "reason": "常规价格跟踪，无新信息"
+      },
+      {
+        "title": "Smooth Love Potion Price Prediction | Is SLP Coin a Good Investment? - Capital.com",
+        "impact": "中性",
+        "reason": "预测类文章，无实质催化"
+      },
+      {
+        "title": "Smooth Love Potion Soars 70% in 24 Hours Behind Axie Infinity Update - thedefiant.io",
+        "impact": "利好",
+        "reason": "历史新闻，但无近期更新"
+      },
+      {
+        "title": "Axie Infinity Reduces SLP Emissions to Prevent 'Collapse' - CoinDesk",
+        "impact": "利好",
+        "reason": "历史新闻，减少排放曾推动价格"
+      }
+    ],
+    "fundamentals": [
+      "SLP是Axie Infinity游戏内繁殖代币，通过游戏赚取",
+      "总供应量无上限，通胀压力大",
+      "市值约2100万美元，排名841",
+      "价格较历史高点跌99.88%"
+    ],
+    "marketRead": [
+      "24小时涨幅28%，但成交量仅485万美元，流动性不足",
+      "DEX交易对SLP/WETH流动性约994万美元，但24小时交易量仅0.21美元，实际交易极低",
+      "价格波动可能由少量买单推动，不可持续"
+    ],
+    "risks": [
+      "无上限供应，持续通胀",
+      "游戏热度下降，玩家减少",
+      "DEX流动性低，易被操纵",
+      "缺乏近期利好催化"
+    ],
+    "watchlist": [
+      "Axie Infinity官方公告或更新",
+      "SLP供应量变化或销毁机制",
+      "链上大额买入或地址活动"
+    ],
+    "sourceNotes": [
+      "新闻多为2021-2022年旧闻，无近期实质利好",
+      "DEX交易量极低，价格发现不可靠"
+    ]
+  },
+  "profile": {
+    "id": "smooth-love-potion",
+    "symbol": "SLP",
+    "name": "Smooth Love Potion",
+    "categories": [
+      "Entertainment",
+      "Gaming (GameFi)",
+      "NFT",
+      "Axie Infinity Ecosystem",
+      "Play To Earn",
+      "Ethereum Ecosystem",
+      "Ronin Ecosystem",
+      "Gaming Utility Token"
+    ],
+    "homepage": [
+      "https://axieinfinity.com/"
+    ],
+    "description": "Smooth Love Potion (SLP) tokens can be earned as rewards by Axie Infinity players through battle or adventure mode. SLP are tokens that can be used to breed new digital pets, known as Axies. It was formally known as Small Love Potion before the token upgrade to the Ronin blockchain. The cost of breeding begins at 100 SLP but increases gradually — rising to 200 SLP for the second breed, 300 for the third, 500 for the fourth, 800 for the fifth, and 1,300 for the sixth. Axies can be bred a maximum of seven times, and the seventh breed costs 2,100 SLP. This limit exists in order to prevent hyperinflation in the marketplace. SLP paves the way to the concept of Play-to-earn which popularizes the Axie Infinity games among players who are looking to earn some money or participate in DeFi. It is especially popular in countries like Philippines.&nbsp;",
+    "marketCapRank": 841,
+    "currentPriceUsd": 0.00057942,
+    "marketCapUsd": 21002739,
+    "fullyDilutedValuationUsd": 21002739,
+    "totalVolumeUsd": 4853235,
+    "priceChange24hPct": 28.05948,
+    "priceChange7dPct": 27.58431,
+    "priceChange14dPct": 14.1181,
+    "priceChange30dPct": -10.26363,
+    "athUsd": 0.399727,
+    "athChangePct": -99.8785,
+    "circulatingSupply": 36294717649,
+    "totalSupply": 36294717649,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 0,
+    "watchlistUsers": 294905,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "SLP/WETH",
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "pairAddress": "0x2570D9a6b781DA6fEd1D995A36d1F5Bd585B4306",
+    "pairUrl": "https://dexscreener.com/ethereum/0x2570d9a6b781da6fed1d995a36d1f5bd585b4306",
+    "lastPrice": 0.0004972,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0.21,
+    "liquidityUsd": 9944419.75,
+    "fullyDilutedValuationUsd": 198888395,
+    "marketCapUsd": 198888395,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "ethereum",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/ethereum/0x2570d9a6b781da6fed1d995a36d1f5bd585b4306",
+    "pairAddress": "0x2570D9a6b781DA6fEd1D995A36d1F5Bd585B4306",
+    "labels": [
+      "v3"
+    ],
+    "baseToken": {
+      "address": "0xC5d7323dFcdA2c30A76C373Ae48AEd5B77754aB7",
+      "name": "Smooth Love Potion",
+      "symbol": "SLP"
+    },
+    "quoteToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceNative": "0.0000003079",
+    "priceUsd": "0.0004972",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "volume": {
+      "h24": 0.21,
+      "h6": 0.21,
+      "h1": 0.21,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 9944419.75,
+      "base": 19999998496,
+      "quote": 0.0004645
+    },
+    "fdv": 198888395,
+    "marketCap": 198888395,
+    "pairCreatedAt": 1777116935000
+  },
+  "news": [
+    {
+      "title": "Smooth Love Potion Price Today | SLP to ZAR Live Price, Market Cap & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11eXp6ZEhaaEJWblNVR044NW11VE5KZWE4YWRSbFdMQkEtY2dTRU92OGxWQ042N3BaOVZoNWR5RDJIRDhJd3ZRUTZFS3poWk5Eem5xR3VVeVp0a0Mzd21QdlVzV1o?oc=5",
+      "source": "Binance",
+      "publishedAt": "Thu, 25 Jun 2026 20:36:00 GMT",
+      "snippet": "Smooth Love Potion Price Today | SLP to ZAR Live Price, Market Cap & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Smooth Love Potion Price Prediction | Is SLP Coin a Good Investment? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOXy1YdktLUkJfRm1XQk9pVmJrVkdqR0NEM3ZBT3BMRGhTM0Q5ODdJa2toR2RUWEJLY21QWl9RakQ2cTVubkVQQk9mRU13RVRyWWxjVW1xTG03VmhWb3IxMlI2U0VCcUZZMHd6TGJGREhXNFdvTk9MeHJDbVljZTIwdXhmbU5BV28?oc=5",
+      "source": "Capital.com",
+      "publishedAt": "Thu, 08 May 2025 15:23:58 GMT",
+      "snippet": "Smooth Love Potion Price Prediction | Is SLP Coin a Good Investment?&nbsp;&nbsp;Capital.com"
+    },
+    {
+      "title": "Smooth Love Potion (SLP) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CeGdkcGpHRTVuMzJPbFV4bExuODY3a3lWZUZmQ0FyaTVJOU5COFAwX0tMb2VVWjJpQzVTcTU1VlQyaHVvbTAweDhRNk13SWUxeUZINVdRMXZSRldMYjJhYWFVcWtUOEFOeUxVbjJDbUoteWJ2VnZz?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Thu, 15 Sep 2022 21:16:35 GMT",
+      "snippet": "Smooth Love Potion (SLP) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Smooth Love Potion price today, SLP to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UWtDUFYzTG5aLVpJa0o3WmpNa1hUd0ppYW92Z3Zmb0FNQVlNdS1SdFR0UGVBTTVGZHBBLXA3ajlYZnNWdnc5WnA2NTBuU0NFQUttMFBJd0Z4M0tJeG92WmdwbkNPY2s?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 27 Jul 2021 19:31:52 GMT",
+      "snippet": "Smooth Love Potion price today, SLP to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Smooth Love Potion Price Today - SLP Live Chart & Real-Time Market Data - Changelly",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMR2ZLUnBwbXQ5cDlxaTUzZFZDOFlhRjdBWlkzZ3haU2g2T1NOeGJKbW9LSGpEeHBpdTdCallNbEFodktSZEE?oc=5",
+      "source": "Changelly",
+      "publishedAt": "Thu, 11 May 2023 12:17:28 GMT",
+      "snippet": "Smooth Love Potion Price Today - SLP Live Chart & Real-Time Market Data&nbsp;&nbsp;Changelly"
+    },
+    {
+      "title": "Smooth Love Potion Soars 70% in 24 Hours Behind Axie Infinity Update - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85dFZuOU5sWUw1VkR2QWxJcEd1YnBWSEY2bTUtWEg5a0V1cTBzQ2M3dTlkcEJVcUdNeGprY1NyVUhES2lPZFVfMURCaTNRLWh4WGpZV3R6Nlk2eDBveXlSd3VfRFF1bVdFU253?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Thu, 10 Feb 2022 08:00:00 GMT",
+      "snippet": "Smooth Love Potion Soars 70% in 24 Hours Behind Axie Infinity Update&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "What Is the Smooth Love Potion (SLP) Crypto and Where Can You Buy It? - InvestorPlace",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVM1OGtITnh6RHpiSVQzVE9Cak5tNjR5bW9ueEZTNUtPRUI2OGdyV3pSN1NuYmMtLXNFZTVFbC1LazVNZVlQTC1fZ3hDRTg0TE9OVDNVNHVVTDRxakNjdWFtMVE1dGphY1ZGM0syTmhGV01lWTRDR3hVUXI5TFg1TFdrQ0ktTGhWT21VMVpEcmlYMmE2Sy1LTDJaU2RPdUJVeXg4?oc=5",
+      "source": "InvestorPlace",
+      "publishedAt": "Fri, 17 Sep 2021 07:00:00 GMT",
+      "snippet": "What Is the Smooth Love Potion (SLP) Crypto and Where Can You Buy It?&nbsp;&nbsp;InvestorPlace"
+    },
+    {
+      "title": "Smooth Love Potion price today, SLP to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14b3dpSkVSR0pmZ2ZHa1haT2NuR1c4RDJJTmVVTXVEaVlxTUEyUE85MG8zREU3Qnl1OW9scDM5bkhuS0tQc3VrZE9BUWo3c1dMaEpkR3htQmZjU1lfU3c?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Sat, 04 Jun 2022 13:35:48 GMT",
+      "snippet": "Smooth Love Potion price today, SLP to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Some Filipino Merchants Prefer Payment in Axie’s SLP - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdkxJZkdVR19IaGZkWjlKb3BpdWNKQ0FqSHB1cEdtRG1oaGwtVUxwMG9rV19kQ2Q0M0RpOVhyLTBja0luTHZSZi1rOEpWMUhnV1JucXFXQ2tuaGdyYlJWS21WTlJYT2M3cVctbC1xS29hT0dYRXcyaFRrMUtGcGprWTlPUE5KQmIya0VlZVBQOHpwSEN3dm9BTTVTaw?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Wed, 25 Aug 2021 07:00:00 GMT",
+      "snippet": "Some Filipino Merchants Prefer Payment in Axie’s SLP&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Axie Infinity Reduces SLP Emissions to Prevent 'Collapse' - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT1ZpcTQyZDZYbmVnSEVaYkxLa1FYVUlEbmtrWEdTSW9iZ1RXakgwQUtiV3lJZjFNaXhTMGRpejdQN3lTY1A3QnpqTy1VSzlST1hGVm5fSEN4OC1SOE5Wb05YYU1LQjdSbkRQUUszaDFPWkQ5NmdBQnE3NUZZcUtYXzlXOEhlRldHUVAwMEhMX3hIZTlLRDRhejVhQV8?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 08 Feb 2022 08:00:00 GMT",
+      "snippet": "Axie Infinity Reduces SLP Emissions to Prevent 'Collapse'&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
