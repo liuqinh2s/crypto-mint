@@ -1,14 +1,24 @@
 {
-  "updatedAt": "2026-07-01T00:22:59.022Z",
+  "updatedAt": "2026-07-01T00:34:09.730Z",
   "results": [
+    {
+      "token": "BR",
+      "requestedInput": "BR",
+      "name": "Bedrock",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T00:34:04.646Z",
+      "latestPath": "data/results/BR-latest.json"
+    },
     {
       "token": "ZAMA",
       "requestedInput": "ZAMA",
       "name": "Zama",
-      "score": 45,
+      "score": 35,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-07-01T00:22:55.725Z",
+      "generatedAt": "2026-07-01T00:34:06.722Z",
       "latestPath": "data/results/ZAMA-latest.json"
     },
     {
@@ -17,9 +27,49 @@
       "name": "龙虾",
       "score": 25,
       "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T00:22:54.048Z",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:34:02.959Z",
       "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:34:04.430Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:34:09.728Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "QNTSTOCK",
+      "requestedInput": "QNTSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:34:07.978Z",
+      "latestPath": "data/results/QNTSTOCK-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T00:34:09.525Z",
+      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "AMT",
@@ -30,36 +80,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T00:22:54.029Z",
       "latestPath": "data/results/AMT-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:22:52.824Z",
-      "latestPath": "data/results/HOU-latest.json"
-    },
-    {
-      "token": "QNTSTOCK",
-      "requestedInput": "QNTSTOCK",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:22:56.393Z",
-      "latestPath": "data/results/QNTSTOCK-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:22:59.020Z",
-      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "AR",
@@ -280,16 +300,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T20:48:55.711Z",
       "latestPath": "data/results/WLFI-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T20:48:59.927Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "QBTS",
@@ -990,16 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T16:34:13.938Z",
       "latestPath": "data/results/PIEVERSE-latest.json"
-    },
-    {
-      "token": "BASED",
-      "requestedInput": "BASED",
-      "name": "BASED",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:34:21.697Z",
-      "latestPath": "data/results/BASED-latest.json"
     }
   ]
 }
