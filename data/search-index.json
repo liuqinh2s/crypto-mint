@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-07-01T14:19:21.015Z",
+  "updatedAt": "2026-07-01T14:34:07.265Z",
   "results": [
+    {
+      "token": "APE",
+      "requestedInput": "APE",
+      "name": "ApeCoin",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:33:58.313Z",
+      "latestPath": "data/results/APE-latest.json"
+    },
+    {
+      "token": "NAORIS",
+      "requestedInput": "NAORIS",
+      "name": "Naoris Protocol",
+      "score": 25,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:33:58.776Z",
+      "latestPath": "data/results/NAORIS-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:33:57.151Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:33:58.335Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "CRDO",
+      "requestedInput": "CRDO",
+      "name": "Credo Technology Group Holding Ltd Ordinary Shares",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:34:05.272Z",
+      "latestPath": "data/results/CRDO-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:34:07.260Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:34:04.353Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T14:34:06.125Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "TRB",
       "requestedInput": "TRB",
@@ -20,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T14:19:10.265Z",
       "latestPath": "data/results/PUMP-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T14:19:09.212Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "HOU",
@@ -52,16 +122,6 @@
       "latestPath": "data/results/EH-latest.json"
     },
     {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T14:19:15.136Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
       "token": "AVAV",
       "requestedInput": "AVAV",
       "name": "AeroVironment, Inc.",
@@ -80,16 +140,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T14:19:13.009Z",
       "latestPath": "data/results/SITM-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T14:19:21.013Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "PYTH",
@@ -170,16 +220,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-07-01T12:48:59.895Z",
       "latestPath": "data/results/DEXE-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T12:49:08.268Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "FLUID",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T05:48:50.269Z",
       "latestPath": "data/results/B2-latest.json"
-    },
-    {
-      "token": "USELESS",
-      "requestedInput": "USELESS",
-      "name": "Useless Coin",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:48:51.041Z",
-      "latestPath": "data/results/USELESS-latest.json"
-    },
-    {
-      "token": "ESP",
-      "requestedInput": "ESP",
-      "name": "Espresso",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-07-01T05:48:52.116Z",
-      "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "BRKB",
-      "requestedInput": "BRKB",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:48:52.718Z",
-      "latestPath": "data/results/BRKB-latest.json"
-    },
-    {
-      "token": "OSS",
-      "requestedInput": "OSS",
-      "name": "押燃",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T05:48:58.411Z",
-      "latestPath": "data/results/OSS-latest.json"
     }
   ]
 }
