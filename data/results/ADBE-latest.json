@@ -1,0 +1,234 @@
+{
+  "token": "ADBE",
+  "requestedInput": "ADBE",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T16:04:43.737Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "ADBE",
+    "name": "Adobe Inc (Derivatives)",
+    "generatedAt": "2026-07-01T16:04:35.099Z",
+    "summary": "ADBE是BSC链上PancakeSwap的衍生代币，流动性极低（0.3美元），24小时价格暴跌100%，成交量仅1.89万美元。无基本面支撑，疑似蜜罐或貔貅盘，风险极高。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "不适用",
+      "invalidation": "流动性恢复至安全水平且合约通过审计前，任何上涨均为诱多"
+    },
+    "catalysts": [
+      "无明确上涨催化，仅存在投机性拉盘可能"
+    ],
+    "latestNews": [
+      {
+        "title": "Adobe Inc (Derivatives) Price | ADBE Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+        "impact": "中性",
+        "reason": "仅为价格聚合页面，无实质信息"
+      },
+      {
+        "title": "Convert ADBE to JPY | ADBE/JPY Conversion Calculator - KuCoin",
+        "impact": "中性",
+        "reason": "KuCoin转换器页面，与代币本身无关"
+      },
+      {
+        "title": "Adobe Inc (Derivatives) price today, ADBE to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "CoinMarketCap行情页面，无新增信息"
+      },
+      {
+        "title": "Adobe Stock Price: ADBE Stock Chart, Market Cap & News Today - CoinGecko",
+        "impact": "中性",
+        "reason": "CoinGecko行情页面，无新增信息"
+      }
+    ],
+    "fundamentals": [
+      "代币名称为Adobe Inc (Derivatives)，但并非官方项目，仅为BSC链上衍生代币",
+      "创建于2026-06-30，仅1天历史",
+      "无官网、无白皮书、无团队信息",
+      "总供应量和流通量未知"
+    ],
+    "marketRead": [
+      "24小时价格跌幅100%，当前价格极低（1.74e-16美元）",
+      "流动性仅0.3美元，几乎无交易深度，大额卖出将导致价格归零",
+      "24小时成交量1.89万美元，但流动性极低，说明交易可能为机器人或内部操作"
+    ],
+    "risks": [
+      "流动性极低（0.3美元），存在无法卖出风险",
+      "合约未开源或未审计，可能存在后门或蜜罐功能",
+      "价格24小时暴跌100%，已接近归零",
+      "无任何基本面支撑，纯投机盘",
+      "BSC链上低流动性代币常见貔貅盘"
+    ],
+    "watchlist": [
+      "流动性是否增加至安全水平（至少1万美元以上）",
+      "合约是否开源并通过审计",
+      "是否有官方公告或社区活动"
+    ],
+    "sourceNotes": [
+      "数据来源仅为DexScreener，无其他可靠数据",
+      "新闻均为聚合页面，无实质内容",
+      "代币名称与Adobe Inc.股票代码相同，但无关联，注意混淆风险"
+    ]
+  },
+  "profile": {
+    "id": "0x0B891e541A1672987584D2db2851Fd094F61c0c1",
+    "symbol": "ADBE",
+    "name": "Adobe Inc (Derivatives)",
+    "categories": [
+      "bsc",
+      "pancakeswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on bsc / pancakeswap. Pair URL: https://dexscreener.com/bsc/0x6acdbe5434eb3773eb2b98ca522b6e68fa0bb3c0",
+    "marketCapRank": null,
+    "currentPriceUsd": 1.74e-16,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": 18905.49,
+    "priceChange24hPct": -100,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2026-06-30",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x6AcdBe5434Eb3773eB2B98cA522B6e68fA0bB3c0",
+    "baseTokenAddress": "0x0B891e541A1672987584D2db2851Fd094F61c0c1",
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "liquidityUsd": 0.3,
+    "pairUrl": "https://dexscreener.com/bsc/0x6acdbe5434eb3773eb2b98ca522b6e68fa0bb3c0",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "pancakeswap",
+    "pair": "ADBE/WBNB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x6AcdBe5434Eb3773eB2B98cA522B6e68fA0bB3c0",
+    "pairUrl": "https://dexscreener.com/bsc/0x6acdbe5434eb3773eb2b98ca522b6e68fa0bb3c0",
+    "lastPrice": 1.74e-16,
+    "priceChange24hPct": -100,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 18905.49,
+    "liquidityUsd": 0.3,
+    "fullyDilutedValuationUsd": null,
+    "marketCapUsd": null,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "url": "https://dexscreener.com/bsc/0x6acdbe5434eb3773eb2b98ca522b6e68fa0bb3c0",
+    "pairAddress": "0x6AcdBe5434Eb3773eB2B98cA522B6e68fA0bB3c0",
+    "labels": [
+      "v2"
+    ],
+    "baseToken": {
+      "address": "0x0B891e541A1672987584D2db2851Fd094F61c0c1",
+      "name": "Adobe Inc (Derivatives)",
+      "symbol": "ADBE"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceNative": "0.0000000000000000003187",
+    "priceUsd": "0.0000000000000001740",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 11,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 18905.49,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": -100
+    },
+    "liquidity": {
+      "usd": 0.3,
+      "base": 887087565672293,
+      "quote": 0.0002827
+    },
+    "pairCreatedAt": 1782844253000
+  },
+  "news": [
+    {
+      "title": "Adobe Inc (Derivatives) Price | ADBE Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHOGJoM3FvNk5hWERBWW5BcW5zSGlHY3kzbFNKdDFVamJRcnJEZFJ6dWhMM2pLeFgySUxwb2p4N25sM2Q0QmlPeDlUbFVHbHltRllZUGVydUw1YjZpVWc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "snippet": "Adobe Inc (Derivatives) Price | ADBE Price Today, Live Chart, USD converter, Market Capitalization&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Convert ADBE to JPY | ADBE/JPY Conversion Calculator - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LS1pkZ3E1MmRubXdZSEpCZ0tWYTB5RHZnbzdONjB6VktRa1JmcGtCQnBDRFdJMmZLT3RZNjFtbnVLX1RTRjFSN1M3LU5tdzBoRFdF?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Sat, 27 Jun 2026 18:21:48 GMT",
+      "snippet": "Convert ADBE to JPY | ADBE/JPY Conversion Calculator&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "Adobe Inc (Derivatives) price today, ADBE to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxendxdmhaOGduS2NMNEZ1OFd1NlRubFVMd1liQUJmMm9MR1kyV3phOWxiMWNMb3dGNms5OWVWR1FjM204bzZzQmVkazNwemFKU3dIZE1VbDFYcWFpemYxNmpCS280ZEdoSDlR?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Wed, 03 Jun 2026 10:09:23 GMT",
+      "snippet": "Adobe Inc (Derivatives) price today, ADBE to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Adobe Stock Price: ADBE Stock Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12ejY3cm9weEUtcHFFX1N3dkJ0X1N2dFl6VFhBbXJSYmxOSXhsekpRT255TWRhVlY1TUE4Y0VuVk9UcHFXN3BUQzE1R2hveU9fUG9V?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 04 Jun 2026 09:29:49 GMT",
+      "snippet": "Adobe Stock Price: ADBE Stock Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=ADBE: Throttled\n"
+  ]
+}

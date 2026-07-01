@@ -1,0 +1,178 @@
+{
+  "token": "TQQQ.D",
+  "requestedInput": "TQQQ",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T16:04:22.663Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "TQQQ.D",
+    "name": "Dinari TQQQ",
+    "generatedAt": "2026-07-01T16:04:13.428Z",
+    "summary": "TQQQ.D是Dinari发行的代币化TQQQ ETF，1:1锚定ProShares UltraPro QQQ，但当前在Solana上PumpSwap交易对流动性极低（0美元），24小时涨幅187%但成交量仅靠单边拉盘，无实际交易深度。基本面有RWA叙事，但链上代币供应极小（0.00008枚），市值虚高，风险极高。",
+    "rating": {
+      "score": 10,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性恢复至合理水平（如>10万美元）且价格与TQQQ净值挂钩时逻辑可能改变，但当前无任何支撑。"
+    },
+    "catalysts": [
+      "RWA代币化叙事热度",
+      "TQQQ本身杠杆ETF上涨可能带动代币投机"
+    ],
+    "latestNews": [],
+    "fundamentals": [
+      "代币代表1:1所有权对应ProShares UltraPro QQQ ETF份额",
+      "由Dinari发行，属于代币化资产/RWA赛道",
+      "总供应仅0.000080836枚，极低供应导致价格容易被操纵",
+      "市值约23万美元，但流动性为0，实际无法交易"
+    ],
+    "marketRead": [
+      "24小时涨幅187%，但成交量4千万美元与流动性0矛盾，疑似刷量或仅单边交易",
+      "无K线数据，无法判断趋势",
+      "PumpSwap为低流动性DEX，极易出现极端滑点和rug pull"
+    ],
+    "risks": [
+      "流动性为0，无法卖出或买入",
+      "价格完全脱离TQQQ净值，纯投机",
+      "极低供应量易被操纵",
+      "合约风险：未开源或审计未知",
+      "项目方Dinari虽有一定背景，但该代币在Solana上发行，与官方以太坊版本关系不明"
+    ],
+    "watchlist": [
+      "流动性是否增加",
+      "是否与官方Dinari TQQQ（以太坊）价格挂钩",
+      "TQQQ本身走势"
+    ],
+    "sourceNotes": [
+      "数据来自DexScreener，流动性显示为0，成交量异常，可能数据错误或刷量",
+      "无新闻或社区讨论，信息极度匮乏"
+    ]
+  },
+  "profile": {
+    "id": "dinari-tqqq",
+    "symbol": "TQQQ.D",
+    "name": "Dinari TQQQ",
+    "categories": [
+      "Tokenized Assets",
+      "Arbitrum Ecosystem",
+      "Tokenized Stock",
+      "Real World Assets (RWA)"
+    ],
+    "homepage": [
+      "https://www.dinari.com/",
+      "https://sbt.dinari.com/",
+      "https://partners.dinari.com/"
+    ],
+    "description": "The Dinari TQQQ dShares token (TQQQ.d) represents 1:1 ownership of shares in the ProShares UltraPro QQQ ETF (TQQQ), a leveraged fund designed to provide three times the daily performance of the Nasdaq-100 Index. Each TQQQ.d token is fully backed by a corresponding TQQQ ETF share held securely in a transparent and auditable treasury. By leveraging blockchain technology, TQQQ.d offers investors efficient access to leveraged exposure to the Nasdaq-100, enabling 24/7 trading, fractional ownership, instant settlement, and enhanced liquidity.",
+    "marketCapRank": null,
+    "currentPriceUsd": null,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": null,
+    "priceChange24hPct": null,
+    "priceChange7dPct": 0,
+    "priceChange14dPct": 0,
+    "priceChange30dPct": 0,
+    "athUsd": null,
+    "athChangePct": 0,
+    "circulatingSupply": 0.000080836,
+    "totalSupply": 0.000080836,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": 22,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "pumpswap",
+    "pair": "TQQQ/SOL",
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "pairAddress": "EYhLRnYmKTyGHWkoESmhSTmmhDjAugq2Wg2nB3DUQtQU",
+    "pairUrl": "https://dexscreener.com/solana/eyhlrnymktyghwkoesmhstmmhdjaugq2wg2nb3duqtqu",
+    "lastPrice": 0.000002329,
+    "priceChange24hPct": 187,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 40154046.01,
+    "liquidityUsd": 0,
+    "fullyDilutedValuationUsd": 232949,
+    "marketCapUsd": 232949,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/eyhlrnymktyghwkoesmhstmmhdjaugq2wg2nb3duqtqu",
+    "pairAddress": "EYhLRnYmKTyGHWkoESmhSTmmhDjAugq2Wg2nB3DUQtQU",
+    "baseToken": {
+      "address": "GGxTYraPVNv33X2SDpcsTacKckmy5jJCuTTmw5hHksT6",
+      "name": "TQQQUSDT",
+      "symbol": "TQQQ"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.00000003121",
+    "priceUsd": "0.000002329",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 172148,
+        "sells": 43061
+      }
+    },
+    "volume": {
+      "h24": 40154046.01,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h24": 187
+    },
+    "liquidity": {
+      "usd": 0,
+      "base": 0.06399,
+      "quote": 1e-9
+    },
+    "fdv": 232949,
+    "marketCap": 232949,
+    "pairCreatedAt": 1782856722000
+  },
+  "news": [],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "DexScreener returned TQQQ for TQQQ.D; DEX profile ignored to avoid token mix-up.",
+    "AI returned mismatched token TQQQD; forced back to TQQQ.D."
+  ]
+}

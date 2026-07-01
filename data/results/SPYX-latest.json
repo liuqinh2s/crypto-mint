@@ -1,0 +1,263 @@
+{
+  "token": "SPYX",
+  "requestedInput": "SP500",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T16:04:37.928Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SPYX",
+    "name": "SP500",
+    "generatedAt": "2026-07-01T16:04:28.387Z",
+    "summary": "SPYX是Base链上Uniswap的SP500代币化ETF代币，流动性极低，24小时交易量为0，价格下跌0.62%。新闻多为交易所上架或购买指南，无实质性利好。基本面薄弱，风险极高，不建议买入。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "流动性恢复且出现真实交易量、项目方公布可信路线图或审计报告"
+    },
+    "catalysts": [
+      "无明确上涨催化剂"
+    ],
+    "latestNews": [
+      {
+        "title": "SP500 Tokenized ETF price today, SPYX to USD chart, marketcap and volume - CryptoSlate",
+        "impact": "中性",
+        "reason": "仅为价格跟踪页面，无实质内容"
+      },
+      {
+        "title": "Daily xStock Insights: NVDAx, TSLAx, SPYx & QQQx — Rate‑Cut Expectations and 0DTE Opportunities - DataDrivenInvestor",
+        "impact": "中性",
+        "reason": "提及SPYx但为宏观分析，非代币本身利好"
+      },
+      {
+        "title": "How to Buy SP500 tokenized ETF (xStock) (SPYX) in Cayman Islands with Credit Card Online - Bitget",
+        "impact": "中性",
+        "reason": "购买指南，非实质性进展"
+      },
+      {
+        "title": "SP500 tokenized ETF (xStock) price today, SPYX to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "价格跟踪页面"
+      },
+      {
+        "title": "How to Buy S&P 500 Shares ETF (SPYX ) in Indonesia - Pintu",
+        "impact": "中性",
+        "reason": "购买指南"
+      },
+      {
+        "title": "SP500 xStock price today, SPYX to USD live price, marketcap and chart - CoinDesk",
+        "impact": "中性",
+        "reason": "价格跟踪页面"
+      },
+      {
+        "title": "SP500 tokenized ETF (xStock) Price Today | Live SPYX Price, Chart & Market Data - Binance",
+        "impact": "中性",
+        "reason": "Binance数据页面，但代币未在Binance交易"
+      }
+    ],
+    "fundamentals": [
+      "Base链上Uniswap代币，无官网或白皮书",
+      "代币名称为SP500，但无实际资产支撑",
+      "流动性为0，24小时交易量为0",
+      "创建于2025年8月24日，已存在近一年但无任何发展"
+    ],
+    "marketRead": [
+      "24小时价格下跌0.62%，但无交易量，价格可能为虚假报价",
+      "流动性为0，无法实际交易",
+      "无K线数据，市场深度为零"
+    ],
+    "risks": [
+      "流动性风险：流动性为0，无法买入或卖出",
+      "合约风险：未审计，可能存在后门或漏洞",
+      "欺诈风险：无实际资产支撑的代币化ETF，可能为骗局",
+      "市场风险：无交易量，价格容易被操纵"
+    ],
+    "watchlist": [
+      "流动性是否增加",
+      "是否有真实交易量出现",
+      "项目方是否发布官方信息或审计报告"
+    ],
+    "sourceNotes": [
+      "数据来源于DexScreener，流动性为0，交易量为0，价格变动无意义",
+      "新闻均为第三方聚合，无官方公告"
+    ]
+  },
+  "profile": {
+    "id": "0x576B5427e568e2aCD61a55D27Ec8C80E2f637672",
+    "symbol": "SPYX",
+    "name": "SP500",
+    "categories": [
+      "base",
+      "uniswap"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on base / uniswap. Pair URL: https://dexscreener.com/base/0x6f42df0ebcd56f659191b5447e4eba6470e145a90d7bb20bcf3745e29b87dc1b",
+    "marketCapRank": null,
+    "currentPriceUsd": null,
+    "marketCapUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "totalVolumeUsd": 0,
+    "priceChange24hPct": -0.62,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-08-24",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x6f42df0ebcd56f659191b5447e4eba6470e145a90d7bb20bcf3745e29b87dc1b",
+    "baseTokenAddress": "0x576B5427e568e2aCD61a55D27Ec8C80E2f637672",
+    "quoteToken": {
+      "address": "0xafC0F38c904ce055e42400213e5223Ac54d72B5b",
+      "name": "coinbasexstocks",
+      "symbol": "coinbasexstocks"
+    },
+    "liquidityUsd": null,
+    "pairUrl": "https://dexscreener.com/base/0x6f42df0ebcd56f659191b5447e4eba6470e145a90d7bb20bcf3745e29b87dc1b",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "uniswap",
+    "pair": "SPYx/coinbasexstocks",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x6f42df0ebcd56f659191b5447e4eba6470e145a90d7bb20bcf3745e29b87dc1b",
+    "pairUrl": "https://dexscreener.com/base/0x6f42df0ebcd56f659191b5447e4eba6470e145a90d7bb20bcf3745e29b87dc1b",
+    "lastPrice": null,
+    "priceChange24hPct": -0.62,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 0,
+    "liquidityUsd": null,
+    "fullyDilutedValuationUsd": null,
+    "marketCapUsd": null,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "base",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/base/0x6f42df0ebcd56f659191b5447e4eba6470e145a90d7bb20bcf3745e29b87dc1b",
+    "pairAddress": "0x6f42df0ebcd56f659191b5447e4eba6470e145a90d7bb20bcf3745e29b87dc1b",
+    "labels": [
+      "v4"
+    ],
+    "baseToken": {
+      "address": "0x576B5427e568e2aCD61a55D27Ec8C80E2f637672",
+      "name": "SP500",
+      "symbol": "SPYx"
+    },
+    "quoteToken": {
+      "address": "0xafC0F38c904ce055e42400213e5223Ac54d72B5b",
+      "name": "coinbasexstocks",
+      "symbol": "coinbasexstocks"
+    },
+    "priceNative": "0.01405",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 2
+      }
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {
+      "h6": -0.62,
+      "h24": -0.62
+    },
+    "pairCreatedAt": 1756066309000
+  },
+  "news": [
+    {
+      "title": "SP500 Tokenized ETF price today, SPYX to USD chart, marketcap and volume - CryptoSlate",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNeWtBUW1ITDhFUXR4RHpDeThSemhsQ1doanJQUlVDX1BBaWVuSDlCVk5KN0VEUzNEd0lvU3FqTV9FTVQ0Q0RRdnhmMnBEUklmSjZEejFJSDM0RjdwV2w4N0pKM2RXamhX?oc=5",
+      "source": "CryptoSlate",
+      "publishedAt": "Tue, 24 Mar 2026 17:06:24 GMT",
+      "snippet": "SP500 Tokenized ETF price today, SPYX to USD chart, marketcap and volume&nbsp;&nbsp;CryptoSlate"
+    },
+    {
+      "title": "Daily xStock Insights: NVDAx, TSLAx, SPYx & QQQx — Rate‑Cut Expectations and 0DTE Opportunities - DataDrivenInvestor",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZXFISDBpZEFNUEZaZHFHT0E2MUxEQU1aVjI2UXUyODJCeWUxSUFkWkU4TlZwckk4VHdaYnJqMnQ4c05hamlHa0g0dEdLQ3M4UjgyTkdQQTYxNXpxZ1VRZUh3b1ViVVUwMjhhV0g3WGxlZXg5RGM4Z3BXcjI2VUEwUVUySTBDNThNOUJDWW5YVmxudmU3dDRPYjZwXzM0WTZLT1dGZG1zMXZoUXY2Mmt3ZGJtVXNQc1RiUm5UTTQzcDhCM2MwOGpnQ09rSDU5OWMyQlJEaVl3?oc=5",
+      "source": "DataDrivenInvestor",
+      "publishedAt": "Thu, 11 Sep 2025 07:00:00 GMT",
+      "snippet": "Daily xStock Insights: NVDAx, TSLAx, SPYx & QQQx — Rate‑Cut Expectations and 0DTE Opportunities&nbsp;&nbsp;DataDrivenInvestor"
+    },
+    {
+      "title": "How to Buy SP500 tokenized ETF (xStock) (SPYX) in Cayman Islands with Credit Card Online - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzNzSzZad1YtdEJLNG1UVjk3VnV1cE9aRU1zMzZXV1Q1QmUtSUVHdG1Dc0owZ0VicVVveERRYmVDQTZUczhxVXoxYmljQzhNWTM5bGdxNTlISk1aMjEtSmpfYVl6U3ZIMXBRREk1cDY2TW9QT21ESVpGS0U5eFBoUlJUMHhhSzRr?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 14 Oct 2025 00:16:30 GMT",
+      "snippet": "How to Buy SP500 tokenized ETF (xStock) (SPYX) in Cayman Islands with Credit Card Online&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "SP500 tokenized ETF (xStock) price today, SPYX to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFRms4cU1SM1J2Q25WNEY5cDVWeFYxTkx3VmE1WXRNVkFHMTRfY29XMHptQ0NtcktwTHZzLWhMS2lsUGMwMG05SjVUYWhkNE1GeEJqRHVGMXFlMGNFSzYzbjN2OG0zRkJPazhlNHNfXzV2Mzl6?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 01 Jul 2025 13:29:17 GMT",
+      "snippet": "SP500 tokenized ETF (xStock) price today, SPYX to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "How to Buy S&P 500 Shares ETF (SPYX ) in Indonesia - Pintu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOajF2ZEhIQ1o3dXI1NndwU0NJRTZFeU1Da2VDaURpMF9ITVdmQUMzSk9NWno3WnI4a21ZeUdTSjV6UEhzaFpzU0RBSkV1aW9LdThRSUl5MFpYeDVDeDlsOXBucWoxcEM2WkJRWUpidDV0aVJqak13c3NObFRGNFlUczVHdklDYWpY0gGOAUFVX3lxTE9Ta2Y4VHNWZ1JBMmVKd0lNNGpKN2lmaTB2WUdYdHgxRmlsQnFGTUZhX3piMjBqaGctY3lHRUp3RXZNbGlvRjNyVkFWanRnR1VkWlZYQnBodUwxM21FbmZaVjRHZGlKa2dDREtWY2pmcGU5UUdYajdNYTNyaV9jbDFkelJTRUhzd1FLVFREaHc?oc=5",
+      "source": "Pintu",
+      "publishedAt": "Sat, 06 Dec 2025 08:00:00 GMT",
+      "snippet": "How to Buy S&P 500 Shares ETF (SPYX ) in Indonesia&nbsp;&nbsp;Pintu"
+    },
+    {
+      "title": "SP500 xStock price today, SPYX to USD live price, marketcap and chart - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxekxrRTF2VU1UbTdzVGxaaHhNU3ZFUmk2OGNLRk9DT3R6VGJjRWc0ejY0VTBpUUpCVVhNQkNob3BLd0E5aVlnZFVaRThaX0s2d3dQS3luMA?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 08 Jul 2025 18:21:46 GMT",
+      "snippet": "SP500 xStock price today, SPYX to USD live price, marketcap and chart&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "SP500 tokenized ETF (xStock) Price Today | Live SPYX Price, Chart & Market Data - Binance",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43RGZ6WTNMYXBxd1E1WkRheEctZk5WQTB5dnY1a2xSMllJeks0eTRCcVJQY0g2THZKbnBHalJIYzgxeE9fX2NoZnhNT0JOV2h4QlhTeVB1VHUyVXJOQUpYSkJVWkZpSUk1UjFQcGt3?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 02 Jul 2025 17:20:36 GMT",
+      "snippet": "SP500 tokenized ETF (xStock) Price Today | Live SPYX Price, Chart & Market Data&nbsp;&nbsp;Binance"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=SP500: Throttled\n"
+  ]
+}

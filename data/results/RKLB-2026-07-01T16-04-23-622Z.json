@@ -1,0 +1,236 @@
+{
+  "token": "RKLB",
+  "requestedInput": "RKLB",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T16:04:23.622Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "RKLB",
+    "name": "RKLB",
+    "generatedAt": "2026-07-01T16:04:13.427Z",
+    "summary": "RKLB是Solana链上meteoradbc DEX的一个极低流动性代币，市值仅6635美元，24小时成交量3.98美元。新闻标题多指向美股Rocket Lab（股票代码RKLB），与链上代币无关。代币无基本面、无社区热度、无交易量，极大概率是蹭名气的空气币。",
+    "rating": {
+      "score": 5,
+      "label": "强烈回避",
+      "confidence": "高"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "无逻辑可失效"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Rocket Lab acquires Iridium Communications for $8 billion",
+        "impact": "利好",
+        "reason": "该新闻涉及美股Rocket Lab，与链上RKLB代币无关，但可能误导投资者认为代币有实质利好。"
+      },
+      {
+        "title": "RKLB stock gains pre-market after record 21 rocket launches",
+        "impact": "利好",
+        "reason": "同样指向美股，非链上代币。"
+      }
+    ],
+    "fundamentals": [
+      "代币创建于2025-07-17，已存在约一年，但无任何项目资料、官网或社区。",
+      "市值仅6635美元，流动性为0（数据缺失），24小时成交量3.98美元。",
+      "代币名称与美股Rocket Lab（RKLB）相同，明显是蹭热度。"
+    ],
+    "marketRead": [
+      "价格0.000006635美元，无历史价格数据，无K线。",
+      "成交量极低，几乎无交易，流动性为0，无法正常买卖。"
+    ],
+    "risks": [
+      "流动性风险：流动性为0，无法卖出。",
+      "合约风险：未开源或未审计，可能存在后门。",
+      "欺诈风险：明显是蹭美股RKLB名称的空气币，无任何价值支撑。",
+      "市场风险：无交易量，价格可被极少量资金操纵。"
+    ],
+    "watchlist": [
+      "无，建议完全忽略。"
+    ],
+    "sourceNotes": [
+      "所有新闻均指向美股Rocket Lab，与链上RKLB代币无关。",
+      "DexScreener数据缺失流动性、24小时价格变化等关键指标。"
+    ]
+  },
+  "profile": {
+    "id": "Wh3RBgs1QpqfBMwTraMhY7ATXay5b9mpCMSDGjomoon",
+    "symbol": "RKLB",
+    "name": "RKLB",
+    "categories": [
+      "solana",
+      "meteoradbc"
+    ],
+    "homepage": [],
+    "description": "DexScreener pair on solana / meteoradbc. Pair URL: https://dexscreener.com/solana/9ge32e6wk493suuja9qd7gyugixxtyfpcjvsyztvipy",
+    "marketCapRank": null,
+    "currentPriceUsd": 0.000006635,
+    "marketCapUsd": 6635.59,
+    "fullyDilutedValuationUsd": 6635.59,
+    "totalVolumeUsd": 3.98,
+    "priceChange24hPct": null,
+    "priceChange7dPct": null,
+    "priceChange14dPct": null,
+    "priceChange30dPct": null,
+    "athUsd": null,
+    "athChangePct": null,
+    "circulatingSupply": null,
+    "totalSupply": null,
+    "maxSupply": null,
+    "sentimentVotesUpPct": null,
+    "watchlistUsers": null,
+    "genesisDate": "2025-07-17",
+    "chainId": "solana",
+    "dexId": "meteoradbc",
+    "pairAddress": "9gE32E6Wk493suUJa9QD7GYuGixxtyfPCjVSYztviPY",
+    "baseTokenAddress": "Wh3RBgs1QpqfBMwTraMhY7ATXay5b9mpCMSDGjomoon",
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "liquidityUsd": null,
+    "pairUrl": "https://dexscreener.com/solana/9ge32e6wk493suuja9qd7gyugixxtyfpcjvsyztvipy",
+    "source": "dexscreener"
+  },
+  "market": {
+    "exchange": "meteoradbc",
+    "pair": "RKLB/USDC",
+    "chainId": "solana",
+    "dexId": "meteoradbc",
+    "pairAddress": "9gE32E6Wk493suUJa9QD7GYuGixxtyfPCjVSYztviPY",
+    "pairUrl": "https://dexscreener.com/solana/9ge32e6wk493suuja9qd7gyugixxtyfpcjvsyztvipy",
+    "lastPrice": 0.000006635,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.98,
+    "liquidityUsd": null,
+    "fullyDilutedValuationUsd": 6635.59,
+    "marketCapUsd": 6635.59,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "meteoradbc",
+    "url": "https://dexscreener.com/solana/9ge32e6wk493suuja9qd7gyugixxtyfpcjvsyztvipy",
+    "pairAddress": "9gE32E6Wk493suUJa9QD7GYuGixxtyfPCjVSYztviPY",
+    "baseToken": {
+      "address": "Wh3RBgs1QpqfBMwTraMhY7ATXay5b9mpCMSDGjomoon",
+      "name": "RKLB",
+      "symbol": "RKLB"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.000006635",
+    "priceUsd": "0.000006635",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.98,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "fdv": 6635.59,
+    "marketCap": 6635.59,
+    "pairCreatedAt": 1752782190000
+  },
+  "news": [
+    {
+      "title": "Rocket Lab Stock Price: RKLB Stock Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GNkplU0NjRDkzMUl1X2RISjQwcWRTX2tkSE84ZjYtWHl1OTI5eXFFM0JoZXBBSnVrWTBUNkJOTk9Ra3F0R20xYzM3a0U4NUVqeU56WWhmUVktZw?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Thu, 04 Jun 2026 09:00:06 GMT",
+      "snippet": "Rocket Lab Stock Price: RKLB Stock Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "RKLB stock suffers a brutal reversal as a bullish pattern begins to take shape - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHcxaXI5OURmX3NYa0xmLW4tbUd5b1I4UHdHeS1pdUlaU2lWOU93RGh5YW1CNzFPcnQ0dUVLbVNfbTFZalF1S21HcGxhR3Fjai1uZ2s2OE9YbkJHdTUwUll5T1Y4RjE4ZmFvSzRhUTRrZXpDem9sTDVSSURUUUJFVlFmQUdndWxsVkVqTG5RVDM2VklLVFJjR0FpOS11S0JUNm1FNWRBQWtsR2NSNnJFNXRyNi1fU2s?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "snippet": "RKLB stock suffers a brutal reversal as a bullish pattern begins to take shape&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "RKLB Stock Gains Pre-Market After Company Caps 2025 With Record 21 Rocket Launches – Stifel Hikes Price Target - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUXU1YWVuYk5iLVo1QW92cGctUjdEbzRMQ1FEamRDMXhxdWUzNzlEckNCQUtfMlhBRjhwME1vRlZ3RmdULTFNLTFJblRxU2xXbzJMeDF2a053aERoaFlxVkRoZU4xSHZlXzdKUks5ZnFiOEV1blNDOXVoSGl2X2gzZkRXQ0pvc3RGS1h4VHhvQ19QTVJtdWg3LVNQdHV5N1NqcVlhdFNVMGtiUk9ubnFiRXpLMElSQ0dpMEg2OVpudFZfY1J5Vnc?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "snippet": "RKLB Stock Gains Pre-Market After Company Caps 2025 With Record 21 Rocket Launches – Stifel Hikes Price Target&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Rocket Lab Corp (Derivatives) Price Today | Live RKLB Price, Chart & Market Data - Binance",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pcHJibEFwQ1Q1amR4NjlWNGFUN2NXZXdXRlFNVWNoTmI3dGUtTTJJRkRhVEFKekMxWEZELUFVZ3o5X1Q5dGo3ZXVPeFdmcVUyR0dWbEtnQ0N0LTdFTk5iOWRmODREelNvcTlYLQ?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 06 May 2026 01:29:20 GMT",
+      "snippet": "Rocket Lab Corp (Derivatives) Price Today | Live RKLB Price, Chart & Market Data&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Did you miss RKLB's 1,700% run? These 2 stocks could be next - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTFk4RWJJLVFJSXJfOWFYUVFrY1pmSXNKN0RLZEJQMDhUY0lLRnlSRWFmNHZmQnBTUlhLXzJFZElnMkhwN2hONXktbEswU3hLcjFVSFg1eTI2cjBocU9vZmtibUZONXpaQkhLOVd0LXpJaXhCUEp1Um9iaVQwZ2VHMXlLMHF6aEZZN2J6TE5rMXUwc05VeUdaUFN3?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Thu, 07 May 2026 07:00:00 GMT",
+      "snippet": "Did you miss RKLB's 1,700% run? These 2 stocks could be next&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "Why Are Rocket Lab (RKLB) Shares Rising Premarket? SpaceX–xAI Merger - Tokenist",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlE2RkZjZERPby1lRVZTRzVqUWtsLTZ0SExIdGhISnhsVXZsckNGUWRQWncxT2JQWVJsTGNBU1dTUHczN0hvcUR0T3h1ZjAtc25TTVZMZ1lzdWNFSHdsbGI4ZlhjOWhReHFuUGNYMUNsbDRZZkhZcmRDc3ItUUMyTTBRbXMxTHpmN3ByTnhwaXI?oc=5",
+      "source": "Tokenist",
+      "publishedAt": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "snippet": "Why Are Rocket Lab (RKLB) Shares Rising Premarket? SpaceX–xAI Merger&nbsp;&nbsp;Tokenist"
+    },
+    {
+      "title": "RKLB Stock Has Gained Over 92% In A Month – Why Does Needham Believe There's Potential For More? - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLVQxNmc0NHpqWlBsa1FSRWVscWhINjVlMjY1aGw4TUlpdHNPTlRfemFnNmhSWDdhVnBnR1VJVHI3MVd3VmFQaGRzeGlDQmdnS0xVZ2dsS3IzYU54WWRXeGp1dWQ1elNFRmk5a2JfYlFvVFZwV3JueEtiNHpNNm8yRWNsRXU4RnJkUTdlSTdHd3dOeEo1TzFBVnVxckpDMmt5Xy1RRk1IRmFuQ29oZDZ4SE1KeS1WZ1BiV2JvYl90TTZEeXRtaEE?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "snippet": "RKLB Stock Has Gained Over 92% In A Month – Why Does Needham Believe There's Potential For More?&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Following in SpaceX’s footsteps! Rocket Lab (RKLB.US) acquires Iridium Communications (IRDM.US) for $8 billion to achieve vertical integration of the space industry chain - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WZFV5ZjlmTzEyenYyUWJ6YWh5NndDX2NnZWpObUhleGtGaFNPX3ZKT0J0N1p2ZjhBTHFWUV83RGZ4dkwxZFR6MFREbDg2OXFjTnBQS0ViMmpYQklDaEHSAWNBVV95cUxPSURvVHcxV3k4dkZsZ1NsUlB0SG5yVG1aZmNJRlQyeEhQSnA0WHRwYjBEQWgteG1RMEgxdXlXeHNjczdiTkhTbTlSNWR3eU90dW95OVdmN3JQOVhkcnE4Z3FSVU0?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 29 Jun 2026 04:31:38 GMT",
+      "snippet": "Following in SpaceX’s footsteps! Rocket Lab (RKLB.US) acquires Iridium Communications (IRDM.US) for $8 billion to achieve vertical integration of the space industry chain&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/coins/rocket-lab-corporation-robinhood-tokenized-stock?localization=false&tickers=false&market_data=true&community_data=true&developer_data=true&sparkline=false: Throttled\n"
+  ]
+}

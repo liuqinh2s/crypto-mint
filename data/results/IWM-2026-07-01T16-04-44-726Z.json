@@ -1,0 +1,125 @@
+{
+  "token": "IWM",
+  "requestedInput": "IWM",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T16:04:44.726Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "IWM",
+    "name": "iShares Russell 2000 ETF (Derivatives)",
+    "generatedAt": "2026-07-01T16:04:38.417Z",
+    "summary": "IWM是追踪罗素2000指数的ETF，并非加密货币。近期新闻提及该ETF的衍生品价格及2025年涨幅，但缺乏实时行情数据。由于数据不足且非加密资产，无法给出有效分析。",
+    "rating": {
+      "score": 0,
+      "label": "强烈回避",
+      "confidence": "低"
+    },
+    "recommendation": {
+      "action": "不买",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "不适用"
+    },
+    "catalysts": [],
+    "latestNews": [
+      {
+        "title": "Stock Market & Crypto Analysis 6/26/26 $SPY $QQQ $IWM $SMH - KuCoin",
+        "impact": "中性",
+        "reason": "仅为市场分析提及，无实质利好或利空"
+      },
+      {
+        "title": "iShares Russell 2000 ETF (Derivatives) price today, IWM to USD live price, marketcap and chart - CoinMarketCap",
+        "impact": "中性",
+        "reason": "价格展示，无催化作用"
+      },
+      {
+        "title": "Top gainers in the Russell 2000 Index and IWM ETF in 2025 revealed - CryptoRank",
+        "impact": "中性",
+        "reason": "回顾性内容，对当前无影响"
+      }
+    ],
+    "fundamentals": [
+      "IWM是传统金融ETF，非加密货币",
+      "追踪罗素2000小盘股指数",
+      "在CoinMarketCap上有衍生品代币报价，但非原生加密资产"
+    ],
+    "marketRead": [
+      "无法获取实时行情数据（Binance API返回451错误）",
+      "缺乏成交量、价格走势等关键信息"
+    ],
+    "risks": [
+      "非加密资产，不符合本分析框架",
+      "数据来源受限，无法评估",
+      "若为衍生品代币，可能存在流动性风险"
+    ],
+    "watchlist": [],
+    "sourceNotes": [
+      "Binance API因地区限制无法访问",
+      "新闻来源为KuCoin和CoinMarketCap，但内容为传统ETF分析",
+      "无法确认IWM在DEX或CEX上的真实交易情况"
+    ]
+  },
+  "profile": null,
+  "market": {
+    "exchange": "binance",
+    "pair": null,
+    "ticker": null,
+    "dailyCandles": [],
+    "attempts": [
+      {
+        "pair": "IWMUSDT",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IWMUSDT: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IWMFDUSD",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IWMFDUSD: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IWMUSDC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IWMUSDC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      },
+      {
+        "pair": "IWMBTC",
+        "error": "451  from https://api.binance.com/api/v3/ticker/24hr?symbol=IWMBTC: {\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error.\"\n}"
+      }
+    ]
+  },
+  "dexPair": null,
+  "news": [
+    {
+      "title": "Stock Market & Crypto Analysis 6/26/26 $SPY $QQQ $IWM $SMH - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oa3NDQnJZYmdTLWEyLTJQVkM1cF80WTBHMnhsNjBWaVZUT185b1B3YkVuT3F6SzhNdG5icDZqekdDRlh5ZFRGWFQ2emlCblVXMm4tQmVqOFJGOHZjZkVybzhWZkJaSmktRTVVbjluZlo?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "Fri, 26 Jun 2026 23:24:05 GMT",
+      "snippet": "Stock Market & Crypto Analysis 6/26/26 $SPY $QQQ $IWM $SMH&nbsp;&nbsp;KuCoin"
+    },
+    {
+      "title": "iShares Russell 2000 ETF (Derivatives) price today, IWM to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKZExzNmNxb080T0lPXzZCQlVoeEVHUDhBdER1OUF5aUZ1dEpBS1lEUnRvMzhZUUcwbWs3Wjc5T3RqM1VKdUdTREtwcFIwbGdiV0tEWFV6NkNLaXNmRWlSQ01iX2NJaUJuWFRmSmotZndDWE9XMmUwWC1YdlZYS00?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Fri, 30 Jan 2026 10:59:41 GMT",
+      "snippet": "iShares Russell 2000 ETF (Derivatives) price today, IWM to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Top gainers in the Russell 2000 Index and IWM ETF in 2025 revealed - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3JQVG1yc1ZpZW8yeG1MUmlfeW5ib2pFVXRXNGdLbFRDdjJFT3BkMWxtVVBBWkdZdFFuN2R5Z05RcU9KV3o5MjV2UElqWHAtY1pucURucXJzbS1Kb0djTzB2RWdCYnplNjRQb3dPRGxlV1p3TVBxcHppbVZSZC1pZVZoZjRpbnJ1UU5US1dwWThYQndHRkdjSEhROG9lY3hMdjBINlQ5WQ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Mon, 29 Dec 2025 08:00:00 GMT",
+      "snippet": "Top gainers in the Russell 2000 Index and IWM ETF in 2025 revealed&nbsp;&nbsp;CryptoRank"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": [
+    "CoinGecko: 429 Too Many Requests from https://api.coingecko.com/api/v3/search?query=IWM: Throttled\n"
+  ]
+}
