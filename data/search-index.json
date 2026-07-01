@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T01:03:30.180Z",
+  "updatedAt": "2026-07-01T01:18:19.431Z",
   "results": [
+    {
+      "token": "AAVE",
+      "requestedInput": "AAVE",
+      "name": "Aave",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "观察",
+      "generatedAt": "2026-07-01T01:18:12.653Z",
+      "latestPath": "data/results/AAVE-latest.json"
+    },
+    {
+      "token": "LIT",
+      "requestedInput": "LIT",
+      "name": "Lighter",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T01:18:13.303Z",
+      "latestPath": "data/results/LIT-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T01:18:10.178Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T01:18:11.594Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T01:18:19.429Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T01:18:16.637Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
     {
       "token": "PIEVERSE",
       "requestedInput": "PIEVERSE",
@@ -10,16 +70,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T01:03:24.217Z",
       "latestPath": "data/results/PIEVERSE-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T01:03:22.814Z",
-      "latestPath": "data/results/-latest.json"
     },
     {
       "token": "BASED",
@@ -42,26 +92,6 @@
       "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T01:03:29.641Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T01:03:30.178Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
       "token": "TAIKO",
       "requestedInput": "TAIKO",
       "name": "Taiko Token",
@@ -80,16 +110,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-07-01T00:48:03.547Z",
       "latestPath": "data/results/MAGMA-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:47:59.617Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "ETN",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T16:48:56.938Z",
       "latestPath": "data/results/ARC-latest.json"
-    },
-    {
-      "token": "PUMP",
-      "requestedInput": "PUMP",
-      "name": "Pump",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:49:01.644Z",
-      "latestPath": "data/results/PUMP-latest.json"
-    },
-    {
-      "token": "IN",
-      "requestedInput": "IN",
-      "name": "INFINIT",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T16:48:55.117Z",
-      "latestPath": "data/results/IN-latest.json"
     }
   ]
 }
