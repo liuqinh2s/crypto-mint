@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-01T08:48:23.645Z",
+  "updatedAt": "2026-07-01T08:54:04.170Z",
   "results": [
+    {
+      "token": "ZAMA",
+      "requestedInput": "ZAMA",
+      "name": "Zama",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T08:53:59.824Z",
+      "latestPath": "data/results/ZAMA-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T08:53:58.297Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T08:53:57.373Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "QNTSTOCK",
+      "requestedInput": "QNTSTOCK",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T08:53:55.078Z",
+      "latestPath": "data/results/QNTSTOCK-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T08:54:00.267Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T08:54:04.168Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "AR",
       "requestedInput": "AR",
@@ -22,16 +82,6 @@
       "latestPath": "data/results/RESOLV-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T08:48:13.567Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "HOUSTON",
       "requestedInput": "OUST",
       "name": "Houston",
@@ -40,26 +90,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T08:48:12.019Z",
       "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T08:48:18.336Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T08:48:23.643Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "TNSR",
@@ -110,16 +140,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T08:18:10.956Z",
       "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T08:04:05.676Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "MEME",
@@ -980,26 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-07-01T00:48:03.547Z",
       "latestPath": "data/results/MAGMA-latest.json"
-    },
-    {
-      "token": "ETN",
-      "requestedInput": "ETN",
-      "name": "Electroneum",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T00:48:08.564Z",
-      "latestPath": "data/results/ETN-latest.json"
-    },
-    {
-      "token": "BR",
-      "requestedInput": "BR",
-      "name": "Bedrock",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T00:34:04.646Z",
-      "latestPath": "data/results/BR-latest.json"
     }
   ]
 }
