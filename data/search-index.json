@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-07-01T09:34:15.591Z",
+  "updatedAt": "2026-07-01T09:48:58.996Z",
   "results": [
+    {
+      "token": "XLM",
+      "requestedInput": "XLM",
+      "name": "Stellar",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T09:48:53.186Z",
+      "latestPath": "data/results/XLM-latest.json"
+    },
+    {
+      "token": "ARC",
+      "requestedInput": "ARC",
+      "name": "Arc",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T09:48:53.164Z",
+      "latestPath": "data/results/ARC-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T09:48:52.017Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T09:48:51.577Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T09:48:58.994Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "AAVE",
       "requestedInput": "AAVE",
@@ -22,26 +72,6 @@
       "latestPath": "data/results/LIT-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T09:34:05.884Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T09:34:05.675Z",
-      "latestPath": "data/results/HOU-latest.json"
-    },
-    {
       "token": "HYPE",
       "requestedInput": "DFEN",
       "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
@@ -50,16 +80,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T09:34:12.271Z",
       "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T09:34:15.589Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "TAIKO",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T02:48:15.287Z",
       "latestPath": "data/results/ORDI-latest.json"
-    },
-    {
-      "token": "KAS",
-      "requestedInput": "KAS",
-      "name": "Kaspa",
-      "score": 45,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T02:48:11.860Z",
-      "latestPath": "data/results/KAS-latest.json"
-    },
-    {
-      "token": "WET",
-      "requestedInput": "WET",
-      "name": "HumidiFi",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T02:34:03.516Z",
-      "latestPath": "data/results/WET-latest.json"
     }
   ]
 }
