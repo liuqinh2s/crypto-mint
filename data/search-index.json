@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-07-01T02:48:18.399Z",
+  "updatedAt": "2026-07-01T03:04:19.918Z",
   "results": [
+    {
+      "token": "AVAX",
+      "requestedInput": "AVAX",
+      "name": "Avalanche (Wormhole)",
+      "score": 20,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:04:10.902Z",
+      "latestPath": "data/results/AVAX-latest.json"
+    },
+    {
+      "token": "JTO",
+      "requestedInput": "JTO",
+      "name": "Jito",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T03:04:11.403Z",
+      "latestPath": "data/results/JTO-latest.json"
+    },
+    {
+      "token": "STBL",
+      "requestedInput": "STBL",
+      "name": "STBL",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T03:04:13.604Z",
+      "latestPath": "data/results/STBL-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:04:08.585Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:04:16.012Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:04:19.917Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T03:04:16.422Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
     {
       "token": "ORDI",
       "requestedInput": "ORDI",
@@ -22,26 +92,6 @@
       "latestPath": "data/results/KAS-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T02:48:10.481Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T02:48:11.197Z",
-      "latestPath": "data/results/AMT-latest.json"
-    },
-    {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
@@ -52,16 +102,6 @@
       "latestPath": "data/results/HOU-latest.json"
     },
     {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T02:48:18.397Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
       "token": "WET",
       "requestedInput": "WET",
       "name": "HumidiFi",
@@ -70,16 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T02:34:03.516Z",
       "latestPath": "data/results/WET-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T02:34:03.941Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "ARC",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T17:34:04.319Z",
       "latestPath": "data/results/SN105-latest.json"
-    },
-    {
-      "token": "MORPHO",
-      "requestedInput": "MORPHO",
-      "name": "Morpho",
-      "score": 45,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-06-30T17:34:07.742Z",
-      "latestPath": "data/results/MORPHO-latest.json"
-    },
-    {
-      "token": "BBSTOCK",
-      "requestedInput": "BBSTOCK",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T17:34:09.205Z",
-      "latestPath": "data/results/BBSTOCK-latest.json"
-    },
-    {
-      "token": "SYN",
-      "requestedInput": "SYN",
-      "name": "Synapse",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T17:18:55.775Z",
-      "latestPath": "data/results/SYN-latest.json"
     }
   ]
 }
