@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-07-01T04:49:14.375Z",
+  "updatedAt": "2026-07-01T05:03:58.654Z",
   "results": [
+    {
+      "token": "PYTH",
+      "requestedInput": "PYTH",
+      "name": "Pyth Network",
+      "score": 45,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T05:03:43.163Z",
+      "latestPath": "data/results/PYTH-latest.json"
+    },
+    {
+      "token": "1000SATS",
+      "requestedInput": "1000SATS",
+      "name": "1000SATS (Ordinals)",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:03:45.686Z",
+      "latestPath": "data/results/1000SATS-latest.json"
+    },
+    {
+      "token": "BEAM",
+      "requestedInput": "BEAM",
+      "name": "Beam",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T05:03:44.192Z",
+      "latestPath": "data/results/BEAM-latest.json"
+    },
+    {
+      "token": "ACT",
+      "requestedInput": "ACT",
+      "name": "Act I The AI Prophecy",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:03:43.825Z",
+      "latestPath": "data/results/ACT-latest.json"
+    },
+    {
+      "token": "MORPHO",
+      "requestedInput": "MORPHO",
+      "name": "MORPHO",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:03:53.701Z",
+      "latestPath": "data/results/MORPHO-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:03:52.347Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:03:52.439Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:03:54.965Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T05:03:58.652Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
     {
       "token": "SN105",
       "requestedInput": "BEAM",
@@ -52,16 +142,6 @@
       "latestPath": "data/results/KGEN-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T04:49:06.405Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "AMT",
       "requestedInput": "AMAT",
       "name": "Amateras",
@@ -80,16 +160,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T04:49:06.947Z",
       "latestPath": "data/results/HOU-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:49:12.252Z",
-      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "CIEN",
@@ -160,26 +230,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T04:33:51.741Z",
       "latestPath": "data/results/TSM-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:33:57.865Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:34:00.304Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "GLW",
@@ -950,56 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T19:19:09.294Z",
       "latestPath": "data/results/CRDO-latest.json"
-    },
-    {
-      "token": "OUSTON",
-      "requestedInput": "OUST",
-      "name": "Ouster Tokenized Stock (Ondo)",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:19:07.296Z",
-      "latestPath": "data/results/OUSTON-latest.json"
-    },
-    {
-      "token": "TWLO",
-      "requestedInput": "TWLO",
-      "name": "Twilio Inc.",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T19:19:12.449Z",
-      "latestPath": "data/results/TWLO-latest.json"
-    },
-    {
-      "token": "APE",
-      "requestedInput": "APE",
-      "name": "ApeCoin",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:04:10.791Z",
-      "latestPath": "data/results/APE-latest.json"
-    },
-    {
-      "token": "CRDOON",
-      "requestedInput": "CRDO",
-      "name": "Credo Technology Group Holding (Ondo Tokenized)",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:04:11.575Z",
-      "latestPath": "data/results/CRDOON-latest.json"
-    },
-    {
-      "token": "SITM",
-      "requestedInput": "SITM",
-      "name": "unknown",
-      "score": 0,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T19:04:14.004Z",
-      "latestPath": "data/results/SITM-latest.json"
     }
   ]
 }
