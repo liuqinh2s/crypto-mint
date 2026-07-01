@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T03:48:22.858Z",
+  "updatedAt": "2026-07-01T04:04:18.933Z",
   "results": [
     {
       "token": "MEW",
@@ -8,17 +8,47 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T03:48:16.283Z",
+      "generatedAt": "2026-07-01T04:04:07.201Z",
       "latestPath": "data/results/MEW-latest.json"
+    },
+    {
+      "token": "MOODENG",
+      "requestedInput": "MOODENG",
+      "name": "Moo Deng",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:04:05.885Z",
+      "latestPath": "data/results/MOODENG-latest.json"
+    },
+    {
+      "token": "NMR",
+      "requestedInput": "NMR",
+      "name": "Numeraire",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T04:04:03.920Z",
+      "latestPath": "data/results/NMR-latest.json"
+    },
+    {
+      "token": "PUMP",
+      "requestedInput": "PUMP",
+      "name": "Pump",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:04:03.652Z",
+      "latestPath": "data/results/PUMP-latest.json"
     },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 25,
-      "label": "观望",
+      "score": 10,
+      "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T03:48:09.920Z",
+      "generatedAt": "2026-07-01T04:04:10.091Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -28,27 +58,27 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T03:48:12.113Z",
+      "generatedAt": "2026-07-01T04:04:13.061Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "VRT",
       "requestedInput": "VRT",
-      "name": "Vertiv Holdings Co (Derivatives)",
-      "score": 0,
+      "name": "Venus Reward",
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T03:48:14.088Z",
+      "generatedAt": "2026-07-01T04:04:13.369Z",
       "latestPath": "data/results/VRT-latest.json"
     },
     {
       "token": "HOUSTON",
       "requestedInput": "OUST",
       "name": "Houston",
-      "score": 10,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T03:48:22.855Z",
+      "generatedAt": "2026-07-01T04:04:16.335Z",
       "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
@@ -58,7 +88,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T03:48:20.040Z",
+      "generatedAt": "2026-07-01T04:04:18.931Z",
       "latestPath": "data/results/DELL-latest.json"
     },
     {
@@ -68,7 +98,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T03:48:20.937Z",
+      "generatedAt": "2026-07-01T04:04:18.716Z",
       "latestPath": "data/results/HYPE-latest.json"
     },
     {
@@ -970,36 +1000,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-06-30T18:14:02.593Z",
       "latestPath": "data/results/GLW-latest.json"
-    },
-    {
-      "token": "NATGAS",
-      "requestedInput": "NATGAS",
-      "name": "Natural Gas (Derivatives)",
-      "score": 20,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:04:13.132Z",
-      "latestPath": "data/results/NATGAS-latest.json"
-    },
-    {
-      "token": "PANW",
-      "requestedInput": "PANW",
-      "name": "Palo Alto Networks",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:04:21.162Z",
-      "latestPath": "data/results/PANW-latest.json"
-    },
-    {
-      "token": "AXON",
-      "requestedInput": "AXON",
-      "name": "axon",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:04:21.545Z",
-      "latestPath": "data/results/AXON-latest.json"
     }
   ]
 }
