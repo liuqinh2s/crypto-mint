@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-07-01T22:18:40.550Z",
+  "updatedAt": "2026-07-01T22:34:48.493Z",
   "results": [
     {
       "token": "AAVE",
       "requestedInput": "AAVE",
       "name": "Aave",
-      "score": 55,
-      "label": "谨慎试仓",
+      "score": 65,
+      "label": "可以买但严控仓位",
       "action": "小仓试错",
-      "generatedAt": "2026-07-01T22:18:11.599Z",
+      "generatedAt": "2026-07-01T22:34:09.128Z",
       "latestPath": "data/results/AAVE-latest.json"
     },
     {
       "token": "DYDX",
       "requestedInput": "DYDX",
       "name": "dYdX",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-07-01T22:18:12.248Z",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T22:34:11.623Z",
       "latestPath": "data/results/DYDX-latest.json"
     },
     {
@@ -28,57 +28,67 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T22:18:10.304Z",
+      "generatedAt": "2026-07-01T22:34:10.037Z",
       "latestPath": "data/results/CELO-latest.json"
     },
     {
       "token": "ORDI",
       "requestedInput": "ORDI",
       "name": "ORDI",
-      "score": 25,
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-07-01T22:18:12.513Z",
+      "generatedAt": "2026-07-01T22:34:09.150Z",
       "latestPath": "data/results/ORDI-latest.json"
     },
     {
       "token": "JUP",
       "requestedInput": "JUP",
-      "name": "JUP",
-      "score": 55,
-      "label": "谨慎试仓",
-      "action": "小仓试错",
-      "generatedAt": "2026-07-01T22:18:17.644Z",
+      "name": "Jupiter",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T22:34:18.586Z",
       "latestPath": "data/results/JUP-latest.json"
     },
     {
       "token": "TNSR",
       "requestedInput": "TNSR",
       "name": "Tensor",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T22:18:18.631Z",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:34:19.001Z",
       "latestPath": "data/results/TNSR-latest.json"
     },
     {
       "token": "RAY",
       "requestedInput": "RAY",
       "name": "Raydium",
-      "score": 40,
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:34:19.572Z",
+      "latestPath": "data/results/RAY-latest.json"
+    },
+    {
+      "token": "ACX",
+      "requestedInput": "ACX",
+      "name": "Across Protocol Token",
+      "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-07-01T22:18:19.271Z",
-      "latestPath": "data/results/RAY-latest.json"
+      "generatedAt": "2026-07-01T22:34:21.475Z",
+      "latestPath": "data/results/ACX-latest.json"
     },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T22:18:18.971Z",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T22:34:25.941Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -88,17 +98,17 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T22:18:24.413Z",
+      "generatedAt": "2026-07-01T22:34:26.980Z",
       "latestPath": "data/results/KIRBY-latest.json"
     },
     {
       "token": "SPYX",
       "requestedInput": "SP500",
       "name": "SP500",
-      "score": 5,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T22:18:27.033Z",
+      "generatedAt": "2026-07-01T22:34:27.891Z",
       "latestPath": "data/results/SPYX-latest.json"
     },
     {
@@ -108,7 +118,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T22:18:26.101Z",
+      "generatedAt": "2026-07-01T22:34:30.607Z",
       "latestPath": "data/results/DELL-latest.json"
     },
     {
@@ -118,7 +128,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T22:18:24.464Z",
+      "generatedAt": "2026-07-01T22:34:32.379Z",
       "latestPath": "data/results/HYPE-latest.json"
     },
     {
@@ -128,27 +138,27 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T22:18:30.675Z",
+      "generatedAt": "2026-07-01T22:34:33.905Z",
       "latestPath": "data/results/AVAVE-latest.json"
     },
     {
       "token": "AXON",
       "requestedInput": "AXON",
       "name": "axon",
-      "score": 10,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T22:18:32.185Z",
+      "generatedAt": "2026-07-01T22:34:38.151Z",
       "latestPath": "data/results/AXON-latest.json"
     },
     {
       "token": "PL",
       "requestedInput": "PL",
       "name": "PL",
-      "score": 0,
+      "score": 2,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T22:18:31.295Z",
+      "generatedAt": "2026-07-01T22:34:38.766Z",
       "latestPath": "data/results/PL-latest.json"
     },
     {
@@ -158,7 +168,7 @@
       "score": 0,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T22:18:32.029Z",
+      "generatedAt": "2026-07-01T22:34:40.587Z",
       "latestPath": "data/results/CIEN-latest.json"
     },
     {
@@ -168,17 +178,17 @@
       "score": 15,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T22:18:38.637Z",
+      "generatedAt": "2026-07-01T22:34:43.662Z",
       "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "GLW",
       "requestedInput": "GLW",
       "name": "Corning Incorporated",
-      "score": 10,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T22:18:40.548Z",
+      "generatedAt": "2026-07-01T22:34:48.491Z",
       "latestPath": "data/results/GLW-latest.json"
     },
     {
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T19:33:36.152Z",
       "latestPath": "data/results/EH-latest.json"
-    },
-    {
-      "token": "AVAX",
-      "requestedInput": "AVAX",
-      "name": "Avalanche (Wormhole)",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T19:18:10.014Z",
-      "latestPath": "data/results/AVAX-latest.json"
     }
   ]
 }
