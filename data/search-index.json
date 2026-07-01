@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-07-01T02:18:43.410Z",
+  "updatedAt": "2026-07-01T02:34:03.943Z",
   "results": [
+    {
+      "token": "WET",
+      "requestedInput": "WET",
+      "name": "HumidiFi",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T02:34:03.516Z",
+      "latestPath": "data/results/WET-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 20,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T02:34:01.019Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T02:34:03.176Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T02:34:03.941Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
     {
       "token": "ARC",
       "requestedInput": "ARC",
@@ -10,26 +50,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T02:18:43.408Z",
       "latestPath": "data/results/ARC-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T02:18:38.519Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T02:18:38.361Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "HOU",
@@ -80,16 +100,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T01:18:13.303Z",
       "latestPath": "data/results/LIT-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T01:18:19.429Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "PIEVERSE",
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T17:03:39.961Z",
       "latestPath": "data/results/AVAX-latest.json"
-    },
-    {
-      "token": "ORDI",
-      "requestedInput": "ORDI",
-      "name": "ORDI",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T17:03:40.990Z",
-      "latestPath": "data/results/ORDI-latest.json"
     }
   ]
 }
