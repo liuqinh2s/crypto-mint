@@ -1,34 +1,24 @@
 {
-  "updatedAt": "2026-07-01T13:04:02.155Z",
+  "updatedAt": "2026-07-01T13:18:48.061Z",
   "results": [
-    {
-      "token": "MORPHO",
-      "requestedInput": "MORPHO",
-      "name": "Morpho",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T13:03:56.868Z",
-      "latestPath": "data/results/MORPHO-latest.json"
-    },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
+      "score": 25,
+      "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-07-01T13:03:55.000Z",
+      "generatedAt": "2026-07-01T13:18:47.964Z",
       "latestPath": "data/results/-latest.json"
     },
     {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
-      "score": 15,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T13:03:55.577Z",
+      "generatedAt": "2026-07-01T13:18:48.059Z",
       "latestPath": "data/results/HOU-latest.json"
     },
     {
@@ -38,18 +28,28 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T13:03:53.514Z",
+      "generatedAt": "2026-07-01T13:18:46.427Z",
       "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "TOKABU",
       "requestedInput": "SPIR",
       "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T13:18:47.747Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "MORPHO",
+      "requestedInput": "MORPHO",
+      "name": "Morpho",
       "score": 25,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-07-01T13:04:02.153Z",
-      "latestPath": "data/results/TOKABU-latest.json"
+      "generatedAt": "2026-07-01T13:03:56.868Z",
+      "latestPath": "data/results/MORPHO-latest.json"
     },
     {
       "token": "AEVO",
