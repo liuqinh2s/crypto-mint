@@ -1,0 +1,323 @@
+{
+  "token": "XLM",
+  "requestedInput": "XLM",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T02:03:24.383Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "XLM",
+    "name": "Stellar",
+    "generatedAt": "2026-07-01T02:03:15.558Z",
+    "summary": "XLM 24小时涨幅12.58%，受RWA叙事、DTCC合作、实物黄金锚定等利好推动，但30日跌幅23%，短期反弹需谨慎。",
+    "rating": {
+      "score": 55,
+      "label": "谨慎试仓",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "小仓试错",
+      "expectedUpsidePct": 15,
+      "holdingPeriod": "1-2周",
+      "invalidation": "跌破0.18美元支撑或DTCC合作进展不及预期"
+    },
+    "catalysts": [
+      "RWA（真实世界资产）代币化叙事升温，Stellar上代币化资产数量是XRP的9倍",
+      "DTCC合作预期（新闻提及Stellar trades at $0.18 before DTCC catalyst）",
+      "实物1:1锚定黄金上线（Stellar Scores Physical 1:1 Backed Gold）",
+      "RedStone预言机上线Stellar，推动DeFi生态"
+    ],
+    "latestNews": [
+      {
+        "title": "Stellar (XLM) Surges 4.62% Amid Bullish Narratives and Inflows",
+        "impact": "利好",
+        "reason": "价格上涨伴随资金流入，市场情绪积极"
+      },
+      {
+        "title": "Stellar Has 9 Times More Tokenized Assets Than XRP but XRP Is Worth 11 Times More",
+        "impact": "利好",
+        "reason": "凸显XLM相对低估，RWA叙事支撑"
+      },
+      {
+        "title": "XLM Price Forecast Sees $0.26 Amid Stellar RWA Expansion",
+        "impact": "利好",
+        "reason": "分析师给出目标价0.26美元，较当前价有约30%空间"
+      },
+      {
+        "title": "Stellar Scores Physical 1:1 Backed Gold: Huge For XLM?",
+        "impact": "利好",
+        "reason": "实物黄金锚定资产增强Stellar在RWA领域的竞争力"
+      },
+      {
+        "title": "Stellar trades at $0.18 before DTCC catalyst",
+        "impact": "利好",
+        "reason": "DTCC合作预期是重要催化剂，可能推动机构采用"
+      }
+    ],
+    "fundamentals": [
+      "Stellar是开源去中心化支付网络，专注于跨境支付和资产代币化",
+      "采用Stellar共识协议（SCP），交易确认快、费用低",
+      "内置去中心化交易所（DEX）和智能合约平台Soroban",
+      "由非营利组织Stellar发展基金会管理",
+      "流通供应量约340亿XLM，总供应量约500亿，无最大供应上限"
+    ],
+    "marketRead": [
+      "24小时涨幅12.58%，但30日跌幅23%，短期反弹力度较强",
+      "当前价格0.199美元，距历史高点0.875美元仍有77%跌幅",
+      "DEX上XLM/USDC交易对流动性充足（5.3亿美元），但24小时交易量仅545美元，流动性深度与交易量不匹配，可能存在价格操纵风险",
+      "市场情绪偏多（看涨比例61.11%），但需警惕短期获利回吐"
+    ],
+    "risks": [
+      "DEX交易量极低（24小时仅545美元），价格容易被操纵",
+      "30日跌幅23%，中期趋势仍偏空",
+      "无最大供应上限，通胀压力长期存在",
+      "DTCC合作尚未正式确认，存在预期落空风险",
+      "XLM与XRP高度相关，XRP走势可能拖累XLM"
+    ],
+    "watchlist": [
+      "DTCC合作官方公告",
+      "Stellar上RWA代币化资产数量增长",
+      "XLM价格能否站稳0.20美元并突破0.22美元阻力",
+      "整体市场情绪和比特币走势"
+    ],
+    "sourceNotes": [
+      "DEX数据来自Raydium，流动性高但交易量异常低，需谨慎对待价格",
+      "新闻来源多为聚合网站，部分内容可能重复或过时",
+      "基本面数据来自CoinGecko，市场排名第15"
+    ]
+  },
+  "profile": {
+    "id": "stellar",
+    "symbol": "XLM",
+    "name": "Stellar",
+    "categories": [
+      "Smart Contract Platform",
+      "Real World Assets (RWA)",
+      "Stellar Ecosystem",
+      "GMCI 30 Index",
+      "GMCI Index",
+      "Made in USA",
+      "Coinbase 50 Index"
+    ],
+    "homepage": [
+      "https://www.stellar.org/",
+      "https://medium.com/stellar-community"
+    ],
+    "description": "Stellar is an open-source, decentralized network co-founded in 2014 by Jed McCaleb and Joyce Kim to facilitate the fast and low-cost transfer of value across different currencies and assets globally. Managed by the non-profit Stellar Development Foundation, the project serves as a global infrastructure that connects banks, payment systems, and individuals to expand financial access to underserved populations. Its main value proposition lies in providing a bridge between traditional money and digital networks through the use of Anchors, which are trusted entities that hold deposits and issue credits on the ledger. The network operates using the Stellar Consensus Protocol and a Federated Byzantine Agreement, where nodes choose trusted sets of other nodes to agree on the state of the ledger. This system ensures high throughput and fast finality, where transactions are considered permanent and irreversible within seconds. Key features include a built-in distributed exchange for trading assets without intermediaries and the Soroban platform for developing smart contracts. Users can also utilize the network for tokenizing real-world assets or accessing decentralized finance services like",
+    "marketCapRank": 15,
+    "currentPriceUsd": 0.199245,
+    "marketCapUsd": 6769883528,
+    "fullyDilutedValuationUsd": 9962507888,
+    "totalVolumeUsd": 491735989,
+    "priceChange24hPct": 12.58408,
+    "priceChange7dPct": 1.21339,
+    "priceChange14dPct": -9.23868,
+    "priceChange30dPct": -23.01361,
+    "athUsd": 0.875563,
+    "athChangePct": -77.32268,
+    "circulatingSupply": 33978018075.4116,
+    "totalSupply": 50001786839.91257,
+    "maxSupply": null,
+    "sentimentVotesUpPct": 61.11,
+    "watchlistUsers": 399907,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "XLM/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "DwWmvEEduPTfG2TNhfugcirCZMoRY4z9msRxWanWSpaq",
+    "pairUrl": "https://dexscreener.com/solana/dwwmveeduptfg2tnhfugcirczmory4z9msrxwanwspaq",
+    "lastPrice": 0.2525,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 545.17,
+    "liquidityUsd": 530314241.38,
+    "fullyDilutedValuationUsd": 530415899,
+    "marketCapUsd": 530415899,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/dwwmveeduptfg2tnhfugcirczmory4z9msrxwanwspaq",
+    "pairAddress": "DwWmvEEduPTfG2TNhfugcirCZMoRY4z9msRxWanWSpaq",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "E96YNfEeaMTP6YV1eu1y2TMr7c7KsrQt735DmgiVJszp",
+      "name": "XLM",
+      "symbol": "XLM"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.2525",
+    "priceUsd": "0.2525",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 4,
+        "sells": 4
+      },
+      "h24": {
+        "buys": 12,
+        "sells": 12
+      }
+    },
+    "volume": {
+      "h24": 545.17,
+      "h6": 185.99,
+      "h1": 45.99,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 530314241.38,
+      "base": 2099597456,
+      "quote": 8.8206
+    },
+    "fdv": 530415899,
+    "marketCap": 530415899,
+    "pairCreatedAt": 1780303881000
+  },
+  "news": [
+    {
+      "title": "Stellar (XLM) Surges 4.62% Amid Bullish Narratives and Inflows - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnRGo5Z1VHMXNNdU1leUdmbnhoRHVQTW1EQXNTUXVWMEtPLTdJdi1Ob0lpYkd5WlZUcEdsM0pqcmxpUjM3NVUtbnpSMC1pTU15emVYbVFNLTdTVDBUUG1xS0NUUlVuSjh4NzJCaTZNQms?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Tue, 30 Jun 2026 19:04:00 GMT",
+      "snippet": "Stellar (XLM) Surges 4.62% Amid Bullish Narratives and Inflows&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "Stellar Has 9 Times More Tokenized Assets Than XRP but XRP Is Worth 11 Times More - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNnJIUDhMZlFfUmZMWGh5ZzNuc3ZwOGN2N1RXRk9oWUVpQWZKeEtxeDZDMjlPNWNMREM2QU1HZWtXc25FR0FrcVBiMDFhaFdELTZFWFp2VXlOZUhPc01zcXdRYUJMWktLYVRFcldOZkhOeF8zYWNpaW5NanRvMnQ2RDc2Zms0cHZ5WWpld1J6eXVOUURVeUZKZ2ZQYzh4S0NHU2prQlhLMUh6WXpJdjZTZHN2Q3R5LWl1eXdZSmFlU1RvajBMU1JTb3doWEFhYnRPazdkeGVEbw?oc=5",
+      "source": "24/7 Wall St.",
+      "publishedAt": "Sun, 28 Jun 2026 00:05:29 GMT",
+      "snippet": "Stellar Has 9 Times More Tokenized Assets Than XRP but XRP Is Worth 11 Times More&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "XLM Price Forecast Sees $0.26 Amid Stellar RWA Expansion - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oVWNnRWEwWnRSQV9udmVISGw1SnV1ZTJnWGVsbnpENjFsaFpSR3RJQjMyTUFQa21PMHN2R2Z3d0Z0eWhCcGFwdVRtbkVQc0IySXBlUmdiNEFsTkg4NWdva2kyTdIBY0FVX3lxTE1oVWNnRWEwWnRSQV9udmVISGw1SnV1ZTJnWGVsbnpENjFsaFpSR3RJQjMyTUFQa21PMHN2R2Z3d0Z0eWhCcGFwdVRtbkVQc0IySXBlUmdiNEFsTkg4NWdva2kyTQ?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 30 Jun 2026 16:25:24 GMT",
+      "snippet": "XLM Price Forecast Sees $0.26 Amid Stellar RWA Expansion&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Stellar (XLM) Price Prediction 2026 – Is a Massive Bull Run Coming? - Bitcoin Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0lxM2tDRVVPN29NZlhqX0ZBRjlVRzVZRDM4czM3eGxneXVlWENwMmRZcFdWQzdPYUNKT1VEbWhfYk0wOWhLZ29rU2xFOHR6a2RvMFdxdGR5NmV6RVBNU0Q4MTVycEU4MW1CeUlaZVExNGMyN24tNXdjUWpqNDR4ZkI1NnRMdTdSeXFoVnFlWVF6TlVmT3N1Q0lhbmpxWDNnekMw?oc=5",
+      "source": "Bitcoin Foundation",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "snippet": "Stellar (XLM) Price Prediction 2026 – Is a Massive Bull Run Coming?&nbsp;&nbsp;Bitcoin Foundation"
+    },
+    {
+      "title": "Stellar trades at $0.18 before DTCC catalyst - grafa.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRU50S3hzSW01eXlxMVY4ZzA4UXZpNy1lVHdjclB2LWRTX2Vya1o3b1RDR212UGpWNGYwUFRVVHB0Wl95ZmN4UmhDQlpsREhxMFVLb3h6Mko0RGR0bVFpbmNHc25QYUZmNGlzLUFibVotYVBKM2pxdmUxRnJ5MjRyc213?oc=5",
+      "source": "grafa.com",
+      "publishedAt": "Tue, 30 Jun 2026 07:43:13 GMT",
+      "snippet": "Stellar trades at $0.18 before DTCC catalyst&nbsp;&nbsp;grafa.com"
+    },
+    {
+      "title": "Stellar (XLM) Price Outlook for 2026 and 2030: Assessing the Potential for a Structural Breakout - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0Z3NFUtZWNmazdENGNMOW1ja0tIRkRJVVItdkdsMHg2QUlJaWJBS2VGWmtYa1lGOFMzdjJDX1p4VHF0QmNDV3JveXZZWmM4V19jZlRTelM1TG9Oa3FBTS1pWU5CcFpKZkJJdlNJV1hIZHBCb0tNbTVSZlBodHhKUF9vSjc?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Sat, 06 Jun 2026 07:00:00 GMT",
+      "snippet": "Stellar (XLM) Price Outlook for 2026 and 2030: Assessing the Potential for a Structural Breakout&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "XLM Vs XRP: Retail Traders Say Stellar Is Severely Undervalued After DTCC Deal - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd3E3T3g0NTM5WjA5ZTFHRkl3OGR4Vm9jQkFIeFVEZmtmQnpNbVRjS05uLWpOYUpyZzhya2N3b1pMT1ZHeU01MjhYNTFQOEVKaE42dEtSbE0tM18wVmVsTHVZUEhmdFM3NWVpTXIzTzFKeFJNN1hUaGdZY0N4VWtUWkF1Ulo3TjFBU1FfV3hWQlBJaTVsenJZNUdLNmNBRlZkckF0d0toT2hJSjhONG0wbU5rN3kwa05LejNwZlhicmI3WUZpVTY5QXg3WkFCbS1NWDhF?oc=5",
+      "source": "Stocktwits",
+      "publishedAt": "Fri, 29 May 2026 07:00:00 GMT",
+      "snippet": "XLM Vs XRP: Retail Traders Say Stellar Is Severely Undervalued After DTCC Deal&nbsp;&nbsp;Stocktwits"
+    },
+    {
+      "title": "Stellar Scores Physical 1:1 Backed Gold: Huge For XLM? - DailyCoin",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvbExtcEFWY0JWdFRVSEh1SGRnTDBQNmtfUGZyMGdQQ1B4eGpEWjhQNmhNVnptc2ZrN1VEc1puWkgwWmwxX2x0OVg2ZW5BMHM5ZlBBaU1NMEE3UTYxcFg0ZUVkby1pVkRXODd4WUlUSWtpMERYZ1k3dUxkOVVFODA?oc=5",
+      "source": "DailyCoin",
+      "publishedAt": "Mon, 29 Jun 2026 20:25:00 GMT",
+      "snippet": "Stellar Scores Physical 1:1 Backed Gold: Huge For XLM?&nbsp;&nbsp;DailyCoin"
+    },
+    {
+      "title": "Top Crypto to Buy Now: BlockDAG, Stellar, Bitcoin Cash, and Chainlink Offer 300x Potential - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94QzZ5TXdWUURXaWFOQzRzdVpwUmRuY1ZoOHVRenhKYzhpMkIyZTVZLURiREt1aUVseU5tRkc3aHdzZlR6dlRmZE1vWnVueERBb1dzbUk2Q1pYdGJXSVHSAWNBVV95cUxQbDhOY1plVXFteDd5MXdVS1FodlRaTXVneHVEaUg4UmZfQTFIVzZqNlNqSDdrZDhtLW4zTE1ZWnY2SnQ4bVVkTzBNOFpSdzh5MkdGNVJ0aXBWckJTMVE5b2xVaG8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 16 Feb 2026 08:00:00 GMT",
+      "snippet": "Top Crypto to Buy Now: BlockDAG, Stellar, Bitcoin Cash, and Chainlink Offer 300x Potential&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Could Pi Network’s ISO 20022 Compliance Put PI Beside XRP, XLM and HBAR? - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2NFek1FTUdUWXpMSXdrS000QTZlTFl1SW5ncV9Uc0puX2dnM2hqYm1aZkpuQmZ4V2d2VHQzYk9qckxxc1VscXJWSzdkeFRXTENLY21vdV9TaGRhSl9nbWRqNTZFT3pOTTh1Y00xYnBuWGFESU9yY1F3NFFRZDF1Y2hSUVU3NFNUeFNSQWdWSjNjNlMxWmdmdG8zMTk3c09R?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "snippet": "Could Pi Network’s ISO 20022 Compliance Put PI Beside XRP, XLM and HBAR?&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "Stellar Price, XLM to USD, Research, News & Fundraising - Messari",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBtMFFkeXotNzc5MDVzaGtweHJDX3ZYOGNLellab3pxZlNFTFZVNkFiSTNReC0zYjNSS2FqSDRLVzNXVmd2d3VsdnJn?oc=5",
+      "source": "Messari",
+      "publishedAt": "Fri, 15 Sep 2023 03:27:40 GMT",
+      "snippet": "Stellar Price, XLM to USD, Research, News & Fundraising&nbsp;&nbsp;Messari"
+    },
+    {
+      "title": "Top Stellar Ecosystem Coins by Market Cap - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3X1FuWHlEYlQ2MEdTRWROU0RNcjRxRkF0S1BUdXFxazF2SmxfUHNLNFJyMkVZRWlzbkJ3S0ZxaDlpeHlkSnREMU5qeV9LTHlIZFJ2dmNzcGF5T0tsN2xHWEcwNzNMQ1lE?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Wed, 21 Feb 2024 05:06:39 GMT",
+      "snippet": "Top Stellar Ecosystem Coins by Market Cap&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "TRON and Stellar Focus on Future Growth While BlockDAG Casino Delivers Results Today - Crypto Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2wyZmtTYlppdVhwdF9kMWFxaWNrRnlkY1ZJYW5hb2xmbXZ2R0E0cUtfS3RmMXZ6YTIyNFh2dVJua1NrcWdycHRfZjBIZHJLUkF2Zl95X3h0SDNOSjFCM3Q1NG1YLTZqZU1fWW04X0dYaHo2bkEwN2UzT3pHUDlJaUVBdVlTbUlKLWhsVG42RVVQRTFpck1FWDJSOWpsa19iR0pIam5MV3BLcnZoMkpadmJfOGhuTlVTMWVOSWNaU2pZT1BrbjI2bw?oc=5",
+      "source": "Crypto Reporter",
+      "publishedAt": "Thu, 18 Jun 2026 12:58:23 GMT",
+      "snippet": "TRON and Stellar Focus on Future Growth While BlockDAG Casino Delivers Results Today&nbsp;&nbsp;Crypto Reporter"
+    },
+    {
+      "title": "XLM Price Prediction 2030: Can Stellar Finally Close the Gap Between Technology and Token Value? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfMG9vcWVnNkc2NUUzN19UaXM4Y09ETjJoTDdsRHRtVU1ZVEhaVDU0Umx4Ty1oRUJWSkhteEM1RmxqbDA0OXhwY044QlZWUF9HRmYxVjV4N3dXWTdwZ2fSAWNBVV95cUxPWmNvWi1mTUlxMlRZWlhSTlFmNnlSRl9kRTkwekdwZmVGeUlkSUdJUDJqenB3ZmUxNV9HZWN2Si0teDJmSTNUX2otVklRUmtXQ3hLYUdFUGlTUHFrVWJNNjl1YW8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "snippet": "XLM Price Prediction 2030: Can Stellar Finally Close the Gap Between Technology and Token Value?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "RedStone Oracle Infra Goes Live on Stellar to Boost DeFi on the Network - thedefiant.io",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtbzJnSFY4em5DNGdXbE1UcHJOLTdTQmd2aWpCSkx5dzd1NzdZekNMSDFvU29CMzFKc2U2aGR2N1p2dmVtd1hOMlpvc3VNeWoyU2hyelZQZW9KaGZsd2oxeWdJVWExcFZYVWR3akxrZlAzNWZoVjl3?oc=5",
+      "source": "thedefiant.io",
+      "publishedAt": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "snippet": "RedStone Oracle Infra Goes Live on Stellar to Boost DeFi on the Network&nbsp;&nbsp;thedefiant.io"
+    },
+    {
+      "title": "Big News for XRP and Stellar (XLM) Communities - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80d1VXVlRvVmlLX2JtQWxSWDA3THlSR2ZiOUVoY2JPSDY0RjJjbmhYMDYyVzFCb0RScmZRc1JpRWhxMVJ4a1JRRGR1SE1BYXI0czM5VmwxNzdod1FBSGfSAWNBVV95cUxQMVB5aU1fUzV0Tjk0S0lLcWItOTE3SXlXall4S2tFeWtUUG1STkkwOTRHblJZMWpjWTdrM2djbWR1ckhIUFJxaXlTVXRVN19iYldIUklHSGxOMU02bUFkd1FPeGs?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "snippet": "Big News for XRP and Stellar (XLM) Communities&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}

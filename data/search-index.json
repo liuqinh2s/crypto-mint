@@ -1,34 +1,44 @@
 {
-  "updatedAt": "2026-07-01T01:48:50.167Z",
+  "updatedAt": "2026-07-01T02:03:26.562Z",
   "results": [
+    {
+      "token": "XLM",
+      "requestedInput": "XLM",
+      "name": "Stellar",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T02:03:24.383Z",
+      "latestPath": "data/results/XLM-latest.json"
+    },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 20,
+      "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T01:48:49.060Z",
+      "generatedAt": "2026-07-01T02:03:21.886Z",
       "latestPath": "data/results/-latest.json"
     },
     {
       "token": "AMT",
       "requestedInput": "AMAT",
       "name": "Amateras",
-      "score": 15,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T01:48:50.165Z",
+      "generatedAt": "2026-07-01T02:03:22.565Z",
       "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "HOU",
       "requestedInput": "OUST",
       "name": "Houston Token",
-      "score": 10,
+      "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T01:48:49.124Z",
+      "generatedAt": "2026-07-01T02:03:21.062Z",
       "latestPath": "data/results/HOU-latest.json"
     },
     {
@@ -38,7 +48,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T01:48:47.914Z",
+      "generatedAt": "2026-07-01T02:03:26.560Z",
       "latestPath": "data/results/HYPE-latest.json"
     },
     {
@@ -990,16 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T17:03:38.845Z",
       "latestPath": "data/results/KAS-latest.json"
-    },
-    {
-      "token": "ARC",
-      "requestedInput": "ARC",
-      "name": "ARC",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T16:48:56.938Z",
-      "latestPath": "data/results/ARC-latest.json"
     }
   ]
 }
