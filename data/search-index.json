@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T04:34:01.397Z",
+  "updatedAt": "2026-07-01T04:49:14.375Z",
   "results": [
     {
       "token": "SN105",
@@ -8,8 +8,98 @@
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-07-01T04:33:43.371Z",
+      "generatedAt": "2026-07-01T04:48:58.955Z",
       "latestPath": "data/results/SN105-latest.json"
+    },
+    {
+      "token": "BAN",
+      "requestedInput": "BAN",
+      "name": "Comedian",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:49:01.070Z",
+      "latestPath": "data/results/BAN-latest.json"
+    },
+    {
+      "token": "DEXE",
+      "requestedInput": "DEXE",
+      "name": "DeXe",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T04:48:59.845Z",
+      "latestPath": "data/results/DEXE-latest.json"
+    },
+    {
+      "token": "KAITO",
+      "requestedInput": "KAITO",
+      "name": "KAITO",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:49:00.812Z",
+      "latestPath": "data/results/KAITO-latest.json"
+    },
+    {
+      "token": "KGEN",
+      "requestedInput": "KGEN",
+      "name": "KGEN",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T04:49:06.950Z",
+      "latestPath": "data/results/KGEN-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 25,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T04:49:06.405Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMT",
+      "requestedInput": "AMAT",
+      "name": "Amateras",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:49:07.893Z",
+      "latestPath": "data/results/AMT-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:49:06.947Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:49:12.252Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "CIEN",
+      "requestedInput": "CIEN",
+      "name": "Ciena",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:49:14.373Z",
+      "latestPath": "data/results/CIEN-latest.json"
     },
     {
       "token": "AEVO",
@@ -72,16 +162,6 @@
       "latestPath": "data/results/TSM-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:33:54.306Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "OMIKAMI",
       "requestedInput": "AMAT",
       "name": "AMATERASU OMIKAMI",
@@ -102,16 +182,6 @@
       "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:33:58.709Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
       "token": "GLW",
       "requestedInput": "GLW",
       "name": "Corning Incorporated",
@@ -120,16 +190,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-07-01T04:34:01.396Z",
       "latestPath": "data/results/GLW-latest.json"
-    },
-    {
-      "token": "AMT",
-      "requestedInput": "AMAT",
-      "name": "Amateras",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:18:54.542Z",
-      "latestPath": "data/results/AMT-latest.json"
     },
     {
       "token": "PANW",
@@ -220,16 +280,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T04:04:18.931Z",
       "latestPath": "data/results/DELL-latest.json"
-    },
-    {
-      "token": "HOU",
-      "requestedInput": "OUST",
-      "name": "Houston Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T03:34:01.368Z",
-      "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "DELLON",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T19:04:14.004Z",
       "latestPath": "data/results/SITM-latest.json"
-    },
-    {
-      "token": "PYTH",
-      "requestedInput": "PYTH",
-      "name": "Pyth Network",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T18:48:52.207Z",
-      "latestPath": "data/results/PYTH-latest.json"
-    },
-    {
-      "token": "ACT",
-      "requestedInput": "ACT",
-      "name": "Act I The AI Prophecy",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:48:53.180Z",
-      "latestPath": "data/results/ACT-latest.json"
-    },
-    {
-      "token": "ESP",
-      "requestedInput": "ESP",
-      "name": "Espresso",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T18:48:52.062Z",
-      "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "LWLG",
-      "requestedInput": "LWLG",
-      "name": "Lightwave Logic",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T18:49:00.280Z",
-      "latestPath": "data/results/LWLG-latest.json"
-    },
-    {
-      "token": "ONG",
-      "requestedInput": "ONG",
-      "name": "on god",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:34:05.193Z",
-      "latestPath": "data/results/ONG-latest.json"
     }
   ]
 }
