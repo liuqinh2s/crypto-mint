@@ -1,0 +1,309 @@
+{
+  "token": "SPX",
+  "requestedInput": "SPX",
+  "exchange": "other",
+  "generatedAt": "2026-07-01T06:33:59.361Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "SPX",
+    "name": "SPX6900",
+    "generatedAt": "2026-07-01T06:33:49.992Z",
+    "summary": "SPX6900 是一个多链 meme 代币，近期因韩国两大交易所 Upbit 和 Bithumb 上线而大涨约10%，但基本面薄弱，属于高投机性资产。当前价格较历史高点下跌超84%，社区情绪偏多但风险极高。",
+    "rating": {
+      "score": 30,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": "1-3天",
+      "invalidation": "韩国交易所上线热度消退，成交量萎缩，或价格跌破近期低点0.32美元"
+    },
+    "catalysts": [
+      "韩国 Upbit 和 Bithumb 上线 SPX 交易对，带来新资金和关注度",
+      "Meme 币社区情绪回暖，Murad 等大户持仓未动"
+    ],
+    "latestNews": [
+      {
+        "title": "SPX6900 jumps nearly 10% as Upbit and Bithumb open Korean trading",
+        "impact": "利好",
+        "reason": "韩国两大交易所上线，增加流动性和曝光度，短期推升价格"
+      },
+      {
+        "title": "Upbit to List SPX6900 (SPX) with KRW, BTC, and USDT Trading Pairs",
+        "impact": "利好",
+        "reason": "提供法币和主流币交易对，降低入场门槛"
+      },
+      {
+        "title": "'Memecoin messiah' lost $60M trading mostly SPX6900: He's still not selling",
+        "impact": "中性",
+        "reason": "大户亏损但未卖出，显示信仰，但也暴露风险"
+      }
+    ],
+    "fundamentals": [
+      "多链部署（Solana、Ethereum、Avalanche、Base），但主要流动性在 Solana 的 Raydium",
+      "总供应量10亿枚，当前流通约9.31亿，接近全流通",
+      "无实际用例，纯社区驱动，属于高风险的 meme 币",
+      "市值约3.34亿美元（CoinGecko），DEX 流动性约1.58亿美元"
+    ],
+    "marketRead": [
+      "24小时涨幅约2.25%，但7日涨幅仅4.7%，30日涨幅7.8%，显示近期横盘震荡",
+      "韩国上线消息后价格跳涨，但成交量仅732万美元，相对市值偏低",
+      "价格较历史高点2.27美元下跌84%，处于低位，但反弹动力不足"
+    ],
+    "risks": [
+      "Meme 币高度投机，价格波动剧烈，容易归零",
+      "韩国上线利好可能已被消化，追高风险大",
+      "大户持仓集中，Murad 等巨鲸抛售风险",
+      "无基本面支撑，依赖社区情绪和叙事"
+    ],
+    "watchlist": [
+      "韩国交易所上线后成交量变化",
+      "SPX 价格是否突破近期阻力位0.40美元",
+      "巨鲸地址持仓变动",
+      "整体 meme 币市场情绪"
+    ],
+    "sourceNotes": [
+      "数据来源为 CoinGecko 和 DexScreener，新闻来自 Google News 聚合",
+      "部分新闻标题可能为 SEO 内容，需谨慎参考"
+    ]
+  },
+  "profile": {
+    "id": "spx6900",
+    "symbol": "SPX",
+    "name": "SPX6900",
+    "categories": [
+      "Solana Ecosystem",
+      "Avalanche Ecosystem",
+      "Meme",
+      "Ethereum Ecosystem",
+      "Base Ecosystem",
+      "Bridged-Tokens",
+      "Murad Picks",
+      "Stock market-themed",
+      "4chan-Themed",
+      "Base Native"
+    ],
+    "homepage": [
+      "https://www.spx6900.com"
+    ],
+    "description": "SPX6900 is an advanced blockchain cryptography token coin capable of limitless possibilities and scientific utilization.",
+    "marketCapRank": 125,
+    "currentPriceUsd": 0.358811,
+    "marketCapUsd": 334050304,
+    "fullyDilutedValuationUsd": 334050304,
+    "totalVolumeUsd": 7325902,
+    "priceChange24hPct": 2.25288,
+    "priceChange7dPct": 4.7019,
+    "priceChange14dPct": -25.52224,
+    "priceChange30dPct": 7.78993,
+    "athUsd": 2.27,
+    "athChangePct": -84.23099,
+    "circulatingSupply": 930992910.8870013,
+    "totalSupply": 930992910.8870013,
+    "maxSupply": 1000000000,
+    "sentimentVotesUpPct": 60,
+    "watchlistUsers": 55884,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "raydium",
+    "pair": "SPX/USDC",
+    "chainId": "solana",
+    "dexId": "raydium",
+    "pairAddress": "E8E4ynYkquyXG3fkuUDfPFy2Nzf75JkXks1ec2AxZsSE",
+    "pairUrl": "https://dexscreener.com/solana/e8e4ynykquyxg3fkuudfpfy2nzf75jkxks1ec2axzsse",
+    "lastPrice": 1.095,
+    "priceChange24hPct": null,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 3.07,
+    "liquidityUsd": 158308609.78,
+    "fullyDilutedValuationUsd": 876298839,
+    "marketCapUsd": 876298839,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/e8e4ynykquyxg3fkuudfpfy2nzf75jkxks1ec2axzsse",
+    "pairAddress": "E8E4ynYkquyXG3fkuUDfPFy2Nzf75JkXks1ec2AxZsSE",
+    "labels": [
+      "CLMM"
+    ],
+    "baseToken": {
+      "address": "J36oPTrvDbMXzJxbnWXpVaNkNbyj7jhPaihG7pMptW17",
+      "name": "SΡΧ6900 (Wormhole)ㅤ",
+      "symbol": "SPX"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "1.09537",
+    "priceUsd": "1.095",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 1
+      }
+    },
+    "volume": {
+      "h24": 3.07,
+      "h6": 3.07,
+      "h1": 0,
+      "m5": 0
+    },
+    "priceChange": {},
+    "liquidity": {
+      "usd": 158308609.78,
+      "base": 144524764,
+      "quote": 5.6333
+    },
+    "fdv": 876298839,
+    "marketCap": 876298839,
+    "pairCreatedAt": 1748947867000
+  },
+  "news": [
+    {
+      "title": "SPX6900 jumps nearly 10% as Upbit and Bithumb open Korean trading - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SaE5HVjJMeFVCc2tuV01iTjRQWl9INk1OaWRKMTZuN2RnUDVsMmRYZUlXdFhrZHlKV1hWYUhROEd4bEprVGRNRGVBUGpYSGJFMFBDYWhodUtkQms?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "snippet": "SPX6900 jumps nearly 10% as Upbit and Bithumb open Korean trading&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Upbit to List SPX6900 (SPX) with KRW, BTC, and USDT Trading Pairs - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iblRVTFV3c2RfdGszb1VXYW9obXg4ZWM3cUpIcHluaFFlblFfNmQxSnU0Ul8zcjBVNVF2S1NVZXhUcGY1b1JpRlFYektiWDYtM0hEc2t0Z1RlVjdnQ0RWdURZZGZDSzBkekp3ZVVB?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "snippet": "Upbit to List SPX6900 (SPX) with KRW, BTC, and USDT Trading Pairs&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "'Memecoin messiah' lost $60M trading mostly SPX6900: He's still not selling - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPODdLLVZLRGFnVDUxTVRzbGF1TF9yWk9hUkZYa0hqOTFfQVNGdWtmNW1LRjM5a1dPTzFwUnlNbWRwZEduM19RYklFOUcyaFZvaGFicXJ3a1NrN3FIdzVEUE1FMjl3Q2VMclBOV2FFbUtTVWwxcGUtWlBtekgxUmlGcGdOb2p3aEsyRy1tSFQyUlhyemluWkRMZy00MmN6WFdldzNHRFB6Z3VxU1M2UmtzTWplVzZKYm9UUFVlNFZvRGZsZ0p2SENHdkNFVHFfNkM5?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "snippet": "'Memecoin messiah' lost $60M trading mostly SPX6900: He's still not selling&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "SPX6900 Price Prediction: Is SPX Coin a Good Investment? - StealthEX",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSEpmNTRFbGdwS1diLXg2SjhybC05aFdId3I2WEw4ZXhlSnhCRjFkcjhTWHpNaUVodlgxVGx1SXVvQlg5ODRWZGZ6SFVvZnktMlRqZkJObVFzUzdHamRndm9TdUh6OFNsQWNVdzVxZnJSeXFQaUQ2alRNcHBHTWRjYkhoc3BHOW9G?oc=5",
+      "source": "StealthEX",
+      "publishedAt": "Wed, 20 Aug 2025 07:00:00 GMT",
+      "snippet": "SPX6900 Price Prediction: Is SPX Coin a Good Investment?&nbsp;&nbsp;StealthEX"
+    },
+    {
+      "title": "SPX6900 Price Today in Australia | SPX to AUD Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Cekl4ei1nRkNyc2lMb19wel81Y2MwNUdBR1VQZTN1R09aZS1fNEd5RFlUUzB3ZzZaR2h5eUhfT3BYLWJrbW43YXc4X2NIc282ZFJ2TWpR?oc=5",
+      "source": "Binance",
+      "publishedAt": "Wed, 24 Jun 2026 13:50:00 GMT",
+      "snippet": "SPX6900 Price Today in Australia | SPX to AUD Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "SPX Price Prediction 2025: Can SPX 6900 Crypto Break Above $1 Before 2025 Ends? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZZHlvWld1a214R0szWmpFd1hqM3FJTmtuU0pnaDV1X3MxQlpNZUtJcERQTE1QY25rUHFoXy13RWRMaHhNOHBzNF9RTFA2VHFJN1BfUUEyRnNQUndUU0E?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Wed, 26 Nov 2025 08:00:00 GMT",
+      "snippet": "SPX Price Prediction 2025: Can SPX 6900 Crypto Break Above $1 Before 2025 Ends?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "SPX6900 Price Prediction: Murad Eyes Major SPX Movement as MemeToro $MT Proves AI Coins Are the Smarter Bet - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XVDlCcmtsZWUtN3ZiUzJjVUxLbEFnYllVajRUZVNFNFJTclJnekRJVjVtZTNwZkstQWFXd0RqaVRqSkVjNGFIcFR3VGtEZnVJb0Q3M3BSWVVXUQ?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "Wed, 24 Jun 2026 18:16:30 GMT",
+      "snippet": "SPX6900 Price Prediction: Murad Eyes Major SPX Movement as MemeToro $MT Proves AI Coins Are the Smarter Bet&nbsp;&nbsp;Cryptonews.net"
+    },
+    {
+      "title": "Murad’s Portfolio Value Drops Over 80% as SPX Hits a New Low - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pd0VRVzlRSUZZNjlpREptd0pVc0gxbWM0Nk56VWVvWWR2QVU2UDl4aFEtdzJmMXRNZnZteDRXZHJDM2c4aG1wNV8ybG01VFVuWmhicFdMNXd1NmtHN0kzOHFMN0RFRVQ3YXcxMA?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "snippet": "Murad’s Portfolio Value Drops Over 80% as SPX Hits a New Low&nbsp;&nbsp;BeInCrypto"
+    },
+    {
+      "title": "SPX6900 Price Prediction 2025-35: Will It Hit $30 by 2035? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5POTcwLVJXbnZSM3BDck1NQmpJMnRHUVk4cmx5dHBGTGp5RGFPM3NTT2x2WXpySFhqOHQycmpqcHhDU2dqLURjNXY2d0dRY2JJZTR0LWFvYTlOZWNkN0HSAWNBVV95cUxOemZLUEctWTduU0hHS0laamlJaGFkSkFqSUY2U09FRk5jV1BlTi1RbEctTXlvZ012emxNaHk4bFN2N2YtYW1nUVhhUkozTTJuNFN3TGc5OHZBdlN6RTZjMmthWXM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 01 Apr 2025 07:00:00 GMT",
+      "snippet": "SPX6900 Price Prediction 2025-35: Will It Hit $30 by 2035?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "SPX6900: What Is It? Exploring Its Role in Crypto - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XbTkyMW9BdlhXcllYS1BQdjRUVTA3VUhWZmtfT2EwSXlHb0F1MnBLTWFja1ZzN1VGWEpJdVdtalJZb0k1M0gxVUN1ZzJiSkJtZU9URmFxajMzZw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 07 Jun 2025 01:27:18 GMT",
+      "snippet": "SPX6900: What Is It? Exploring Its Role in Crypto&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Is SPX6900 a Good Investment? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaNm1MYk1JdGtqVzFBU1FWSlM0NklRRVhxT3l0QkxycGxrczJjcXE4U0FKYXBZMEJFdGh4VVRHLVdpS05ha09PRHdpWUs0NmZKUzRhYVpXTDZnQW1kX1AzOG5oWm9Tckk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 05 Jun 2025 07:00:00 GMT",
+      "snippet": "Is SPX6900 a Good Investment?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "SPX6900 (SPX) To Soar Higher? Key Breakout and Retest Suggests Potential Upside Move - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tSkhvVHVsZ2NjTlRCbmhGaWNvQWhGWEluenlpc1dwUWRHTkxEc1hkaGpUVERXNlFsVEktS3dnd1RRTVhmcndtZXhYZVVGT1doSV9XekRWT1FJMFVQWmfSAWNBVV95cUxQel9raTJTamo4MmtDLUlPeEh6a2ExR2Q4NmJTWktJTEk0NjNreDdEV20tV3FnMnlTN3RCVWNMRlJkd3ZEbVFIRDBuVmJ6enhyRm1nQ2ZzY2h3NERHdzhDYmtxdUk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 13 Oct 2025 07:00:00 GMT",
+      "snippet": "SPX6900 (SPX) To Soar Higher? Key Breakout and Retest Suggests Potential Upside Move&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Is SPX6900 (SPX) Gearing Up for a Major Rally? This Bullish Pattern Suggests It Might Be! - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LQXY4UFA2VVpnZ1ZjRlkxcS1UZlA2bTJmSm8xY3d1c2NvbmpxY2R4c1dmalVfZlNQM3FnQXUzNE5VcENTU2c4R3VlOEpmWkM5RnpTbTY1UHdxQWdiakHSAWNBVV95cUxOWWVRWUZiejM3Y1NWc1MzNG82Wm1zSnFuNXFSUDNUak9HRHlGWmZNRm12dG93Nzd4QjRmVUI4ZHo2MkJyR0xSQmJHdzVxZFEwc0ozelZmNzZabjRab0o1Njg0VnM?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 14 Jul 2025 07:00:00 GMT",
+      "snippet": "Is SPX6900 (SPX) Gearing Up for a Major Rally? This Bullish Pattern Suggests It Might Be!&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "SPX 6900 Goes Viral: Is Crypto Making Fun Of Stocks And Winning? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VSnNnVmNzYlBENEhVX19wcXVvTzMzbFJNNTJ5MzBXWjVRelAwZTZYUzN6WUFpNFU5QkExaWszWEJNcE9MaGRyZzB1c3JlUE41LXh3OG5uaDl2ZmdzUXc?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Tue, 08 Oct 2024 07:00:00 GMT",
+      "snippet": "SPX 6900 Goes Viral: Is Crypto Making Fun Of Stocks And Winning?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "SPX6900: The SPX Meme Taking the Crypto World by Storm - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hTm8tNG51Rlc3b1NXTlB5bk5QcGpzbGt0MUw5elNGeTBRNWk2TnRvTjYxdXQyWU8wX3pZOTZmWjBMck85WHNyTjQ4V3pLODlaSWMxV1Q0WmdvSlRhdFHSAWNBVV95cUxPeEZmSzFFZ3Exa0JVUGdFQTFXR3FsZm5GUVE4RDNfOGxPWkk4YVRwaHhMeC1WcnhHWk1lRk11R2szM29pNlRZNjNjWEp1TTZTMGZXaFI5dHFMMkNBM2d4Vnp4MzA?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 06 Jan 2025 08:00:00 GMT",
+      "snippet": "SPX6900: The SPX Meme Taking the Crypto World by Storm&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "Crypto Price Today (June 21): Altcoins Drop! AB, VIRTUAL, SPX, UNI Crash 10% - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zRE1PbF9TNjEtN2JEd0l6bGtUMjBybExNYVpMR1BLY3VvYS1GZ2pIUXVORjVVQkdIMmFudy1JSThJT0llU0ZGMUVyQlF6MUhqODBvNUhib0g3RHE0UnfSAWNBVV95cUxOdlNwRHZua2NzWVFpbExGaHFCWnVIU2lIWGM5WWtrdl92SEdnbHoxV0lOLXFmS3RfMmdyZEFCTTFRTG9kVEF4YXF3QWlJX0VjQTFHb2J2RDZ3YnROYl9jNXZ4TG8?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Sat, 21 Jun 2025 07:00:00 GMT",
+      "snippet": "Crypto Price Today (June 21): Altcoins Drop! AB, VIRTUAL, SPX, UNI Crash 10%&nbsp;&nbsp;Bitget"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
