@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T04:19:02.499Z",
+  "updatedAt": "2026-07-01T04:34:01.397Z",
   "results": [
     {
       "token": "SN105",
@@ -8,18 +8,118 @@
       "score": 30,
       "label": "观望",
       "action": "观察",
-      "generatedAt": "2026-07-01T04:18:52.782Z",
+      "generatedAt": "2026-07-01T04:33:43.371Z",
       "latestPath": "data/results/SN105-latest.json"
+    },
+    {
+      "token": "AEVO",
+      "requestedInput": "AEVO",
+      "name": "Aevo",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:33:44.959Z",
+      "latestPath": "data/results/AEVO-latest.json"
+    },
+    {
+      "token": "APR",
+      "requestedInput": "APR",
+      "name": "aPriori",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:33:47.219Z",
+      "latestPath": "data/results/APR-latest.json"
+    },
+    {
+      "token": "STABLE",
+      "requestedInput": "STABLE",
+      "name": "Stable",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:33:45.932Z",
+      "latestPath": "data/results/STABLE-latest.json"
+    },
+    {
+      "token": "KRAV",
+      "requestedInput": "RAVE",
+      "name": "Rave",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:33:50.648Z",
+      "latestPath": "data/results/KRAV-latest.json"
+    },
+    {
+      "token": "SKR",
+      "requestedInput": "SKR",
+      "name": "Seeker",
+      "score": 35,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T04:33:52.167Z",
+      "latestPath": "data/results/SKR-latest.json"
+    },
+    {
+      "token": "TSM",
+      "requestedInput": "TSM",
+      "name": "Tusima Token",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:33:51.741Z",
+      "latestPath": "data/results/TSM-latest.json"
     },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 15,
+      "score": 20,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T04:18:53.026Z",
+      "generatedAt": "2026-07-01T04:33:54.306Z",
       "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "OMIKAMI",
+      "requestedInput": "AMAT",
+      "name": "AMATERASU OMIKAMI",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:33:57.865Z",
+      "latestPath": "data/results/OMIKAMI-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:34:00.304Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T04:33:58.709Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "GLW",
+      "requestedInput": "GLW",
+      "name": "Corning Incorporated",
+      "score": 65,
+      "label": "可以买但严控仓位",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T04:34:01.396Z",
+      "latestPath": "data/results/GLW-latest.json"
     },
     {
       "token": "AMT",
@@ -32,16 +132,6 @@
       "latestPath": "data/results/AMT-latest.json"
     },
     {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:18:55.402Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
-    },
-    {
       "token": "PANW",
       "requestedInput": "PANW",
       "name": "Palo Alto Networks Inc (Derivatives)",
@@ -50,16 +140,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T04:19:02.497Z",
       "latestPath": "data/results/PANW-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:18:59.818Z",
-      "latestPath": "data/results/HYPE-latest.json"
     },
     {
       "token": "AXON",
@@ -300,16 +380,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T01:03:26.771Z",
       "latestPath": "data/results/BASED-latest.json"
-    },
-    {
-      "token": "OMIKAMI",
-      "requestedInput": "AMAT",
-      "name": "AMATERASU OMIKAMI",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T01:03:24.593Z",
-      "latestPath": "data/results/OMIKAMI-latest.json"
     },
     {
       "token": "TAIKO",
@@ -930,76 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-06-30T18:34:05.193Z",
       "latestPath": "data/results/ONG-latest.json"
-    },
-    {
-      "token": "DEXE",
-      "requestedInput": "DEXE",
-      "name": "DeXe",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T18:34:05.986Z",
-      "latestPath": "data/results/DEXE-latest.json"
-    },
-    {
-      "token": "KAITO",
-      "requestedInput": "KAITO",
-      "name": "KAITO",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:34:08.768Z",
-      "latestPath": "data/results/KAITO-latest.json"
-    },
-    {
-      "token": "XPIN",
-      "requestedInput": "XPIN",
-      "name": "XPIN Token",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:34:09.302Z",
-      "latestPath": "data/results/XPIN-latest.json"
-    },
-    {
-      "token": "LWLGON",
-      "requestedInput": "LWLG",
-      "name": "Lightwave Logic (Ondo Tokenized)",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:34:15.193Z",
-      "latestPath": "data/results/LWLGON-latest.json"
-    },
-    {
-      "token": "KGEN",
-      "requestedInput": "KGEN",
-      "name": "KGeN",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T18:19:18.425Z",
-      "latestPath": "data/results/KGEN-latest.json"
-    },
-    {
-      "token": "4",
-      "requestedInput": "4",
-      "name": "4",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:19:16.117Z",
-      "latestPath": "data/results/4-latest.json"
-    },
-    {
-      "token": "CIEN",
-      "requestedInput": "CIEN",
-      "name": "Ciena",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T18:19:25.391Z",
-      "latestPath": "data/results/CIEN-latest.json"
     }
   ]
 }
