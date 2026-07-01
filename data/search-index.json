@@ -1,14 +1,44 @@
 {
-  "updatedAt": "2026-07-01T11:49:26.117Z",
+  "updatedAt": "2026-07-01T11:53:28.276Z",
   "results": [
+    {
+      "token": "MOODENG",
+      "requestedInput": "MOODENG",
+      "name": "Moo Deng",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:53:20.699Z",
+      "latestPath": "data/results/MOODENG-latest.json"
+    },
+    {
+      "token": "SKR",
+      "requestedInput": "SKR",
+      "name": "Seeker",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-01T11:53:19.884Z",
+      "latestPath": "data/results/SKR-latest.json"
+    },
+    {
+      "token": "TSM",
+      "requestedInput": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:53:18.108Z",
+      "latestPath": "data/results/TSM-latest.json"
+    },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 10,
+      "score": 20,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T11:49:15.703Z",
+      "generatedAt": "2026-07-01T11:53:17.985Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -18,8 +48,28 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T11:49:16.906Z",
+      "generatedAt": "2026-07-01T11:53:25.703Z",
       "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:53:25.476Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "GLW",
+      "requestedInput": "GLW",
+      "name": "Corning Incorporated",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T11:53:28.271Z",
+      "latestPath": "data/results/GLW-latest.json"
     },
     {
       "token": "PANW",
@@ -50,16 +100,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T11:49:26.115Z",
       "latestPath": "data/results/PL-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T11:49:23.058Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "KAS",
@@ -960,46 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T04:49:14.373Z",
       "latestPath": "data/results/CIEN-latest.json"
-    },
-    {
-      "token": "AEVO",
-      "requestedInput": "AEVO",
-      "name": "Aevo",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:33:44.959Z",
-      "latestPath": "data/results/AEVO-latest.json"
-    },
-    {
-      "token": "APR",
-      "requestedInput": "APR",
-      "name": "aPriori",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:33:47.219Z",
-      "latestPath": "data/results/APR-latest.json"
-    },
-    {
-      "token": "STABLE",
-      "requestedInput": "STABLE",
-      "name": "Stable",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:33:45.932Z",
-      "latestPath": "data/results/STABLE-latest.json"
-    },
-    {
-      "token": "KRAV",
-      "requestedInput": "RAVE",
-      "name": "Rave",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T04:33:50.648Z",
-      "latestPath": "data/results/KRAV-latest.json"
     }
   ]
 }
