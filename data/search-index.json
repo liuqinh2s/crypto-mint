@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-07-01T07:18:57.740Z",
+  "updatedAt": "2026-07-01T07:33:33.846Z",
   "results": [
+    {
+      "token": "WIF",
+      "requestedInput": "WIF",
+      "name": "dogwifhat",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:33:26.611Z",
+      "latestPath": "data/results/WIF-latest.json"
+    },
+    {
+      "token": "SYRUP",
+      "requestedInput": "SYRUP",
+      "name": "Maple Finance",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T07:33:25.135Z",
+      "latestPath": "data/results/SYRUP-latest.json"
+    },
+    {
+      "token": "ZBT",
+      "requestedInput": "ZBT",
+      "name": "ZEROBASE",
+      "score": 30,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-01T07:33:25.852Z",
+      "latestPath": "data/results/ZBT-latest.json"
+    },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 30,
-      "label": "观望",
+      "score": 20,
+      "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-01T07:18:50.466Z",
+      "generatedAt": "2026-07-01T07:33:24.311Z",
       "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOUSTON",
+      "requestedInput": "OUST",
+      "name": "Houston",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:33:33.844Z",
+      "latestPath": "data/results/HOUSTON-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:33:31.139Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-01T07:33:33.824Z",
+      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "HOU",
@@ -40,26 +100,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T07:18:52.258Z",
       "latestPath": "data/results/SLX-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:18:55.836Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T07:18:57.738Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "AGLD",
@@ -170,16 +210,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T06:34:07.831Z",
       "latestPath": "data/results/MET-latest.json"
-    },
-    {
-      "token": "HOUSTON",
-      "requestedInput": "OUST",
-      "name": "Houston",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T06:34:09.420Z",
-      "latestPath": "data/results/HOUSTON-latest.json"
     },
     {
       "token": "ARQQ",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-06-30T21:33:20.409Z",
       "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "MEME",
-      "requestedInput": "MEME",
-      "name": "Memecoin",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:18:16.401Z",
-      "latestPath": "data/results/MEME-latest.json"
-    },
-    {
-      "token": "G",
-      "requestedInput": "G",
-      "name": "Gravity (原Galxe)",
-      "score": 40,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-06-30T21:18:20.256Z",
-      "latestPath": "data/results/G-latest.json"
-    },
-    {
-      "token": "AMD",
-      "requestedInput": "AMD",
-      "name": "AMD",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-06-30T21:18:19.168Z",
-      "latestPath": "data/results/AMD-latest.json"
     }
   ]
 }
