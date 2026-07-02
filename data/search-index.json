@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-07-02T00:18:56.109Z",
+  "updatedAt": "2026-07-02T00:23:14.109Z",
   "results": [
+    {
+      "token": "UAI",
+      "requestedInput": "UAI",
+      "name": "UnifAI Network",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:23:06.693Z",
+      "latestPath": "data/results/UAI-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:23:04.290Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "HOU",
+      "requestedInput": "OUST",
+      "name": "Houston Token",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:23:03.840Z",
+      "latestPath": "data/results/HOU-latest.json"
+    },
+    {
+      "token": "SPYX",
+      "requestedInput": "SP500",
+      "name": "SP500",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:23:05.278Z",
+      "latestPath": "data/results/SPYX-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:23:11.243Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "AVAVE",
+      "requestedInput": "AVAV",
+      "name": "AVAVE",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:23:12.367Z",
+      "latestPath": "data/results/AVAVE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:23:14.107Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "BSV",
       "requestedInput": "BSV",
@@ -32,16 +102,6 @@
       "latestPath": "data/results/SPY-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T00:18:42.560Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "KIRBY",
       "requestedInput": "OUST",
       "name": "New Baby Elephant Houston Zoo",
@@ -50,46 +110,6 @@
       "action": "不买",
       "generatedAt": "2026-07-02T00:18:48.121Z",
       "latestPath": "data/results/KIRBY-latest.json"
-    },
-    {
-      "token": "SPYX",
-      "requestedInput": "SP500",
-      "name": "SP500",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T00:18:51.320Z",
-      "latestPath": "data/results/SPYX-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T00:18:48.779Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "AVAVE",
-      "requestedInput": "AVAV",
-      "name": "AVAVE",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T00:18:49.777Z",
-      "latestPath": "data/results/AVAVE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 25,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-02T00:18:56.107Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "CETUS",
@@ -980,26 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T21:59:22.777Z",
       "latestPath": "data/results/TAC-latest.json"
-    },
-    {
-      "token": "ACT",
-      "requestedInput": "ACT",
-      "name": "ACT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:49:06.981Z",
-      "latestPath": "data/results/ACT-latest.json"
-    },
-    {
-      "token": "COOK",
-      "requestedInput": "COOKIE",
-      "name": "Cookie",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:49:02.932Z",
-      "latestPath": "data/results/COOK-latest.json"
     }
   ]
 }
