@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-07-01T23:48:30.383Z",
+  "updatedAt": "2026-07-02T00:04:35.590Z",
   "results": [
+    {
+      "token": "CETUS",
+      "requestedInput": "CETUS",
+      "name": "Cetus Protocol",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:04:18.282Z",
+      "latestPath": "data/results/CETUS-latest.json"
+    },
+    {
+      "token": "TRUST",
+      "requestedInput": "TRUST",
+      "name": "Trust",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:04:21.611Z",
+      "latestPath": "data/results/TRUST-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:04:16.164Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "AMD",
+      "requestedInput": "AMD",
+      "name": "AMD",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:04:18.972Z",
+      "latestPath": "data/results/AMD-latest.json"
+    },
+    {
+      "token": "CBRS",
+      "requestedInput": "CBRS",
+      "name": "Cerebras",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:04:28.220Z",
+      "latestPath": "data/results/CBRS-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:04:25.553Z",
+      "latestPath": "data/results/KIRBY-latest.json"
+    },
+    {
+      "token": "ASTS",
+      "requestedInput": "ASTS",
+      "name": "AST SpaceMobile Inc (Derivatives)",
+      "score": 0,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:04:26.515Z",
+      "latestPath": "data/results/ASTS-latest.json"
+    },
+    {
+      "token": "SPYX",
+      "requestedInput": "SP500",
+      "name": "SP500",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:04:29.180Z",
+      "latestPath": "data/results/SPYX-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:04:30.623Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "AVAVE",
+      "requestedInput": "AVAV",
+      "name": "AVAVE",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:04:31.429Z",
+      "latestPath": "data/results/AVAVE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:04:35.588Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "FARTCOIN",
       "requestedInput": "FARTCOIN",
@@ -32,56 +142,6 @@
       "latestPath": "data/results/PROM-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T23:48:14.347Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T23:48:20.625Z",
-      "latestPath": "data/results/KIRBY-latest.json"
-    },
-    {
-      "token": "SPYX",
-      "requestedInput": "SP500",
-      "name": "SP500",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T23:48:23.982Z",
-      "latestPath": "data/results/SPYX-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T23:48:20.787Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "AVAVE",
-      "requestedInput": "AVAV",
-      "name": "AVAVE",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T23:48:23.492Z",
-      "latestPath": "data/results/AVAVE-latest.json"
-    },
-    {
       "token": "ADBE",
       "requestedInput": "ADBE",
       "name": "Adobe Inc (Derivatives)",
@@ -90,16 +150,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T23:48:27.738Z",
       "latestPath": "data/results/ADBE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T23:48:30.381Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "SLP",
@@ -950,56 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T21:49:12.832Z",
       "latestPath": "data/results/UAI-latest.json"
-    },
-    {
-      "token": "SPY",
-      "requestedInput": "SPY",
-      "name": "Smarty Pay",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:49:15.880Z",
-      "latestPath": "data/results/SPY-latest.json"
-    },
-    {
-      "token": "RKLB",
-      "requestedInput": "RKLB",
-      "name": "RKLB",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:49:18.795Z",
-      "latestPath": "data/results/RKLB-latest.json"
-    },
-    {
-      "token": "AXS",
-      "requestedInput": "AXS",
-      "name": "Axie Infinity",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T21:34:06.773Z",
-      "latestPath": "data/results/AXS-latest.json"
-    },
-    {
-      "token": "BSV",
-      "requestedInput": "BSV",
-      "name": "Bitcoin SV",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:34:00.601Z",
-      "latestPath": "data/results/BSV-latest.json"
-    },
-    {
-      "token": "TUT",
-      "requestedInput": "TUT",
-      "name": "TUT",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:34:01.579Z",
-      "latestPath": "data/results/TUT-latest.json"
     }
   ]
 }
