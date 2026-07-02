@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-02T01:04:41.982Z",
+  "updatedAt": "2026-07-02T01:18:25.722Z",
   "results": [
+    {
+      "token": "KMNO",
+      "requestedInput": "KMNO",
+      "name": "Kamino",
+      "score": 40,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-02T01:18:13.245Z",
+      "latestPath": "data/results/KMNO-latest.json"
+    },
+    {
+      "token": "BAN",
+      "requestedInput": "BAN",
+      "name": "Comedian",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:18:13.357Z",
+      "latestPath": "data/results/BAN-latest.json"
+    },
     {
       "token": "COOK",
       "requestedInput": "COOKIE",
@@ -8,8 +28,78 @@
       "score": 10,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-02T01:04:34.442Z",
+      "generatedAt": "2026-07-02T01:18:11.823Z",
       "latestPath": "data/results/COOK-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:18:10.639Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "CRDO",
+      "requestedInput": "CRDO",
+      "name": "Credo Technology Group Holding Ltd Ordinary Shares",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:18:18.940Z",
+      "latestPath": "data/results/CRDO-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:18:18.198Z",
+      "latestPath": "data/results/KIRBY-latest.json"
+    },
+    {
+      "token": "SPYX",
+      "requestedInput": "SP500",
+      "name": "SP500",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:18:21.316Z",
+      "latestPath": "data/results/SPYX-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:18:18.315Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "AVAVE",
+      "requestedInput": "AVAV",
+      "name": "AVAVE",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:18:23.880Z",
+      "latestPath": "data/results/AVAVE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:18:25.721Z",
+      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "SYRUP",
@@ -22,16 +112,6 @@
       "latestPath": "data/results/SYRUP-latest.json"
     },
     {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-02T01:04:27.681Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
       "token": "RKLB",
       "requestedInput": "RKLB",
       "name": "RKLB",
@@ -40,56 +120,6 @@
       "action": "不买",
       "generatedAt": "2026-07-02T01:04:28.089Z",
       "latestPath": "data/results/RKLB-latest.json"
-    },
-    {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T01:04:34.225Z",
-      "latestPath": "data/results/KIRBY-latest.json"
-    },
-    {
-      "token": "SPYX",
-      "requestedInput": "SP500",
-      "name": "SP500",
-      "score": 10,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T01:04:36.763Z",
-      "latestPath": "data/results/SPYX-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T01:04:34.406Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "AVAVE",
-      "requestedInput": "AVAV",
-      "name": "AVAVE",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T01:04:41.286Z",
-      "latestPath": "data/results/AVAVE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T01:04:41.980Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "TAC",
@@ -970,36 +1000,6 @@
       "action": "不买",
       "generatedAt": "2026-07-01T21:59:04.830Z",
       "latestPath": "data/results/1000SATS-latest.json"
-    },
-    {
-      "token": "WIF",
-      "requestedInput": "WIF",
-      "name": "WIF",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:59:04.378Z",
-      "latestPath": "data/results/WIF-latest.json"
-    },
-    {
-      "token": "CAKE",
-      "requestedInput": "CAKE",
-      "name": "PancakeSwap",
-      "score": 30,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:59:03.200Z",
-      "latestPath": "data/results/CAKE-latest.json"
-    },
-    {
-      "token": "G",
-      "requestedInput": "G",
-      "name": "Gravity (原Galxe)",
-      "score": 30,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T21:59:11.800Z",
-      "latestPath": "data/results/G-latest.json"
     }
   ]
 }
