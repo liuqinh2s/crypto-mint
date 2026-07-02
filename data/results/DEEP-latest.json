@@ -1,0 +1,339 @@
+{
+  "token": "DEEP",
+  "requestedInput": "DEEP",
+  "exchange": "other",
+  "generatedAt": "2026-07-02T01:34:21.069Z",
+  "analysisStatus": "deepseek",
+  "analysis": {
+    "token": "DEEP",
+    "name": "DeepBook",
+    "generatedAt": "2026-07-02T01:34:08.616Z",
+    "summary": "DEEP 是 Sui 生态的原生订单簿流动性层，近期因 Coinbase 现货上市、Grayscale 信托推出及 Sui 生态增长而上涨。但代币全稀释估值较高，流通量仅 25%，且价格从高点下跌超 95%，短期反弹空间有限，风险较大。",
+    "rating": {
+      "score": 35,
+      "label": "观望",
+      "confidence": "中"
+    },
+    "recommendation": {
+      "action": "观察",
+      "expectedUpsidePct": null,
+      "holdingPeriod": null,
+      "invalidation": "若价格跌破 0.015 美元或 Sui 生态活跃度下降，则上涨逻辑失效。"
+    },
+    "catalysts": [
+      "Coinbase 现货上市（2026年2月）",
+      "Grayscale 推出 DEEP 信托基金（2025年8月）",
+      "Sui 生态持续发展，DeepBook 作为核心基础设施受益",
+      "DeepBook 推出保证金交易功能（2026年1月）",
+      "Sui Wallet 集成 DeepBook 积分计划（2026年1月）"
+    ],
+    "latestNews": [
+      {
+        "title": "Strategic Coinbase Listing Unveils RAVE, DEEP, and WAL Tokens for Spot Trading on February 11",
+        "impact": "利好",
+        "reason": "Coinbase 上市增加流动性和曝光度，是近期价格上涨的主要驱动。"
+      },
+      {
+        "title": "SUI News: Grayscale Investment Trusts for DEEP and WAL",
+        "impact": "利好",
+        "reason": "Grayscale 信托为机构投资者提供合规敞口，提升代币可信度。"
+      },
+      {
+        "title": "DeepBook Protocol Unleashes Revolutionary Margin Trading Feature on Sui Network",
+        "impact": "利好",
+        "reason": "新功能增加协议实用性和用户粘性，可能吸引更多交易量。"
+      },
+      {
+        "title": "Sui Wallet Unveils Revolutionary DeepBook Point Program Integration for Enhanced User Rewards",
+        "impact": "利好",
+        "reason": "积分计划激励用户参与，促进生态活跃。"
+      },
+      {
+        "title": "DeepBook Airdrop Guide: On-Chain Order Book, $DEEP Rewards & Sui Liquidity",
+        "impact": "中性",
+        "reason": "空投活动可能增加短期抛压，但也能吸引新用户。"
+      }
+    ],
+    "fundamentals": [
+      "DeepBook 是 Sui 生态的原生订单簿 DEX，提供高效、抗审查的流动性。",
+      "代币总供应量 100 亿，流通量 25 亿（25%），全稀释市值约 1.66 亿美元。",
+      "已与 Sui 上主要 DEX 和聚合器集成，是 Sui DeFi 基础设施的关键组件。",
+      "近期推出保证金交易和积分计划，持续扩展功能。",
+      "Grayscale 和 Coinbase 的认可提升了项目信誉。"
+    ],
+    "marketRead": [
+      "24小时涨幅 9.4%，7日涨幅 11.9%，但 30 日跌幅 40.4%，显示长期下行趋势。",
+      "当前价格 0.0166 美元，较历史高点 0.341 美元下跌 95%，处于低位。",
+      "DEX 流动性仅 11 万美元，交易量 22 万美元，流动性较差，大额交易易滑点。",
+      "全稀释市值 1.66 亿美元，相对流通市值 4150 万美元，未来解锁压力大。"
+    ],
+    "risks": [
+      "代币解锁风险：总供应量 100 亿，仅 25% 流通，未来大量解锁可能打压价格。",
+      "流动性风险：DEX 流动性低，价格易被操纵，大额卖出可能导致暴跌。",
+      "竞争风险：Sui 生态内其他 DEX 或跨链订单簿可能抢占份额。",
+      "市场情绪风险：30 日跌幅大，短期反弹可能仅是超跌修复，持续性存疑。",
+      "监管风险：尽管有 Coinbase 和 Grayscale 背书，但代币仍可能面临监管不确定性。"
+    ],
+    "watchlist": [
+      "Sui 生态 TVL 和活跃度变化",
+      "DEEP 代币解锁时间表及实际流通量变化",
+      "Coinbase 和 Grayscale 相关动态",
+      "DEX 流动性和交易量是否持续增长",
+      "价格能否站稳 0.02 美元以上"
+    ],
+    "sourceNotes": [
+      "数据来源：CoinGecko、DexScreener、Google News。",
+      "新闻时间跨度较大，部分利好已消化，需关注最新进展。",
+      "DEX 流动性数据仅代表 Bluefin 交易对，可能不反映整体市场。"
+    ]
+  },
+  "profile": {
+    "id": "deep",
+    "symbol": "DEEP",
+    "name": "DeepBook",
+    "categories": [
+      "Infrastructure",
+      "Decentralized Finance (DeFi)",
+      "Sui Ecosystem"
+    ],
+    "homepage": [
+      "https://deepbook.tech/"
+    ],
+    "description": "DeepBook was built from the ground up to power the Sui ecosystem with unparalleled liquidity. From its inception, it has provided developers with reliable, composable on-chain applications, and enabled market makers and liquidity pools to operate seamlessly within the blockchain world. As a community-driven public good, DeepBook has integrated with top DEXs and aggregators since Sui's mainnet launch, enhancing dApps with efficient, censorship-free liquidity. This synergy of orderbook efficiency and blockchain transparency positions DeepBook as the premier liquidity venue in web3. ",
+    "marketCapRank": 498,
+    "currentPriceUsd": 0.01660938,
+    "marketCapUsd": 41522303,
+    "fullyDilutedValuationUsd": 166089213,
+    "totalVolumeUsd": 5038708,
+    "priceChange24hPct": 9.3953,
+    "priceChange7dPct": 11.86683,
+    "priceChange14dPct": -4.37615,
+    "priceChange30dPct": -40.36086,
+    "athUsd": 0.341085,
+    "athChangePct": -95.17171,
+    "circulatingSupply": 2500000000,
+    "totalSupply": 10000000000,
+    "maxSupply": 10000000000,
+    "sentimentVotesUpPct": 66.67,
+    "watchlistUsers": 16034,
+    "genesisDate": null
+  },
+  "market": {
+    "exchange": "bluefin",
+    "pair": "DEEP/SUI",
+    "chainId": "sui",
+    "dexId": "bluefin",
+    "pairAddress": "0x7242459a663c4e59434252ceb27c228f6b1f21f2ba506f3b62d71b19a7421cc1",
+    "pairUrl": "https://dexscreener.com/sui/0x7242459a663c4e59434252ceb27c228f6b1f21f2ba506f3b62d71b19a7421cc1",
+    "lastPrice": 0.01661,
+    "priceChange24hPct": 9.18,
+    "highPrice24h": null,
+    "lowPrice24h": null,
+    "volumeBase24h": null,
+    "volumeQuote24h": 220497.55,
+    "liquidityUsd": 110595.18,
+    "fullyDilutedValuationUsd": 165659992,
+    "marketCapUsd": 41535698,
+    "thirtyDayChangePct": null,
+    "dailyCandles": []
+  },
+  "dexPair": {
+    "chainId": "sui",
+    "dexId": "bluefin",
+    "url": "https://dexscreener.com/sui/0x7242459a663c4e59434252ceb27c228f6b1f21f2ba506f3b62d71b19a7421cc1",
+    "pairAddress": "0x7242459a663c4e59434252ceb27c228f6b1f21f2ba506f3b62d71b19a7421cc1",
+    "baseToken": {
+      "address": "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP",
+      "name": "DEEP",
+      "symbol": "DEEP"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+      "name": "Sui",
+      "symbol": "SUI"
+    },
+    "priceNative": "0.02301",
+    "priceUsd": "0.01661",
+    "txns": {
+      "m5": {
+        "buys": 3,
+        "sells": 3
+      },
+      "h1": {
+        "buys": 135,
+        "sells": 142
+      },
+      "h6": {
+        "buys": 291,
+        "sells": 508
+      },
+      "h24": {
+        "buys": 823,
+        "sells": 1325
+      }
+    },
+    "volume": {
+      "h24": 220497.55,
+      "h6": 119502.13,
+      "h1": 43415.7,
+      "m5": 1888.62
+    },
+    "priceChange": {
+      "m5": 0.31,
+      "h1": 2.75,
+      "h6": 5,
+      "h24": 9.18
+    },
+    "liquidity": {
+      "usd": 110595.18,
+      "base": 3756469,
+      "quote": 66755
+    },
+    "fdv": 165659992,
+    "marketCap": 41535698,
+    "pairCreatedAt": 1753227552000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/dd366d0b06b0ead89b10f6ca5f9b1876a3f736855be9e3a8d520d2b6629bd388?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/d450cdc2b04f4876cd7a458909aca287a7f623e6b9416bfdcc5ef76325bbf079?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/sui/0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::deep?timestamp=1782956100000",
+      "websites": [
+        {
+          "url": "https://deepbook.tech/",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/DeepBookonSui",
+          "type": "twitter"
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "title": "DeepBook Price, DEEP Price, Live Charts, and Marketcap - Coinbase",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wajNzbXlVc0lZN1lMSm9CMzY0Wnd1WmxvLW1YV3FwLWdKR0w2WlcyMENma1prcjhvRUg3OGFrdVhrbG5YcUlrQWJvU1l5aWM0eFdrMnZB?oc=5",
+      "source": "Coinbase",
+      "publishedAt": "Mon, 02 Feb 2026 23:46:15 GMT",
+      "snippet": "DeepBook Price, DEEP Price, Live Charts, and Marketcap&nbsp;&nbsp;Coinbase"
+    },
+    {
+      "title": "DeepBook Protocol Price Prediction 2026, 2027 – 2030: Is DEEP a Good Investment? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUVSbV9ONWwzUDBsSzNYV01hMkJkRjVDel9FMWZHelNaUnNuNUlucEtZVndVQmNzWHMyQ0hqOVR3LXI1aEMyMGRqY1AyMHRUOUdUcGU5SURLdDNXVlV0MGVRd0JqazktZF9tdEpkYUxQOWl1SDlZdklrZ192S3dHaFZqem9uQdIBiwFBVV95cUxNUWFHa3BxNGE5OEY1TDh6YnpyN2dmeV85cWZqYlJHUThDZ0J3MjVMY0RaZ1BFQVlJczJZb0tSVDcyWmJzZVZVRlBmVlpNa1piMlppdWlfcnkzVXdPSHR4QTNZR216N3lsYlhFei0tdUNDdGtrZDFIZy1iSUFPbDExVXV6UDJZNjlLOFRB?oc=5",
+      "source": "Coinpedia",
+      "publishedAt": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "snippet": "DeepBook Protocol Price Prediction 2026, 2027 – 2030: Is DEEP a Good Investment?&nbsp;&nbsp;Coinpedia"
+    },
+    {
+      "title": "DeepBook Protocol Price Today in India | DEEP to INR Live Price & Chart - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DbnR4MzdpVHZsNWpUMmVXNzRyb1N0cy1vNjhxWlQxRVEtYmNTRFRDSEVWYlpZVERDS0JYZllvM0hLdVg4azVMWmV2NWV3QWpSUHJINFluTWxDTjh4ZW9KWldRMA?oc=5",
+      "source": "Binance",
+      "publishedAt": "Fri, 26 Jun 2026 15:54:00 GMT",
+      "snippet": "DeepBook Protocol Price Today in India | DEEP to INR Live Price & Chart&nbsp;&nbsp;Binance"
+    },
+    {
+      "title": "Strategic Coinbase Listing Unveils RAVE, DEEP, and WAL Tokens for Spot Trading on February 11 - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlUHdtWVdFR0NnSzBxOTdocUV3Y1RBT2M5RG9tNmxVTUE3UE1EYXB4R3Q5YlJySE9nSWQ2eXZiT2U2S05Hekd2X21IdjBNTUVvUE90ajBQSVlvOUdNWHhMa09QaGp5WHdUR3NSQmV3WVNCTzVBWnZZ?oc=5",
+      "source": "CryptoRank",
+      "publishedAt": "Tue, 10 Feb 2026 18:33:01 GMT",
+      "snippet": "Strategic Coinbase Listing Unveils RAVE, DEEP, and WAL Tokens for Spot Trading on February 11&nbsp;&nbsp;CryptoRank"
+    },
+    {
+      "title": "DeepBook Price: DEEP/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HVGh4eGtBbWVSRnV0a0NQN3FkNm1acnB3SVhWeS1DX1dmc0pNelBzOVRha0h3Q1I0RHU4OVk0aWxWRjFicHRsZEk4VnJNZ2ZQM1lTVE5B?oc=5",
+      "source": "CoinGecko",
+      "publishedAt": "Fri, 11 Oct 2024 02:19:47 GMT",
+      "snippet": "DeepBook Price: DEEP/USD Live Price Chart, Market Cap & News Today&nbsp;&nbsp;CoinGecko"
+    },
+    {
+      "title": "DeepBook Protocol price today, DEEP to USD live price, marketcap and chart - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KbHdDZm9nRlNyYjdYeFhqSWx3Q1pmM2ZEX0l5dGMxbjh3ZHByTmlGNFNwbEhsd0NuWnJXY3o2RjAzUk5ic0R4Q0ZPZ3YycU5qMFJvN1BIMGxWMV9UbEhJS05manpPQQ?oc=5",
+      "source": "CoinMarketCap",
+      "publishedAt": "Mon, 14 Oct 2024 07:00:00 GMT",
+      "snippet": "DeepBook Protocol price today, DEEP to USD live price, marketcap and chart&nbsp;&nbsp;CoinMarketCap"
+    },
+    {
+      "title": "DeepBook (DEEP) Price Today, News & Live Chart | Forbes Crypto Market Data - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wN0l6QkJMVlZGcU9GaHdiLXdnRmdrZExvdHUwd1pId21sSVRXMW0zVFVCOFRxWGFtWS1RcllXYlpCcVVhMlppcktWYkZCNklfV0RqSkI3RU1TU2dZRTlyYlNheFBCWUh3VFhJ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Mon, 14 Oct 2024 12:02:19 GMT",
+      "snippet": "DeepBook (DEEP) Price Today, News & Live Chart | Forbes Crypto Market Data&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "DeepBook Protocol Price Prediction 2025: DEEP May Test New All-Time Highs - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY18wZXdZUDhyUS11RDdCUkQtREpNMndrRE9LN2F2WkpkaEx1ek9TNHZGUzlHbXV0dnJJTXROeXd1X0k4VWtHbGU0N2xCVkc2Y3Q4dFdWVGJRWTBwcUdadGp3N05pWnpfSng0TjZ3ZEJNNGFWTE9RaF9jY01lRUdOYkNB?oc=5",
+      "source": "CCN.com",
+      "publishedAt": "Wed, 23 Apr 2025 07:00:00 GMT",
+      "snippet": "DeepBook Protocol Price Prediction 2025: DEEP May Test New All-Time Highs&nbsp;&nbsp;CCN.com"
+    },
+    {
+      "title": "DEEP Price Prediction 2025-35: Will It Hit $15 by 2035? - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00Rk1JTEVjVEEwMWNKV21iYmhPSUdPWXJELVprazlnNnJRbFpMUXZkd2hQN1FPSVREZzBzUjRGZDBEek9oVEhJdXVVVDBZaXN1WGVFc1J6REVWRTQ3WEE?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Mon, 05 May 2025 07:00:00 GMT",
+      "snippet": "DEEP Price Prediction 2025-35: Will It Hit $15 by 2035?&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "DeepBook (DEEP): The Native Liquidity Layer for Apps on Sui - Bybit Learn",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02TFNoODZLdlRMd3Fib2lhSGdGa0NXWnpNY0NOakF4NHNmNzAtQzI5UlpsV2U2bHA3WWpOWi1wZlh5U3NnQy1LMklEYWxxcklVcmxSUkJZMTlLMmYzMnM5WEFXaw?oc=5",
+      "source": "Bybit Learn",
+      "publishedAt": "Wed, 23 Oct 2024 07:00:00 GMT",
+      "snippet": "DeepBook (DEEP): The Native Liquidity Layer for Apps on Sui&nbsp;&nbsp;Bybit Learn"
+    },
+    {
+      "title": "DeepBook Protocol Price USD, DEEP Price Live Charts, Market Cap & News - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mNlhlTWYzYlpycklxTl9vLTlHNkxvRzFZTzZZS2phdEtORVhoQ2huYklvOXVrekNsVTd3TDU0SGk3V1JiamdUMkw3RzUwY3FkSnkta0Q3bzVsZw?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 24 Apr 2025 10:10:32 GMT",
+      "snippet": "DeepBook Protocol Price USD, DEEP Price Live Charts, Market Cap & News&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "DeepBook Airdrop Guide: On-Chain Order Book, $DEEP Rewards & Sui Liquidity - UseTheBitcoin",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10QjB4WnVWci1TNmp1RzhaSnMzTHJZSXE0Slk2ekNLQm5zLWt2bVNkVG9UaUxIeTJkRmRibVNuU3YyclNRcVhUSXVxeW5hT1hxeDhqdHBkQ1o4Z24wSlBCYUlvY3NPR2tq?oc=5",
+      "source": "UseTheBitcoin",
+      "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "snippet": "DeepBook Airdrop Guide: On-Chain Order Book, $DEEP Rewards & Sui Liquidity&nbsp;&nbsp;UseTheBitcoin"
+    },
+    {
+      "title": "What Is Somnia (SOMI)? A Deep Dive into the Metaverse Blockchain - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNME84Y3Foa3BmZ3R2QUVyQi1pVGlYNG56TVAzODVHVjg0ZGswQTVJVkFHWkRmNDU0MVMtMUx3Rmp5UnlKREdRT09QQXVkV21hbGh6U2YxX1dkaXg1Nm8xcmFQb04tOFNXZVZUMnVHU0Qtd1p3SG9IMmVGN2d3OTQxbF92d0ZIZnJfaEpKRFp2M0lLLW9Mek1XQ3A1dXhndHM?oc=5",
+      "source": "MEXC",
+      "publishedAt": "Sat, 13 Sep 2025 07:00:00 GMT",
+      "snippet": "What Is Somnia (SOMI)? A Deep Dive into the Metaverse Blockchain&nbsp;&nbsp;MEXC"
+    },
+    {
+      "title": "Sui Wallet Unveils Revolutionary DeepBook Point Program Integration for Enhanced User Rewards - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52U3Q1SThrOTRfSXgzMjlGS3lOMVdxR1VBNWlBMFpwOUNnZW5mTFRzd0Z5ajhteUYwWjdHTTJHeW1LWWppRnBnUkhRQWxEYm1HSVdVRDRLbDNnbUxyWEHSAWNBVV95cUxNbXprNXZzc1hIcFdUNTlnWlVielBpSExUYUxjdXJfenJUQ1hvZ1pNRW43TWJIdDJ4UzRORTk3ZHRvYzdyUUh6X0lEVVdjN3RXOUxfR0ZZR2RfNEFnaDFJaXhoOEk?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "snippet": "Sui Wallet Unveils Revolutionary DeepBook Point Program Integration for Enhanced User Rewards&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "DeepBook Protocol Unleashes Revolutionary Margin Trading Feature on Sui Network - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QQ3ZfWU5ON0FkWVVGRmVUTlh2V05IOFpxQmdhSHRWczFWMWZNazE1R1o3STJUM3VQWWk0YkFOVzEwdHB4TVNOdFMyb2RxSTlyZk5lLXQxTEZ1eWpGaHfSAWNBVV95cUxNYmV6RFZwTmFVcDE1ZDJpWFI4R3otWWpBcERyekF2bUdBdnB5TnU2WldZV3htcF8yZVpRXzczTUJucC1KdW5FQVQ3bmJFdFo5TkVHdDAteERNaUFJTDlKMVBIa28?oc=5",
+      "source": "Bitget",
+      "publishedAt": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "snippet": "DeepBook Protocol Unleashes Revolutionary Margin Trading Feature on Sui Network&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "SUI News: Grayscale Investment Trusts for DEEP and WAL - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHVORGh4cDMyejVpRlA5N3lUN0FGelVSYlNUWmFHdDNMbnBhUEZXMkVkVEhmbWtpTDNSRENrNV93NlI0dGh0TnFXTTlaU3VGc1R3Y0doUXJUb1JhN21WTHZxRjBib2psd3VmQVNzejdsbHFjWlREV2RWUUZtd3Qyc09RcUdzdW81Q3pXZ2d0SkRWZjlmeXljX3lmNFBEY1BGT1FUdnMwQTdMR2NDR3c?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "Tue, 12 Aug 2025 07:00:00 GMT",
+      "snippet": "SUI News: Grayscale Investment Trusts for DEEP and WAL&nbsp;&nbsp;CoinDesk"
+    }
+  ],
+  "sources": {
+    "coingeckoSearch": "https://api.coingecko.com/api/v3/search",
+    "coingeckoCoins": "https://api.coingecko.com/api/v3/coins",
+    "binance24h": "https://api.binance.com/api/v3/ticker/24hr",
+    "binanceKlines": "https://api.binance.com/api/v3/klines",
+    "bitgetSpotTicker": "https://api.bitget.com/api/v2/spot/market/tickers",
+    "bitgetSpotCandles": "https://api.bitget.com/api/v2/spot/market/candles",
+    "dexscreenerSearch": "https://api.dexscreener.com/latest/dex/search",
+    "googleNewsRss": "https://news.google.com/rss/search",
+    "deepseek": "https://api.deepseek.com/chat/completions"
+  },
+  "errors": []
+}
