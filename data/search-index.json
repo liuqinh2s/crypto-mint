@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-07-02T00:49:25.757Z",
+  "updatedAt": "2026-07-02T01:04:41.982Z",
   "results": [
+    {
+      "token": "COOK",
+      "requestedInput": "COOKIE",
+      "name": "Cookie",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:04:34.442Z",
+      "latestPath": "data/results/COOK-latest.json"
+    },
+    {
+      "token": "SYRUP",
+      "requestedInput": "SYRUP",
+      "name": "Maple Finance",
+      "score": 55,
+      "label": "谨慎试仓",
+      "action": "小仓试错",
+      "generatedAt": "2026-07-02T01:04:29.235Z",
+      "latestPath": "data/results/SYRUP-latest.json"
+    },
+    {
+      "token": "",
+      "requestedInput": "龙虾",
+      "name": "龙虾",
+      "score": 30,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-02T01:04:27.681Z",
+      "latestPath": "data/results/-latest.json"
+    },
+    {
+      "token": "RKLB",
+      "requestedInput": "RKLB",
+      "name": "RKLB",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:04:28.089Z",
+      "latestPath": "data/results/RKLB-latest.json"
+    },
+    {
+      "token": "KIRBY",
+      "requestedInput": "OUST",
+      "name": "New Baby Elephant Houston Zoo",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:04:34.225Z",
+      "latestPath": "data/results/KIRBY-latest.json"
+    },
+    {
+      "token": "SPYX",
+      "requestedInput": "SP500",
+      "name": "SP500",
+      "score": 10,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:04:36.763Z",
+      "latestPath": "data/results/SPYX-latest.json"
+    },
+    {
+      "token": "HYPE",
+      "requestedInput": "DFEN",
+      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:04:34.406Z",
+      "latestPath": "data/results/HYPE-latest.json"
+    },
+    {
+      "token": "AVAVE",
+      "requestedInput": "AVAV",
+      "name": "AVAVE",
+      "score": 5,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:04:41.286Z",
+      "latestPath": "data/results/AVAVE-latest.json"
+    },
+    {
+      "token": "TOKABU",
+      "requestedInput": "SPIR",
+      "name": "The Spirit of Gambling",
+      "score": 15,
+      "label": "强烈回避",
+      "action": "不买",
+      "generatedAt": "2026-07-02T01:04:41.980Z",
+      "latestPath": "data/results/TOKABU-latest.json"
+    },
     {
       "token": "TAC",
       "requestedInput": "TAC",
@@ -30,66 +120,6 @@
       "action": "小仓试错",
       "generatedAt": "2026-07-02T00:49:12.063Z",
       "latestPath": "data/results/ESP-latest.json"
-    },
-    {
-      "token": "",
-      "requestedInput": "龙虾",
-      "name": "龙虾",
-      "score": 15,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T00:49:11.269Z",
-      "latestPath": "data/results/-latest.json"
-    },
-    {
-      "token": "KIRBY",
-      "requestedInput": "OUST",
-      "name": "New Baby Elephant Houston Zoo",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T00:49:17.627Z",
-      "latestPath": "data/results/KIRBY-latest.json"
-    },
-    {
-      "token": "SPYX",
-      "requestedInput": "SP500",
-      "name": "SP500",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T00:49:19.158Z",
-      "latestPath": "data/results/SPYX-latest.json"
-    },
-    {
-      "token": "HYPE",
-      "requestedInput": "DFEN",
-      "name": "HarryPotterHyperMarioLiquidFentSpectrumJeff47i",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T00:49:17.834Z",
-      "latestPath": "data/results/HYPE-latest.json"
-    },
-    {
-      "token": "AVAVE",
-      "requestedInput": "AVAV",
-      "name": "AVAVE",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T00:49:19.890Z",
-      "latestPath": "data/results/AVAVE-latest.json"
-    },
-    {
-      "token": "TOKABU",
-      "requestedInput": "SPIR",
-      "name": "The Spirit of Gambling",
-      "score": 25,
-      "label": "观望",
-      "action": "不买",
-      "generatedAt": "2026-07-02T00:49:25.756Z",
-      "latestPath": "data/results/TOKABU-latest.json"
     },
     {
       "token": "B",
@@ -970,36 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T21:59:11.800Z",
       "latestPath": "data/results/G-latest.json"
-    },
-    {
-      "token": "KMNO",
-      "requestedInput": "KMNO",
-      "name": "Kamino",
-      "score": 35,
-      "label": "观望",
-      "action": "观察",
-      "generatedAt": "2026-07-01T21:59:13.400Z",
-      "latestPath": "data/results/KMNO-latest.json"
-    },
-    {
-      "token": "DRIFT",
-      "requestedInput": "DRIFT",
-      "name": "Drift Protocol",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:59:14.240Z",
-      "latestPath": "data/results/DRIFT-latest.json"
-    },
-    {
-      "token": "BAN",
-      "requestedInput": "BAN",
-      "name": "Comedian",
-      "score": 20,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:59:15.129Z",
-      "latestPath": "data/results/BAN-latest.json"
     }
   ]
 }
