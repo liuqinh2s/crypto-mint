@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-07-02T00:23:14.109Z",
+  "updatedAt": "2026-07-02T00:33:35.853Z",
   "results": [
     {
-      "token": "UAI",
-      "requestedInput": "UAI",
-      "name": "UnifAI Network",
-      "score": 25,
-      "label": "观望",
+      "token": "B",
+      "requestedInput": "B",
+      "name": "unknown",
+      "score": 0,
+      "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-02T00:23:06.693Z",
-      "latestPath": "data/results/UAI-latest.json"
+      "generatedAt": "2026-07-02T00:33:25.717Z",
+      "latestPath": "data/results/B-latest.json"
     },
     {
       "token": "",
       "requestedInput": "龙虾",
       "name": "龙虾",
-      "score": 15,
+      "score": 20,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-02T00:23:04.290Z",
+      "generatedAt": "2026-07-02T00:33:27.541Z",
       "latestPath": "data/results/-latest.json"
     },
     {
@@ -28,17 +28,17 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-02T00:23:03.840Z",
+      "generatedAt": "2026-07-02T00:33:26.870Z",
       "latestPath": "data/results/HOU-latest.json"
     },
     {
       "token": "SPYX",
       "requestedInput": "SP500",
-      "name": "SP500",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-02T00:23:05.278Z",
+      "name": "SP500 xStock",
+      "score": 45,
+      "label": "观望",
+      "action": "观察",
+      "generatedAt": "2026-07-02T00:33:32.150Z",
       "latestPath": "data/results/SPYX-latest.json"
     },
     {
@@ -48,7 +48,7 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-02T00:23:11.243Z",
+      "generatedAt": "2026-07-02T00:33:30.921Z",
       "latestPath": "data/results/HYPE-latest.json"
     },
     {
@@ -58,18 +58,28 @@
       "score": 5,
       "label": "强烈回避",
       "action": "不买",
-      "generatedAt": "2026-07-02T00:23:12.367Z",
+      "generatedAt": "2026-07-02T00:33:32.247Z",
       "latestPath": "data/results/AVAVE-latest.json"
     },
     {
       "token": "TOKABU",
       "requestedInput": "SPIR",
       "name": "The Spirit of Gambling",
-      "score": 15,
-      "label": "强烈回避",
+      "score": 25,
+      "label": "观望",
       "action": "不买",
-      "generatedAt": "2026-07-02T00:23:14.107Z",
+      "generatedAt": "2026-07-02T00:33:35.852Z",
       "latestPath": "data/results/TOKABU-latest.json"
+    },
+    {
+      "token": "UAI",
+      "requestedInput": "UAI",
+      "name": "UnifAI Network",
+      "score": 25,
+      "label": "观望",
+      "action": "不买",
+      "generatedAt": "2026-07-02T00:23:06.693Z",
+      "latestPath": "data/results/UAI-latest.json"
     },
     {
       "token": "BSV",
@@ -990,16 +1000,6 @@
       "action": "观察",
       "generatedAt": "2026-07-01T21:59:22.671Z",
       "latestPath": "data/results/SYRUP-latest.json"
-    },
-    {
-      "token": "TAC",
-      "requestedInput": "TAC",
-      "name": "TAC",
-      "score": 5,
-      "label": "强烈回避",
-      "action": "不买",
-      "generatedAt": "2026-07-01T21:59:22.777Z",
-      "latestPath": "data/results/TAC-latest.json"
     }
   ]
 }
